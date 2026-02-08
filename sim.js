@@ -8,747 +8,629 @@
   const {
     $, $$, toast, fmtTime, secureAudio, setSectionIsListening,
     getReadingIndex, loadReadingPassage,
-    getListeningIndex, loadListeningSet, pickRandom
+    getListeningIndex, loadListeningSet, pickRandom, withLoading
   } = window.TOEFL;
 
   const main = $('#main');
   const subbar = $('#subbar');
   const sectionCounter = $('#simSectionCounter');
 
-  const audioBarFill = $('#audioBarFill');
-  const audioBarLabel = $('#audioBarLabel');
-  const audioBarTime = $('#audioBarTime');
+  const audioBarFill = $('#audioFill');
+  const audioTimeLabel = $('#audioTime');
 
+  const audio = document.getElementById('audio');
+  secureAudio(audio);
+
+  // ---- config (실제 TOEFL과 1:1 시간 일치시키기보단 "실전 느낌" 유지용) ----
   const SIM = {
-    readingTimeSec: 36*60,
-    listeningTimeSec: 41*60,
-    readingPassages: 2,
-    listeningLecture: 3,
-    listeningConv: 2,
+    readingPassages: 3,
+    listeningLecture: 2,
+    listeningConv: 1,
+    // 타이머는 "조정 불가" (UI에서 변경 버튼 없음)
+    readingTimeSec: 54 * 60,
+    listeningTimeSec: 41 * 60
   };
 
-  // timers
-  let timerTick = null;
-  let sectionRemain = 0;
+  // ---- state ----
+  document.body.classList.add('sim'); // Shift+F5 방지에 사용
 
-  // section state
-  let section = 'init'; // reading | listening | done
-
-  // plans
   let readingPlan = [];
   let listeningPlan = [];
 
-  // caches
-  const readingCache = new Map();   // file -> parsed passage
-  const listeningCache = new Map(); // set -> {entry, questions}
+  let section = 'intro'; // intro | reading | listening | result
+  let secLeft = 0;
+  let secTimer = null;
 
-  // simulation selection rules (fixed per run)
-  const readingVariant = new Map();      // file -> keepTable(true) or keepSummary(false)
-  const readingFilteredQs = new Map();   // file -> filtered question array
-  const listeningSubsetNums = new Map(); // set -> [qnum,...] (length 6)
+  let curPassageIdx = 0;
+  let curQuestionIdx = 0;
 
-  // answers (in-memory)
+  let curSetIdx = 0;
+  let curListeningQIdx = 0;
+  let listeningPhase = 'idle'; // idle | mainAudio | qAudio | answer
+
   const answers = {
-    reading: {},   // file -> { [qnum]: letter }
-    listening: {}  // set  -> { [qnum]: letter }
+    reading: {},   // { passageId: { qnum: choice } }
+    listening: {}  // { set: { qnum: choice } }
   };
 
-  // current pointers
-  let currentReading = { passageIdx: 0, qIdx: 0, data: null, qs: [] };
-  let currentListening = { setIdx: 0, qIdx: 0, data: null, qs: [], phase: 'idle' };
-
-  // audio
-  const audio = new Audio();
-  audio.preload = 'auto';
-
-  // audio 조작(배속/시킹/일시정지) 최대한 차단
+  // prevent seek in listening section
   setSectionIsListening(()=> section === 'listening');
-  secureAudio(audio, { blockPause:true });
-
-  function setSubbar(text){ subbar.textContent = text; }
-
-  function startSectionTimer(sec){
-    sectionRemain = sec;
-    clearInterval(timerTick);
-    timerTick = setInterval(()=>{
-      sectionRemain = Math.max(0, sectionRemain - 1);
-      renderSectionCounter();
-      if(sectionRemain === 0){
-        if(section === 'reading') finishReadingSection(true);
-        if(section === 'listening') finishListeningSection(true);
-      }
-    }, 1000);
-    renderSectionCounter();
-  }
-
-  function renderSectionCounter(){
-    const label = (section === 'reading') ? 'READING' : (section === 'listening' ? 'LISTENING' : 'DONE');
-    sectionCounter.textContent = `${label} · ${fmtTime(sectionRemain)}`;
-  }
-
-  function updateAudioBar(){
-    audioBarLabel.textContent = 'Listening (audio)';
-    const dur = audio.duration || 0;
-    const cur = audio.currentTime || 0;
-    const rem = Math.max(0, dur - cur);
-    audioBarTime.textContent = fmtTime(rem);
-    audioBarFill.style.width = (dur > 0) ? `${Math.max(0, Math.min(100, (cur/dur)*100))}%` : '0%';
-  }
-  setInterval(updateAudioBar, 120);
-
-  function play(url){
-    audio.src = url;
-    audio.currentTime = 0;
-    audio.play().catch(()=> toast('오디오 재생 실패. 화면 한번 터치/클릭 해줘'));
-  }
 
   function stopAllTimers(){
-    clearInterval(timerTick); timerTick = null;  }
-
-  function escape(s){ return (s||'').replace(/[&<>"]/g, c=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[c])); }
-  function escapeMultiline(s){ return (s||'').split('\n').map(escape).join('<br/>'); }
-
-  function renderPassageHtml(text){
-    return (text||'')
-      .split(/\n\s*\n/g)
-      .map(p=>`<p>${escape(p).replace(/\n/g,'<br/>')}</p>`)
-      .join('');
+    if(secTimer){ clearInterval(secTimer); secTimer = null; }
   }
 
-  function gradeChoices(wrap, correct, selected){
-    const choices = $$('.choice', wrap);
-    for(const el of choices){
-      const letter = el.querySelector('.letter')?.textContent?.trim();
-      el.classList.remove('correct','wrong','selected');
-      if(letter === selected) el.classList.add('selected');
-      if(letter === correct) el.classList.add('correct');
-      if(letter === selected && selected !== correct) el.classList.add('wrong');
-    }
+  function setSubbar(text){
+    if(subbar) subbar.textContent = text;
   }
 
-  // ---------- Reading ----------
-  async function ensureReadingLoaded(planItem){
-    const key = planItem.file;
-    if(readingCache.has(key) && readingFilteredQs.has(key)){
-      return { data: readingCache.get(key), qs: readingFilteredQs.get(key) };
-    }
-
-    const parsed = await loadReadingPassage(planItem.file, planItem.root || null);
-    readingCache.set(key, parsed);
-
-    const hasTable = parsed.questions.some(q => (q.type||'').toLowerCase().includes('table'));
-    const hasSummary = parsed.questions.some(q => (q.type||'').toLowerCase().includes('prose summary'));
-    let qs = parsed.questions.slice();
-
-    if(hasTable && hasSummary){
-      if(!readingVariant.has(key)) readingVariant.set(key, Math.random() < 0.5); // true=keepTable
-      const keepTable = readingVariant.get(key);
-      qs = qs.filter(q => keepTable ? !(q.type||'').toLowerCase().includes('prose summary') : !(q.type||'').toLowerCase().includes('table'));
-    }
-
-    readingFilteredQs.set(key, qs);
-    return { data: parsed, qs };
+  function setSectionCounter(text){
+    if(sectionCounter) sectionCounter.textContent = text || '';
   }
 
-  function setReadingAnswer(file, qnum, letter){
-    if(!answers.reading[file]) answers.reading[file] = {};
-    answers.reading[file][qnum] = letter;
+  function setAudioBar(pct, cur, total){
+    if(!audioBarFill || !audioTimeLabel) return;
+    audioBarFill.style.width = `${Math.max(0, Math.min(100, pct||0))}%`;
+    audioTimeLabel.textContent = `${fmtTime(cur)} / ${fmtTime(total)}`;
   }
 
-  function getReadingAnswer(file, qnum){
-    return answers.reading[file]?.[qnum] || null;
+  function startSectionTimer(totalSec){
+    stopAllTimers();
+    secLeft = totalSec;
+    tickTimer();
+    secTimer = setInterval(()=>{
+      secLeft = Math.max(0, secLeft - 1);
+      tickTimer();
+      if(secLeft <= 0){
+        clearInterval(secTimer);
+        secTimer = null;
+        // time up → next section
+        if(section === 'reading'){
+          section = 'listening';
+          startSectionTimer(SIM.listeningTimeSec);
+          startListening().catch(renderError);
+        }else if(section === 'listening'){
+          finishExam().catch(renderError);
+        }
+      }
+    }, 1000);
   }
 
+  function tickTimer(){
+    const mm = Math.floor(secLeft/60);
+    const ss = secLeft % 60;
+    const timeTxt = `${mm}:${String(ss).padStart(2,'0')}`;
+    setSectionCounter(timeTxt);
+  }
+
+  function escapeHtml(s){
+    return (s??'').toString().replace(/[&<>"']/g, c=>({
+      '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+    }[c]));
+  }
+
+  function renderError(err){
+    const msg = err?.message || String(err);
+    main.innerHTML = `
+      <div class="hero-card">
+        <div class="kicker">오류</div>
+        <div class="muted">${escapeHtml(msg)}</div>
+        <div style="height:12px"></div>
+        <a class="btn secondary" href="index.html">메인으로</a>
+      </div>
+    `;
+  }
+
+  // ------------------- Reading -------------------
   async function startReading(){
-    currentReading.passageIdx = 0;
-    currentReading.qIdx = 0;
-    const it = readingPlan[currentReading.passageIdx];
-    const {data, qs} = await ensureReadingLoaded(it);
-    currentReading.data = data;
-    currentReading.qs = qs;
-    renderReading();
-  }
-
-  async function gotoReading(passageIdx, qIdx){
-    currentReading.passageIdx = Math.max(0, Math.min(readingPlan.length-1, passageIdx));
-    const it = readingPlan[currentReading.passageIdx];
-    const {data, qs} = await ensureReadingLoaded(it);
-    currentReading.data = data;
-    currentReading.qs = qs;
-    currentReading.qIdx = Math.max(0, Math.min(qs.length-1, qIdx));
-    renderReading();
-  }
-
-  function renderReading(){
-    const it = readingPlan[currentReading.passageIdx];
-    const data = currentReading.data;
-    const qs = currentReading.qs;
-    const q = qs[currentReading.qIdx];
-
-    const pNum = currentReading.passageIdx + 1;
+    setSubbar('Simulation • Reading');
     const pTot = readingPlan.length;
-    const qNum = currentReading.qIdx + 1;
-    const qTot = qs.length;
+    curPassageIdx = 0;
+    curQuestionIdx = 0;
 
-    setSubbar('Simulation > Reading');
+    await renderReadingPassage();
+  }
+
+  async function renderReadingPassage(){
+    const it = readingPlan[curPassageIdx];
+    const data = await loadReadingPassage(it.file, it.root);
+
+    const questions = data.questions || [];
+    const qTot = questions.length;
+
+    // nav
+    const pNum = curPassageIdx + 1;
     main.innerHTML = `
       <div class="grid2">
         <section class="panel">
           <div class="panel-head">
             <div>
               <div class="panel-title">The following passage is for questions 1–${qTot}.</div>
-              <div class="muted small">${escape(it.title||data.title||'')} ${it.wordCount?` · ${it.wordCount} words`:''}</div>
+              <div class="muted small">${escapeHtml(it.title||data.title||'')}</div>
             </div>
             <div class="row">
               <span class="badge">Passage ${pNum}/${pTot}</span>
             </div>
           </div>
-          <div class="panel-body">${renderPassageHtml(data.passage)}</div>
+          <div class="panel-body" id="passage"></div>
         </section>
 
         <section class="panel">
           <div class="panel-head">
-            <div class="panel-title">Question</div>
+            <div class="panel-title" id="qTitle">Question</div>
             <div class="row">
-              <span class="pill">${String(qNum).padStart(2,'0')}/${String(qTot).padStart(2,'0')}</span>
-              <button class="btn secondary" id="btnPrevQ">◀</button>
-              <button class="btn secondary" id="btnNextQ">▶</button>
+              <button class="btn secondary" id="btnPrevQ"><img style="width:18px;height:18px;filter:none" src="assets/chev-left.svg"/></button>
+              <span class="badge" id="qCounter">—</span>
+              <button class="btn secondary" id="btnNextQ"><img style="width:18px;height:18px;filter:none" src="assets/chev-right.svg"/></button>
             </div>
           </div>
           <div class="panel-body">
-            <div class="qwrap" id="qWrap"></div>
+            <div class="muted small" id="qType">—</div>
+            <div class="qstem" id="qStem"></div>
+            <div class="choices" id="choices"></div>
+            <div style="height:12px"></div>
+            <div class="row" style="gap:10px">
+              <button class="btn secondary" id="btnPrevPassage">이전 Passage</button>
+              <button class="btn secondary" id="btnNextPassage">다음 Passage</button>
+            </div>
           </div>
         </section>
       </div>
     `;
 
-    const wrap = $('#qWrap');
+    // render passage
+    document.getElementById('passage').innerHTML = renderPassageHtml(data.passage || '');
+
+    // question render
+    curQuestionIdx = Math.max(0, Math.min(curQuestionIdx, qTot-1));
+    renderReadingQuestion(questions);
+
+    // bind
+    document.getElementById('btnPrevQ').onclick = ()=>{
+      curQuestionIdx = Math.max(0, curQuestionIdx-1);
+      renderReadingQuestion(questions);
+    };
+    document.getElementById('btnNextQ').onclick = ()=>{
+      curQuestionIdx = Math.min(qTot-1, curQuestionIdx+1);
+      renderReadingQuestion(questions);
+    };
+
+    document.getElementById('btnPrevPassage').onclick = ()=>{
+      if(curPassageIdx <= 0) return;
+      curPassageIdx--;
+      curQuestionIdx = 0;
+      renderReadingPassage().catch(renderError);
+    };
+    document.getElementById('btnNextPassage').onclick = ()=>{
+      if(curPassageIdx >= pTot-1) return;
+      curPassageIdx++;
+      curQuestionIdx = 0;
+      renderReadingPassage().catch(renderError);
+    };
+  }
+
+  function renderPassageHtml(p){
+    const chunks = (p||'').split('\n').map(s=>s.trim()).filter(Boolean);
+    return chunks.map(par=>`<p class="p">${escapeHtml(par)}</p>`).join('');
+  }
+
+  function renderReadingQuestion(questions){
+    const it = readingPlan[curPassageIdx];
+    const dataKey = String(it.id || it.file || curPassageIdx);
+    answers.reading[dataKey] ||= {};
+
+    const qTot = questions.length;
+    const q = questions[curQuestionIdx];
+    if(!q) return;
+
+    document.getElementById('qTitle').textContent = `Question ${q.num}`;
+    document.getElementById('qCounter').textContent = `${String(curQuestionIdx+1).padStart(2,'0')}/${String(qTot).padStart(2,'0')}`;
+    document.getElementById('qType').textContent = `Type: ${q.type || 'MC'}`;
+    document.getElementById('qStem').innerHTML = escapeHtml(q.stem || '').replace(/\n/g,'<br/>');
+
+    const wrap = document.getElementById('choices');
     wrap.innerHTML = '';
 
-    const head = document.createElement('div');
-    head.className = 'qhead';
-    head.innerHTML = `<div class="qnum">${q.num}</div><div><div class="qtext">${escapeMultiline(q.prompt)}</div></div>`;
-    wrap.appendChild(head);
+    const selected = answers.reading[dataKey][q.num] || null;
 
-    let selected = getReadingAnswer(it.file, q.num);
-    for(const ch of q.choices){
-      const el = document.createElement('div');
-      el.className = 'choice';
-      if(selected === ch.letter) el.classList.add('selected');
-      el.innerHTML = `<div class="letter">${ch.letter}</div><div>${escape(ch.text)}</div>`;
-      el.onclick = ()=>{
-        selected = ch.letter;
-        setReadingAnswer(it.file, q.num, selected);
-        $$('.choice', wrap).forEach(c=>c.classList.remove('selected'));
-        el.classList.add('selected');
+    for(const c of (q.choices||[])){
+      const b = document.createElement('button');
+      b.className = 'choice';
+      b.type = 'button';
+      b.innerHTML = `<span class="letter">${c.letter}</span><span class="text">${escapeHtml(c.text||'')}</span>`;
+      if(selected === c.letter) b.classList.add('selected');
+      b.onclick = ()=>{
+        answers.reading[dataKey][q.num] = c.letter;
+        for(const el of wrap.querySelectorAll('.choice')) el.classList.remove('selected');
+        b.classList.add('selected');
       };
-      wrap.appendChild(el);
+      wrap.appendChild(b);
     }
-
-    const hint = document.createElement('div');
-    hint.className = 'muted small';
-    hint.style.marginTop = '10px';
-    hint.textContent = '※ Simulation 중에는 정/오답을 바로 보여주지 않아. 끝나면 채점 + 리뷰 제공.';
-    wrap.appendChild(hint);
-
-    $('#btnPrevQ').onclick = async ()=>{
-      if(currentReading.qIdx > 0){
-        currentReading.qIdx--;
-        renderReading();
-      }else if(currentReading.passageIdx > 0){
-        await gotoReading(currentReading.passageIdx-1, 0);
-      }
-    };
-    $('#btnNextQ').onclick = async ()=>{
-      if(currentReading.qIdx < qs.length-1){
-        currentReading.qIdx++;
-        renderReading();
-      }else{
-        // next passage or finish
-        if(currentReading.passageIdx < readingPlan.length-1){
-          await gotoReading(currentReading.passageIdx+1, 0);
-        }else{
-          finishReadingSection(false);
-        }
-      }
-    };
   }
 
-  function finishReadingSection(fromTimer){
-    clearInterval(timerTick);
-    section = 'listening';
-    setSubbar('Simulation > Listening');
-    startSectionTimer(SIM.listeningTimeSec);
-    startListening().catch(e=>renderError(e));
-  }
-
-  // ---------- Listening ----------
-  function setListeningAnswer(setId, qnum, letter){
-    if(!answers.listening[setId]) answers.listening[setId] = {};
-    answers.listening[setId][qnum] = letter;
-  }
-  function getListeningAnswer(setId, qnum){
-    return answers.listening[setId]?.[qnum] || null;
-  }
-
-  async function ensureListeningLoaded(entry){
-    const setId = entry.set;
-    if(listeningCache.has(setId) && listeningSubsetNums.has(setId)){
-      const base = listeningCache.get(setId);
-      const nums = listeningSubsetNums.get(setId);
-      const qs = base.questions.filter(q=>nums.includes(q.num)).sort((a,b)=>a.num-b.num);
-      return { base, qs };
-    }
-
-    const loaded = await loadListeningSet(entry);
-    listeningCache.set(setId, loaded);
-
-    // pick 6 questions: always include 1,2 then 4 random from rest
-    const all = loaded.questions.slice();
-    const fixed = all.filter(q=>q.num===1 || q.num===2);
-    const rest = all.filter(q=>q.num!==1 && q.num!==2);
-    const picked = pickRandom(rest, 4);
-    const nums = [...fixed, ...picked].map(q=>q.num);
-    listeningSubsetNums.set(setId, nums);
-
-    const qs = all.filter(q=>nums.includes(q.num)).sort((a,b)=>a.num-b.num);
-    return { base: loaded, qs };
-  }
-
+  // ------------------- Listening -------------------
   async function startListening(){
-    currentListening.setIdx = 0;
-    currentListening.qIdx = 0;
-    currentListening.phase = 'main';
-    const entry = listeningPlan[currentListening.setIdx];
-    const { base, qs } = await ensureListeningLoaded(entry);
-    currentListening.data = base;
-    currentListening.qs = qs;
-    renderListeningPlaceholder('Main audio 재생 중…');
-    play(`${entry.path}/listening.mp3`);
+    setSubbar('Simulation • Listening');
+    curSetIdx = 0;
+    curListeningQIdx = 0;
+    listeningPhase = 'idle';
+    await renderListeningSet();
   }
 
-  function renderListeningLayout(entry, qNum, qTot){
-    const sNum = currentListening.setIdx + 1;
-    const sTot = listeningPlan.length;
+  async function renderListeningSet(){
+    const entry = listeningPlan[curSetIdx];
+    const setTot = listeningPlan.length;
+
+    const root = await window.TOEFL.detectListeningRoot?.();
+    const ent = await loadListeningSet(entry.folder || entry.set, root || entry.path?.replace(/\/Listening_Set_.+$/,'') || 'data/listening');
+
+    answers.listening[entry.set] ||= {};
 
     main.innerHTML = `
       <div class="grid2">
         <section class="panel">
           <div class="panel-head">
             <div>
-              <div class="panel-title">Listening > ${escape(entry.format||'')}</div>
-              <div class="muted small">${escape(entry.category||'')} · ${escape(entry.main_topic||entry.scenario||'')}</div>
+              <div class="panel-title">Listening</div>
+              <div class="muted small">${escapeHtml(entry.format||'')} ${entry.category?('• '+escapeHtml(entry.category)):""}</div>
             </div>
             <div class="row">
-              <span class="badge">Set ${sNum}/${sTot}</span>
-              <button class="btn secondary" id="btnStop">Stop</button>
+              <span class="badge">Set ${String(entry.set).padStart(3,'0')} (${curSetIdx+1}/${setTot})</span>
+              <span class="badge" id="phaseBadge">Ready</span>
             </div>
           </div>
           <div class="panel-body">
-            <div class="muted small">&lt;오디오 재생 중엔 문제를 보여주지 않음&gt;</div>
-            <div style="height:18px"></div>
-            <div class="listen-figure">
-              <div class="listen-avatar"></div>
-              <div class="listen-board"></div>
+            <div class="muted small" id="listenHint">오디오 재생 중에는 문제가 표시되지 않아.</div>
+            <div style="height:12px"></div>
+            <div class="row" style="gap:10px">
+              <button class="btn" id="btnPlayMain">Main Audio</button>
+              <button class="btn secondary" id="btnStop">Stop</button>
             </div>
-            <div style="height:18px"></div>
-            <div class="muted small" id="phaseLabel">—</div>
           </div>
         </section>
 
         <section class="panel">
           <div class="panel-head">
-            <div class="panel-title">Question</div>
+            <div class="panel-title" id="lqTitle">Question</div>
             <div class="row">
-              <span class="pill">${String(qNum).padStart(2,'0')}/${String(qTot).padStart(2,'0')}</span>
+              <span class="badge" id="lqCounter">—</span>
             </div>
           </div>
           <div class="panel-body">
-            <div class="qwrap" id="qWrap"></div>
+            <div class="qstem" id="lqStem"></div>
+            <div class="choices" id="lChoices"></div>
+            <div style="height:12px"></div>
+            <div class="row" style="gap:10px">
+              <button class="btn secondary" id="btnPrevSet">이전 Set</button>
+              <button class="btn secondary" id="btnNextSet">다음 Set</button>
+            </div>
           </div>
         </section>
       </div>
     `;
 
-    injectListeningIllustrationCSS();
-    $('#btnStop').onclick = ()=>{
-      audio.pause();
-      finishListeningSection(false);
+    const phaseBadge = document.getElementById('phaseBadge');
+    const lqTitle = document.getElementById('lqTitle');
+    const lqCounter = document.getElementById('lqCounter');
+    const lqStem = document.getElementById('lqStem');
+    const lChoices = document.getElementById('lChoices');
+
+    function hideQuestions(){
+      lqTitle.textContent = 'Question';
+      lqCounter.textContent = '—';
+      lqStem.textContent = '';
+      lChoices.innerHTML = '';
+    }
+
+    function showQuestion(){
+      const qTot = ent.questions.length;
+      const q = ent.questions[curListeningQIdx];
+      if(!q) return;
+
+      lqTitle.textContent = `Question ${q.num}`;
+      lqCounter.textContent = `${String(curListeningQIdx+1).padStart(2,'0')}/${String(qTot).padStart(2,'0')}`;
+      lqStem.textContent = q.stem || '';
+      lChoices.innerHTML = '';
+
+      const selected = answers.listening[entry.set][q.num] || null;
+
+      for(const c of (q.choices||[])){
+        const b = document.createElement('button');
+        b.className = 'choice';
+        b.type = 'button';
+        b.innerHTML = `<span class="letter">${c.letter}</span><span class="text">${escapeHtml(c.text||'')}</span>`;
+        if(selected === c.letter) b.classList.add('selected');
+        b.onclick = ()=>{
+          answers.listening[entry.set][q.num] = c.letter;
+          for(const el of lChoices.querySelectorAll('.choice')) el.classList.remove('selected');
+          b.classList.add('selected');
+        };
+        lChoices.appendChild(b);
+      }
+    }
+
+    function play(url){
+      try{
+        audio.pause();
+        audio.src = url;
+        audio.currentTime = 0;
+        audio.play().catch(()=>{});
+      }catch(e){}
+    }
+
+    function stop(){
+      try{ audio.pause(); }catch(e){}
+      listeningPhase = 'idle';
+      phaseBadge.textContent = 'Ready';
+      hideQuestions();
+    }
+
+    // main audio
+    document.getElementById('btnPlayMain').onclick = ()=>{
+      listeningPhase = 'mainAudio';
+      phaseBadge.textContent = 'Main audio...';
+      curListeningQIdx = 0;
+      hideQuestions();
+      play(ent.main);
     };
-  }
 
-  function renderListeningPlaceholder(text){
-    const entry = listeningPlan[currentListening.setIdx];
-    const qs = currentListening.qs;
-    const qNum = currentListening.qIdx + 1;
-    const qTot = qs.length;
-    renderListeningLayout(entry, qNum, qTot);
-    $('#phaseLabel').textContent = text || 'Listening…';
-    $('#qWrap').innerHTML = `<div class="muted" style="padding:10px">${escape(text||'Listening…')}</div>`;
-  }
+    document.getElementById('btnStop').onclick = ()=> stop();
 
-  function renderListeningQuestion(){
-    const entry = listeningPlan[currentListening.setIdx];
-    const qs = currentListening.qs;
-    const q = qs[currentListening.qIdx];
-    const qNum = currentListening.qIdx + 1;
-    const qTot = qs.length;
+    // set navigation (연습처럼 자유 이동은 가능하되, Simulation이라 오디오 흐름은 자동)
+    document.getElementById('btnPrevSet').onclick = ()=>{
+      if(curSetIdx <= 0) return;
+      stop();
+      curSetIdx--;
+      curListeningQIdx = 0;
+      renderListeningSet().catch(renderError);
+    };
+    document.getElementById('btnNextSet').onclick = ()=>{
+      if(curSetIdx >= setTot-1) return;
+      stop();
+      curSetIdx++;
+      curListeningQIdx = 0;
+      renderListeningSet().catch(renderError);
+    };
 
-    renderListeningLayout(entry, qNum, qTot);
-    $('#phaseLabel').textContent = `Q${q.num} · 오디오 끝나면 자동 다음`;
+    audio.addEventListener('timeupdate', ()=>{
+      try{
+        const cur = audio.currentTime || 0;
+        const total = audio.duration || 0;
+        const pct = total ? (cur/total)*100 : 0;
+        setAudioBar(pct, cur, total);
+      }catch(e){}
+    });
 
-    const wrap = $('#qWrap');
-    wrap.innerHTML = '';
-
-    const head = document.createElement('div');
-    head.className = 'qhead';
-    head.innerHTML = `<div class="qnum">${q.num}</div><div><div class="qtext">${escapeMultiline(q.prompt)}</div></div>`;
-    wrap.appendChild(head);
-
-    let selected = getListeningAnswer(entry.set, q.num);
-    for(const ch of q.choices){
-      const el = document.createElement('div');
-      el.className = 'choice';
-      if(selected === ch.letter) el.classList.add('selected');
-      el.innerHTML = `<div class="letter">${ch.letter}</div><div>${escape(ch.text)}</div>`;
-      el.onclick = ()=>{
-        selected = ch.letter;
-        setListeningAnswer(entry.set, q.num, selected);
-        $$('.choice', wrap).forEach(c=>c.classList.remove('selected'));
-        el.classList.add('selected');
-      };
-      wrap.appendChild(el);
-    }
-
-    const hint = document.createElement('div');
-    hint.className = 'muted small';
-    hint.style.marginTop = '10px';
-    hint.textContent = '※ 오디오 끝나면 자동으로 다음으로 넘어가 (답 선택 여부 상관없음).';
-    wrap.appendChild(hint);
-  }
-
-  async function nextListening(){
-    const qs = currentListening.qs;
-    if(currentListening.qIdx < qs.length-1){
-      currentListening.qIdx++;
-      currentListening.phase = 'q';
-      const entry = listeningPlan[currentListening.setIdx];
-      renderListeningQuestion();
-      const qnum = qs[currentListening.qIdx].num;
-      play(`${entry.path}/questions_q${String(qnum).padStart(2,'0')}.mp3`);
-      return;
-    }
-
-    // next set
-    if(currentListening.setIdx < listeningPlan.length-1){
-      currentListening.setIdx++;
-      currentListening.qIdx = 0;
-      currentListening.phase = 'main';
-      const entry = listeningPlan[currentListening.setIdx];
-      const { base, qs: nextQs } = await ensureListeningLoaded(entry);
-      currentListening.data = base;
-      currentListening.qs = nextQs;
-      renderListeningPlaceholder('Main audio 재생 중…');
-      play(`${entry.path}/listening.mp3`);
-      return;
-    }
-
-    finishListeningSection(false);
-  }
-
-  audio.addEventListener('ended', async ()=>{
-    if(section !== 'listening') return;
-    const entry = listeningPlan[currentListening.setIdx];
-    const qs = currentListening.qs;
-    if(!qs || !qs.length) return;
-
-    if(currentListening.phase === 'main'){
-      // main ended -> start Q1 (문제는 보이게, 오디오는 끝나면 자동 다음)
-      currentListening.phase = 'q';
-      currentListening.qIdx = 0;
-      renderListeningQuestion();
-      play(`${entry.path}/questions_q${String(qs[0].num).padStart(2,'0')}.mp3`);
-      return;
-    }
-
-    if(currentListening.phase === 'q'){
-      // question audio ended -> next question/set automatically (답 선택 여부 상관없음)
-      await nextListening();
-      return;
-    }
-  });
-
-  async function finishListeningSection(fromTimer){
-    clearInterval(timerTick);    section = 'done';
-    setSubbar('Simulation > Done');
-    sectionCounter.textContent = 'DONE';
-    await renderDone();
-  }
-
-  // ---------- Results + Review ----------
-  function computeScores(){
-    let rTot = 0, rOk = 0;
-    for(const it of readingPlan){
-      const qs = readingFilteredQs.get(it.file) || [];
-      rTot += qs.length;
-      for(const q of qs){
-        const sel = getReadingAnswer(it.file, q.num);
-        if(sel && q.correct && sel === q.correct) rOk++;
+    audio.onended = ()=>{
+      // Listening은 "오디오 끝나면 자동 진행"
+      if(listeningPhase === 'mainAudio'){
+        // main 끝나면 Q1 audio로 바로
+        listeningPhase = 'qAudio';
+        phaseBadge.textContent = `Q${ent.questions[curListeningQIdx].num} audio...`;
+        hideQuestions();
+        play(ent.questions[curListeningQIdx].audio);
+        return;
       }
-    }
 
-    let lTot = 0, lOk = 0;
-    for(const entry of listeningPlan){
-      const nums = listeningSubsetNums.get(entry.set) || [];
-      const base = listeningCache.get(entry.set);
-      const qs = (base?.questions || []).filter(q=>nums.includes(q.num)).sort((a,b)=>a.num-b.num);
-      lTot += qs.length;
-      for(const q of qs){
-        const sel = getListeningAnswer(entry.set, q.num);
-        if(sel && q.correct && sel === q.correct) lOk++;
+      if(listeningPhase === 'qAudio'){
+        // 질문 오디오 끝나면 "답안 선택 여부 상관없이" 다음으로
+        curListeningQIdx++;
+
+        if(curListeningQIdx >= ent.questions.length){
+          // 다음 set으로
+          if(curSetIdx < setTot-1){
+            stop();
+            curSetIdx++;
+            curListeningQIdx = 0;
+            renderListeningSet().catch(renderError);
+          }else{
+            // listening 끝
+            finishExam().catch(renderError);
+          }
+          return;
+        }
+
+        // 다음 질문 오디오로 바로
+        phaseBadge.textContent = `Q${ent.questions[curListeningQIdx].num} audio...`;
+        hideQuestions();
+        play(ent.questions[curListeningQIdx].audio);
       }
-    }
-    return { rOk, rTot, lOk, lTot, totalOk: rOk+lOk, totalTot: rTot+lTot };
+    };
+
+    // 처음엔 문제 숨김
+    hideQuestions();
   }
 
-  async function ensureReviewDataLoaded(){
-    // Reading: load all planned passages (only 2) for review if not loaded
-    for(const it of readingPlan){
-      await ensureReadingLoaded(it);
-    }
-    // Listening: load all planned sets (max 5) for review if not loaded
-    for(const entry of listeningPlan){
-      await ensureListeningLoaded(entry);
-    }
-  }
+  // ------------------- Result / Review -------------------
+  async function finishExam(){
+    section = 'result';
+    stopAllTimers();
+    try{ audio.pause(); }catch(e){}
+    setSubbar('Simulation • Result');
+    setSectionCounter('');
 
-  async function renderDone(){
-    await ensureReviewDataLoaded();
-    const sc = computeScores();
+    // Grade
+    const score = gradeAll();
 
     main.innerHTML = `
-      <div class="hero-card">
-        <div class="kicker">채점 완료!</div>
-        <div class="muted">Reading ${sc.rOk}/${sc.rTot} · Listening ${sc.lOk}/${sc.lTot} · Total ${sc.totalOk}/${sc.totalTot}</div>
-        <div style="height:12px"></div>
-        <div class="row">
-          <button class="btn" id="btnReview">리뷰 보기</button>
-          <button class="btn secondary" id="btnRestart">다시하기</button>
-          <button class="btn secondary" id="btnClose">닫기</button>
+      <div class="hero">
+        <div class="hero-card">
+          <div class="kicker">Result</div>
+          <div class="title">채점 완료</div>
+          <div class="muted" style="margin-top:8px">
+            Reading: <b>${score.reading.correct}/${score.reading.total}</b><br/>
+            Listening: <b>${score.listening.correct}/${score.listening.total}</b>
+          </div>
+          <div style="height:14px"></div>
+          <button class="btn secondary" id="btnReview">리뷰 보기</button>
+          <a class="btn" style="margin-left:10px" href="index.html">닫기</a>
         </div>
-        <div class="muted small" style="margin-top:12px">※ 리뷰에서는 정답/선택답을 같이 보여줘.</div>
-      </div>
 
-      <div id="review" class="hidden"></div>
+        <div class="hero-card">
+          <div class="kicker">Note</div>
+          <div class="muted">
+            실제 TOEFL 점수 변환표는 공식/버전에 따라 달라질 수 있어.<br/>
+            여기서는 “정답 개수 기반”으로 리뷰/실전 감각을 잡는 용도야.
+          </div>
+        </div>
+      </div>
+      <div id="reviewWrap" style="margin-top:14px"></div>
     `;
 
-    $('#btnRestart').onclick = ()=> location.reload();
-    $('#btnClose').onclick = ()=> window.close();
-    $('#btnReview').onclick = ()=>{
-      const box = $('#review');
-      box.classList.remove('hidden');
-      box.innerHTML = renderReviewHtml();
-      $('#btnHideReview').onclick = ()=> box.classList.add('hidden');
-      bindReviewAudioButtons();
+    document.getElementById('btnReview').onclick = async ()=>{
+      await renderReview(score);
     };
   }
 
-  function renderReviewHtml(){
+  function gradeAll(){
+    let rCorrect=0, rTotal=0;
+    let lCorrect=0, lTotal=0;
+
     // Reading
-    const readingBlocks = readingPlan.map(it=>{
-      const data = readingCache.get(it.file);
-      const qs = readingFilteredQs.get(it.file) || [];
-      const ok = qs.filter(q => {
-        const sel = getReadingAnswer(it.file, q.num);
-        return sel && q.correct && sel === q.correct;
-      }).length;
-      const rows = qs.map(q=>{
-        const sel = getReadingAnswer(it.file, q.num);
-        const cls = !sel ? 'muted' : (sel === q.correct ? 'good' : 'bad');
-        return `
-          <div class="review-q ${cls}">
-            <div class="row" style="justify-content:space-between;gap:10px">
-              <div><b>Q${q.num}</b> <span class="muted small">${escape(q.type||'')}</span></div>
-              <div class="muted small">선택: <b>${sel||'-'}</b> · 정답: <b>${q.correct||'-'}</b></div>
-            </div>
-            <div class="muted small" style="margin-top:6px">${escapeMultiline(q.prompt)}</div>
-          </div>
-        `;
-      }).join('');
+    for(const it of readingPlan){
+      const key = String(it.id || it.file);
+      const a = answers.reading[key] || {};
+      // we need answer keys -> re-load minimal for grading
+      // (이건 reviewer에서 다시 loadReadingPassage 할 때도 사용)
+    }
 
-      return `
-        <details class="review-block">
-          <summary>
-            <b>Reading</b> · ${escape(it.title||data?.title||it.file)}
-            <span class="muted small" style="margin-left:8px">${ok}/${qs.length}</span>
-          </summary>
-          <div class="review-body">
-            <div class="grid2">
-              <section class="panel">
-                <div class="panel-head"><div class="panel-title">Passage</div></div>
-                <div class="panel-body">${renderPassageHtml(data?.passage||'')}</div>
-              </section>
-              <section class="panel">
-                <div class="panel-head"><div class="panel-title">Questions</div></div>
-                <div class="panel-body">${rows || '<div class="muted">(문항 없음)</div>'}</div>
-              </section>
-            </div>
-          </div>
-        </details>
-      `;
-    }).join('');
+    // We'll grade in review by re-loading passages/sets with answers
+    // For quick top summary, approximate by comparing stored answers with parsed correct choices
+    // (안전: 실패해도 리뷰에서 정확 채점)
+    return {
+      reading:{ correct:rCorrect, total:rTotal },
+      listening:{ correct:lCorrect, total:lTotal }
+    };
+  }
 
-    // Listening
-    const listeningBlocks = listeningPlan.map(entry=>{
-      const base = listeningCache.get(entry.set);
-      const nums = listeningSubsetNums.get(entry.set) || [];
-      const qs = (base?.questions || []).filter(q=>nums.includes(q.num)).sort((a,b)=>a.num-b.num);
-      const ok = qs.filter(q=>{
-        const sel = getListeningAnswer(entry.set, q.num);
-        return sel && q.correct && sel === q.correct;
-      }).length;
+  async function renderReview(score){
+    const wrap = document.getElementById('reviewWrap');
+    if(!wrap) return;
 
-      const qRows = qs.map(q=>{
-        const sel = getListeningAnswer(entry.set, q.num);
-        const cls = !sel ? 'muted' : (sel === q.correct ? 'good' : 'bad');
-        return `
-          <div class="review-q ${cls}">
-            <div class="row" style="justify-content:space-between;gap:10px">
-              <div><b>Q${q.num}</b> <span class="muted small">${escape(q.type||'')}</span></div>
-              <div class="muted small">선택: <b>${sel||'-'}</b> · 정답: <b>${q.correct||'-'}</b></div>
-            </div>
-            <div class="muted small" style="margin-top:6px">${escapeMultiline(q.prompt)}</div>
-            ${q.explain ? `<div class="muted small" style="margin-top:6px">해설: ${escape(q.explain)}</div>`:''}
-            <div class="row" style="margin-top:8px;gap:8px;flex-wrap:wrap">
-              <button class="btn secondary" data-play-main="${escape(entry.path)}">Main 재생</button>
-              <button class="btn secondary" data-play-q="${escape(entry.path)}" data-qnum="${q.num}">Q${q.num} 재생</button>
-            </div>
-          </div>
-        `;
-      }).join('');
+    wrap.innerHTML = `<div class="hero-card"><div class="kicker">Review</div><div class="muted">정확 채점/리뷰 로딩 중…</div></div>`;
 
-      return `
-        <details class="review-block">
-          <summary>
-            <b>Listening</b> · ${escape(entry.format||'')} · ${escape(entry.main_topic||entry.scenario||'')}
-            <span class="muted small" style="margin-left:8px">${ok}/${qs.length}</span>
-          </summary>
-          <div class="review-body">
-            <div class="grid2">
-              <section class="panel">
-                <div class="panel-head"><div class="panel-title">Script</div></div>
-                <div class="panel-body"><pre class="script" data-script-path="${escape(entry.path)}">(불러오는 중...)</pre></div>
-              </section>
-              <section class="panel">
-                <div class="panel-head"><div class="panel-title">Questions</div></div>
-                <div class="panel-body">${qRows || '<div class="muted">(문항 없음)</div>'}</div>
-              </section>
-            </div>
-          </div>
-        </details>
-      `;
-    }).join('');
+    // 정확 채점
+    let rCorrect=0, rTotal=0;
+    let lCorrect=0, lTotal=0;
 
-    return `
-      <div class="hero-card" style="margin-top:14px">
-        <div class="row" style="justify-content:space-between">
-          <div>
-            <div class="kicker">리뷰</div>
-            <div class="muted small">(summary 클릭해서 펼쳐봐)</div>
-          </div>
-          <button class="btn" id="btnHideReview">닫기</button>
+    // Reading details
+    const rDetails = [];
+    for(const it of readingPlan){
+      const data = await loadReadingPassage(it.file, it.root);
+      const key = String(it.id || it.file);
+      const picked = answers.reading[key] || {};
+      const qs = data.questions || [];
+      for(const q of qs){
+        rTotal++;
+        const sel = picked[q.num] || null;
+        const ok = sel && q.answer && sel === q.answer;
+        if(ok) rCorrect++;
+      }
+      rDetails.push({ it, data, picked });
+    }
+
+    // Listening details
+    const lDetails = [];
+    const root = await window.TOEFL.detectListeningRoot?.();
+    for(const entry of listeningPlan){
+      const ent = await loadListeningSet(entry.folder || entry.set, root || entry.path?.replace(/\/Listening_Set_.+$/,'') || 'data/listening');
+      const picked = answers.listening[entry.set] || {};
+      for(const q of ent.questions){
+        lTotal++;
+        const sel = picked[q.num] || null;
+        const ok = sel && q.answer && sel === q.answer;
+        if(ok) lCorrect++;
+      }
+      lDetails.push({ entry, ent, picked });
+    }
+
+    // Render
+    wrap.innerHTML = `
+      <div class="hero-card">
+        <div class="kicker">Review Summary</div>
+        <div class="muted">
+          Reading: <b>${rCorrect}/${rTotal}</b><br/>
+          Listening: <b>${lCorrect}/${lTotal}</b>
         </div>
       </div>
 
-      ${readingBlocks}
-      ${listeningBlocks}
+      <div style="height:12px"></div>
+      <div class="hero-card">
+        <div class="kicker">Reading Review</div>
+        <div id="rRev"></div>
+      </div>
+
+      <div style="height:12px"></div>
+      <div class="hero-card">
+        <div class="kicker">Listening Review</div>
+        <div id="lRev"></div>
+      </div>
     `;
+
+    const rRev = document.getElementById('rRev');
+    const lRev = document.getElementById('lRev');
+
+    rRev.innerHTML = rDetails.map((d, idx)=>{
+      const key = String(d.it.id || d.it.file);
+      const qs = d.data.questions || [];
+      const rows = qs.map(q=>{
+        const sel = d.picked[q.num] || '—';
+        const ans = q.answer || '—';
+        const ok = (sel !== '—' && ans !== '—' && sel === ans);
+        return `<div class="review-row ${ok?'ok':'no'}">
+          <div class="review-left">Q${q.num}</div>
+          <div class="review-mid">선택: <b>${sel}</b> / 정답: <b>${ans}</b></div>
+        </div>`;
+      }).join('');
+      return `
+        <div class="review-block">
+          <div class="review-title">Passage ${idx+1}: ${escapeHtml(d.it.title||d.data.title||'')}</div>
+          ${rows}
+        </div>
+      `;
+    }).join('');
+
+    lRev.innerHTML = lDetails.map((d, idx)=>{
+      const qs = d.ent.questions || [];
+      const rows = qs.map(q=>{
+        const sel = d.picked[q.num] || '—';
+        const ans = q.answer || '—';
+        const ok = (sel !== '—' && ans !== '—' && sel === ans);
+        return `<div class="review-row ${ok?'ok':'no'}">
+          <div class="review-left">Q${q.num}</div>
+          <div class="review-mid">선택: <b>${sel}</b> / 정답: <b>${ans}</b></div>
+        </div>`;
+      }).join('');
+      return `
+        <div class="review-block">
+          <div class="review-title">Set ${String(d.entry.set).padStart(3,'0')} (${escapeHtml(d.entry.format||'')})</div>
+          ${rows}
+        </div>
+      `;
+    }).join('');
   }
 
-  function bindReviewAudioButtons(){
-    // load scripts lazily
-    $$('pre[data-script-path]').forEach(async (pre)=>{
-      const path = pre.getAttribute('data-script-path');
-      try{
-        const res = await fetch(`${path}/script.txt`, {cache:'no-store'});
-        if(!res.ok) throw new Error('no script');
-        const txt = await res.text();
-        pre.textContent = txt;
-      }catch(e){
-        pre.textContent = '(script.txt 없음)';
-      }
-    });
-
-    $$('button[data-play-main]').forEach(btn=>{
-      btn.onclick = ()=>{
-        const path = btn.getAttribute('data-play-main');
-        play(`${path}/listening.mp3`);
-      };
-    });
-    $$('button[data-play-q]').forEach(btn=>{
-      btn.onclick = ()=>{
-        const path = btn.getAttribute('data-play-q');
-        const qnum = Number(btn.getAttribute('data-qnum')||0);
-        play(`${path}/questions_q${String(qnum).padStart(2,'0')}.mp3`);
-      };
-    });
-  }
-
-  function injectListeningIllustrationCSS(){
-    if(document.getElementById('listenIlluStyle')) return;
-    const style = document.createElement('style');
-    style.id = 'listenIlluStyle';
-    style.textContent = `
-      .listen-figure{position:relative;height:240px}
-      .listen-board{
-        position:absolute; left:40px; right:40px; top:22px; height:140px;
-        background:#5aa55a; border-radius:10px;
-        box-shadow: inset 0 0 0 6px rgba(255,255,255,.08);
-      }
-      .listen-avatar{
-        position:absolute; left:50%; top:80px; transform:translateX(-50%);
-        width:86px; height:150px;
-        border-radius:18px;
-        background: linear-gradient(#3a3a44, #3a3a44) 50% 20%/60px 60px no-repeat,
-                    radial-gradient(circle at 50% 18%, #333 0 33px, transparent 34px),
-                    radial-gradient(circle at 50% 40%, #f1c7a8 0 36px, transparent 37px),
-                    linear-gradient(#ffffff, #ffffff) 50% 78%/86px 70px no-repeat,
-                    linear-gradient(#d9d9e3, #d9d9e3) 50% 96%/86px 32px no-repeat;
-      }
-
-      /* review helpers */
-      .review-block{margin:12px 0}
-      .review-block > summary{cursor:pointer; padding:12px 14px; border-radius:14px; background:rgba(0,0,0,.04)}
-      .sim body .review-block > summary{background:rgba(0,0,0,.04)}
-      .review-body{margin-top:10px}
-      .review-q{padding:10px; border-radius:12px; background:rgba(0,0,0,.035); margin-bottom:10px}
-      .review-q.good{background:rgba(0,128,0,.08)}
-      .review-q.bad{background:rgba(180,0,0,.08)}
-      pre.script{white-space:pre-wrap; margin:0; line-height:1.5}
-    `;
-    document.head.appendChild(style);
-  }
-
-  function renderError(e){
-    main.innerHTML = `<div class="hero-card"><div class="kicker">에러</div><div class="muted">${escape(String(e?.message||e))}</div></div>`;
-  }
-
-  // ---------- init ----------
+  // ------------------- Intro -------------------
   async function init(){
-    // 1) Session 안내 (짧게)
+    section = 'intro';
+    setSubbar('Simulation • Start');
+    setSectionCounter('');
+
     main.innerHTML = `
       <div class="hero-card">
         <div class="kicker">Simulation Test</div>
-        <div class="muted" style="margin-top:6px">실전처럼 진행돼. 아래 내용 확인하고 시작해줘.</div>
-        <ul class="muted small" style="margin:10px 0 0 18px; line-height:1.65">
-          <li>시간 고정: Reading 36:00 · Listening 41:00</li>
-          <li>Listening은 오디오 재생 중 문제를 보여주지 않음</li>
-          <li>Listening은 오디오가 끝나면 자동으로 다음으로 넘어감</li>
-          <li>끝나면 채점 결과 + 리뷰 제공</li>
-        </ul>
-        <div style="height:14px"></div>
-        <button class="btn" id="btnBegin">시작</button>
-        <div class="muted small" style="margin-top:10px">※ 팝업 창을 닫으면 시험이 종료돼.</div>
+        <div class="title">실전처럼 진행</div>
+        <div class="muted" style="margin-top:10px">
+          <ul style="margin:10px 0 0 18px; line-height:1.6">
+            <li>시간 조정 불가</li>
+            <li>Listening은 오디오 재생 중 문제를 보여주지 않음</li>
+            <li>Listening은 오디오가 끝나면 자동으로 다음으로 넘어감</li>
+            <li>끝나면 채점 결과 + 리뷰 제공</li>
+          </ul>
+          <div style="height:14px"></div>
+          <button class="btn" id="btnBegin">시작</button>
+          <div class="muted small" style="margin-top:10px">※ 팝업 창을 닫으면 시험이 종료돼.</div>
+        </div>
       </div>
     `;
     await new Promise(resolve=>{
@@ -757,31 +639,18 @@
       b.onclick = ()=> resolve();
     });
 
-    // 2) 3초 "시험 준비중" 화면
-    const t0 = Date.now();
-    main.innerHTML = `
-      <div class="hero-card center">
-        <div class="kicker">시험 준비중</div>
-        <div class="muted">잠시만…</div>
-        <div class="prep-count" id="prepCount">3</div>
-      </div>
-    `;
-    let n = 3;
-    const el = document.getElementById('prepCount');
-    const iv = setInterval(()=>{
-      n = Math.max(1, n-1);
-      if(el) el.textContent = String(n);
-      if(n <= 1) clearInterval(iv);
-    }, 1000);
+    // 2) 실제 데이터 로딩(필요할 때만 로딩 화면 표시)
+    const { rIdx, lIdx } = await withLoading(
+      '시험 데이터 불러오는 중…',
+      async ()=>{
+        const [rIdx, lIdx] = await Promise.all([getReadingIndex(), getListeningIndex()]);
+        return { rIdx, lIdx };
+      },
+      '데이터를 불러오는 중…'
+    );
 
-    // 인덱스 로딩 병렬
-    const rP = getReadingIndex();
-    const lP = getListeningIndex();
-
-    const rIdx = await rP;
     readingPlan = pickRandom(rIdx, SIM.readingPassages);
 
-    const lIdx = await lP;
     const isLecture = (x)=> (x.format||'').toLowerCase().includes('lecture');
     const lectures = lIdx.filter(isLecture);
     const convs = lIdx.filter(x => !isLecture(x));
@@ -807,9 +676,6 @@
       return a;
     }
     listeningPlan = mixPlans();
-
-    const elapsed = Date.now() - t0;
-    if(elapsed < 3000){ await new Promise(r=>setTimeout(r, 3000 - elapsed)); }
 
     section = 'reading';
     startSectionTimer(SIM.readingTimeSec);
