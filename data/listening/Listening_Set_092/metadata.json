@@ -1,0 +1,14 @@
+{
+  "set": 92,
+  "format": "professor-student",
+  "category": "Office Hours",
+  "scenario": "reading a chart and avoiding overconfident conclusions",
+  "main_topic": "reading a chart and avoiding overconfident conclusions",
+  "purpose": "give guidance and clarify expectations",
+  "detail_fact": "The professor recommends adding one strong example first.",
+  "function_phrase": "Exactly.",
+  "organization": "study strategy",
+  "attitude": "Supportive and focused",
+  "no_meta_directions": true,
+  "v": "6"
+}
