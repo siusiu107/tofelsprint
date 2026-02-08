@@ -1,0 +1,14 @@
+{
+  "set": 42,
+  "format": "lecture",
+  "category": "Statistics",
+  "scenario": "sampling bias and why bigger samples can still be wrong",
+  "main_topic": "sampling bias and why bigger samples can still be wrong",
+  "purpose": "explain a concept and show how to evaluate information",
+  "detail_fact": "The professor provides a four\u2011step checklist for evaluating claims.",
+  "function_phrase": "Right.",
+  "organization": "Key term \u2192 Common trap \u2192 Two cases \u2192 Review",
+  "attitude": "Informative and encouraging",
+  "no_meta_directions": true,
+  "v": "6"
+}

@@ -1,0 +1,23 @@
+Narrator: Listen to a lecture in a class.
+
+Professor: Good morning. This is ANTH 210, and we're in North Science Center. Before we start, remember: the reading for next time is on the course site.
+
+Professor: Today we're talking about fault creep vs earthquakes and why some areas slip silently. I’m going to define one key term, walk through two examples, and then give you a quick way to check your own reasoning.
+
+Professor: The key term is 'constraint'. In this class, a constraint is the specific part of a system that produces the effect we observe. It’s not just a fancy label—it's something you could test.
+
+Professor: One key idea, here’s the common trap. People see two things move together and assume one causes the other. But correlation just means they change together. Causation means changing one reliably changes the other, even when you control other factors.
+
+Professor: Example one: imagine two neighborhoods that look similar but have different incentives. If you don’t measure a baseline first, you might think your intervention worked when you’re really just seeing normal variation.
+
+Professor: Example two: consider a model that works only within a certain range. You can get a clean‑looking result that’s still wrong if a hidden constraint is doing the work. The constraint might be timing, access, or incentives.
+
+Professor: by comparison, if you identify the constraint, your explanation suddenly predicts new outcomes. That’s how you know you’re closer to the real mechanism.
+
+Professor: Here’s the quick reasoning check I want you to practice: one, what exactly was measured? two, what mechanism could produce it? three, what alternative explanation also fits? four, what would you expect next if your mechanism is true?
+
+Professor: Are you with me so far? On listening exams, those four questions help you answer main idea, detail, inference, and organization questions without guessing.
+
+Professor: Finally, listen for signposts like 'first,' 'in contrast,' and 'to wrap up.' They tell you what the speaker is doing—defining, comparing, giving an example, or summarizing.
+
+Professor: To wrap up: start with a simple explanation that fits the evidence, then test it. If it fails, revise. That’s not a flaw—that’s how research works.
