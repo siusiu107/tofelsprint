@@ -1,0 +1,14 @@
+{
+  "set": 17,
+  "format": "lecture",
+  "category": "Media Studies",
+  "scenario": "recommendation algorithms and why engagement is not the same as truth",
+  "main_topic": "recommendation algorithms and why engagement is not the same as truth",
+  "purpose": "explain a concept and show how to evaluate information",
+  "detail_fact": "The professor gives two examples to show how hidden constraints can mislead.",
+  "function_phrase": "So what does that imply?",
+  "organization": "Definition \u2192 Example \u2192 Example \u2192 Checklist \u2192 Summary",
+  "attitude": "Informative and encouraging",
+  "no_meta_directions": true,
+  "v": "6"
+}
