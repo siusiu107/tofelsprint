@@ -1,0 +1,14 @@
+{
+  "set": 81,
+  "format": "professor-student",
+  "category": "Office Hours",
+  "scenario": "clarifying a grading rubric and what counts as evidence",
+  "main_topic": "clarifying a grading rubric and what counts as evidence",
+  "purpose": "give guidance and clarify expectations",
+  "detail_fact": "The professor explains the difference between description and explanation.",
+  "function_phrase": "Let me be clear.",
+  "organization": "requirements and examples",
+  "attitude": "Supportive and focused",
+  "no_meta_directions": true,
+  "v": "6"
+}
