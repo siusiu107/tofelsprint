@@ -56,8 +56,7 @@ body{
   opacity:.35;
   cursor:not-allowed;
 }
-
-.iconbtn img{width:20px;height:20px;filter:invert(0);opacity:.9}
+.iconbtn img{width:20px;height:20px; filter: invert(0); opacity:.9}
 
 .weekpill{
   padding:8px 12px;
@@ -269,43 +268,14 @@ body{
 }
 
 .row{ display:flex; align-items:center; gap:10px; }
-.pill{
+.badge{
+  display:inline-flex;
+  align-items:center;
   padding:8px 12px;
   border-radius:999px;
-  background: rgba(0,0,0,.05);
+  background: rgba(0,0,0,.06);
   font-weight:900;
   font-size:13px;
-}
-
-.drawer{
-  position:fixed;
-  inset:0;
-  background: rgba(0,0,0,.35);
-  z-index:9999;
-  display:flex;
-  align-items:stretch;
-}
-.drawer.hidden{ display:none; }
-.drawer-panel{
-  width:min(380px, 92vw);
-  background: var(--card);
-  box-shadow: var(--shadow);
-  padding:14px;
-}
-.drawer-head{
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  gap:10px;
-}
-.drawer-list{
-  display:grid;
-  gap:10px;
-  margin-top:12px;
-}
-.drawer a{
-  text-decoration:none;
-  color:var(--ink);
 }
 
 .audioBarWrap{
@@ -347,16 +317,15 @@ body{
   color:var(--muted);
 }
 
-/* Loading overlay */
+/* Loading overlay - 원래 톤 유지(과한 연출 제거) */
 .loading-overlay{
   position:fixed;
   inset:0;
-  background:rgba(255,255,255,.82);
+  background:rgba(246,246,251,.92);
   display:flex;
   align-items:center;
   justify-content:center;
   z-index:99998;
-  backdrop-filter: blur(6px);
 }
 .loading-overlay.hidden{ display:none; }
 
@@ -364,7 +333,7 @@ body{
   width:min(520px, 92vw);
   background:var(--card);
   border:1px solid rgba(0,0,0,.08);
-  border-radius:20px;
+  border-radius:var(--radius);
   box-shadow: var(--shadow);
   padding:18px 18px;
   display:flex;
@@ -395,3 +364,18 @@ body{
   line-height:1.4;
 }
 .loading-long.hidden{ display:none; }
+
+/* Review UI */
+.review-block{ margin-top:12px; }
+.review-title{ font-weight:900; margin-bottom:8px; }
+.review-row{
+  display:flex; gap:12px; align-items:center;
+  padding:10px 12px; border-radius:12px;
+  border:1px solid rgba(0,0,0,.08);
+  background: rgba(111,109,153,.06);
+  margin-bottom:8px;
+}
+.review-row.ok{ outline:2px solid rgba(127,154,84,.55); }
+.review-row.no{ outline:2px solid rgba(220,80,80,.35); }
+.review-left{ width:64px; font-weight:900; color:var(--muted); }
+.review-mid{ flex:1; }
