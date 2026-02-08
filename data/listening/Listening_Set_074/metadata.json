@@ -1,0 +1,14 @@
+{
+  "set": 74,
+  "format": "student-staff",
+  "category": "Maker Space",
+  "scenario": "laser cutter rules, file formats, and safety training",
+  "main_topic": "laser cutter rules, file formats, and safety training",
+  "purpose": "solve a problem by explaining procedures",
+  "detail_fact": "The staff recommends keeping a confirmation email as proof.",
+  "function_phrase": "No problem.",
+  "organization": "appointment setup",
+  "attitude": "Helpful and solution-oriented",
+  "no_meta_directions": true,
+  "v": "6"
+}

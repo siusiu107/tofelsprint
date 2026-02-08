@@ -1,0 +1,14 @@
+{
+  "set": 71,
+  "format": "student-staff",
+  "category": "Transportation",
+  "scenario": "bus pass renewal, route changes, and refunds",
+  "main_topic": "bus pass renewal, route changes, and refunds",
+  "purpose": "solve a problem by explaining procedures",
+  "detail_fact": "The staff says one missing form can trigger an automatic hold.",
+  "function_phrase": "Let\u2019s take it step by step.",
+  "organization": "troubleshooting",
+  "attitude": "Helpful and solution-oriented",
+  "no_meta_directions": true,
+  "v": "6"
+}

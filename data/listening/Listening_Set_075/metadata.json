@@ -1,0 +1,14 @@
+{
+  "set": 75,
+  "format": "student-staff",
+  "category": "Counseling",
+  "scenario": "stress coping strategies and building a sleep routine",
+  "main_topic": "stress coping strategies and building a sleep routine",
+  "purpose": "solve a problem by explaining procedures",
+  "detail_fact": "The staff checks the student\u2019s account and summarizes next steps.",
+  "function_phrase": "Let\u2019s take it step by step.",
+  "organization": "policy explanation",
+  "attitude": "Helpful and solution-oriented",
+  "no_meta_directions": true,
+  "v": "6"
+}

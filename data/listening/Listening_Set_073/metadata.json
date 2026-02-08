@@ -1,0 +1,14 @@
+{
+  "set": 73,
+  "format": "student-staff",
+  "category": "Campus Safety",
+  "scenario": "reporting a missing item and using escort services at night",
+  "main_topic": "reporting a missing item and using escort services at night",
+  "purpose": "solve a problem by explaining procedures",
+  "detail_fact": "The staff explains the deadline and what counts as confirmation.",
+  "function_phrase": "No problem.",
+  "organization": "step\u2011by\u2011step procedure",
+  "attitude": "Helpful and solution-oriented",
+  "no_meta_directions": true,
+  "v": "6"
+}
