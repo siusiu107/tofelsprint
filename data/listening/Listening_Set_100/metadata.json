@@ -1,0 +1,14 @@
+{
+  "set": 100,
+  "format": "professor-student",
+  "category": "Office Hours",
+  "scenario": "how to request an extension and what info to include",
+  "main_topic": "how to request an extension and what info to include",
+  "purpose": "give guidance and clarify expectations",
+  "detail_fact": "The professor sets a clear time to send a draft.",
+  "function_phrase": "Right.",
+  "organization": "policy and fairness",
+  "attitude": "Supportive and focused",
+  "no_meta_directions": true,
+  "v": "6"
+}

@@ -1,0 +1,14 @@
+{
+  "set": 80,
+  "format": "student-staff",
+  "category": "Lab Safety Office",
+  "scenario": "training requirement, spill reporting, and lab access",
+  "main_topic": "training requirement, spill reporting, and lab access",
+  "purpose": "solve a problem by explaining procedures",
+  "detail_fact": "The staff says one missing form can trigger an automatic hold.",
+  "function_phrase": "That\u2019s a common issue.",
+  "organization": "appointment setup",
+  "attitude": "Helpful and solution-oriented",
+  "no_meta_directions": true,
+  "v": "6"
+}

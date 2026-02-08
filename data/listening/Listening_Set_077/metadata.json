@@ -1,0 +1,14 @@
+{
+  "set": 77,
+  "format": "student-staff",
+  "category": "Parking",
+  "scenario": "appealing a ticket, signage rules, and future prevention",
+  "main_topic": "appealing a ticket, signage rules, and future prevention",
+  "purpose": "solve a problem by explaining procedures",
+  "detail_fact": "The staff recommends keeping a confirmation email as proof.",
+  "function_phrase": "No problem.",
+  "organization": "step\u2011by\u2011step procedure",
+  "attitude": "Helpful and solution-oriented",
+  "no_meta_directions": true,
+  "v": "6"
+}

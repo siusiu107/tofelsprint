@@ -1,0 +1,14 @@
+{
+  "set": 78,
+  "format": "student-staff",
+  "category": "Scholarship Office",
+  "scenario": "renewal requirements, GPA rules, and documentation",
+  "main_topic": "renewal requirements, GPA rules, and documentation",
+  "purpose": "solve a problem by explaining procedures",
+  "detail_fact": "The staff says one missing form can trigger an automatic hold.",
+  "function_phrase": "That\u2019s a common issue.",
+  "organization": "summary of next steps",
+  "attitude": "Helpful and solution-oriented",
+  "no_meta_directions": true,
+  "v": "6"
+}
