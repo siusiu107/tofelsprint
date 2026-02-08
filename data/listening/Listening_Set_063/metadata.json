@@ -1,0 +1,14 @@
+{
+  "set": 63,
+  "format": "student-staff",
+  "category": "Library",
+  "scenario": "reserving a study room, printing limits, and late fee questions",
+  "main_topic": "reserving a study room, printing limits, and late fee questions",
+  "purpose": "solve a problem by explaining procedures",
+  "detail_fact": "The staff recommends keeping a confirmation email as proof.",
+  "function_phrase": "No problem.",
+  "organization": "step\u2011by\u2011step procedure",
+  "attitude": "Helpful and solution-oriented",
+  "no_meta_directions": true,
+  "v": "6"
+}

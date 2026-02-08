@@ -1,0 +1,14 @@
+{
+  "set": 64,
+  "format": "student-staff",
+  "category": "Registrar",
+  "scenario": "fixing an enrollment hold caused by a missing form and verifying status",
+  "main_topic": "fixing an enrollment hold caused by a missing form and verifying status",
+  "purpose": "solve a problem by explaining procedures",
+  "detail_fact": "The staff offers a quick fix first and a formal process if needed.",
+  "function_phrase": "No problem.",
+  "organization": "summary of next steps",
+  "attitude": "Helpful and solution-oriented",
+  "no_meta_directions": true,
+  "v": "6"
+}
