@@ -1,0 +1,14 @@
+{
+  "set": 95,
+  "format": "professor-student",
+  "category": "Office Hours",
+  "scenario": "handling unequal group work contribution and documenting progress",
+  "main_topic": "handling unequal group work contribution and documenting progress",
+  "purpose": "give guidance and clarify expectations",
+  "detail_fact": "The professor recommends adding one strong example first.",
+  "function_phrase": "Exactly.",
+  "organization": "requirements and examples",
+  "attitude": "Supportive and focused",
+  "no_meta_directions": true,
+  "v": "6"
+}

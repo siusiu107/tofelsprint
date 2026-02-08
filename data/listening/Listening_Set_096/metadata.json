@@ -1,0 +1,14 @@
+{
+  "set": 96,
+  "format": "professor-student",
+  "category": "Office Hours",
+  "scenario": "avoiding plagiarism and integrating paraphrases correctly",
+  "main_topic": "avoiding plagiarism and integrating paraphrases correctly",
+  "purpose": "give guidance and clarify expectations",
+  "detail_fact": "The professor explains the difference between description and explanation.",
+  "function_phrase": "Exactly.",
+  "organization": "study strategy",
+  "attitude": "Supportive and focused",
+  "no_meta_directions": true,
+  "v": "6"
+}
