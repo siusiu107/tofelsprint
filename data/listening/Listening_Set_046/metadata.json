@@ -1,0 +1,14 @@
+{
+  "set": 46,
+  "format": "student-student",
+  "category": "Campus Life",
+  "scenario": "negotiating a roommate agreement about quiet hours and shared space",
+  "main_topic": "negotiating a roommate agreement about quiet hours and shared space",
+  "purpose": "make a plan and decide on next steps",
+  "detail_fact": "They realize a misunderstanding caused the problem and reset responsibilities.",
+  "function_phrase": "So you're saying\u2026",
+  "organization": "planning steps",
+  "attitude": "Cooperative and practical",
+  "no_meta_directions": true,
+  "v": "6"
+}

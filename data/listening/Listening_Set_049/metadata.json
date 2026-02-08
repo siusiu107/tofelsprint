@@ -1,0 +1,14 @@
+{
+  "set": 49,
+  "format": "student-student",
+  "category": "Campus Life",
+  "scenario": "rescheduling practice due to weather and a tournament conflict",
+  "main_topic": "rescheduling practice due to weather and a tournament conflict",
+  "purpose": "make a plan and decide on next steps",
+  "detail_fact": "They set a deadline and agree on a backup plan.",
+  "function_phrase": "So you're saying\u2026",
+  "organization": "comparing options",
+  "attitude": "Cooperative and practical",
+  "no_meta_directions": true,
+  "v": "6"
+}
