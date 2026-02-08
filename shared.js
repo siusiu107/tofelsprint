@@ -1,4 +1,3 @@
-
 /* shared.js - 공용 유틸 + 데이터 로더 (v3.1) */
 (function(){
 
@@ -7,646 +6,518 @@ try{
   if(typeof String.prototype.matchAll === 'function' && !String.prototype.__toefl_matchAll_patched){
     const origMatchAll = String.prototype.matchAll;
     Object.defineProperty(String.prototype, '__toefl_matchAll_patched', {value:true});
-    String.prototype.matchAll = function(re){
-      if(re instanceof RegExp && !re.global){
-        re = new RegExp(re.source, (re.flags.includes('g') ? re.flags : (re.flags + 'g')));
-      }
-      return origMatchAll.call(this, re);
+    String.prototype.matchAll = function(regexp){
+      try{
+        if(regexp instanceof RegExp){
+          if(!regexp.global){
+            // clone as global
+            regexp = new RegExp(regexp.source, regexp.flags + 'g');
+          }
+        }
+      }catch(e){}
+      return origMatchAll.call(this, regexp);
     };
   }
 }catch(e){}
 
-  const $ = (sel, root=document) => root.querySelector(sel);
-  const $$ = (sel, root=document) => Array.from(root.querySelectorAll(sel));
+// --- tiny helpers ---
+const $ = (sel, root=document) => root.querySelector(sel);
+const $$ = (sel, root=document) => Array.from(root.querySelectorAll(sel));
+const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
+const pad2 = (n) => (n<10?'0':'')+n;
 
-  function escapeHtml(s){
-    return String(s).replace(/[&<>"']/g, (c)=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
-  }
+function nowMs(){ return Date.now(); }
 
-  function ensureGlobal(re){
-    if(!(re instanceof RegExp)) return re;
-    const flags = re.flags.includes('g') ? re.flags : (re.flags + 'g');
-    return new RegExp(re.source, flags);
-  }
-
-  function fmtTime(sec){
-    if(!isFinite(sec) || sec < 0) sec = 0;
-    sec = Math.floor(sec);
-    const m = String(Math.floor(sec/60)).padStart(2,'0');
-    const s = String(sec%60).padStart(2,'0');
-    return `${m}:${s}`;
-  }
-
-  function toast(msg, ms=1700){
-    const t = document.getElementById('toast');
-    if(!t) return;
-    t.textContent = msg;
-    t.classList.remove('hidden');
-    clearTimeout(toast._tm);
-    toast._tm = setTimeout(()=>t.classList.add('hidden'), ms);
-  }
-
-  async function fetchText(url){
-    const res = await fetch(url, {cache:'no-store'});
-    if(!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
-    return await res.text();
-  }
-  async function fetchJson(url){
-    const res = await fetch(url, {cache:'no-store'});
-    if(!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
-    return await res.json();
-  }
-
-  /* Reading: auto-discover from extracted txt pack (python http.server listing) */
-  const READ_CACHE_KEY = 'toefl_reading_index_v1';
-  const READ_ROOT_KEY  = 'toefl_reading_root_v1';
-
-  let _readingIndex = null;
-
-  async function listHrefs(path){
-    try{
-      const html = await fetchText(path.endsWith('/') ? path : (path + '/'));
-      const re = ensureGlobal(/href="([^"]+)"/g);
-      const out = [];
-      let m;
-      while((m = re.exec(html))){
-        const href = m[1];
-        if(!href || href === '../') continue;
-        out.push(href);
-      }
-      return out;
-    }catch(e){
-      return [];
-    }
-  }
-
-  async function detectReadingRoot(){
-    const cached = sessionStorage.getItem(READ_ROOT_KEY);
-    if(cached) return cached;
-
-    async function hasReadingTxt(dir){
-      const hrefs = await listHrefs(dir);
-      return hrefs.some(h => /TOEFL_Reading_\d{4}\.txt$/i.test(h));
-    }
-
-    // 1) Directly under data/reading/
-    if(await hasReadingTxt('data/reading/')){
-      sessionStorage.setItem(READ_ROOT_KEY, 'data/reading');
-      return 'data/reading';
-    }
-
-    // 2) One / two-level wrapper folders
-    const lv1 = (await listHrefs('data/reading/')).filter(h=>h.endsWith('/')).map(h=>h.replace(/\/$/,''));
-    for(const d1 of lv1){
-      const p1 = `data/reading/${d1}`;
-      if(await hasReadingTxt(p1 + '/')){
-        sessionStorage.setItem(READ_ROOT_KEY, p1);
-        return p1;
-      }
-      const lv2 = (await listHrefs(p1 + '/')).filter(h=>h.endsWith('/')).map(h=>h.replace(/\/$/,''));
-      for(const d2 of lv2){
-        const p2 = `${p1}/${d2}`;
-        if(await hasReadingTxt(p2 + '/')){
-          sessionStorage.setItem(READ_ROOT_KEY, p2);
-          return p2;
-        }
-      }
-    }
-    return null;
-  }
-
-  async function buildReadingIndex(){
-    const root = await detectReadingRoot();
-    if(!root) throw new Error('Reading 데이터가 없어. TOFEL기출-reading.zip을 data/reading/ 안에 압축 해제해줘.');
-
-    const hrefs = await listHrefs(root + '/');
-    const files = hrefs.filter(h => /TOEFL_Reading_\d{4}\.txt$/i.test(h));
-    if(!files.length) throw new Error('Reading txt 파일을 못 찾았어. data/reading/에 압축 해제됐는지 확인해줘.');
-
-    // Build index with limited concurrency (title/wordCount parsing)
-    const tasks = files
-      .map(f => ({
-        file: f,
-        id: Number((f.match(/TOEFL_Reading_(\d{4})\.txt/i)||[])[1] || 0)
-      }))
-      .sort((a,b)=>a.id-b.id);
-
-    const out = new Array(tasks.length);
-    let cursor = 0;
-    const CONC = 16;
-
-    async function worker(){
-      while(cursor < tasks.length){
-        const i = cursor++;
-        const t = tasks[i];
-        try{
-          const raw = await fetchText(`${root}/${t.file}`);
-          const parsed = parseReadingTxt(raw);
-          out[i] = {
-            id: t.id || parsed.id || i+1,
-            title: parsed.title || `Passage ${String(t.id).padStart(4,'0')}`,
-            wordCount: parsed.wordCount || null,
-            file: t.file,
-            root
-          };
-        }catch(e){
-          out[i] = {
-            id: t.id || i+1,
-            title: `Passage ${String(t.id).padStart(4,'0')}`,
-            wordCount: null,
-            file: t.file,
-            root
-          };
-        }
-      }
-    }
-
-    await Promise.all(Array.from({length: Math.min(CONC, tasks.length)}, ()=>worker()));
-    return out;
-  }
-
-  async function getReadingIndex(){
-    if(_readingIndex) return _readingIndex;
-    const cached = sessionStorage.getItem(READ_CACHE_KEY);
-    if(cached){
-      try{ _readingIndex = JSON.parse(cached); return _readingIndex; }catch(e){}
-    }
-    _readingIndex = await buildReadingIndex();
-    sessionStorage.setItem(READ_CACHE_KEY, JSON.stringify(_readingIndex));
-    return _readingIndex;
-  }
-
-  async function loadReadingPassage(file, rootOverride=null){
-    const root = rootOverride || (await detectReadingRoot()) || 'data/reading';
-    try{
-      const raw = await fetchText(`${root}/${file}`);
-      return parseReadingTxt(raw);
-    }catch(e){
-      throw new Error('Reading 지문 파일을 못 찾았어. data/reading/ 아래에 txt가 있는지 확인해줘.');
-    }
-  }
-
-  function parseReadingTxt(raw){
-    const lines = raw.replace(/\r\n/g,'\n').split('\n');
-    const header = lines[0] || '';
-    const titleMatch = header.match(/^Passage\s+(\d+):\s*(.+)$/);
-    const id = titleMatch ? Number(titleMatch[1]) : null;
-    const title = titleMatch ? titleMatch[2].trim() : header.trim();
-
-    const wordCountMatch = raw.match(/Approx\.\s*word count:\s*(\d+)/i);
-    const wordCount = wordCountMatch ? Number(wordCountMatch[1]) : null;
-
-    const qStart = lines.findIndex(l => l.trim().toLowerCase() === 'questions');
-    const answerStart = lines.findIndex(l => l.trim().toLowerCase() === 'answer key');
-    const passageLines = lines.slice(0, qStart === -1 ? lines.length : qStart);
-    // remove header blocks
-    const cleanedPassage = passageLines
-      .filter(l => !/^=+$/.test(l.trim()))
-      .filter(l => !/^\(Approx\./.test(l.trim()))
-      .filter(l => !/^Passage\s+\d+:/.test(l.trim()))
-      .join('\n')
-      .trim();
-
-    const qLines = (qStart !== -1 && answerStart !== -1 && answerStart > qStart) ? lines.slice(qStart+2, answerStart) : [];
-    const aLines = (answerStart !== -1) ? lines.slice(answerStart) : [];
-
-    const answers = {};
-    for(const l of aLines){
-      const m = l.match(/^(\d+)\s*:\s*([A-D])\b/);
-      if(m) answers[Number(m[1])] = m[2];
-    }
-
-    const questions = [];
-    let i=0;
-    while(i < qLines.length){
-      const line = qLines[i];
-      const qm = line.match(/^(\d+)\.\s*\[([^\]]+)\]\s*(.*)$/);
-      if(!qm){ i++; continue; }
-      const qnum = Number(qm[1]);
-      const qtype = qm[2].trim();
-      let qtext = qm[3].trim();
-      i++;
-
-      // collect until next question starts
-      const block = [];
-      while(i < qLines.length && !qLines[i].match(/^\d+\.\s*\[[^\]]+\]/)){
-        block.push(qLines[i]);
-        i++;
-      }
-
-      // split prompt vs choices
-      const promptLines = [qtext];
-      const choices = [];
-      let curChoice = null;
-
-      const flushChoice = ()=>{
-        if(curChoice){
-          curChoice.text = curChoice.text.trim();
-          choices.push(curChoice);
-          curChoice = null;
-        }
-      };
-
-      for(const bl of block){
-        const opt = bl.match(/^\s*([A-D])\.\s*(.*)$/);
-        if(opt){
-          flushChoice();
-          curChoice = {letter: opt[1], text: opt[2] || ''};
-        } else {
-          if(curChoice){
-            // wrap continuation
-            if(bl.trim()==='') continue;
-            curChoice.text += (curChoice.text ? ' ' : '') + bl.trim();
-          } else {
-            promptLines.push(bl);
-          }
-        }
-      }
-      flushChoice();
-
-      const prompt = promptLines.join('\n').trim();
-      const correct = answers[qnum] || null;
-
-      questions.push({num:qnum, type:qtype, prompt, choices, correct});
-    }
-
-    return {id, title, wordCount, passage: cleanedPassage, questions};
-  }
-
-/* Listening: auto-discover from extracted pack (python http.server listing) */
-const LISTEN_CACHE_KEY = 'toefl_listening_index_v1';
-const LISTEN_ROOT_KEY = 'toefl_listening_root_v1';
-
-async function detectListeningRoot(){
-  const cached = sessionStorage.getItem(LISTEN_ROOT_KEY);
-  if(cached) return cached;
-
-  async function exists(url){
-    try{
-      const res = await fetch(url, {cache:'no-store'});
-      return !!(res && res.ok);
-    }catch(e){
-      return false;
-    }
-  }
-
-  async function hasSet(path){
-    try{
-      const res = await fetch(`${path}/Listening_Set_001/metadata.json`, {cache:'no-store'});
-      return !!(res && res.ok);
-    }catch(e){
-      return false;
-    }
-  }
-
-  async function listDirs(path){
-    try{
-      const html = await fetchText(path.endsWith('/') ? path : (path + '/'));
-      const re = ensureGlobal(/href="([^"]+\/)"/g);
-      const out = [];
-      let m;
-      while((m = re.exec(html))){
-        const href = m[1];
-        if(!href || href === '../') continue;
-        const name = href.replace(/\/$/,'');
-        if(name && !out.includes(name)) out.push(name);
-      }
-      return out;
-    }catch(e){
-      return [];
-    }
-  }
-
-  // 1) Directly extracted sets under data/listening/
-  if(await hasSet('data/listening')){
-    sessionStorage.setItem(LISTEN_ROOT_KEY, 'data/listening');
-    return 'data/listening';
-  }
-
-  // 2) One-level folder under data/listening/
-  const lv1 = await listDirs('data/listening/');
-  for(const d1 of lv1){
-    const p1 = `data/listening/${d1}`;
-    if(await hasSet(p1)){
-      sessionStorage.setItem(LISTEN_ROOT_KEY, p1);
-      return p1;
-    }
-
-    // 3) Two-level nested (common when zip has a wrapper folder)
-    const lv2 = await listDirs(p1 + '/');
-    for(const d2 of lv2){
-      const p2 = `${p1}/${d2}`;
-      if(await hasSet(p2)){
-        sessionStorage.setItem(LISTEN_ROOT_KEY, p2);
-        return p2;
-      }
-    }
-  }
-
-  return null;
+function formatTime(sec){
+  sec = Math.max(0, Math.floor(sec));
+  const m = Math.floor(sec/60);
+  const s = sec%60;
+  return `${m}:${pad2(s)}`;
 }
 
-
-  async function buildListeningIndex(){
-    const root = await detectListeningRoot();
-    if(!root) throw new Error('Listening 팩을 data/listening/ 에 압축 해제해줘.');
-
-    // get directory listing for root to find set folders
-    const html = await fetchText(root + '/');
-    const re = ensureGlobal(/Listening_Set_(\d{3})\//g);
-    const ids = [];
-    let m;
-    while((m = re.exec(html))){
-      ids.push(Number(m[1]));
-    }
-    ids.sort((a,b)=>a-b);
-
-    const index = [];
-    // fetch metadata for each set (cap to 300 for safety)
-    const cap = Math.min(ids.length, 400);
-    for(let i=0;i<cap;i++){
-      const set = ids[i];
-      const folder = `Listening_Set_${String(set).padStart(3,'0')}`;
-      try{
-        const meta = await fetchJson(`${root}/${folder}/metadata.json`);
-        index.push({
-          set,
-          folder,
-          path: `${root}/${folder}`,
-          format: meta.format || 'unknown',
-          category: meta.category || '',
-          main_topic: meta.main_topic || meta.scenario || '',
-          scenario: meta.scenario || '',
-          v: meta.v || ''
-        });
-      }catch(e){
-        // skip
-      }
-    }
-    return index;
+function toast(msg, ms=2200){
+  let t = document.getElementById('toast');
+  if(!t){
+    t = document.createElement('div');
+    t.id='toast';
+    t.style.cssText = `
+      position:fixed;left:50%;bottom:24px;transform:translateX(-50%);
+      background:rgba(0,0,0,.78);color:#fff;padding:10px 14px;border-radius:10px;
+      font-size:14px;z-index:99999;max-width:90vw;text-align:center;
+      box-shadow:0 8px 18px rgba(0,0,0,.25);`;
+    document.body.appendChild(t);
   }
+  t.textContent = msg;
+  t.style.opacity = '1';
+  clearTimeout(t.__hide);
+  t.__hide = setTimeout(()=>{ t.style.opacity='0'; }, ms);
+}
 
-  async function getListeningIndex(){
-    const cached = sessionStorage.getItem(LISTEN_CACHE_KEY);
-    if(cached){
-      try{ return JSON.parse(cached); }catch(e){}
-    }
-    const idx = await buildListeningIndex();
-    sessionStorage.setItem(LISTEN_CACHE_KEY, JSON.stringify(idx));
-    return idx;
+function escapeHtml(s){
+  return (s??'').toString()
+    .replaceAll('&','&amp;')
+    .replaceAll('<','&lt;')
+    .replaceAll('>','&gt;')
+    .replaceAll('"','&quot;')
+    .replaceAll("'","&#39;");
+}
+
+// --- storage (practice: no localStorage usage by convention; sim: localStorage allowed) ---
+const storage = {
+  get(key, def=null){
+    try{
+      const v = localStorage.getItem(key);
+      if(v==null) return def;
+      return JSON.parse(v);
+    }catch(e){ return def; }
+  },
+  set(key, val){
+    try{ localStorage.setItem(key, JSON.stringify(val)); }catch(e){}
+  },
+  del(key){
+    try{ localStorage.removeItem(key); }catch(e){}
   }
+};
 
-  async function loadListeningSet(entry){
-    const base = entry.path;
-    const [qtxt, atxt] = await Promise.all([
-      fetchText(`${base}/questions.txt`),
-      fetchText(`${base}/answer_key.txt`).catch(()=> '')
-    ]);
-    const qs = parseListeningQuestions(qtxt);
-    const ans = parseListeningAnswerKey(atxt);
-    for(const q of qs){
-      if(ans[q.num]){
-        q.correct = ans[q.num].letter;
-        q.explain = ans[q.num].explain;
-      }
-    }
-    return {entry, questions: qs};
+const sessionStore = {
+  get(key, def=null){
+    try{
+      const v = sessionStorage.getItem(key);
+      if(v==null) return def;
+      return JSON.parse(v);
+    }catch(e){ return def; }
+  },
+  set(key, val){
+    try{ sessionStorage.setItem(key, JSON.stringify(val)); }catch(e){}
+  },
+  del(key){
+    try{ sessionStorage.removeItem(key); }catch(e){}
   }
+};
 
-  function parseListeningQuestions(txt){
-    const lines = txt.replace(/\r\n/g,'\n').split('\n');
-    const qs = [];
-    let cur = null;
-    let curChoice = null;
-
-    const flushChoice = ()=>{
-      if(curChoice){
-        curChoice.text = curChoice.text.trim();
-        cur.choices.push(curChoice);
-        curChoice = null;
-      }
-    };
-    const flushQ = ()=>{
-      if(cur){
-        flushChoice();
-        cur.prompt = cur.prompt.trim();
-        qs.push(cur);
-        cur = null;
-      }
-    };
-
-    for(const line of lines){
-      const qm = line.match(/^Q(\d+)\.\s*\(([^\)]+)\)\s*(.*)$/);
-      if(qm){
-        flushQ();
-        cur = { num:Number(qm[1]), type: qm[2].trim(), prompt: (qm[3]||'').trim(), choices: [], correct:null, explain:'' };
-        continue;
-      }
-      if(!cur) continue;
-
-      const opt = line.match(/^\s*([A-D])\.\s*(.*)$/);
-      if(opt){
-        flushChoice();
-        curChoice = { letter: opt[1], text: (opt[2]||'').trim() };
-        continue;
-      }
-
-      if(curChoice){
-        if(line.trim()==='') continue;
-        curChoice.text += ' ' + line.trim();
-      } else {
-        if(line.trim()==='') continue;
-        cur.prompt += '\n' + line;
-      }
-    }
-    flushQ();
-    return qs;
-  }
-
-  function parseListeningAnswerKey(txt){
-    const out = {};
-    const lines = txt.replace(/\r\n/g,'\n').split('\n');
-    for(const line of lines){
-      const m = line.match(/^Q(\d+)\s*:\s*([A-D])\s*-\s*(.*)$/);
-      if(m){
-        out[Number(m[1])] = { letter: m[2], explain: (m[3]||'').trim() };
-      }
-    }
-    return out;
-  }
-
-  function pickRandom(arr, n){
-    const a = arr.slice();
-    for(let i=a.length-1;i>0;i--){
-      const j = Math.floor(Math.random()*(i+1));
-      [a[i],a[j]]=[a[j],a[i]];
-    }
-    return a.slice(0, Math.min(n, a.length));
-  }
-
-
-  // --- Audio guard (best-effort) ---
-  // 브라우저/DevTools로 오디오 배속/구간이동 같은 임의조작을 "완전" 차단하긴 불가능하지만,
-  // 일반적인 조작(배속, 시킹, 일시정지)을 최대한 막아두는 가드야.
-  function secureAudio(audio, opts){
-    opts = Object.assign({ blockSeek:true, blockRate:true, blockPause:false }, opts||{});
-    if(!audio || audio.__toeflSecured) return audio;
-    Object.defineProperty(audio, '__toeflSecured', { value:true });
-
-    try{ audio.controls = false; }catch(e){}
-    try{ audio.preload = 'auto'; }catch(e){}
-    try{ if(opts.blockRate) audio.playbackRate = 1; }catch(e){}
-
-    let lastSafe = 0;
-    let internal = false;
-
-    function setTime(t){
-      internal = true;
-      try{ audio.currentTime = t; }catch(e){}
-      internal = false;
-    }
-
-    audio.addEventListener('timeupdate', ()=>{
-      if(internal) return;
-      if(audio.seeking) return;
-      // 정상 재생 중이면 안전 시간 갱신
-      lastSafe = audio.currentTime || 0;
-    });
-
-    if(opts.blockSeek){
-      audio.addEventListener('seeking', ()=>{
-        if(internal) return;
-        const cur = audio.currentTime || 0;
-        const diff = Math.abs(cur - lastSafe);
-        // 자연스러운 드리프트는 허용
-        if(diff > 0.6){
-          setTime(lastSafe);
-          toast('오디오 구간 이동은 막아뒀어');
-        }
-      });
-    }
-
-    if(opts.blockRate){
-      audio.addEventListener('ratechange', ()=>{
-        try{
-          if(audio.playbackRate !== 1){
-            audio.playbackRate = 1;
-            toast('배속 변경은 막아뒀어');
-          }
-        }catch(e){}
-      });
-      audio.addEventListener('loadedmetadata', ()=>{
-        try{ audio.playbackRate = 1; }catch(e){}
-      });
-    }
-
-    if(opts.blockPause){
-      audio.addEventListener('pause', ()=>{
-        // ended 직전/직후 pause는 무시
-        const dur = audio.duration || 0;
-        const cur = audio.currentTime || 0;
-        if(dur && (dur - cur) < 0.25) return;
-        // 우리 코드에서 명시적으로 멈춘 경우는 허용
-        if(audio.__toeflAllowPauseOnce){
-          audio.__toeflAllowPauseOnce = false;
-          return;
-        }
-        // 임의 일시정지 방지
-        try{
-          if(sectionIsListening()){ // sim.js/app.js에서 주입
-            audio.play().catch(()=>{});
-            toast('일시정지는 막아뒀어');
-          }
-        }catch(e){}
-      });
-    }
-
-    return audio;
-  }
-
-  // sim.js/app.js에서 현재 섹션이 Listening인지 알려주기 위한 훅(없으면 true로 처리 안 함)
-  let _sectionIsListening = null;
-  function setSectionIsListening(fn){ _sectionIsListening = fn; }
-  function sectionIsListening(){ return (typeof _sectionIsListening === 'function') ? !!_sectionIsListening() : false; }
-
-  // --- Service Worker 등록: data 폴더 직접 URL 접근(네비게이션) 차단 ---
+// --- fetch helpers ---
+async function fetchText(url){
+  const r = await fetch(url, {cache:'no-store'});
+  if(!r.ok) throw new Error(`HTTP ${r.status} ${url}`);
+  return await r.text();
+}
+async function fetchJson(url){
+  const r = await fetch(url, {cache:'no-store'});
+  if(!r.ok) throw new Error(`HTTP ${r.status} ${url}`);
+  return await r.json();
+}
+async function exists(url){
   try{
-    if('serviceWorker' in navigator){
-      window.addEventListener('load', ()=>{
-        navigator.serviceWorker.register('sw.js').catch(()=>{});
-      });
+    const r = await fetch(url, {method:'HEAD', cache:'no-store'});
+    return r.ok;
+  }catch(e){
+    return false;
+  }
+}
+
+// --- File name helpers ---
+function normalizePath(p){
+  return (p||'').replaceAll('\\','/').replace(/\/+/g,'/').replace(/^.\//,'');
+}
+
+function isProbablyReadingTxt(name){
+  name = (name||'').toLowerCase();
+  return name.endsWith('.txt') && name.includes('toefl') && name.includes('reading');
+}
+
+function isProbablyListeningSetFolder(name){
+  return /^Listening_Set_\d{3}$/i.test((name||'').trim());
+}
+
+// --- Reading loader (auto-scan from data/reading, supports index.json or directory listing) ---
+async function loadReadingIndex(){
+  // Strategy:
+  // 1) If data/reading/index.json exists -> use it
+  // 2) else try directory listing parse (works in simple servers)
+  // 3) else fallback to brute force TOEFL_Reading_0001..9999 (stop on first long miss)
+  const base = '/data/reading/';
+  // 1) index.json
+  try{
+    if(await exists(base+'index.json')){
+      const idx = await fetchJson(base+'index.json');
+      // idx can be array of filenames or objects
+      let files = [];
+      if(Array.isArray(idx)){
+        files = idx.map(x => typeof x==='string'? x : x.file || x.path || '').filter(Boolean);
+      }else if(idx && Array.isArray(idx.files)){
+        files = idx.files.map(x => typeof x==='string'? x : x.file || x.path || '').filter(Boolean);
+      }
+      files = files.map(normalizePath).map(f => f.startsWith('data/reading/')? f.replace(/^data\/reading\//,'') : f);
+      const unique = Array.from(new Set(files)).filter(f=>f.toLowerCase().endsWith('.txt'));
+      return unique.map(f=>({file:f, title:f.replace(/\.txt$/i,'')})).sort((a,b)=>a.file.localeCompare(b.file));
     }
   }catch(e){}
 
-  window.TOEFL = {
-    $, $$, escapeHtml, ensureGlobal, fmtTime, toast,
-    secureAudio, setSectionIsListening,
-    getReadingIndex, loadReadingPassage,
-    getListeningIndex, loadListeningSet, detectListeningRoot,
-    pickRandom
-  };
+  // 2) directory listing (Apache/python http.server shows <a href="...">)
+  try{
+    const html = await fetchText(base);
+    const links = Array.from(html.matchAll(/href="([^"]+)"/g)).map(m=>m[1]);
+    const files = links
+      .filter(h => h && h.endsWith('.txt'))
+      .map(h => decodeURIComponent(h))
+      .filter(isProbablyReadingTxt)
+      .map(normalizePath);
+    const unique = Array.from(new Set(files));
+    if(unique.length){
+      return unique.map(f=>({file:f, title:f.replace(/\.txt$/i,'')})).sort((a,b)=>a.file.localeCompare(b.file));
+    }
+  }catch(e){}
 
-
-  // --- Soft block hard refresh (Shift+F5 etc.) during Simulation ---
-  function __toeflIsSimContext(){
-    try{
-      if(document.body && document.body.classList.contains('sim')) return true;
-      const h = location.hash || '';
-      if(h.startsWith('#/sim')) return true;
-      const qs = location.search || '';
-      if(qs.includes('mode=sim')) return true;
-    }catch(e){}
-    return false;
-  }
-
-  function __toeflToast(msg){
-    try{
-      const el = document.getElementById('toast');
-      if(!el){ alert(msg); return; }
-      el.textContent = msg;
-      el.classList.remove('hidden');
-      clearTimeout(el.__t);
-      el.__t = setTimeout(()=> el.classList.add('hidden'), 1400);
-    }catch(e){
-      try{ alert(msg); }catch(_){}
+  // 3) brute force
+  const list = [];
+  let miss=0;
+  for(let i=1;i<=5000;i++){
+    const fn = `TOEFL_Reading_${String(i).padStart(4,'0')}.txt`;
+    const ok = await exists(base+fn);
+    if(ok){
+      list.push({file:fn, title:fn.replace(/\.txt$/i,'')});
+      miss=0;
+    }else{
+      miss++;
+      if(miss>40 && list.length>20) break;
     }
   }
+  return list;
+}
 
-  function __toeflInstallReloadBlock(){
-    if(window.__toeflReloadBlock) return;
-    window.__toeflReloadBlock = true;
+async function loadReadingPassage(file){
+  const url = '/data/reading/' + normalizePath(file);
+  const text = await fetchText(url);
+  return parseReadingTxt(text, file);
+}
 
-    window.addEventListener('keydown', (e)=>{
-      if(!__toeflIsSimContext()) return;
+function parseReadingTxt(raw, fileName=''){
+  // This parser is compatible with earlier generator format:
+  // - Title line
+  // - Passage text paragraphs
+  // - Questions numbered
+  // - Answer key at bottom
+  const lines = raw.replace(/\r\n/g,'\n').split('\n');
+  let title = (lines[0]||'').trim();
+  if(!title || title.length<3) title = fileName || 'Reading';
+  let i=0;
 
-      const key = (e.key || '').toLowerCase();
-      const isF5 = (e.key === 'F5' || e.code === 'F5' || e.keyCode === 116);
-      const isHard = isF5 && (e.shiftKey || e.ctrlKey);
-      const isSoft = isF5 || ((e.ctrlKey || e.metaKey) && key === 'r');
+  // skip initial empties
+  while(i<lines.length && !lines[i].trim()) i++;
+  // title as first non-empty
+  title = (lines[i]||title).trim();
+  i++;
 
-      if(isHard || isSoft){
-        try{
-          e.preventDefault();
-          e.stopPropagation();
-          e.stopImmediatePropagation && e.stopImmediatePropagation();
-        }catch(_){}
-        __toeflToast('실전모드에서는 새로고침이 제한돼.');
-        return false;
+  // gather until we hit a question pattern "1." or "1)" etc
+  const passageLines = [];
+  const qStartRe = /^\s*(\d{1,2})\s*[\.\)]\s+/;
+  while(i<lines.length){
+    const l = lines[i];
+    if(qStartRe.test(l)) break;
+    passageLines.push(l);
+    i++;
+  }
+  const passageText = passageLines.join('\n').trim();
+
+  // parse questions
+  const questions = [];
+  while(i<lines.length){
+    const m = lines[i].match(qStartRe);
+    if(!m){ i++; continue; }
+    const qNum = parseInt(m[1],10);
+    const stem = lines[i].replace(qStartRe,'').trim();
+    i++;
+
+    // collect choice lines (A) ... or A. ... etc) until next question or answer key
+    const choices = [];
+    const choiceRe = /^\s*([A-D])\s*[\)\.\:]\s*(.+)\s*$/i;
+    while(i<lines.length){
+      const l = lines[i];
+      if(qStartRe.test(l)) break;
+      if(/^\s*Answer\s*Key\b/i.test(l)) break;
+      const cm = l.match(choiceRe);
+      if(cm){
+        choices.push({key:cm[1].toUpperCase(), text:cm[2].trim()});
+      }else{
+        // some formats wrap choices on next line; append to last choice if exists
+        if(choices.length && l.trim()){
+          choices[choices.length-1].text += ' ' + l.trim();
+        }
       }
-    }, true);
-
-    // Even if refresh happens, show a confirm dialog on unload (soft deterrent)
-    window.addEventListener('beforeunload', (e)=>{
-      if(!__toeflIsSimContext()) return;
-      try{
-        e.preventDefault();
-        e.returnValue = '';
-      }catch(_){}
+      i++;
+    }
+    questions.push({
+      id: `${fileName||'R'}_Q${qNum}`,
+      num: qNum,
+      stem,
+      choices
     });
   }
 
-  // install immediately
-  try{ __toeflInstallReloadBlock(); }catch(e){}
+  // answer key: try to locate with regex over entire raw
+  const answers = {};
+  // common formats: "1. B" , "1:B", "1)B"
+  const ansRe = /(^|\n)\s*(\d{1,2})\s*[\.\)\:]\s*([A-D])\b/g;
+  let mm;
+  while((mm = ansRe.exec(raw))!==null){
+    answers[parseInt(mm[2],10)] = mm[3].toUpperCase();
+  }
 
+  // attach correct
+  for(const q of questions){
+    q.correct = answers[q.num] || null;
+  }
+
+  return {title, file:fileName, passageText, questions};
+}
+
+// --- Listening loader (path fix: /data/listening/Listening_Set_001/answer_key.txt) ---
+async function loadListeningIndex(){
+  // Strategy:
+  // 1) Try to list /data/listening/ and find Listening_Set_### folders by HTML listing
+  // 2) Fallback: brute force Listening_Set_001..999 by checking answer_key.txt
+  // 3) If zip has wrapper folder, try one-level wrapper detection by probing common wrappers
+  const base = '/data/listening/';
+
+  // 1) directory listing
+  try{
+    const html = await fetchText(base);
+    const links = Array.from(html.matchAll(/href="([^"]+)"/g)).map(m=>m[1]);
+    const folders = links
+      .map(h=>decodeURIComponent(h))
+      .map(h=>h.replace(/\/$/,''))
+      .filter(isProbablyListeningSetFolder)
+      .map(normalizePath);
+    if(folders.length){
+      return folders
+        .map(f=>({folder:f, title:f}))
+        .sort((a,b)=>a.folder.localeCompare(b.folder));
+    }
+  }catch(e){}
+
+  // 2) brute force direct
+  const direct = [];
+  let miss=0;
+  for(let i=1;i<=999;i++){
+    const f = `Listening_Set_${String(i).padStart(3,'0')}`;
+    const ok = await exists(`${base}${f}/answer_key.txt`);
+    if(ok){
+      direct.push({folder:f, title:f});
+      miss=0;
+    }else{
+      miss++;
+      if(miss>40 && direct.length>10) break;
+    }
+  }
+  if(direct.length) return direct;
+
+  // 3) wrapper folder detection (one-level)
+  // If someone extracted zip with a top folder, listing might show that folder but not sets.
+  // We'll probe a few common wrapper names by looking for Listening_Set_001 inside them.
+  const wrapperCandidates = [
+    'TOEFL_Listening_Pack_v6_6_QOnly_NoChoices',
+    'TOEFL_Listening_Pack',
+    'listening',
+    'Listening',
+    'TOFEL기출-listening'
+  ];
+  for(const w of wrapperCandidates){
+    const ok = await exists(`${base}${w}/Listening_Set_001/answer_key.txt`);
+    if(ok){
+      // list via brute force under wrapper
+      const res=[];
+      for(let i=1;i<=999;i++){
+        const f = `Listening_Set_${String(i).padStart(3,'0')}`;
+        const ok2 = await exists(`${base}${w}/${f}/answer_key.txt`);
+        if(ok2) res.push({folder:`${w}/${f}`, title:f});
+      }
+      if(res.length) return res;
+    }
+  }
+
+  return [];
+}
+
+async function loadListeningSet(folder){
+  // folder can be "Listening_Set_001" or "wrapper/Listening_Set_001"
+  const base = '/data/listening/' + normalizePath(folder).replace(/\/$/,'') + '/';
+
+  // required: answer_key.txt (as you requested)
+  const answerKeyTxt = await fetchText(base + 'answer_key.txt');
+
+  // optional: metadata.json, questions.txt
+  let metadata = null, questionsTxt = null;
+  try{ if(await exists(base+'metadata.json')) metadata = await fetchJson(base+'metadata.json'); }catch(e){}
+  try{ if(await exists(base+'questions.txt')) questionsTxt = await fetchText(base+'questions.txt'); }catch(e){}
+
+  // audio: listening.mp3 required; question audios optional
+  const listeningAudio = base + 'listening.mp3';
+  const hasListening = await exists(listeningAudio);
+  if(!hasListening){
+    throw new Error(`listening.mp3 not found in ${base}`);
+  }
+
+  // parse questions
+  const q = parseListeningQuestions(questionsTxt, metadata, folder);
+
+  // parse answers from answer_key.txt
+  const answers = parseAnswerKey(answerKeyTxt);
+  for(const item of q){
+    item.correct = answers[item.num] || null;
+  }
+
+  // question audio URLs
+  for(const item of q){
+    const n = String(item.num).padStart(2,'0');
+    item.audioUrl = base + `questions_q${n}.mp3`;
+  }
+
+  return {
+    folder,
+    base,
+    metadata,
+    listeningAudio,
+    questions: q
+  };
+}
+
+function parseAnswerKey(txt){
+  const m = {};
+  if(!txt) return m;
+  // supports "1 B", "1. B", "1:B"
+  const re = /(^|\n)\s*(\d{1,2})\s*[\.\:\)]?\s*([A-D])\b/gi;
+  let mm;
+  while((mm = re.exec(txt))!==null){
+    m[parseInt(mm[2],10)] = mm[3].toUpperCase();
+  }
+  return m;
+}
+
+function parseListeningQuestions(questionsTxt, metadata, folder){
+  // Prefer metadata if it has questions array
+  if(metadata && Array.isArray(metadata.questions) && metadata.questions.length){
+    return metadata.questions.map((qq, idx)=>({
+      id: `${folder}_Q${idx+1}`,
+      num: idx+1,
+      stem: (qq.stem||qq.question||'').trim(),
+      choices: (qq.choices||qq.options||[]).map((c,i)=>({
+        key: String.fromCharCode(65+i),
+        text: typeof c==='string'? c : (c.text||'')
+      }))
+    }));
+  }
+
+  // Fallback: parse questions.txt
+  const out = [];
+  if(!questionsTxt) return out;
+  const lines = questionsTxt.replace(/\r\n/g,'\n').split('\n');
+  const qStart = /^\s*(\d{1,2})\s*[\.\)]\s*(.+)\s*$/;
+  const choiceRe = /^\s*([A-D])\s*[\)\.\:]\s*(.+)\s*$/i;
+  let i=0;
+  while(i<lines.length){
+    const m = lines[i].match(qStart);
+    if(!m){ i++; continue; }
+    const num = parseInt(m[1],10);
+    let stem = (m[2]||'').trim();
+    i++;
+    const choices=[];
+    while(i<lines.length){
+      const l = lines[i];
+      if(qStart.test(l)) break;
+      const cm = l.match(choiceRe);
+      if(cm){
+        choices.push({key:cm[1].toUpperCase(), text:cm[2].trim()});
+      }else{
+        if(choices.length && l.trim()){
+          choices[choices.length-1].text += ' ' + l.trim();
+        }else if(!choices.length && l.trim()){
+          stem += ' ' + l.trim();
+        }
+      }
+      i++;
+    }
+    out.push({id:`${folder}_Q${num}`, num, stem, choices});
+  }
+  return out;
+}
+
+// --- Simulation assembling (mix lecture+conversation) ---
+function shuffle(arr, rng=Math.random){
+  const a = arr.slice();
+  for(let i=a.length-1;i>0;i--){
+    const j = Math.floor(rng()*(i+1));
+    [a[i],a[j]]=[a[j],a[i]];
+  }
+  return a;
+}
+
+function mulberry32(seed){
+  let t = seed >>> 0;
+  return function(){
+    t += 0x6D2B79F5;
+    let r = Math.imul(t ^ (t>>>15), 1 | t);
+    r ^= r + Math.imul(r ^ (r>>>7), 61 | r);
+    return ((r ^ (r>>>14)) >>> 0) / 4294967296;
+  };
+}
+
+async function buildSimListeningPicks(listIndex, opts={}){
+  // listIndex: [{folder,title}] where folder like "Listening_Set_001"
+  // We decide lecture vs conversation by reading metadata.type if possible
+  // If metadata missing, use folder number heuristic (odd/ even won't work) -> treat unknown as lecture.
+  const rng = mulberry32(opts.seed ?? (Date.now() & 0xffffffff));
+
+  // classify by metadata if available (lightweight: try metadata.json head for few)
+  const lectures=[];
+  const convs=[];
+  for(const it of listIndex){
+    // Only probe a few fields; do not fetch huge
+    const base = '/data/listening/' + normalizePath(it.folder).replace(/\/$/,'') + '/';
+    let type = null;
+    try{
+      if(await exists(base+'metadata.json')){
+        const md = await fetchJson(base+'metadata.json');
+        type = (md.type||md.kind||md.category||'').toString().toLowerCase();
+      }
+    }catch(e){}
+    const isConv = type && (type.includes('conv') || type.includes('conversation'));
+    if(isConv) convs.push(it);
+    else lectures.push(it);
+  }
+
+  // pick counts
+  const lectureCount = opts.lectureCount ?? 3;
+  const convCount = opts.convCount ?? 2;
+
+  const pickL = shuffle(lectures, rng).slice(0, Math.min(lectureCount, lectures.length));
+  const pickC = shuffle(convs, rng).slice(0, Math.min(convCount, convs.length));
+
+  // if not enough convs, fill from lectures; if not enough lectures, fill from convs
+  while(pickC.length < convCount && lectures.length){
+    const cand = shuffle(lectures, rng).find(x=>!pickL.includes(x) && !pickC.includes(x));
+    if(!cand) break;
+    pickC.push(cand);
+  }
+  while(pickL.length < lectureCount && convs.length){
+    const cand = shuffle(convs, rng).find(x=>!pickL.includes(x) && !pickC.includes(x));
+    if(!cand) break;
+    pickL.push(cand);
+  }
+
+  // mix order (as requested)
+  const mixed = shuffle([...pickL, ...pickC], rng);
+  return mixed;
+}
+
+// --- expose public API ---
+window.TOEFL_SHARED = {
+  $,$$,
+  clamp,pad2,formatTime,toast,escapeHtml,
+  storage,sessionStore,
+  fetchText,fetchJson,exists,
+  loadReadingIndex,loadReadingPassage,parseReadingTxt,
+  loadListeningIndex,loadListeningSet,parseListeningQuestions,parseAnswerKey,
+  shuffle,mulberry32,buildSimListeningPicks
+};
 
 })();
