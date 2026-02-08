@@ -1,0 +1,14 @@
+{
+  "set": 37,
+  "format": "lecture",
+  "category": "Philosophy",
+  "scenario": "a thought experiment about fairness and why intuitions conflict",
+  "main_topic": "a thought experiment about fairness and why intuitions conflict",
+  "purpose": "explain a concept and show how to evaluate information",
+  "detail_fact": "The professor explains that a baseline makes comparisons meaningful.",
+  "function_phrase": "Right.",
+  "organization": "Problem \u2192 Explanation \u2192 Two Examples \u2192 Takeaway",
+  "attitude": "Informative and encouraging",
+  "no_meta_directions": true,
+  "v": "6"
+}
