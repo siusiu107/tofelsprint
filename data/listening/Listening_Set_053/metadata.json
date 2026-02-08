@@ -1,0 +1,14 @@
+{
+  "set": 53,
+  "format": "student-student",
+  "category": "Campus Life",
+  "scenario": "resetting roles after someone missed a meeting and the timeline slipped",
+  "main_topic": "resetting roles after someone missed a meeting and the timeline slipped",
+  "purpose": "make a plan and decide on next steps",
+  "detail_fact": "They realize a misunderstanding caused the problem and reset responsibilities.",
+  "function_phrase": "So you're saying\u2026",
+  "organization": "brainstorming",
+  "attitude": "Cooperative and practical",
+  "no_meta_directions": true,
+  "v": "6"
+}
