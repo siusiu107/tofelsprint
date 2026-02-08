@@ -1,0 +1,14 @@
+{
+  "set": 22,
+  "format": "lecture",
+  "category": "Mathematics",
+  "scenario": "proofs, counterexamples, and why intuition can mislead",
+  "main_topic": "proofs, counterexamples, and why intuition can mislead",
+  "purpose": "explain a concept and show how to evaluate information",
+  "detail_fact": "The professor warns that correlation is not the same as causation.",
+  "function_phrase": "So what does that imply?",
+  "organization": "Key term \u2192 Common trap \u2192 Two cases \u2192 Review",
+  "attitude": "Informative and encouraging",
+  "no_meta_directions": true,
+  "v": "6"
+}

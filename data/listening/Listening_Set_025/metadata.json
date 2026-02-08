@@ -1,0 +1,14 @@
+{
+  "set": 25,
+  "format": "lecture",
+  "category": "Robotics",
+  "scenario": "sensors vs actuators and how feedback stabilizes motion",
+  "main_topic": "sensors vs actuators and how feedback stabilizes motion",
+  "purpose": "explain a concept and show how to evaluate information",
+  "detail_fact": "The professor reminds students that signpost words reveal the lecture\u2019s structure.",
+  "function_phrase": "Here\u2019s the catch.",
+  "organization": "Definition \u2192 Example \u2192 Example \u2192 Checklist \u2192 Summary",
+  "attitude": "Informative and encouraging",
+  "no_meta_directions": true,
+  "v": "6"
+}
