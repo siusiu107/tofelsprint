@@ -1,0 +1,14 @@
+{
+  "set": 70,
+  "format": "student-staff",
+  "category": "Bookstore",
+  "scenario": "return policy, access codes, and what to do if a code is missing",
+  "main_topic": "return policy, access codes, and what to do if a code is missing",
+  "purpose": "solve a problem by explaining procedures",
+  "detail_fact": "The staff checks the student\u2019s account and summarizes next steps.",
+  "function_phrase": "Right, I can help.",
+  "organization": "summary of next steps",
+  "attitude": "Helpful and solution-oriented",
+  "no_meta_directions": true,
+  "v": "6"
+}

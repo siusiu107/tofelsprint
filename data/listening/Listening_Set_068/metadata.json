@@ -1,0 +1,14 @@
+{
+  "set": 68,
+  "format": "student-staff",
+  "category": "Dining Services",
+  "scenario": "dietary accommodations and changing a meal plan before a deadline",
+  "main_topic": "dietary accommodations and changing a meal plan before a deadline",
+  "purpose": "solve a problem by explaining procedures",
+  "detail_fact": "The staff says one missing form can trigger an automatic hold.",
+  "function_phrase": "That\u2019s a common issue.",
+  "organization": "policy explanation",
+  "attitude": "Helpful and solution-oriented",
+  "no_meta_directions": true,
+  "v": "6"
+}

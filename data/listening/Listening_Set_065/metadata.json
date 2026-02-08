@@ -1,0 +1,14 @@
+{
+  "set": 65,
+  "format": "student-staff",
+  "category": "IT Helpdesk",
+  "scenario": "wifi drops in the dorm and troubleshooting plus a backup plan",
+  "main_topic": "wifi drops in the dorm and troubleshooting plus a backup plan",
+  "purpose": "solve a problem by explaining procedures",
+  "detail_fact": "The staff recommends keeping a confirmation email as proof.",
+  "function_phrase": "Here\u2019s the good news.",
+  "organization": "summary of next steps",
+  "attitude": "Helpful and solution-oriented",
+  "no_meta_directions": true,
+  "v": "6"
+}
