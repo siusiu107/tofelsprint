@@ -1,3 +1,4 @@
+
 /* app.js - 메인 앱 */
 (function(){
   const { $, $$, toast, fmtTime, getReadingIndex, loadReadingPassage, getListeningIndex, loadListeningSet, pickRandom, secureAudio, setSectionIsListening, withLoading } = window.TOEFL;
@@ -529,11 +530,10 @@ function renderHome(){
 
       pEl.innerHTML = `${escape(before)}<mark class="hl">${escape(mid)}</mark>${escape(after)}`;
 
-      // ✅ scroll passage panel to show highlight around middle
+      // scroll passage panel to the highlighted paragraph
       try{
         const targetTop = pEl.offsetTop;
-        const y = targetTop - (passageEl.clientHeight * 0.45); // 0.45 ~ middle-ish
-        passageEl.scrollTo({ top: Math.max(0, y), behavior: 'smooth' });
+        passageEl.scrollTo({ top: Math.max(0, targetTop - 80), behavior: 'smooth' });
       }catch(e){}
     }
 
@@ -793,11 +793,378 @@ function renderHome(){
     render();
   }
 
-  // 아래부터 Listening/Sim 관련 코드는 너가 준 그대로라 생략 없이 유지됨
-  // (이 파일에서 바꾼 건 highlight scroll 계산 1곳뿐이야)
+  async function renderListeningViewer(setId){
+    setWeek('Week');
+    setSubbar(`Listening > Set ${String(setId).padStart(3,'0')}`);
+    // 상단 카운터는 Reading처럼 "세트 위치/전체" 표시
+    // (질문 번호/전체는 패널 안(qCounter)에 표시)
+    setCounter('—');
 
-  // Listening viewer / sim launcher / link interceptor ... (원본 그대로)
-  // --- 너가 붙여준 코드의 나머지 부분은 변경 없음 ---
+    // load index and find entry
+    let idx = [];
+    try{ idx = await withLoading('Listening 목록 로딩 중…', ()=>getListeningIndex()); }
+    catch(e){
+      main.innerHTML = `<div class="hero-card"><div class="kicker">Listening 팩이 안 보임</div><div class="muted">${(e.message||String(e)).replace(/[&<>"']/g, c=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]))}</div></div>`;
+      return;
+    }
+    const curIdx = idx.findIndex(x => x.set === setId);
+    const entry = idx[curIdx];
+    if(!entry){ renderNotFound(); return; }
+
+    // top counter: current set position / total sets
+    setCounter(`${String(curIdx+1).padStart(4,'0')}/${String(idx.length).padStart(4,'0')}`);
+
+    nav.prev = curIdx>0 ? `/practice/listening/${idx[curIdx-1].set}` : null;
+    nav.next = curIdx<idx.length-1 ? `/practice/listening/${idx[curIdx+1].set}` : null;
+    bindTopNav();
+
+    main.innerHTML = `
+      <div class="grid2">
+        <section class="panel">
+          <div class="panel-head">
+            <div>
+              <div class="panel-title">Listening > ${escape(entry.format)}</div>
+              <div class="muted small">${escape(entry.category)} · ${escape(entry.main_topic||entry.scenario||'')}</div>
+            </div>
+            <div class="row">
+              <span class="pill">Listening</span>
+              <button class="btn secondary" id="btnScript"><img style="width:18px;height:18px;filter:none" src="assets/doc.svg"/> Script</button>
+            </div>
+          </div>
+          <div class="panel-body" id="listenLeft">
+            <div class="muted small">&lt;The following script is for question 1, so listen carefully.&gt;</div>
+            <div style="height:18px"></div>
+            <div class="listen-figure">
+              <div class="listen-avatar"></div>
+              <div class="listen-board"></div>
+            </div>
+            <div style="height:18px"></div>
+            <div class="row">
+              <button class="btn" id="btnStart">Start</button>
+              <button class="btn secondary" id="btnStop">Stop</button>
+              <span class="muted small" id="phaseLabel"></span>
+            </div>
+          </div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-head">
+            <div class="panel-title" id="qTitle">Question</div>
+            <div class="row">
+              <button class="btn secondary" id="btnPrevQ" title="Prev"><img style="width:18px;height:18px;filter:none" src="assets/chev-left.svg"/></button>
+              <span class="pill" id="qCounter">—</span>
+              <button class="btn secondary" id="btnPlayQ" title="Play question audio">Q Audio</button>
+              <button class="btn secondary" id="btnNextQ" title="Next"><img style="width:18px;height:18px;filter:none" src="assets/chev-right.svg"/></button>
+            </div>
+          </div>
+          <div class="panel-body">
+            <div class="qwrap" id="qWrap"></div>
+          </div>
+        </section>
+      </div>
+    `;
+
+    // extra css bits for the illustration
+    injectListeningIllustrationCSS();
+
+    let data;
+    try{
+      data = await loadListeningSet(entry);
+    }catch(e){
+      $('#qWrap').innerHTML = `<div class="muted">질문 파일을 못 읽었어: ${escape(String(e.message||e))}</div>`;
+      return;
+    }
+
+    const questions = data.questions;
+    let qIndex = 0;
+    let phase = 'idle'; // idle, main, qAudio, answer, ready
+    let waitingAnswer = false;
+
+    // practice answers (in-memory)
+    const setKey = entry.set;
+
+    const audio = new Audio();
+    audio.preload = 'auto';
+    curAudio = audio;
+    // 오디오 임의 조작(배속/시킹) 최대한 차단 (연습모드는 일시정지 허용)
+    setSectionIsListening(()=> getRoutePath().startsWith('/practice/listening/'));
+    secureAudio(audio, { blockPause:false });
+
+    function updateAudioBar(){
+      const wrap = document.getElementById('audioBarWrap');
+      const fill = document.getElementById('audioBarFill');
+      const label = document.getElementById('audioBarLabel');
+      const time = document.getElementById('audioBarTime');
+
+      wrap.classList.remove('hidden');
+      label.textContent = 'Listening (audio)';
+      const dur = audio.duration || 0;
+      const cur = audio.currentTime || 0;
+      const rem = Math.max(0, dur - cur);
+      time.textContent = fmtTime(rem);
+      if(dur > 0){
+        fill.style.width = `${Math.max(0, Math.min(100, (cur/dur)*100))}%`;
+      }else{
+        fill.style.width = '0%';
+      }
+    }
+
+    function startAudioBarTick(){
+      clearInterval(audioTick);
+      audioTick = setInterval(updateAudioBar, 120);
+      showAudioBar(true);
+      updateAudioBar();
+    }
+
+    function play(url){
+      audio.src = url;
+      audio.currentTime = 0;
+      audio.play().catch(err=>{
+        toast('오디오 재생 실패(브라우저 정책). Start 다시 눌러줘');
+      });
+      startAudioBarTick();
+    }
+
+    function stopAll(){
+      waitingAnswer = false;
+      phase = 'idle';
+      $('#phaseLabel').textContent = '';
+      audio.pause();
+      audio.currentTime = 0;
+      stopAudio();
+      showAudioBar(false);
+    }
+
+    function renderPlaceholder(text){
+      const wrap = $('#qWrap');
+      wrap.innerHTML = `<div class="muted" style="padding:10px">${escape(text||'오디오 재생 중…')}</div>`;
+      $('#qTitle').textContent = 'Question';
+      $('#qCounter').textContent = `${String(qIndex+1).padStart(2,'0')}/${String(questions.length).padStart(2,'0')}`;
+      // 상단 카운터는 세트 기준(0001/0xxx)으로 고정
+    }
+
+    function renderQ(){
+      const q = questions[qIndex];
+      $('#qTitle').textContent = `Q${q.num} (${q.type})`;
+      $('#qCounter').textContent = `${String(qIndex+1).padStart(2,'0')}/${String(questions.length).padStart(2,'0')}`;
+      // 상단 카운터는 세트 기준(0001/0xxx)으로 고정
+
+      const wrap = $('#qWrap');
+      wrap.innerHTML = '';
+
+      const head = document.createElement('div');
+      head.className = 'qhead';
+      head.innerHTML = `<div class="qnum">${q.num}</div><div><div class="qtext">${escapeMultiline(q.prompt)}</div></div>`;
+      wrap.appendChild(head);
+
+      const saved = loadAnswer('listening', setKey, q.num);
+      let selected = saved?.selected || null;
+      let graded = saved?.graded || false;
+
+      for(const ch of q.choices){
+        const el = document.createElement('div');
+        el.className = 'choice';
+        if(selected === ch.letter) el.classList.add('selected');
+        el.innerHTML = `<div class="letter">${ch.letter}</div><div>${escape(ch.text)}</div>`;
+        el.onclick = ()=>{
+          if(!waitingAnswer) return; // only after question audio ends
+          if(graded) return;
+          selected = ch.letter;
+          $$('.choice', wrap).forEach(c=>c.classList.remove('selected'));
+          el.classList.add('selected');
+          saveAnswer('listening', setKey, q.num, {selected, graded:false});
+        };
+        wrap.appendChild(el);
+      }
+
+      const actions = document.createElement('div');
+      actions.className = 'row';
+      actions.innerHTML = `
+        <button class="btn" id="btnCheck">채점</button>
+        <button class="btn secondary" id="btnReset">지우기</button>
+        <span class="muted small" id="result"></span>
+      `;
+      wrap.appendChild(actions);
+
+      $('#btnCheck').onclick = ()=>{
+        if(!waitingAnswer){ toast('질문 오디오가 끝난 뒤에 풀 수 있어'); return; }
+        if(!selected){ toast('선택지 하나 골라줘'); return; }
+        graded = true;
+        saveAnswer('listening', setKey, q.num, {selected, graded:true});
+        gradeChoices(wrap, q.correct, selected);
+        $('#result').textContent = (selected === q.correct) ? '정답' : `오답 · 정답: ${q.correct}`;
+      };
+      $('#btnReset').onclick = ()=>{
+        saveAnswer('listening', setKey, q.num, null, true);
+        waitingAnswer = true;
+        renderQ();
+      };
+
+      if(graded && selected){
+        gradeChoices(wrap, q.correct, selected);
+        $('#result').textContent = (selected === q.correct) ? '정답' : `오답 · 정답: ${q.correct}`;
+      }
+    }
+
+    function escapeMultiline(s){
+      return (s||'')
+        .split('\n')
+        .map(line=>escape(line))
+        .join('<br/>');
+    }
+    function escape(s){
+      return (s||'').replace(/[&<>"']/g, c=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
+    }
+    function gradeChoices(wrap, correct, selected){
+      const choices = $$('.choice', wrap);
+      for(const el of choices){
+        const letter = el.querySelector('.letter')?.textContent?.trim();
+        el.classList.remove('correct','wrong');
+        if(letter === correct) el.classList.add('correct');
+        if(letter === selected && selected !== correct) el.classList.add('wrong');
+      }
+    }
+    function gotoQuestion(newIdx){
+      qIndex = Math.max(0, Math.min(questions.length-1, newIdx));
+      waitingAnswer = false;
+      phase = 'ready';
+      renderPlaceholder('Q Audio 버튼을 눌러 질문 오디오를 재생해줘');
+      $('#phaseLabel').textContent = `Ready (Q${questions[qIndex].num})`;
+    }
+
+    function playMain(){
+      phase = 'main';
+      $('#phaseLabel').textContent = 'Main audio...';
+      waitingAnswer = false;
+      qIndex = 0;
+      renderPlaceholder('Main audio 재생 중…');
+      play(`${entry.path}/listening.mp3`);
+    }
+
+    function playQuestionAudio(){
+      phase = 'qAudio';
+      const qnum = questions[qIndex].num;
+      $('#phaseLabel').textContent = `Question ${qnum} audio...`;
+      waitingAnswer = false;
+      renderPlaceholder('Question audio 재생 중…');
+      // question audio
+      const url = `${entry.path}/questions_q${String(qnum).padStart(2,'0')}.mp3`;
+      play(url);
+    }
+
+    audio.addEventListener('ended', ()=>{
+      if(phase === 'main'){
+        // main audio ended -> show instruction (practice is manual)
+        phase = 'ready';
+        waitingAnswer = false;
+        $('#phaseLabel').textContent = `Main 끝 · Q${questions[qIndex].num} 준비됨 (Q Audio 눌러줘)`;
+        renderPlaceholder('Q Audio 버튼을 눌러 질문 오디오를 재생해줘');
+      } else if(phase === 'qAudio'){
+        // question audio ended -> show question and allow answering (manual next)
+        phase = 'answer';
+        waitingAnswer = true;
+        $('#phaseLabel').textContent = `Answer Q${questions[qIndex].num} (연습모드: 수동 이동)`;
+        renderQ();
+      }
+    });
+
+    $('#btnStart').onclick = ()=> playMain();
+    $('#btnStop').onclick = ()=> stopAll();
+
+    $('#btnPlayQ').onclick = ()=>{
+      if(phase === 'main'){ toast('Main audio 끝난 뒤에'); return; }
+      playQuestionAudio();
+    };
+    $('#btnPrevQ').onclick = ()=> gotoQuestion(qIndex-1);
+    $('#btnNextQ').onclick = ()=> gotoQuestion(qIndex+1);
+
+    $('#btnScript').onclick = async ()=>{
+      try{
+        const res = await fetch(`${entry.path}/script.txt`, {cache:'no-store'});
+        if(!res.ok) throw new Error('script.txt 없음');
+        const script = await res.text();
+
+        const box = document.createElement('div');
+        box.className = 'hero-card';
+        box.innerHTML = `<div class="kicker">Script</div><pre style="white-space:pre-wrap;line-height:1.5;margin:0">${escape(script)}</pre>`;
+
+        const d = document.createElement('div');
+        d.className = 'drawer';
+        d.innerHTML = `<div class="drawer-card" style="width:min(720px,95vw)"></div>`;
+        d.querySelector('.drawer-card').appendChild(box);
+
+        const close = document.createElement('button');
+        close.className = 'btn';
+        close.textContent = '닫기';
+        close.style.marginTop = '12px';
+        close.onclick = ()=> d.remove();
+        d.querySelector('.drawer-card').appendChild(close);
+
+        d.addEventListener('click', (ev)=>{ if(ev.target===d) d.remove(); });
+        document.body.appendChild(d);
+      }catch(err){
+        toast('script.txt를 못 읽었어');
+      }
+    };
+    // initial state
+    renderPlaceholder('Start를 누르면 Listening 오디오가 재생돼');
+  }
+
+  function injectListeningIllustrationCSS(){
+    if(document.getElementById('listenIlluStyle')) return;
+    const style = document.createElement('style');
+    style.id = 'listenIlluStyle';
+    style.textContent = `
+      .listen-figure{position:relative;height:240px}
+      .listen-board{
+        position:absolute; left:40px; right:40px; top:22px; height:140px;
+        background:#5aa55a; border-radius:10px;
+        box-shadow: inset 0 0 0 6px rgba(255,255,255,.08);
+      }
+      .listen-avatar{
+        position:absolute; left:50%; top:80px; transform:translateX(-50%);
+        width:86px; height:150px;
+        border-radius:18px;
+        background: linear-gradient(#3a3a44, #3a3a44) 50% 20%/60px 60px no-repeat,
+                    radial-gradient(circle at 50% 18%, #333 0 33px, transparent 34px),
+                    radial-gradient(circle at 50% 40%, #f1c7a8 0 36px, transparent 37px),
+                    linear-gradient(#ffffff, #ffffff) 50% 78%/86px 70px no-repeat,
+                    linear-gradient(#d9d9e3, #d9d9e3) 50% 96%/86px 32px no-repeat;
+      }
+    `;
+    document.head.appendChild(style);
+  }
+
+  // Simulation launcher
+  function renderSimLaunch(){
+    setWeek('Week');
+    setSubbar('Simulation Test');
+    setCounter('—');
+    main.innerHTML = `
+      <div class="hero-card">
+        <div class="kicker">Simulation Test</div>
+        <p class="muted">
+          팝업으로 열려. 시간 조정은 불가(고정).<br/>
+          Listening은 **오디오 재생 중엔 문제를 숨기고**, 질문 오디오가 끝나면<br/>
+          **답 선택 여부와 관계없이 자동으로 다음으로 넘어가**(기본 8초 답변창).
+        </p>
+        <div class="row">
+          <button class="bigbtn" id="btnOpenSim">Simulation 시작</button>
+          <a class="bigbtn secondary" href="/practice">연습모드</a>
+        </div>
+        <div class="muted small" style="margin-top:10px">
+          ※ 팝업이 막히면 브라우저 설정에서 이 사이트 팝업 허용해줘.
+        </div>
+      </div>
+    `;
+    $('#btnOpenSim').onclick = ()=>{
+      const w = window.open(toUrl('/sim.html'), 'toefl_sim', 'width=1280,height=900');
+      if(!w){
+        alert('팝업이 차단됐어. 주소창 옆 팝업 허용해줘.');
+      }
+    };
+  }
+
 
   // 내부 링크 클릭을 SPA 네비게이션으로 처리
   document.addEventListener('click', (e)=>{
