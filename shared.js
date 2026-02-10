@@ -291,7 +291,7 @@ try{
     let qStart = lines.findIndex(l => l.trim().toLowerCase() === 'questions');
     let answerStart = lines.findIndex(l => l.trim().toLowerCase() === 'answer key');
 
-    const qLineRe = /^\s*\d{1,2}\s*[\.\)]\s+/;
+    const qLineRe = /^\s*\d{1,2}\s*[\.\)](?:\s+|$)/;
 
     if(qStart === -1){
       // fallback: first question-looking line
@@ -329,7 +329,13 @@ try{
     // Second pass: if meta lines still exist at the start (we preserved some blanks), trim them
     while(passageOnlyLines.length && ((passageOnlyLines[0]||'').trim()==='' || isMetaLine(passageOnlyLines[0]))) passageOnlyLines.shift();
 
-    const cleanedPassage = passageOnlyLines.join('\n').trim();
+    let cleanedPassage = passageOnlyLines.join('\n').trim();
+    // Remove any remaining word-count snippets (best-effort)
+    cleanedPassage = cleanedPassage
+      .replace(/\(\s*Approx\.?\s*word\s*count\s*:\s*\d+\s*\)/ig,'')
+      .replace(/Approx\.?\s*word\s*count\s*:\s*\d+/ig,'')
+      .replace(/\n{3,}/g,'\n\n')
+      .trim();
 
     // question block
     let qLines = [];
@@ -364,7 +370,7 @@ try{
     let i = 0;
     while(i < qLines.length){
       const line = qLines[i];
-      const qm = line.match(/^\s*(\d{1,2})\s*[\.\)]\s*(.+)\s*$/);
+      const qm = line.match(/^\s*(\d{1,2})\s*[\.\)]\s*(.*)\s*$/);
       if(!qm){ i++; continue; }
       const num = Number(qm[1]);
       let stem = (qm[2]||'').trim();
@@ -375,7 +381,7 @@ try{
         const l = qLines[i];
         if(qLineRe.test(l)) break;
 
-        const cm = l.match(/^\s*([A-D])\s*[\)\.\:]\s*(.+)\s*$/i);
+        const cm = l.match(/^\s*([A-D])\s*(?:[\)\.\:]\s*|\s+)(.+)\s*$/i);
         if(cm){
           choices.push({ letter: cm[1].toUpperCase(), text: (cm[2]||'').trim() });
         }else{
@@ -385,7 +391,7 @@ try{
             if(choices.length){
               choices[choices.length-1].text += ' ' + t;
             }else{
-              stem += ' ' + t;
+              stem += (stem ? '\n' : '') + t;
             }
           }
         }
@@ -395,8 +401,11 @@ try{
       questions.push({
         num,
         type: 'MC',
-        stem,
+        prompt: stem,
         choices,
+        correct: answers[num] || null,
+        // 호환용
+        stem,
         answer: answers[num] || null
       });
     }
