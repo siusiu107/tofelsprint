@@ -658,6 +658,8 @@ function renderHome(){
   async function renderListeningViewer(setId){
     setWeek('Week');
     setSubbar(`Listening > Set ${String(setId).padStart(3,'0')}`);
+    // 상단 카운터는 Reading처럼 "세트 위치/전체" 표시
+    // (질문 번호/전체는 패널 안(qCounter)에 표시)
     setCounter('—');
 
     // load index and find entry
@@ -670,6 +672,9 @@ function renderHome(){
     const curIdx = idx.findIndex(x => x.set === setId);
     const entry = idx[curIdx];
     if(!entry){ renderNotFound(); return; }
+
+    // top counter: current set position / total sets
+    setCounter(`${String(curIdx+1).padStart(4,'0')}/${String(idx.length).padStart(4,'0')}`);
 
     nav.prev = curIdx>0 ? `#/practice/listening/${idx[curIdx-1].set}` : null;
     nav.next = curIdx<idx.length-1 ? `#/practice/listening/${idx[curIdx+1].set}` : null;
@@ -797,14 +802,14 @@ function renderHome(){
       wrap.innerHTML = `<div class="muted" style="padding:10px">${escape(text||'오디오 재생 중…')}</div>`;
       $('#qTitle').textContent = 'Question';
       $('#qCounter').textContent = `${String(qIndex+1).padStart(2,'0')}/${String(questions.length).padStart(2,'0')}`;
-      setCounter(`${String(qIndex+1).padStart(2,'0')}/${String(questions.length).padStart(2,'0')}`);
+      // 상단 카운터는 세트 기준(0001/0xxx)으로 고정
     }
 
     function renderQ(){
       const q = questions[qIndex];
       $('#qTitle').textContent = `Q${q.num} (${q.type})`;
       $('#qCounter').textContent = `${String(qIndex+1).padStart(2,'0')}/${String(questions.length).padStart(2,'0')}`;
-      setCounter(`${String(qIndex+1).padStart(2,'0')}/${String(questions.length).padStart(2,'0')}`);
+      // 상단 카운터는 세트 기준(0001/0xxx)으로 고정
 
       const wrap = $('#qWrap');
       wrap.innerHTML = '';
