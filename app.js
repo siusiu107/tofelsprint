@@ -412,7 +412,8 @@ function renderHome(){
       const q = questions[qIndex];
       $('#qTitle').textContent = `Question ${q.num}  (${q.type})`;
       // 질문 카운터는 패널 안(qCounter)에 표시
-      $('#qCounter').textContent = `${String(qIndex+1).padStart(2,'0')}/${String(questions.length).padStart(2,'0')}`;
+      const qc = $('#qCounter');
+      if(qc) qc.textContent = `${String(qIndex+1).padStart(2,'0')}/${String(questions.length).padStart(2,'0')}`;
 
       const wrap = $('#qWrap');
       wrap.innerHTML = '';
