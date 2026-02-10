@@ -171,11 +171,11 @@
 
       <div class="card">
         <div class="card-title">데이터 넣는 위치</div>
-        <div class="muted">리딩/리스닝 zip은 이 웹앱 zip에 포함 안 했어. 각 폴더에 압축 해제하면 자동 인식돼.</div>
+        <div class="muted">리딩/리스닝 데이터 파일은 이 프로젝트에 포함하지 않았어. 각 폴더에 파일을 넣으면 자동 인식돼.</div>
         <pre class="codeblock">(프로젝트 루트)/
   data/
-    reading/   ← 리딩 txt 압축 해제
-    listening/ ← 리스닝 폴더 압축 해제</pre>
+    reading/   ← 리딩 txt 파일들
+    listening/ ← 리스닝 세트 폴더들</pre>
       </div>
     `;
   }
@@ -190,15 +190,15 @@ function renderHome(){
           <h1 class="hero-title">TOEFL Prep Web</h1>
           <p class="hero-sub">
             연습모드 + 실전(Simulation) 모드.<br/>
-            Reading/Listening 데이터는 zip에 포함 안 했어.<br/>
-            <b>data/reading/</b>과 <b>data/listening/</b>에 각각 압축 해제하면 자동 인식돼.
+            Reading/Listening 데이터 파일은 프로젝트에 포함하지 않았어.<br/>
+            <b>data/reading/</b>과 <b>data/listening/</b>에 넣으면 자동 인식돼.
           </p>
           <div class="row">
             <button class="bigbtn" id="goPractice">연습모드 시작</button>
             <button class="bigbtn secondary" id="goSim">Simulation Test 시작</button>
           </div>
           <div class="muted small" style="margin-top:10px">
-            ※ Simulation은 팝업으로 열려. 팝업 차단 해제해줘.
+            ※ Simulation은 팝업으로 열려. 팝업이 막혀 있으면 허용해줘.
           </div>
         </div>
         <div class="hero-card">
@@ -216,7 +216,7 @@ function renderHome(){
             <div class="card">
               <div>
                 <div class="card-title">Listening</div>
-                <div class="card-meta">압축 해제 후 자동 인식</div>
+                <div class="card-meta">폴더에 넣으면 표시</div>
               </div>
               <div class="card-actions">
                 <a class="btn secondary" href="#/practice/listening">열기</a>
@@ -289,7 +289,7 @@ function renderHome(){
           <div class="kicker">Reading 데이터가 없어</div>
           <div class="muted">${(e.message||String(e)).replace(/[&<>"']/g, c=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]))}</div>
           <div style="height:10px"></div>
-          <div class="muted small">TOFEL기출-reading.zip을 <code>data/reading/</code> 안에 압축 해제해줘. (txt 파일들이 바로 보여야 함)</div>
+          <div class="muted small"><code>data/reading/</code> 안에 리딩 txt 파일들을 넣어줘. (예: TOEFL_Reading_0002.txt)</div>
         </div>
       `;
       return;
@@ -308,7 +308,7 @@ function renderHome(){
         el.innerHTML = `
           <div>
             <div class="card-title">${it.id.toString().padStart(4,'0')}. ${escape(it.title)}</div>
-            <div class="card-meta">${it.wordCount?`~${it.wordCount} words`:'—'}</div>
+            <div class="card-meta">10 questions</div>
           </div>
           <div class="card-actions">
             <a class="btn secondary" href="#/practice/reading/${it.id}">풀기</a>
@@ -352,7 +352,7 @@ function renderHome(){
           <div class="kicker">Reading 데이터가 없어</div>
           <div class="muted">${(e.message||String(e)).replace(/[&<>"']/g, c=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]))}</div>
           <div style="height:10px"></div>
-          <div class="muted small">TOFEL기출-reading.zip을 <code>data/reading/</code> 안에 압축 해제해줘. (txt 파일들이 바로 보여야 함)</div>
+          <div class="muted small"><code>data/reading/</code> 안에 리딩 txt 파일들을 넣어줘. (예: TOEFL_Reading_0002.txt)</div>
           <div style="height:12px"></div>
           <a class="btn secondary" href="#/practice">연습모드로</a>
         </div>
@@ -377,7 +377,7 @@ function renderHome(){
           <div class="panel-head">
             <div>
               <div class="panel-title">The following passage is for questions 1–10.</div>
-              <div class="muted small">${escape(item.title)} ${item.wordCount?` · ${item.wordCount} words`:''}</div>
+              <div class="muted small">${escape(item.title)}</div>
             </div>
             <div class="row">
               <span class="pill">Reading</span>
@@ -575,7 +575,7 @@ function renderHome(){
           <button class="btn secondary" id="btnRand">랜덤 1세트</button>
         </div>
         <div class="muted small" style="margin-top:8px">
-          ※ Listening 팩이 안 보이면 <code>data/listening/</code>에 압축 해제한 뒤 <b>재스캔</b> 눌러줘.
+          ※ Listening 팩이 안 보이면 <code>data/listening/</code>에 넣기한 뒤 <b>재스캔</b> 눌러줘.
         </div>
       </div>
       <div style="height:12px"></div>
