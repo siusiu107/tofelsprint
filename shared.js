@@ -447,9 +447,11 @@ try{
     // answers
     const aLines = (answerStart !== -1) ? lines.slice(answerStart) : [];
 
+    // Answer key formats vary across sources. Support common variants:
+    //  - "1. B"  "1) B"  "1: B"  "1 - B"  "1\tB"  "1 B"
     const answers = {};
     for(const l of aLines){
-      const mm = l.match(/^\s*(\d{1,2})\s*[\.\)]\s*([A-D])\b/i);
+      const mm = l.match(/^\s*(\d{1,2})\s*(?:[\.\)\:\-]|\u2013|\u2014)?\s*([A-D])\b/i);
       if(mm) answers[Number(mm[1])] = mm[2].toUpperCase();
     }
 
