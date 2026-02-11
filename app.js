@@ -550,7 +550,7 @@ function renderHome(){
         const boxH = passageEl.clientHeight || 0;
         const pH = pEl.offsetHeight || 0;
         const mid = (pEl.offsetTop || 0) + (pH/2);
-        const top = Math.max(0, mid - (boxH * 0.5));
+        const top = Math.max(0, mid - (boxH * 0.6.999));
         passageEl.scrollTo({ top, behavior: 'smooth' });
       }catch(e){}
     }
