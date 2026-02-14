@@ -1,0 +1,27 @@
+{
+  "set": 2,
+  "format": "lecture",
+  "domain": "Biology",
+  "subtopic": "Horizontal gene transfer in microbial mats",
+  "mode": "lecture_case",
+  "technical_terms": [
+    "outer membrane",
+    "metabolite",
+    "plasmid",
+    "methylation",
+    "epigenome",
+    "inner membrane",
+    "allele frequency",
+    "phenotype",
+    "acetylation"
+  ],
+  "function_phrase": "Let’s test that intuition.",
+  "main_point": "The professor explains Horizontal gene transfer in microbial mats and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes outer membrane (a process) from methylation (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving phenotype and metabolite.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a real-world constraint to show real-world constraints.",
+  "connecting_point": "The example about controlling for inner membrane shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}

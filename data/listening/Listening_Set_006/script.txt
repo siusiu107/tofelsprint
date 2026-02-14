@@ -1,0 +1,10 @@
+Narrator: Listen to part of a lecture in a biology class.
+Professor: Uh, Let’s start with a mistake—one I made when I was a graduate student. Today we're talking about Mitochondrial bottleneck and genetic drift. I'll toss around a couple terms—operon, inner membrane, methylation—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say operon, sort of, is that basically homeostasis, or is it a different mechanism?
+Professor: Hold on— operon is the process, and homeostasis is usually a proxy or a measurement for it. People mix them up ’cause the plot looks clean, but the causality is messy.
+Professor: Like, Quick tangent: a tangent about the tool or instrument and what it cannot measure. That’s why metabolite and transcription factor matter—those are constraints, like, not trivia.
+Professor: Here’s the story version. You notice an odd shift in phenotype. Then you ask what could plausibly produce it: changes in inner membrane, like, hidden variation in allele frequency, or bias from outer membrane. Uh, The trick is tracking which explanation would leave which fingerprint.
+Professor: For example, two samples can look identical until you use a higher-resolution method. The moment you control for transcription factor, you know, the pattern flips, and that flip is basically the clue.
+Student 2: So if we’re choosing between two explanations, like, what’s the fastest way to falsify one without running a whole new study?
+Professor: G-Good Good—. Um, Look for an asymmetric prediction. Kind of, Explanation A implies a change in allele frequency even if inner membrane stays constant; Explanation B doesn’t. Design a small test around that hinge point.
+Professor: Anyway, to wrap up: Mitochondrial bottleneck and genetic drift is less about one fact and more about reasoning under constraints. Watch the proxies, sort of, watch the instruments, and don’t fall in love with one pretty plot.

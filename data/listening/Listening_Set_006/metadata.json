@@ -1,0 +1,27 @@
+{
+  "set": 6,
+  "format": "lecture",
+  "domain": "Biology",
+  "subtopic": "Mitochondrial bottleneck and genetic drift",
+  "mode": "lecture_story",
+  "technical_terms": [
+    "operon",
+    "inner membrane",
+    "methylation",
+    "homeostasis",
+    "metabolite",
+    "transcription factor",
+    "phenotype",
+    "allele frequency",
+    "outer membrane"
+  ],
+  "function_phrase": "Hold on—",
+  "main_point": "The professor explains Mitochondrial bottleneck and genetic drift and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes operon (a process) from homeostasis (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving allele frequency and inner membrane.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a tools tangent to show real-world constraints.",
+  "connecting_point": "The example about controlling for transcription factor shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}

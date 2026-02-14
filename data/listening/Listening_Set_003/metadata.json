@@ -1,0 +1,27 @@
+{
+  "set": 3,
+  "format": "lecture",
+  "domain": "Biology",
+  "subtopic": "Quorum sensing and biofilm architecture",
+  "mode": "lecture_demo",
+  "technical_terms": [
+    "transcription factor",
+    "metabolite",
+    "phenotype",
+    "allele frequency",
+    "methylation",
+    "inner membrane",
+    "outer membrane",
+    "epigenome",
+    "plasmid"
+  ],
+  "function_phrase": "Long story short,",
+  "main_point": "The professor explains Quorum sensing and biofilm architecture and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes transcription factor (a process) from allele frequency (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving epigenome and metabolite.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a tools tangent to show real-world constraints.",
+  "connecting_point": "The example about controlling for inner membrane shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}
