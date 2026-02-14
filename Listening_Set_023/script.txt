@@ -1,0 +1,12 @@
+Narrator: Listen to part of a lecture in a archaeology class.
+Professor: Okay, quick show of hands—who actually did the reading? Uh, Yeah... Sort of, that’s what I thought. Today we're talking about Ceramic petrography and provenance. I'll toss around a couple terms—assemblage, radiocarbon dating, calibration curve—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say assemblage, is that basically stratigraphy, or is it a different mechanism?
+Professor: So, the key takeaway is this: assemblage is the process, and stratigraphy is usually a proxy or a measurement for it. People mix them up because the plot looks clean, I guess, but the causality is messy—No, wait, I meant calibration curve, not stratigraphy.
+Professor: Um, Quick tangent: a tangent about the tool or instrument and what it cannot measure. That’s why typology and provenance matter—those are constraints, not trivia.
+Professor: Um, Let’s frame it as a case. A team collects samples, builds a pipeline, and expects a clean result. I guess, Instead they see dependence on typology. First they blame noise, I guess, then they realize the sampling window biased the baseline.
+Professor: They redo the protocol: randomize order, blind the analysis, add an internal standard. Uh, Only after that do they treat the shift in GIS as real rather than an artifact.
+Professor: So… what’s the catch here?
+Professor: …Okay, that's fine. We'll do it together.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: Good. Look for an asymmetric prediction. Explanation A implies a change in context even if radiocarbon dating stays constant; Explanation B doesn’t. Design a small test around that hinge point—No, wait, I meant stratigraphy, not provenance.
+Professor: Anyway, to wrap up: Ceramic petrography and provenance is less about one fact and more about reasoning under constraints. Watch the proxies, watch the instruments, and don’t fall in love with one pretty plot.

@@ -1,0 +1,12 @@
+Narrator: Listen to part of a lecture in a archaeology class.
+Professor: I guess, Imagine you’re looking at the same data twice and getting two different stories. I guess, Today we're talking about Taphonomy and post-depositional processes. I'll toss around a couple terms—stratigraphy, radiocarbon dating, typology—but I'll translate them as we go.
+Student 1: You know, Sorry—can I ask something? When you say stratigraphy, is that basically calibration curve, or is it a different mechanism?
+Professor: Exactly. stratigraphy is the process, and calibration curve is usually a proxy or a measurement for it. People mix them up because the plot looks clean, you know, but the causality is messy.
+Professor: Quick tangent: a brief historical aside about who first proposed the idea. That’s why GIS and context matter—those are constraints, not trivia.
+Professor: Students love to say, ‘But the correlation is strong.’ Sure. But if you intervene—change typology directly—and nothing moves, then correlation wasn’t the whole story.
+Professor: Now the debate. One camp treats stratigraphy as the driver; another treats it as a side effect. Sort of, Both can fit the same dataset because the assumptions differ. So the argument isn’t only about data—it’s about mechanism.
+Professor: So… what’s the catch here?
+Professor: …Alright, silence. Cool. I’ll answer my own question.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: Good. Look for an asymmetric prediction. Explanation A implies a change in assemblage even if radiocarbon dating stays constant; Explanation B doesn’t. Um, Design a small test around that hinge point—No, wait, I meant GIS, not typology.
+Professor: Anyway, to wrap up: Taphonomy and post-depositional processes is less about one fact and more about reasoning under constraints. Watch the proxies, watch the instruments, and don’t fall in love with one pretty plot.

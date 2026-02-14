@@ -1,0 +1,27 @@
+{
+  "set": 24,
+  "format": "lecture",
+  "domain": "Archaeology",
+  "subtopic": "Taphonomy and post-depositional processes",
+  "mode": "lecture_debate",
+  "technical_terms": [
+    "stratigraphy",
+    "radiocarbon dating",
+    "typology",
+    "calibration curve",
+    "GIS",
+    "context",
+    "provenance",
+    "assemblage",
+    "dendrochronology"
+  ],
+  "function_phrase": "Exactly.",
+  "main_point": "The professor explains Taphonomy and post-depositional processes and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes stratigraphy (a process) from calibration curve (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving assemblage and radiocarbon dating.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a historical aside to show real-world constraints.",
+  "connecting_point": "The example about controlling for context shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": true,
+  "has_self_correction": true
+}

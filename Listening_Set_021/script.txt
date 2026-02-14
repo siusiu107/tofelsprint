@@ -1,0 +1,12 @@
+Narrator: Listen to part of a lecture in a archaeology class.
+Professor: Uh, Imagine you’re looking at the same data twice and getting two different stories. Today we're talking about Ground-penetrating radar in site mapping. I'll toss around a couple terms—radiocarbon dating, stratigraphy, GIS—but I'll translate them as we go.
+Student 1: I guess, Sorry—can I ask something? When you say radiocarbon dating, kind of, is that basically typology, or is it a different mechanism?
+Professor: That’s a fair point, but radiocarbon dating is the process, and typology is usually a proxy or a measurement for it. People mix them up because the plot looks clean, uh, but the causality is messy—No, wait, I meant GIS, not radiocarbon dating.
+Professor: Um, Quick tangent: a tangent about the tool or instrument and what it cannot measure. That’s why calibration curve and dendrochronology matter—those are constraints, not trivia.
+Professor: They redo the protocol: randomize order, blind the analysis, add an internal standard. Only after that do they treat the shift in context as real rather than an artifact.
+Professor: Let’s frame it as a case. A team collects samples, like, builds a pipeline, and expects a clean result. I guess, Instead they see dependence on calibration curve. First they blame noise, then they realize the sampling window biased the baseline.
+Professor: So what would you predict happens next?
+Professor: …Okay, that's fine. We'll do it together.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: Good. Look for an asymmetric prediction. Explanation A implies a change in assemblage even if stratigraphy stays constant; Explanation B doesn’t. Design a small test around that hinge point.
+Professor: Anyway, to wrap up: Ground-penetrating radar in site mapping is less about one fact and more about reasoning under constraints. Watch the proxies, uh, watch the instruments, and don’t fall in love with one pretty plot.
