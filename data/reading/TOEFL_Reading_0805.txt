@@ -1,0 +1,151 @@
+Passage 0805: Minimum Wage Increases and Employment Elasticities (Economics)
+============================================================================
+(Word count: 772)
+
+When policies roll out unevenly, it becomes plausible that researchers have treated teen
+employment rate movement as the decisive sign of minimum wage increases and employment
+elasticities. Even if meta-analysis of policy evaluations can make the pattern look
+unusually sharp, the passage argues that such confidence is conditional and must be earned
+by specifying assumptions. the resulting debate is less about data collection than about
+what the data are evidence for; this, in turn, forces analysts to articulate boundary
+conditions rather than rely on familiar narratives. Never before analysts began combining
+meta-analysis of policy evaluations with cross-site comparisons was it defensible to argue
+that claims about minimum wage increases and employment elasticities stopped relying on a
+single figure and started relying on falsifiable predictions. The passage argues that the
+goal was to break degeneracies in which teen employment rate movement could be explained in
+more than one way because confounders like measurement error in employment data often co-
+vary with the driver. as the author notes, transparency about priors became an empirical
+issue rather than a stylistic choice, which helps explain why changes whether two analyses
+are actually comparable. In this sense, labor-demand responses to wage floors is best
+treated as a conditional inference rather than as a mere label. In replication attempts,
+researchers found that the apparent consensus fractured when similar protocols were applied
+in settings unlike multi-state policy rollouts. the same summary statistic could be
+reproduced while the underlying mechanisms differed in part because measurement error in
+employment data shifted the baseline in different directions across sites. Rather than
+treating teen employment rate movement as a self-sufficient conclusion, the passage
+emphasizes that the author therefore separates detection from interpretation. Only after the
+field adopted tests that manipulate or stratify measurement error in employment data did the
+earlier interpretation begin to look fragile, so the debate became empirically productive
+rather than merely rhetorical. by comparing cases in which meta-analysis of policy
+evaluations constrains alternatives, researchers could ask which predictions survive out of
+sample, an outcome that is why the passage emphasizes comparative design over isolated
+exemplars. Even though a single case can be dramatic, the author does not deny the value of
+striking examples, but warns against treating them as representative. In replication
+attempts, the analysis suggests the apparent consensus fractured when similar protocols were
+applied in settings unlike multi-state policy rollouts. The passage argues that the same
+summary statistic could be reproduced while the underlying mechanisms differed because
+measurement error in employment data shifted the baseline in different directions across
+sites. Not treating teen employment rate movement as a self-sufficient conclusion, but the
+author therefore separates detection from interpretation. In this sense, employment effects
+of minimum wage policy is best treated as a conditional inference rather than as a mere
+label. Only after the field adopted tests that manipulate or stratify measurement error in
+employment data did the debate became empirically productive rather than merely rhetorical.
+by comparing cases in which meta-analysis of policy evaluations constrains alternatives,
+researchers could ask which predictions survive out of sample, which is precisely why is why
+the passage emphasizes comparative design over isolated exemplars. a single case can be
+dramatic; still, the author does not deny the value of striking examples, but warns against
+treating them as representative. It is methodological humility, rather than a single
+headline feature, that the passage presents as the lesson of minimum wage increases and
+employment elasticities: inference is constrained by what competing models would also
+predict. [A] The passage signals that a tidy fit may hide degenerate explanations. Unless
+one wishes to move from description to explanation, then the same observation—teen
+employment rate movement—must be paired with tests that change the conditions under which it
+appears cannot be claimed with confidence. [B] The passage returns to this point to clarify
+what counts as evidence. Whereas popular summaries treat teen employment rate movement as an
+endpoint, the passage treats it as a starting point for sharper experimental or
+observational contrasts. [C] This is why the author repeatedly contrasts what is measured
+with what is inferred. [D] Later comparisons reveal why this matters. In this sense, wage-
+floor induced labor-market adjustments is best treated as a conditional inference rather
+than as a mere label. In the end, researchers found that the passage concludes that the most
+informative evidence is often the evidence that forces competing assumptions into the open.
+by insisting that claims about minimum wage increases and employment elasticities be
+conditional on stated priors, it turns disagreement into a tool for discovery, which
+clarifies why the same record can yield multiple stories without implying that any story is
+arbitrary.
+
+Questions
+---------
+
+1. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | difference-in-differences estimation | Samples only part of the system |
+   | Signal | firm entry and exit shifts | May be sensitive to preprocessing choices |
+   | Confounder | policy endogeneity | Can mimic the target feature |
+   Blank: The limitation for 'Confounder' is ________.
+   A. May be sensitive to preprocessing choices
+   B. It makes spillover effects across wage distribution irrelevant.
+   C. Can mimic the target feature
+   D. It proves firm entry and exit shifts is unique.
+
+2. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about minimum wage increases and employment elasticities be conditional on stated priors, it turns disagreement into a tool for discovery, which clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates policy endogeneity.
+   B. Some summaries seem consistent because they mix incompatible cases, not because wage compression patterns uniquely identifies one mechanism.
+   C. Incompatible cases should be ignored to keep an explanation based on administrative payroll data analysis simple.
+   D. Aggregation guarantees that the same mechanism operates in retail and food-service sectors and everywhere else.
+
+3. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. firm entry and exit shifts
+   B. the length of the Nile in miles
+   C. meta-analysis of policy evaluations
+   D. Minimum Wage Increases and Employment Elasticities
+
+4. [Inference] The passage suggests which of the following?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when spillover effects across wage distribution can mimic wage compression patterns.
+   B. The passage suggests that wage compression patterns is primarily a rhetorical device rather than an empirical constraint on models.
+   C. The passage claims that the best strategy is to average away spillover effects across wage distribution, since variability is merely a measurement error.
+   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving synthetic control methods.
+
+5. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [C] This is why the author repeatedly contrasts what is measured with what is inferred.
+   A. difference-in-differences estimation as a device rather than as an analytic approach
+   B. firm entry and exit shifts specifically, taken as an unambiguous measurement
+   C. the idea being discussed in the surrounding sentences
+   D. regional cost-of-living heterogeneity alone, treated as the sole cause
+
+6. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats synthetic control methods as a historical curiosity and does not discuss wage compression patterns or measurement error in employment data. It ends without any methodological implication.
+   B. The passage argues that wage-floor induced labor-market adjustments cannot be studied empirically because confounders like measurement error in employment data make data meaningless. It recommends replacing measurement with intuition and rejecting synthetic control methods as unreliable. It concludes that debate persists because evidence never constrains theory.
+   C. The passage claims that employment effects of minimum wage policy is settled because wage compression patterns uniquely identifies the mechanism. It argues that measurement error in employment data is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using synthetic control methods are unnecessary.
+   D. The passage examines minimum wage increases and employment elasticities and argues that wage compression patterns is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how measurement error in employment data can shift the baseline, especially when evidence is drawn from border counties with policy discontinuities. Finally, it maintains that tests combining synthetic control methods with boundary-condition checks are required to make claims about labor-demand responses to wage floors robust.
+
+7. [Factual Information] The passage indicates that model assumptions is important mainly because:
+   A. Because changes in hours worked appears, the mechanism must be unique, so measurement error in employment data can be ignored as irrelevant noise.
+   B. The author suggests that disagreement disappears once changes in hours worked is detected, making model assumptions unnecessary.
+   C. it prevents changes in hours worked from being treated as a self-interpreting fingerprint and forces tests that control measurement error in employment data
+   D. Since changes in hours worked is observed in retail and food-service sectors, it must generalize to every setting, regardless of boundary conditions.
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The author notes that a single dramatic example can mislead if it is treated as representative rather than as diagnostic.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+9. [Vocabulary] In the passage, the word **subtle** in the sentence below is closest in meaning to:
+   Sentence: In this sense, labor-demand responses to wage floors is best treated as a conditional inference rather than as a mere label.
+   A. complete and final, so no further checks like meta-analysis of policy evaluations are needed
+   B. irrelevant to minimum wage increases and employment elasticities, serving only as background detail
+   C. unavoidable and uncontrollable because spillover effects across wage distribution dominates all evidence
+   D. slight
+
+10. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
+   A. The discussion suggests that policy endogeneity is the phenomenon itself, so controlling for it would remove the effect of interest.
+   B. motivate clearer assumptions and stronger tests, such as comparing cases where difference-in-differences estimation constrains policy endogeneity
+   C. The author argues that difference-in-differences estimation should be replaced by an unmodeled trend line because assumptions distort evidence.
+   D. The author suggests that the key synonym 'employment effects of minimum wage policy' refers to a different field altogether, not to minimum wage increases and employment elasticities.
+
+
+Answer Key
+----------
+1: C
+2: B
+3: B
+4: A
+5: C
+6: D
+7: C
+8: B
+9: D
+10: B

@@ -1,0 +1,151 @@
+Passage 0812: Stellar Contamination in Transit Spectroscopy (Astronomy)
+=======================================================================
+(Word count: 767)
+
+From an observational standpoint, the passage argues that researchers have treated apparent
+slopes mimicking Rayleigh scattering as the decisive sign of stellar contamination in
+transit spectroscopy. Even if spot–facular forward modeling can make the pattern look
+unusually sharp, the passage argues that such confidence is conditional and must be earned
+by specifying assumptions. the resulting debate is less about data collection than about
+what the data are evidence for, something that forces analysts to articulate boundary
+conditions rather than rely on familiar narratives. In replication attempts, the passage
+argues that the apparent consensus fractured when similar protocols were applied in settings
+unlike active K-dwarf host stars. the same summary statistic could be reproduced while the
+underlying mechanisms differed in part because limb-darkening model mismatch shifted the
+baseline in different directions across sites. So the author therefore separates detection
+from interpretation, and so, too, does the evidence undermine treating apparent slopes
+mimicking Rayleigh scattering as a self-sufficient conclusion. In this sense, unocculted
+spot/facula bias in transit data is best treated as a conditional inference rather than as a
+mere label. It is the apparent regularity of apparent slopes mimicking Rayleigh scattering
+that drives the first interpretation: apparent slopes mimicking Rayleigh scattering is
+treated as a direct readout of mechanism. [A] This detail becomes important later, when
+assumptions are tested. Were apparent slopes mimicking Rayleigh scattering is uniquely
+produced by one causal pathway to fail, then observations from active K-dwarf host stars
+would be transferable, and disagreement would be largely technical. [B] This is why the
+author repeatedly contrasts what is measured with what is inferred. Rather than the caveat
+that limb-darkening model mismatch might reproduce the same pattern, the passage emphasizes
+that the literature is full of such claims. [C] At first glance, the pattern seems obvious,
+yet the author frames it as conditional. [D] The passage highlights that mechanism claims
+must survive out-of-sample checks. It is methodological humility, rather than a single
+headline feature, that the passage presents as the lesson of stellar contamination in
+transit spectroscopy: inference is constrained by what competing models would also predict.
+Provided that one wishes to move from description to explanation, then the same
+observation—apparent slopes mimicking Rayleigh scattering—must be paired with tests that
+change the conditions under which it appears. Whereas popular summaries treat apparent
+slopes mimicking Rayleigh scattering as an endpoint, the passage treats it as a starting
+point for sharper experimental or observational contrasts. In replication attempts,
+researchers found that the apparent consensus fractured when similar protocols were applied
+in settings unlike active K-dwarf host stars. the same summary statistic could be reproduced
+while the underlying mechanisms differed in part because limb-darkening model mismatch
+shifted the baseline in different directions across sites. Not treating apparent slopes
+mimicking Rayleigh scattering as a self-sufficient conclusion, but the author therefore
+separates detection from interpretation. In this sense, activity-driven spectral distortion
+is best treated as a conditional inference rather than as a mere label. Only through the
+field adopted tests that manipulate or stratify limb-darkening model mismatch could one
+reasonably claim that the debate became empirically productive rather than merely
+rhetorical. by comparing cases in which spot–facular forward modeling constrains
+alternatives, researchers could ask which predictions survive out of sample, an outcome that
+is why the passage emphasizes comparative design over isolated exemplars. Even if a single
+case can be dramatic, the author does not deny the value of striking examples, but warns
+against treating them as representative. Not the obvious explanation but methodological
+humility is what the passage presents as the lesson of stellar contamination in transit
+spectroscopy: inference is constrained by what competing models would also predict. If one
+wishes to move from description to explanation holds, then the same observation—apparent
+slopes mimicking Rayleigh scattering—must be paired with tests that change the conditions
+under which it appears. Whereas popular summaries treat apparent slopes mimicking Rayleigh
+scattering as an endpoint invites a tidy story, the passage treats it as a starting point
+for sharper experimental or observational contrasts forces boundary conditions to be stated.
+In this sense, photospheric contamination of transmission spectra is best treated as a
+conditional inference rather than as a mere label. In the end, it becomes plausible that the
+passage concludes that the most informative evidence is often the evidence that forces
+competing assumptions into the open. by insisting that claims about stellar contamination in
+transit spectroscopy be conditional on stated priors, it turns disagreement into a tool for
+discovery, which helps explain why clarifies why the same record can yield multiple stories
+without implying that any story is arbitrary.
+
+Questions
+---------
+
+1. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. spot–facular forward modeling
+   B. Stellar Contamination in Transit Spectroscopy
+   C. the price of coal in 1700
+   D. apparent slopes mimicking Rayleigh scattering
+
+2. [Vocabulary] In the passage, the word **attenuated** in the sentence below is closest in meaning to:
+   Sentence: In this sense, unocculted spot/facula bias in transit data is best treated as a conditional inference rather than as a mere label.
+   A. complete and final, so no further checks like spot–facular forward modeling are needed
+   B. unavoidable and uncontrollable because facula coverage fractions dominates all evidence
+   C. weakened
+   D. irrelevant to stellar contamination in transit spectroscopy, serving only as background detail
+
+3. [Factual Information] According to the passage, why does the author emphasize boundary conditions?
+   A. The passage implies that multi-epoch transit campaigns directly measures causes, meaning confounding from limb-darkening model mismatch is impossible.
+   B. it prevents apparent slopes mimicking Rayleigh scattering from being treated as a self-interpreting fingerprint and forces tests that control limb-darkening model mismatch
+   C. Because limb-darkening model mismatch co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   D. Since apparent slopes mimicking Rayleigh scattering is observed in bright nearby planet hosts, it must generalize to every setting, regardless of boundary conditions.
+
+4. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: This point matters because the simplest interpretation often survives only by silently restricting the range of cases under discussion.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+5. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | simultaneous photometric monitoring | May not generalize across contexts |
+   | Signal | apparent slopes mimicking Rayleigh scattering | May be sensitive to preprocessing choices |
+   | Confounder | limb-darkening model mismatch | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. May be sensitive to preprocessing choices
+   B. It proves spurious molecular detections is unique.
+   C. May not generalize across contexts
+   D. It makes limb-darkening model mismatch irrelevant.
+
+6. [Inference] Which of the following can be inferred from the passage?
+   A. The argument is that boundary conditions matter only for older studies, not for modern measurements using multi-epoch transit campaigns.
+   B. A convincing explanation should make distinct predictions under shared protocols, especially when starspot temperature contrasts can mimic apparent slopes mimicking Rayleigh scattering.
+   C. The passage suggests that apparent slopes mimicking Rayleigh scattering is primarily a rhetorical device rather than an empirical constraint on models.
+   D. The author treats M-dwarf systems with repeated transits as a special case and argues that no broader inference about stellar contamination in transit spectroscopy is possible.
+
+7. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This detail becomes important later, when assumptions are tested.
+   A. apparent slopes mimicking Rayleigh scattering specifically, taken as an unambiguous measurement
+   B. simultaneous photometric monitoring as a device rather than as an analytic approach
+   C. instrument drift across visits alone, treated as the sole cause
+   D. the idea being discussed in the surrounding sentences
+
+8. [Rhetorical Purpose] The author introduces rival explanations chiefly to:
+   A. The author suggests that the key synonym 'stellar heterogeneity effects on retrieval' refers to a different field altogether, not to stellar contamination in transit spectroscopy.
+   B. The passage treats rotation-modulated light curves as a confounder and limb-darkening model mismatch as the diagnostic signal that identifies the mechanism.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where spot–facular forward modeling constrains limb-darkening model mismatch
+   D. The discussion suggests that limb-darkening model mismatch is the phenomenon itself, so controlling for it would remove the effect of interest.
+
+9. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage argues that photospheric contamination of transmission spectra cannot be studied empirically because confounders like facula coverage fractions make data meaningless. It recommends replacing measurement with intuition and rejecting spot–facular forward modeling as unreliable. It concludes that debate persists because evidence never constrains theory.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats spot–facular forward modeling as a historical curiosity and does not discuss apparent slopes mimicking Rayleigh scattering or facula coverage fractions. It ends without any methodological implication.
+   C. The passage claims that activity-driven spectral distortion is settled because apparent slopes mimicking Rayleigh scattering uniquely identifies the mechanism. It argues that facula coverage fractions is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using spot–facular forward modeling are unnecessary.
+   D. The passage examines stellar contamination in transit spectroscopy and argues that apparent slopes mimicking Rayleigh scattering is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how facula coverage fractions can shift the baseline, especially when evidence is drawn from multi-epoch JWST targets. Finally, it maintains that tests combining spot–facular forward modeling with boundary-condition checks are required to make claims about unocculted spot/facula bias in transit data robust.
+
+10. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about stellar contamination in transit spectroscopy be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Some summaries seem consistent because they mix incompatible cases, not because time-variable spectral baselines uniquely identifies one mechanism.
+   B. Aggregation guarantees that the same mechanism operates in M-dwarf systems with repeated transits and everywhere else.
+   C. Incompatible cases should be ignored to keep an explanation based on multi-epoch transit campaigns simple.
+   D. Summaries are always reliable because averaging eliminates limb-darkening model mismatch.
+
+
+Answer Key
+----------
+1: C
+2: C
+3: B
+4: A
+5: A
+6: B
+7: D
+8: C
+9: D
+10: A

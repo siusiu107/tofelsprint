@@ -1,0 +1,157 @@
+Passage 0853: Coral Bleaching Triggered by Marine Heatwaves (Ecology)
+=====================================================================
+(Word count: 763)
+
+In cross-site comparisons, the analysis suggests researchers have treated mortality and
+phase shifts as the decisive sign of coral bleaching triggered by marine heatwaves. To be
+sure, photophysiology measurements can make the pattern look unusually sharp, yet the
+passage argues that such confidence is conditional and must be earned by specifying
+assumptions. the resulting debate is less about data collection than about what the data are
+evidence for, something that forces analysts to articulate boundary conditions rather than
+rely on familiar narratives.
+
+the first model can fit one dataset extremely well; still, the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how compound
+stressors such as acidification and pollution can shift baselines, altering whether
+mortality and phase shifts is even comparable across cases, which forces analysts to admit
+that means that a good fit is not the same as a good explanation. If compound stressors such
+as acidification and pollution is changed while the nominal driver remains constant is
+granted, one should expect different outcomes when conditions are perturbed. In this sense,
+thermal bleaching events is best treated as a conditional inference rather than as a mere
+label.
+
+Using photophysiology measurements under stable conditions, it is difficult to deny that one
+frequently cited case from the Great Barrier Reef appeared to support the direct-readout
+view. [A] The discussion treats exceptions as informative, not as errors to be discarded.
+Although the original fit looked visually decisive, later, however, reanalysis showed that
+small shifts in compound stressors such as acidification and pollution altered the baseline
+enough to mute or mimic mortality and phase shifts. [B] The author shifts from narrative to
+diagnosis, focusing on what the data cannot rule out. the passage treats this episode as
+diagnostic, a move that illustrates why boundary conditions must be specified before
+generalization is attempted. [C] The author uses the detour to show why a different metric
+would lead to a different conclusion. [D] The author suggests that the same evidence can
+support multiple stories when priors differ.
+
+Not until analysts began combining photophysiology measurements with cross-site comparisons
+was it clear that claims about coral bleaching triggered by marine heatwaves stopped relying
+on a single figure and started relying on falsifiable predictions. the goal was to break
+degeneracies in which mortality and phase shifts could be explained in more than one way in
+part because confounders like compound stressors such as acidification and pollution often
+co-vary with the driver. as the author notes, transparency about priors became an empirical
+issue rather than a stylistic choice, which helps explain why changes whether two analyses
+are actually comparable. In this sense, loss of symbiotic zooxanthellae under heat stress is
+best treated as a conditional inference rather than as a mere label.
+
+What matters most is the apparent regularity of mortality and phase shifts, which is why
+drives the first interpretation: mortality and phase shifts is treated as a direct readout
+of mechanism. Provided that mortality and phase shifts is uniquely produced by one causal
+pathway, then observations from the Great Barrier Reef would be transferable, and
+disagreement would be largely technical. Not the caveat that compound stressors such as
+acidification and pollution might reproduce the same pattern, but the literature is full of
+such claims.
+
+It is methodological humility, rather than a single headline feature, that the passage
+presents as the lesson of coral bleaching triggered by marine heatwaves: inference is
+constrained by what competing models would also predict. If one wishes to move from
+description to explanation holds, then the same observation—mortality and phase shifts—must
+be paired with tests that change the conditions under which it appears. Whereas popular
+summaries treat mortality and phase shifts as an endpoint in one account, the passage treats
+it as a starting point for sharper experimental or observational contrasts in another. In
+this sense, reef-scale bleaching episodes is best treated as a conditional inference rather
+than as a mere label.
+
+In the end, the central disagreement can be stated more precisely: the passage concludes
+that the most informative evidence is often the evidence that forces competing assumptions
+into the open. by insisting that claims about coral bleaching triggered by marine heatwaves
+be conditional on stated priors, it turns disagreement into a tool for discovery, which
+clarifies why the same record can yield multiple stories without implying that any story is
+arbitrary. the temptation to treat a tidy plot as a definitive answer is strong; still, the
+result is a framework in which mortality and phase shifts is interpreted through explicit
+boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage argues that reef-scale bleaching episodes cannot be studied empirically because confounders like compound stressors such as acidification and pollution make data meaningless. It recommends replacing measurement with intuition and rejecting degree-heating-week metrics as unreliable. It concludes that debate persists because evidence never constrains theory.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats degree-heating-week metrics as a historical curiosity and does not discuss recruitment failure or compound stressors such as acidification and pollution. It ends without any methodological implication.
+   C. The passage examines coral bleaching triggered by marine heatwaves and argues that recruitment failure is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how compound stressors such as acidification and pollution can shift the baseline, especially when evidence is drawn from Red Sea reefs. Finally, it maintains that tests combining degree-heating-week metrics with boundary-condition checks are required to make claims about thermal bleaching events robust.
+   D. The passage claims that loss of symbiotic zooxanthellae under heat stress is settled because recruitment failure uniquely identifies the mechanism. It argues that compound stressors such as acidification and pollution is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using degree-heating-week metrics are unnecessary.
+
+2. [Inference] The passage suggests which of the following?
+   A. The argument is that boundary conditions matter only for older studies, not for modern measurements using symbiont genotyping.
+   B. A convincing explanation should make distinct predictions under shared protocols, especially when local adaptation can mimic changes in reef fish assemblages.
+   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving symbiont genotyping.
+   D. The author treats the Coral Triangle as a special case and argues that no broader inference about coral bleaching triggered by marine heatwaves is possible.
+
+3. [Rhetorical Purpose] What function does the comparison with another theory perform in the argument?
+   A. The author argues that reef-scale temperature loggers should be replaced by an unmodeled trend line because assumptions distort evidence.
+   B. The passage implies that Red Sea reefs is chosen to avoid bias, so comparisons across settings are unnecessary.
+   C. The author suggests that the key synonym 'heat-driven coral whitening' refers to a different field altogether, not to coral bleaching triggered by marine heatwaves.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where reef-scale temperature loggers constrains disease outbreaks
+
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. changes in reef fish assemblages
+   B. a list of Olympic medal counts
+   C. Coral Bleaching Triggered by Marine Heatwaves
+   D. symbiont genotyping
+
+5. [Vocabulary] In the passage, the word **persistent** in the sentence below is closest in meaning to:
+   Sentence: In this sense, loss of symbiotic zooxanthellae under heat stress is best treated as a conditional inference rather than as a mere label.
+   A. complete and final, so no further checks like photophysiology measurements are needed
+   B. unavoidable and uncontrollable because disease outbreaks dominates all evidence
+   C. lasting
+   D. irrelevant to coral bleaching triggered by marine heatwaves, serving only as background detail
+
+6. [Factual Information] According to the passage, why does the author emphasize confounder control?
+   A. The passage implies that degree-heating-week metrics directly measures causes, meaning confounding from shading and cooling refugia is impossible.
+   B. it prevents recruitment failure from being treated as a self-interpreting fingerprint and forces tests that control shading and cooling refugia
+   C. Since recruitment failure is observed in Red Sea reefs, it must generalize to every setting, regardless of boundary conditions.
+   D. Because recruitment failure appears, the mechanism must be unique, so shading and cooling refugia can be ignored as irrelevant noise.
+
+7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: it highlights how compound stressors such as acidification and pollution can shift baselines, altering whether mortality and phase shifts is even comparable across cases, which forces analysts to admit that means that a good fit is not the same as a good explanation.
+   A. Some summaries seem consistent because they mix incompatible cases, not because shifts in carbonate accretion uniquely identifies one mechanism.
+   B. Incompatible cases should be ignored to keep an explanation based on satellite thermal stress maps simple.
+   C. Aggregation guarantees that the same mechanism operates in the Great Barrier Reef and everywhere else.
+   D. Summaries are always reliable because averaging eliminates compound stressors such as acidification and pollution.
+
+8. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | satellite thermal stress maps | Requires careful calibration |
+   | Signal | changes in reef fish assemblages | May be muted by other processes |
+   | Confounder | disease outbreaks | Co-varies with the driver of interest |
+   Blank: The limitation for 'Confounder' is ________.
+   A. It makes local adaptation irrelevant.
+   B. Requires careful calibration
+   C. May be muted by other processes
+   D. Co-varies with the driver of interest
+
+9. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: it highlights how compound stressors such as acidification and pollution can shift baselines, altering whether mortality and phase shifts is even comparable across cases, which forces analysts to admit that means that a good fit is not the same as a good explanation.
+   A. recruitment failure specifically, taken as an unambiguous measurement
+   B. degree-heating-week metrics as a device rather than as an analytic approach
+   C. the idea being discussed in the surrounding sentences
+   D. symbiont clade switching alone, treated as the sole cause
+
+10. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: This is why the author dwells on assumptions: without them, two teams can analyze the same record and still disagree honestly.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+
+Answer Key
+----------
+1: C
+2: B
+3: D
+4: B
+5: C
+6: B
+7: A
+8: D
+9: C
+10: B

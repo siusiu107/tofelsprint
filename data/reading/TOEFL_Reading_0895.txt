@@ -1,0 +1,153 @@
+Passage 0895: Residential Segregation and the Persistence of Neighborhood Inequality (Sociology)
+================================================================================================
+(Word count: 781)
+
+In policy discussions, the passage argues that researchers have treated mobility constraints
+across space as the decisive sign of residential segregation and the persistence of
+neighborhood inequality. Admittedly, longitudinal panel data can make the pattern look
+unusually sharp; nevertheless, the passage argues that such confidence is conditional and
+must be earned by specifying assumptions. the resulting debate is less about data collection
+than about what the data are evidence for, which is precisely why forces analysts to
+articulate boundary conditions rather than rely on familiar narratives. Using longitudinal
+panel data under stable conditions, the interpretation shifts, and one frequently cited case
+from European migrant neighborhoods appeared to support the direct-readout view. Admittedly,
+the original fit looked visually decisive; nevertheless, later, however, reanalysis showed
+that small shifts in path dependence from historical redlining altered the baseline enough
+to mute or mimic mobility constraints across space. the passage treats this episode as
+diagnostic, which illustrates why boundary conditions must be specified before
+generalization is attempted. In this sense, spatial stratification in cities is best treated
+as a conditional inference rather than as a mere label. If anything is responsible, it is
+methodological humility, and therefore the passage presents as the lesson of residential
+segregation and the persistence of neighborhood inequality: inference is constrained by what
+competing models would also predict. [A] The author notes that generalization requires more
+than a single well-chosen case. If one wishes to move from description to explanation, a
+different prediction follows: then the same observation—mobility constraints across
+space—must be paired with tests that change the conditions under which it appears. [B] The
+discussion makes clear that measurement choices can masquerade as mechanism. Whereas popular
+summaries treat mobility constraints across space as an endpoint invites a tidy story, the
+passage treats it as a starting point for sharper experimental or observational contrasts
+forces boundary conditions to be stated. [C] This reasoning matters because it changes what
+counts as a decisive test. [D] That point is not rhetorical; it controls which prediction
+follows. Not until analysts began combining longitudinal panel data with cross-site
+comparisons was it clear that claims about residential segregation and the persistence of
+neighborhood inequality stopped relying on a single figure and started relying on
+falsifiable predictions. the goal was to break degeneracies in which mobility constraints
+across space could be explained in more than one way largely because confounders like path
+dependence from historical redlining often co-vary with the driver. as the author notes,
+transparency about priors became an empirical issue rather than a stylistic choice,
+something that changes whether two analyses are actually comparable. Only through the field
+adopted tests that manipulate or stratify path dependence from historical redlining could
+one reasonably claim that the debate became empirically productive rather than merely
+rhetorical. by comparing cases in which longitudinal panel data constrains alternatives,
+researchers could ask which predictions survive out of sample, a move that is why the
+passage emphasizes comparative design over isolated exemplars. While it is true that a
+single case can be dramatic, the author does not deny the value of striking examples, but
+warns against treating them as representative. In this sense, segregation-driven inequality
+across neighborhoods is best treated as a conditional inference rather than as a mere label.
+Only through analysts began combining longitudinal panel data with cross-site comparisons
+could one reasonably claim that claims about residential segregation and the persistence of
+neighborhood inequality stopped relying on a single figure and started relying on
+falsifiable predictions. The passage argues that the goal was to break degeneracies in which
+mobility constraints across space could be explained in more than one way because
+confounders like path dependence from historical redlining often co-vary with the driver. as
+the author notes, transparency about priors became an empirical issue rather than a
+stylistic choice, which helps explain why changes whether two analyses are actually
+comparable. Working with sparse records and limited controls on path dependence from
+historical redlining, the passage suggests many early studies framed residential segregation
+and the persistence of neighborhood inequality as a single-mechanism phenomenon. Whereas
+those studies emphasized mobility constraints across space as a signature invites a tidy
+story, later work asked whether the same signature survives when protocols and baselines
+differ forces boundary conditions to be stated. The passage argues that this shift mattered
+for how evidence from European migrant neighborhoods was generalized because local
+conditions can change which processes generate mobility constraints across space. In this
+sense, persistent neighborhood-level disparities is best treated as a conditional inference
+rather than as a mere label. In the end, researchers found that the passage concludes that
+the most informative evidence is often the evidence that forces competing assumptions into
+the open.
+
+Questions
+---------
+
+1. [Factual Information] According to the passage, why does the author emphasize model assumptions?
+   A. Since wealth accumulation gaps is observed in large U.S. metropolitan areas, it must generalize to every setting, regardless of boundary conditions.
+   B. Because informational asymmetries in housing search co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   C. it prevents wealth accumulation gaps from being treated as a self-interpreting fingerprint and forces tests that control informational asymmetries in housing search
+   D. The passage implies that longitudinal panel data directly measures causes, meaning confounding from informational asymmetries in housing search is impossible.
+
+2. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | mobility tracking with administrative records | Samples only part of the system |
+   | Signal | mobility constraints across space | Can be degenerate with another effect |
+   | Confounder | informational asymmetries in housing search | Can mimic the target feature |
+   Blank: The limitation for 'Method' is ________.
+   A. It proves wealth accumulation gaps is unique.
+   B. It makes credit market discrimination irrelevant.
+   C. Can be degenerate with another effect
+   D. Samples only part of the system
+
+3. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage argues that persistent neighborhood-level disparities cannot be studied empirically because confounders like zoning rules and land-use regulation make data meaningless. It recommends replacing measurement with intuition and rejecting spatial autocorrelation analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
+   B. The passage examines residential segregation and the persistence of neighborhood inequality and argues that mobility constraints across space is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how zoning rules and land-use regulation can shift the baseline, especially when evidence is drawn from European migrant neighborhoods. Finally, it maintains that tests combining spatial autocorrelation analysis with boundary-condition checks are required to make claims about spatial stratification in cities robust.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats spatial autocorrelation analysis as a historical curiosity and does not discuss mobility constraints across space or zoning rules and land-use regulation. It ends without any methodological implication.
+   D. The passage claims that segregation-driven inequality across neighborhoods is settled because mobility constraints across space uniquely identifies the mechanism. It argues that zoning rules and land-use regulation is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using spatial autocorrelation analysis are unnecessary.
+
+4. [Vocabulary] In the passage, the word **preliminary** in the sentence below is closest in meaning to:
+   Sentence: In this sense, persistent neighborhood-level disparities is best treated as a conditional inference rather than as a mere label.
+   A. irrelevant to residential segregation and the persistence of neighborhood inequality, serving only as background detail
+   B. complete and final, so no further checks like longitudinal panel data are needed
+   C. unavoidable and uncontrollable because credit market discrimination dominates all evidence
+   D. early
+
+5. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The author emphasizes that a clean-looking curve can still encode hidden choices, especially when preprocessing is treated as neutral.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+6. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. Residential Segregation and the Persistence of Neighborhood Inequality
+   B. wealth accumulation gaps
+   C. spatial autocorrelation analysis
+   D. the price of coal in 1700
+
+7. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [C] This reasoning matters because it changes what counts as a decisive test.
+   A. zoning rules and land-use regulation alone, treated as the sole cause
+   B. the idea being discussed in the surrounding sentences
+   C. quasi-experimental policy evaluation as a device rather than as an analytic approach
+   D. school-quality gradients specifically, taken as an unambiguous measurement
+
+8. [Rhetorical Purpose] By bringing up competing viewpoints, the author is trying to:
+   A. motivate clearer assumptions and stronger tests, such as comparing cases where quasi-experimental policy evaluation constrains path dependence from historical redlining
+   B. The passage treats wealth accumulation gaps as a confounder and path dependence from historical redlining as the diagnostic signal that identifies the mechanism.
+   C. The passage implies that post-industrial cities is chosen to avoid bias, so comparisons across settings are unnecessary.
+   D. The author suggests that the key synonym 'segregation-driven inequality across neighborhoods' refers to a different field altogether, not to residential segregation and the persistence of neighborhood inequality.
+
+9. [Inference] The passage suggests which of the following?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when zoning rules and land-use regulation can mimic school-quality gradients.
+   B. The passage claims that the best strategy is to average away zoning rules and land-use regulation, since variability is merely a measurement error.
+   C. The argument is that boundary conditions matter only for older studies, not for modern measurements using longitudinal panel data.
+   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving longitudinal panel data.
+
+10. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: Only through analysts began combining longitudinal panel data with cross-site comparisons could one reasonably claim that claims about residential segregation and the persistence of neighborhood inequality stopped relying on a single figure and started relying on falsifiable predictions.
+   A. Summaries are always reliable because averaging eliminates credit market discrimination.
+   B. Some summaries seem consistent because they mix incompatible cases, not because school-quality gradients uniquely identifies one mechanism.
+   C. Aggregation guarantees that the same mechanism operates in large U.S. metropolitan areas and everywhere else.
+   D. Incompatible cases should be ignored to keep an explanation based on mobility tracking with administrative records simple.
+
+
+Answer Key
+----------
+1: C
+2: D
+3: B
+4: D
+5: A
+6: D
+7: B
+8: A
+9: A
+10: B
