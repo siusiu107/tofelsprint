@@ -1,0 +1,27 @@
+{
+  "set": 57,
+  "format": "lecture",
+  "domain": "Psychology",
+  "subtopic": "Attentional blink in rapid serial presentation",
+  "mode": "lecture_demo",
+  "technical_terms": [
+    "baseline",
+    "placebo",
+    "priming",
+    "cognitive load",
+    "prediction error",
+    "reinforcement",
+    "attentional blink",
+    "working memory",
+    "extinction"
+  ],
+  "function_phrase": "Think of it this way:",
+  "main_point": "The professor explains Attentional blink in rapid serial presentation and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes baseline (a process) from cognitive load (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving working memory and placebo.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a student misconception to show real-world constraints.",
+  "connecting_point": "The example about controlling for reinforcement shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}

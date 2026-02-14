@@ -1,0 +1,10 @@
+Narrator: Listen to part of a lecture in a psychology class.
+Professor: Let’s start with a mistake—one I made when I was a graduate student. Kind of, Today we're talking about Attentional blink in rapid serial presentation. I'll toss around a couple terms—baseline, placebo, priming—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say baseline, you know, is that basically cognitive load, or is it a different mechanism?
+Professor: Think of it this way: baseline is the process, and cognitive load is usually a proxy or a measurement for it. People mix them up because the plot looks clean, kind of, but the causality is messy.
+Professor: Quick tangent: a common misconception students have every semester. That’s why prediction error and reinforcement matter—those are constraints, not trivia.
+Professor: This is where controls and replication come in. One control isolates placebo; another isolates prediction error. If both fail, it’s not ‘bad luck’—it’s telling you the model assumptions are off.
+Professor: Let’s do a mini-demo in our heads. I guess, Pretend you’re designing a measurement. If your instrument is sensitive to reinforcement but blind to working memory, you’ll misread the system. So you either redesign the measurement, or you model the bias and quantify uncertainty.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: Uh, Good. Look for an asymmetric prediction. Explanation A implies a change in working memory even if placebo stays constant; Explanation B doesn’t. Design a small test around that hinge point.
+Professor: Anyway, to wrap up: Attentional blink in rapid serial presentation is less about one fact and more about reasoning under constraints. Watch the proxies, I guess, watch the instruments, and don’t fall in love with one pretty plot.

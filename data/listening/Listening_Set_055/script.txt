@@ -1,0 +1,12 @@
+Narrator: Listen to part of a lecture in a linguistics class.
+Professor: Okay, sort of, quick show of hands—who actually did the reading? Yeah... that’s what I thought. Today we're talking about Sign-language classifiers and spatial grammar. I'll toss around a couple terms—semantic bleaching, elicitation, morphology—but I'll translate them as we go.
+Student 1: Like, Sorry—can I ask something? When you say semantic bleaching, is that basically register, or is it a different mechanism?
+Professor: Before we go there, sort of, semantic bleaching is the process, and register is usually a proxy or a measurement for it. People mix them up because the plot looks clean, kind of, but the causality is messy.
+Professor: Quick tangent: a minor lab mishap—like someone labeling tubes backwards—that forced the team to rethink their protocol. That’s why implicature and pragmatics matter—those are constraints, not trivia.
+Professor: They redo the protocol: randomize order, blind the analysis, add an internal standard. Only after that do they treat the shift in phoneme as real rather than an artifact.
+Professor: Let’s frame it as a case. A team collects samples, um, builds a pipeline, and expects a clean result. Instead they see dependence on implicature. First they blame noise, then they realize the sampling window biased the baseline.
+Professor: Okay—why does that matter for the model?
+Professor: …Yeah. No volunteers. Love that energy.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: Good. Um, Look for an asymmetric prediction. Explanation A implies a change in syntax even if elicitation stays constant; Explanation B doesn’t. Design a small test around that hinge point—No, wait, I meant elicitation, not semantic bleaching.
+Professor: Anyway, to wrap up: Sign-language classifiers and spatial grammar is less about one fact and more about reasoning under constraints. Watch the proxies, watch the instruments, and don’t fall in love with one pretty plot.

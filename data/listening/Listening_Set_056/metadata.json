@@ -1,0 +1,27 @@
+{
+  "set": 56,
+  "format": "lecture",
+  "domain": "Linguistics",
+  "subtopic": "Critical period in language acquisition",
+  "mode": "lecture_debate",
+  "technical_terms": [
+    "register",
+    "prosody",
+    "elicitation",
+    "corpus",
+    "pragmatics",
+    "morphology",
+    "syntax",
+    "semantic bleaching",
+    "implicature"
+  ],
+  "function_phrase": "Exactly.",
+  "main_point": "The professor explains Critical period in language acquisition and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes register (a process) from corpus (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving semantic bleaching and prosody.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a real-world constraint to show real-world constraints.",
+  "connecting_point": "The example about controlling for morphology shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}
