@@ -1,0 +1,27 @@
+{
+  "set": 94,
+  "format": "lecture",
+  "domain": "Film Studies",
+  "subtopic": "Montage and viewer perception",
+  "mode": "lecture_case",
+  "technical_terms": [
+    "perception",
+    "diegesis",
+    "montage",
+    "pacing",
+    "framing",
+    "cut",
+    "continuity",
+    "narrative",
+    "tracking shot"
+  ],
+  "function_phrase": "Quick tangent:",
+  "main_point": "The professor explains Montage and viewer perception and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes perception (a process) from pacing (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving narrative and diegesis.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a tools tangent to show real-world constraints.",
+  "connecting_point": "The example about controlling for cut shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": true,
+  "has_self_correction": true
+}

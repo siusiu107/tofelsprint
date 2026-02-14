@@ -1,0 +1,27 @@
+{
+  "set": 91,
+  "format": "lecture",
+  "domain": "Data Science",
+  "subtopic": "A/B testing and false discovery rate",
+  "mode": "lecture_demo",
+  "technical_terms": [
+    "dataset shift",
+    "false discovery rate",
+    "overfitting",
+    "bootstrap",
+    "confounder",
+    "p-value",
+    "statistical power",
+    "variance",
+    "sampling bias"
+  ],
+  "function_phrase": "In other words,",
+  "main_point": "The professor explains A/B testing and false discovery rate and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes dataset shift (a process) from bootstrap (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving variance and false discovery rate.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a student misconception to show real-world constraints.",
+  "connecting_point": "The example about controlling for p-value shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": true,
+  "has_self_correction": true
+}
