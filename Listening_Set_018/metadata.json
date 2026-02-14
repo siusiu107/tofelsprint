@@ -1,0 +1,27 @@
+{
+  "set": 18,
+  "format": "lecture",
+  "domain": "Archaeology",
+  "subtopic": "Radiocarbon calibration curves and reservoir effects",
+  "mode": "lecture_demo",
+  "technical_terms": [
+    "context",
+    "calibration curve",
+    "GIS",
+    "taphonomy",
+    "assemblage",
+    "typology",
+    "provenance",
+    "stratigraphy",
+    "dendrochronology"
+  ],
+  "function_phrase": "Quick tangent:",
+  "main_point": "The professor explains Radiocarbon calibration curves and reservoir effects and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes context (a process) from taphonomy (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving stratigraphy and calibration curve.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a funding detail to show real-world constraints.",
+  "connecting_point": "The example about controlling for typology shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": true,
+  "has_self_correction": true
+}

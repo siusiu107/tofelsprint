@@ -1,0 +1,10 @@
+Narrator: Listen to part of a lecture in a archaeology class.
+Professor: Before we define anything, picture a real situation in the field—mud, wind, broken equipment, all of it. Today we're talking about Stratigraphy, uh, context, and depositional layers. I'll toss around a couple terms—stratigraphy, taphonomy, dendrochronology—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say stratigraphy, I guess, is that basically context, or is it a different mechanism?
+Professor: That’s a fair point, I guess, but stratigraphy is the process, and context is usually a proxy or a measurement for it. People mix them up because the plot looks clean, but the causality is messy—No, wait, I meant taphonomy, not typology.
+Professor: You know, Quick tangent: a common misconception students have every semester. That’s why radiocarbon dating and typology matter—those are constraints, not trivia.
+Professor: They redo the protocol: randomize order, sort of, blind the analysis, add an internal standard. Kind of, Only after that do they treat the shift in GIS as real rather than an artifact.
+Professor: Let’s frame it as a case. A team collects samples, uh, builds a pipeline, and expects a clean result. You know, Instead they see dependence on radiocarbon dating. First they blame noise, um, then they realize the sampling window biased the baseline.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: Good. Look for an asymmetric prediction. Explanation A implies a change in provenance even if taphonomy stays constant; Explanation B doesn’t. Design a small test around that hinge point.
+Professor: Anyway, I guess, to wrap up: Stratigraphy, context, and depositional layers is less about one fact and more about reasoning under constraints. Watch the proxies, uh, watch the instruments, and don’t fall in love with one pretty plot.

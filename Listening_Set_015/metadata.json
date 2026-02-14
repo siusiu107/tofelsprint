@@ -1,0 +1,27 @@
+{
+  "set": 15,
+  "format": "lecture",
+  "domain": "Astronomy",
+  "subtopic": "Yarkovsky effect in asteroid orbit drift",
+  "mode": "lecture_demo",
+  "technical_terms": [
+    "light curve",
+    "spectroscopy",
+    "redshift",
+    "eccentricity",
+    "magnetosphere",
+    "signal-to-noise ratio",
+    "photons",
+    "parallax",
+    "Keplerian"
+  ],
+  "function_phrase": "I’m glad you asked.",
+  "main_point": "The professor explains Yarkovsky effect in asteroid orbit drift and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes light curve (a process) from eccentricity (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving parallax and spectroscopy.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a real-world constraint to show real-world constraints.",
+  "connecting_point": "The example about controlling for signal-to-noise ratio shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}

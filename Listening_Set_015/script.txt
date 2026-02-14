@@ -1,0 +1,10 @@
+Narrator: Listen to part of a lecture in a astronomy class.
+Professor: Um, I’m going to begin with a weird question that sounds unrelated. It isn’t. Today we're talking about Yarkovsky effect in asteroid orbit drift. I'll toss around a couple terms—light curve, you know, spectroscopy, redshift—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say light curve, I guess, is that basically eccentricity, or is it a different mechanism?
+Professor: I’m glad you asked. light curve is the process, I guess, and eccentricity is usually a proxy or a measurement for it. People mix them up because the plot looks clean, but the causality is messy.
+Professor: Quick tangent: a real-world constraint—weather, time, or money—that makes the ‘ideal’ method impossible. That’s why magnetosphere and signal-to-noise ratio matter—those are constraints, not trivia.
+Professor: Kind of, Let’s do a mini-demo in our heads. Pretend you’re designing a measurement. If your instrument is sensitive to signal-to-noise ratio but blind to parallax, you’ll misread the system. So you either redesign the measurement, or you model the bias and quantify uncertainty.
+Professor: This is where controls and replication come in. One control isolates spectroscopy; another isolates magnetosphere. If both fail, it’s not ‘bad luck’—it’s telling you the model assumptions are off.
+Student 2: So if we’re choosing between two explanations, uh, what’s the fastest way to falsify one without running a whole new study?
+Professor: Good. Kind of, Look for an asymmetric prediction. Explanation A implies a change in parallax even if spectroscopy stays constant; Explanation B doesn’t. Design a small test around that hinge point—No, wait, I meant redshift, not eccentricity.
+Professor: Anyway, to wrap up: Yarkovsky effect in asteroid orbit drift is less about one fact and more about reasoning under constraints. Watch the proxies, watch the instruments, and don’t fall in love with one pretty plot.

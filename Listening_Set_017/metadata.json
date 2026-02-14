@@ -1,0 +1,27 @@
+{
+  "set": 17,
+  "format": "lecture",
+  "domain": "Archaeology",
+  "subtopic": "Stratigraphy, context, and depositional layers",
+  "mode": "lecture_case",
+  "technical_terms": [
+    "stratigraphy",
+    "taphonomy",
+    "dendrochronology",
+    "context",
+    "radiocarbon dating",
+    "typology",
+    "GIS",
+    "provenance",
+    "calibration curve"
+  ],
+  "function_phrase": "That’s a fair point, but",
+  "main_point": "The professor explains Stratigraphy, context, and depositional layers and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes stratigraphy (a process) from context (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving provenance and taphonomy.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a student misconception to show real-world constraints.",
+  "connecting_point": "The example about controlling for typology shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}
