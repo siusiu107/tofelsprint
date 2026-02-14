@@ -1,0 +1,153 @@
+Passage 0800: Gravitational Wave Parameter Estimation in Compact Binary Mergers (Physics)
+=========================================================================================
+(Word count: 778)
+
+When posterior distributions are inspected, the passage argues that researchers have treated
+distance–inclination degeneracy as the decisive sign of gravitational wave parameter
+estimation in compact binary mergers. To be sure, detector calibration cross-checks can make
+the pattern look unusually sharp, yet the passage argues that such confidence is conditional
+and must be earned by specifying assumptions. the resulting debate is less about data
+collection than about what the data are evidence for, which is precisely why forces analysts
+to articulate boundary conditions rather than rely on familiar narratives. In replication
+attempts, the passage argues that the apparent consensus fractured when similar protocols
+were applied in settings unlike catalog-level population analyses. the same summary
+statistic could be reproduced while the underlying mechanisms differed because non-Gaussian
+detector noise shifted the baseline in different directions across sites. So the author
+therefore separates detection from interpretation, and so, too, does the evidence undermine
+treating distance–inclination degeneracy as a self-sufficient conclusion. In this sense,
+inference of binary masses and spins from gravitational waves is best treated as a
+conditional inference rather than as a mere label. Not until the field adopted tests that
+manipulate or stratify non-Gaussian detector noise was it clear that the debate became
+empirically productive rather than merely rhetorical. by comparing cases in which detector
+calibration cross-checks constrains alternatives, researchers could ask which predictions
+survive out of sample, which forces analysts to admit that is why the passage emphasizes
+comparative design over isolated exemplars. Admittedly, a single case can be dramatic;
+nevertheless, the author does not deny the value of striking examples, but warns against
+treating them as representative. In replication attempts, researchers found that the
+apparent consensus fractured when similar protocols were applied in settings unlike catalog-
+level population analyses. the same summary statistic could be reproduced while the
+underlying mechanisms differed because non-Gaussian detector noise shifted the baseline in
+different directions across sites. the author therefore separates detection from
+interpretation, not because treating distance–inclination degeneracy as a self-sufficient
+conclusion, but because the assumptions differ. Only after the field adopted tests that
+manipulate or stratify non-Gaussian detector noise did the earlier interpretation begin to
+look fragile, so the debate became empirically productive rather than merely rhetorical. [A]
+This reasoning matters because it changes what counts as a decisive test. by comparing cases
+in which detector calibration cross-checks constrains alternatives, researchers could ask
+which predictions survive out of sample, a move that is why the passage emphasizes
+comparative design over isolated exemplars. [B] The passage highlights that mechanism claims
+must survive out-of-sample checks. Even though a single case can be dramatic, the author
+does not deny the value of striking examples, but warns against treating them as
+representative. [C] The passage emphasizes boundary conditions instead of treating them as
+afterthoughts. [D] This is why the author repeatedly contrasts what is measured with what is
+inferred. In this sense, bayesian estimation in compact merger signals is best treated as a
+conditional inference rather than as a mere label. Rarely, unless analysts began combining
+detector calibration cross-checks with cross-site comparisons, does one see why claims about
+gravitational wave parameter estimation in compact binary mergers stopped relying on a
+single figure and started relying on falsifiable predictions. the goal was to break
+degeneracies in which distance–inclination degeneracy could be explained in more than one
+way in part because confounders like non-Gaussian detector noise often co-vary with the
+driver. as the author notes, transparency about priors became an empirical issue rather than
+a stylistic choice, which forces analysts to admit that changes whether two analyses are
+actually comparable. Not the obvious explanation but methodological humility is what the
+passage presents as the lesson of gravitational wave parameter estimation in compact binary
+mergers: inference is constrained by what competing models would also predict. If one wishes
+to move from description to explanation is granted, then the same
+observation—distance–inclination degeneracy—must be paired with tests that change the
+conditions under which it appears. Whereas popular summaries treat distance–inclination
+degeneracy as an endpoint in one account, the passage treats it as a starting point for
+sharper experimental or observational contrasts in another. In this sense, parameter
+recovery from chirp waveforms is best treated as a conditional inference rather than as a
+mere label. In the end, the analysis suggests the passage concludes that the most
+informative evidence is often the evidence that forces competing assumptions into the open.
+by insisting that claims about gravitational wave parameter estimation in compact binary
+mergers be conditional on stated priors, it turns disagreement into a tool for discovery,
+which clarifies why the same record can yield multiple stories without implying that any
+story is arbitrary.
+
+Questions
+---------
+
+1. [Vocabulary] In the passage, the word **salient** in the sentence below is closest in meaning to:
+   Sentence: Even though a single case can be dramatic, the author does not deny the value of striking examples, but warns against treating them as representative.
+   A. important
+   B. irrelevant to gravitational wave parameter estimation in compact binary mergers, serving only as background detail
+   C. unavoidable and uncontrollable because calibration drift dominates all evidence
+   D. complete and final, so no further checks like population-hyperparameter modeling are needed
+
+2. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The passage underscores that transparency about priors can be more informative than presenting one visually impressive fit.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+3. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This reasoning matters because it changes what counts as a decisive test.
+   A. population-hyperparameter modeling as a device rather than as an analytic approach
+   B. distance–inclination degeneracy specifically, taken as an unambiguous measurement
+   C. the idea being discussed in the surrounding sentences
+   D. non-Gaussian detector noise alone, treated as the sole cause
+
+4. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | matched filtering | Samples only part of the system |
+   | Signal | spin-induced phase shifts | Can be degenerate with another effect |
+   | Confounder | calibration drift | Shifts the baseline |
+   Blank: The limitation for 'Signal' is ________.
+   A. It makes selection effects in catalogs irrelevant.
+   B. Shifts the baseline
+   C. Can be degenerate with another effect
+   D. Samples only part of the system
+
+5. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. a recipe for bread fermentation
+   B. waveform systematics studies
+   C. Gravitational Wave Parameter Estimation in Compact Binary Mergers
+   D. distance–inclination degeneracy
+
+6. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats waveform systematics studies as a historical curiosity and does not discuss sky-localization uncertainty regions or selection effects in catalogs. It ends without any methodological implication.
+   B. The passage claims that bayesian estimation in compact merger signals is settled because sky-localization uncertainty regions uniquely identifies the mechanism. It argues that selection effects in catalogs is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using waveform systematics studies are unnecessary.
+   C. The passage examines gravitational wave parameter estimation in compact binary mergers and argues that sky-localization uncertainty regions is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how selection effects in catalogs can shift the baseline, especially when evidence is drawn from multi-detector observing runs. Finally, it maintains that tests combining waveform systematics studies with boundary-condition checks are required to make claims about inference of binary masses and spins from gravitational waves robust.
+   D. The passage argues that parameter recovery from chirp waveforms cannot be studied empirically because confounders like selection effects in catalogs make data meaningless. It recommends replacing measurement with intuition and rejecting waveform systematics studies as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about gravitational wave parameter estimation in compact binary mergers be conditional on stated priors, it turns disagreement into a tool for discovery, which clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates waveform modeling uncertainty.
+   B. Incompatible cases should be ignored to keep an explanation based on waveform systematics studies simple.
+   C. Aggregation guarantees that the same mechanism operates in catalog-level population analyses and everywhere else.
+   D. Some summaries seem consistent because they mix incompatible cases, not because chirp mass constraints uniquely identifies one mechanism.
+
+8. [Rhetorical Purpose] What is the primary purpose of presenting more than one explanation?
+   A. The discussion suggests that selection effects in catalogs is the phenomenon itself, so controlling for it would remove the effect of interest.
+   B. The passage implies that catalog-level population analyses is chosen to avoid bias, so comparisons across settings are unnecessary.
+   C. The author argues that waveform systematics studies should be replaced by an unmodeled trend line because assumptions distort evidence.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where waveform systematics studies constrains selection effects in catalogs
+
+9. [Inference] The passage suggests which of the following?
+   A. The author treats low-latency alerts as a special case and argues that no broader inference about gravitational wave parameter estimation in compact binary mergers is possible.
+   B. A convincing explanation should make distinct predictions under shared protocols, especially when non-Gaussian detector noise can mimic distance–inclination degeneracy.
+   C. The passage suggests that distance–inclination degeneracy is primarily a rhetorical device rather than an empirical constraint on models.
+   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving Bayesian posterior sampling.
+
+10. [Factual Information] According to the passage, why does the author emphasize instrument calibration?
+   A. Because calibration drift co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   B. it prevents chirp mass constraints from being treated as a self-interpreting fingerprint and forces tests that control calibration drift
+   C. The discussion indicates that replication is redundant if detector calibration cross-checks produces a tight fit on one dataset.
+   D. The passage implies that detector calibration cross-checks directly measures causes, meaning confounding from calibration drift is impossible.
+
+
+Answer Key
+----------
+1: A
+2: C
+3: C
+4: C
+5: A
+6: C
+7: D
+8: D
+9: B
+10: B

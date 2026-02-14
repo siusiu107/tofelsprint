@@ -1,0 +1,154 @@
+Passage 0706: Coral Bleaching Triggered by Marine Heatwaves (Ecology)
+=====================================================================
+(Word count: 742)
+
+When temperature anomalies cluster, the central disagreement can be stated more precisely:
+researchers have treated shifts in carbonate accretion as the decisive sign of coral
+bleaching triggered by marine heatwaves. While it is true that photophysiology measurements
+can make the pattern look unusually sharp, the passage argues that such confidence is
+conditional and must be earned by specifying assumptions. the resulting debate is less about
+data collection than about what the data are evidence for, an outcome that forces analysts
+to articulate boundary conditions rather than rely on familiar narratives.
+
+In replication attempts, it becomes plausible that the apparent consensus fractured when
+similar protocols were applied in settings unlike Red Sea reefs. the same summary statistic
+could be reproduced while the underlying mechanisms differed because, as the author notes,
+shading and cooling refugia shifted the baseline in different directions across sites. Not
+treating shifts in carbonate accretion as a self-sufficient conclusion, but the author
+therefore separates detection from interpretation. In this sense, thermal bleaching events
+is best treated as a conditional inference rather than as a mere label.
+
+It is the apparent regularity of shifts in carbonate accretion, rather than a single
+headline feature, that drives the first interpretation: shifts in carbonate accretion is
+treated as a direct readout of mechanism. If shifts in carbonate accretion is uniquely
+produced by one causal pathway holds, then observations from Red Sea reefs would be
+transferable, and disagreement would be largely technical. The issue is not the caveat that
+shading and cooling refugia might reproduce the same pattern; it is that the literature is
+full of such claims.
+
+Not until the field adopted tests that manipulate or stratify shading and cooling refugia
+did the debate became empirically productive rather than merely rhetorical. by comparing
+cases in which photophysiology measurements constrains alternatives, researchers could ask
+which predictions survive out of sample, something that is why the passage emphasizes
+comparative design over isolated exemplars. Even if a single case can be dramatic, the
+author does not deny the value of striking examples, but warns against treating them as
+representative. In this sense, loss of symbiotic zooxanthellae under heat stress is best
+treated as a conditional inference rather than as a mere label.
+
+The decisive factor is methodological humility; once that is stated, the passage presents as
+the lesson of coral bleaching triggered by marine heatwaves: inference is constrained by
+what competing models would also predict. [A] The argument hinges on what would change under
+an alternative explanation. If one wishes to move from description to explanation holds,
+then the same observation—shifts in carbonate accretion—must be paired with tests that
+change the conditions under which it appears. [B] At first glance, the pattern seems
+obvious, yet the author frames it as conditional. Whereas popular summaries treat shifts in
+carbonate accretion as an endpoint may be convenient, the passage treats it as a starting
+point for sharper experimental or observational contrasts is scientifically revealing. [C]
+This becomes a pivot point where the earlier interpretation is narrowed. [D] The author
+implies that replication is informative only when protocols are comparable.
+
+The point is not X but methodological humility; in that framing, the passage presents as the
+lesson of coral bleaching triggered by marine heatwaves: inference is constrained by what
+competing models would also predict. If one wishes to move from description to explanation
+is granted, then the same observation—shifts in carbonate accretion—must be paired with
+tests that change the conditions under which it appears. Whereas popular summaries treat
+shifts in carbonate accretion as an endpoint invites a tidy story, the passage treats it as
+a starting point for sharper experimental or observational contrasts forces boundary
+conditions to be stated. In this sense, reef-scale bleaching episodes is best treated as a
+conditional inference rather than as a mere label.
+
+In the end, it becomes plausible that the passage concludes that the most informative
+evidence is often the evidence that forces competing assumptions into the open. by insisting
+that claims about coral bleaching triggered by marine heatwaves be conditional on stated
+priors, it turns disagreement into a tool for discovery, a move that clarifies why the same
+record can yield multiple stories without implying that any story is arbitrary. While it is
+true that the temptation to treat a tidy plot as a definitive answer is strong, the result
+is a framework in which shifts in carbonate accretion is interpreted through explicit
+boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. shifts in carbonate accretion
+   B. a recipe for bread fermentation
+   C. reef-scale temperature loggers
+   D. Coral Bleaching Triggered by Marine Heatwaves
+
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage argues that reef-scale bleaching episodes cannot be studied empirically because confounders like local adaptation make data meaningless. It recommends replacing measurement with intuition and rejecting photophysiology measurements as unreliable. It concludes that debate persists because evidence never constrains theory.
+   B. The passage claims that loss of symbiotic zooxanthellae under heat stress is settled because recruitment failure uniquely identifies the mechanism. It argues that local adaptation is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using photophysiology measurements are unnecessary.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats photophysiology measurements as a historical curiosity and does not discuss recruitment failure or local adaptation. It ends without any methodological implication.
+   D. The passage examines coral bleaching triggered by marine heatwaves and argues that recruitment failure is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how local adaptation can shift the baseline, especially when evidence is drawn from the Coral Triangle. Finally, it maintains that tests combining photophysiology measurements with boundary-condition checks are required to make claims about thermal bleaching events robust.
+
+3. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: This point matters because the simplest interpretation often survives only by silently restricting the range of cases under discussion.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+4. [Vocabulary] In the passage, the word **plausible** in the sentence below is closest in meaning to:
+   Sentence: In replication attempts, it becomes plausible that the apparent consensus fractured when similar protocols were applied in settings unlike Red Sea reefs.
+   A. reasonable
+   B. complete and final, so no further checks like satellite thermal stress maps are needed
+   C. unavoidable and uncontrollable because compound stressors such as acidification and pollution dominates all evidence
+   D. irrelevant to coral bleaching triggered by marine heatwaves, serving only as background detail
+
+5. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [C] This becomes a pivot point where the earlier interpretation is narrowed.
+   A. mortality and phase shifts specifically, taken as an unambiguous measurement
+   B. compound stressors such as acidification and pollution alone, treated as the sole cause
+   C. the idea being discussed in the surrounding sentences
+   D. degree-heating-week metrics as a device rather than as an analytic approach
+
+6. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | degree-heating-week metrics | Can introduce systematic bias |
+   | Signal | recruitment failure | May be sensitive to preprocessing choices |
+   | Confounder | disease outbreaks | Can mimic the target feature |
+   Blank: The limitation for 'Method' is ________.
+   A. Can mimic the target feature
+   B. It makes local adaptation irrelevant.
+   C. Can introduce systematic bias
+   D. It replaces satellite thermal stress maps with intuition.
+
+7. [Factual Information] The passage indicates that replication across contexts is important mainly because:
+   A. Because shifts in carbonate accretion appears, the mechanism must be unique, so local adaptation can be ignored as irrelevant noise.
+   B. it prevents shifts in carbonate accretion from being treated as a self-interpreting fingerprint and forces tests that control local adaptation
+   C. The discussion indicates that replication is redundant if satellite thermal stress maps produces a tight fit on one dataset.
+   D. Because local adaptation co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+
+8. [Inference] Which of the following can be inferred from the passage?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when compound stressors such as acidification and pollution can mimic shifts in carbonate accretion.
+   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving symbiont genotyping.
+   C. The passage suggests that shifts in carbonate accretion is primarily a rhetorical device rather than an empirical constraint on models.
+   D. The passage claims that the best strategy is to average away compound stressors such as acidification and pollution, since variability is merely a measurement error.
+
+9. [Rhetorical Purpose] What is the author’s main reason for mentioning an alternative model?
+   A. The passage implies that Caribbean reef tracts is chosen to avoid bias, so comparisons across settings are unnecessary.
+   B. The passage treats changes in reef fish assemblages as a confounder and disease outbreaks as the diagnostic signal that identifies the mechanism.
+   C. The author argues that reef-scale temperature loggers should be replaced by an unmodeled trend line because assumptions distort evidence.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where reef-scale temperature loggers constrains disease outbreaks
+
+10. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about coral bleaching triggered by marine heatwaves be conditional on stated priors, it turns disagreement into a tool for discovery, a move that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Some summaries seem consistent because they mix incompatible cases, not because reduced photosynthetic efficiency uniquely identifies one mechanism.
+   B. Aggregation guarantees that the same mechanism operates in Caribbean reef tracts and everywhere else.
+   C. Incompatible cases should be ignored to keep an explanation based on reef-scale temperature loggers simple.
+   D. Summaries are always reliable because averaging eliminates disease outbreaks.
+
+
+Answer Key
+----------
+1: B
+2: D
+3: C
+4: A
+5: C
+6: C
+7: B
+8: A
+9: D
+10: A

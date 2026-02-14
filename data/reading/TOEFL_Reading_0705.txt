@@ -1,0 +1,151 @@
+Passage 0705: Exoplanet Atmospheric Characterization via Transmission Spectroscopy (Astronomy)
+==============================================================================================
+(Word count: 771)
+
+When the same target is reobserved, the analysis suggests researchers have treated
+wavelength-dependent muting by clouds and hazes as the decisive sign of exoplanet
+atmospheric characterization via transmission spectroscopy. Bayesian atmospheric retrieval
+can make the pattern look unusually sharp; still, the passage argues that such confidence is
+conditional and must be earned by specifying assumptions. the resulting debate is less about
+data collection than about what the data are evidence for, an outcome that forces analysts
+to articulate boundary conditions rather than rely on familiar narratives. Rarely, unless
+analysts began combining Bayesian atmospheric retrieval with cross-site comparisons, does
+one see why claims about exoplanet atmospheric characterization via transmission
+spectroscopy stopped relying on a single figure and started relying on falsifiable
+predictions. the goal was to break degeneracies in which wavelength-dependent muting by
+clouds and hazes could be explained in more than one way in part because confounders like
+pressure–temperature profile degeneracy often co-vary with the driver. as the author notes,
+transparency about priors became an empirical issue rather than a stylistic choice; this, in
+turn, changes whether two analyses are actually comparable. In this sense, transit-spectrum
+analysis of exoplanet atmospheres is best treated as a conditional inference rather than as
+a mere label. What matters most is the apparent regularity of wavelength-dependent muting by
+clouds and hazes, which is why drives the first interpretation: wavelength-dependent muting
+by clouds and hazes is treated as a direct readout of mechanism. Should wavelength-dependent
+muting by clouds and hazes is uniquely produced by one causal pathway be true, then
+observations from temperate rocky candidates in compact systems would be transferable, and
+disagreement would be largely technical. the literature is full of such claims—not the
+caveat that pressure–temperature profile degeneracy might reproduce the same pattern. Using
+Bayesian atmospheric retrieval under stable conditions, the interpretation shifts, and one
+frequently cited case from temperate rocky candidates in compact systems appeared to support
+the direct-readout view. While it is true that the original fit looked visually decisive,
+later, however, reanalysis showed that small shifts in pressure–temperature profile
+degeneracy altered the baseline enough to mute or mimic wavelength-dependent muting by
+clouds and hazes. the passage treats this episode as diagnostic, which is precisely why
+illustrates why boundary conditions must be specified before generalization is attempted.
+Admittedly, the first model can fit one dataset extremely well; nevertheless, the passage
+insists that uniqueness is precisely what must be shown, not assumed. it highlights how
+pressure–temperature profile degeneracy can shift baselines, altering whether wavelength-
+dependent muting by clouds and hazes is even comparable across cases, which is precisely why
+means that a good fit is not the same as a good explanation. If pressure–temperature profile
+degeneracy is changed while the nominal driver remains constant, a different prediction
+follows: one should expect different outcomes when conditions are perturbed. In this sense,
+spectroscopic probing of a planet’s gaseous envelope is best treated as a conditional
+inference rather than as a mere label. Using Bayesian atmospheric retrieval under stable
+conditions, the interpretation shifts, and one frequently cited case from temperate rocky
+candidates in compact systems appeared to support the direct-readout view. Despite the fact
+that the original fit looked visually decisive, later, however, reanalysis showed that small
+shifts in pressure–temperature profile degeneracy altered the baseline enough to mute or
+mimic wavelength-dependent muting by clouds and hazes. the passage treats this episode as
+diagnostic; this, in turn, illustrates why boundary conditions must be specified before
+generalization is attempted. The decisive factor is methodological humility; once that is
+stated, the passage presents as the lesson of exoplanet atmospheric characterization via
+transmission spectroscopy: inference is constrained by what competing models would also
+predict. [A] The passage signals that a tidy fit may hide degenerate explanations. If one
+wishes to move from description to explanation is granted, then the same
+observation—wavelength-dependent muting by clouds and hazes—must be paired with tests that
+change the conditions under which it appears. [B] At first glance, the pattern seems
+obvious, yet the author frames it as conditional. Whereas popular summaries treat
+wavelength-dependent muting by clouds and hazes as an endpoint, the passage treats it as a
+starting point for sharper experimental or observational contrasts. [C] Later comparisons
+reveal why this matters. [D] This is why the author repeatedly contrasts what is measured
+with what is inferred. In this sense, bayesian retrieval of atmospheric composition from
+transits is best treated as a conditional inference rather than as a mere label. In the end,
+the passage argues that the passage concludes that the most informative evidence is often
+the evidence that forces competing assumptions into the open.
+
+Questions
+---------
+
+1. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | high-dispersion cross-correlation spectroscopy | Can introduce systematic bias |
+   | Signal | sodium and potassium lines | Can be contaminated by background variability |
+   | Confounder | instrumental systematics | Co-varies with the driver of interest |
+   Blank: The limitation for 'Method' is ________.
+   A. Can introduce systematic bias
+   B. Can be contaminated by background variability
+   C. It makes pressure–temperature profile degeneracy irrelevant.
+   D. Co-varies with the driver of interest
+
+2. [Vocabulary] In the passage, the word **attenuated** in the sentence below is closest in meaning to:
+   Sentence: the passage treats this episode as diagnostic, which is precisely why illustrates why boundary conditions must be specified before generalization is attempted.
+   A. complete and final, so no further checks like Bayesian atmospheric retrieval are needed
+   B. unavoidable and uncontrollable because pressure–temperature profile degeneracy dominates all evidence
+   C. irrelevant to exoplanet atmospheric characterization via transmission spectroscopy, serving only as background detail
+   D. weakened
+
+3. [Factual Information] According to the passage, why does the author emphasize replication across contexts?
+   A. Since sodium and potassium lines is observed in warm Neptunes like GJ 436b, it must generalize to every setting, regardless of boundary conditions.
+   B. it prevents sodium and potassium lines from being treated as a self-interpreting fingerprint and forces tests that control limb-darkening uncertainty
+   C. The discussion indicates that replication is redundant if transmission spectroscopy produces a tight fit on one dataset.
+   D. Because sodium and potassium lines appears, the mechanism must be unique, so limb-darkening uncertainty can be ignored as irrelevant noise.
+
+4. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [D] This is why the author repeatedly contrasts what is measured with what is inferred.
+   A. high-dispersion cross-correlation spectroscopy as a device rather than as an analytic approach
+   B. instrumental systematics alone, treated as the sole cause
+   C. wavelength-dependent muting by clouds and hazes specifically, taken as an unambiguous measurement
+   D. the idea being discussed in the surrounding sentences
+
+5. [Inference] Which of the following can be inferred from the passage?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when stellar activity contamination can mimic sodium and potassium lines.
+   B. The passage claims that the best strategy is to average away stellar activity contamination, since variability is merely a measurement error.
+   C. The argument is that boundary conditions matter only for older studies, not for modern measurements using transmission spectroscopy.
+   D. The passage suggests that sodium and potassium lines is primarily a rhetorical device rather than an empirical constraint on models.
+
+6. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: it highlights how pressure–temperature profile degeneracy can shift baselines, altering whether wavelength-dependent muting by clouds and hazes is even comparable across cases, which is precisely why means that a good fit is not the same as a good explanation.
+   A. Summaries are always reliable because averaging eliminates stellar activity contamination.
+   B. Aggregation guarantees that the same mechanism operates in temperate rocky candidates in compact systems and everywhere else.
+   C. Incompatible cases should be ignored to keep an explanation based on secondary-eclipse spectroscopy simple.
+   D. Some summaries seem consistent because they mix incompatible cases, not because Rayleigh-scattering slopes uniquely identifies one mechanism.
+
+7. [Rhetorical Purpose] In referring to a contrasting interpretation, the author intends to:
+   A. The author argues that secondary-eclipse spectroscopy should be replaced by an unmodeled trend line because assumptions distort evidence.
+   B. The passage treats wavelength-dependent muting by clouds and hazes as a confounder and pressure–temperature profile degeneracy as the diagnostic signal that identifies the mechanism.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where secondary-eclipse spectroscopy constrains pressure–temperature profile degeneracy
+   D. The passage implies that hot Jupiters such as WASP-39b is chosen to avoid bias, so comparisons across settings are unnecessary.
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The passage implies that 'noise' is sometimes a label for unmodeled structure rather than a property of the world itself.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+9. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage argues that bayesian retrieval of atmospheric composition from transits cannot be studied empirically because confounders like pressure–temperature profile degeneracy make data meaningless. It recommends replacing measurement with intuition and rejecting high-dispersion cross-correlation spectroscopy as unreliable. It concludes that debate persists because evidence never constrains theory.
+   B. The passage examines exoplanet atmospheric characterization via transmission spectroscopy and argues that sodium and potassium lines is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how pressure–temperature profile degeneracy can shift the baseline, especially when evidence is drawn from warm Neptunes like GJ 436b. Finally, it maintains that tests combining high-dispersion cross-correlation spectroscopy with boundary-condition checks are required to make claims about transit-spectrum analysis of exoplanet atmospheres robust.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats high-dispersion cross-correlation spectroscopy as a historical curiosity and does not discuss sodium and potassium lines or pressure–temperature profile degeneracy. It ends without any methodological implication.
+   D. The passage claims that spectroscopic probing of a planet’s gaseous envelope is settled because sodium and potassium lines uniquely identifies the mechanism. It argues that pressure–temperature profile degeneracy is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using high-dispersion cross-correlation spectroscopy are unnecessary.
+
+10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. Exoplanet Atmospheric Characterization via Transmission Spectroscopy
+   B. Rayleigh-scattering slopes
+   C. the price of coal in 1700
+   D. high-dispersion cross-correlation spectroscopy
+
+
+Answer Key
+----------
+1: A
+2: D
+3: B
+4: D
+5: A
+6: D
+7: C
+8: B
+9: B
+10: C

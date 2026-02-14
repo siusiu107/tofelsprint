@@ -1,0 +1,147 @@
+Passage 0769: Retrieval-Induced Forgetting in Memory Experiments (Psychology)
+=============================================================================
+(Word count: 616)
+
+From a cognitive-control perspective, one sees why researchers have treated context-
+dependent effects as the decisive sign of retrieval-induced forgetting in memory
+experiments. While it is true that process-dissociation procedures can make the pattern look
+unusually sharp, the passage argues that such confidence is conditional and must be earned
+by specifying assumptions. the resulting debate is less about data collection than about
+what the data are evidence for, a move that forces analysts to articulate boundary
+conditions rather than rely on familiar narratives.
+
+Even if the first model can fit one dataset extremely well, the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how encoding strength
+heterogeneity can shift baselines, altering whether context-dependent effects is even
+comparable across cases, which means that a good fit is not the same as a good explanation.
+If encoding strength heterogeneity is changed while the nominal driver remains constant
+holds, one should expect different outcomes when conditions are perturbed. In this sense,
+practice-driven suppression of competing memories is best treated as a conditional inference
+rather than as a mere label.
+
+If anything is responsible, it is methodological humility, and therefore the passage
+presents as the lesson of retrieval-induced forgetting in memory experiments: inference is
+constrained by what competing models would also predict. [A] The discussion makes clear that
+measurement choices can masquerade as mechanism. Unless one wishes to move from description
+to explanation, then the same observation—context-dependent effects—must be paired with
+tests that change the conditions under which it appears cannot be claimed with confidence.
+[B] This is presented not as a loophole, but as a disciplined way to avoid overclaiming.
+Whereas popular summaries treat context-dependent effects as an endpoint looks decisive, the
+passage treats it as a starting point for sharper experimental or observational contrasts
+becomes more predictive under replication. [C] The author shifts from narrative to
+diagnosis, focusing on what the data cannot rule out. [D] The passage signals that a tidy
+fit may hide degenerate explanations.
+
+Not the obvious explanation but the apparent regularity of context-dependent effects is what
+drives the first interpretation: context-dependent effects is treated as a direct readout of
+mechanism. Should context-dependent effects is uniquely produced by one causal pathway be
+true, then observations from laboratory paradigms would be transferable, and disagreement
+would be largely technical. Not the caveat that encoding strength heterogeneity might
+reproduce the same pattern, but the literature is full of such claims. In this sense,
+retrieval-based inhibition is best treated as a conditional inference rather than as a mere
+label.
+
+Using process-dissociation procedures under stable conditions, the key question becomes
+whether one frequently cited case from laboratory paradigms appeared to support the direct-
+readout view. Though the original fit looked visually decisive, later, however, reanalysis
+showed that small shifts in encoding strength heterogeneity altered the baseline enough to
+mute or mimic context-dependent effects. the passage treats this episode as diagnostic,
+something that illustrates why boundary conditions must be specified before generalization
+is attempted. In this sense, selective recall causing forgetting is best treated as a
+conditional inference rather than as a mere label.
+
+In the end, researchers found that the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about retrieval-induced forgetting in memory experiments be conditional on stated
+priors, it turns disagreement into a tool for discovery, which helps explain why clarifies
+why the same record can yield multiple stories without implying that any story is arbitrary.
+Although the temptation to treat a tidy plot as a definitive answer is strong, the result is
+a framework in which context-dependent effects is interpreted through explicit boundary
+conditions rather than through habit.
+
+Questions
+---------
+
+1. [Rhetorical Purpose] What function does the comparison with another theory perform in the argument?
+   A. The author argues that paired-associate tasks should be replaced by an unmodeled trend line because assumptions distort evidence.
+   B. The passage treats strategy shifts over trials as a confounder and inhibitory control differences as the diagnostic signal that identifies the mechanism.
+   C. The author suggests that the key synonym 'practice-driven suppression of competing memories' refers to a different field altogether, not to retrieval-induced forgetting in memory experiments.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where paired-associate tasks constrains inhibitory control differences
+
+2. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Because the inference is underdetermined, the most informative tests are those that break degeneracies rather than those that merely sharpen one feature.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+3. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [B] This is presented not as a loophole, but as a disciplined way to avoid overclaiming.
+   A. test expectancy effects alone, treated as the sole cause
+   B. the idea being discussed in the surrounding sentences
+   C. paired-associate tasks as a device rather than as an analytic approach
+   D. reduced recall of unpracticed items specifically, taken as an unambiguous measurement
+
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. the author’s favorite color
+   B. strategy shifts over trials
+   C. Retrieval-Induced Forgetting in Memory Experiments
+   D. pre-registered replication
+
+5. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats paired-associate tasks as a historical curiosity and does not discuss metacognitive illusions or stress modulation of recall. It ends without any methodological implication.
+   B. The passage claims that retrieval-based inhibition is settled because metacognitive illusions uniquely identifies the mechanism. It argues that stress modulation of recall is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using paired-associate tasks are unnecessary.
+   C. The passage argues that selective recall causing forgetting cannot be studied empirically because confounders like stress modulation of recall make data meaningless. It recommends replacing measurement with intuition and rejecting paired-associate tasks as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage examines retrieval-induced forgetting in memory experiments and argues that metacognitive illusions is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how stress modulation of recall can shift the baseline, especially when evidence is drawn from classroom study settings. Finally, it maintains that tests combining paired-associate tasks with boundary-condition checks are required to make claims about practice-driven suppression of competing memories robust.
+
+6. [Vocabulary] In the passage, the word **robust** in the sentence below is closest in meaning to:
+   Sentence: the resulting debate is less about data collection than about what the data are evidence for, a move that forces analysts to articulate boundary conditions rather than rely on familiar narratives.
+   A. unavoidable and uncontrollable because test expectancy effects dominates all evidence
+   B. strong and reliable
+   C. complete and final, so no further checks like recognition tests are needed
+   D. irrelevant to retrieval-induced forgetting in memory experiments, serving only as background detail
+
+7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about retrieval-induced forgetting in memory experiments be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates inhibitory control differences.
+   B. Incompatible cases should be ignored to keep an explanation based on fMRI pattern analysis simple.
+   C. Some summaries seem consistent because they mix incompatible cases, not because strategy shifts over trials uniquely identifies one mechanism.
+   D. Aggregation guarantees that the same mechanism operates in clinical populations and everywhere else.
+
+8. [Inference] The passage suggests which of the following?
+   A. The passage claims that the best strategy is to average away stress modulation of recall, since variability is merely a measurement error.
+   B. The author treats clinical populations as a special case and argues that no broader inference about retrieval-induced forgetting in memory experiments is possible.
+   C. A convincing explanation should make distinct predictions under shared protocols, especially when stress modulation of recall can mimic reduced recall of unpracticed items.
+   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving process-dissociation procedures.
+
+9. [Factual Information] The passage indicates that instrument calibration is important mainly because:
+   A. Since reduced recall of unpracticed items is observed in classroom study settings, it must generalize to every setting, regardless of boundary conditions.
+   B. it prevents reduced recall of unpracticed items from being treated as a self-interpreting fingerprint and forces tests that control inhibitory control differences
+   C. The author suggests that disagreement disappears once reduced recall of unpracticed items is detected, making model assumptions unnecessary.
+   D. The discussion indicates that replication is redundant if process-dissociation procedures produces a tight fit on one dataset.
+
+10. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | pre-registered replication | Can introduce systematic bias |
+   | Signal | metacognitive illusions | Can vary across epochs |
+   | Confounder | test expectancy effects | Shifts the baseline |
+   Blank: The limitation for 'Method' is ________.
+   A. It makes stress modulation of recall irrelevant.
+   B. It proves reduced recall of unpracticed items is unique.
+   C. Can introduce systematic bias
+   D. It replaces paired-associate tasks with intuition.
+
+
+Answer Key
+----------
+1: D
+2: C
+3: B
+4: A
+5: D
+6: B
+7: C
+8: C
+9: B
+10: C
