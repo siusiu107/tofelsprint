@@ -1,0 +1,27 @@
+{
+  "set": 48,
+  "format": "conversation",
+  "domain": "Computer Science",
+  "subtopic": "Network latency, jitter, and buffering",
+  "mode": "conversation_problem",
+  "technical_terms": [
+    "entropy",
+    "quorum",
+    "consensus",
+    "mutex",
+    "hash collision",
+    "index",
+    "deadlock",
+    "latency",
+    "regularization"
+  ],
+  "function_phrase": "That’s a fair point, but",
+  "main_point": "Student 1 asks for help with a campus process related to Network latency, jitter, and buffering.",
+  "detail1": "Student 2 explains that missing documentation is treated differently from submitting late.",
+  "detail2": "Student 2 suggests saving a confirmation page and ticket number.",
+  "attitude": "Supportive, slightly casual; Student 2 gives practical advice.",
+  "organization_point": "Student 2 uses a tangent about a conference anecdote to justify keeping proof of submission.",
+  "connecting_point": "The step-by-step plan shows how to avoid the portal splitting a request into multiple submissions.",
+  "has_purpose_shift": false,
+  "has_self_correction": true
+}
