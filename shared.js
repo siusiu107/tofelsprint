@@ -754,10 +754,6 @@ async function detectListeningRoot(){
     return out;
   }
 
-    }
-    return out;
-  }
-
   function pickRandom(arr, n){
     const a = arr.slice();
     for(let i=a.length-1;i>0;i--){
