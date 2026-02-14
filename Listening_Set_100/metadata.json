@@ -1,0 +1,27 @@
+{
+  "set": 100,
+  "format": "lecture",
+  "domain": "Botany",
+  "subtopic": "Mycorrhizal networks and nutrient exchange",
+  "mode": "lecture_story",
+  "technical_terms": [
+    "mycorrhiza",
+    "conductance",
+    "symbiosis",
+    "xylem",
+    "stomata",
+    "photorespiration",
+    "Rubisco",
+    "mesophyll",
+    "phloem"
+  ],
+  "function_phrase": "If you remember one thing, remember this:",
+  "main_point": "The professor explains Mycorrhizal networks and nutrient exchange and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes mycorrhiza (a process) from xylem (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving mesophyll and conductance.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a lab mishap to show real-world constraints.",
+  "connecting_point": "The example about controlling for photorespiration shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": true,
+  "has_self_correction": true
+}
