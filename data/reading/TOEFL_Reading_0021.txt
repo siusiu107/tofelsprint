@@ -1,0 +1,150 @@
+Passage 0021: Algorithmic Bias and Fairness Constraints in Automated Decision Systems (Technology)
+==================================================================================================
+(Word count: 772)
+
+Despite formal proofs, the passage argues that researchers have treated proxy variable
+leakage as the decisive sign of algorithmic bias and fairness constraints in automated
+decision systems. While it is true that causal graph specification can make the pattern look
+unusually sharp, the passage argues that such confidence is conditional and must be earned
+by specifying assumptions. the resulting debate is less about data collection than about
+what the data are evidence for, which forces analysts to articulate boundary conditions
+rather than rely on familiar narratives. In replication attempts, researchers found that the
+apparent consensus fractured when similar protocols were applied in settings unlike credit
+scoring systems. the same summary statistic could be reproduced while the underlying
+mechanisms differed in part because dataset shift shifted the baseline in different
+directions across sites. the author therefore separates detection from interpretation—not
+treating proxy variable leakage as a self-sufficient conclusion. In this sense, bias in
+machine-learning decision pipelines is best treated as a conditional inference rather than
+as a mere label. Only by analysts began combining causal graph specification with cross-site
+comparisons was the field forced to accept that claims about algorithmic bias and fairness
+constraints in automated decision systems stopped relying on a single figure and started
+relying on falsifiable predictions. [A] The argument hinges on what would change under an
+alternative explanation. the goal was to break degeneracies in which proxy variable leakage
+could be explained in more than one way because confounders like dataset shift often co-vary
+with the driver, which is why replication matters. [B] Later comparisons reveal why this
+matters. as the author notes, transparency about priors became an empirical issue rather
+than a stylistic choice, which forces analysts to admit that changes whether two analyses
+are actually comparable. [C] The passage signals that a tidy fit may hide degenerate
+explanations. [D] The author uses the detour to show why a different metric would lead to a
+different conclusion. Only when the field adopted tests that manipulate or stratify dataset
+shift did the debate became empirically productive rather than merely rhetorical. by
+comparing cases in which causal graph specification constrains alternatives, researchers
+could ask which predictions survive out of sample, which is precisely why is why the passage
+emphasizes comparative design over isolated exemplars. Despite the fact that a single case
+can be dramatic, the author does not deny the value of striking examples, but warns against
+treating them as representative. In replication attempts, the analysis suggests the apparent
+consensus fractured when similar protocols were applied in settings unlike credit scoring
+systems. the same summary statistic could be reproduced while the underlying mechanisms
+differed because dataset shift shifted the baseline in different directions across sites.
+Rather than treating proxy variable leakage as a self-sufficient conclusion, the passage
+emphasizes that the author therefore separates detection from interpretation. In this sense,
+fairness constraints under imperfect data is best treated as a conditional inference rather
+than as a mere label. The decisive factor is methodological humility; once that is stated,
+the passage presents as the lesson of algorithmic bias and fairness constraints in automated
+decision systems: inference is constrained by what competing models would also predict.
+Unless one wishes to move from description to explanation, then the same observation—proxy
+variable leakage—must be paired with tests that change the conditions under which it appears
+cannot be claimed with confidence. Whereas popular summaries treat proxy variable leakage as
+an endpoint is easy to measure, the passage treats it as a starting point for sharper
+experimental or observational contrasts is harder to interpret without assumptions. Rarely,
+unless the field adopted tests that manipulate or stratify dataset shift, does one see why
+the debate became empirically productive rather than merely rhetorical. by comparing cases
+in which causal graph specification constrains alternatives, researchers could ask which
+predictions survive out of sample, which is precisely why is why the passage emphasizes
+comparative design over isolated exemplars. Despite the fact that a single case can be
+dramatic, the author does not deny the value of striking examples, but warns against
+treating them as representative. In this sense, disparate impact in automated scoring is
+best treated as a conditional inference rather than as a mere label. In the end, the
+analysis suggests the passage concludes that the most informative evidence is often the
+evidence that forces competing assumptions into the open. by insisting that claims about
+algorithmic bias and fairness constraints in automated decision systems be conditional on
+stated priors, it turns disagreement into a tool for discovery, which is precisely why
+clarifies why the same record can yield multiple stories without implying that any story is
+arbitrary.
+
+Questions
+---------
+
+1. [Rhetorical Purpose] What function does the comparison with another theory perform in the argument?
+   A. The passage implies that health-risk prediction models is chosen to avoid bias, so comparisons across settings are unnecessary.
+   B. motivate clearer assumptions and stronger tests, such as comparing cases where causal graph specification constrains dataset shift
+   C. The passage treats calibration disparities as a confounder and dataset shift as the diagnostic signal that identifies the mechanism.
+   D. The author suggests that the key synonym 'bias in machine-learning decision pipelines' refers to a different field altogether, not to algorithmic bias and fairness constraints in automated decision systems.
+
+2. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. Algorithmic Bias and Fairness Constraints in Automated Decision Systems
+   B. the author’s favorite color
+   C. robustness checks across subpopulations
+   D. error-rate gaps
+
+3. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: This is why the author dwells on assumptions: without them, two teams can analyze the same record and still disagree honestly.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+4. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | robustness checks across subpopulations | Depends on modeling priors |
+   | Signal | error-rate gaps | Can be contaminated by background variability |
+   | Confounder | dataset shift | Shifts the baseline |
+   Blank: The limitation for 'Confounder' is ________.
+   A. Shifts the baseline
+   B. It makes label bias irrelevant.
+   C. It replaces bias–variance decomposition with intuition.
+   D. It proves proxy variable leakage is unique.
+
+5. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: While it is true that causal graph specification can make the pattern look unusually sharp, the passage argues that such confidence is conditional and must be earned by specifying assumptions.
+   A. the idea being discussed in the surrounding sentences
+   B. measurement error in sensitive attributes alone, treated as the sole cause
+   C. causal graph specification as a device rather than as an analytic approach
+   D. shifted decision thresholds specifically, taken as an unambiguous measurement
+
+6. [Factual Information] According to the passage, why does the author emphasize boundary conditions?
+   A. The author suggests that disagreement disappears once proxy variable leakage is detected, making model assumptions unnecessary.
+   B. Because proxy variable leakage appears, the mechanism must be unique, so measurement error in sensitive attributes can be ignored as irrelevant noise.
+   C. The discussion indicates that replication is redundant if counterfactual fairness tests produces a tight fit on one dataset.
+   D. it prevents proxy variable leakage from being treated as a self-interpreting fingerprint and forces tests that control measurement error in sensitive attributes
+
+7. [Vocabulary] In the passage, the word **preliminary** in the sentence below is closest in meaning to:
+   Sentence: Despite the fact that a single case can be dramatic, the author does not deny the value of striking examples, but warns against treating them as representative.
+   A. complete and final, so no further checks like robustness checks across subpopulations are needed
+   B. unavoidable and uncontrollable because dataset shift dominates all evidence
+   C. early
+   D. irrelevant to algorithmic bias and fairness constraints in automated decision systems, serving only as background detail
+
+8. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about algorithmic bias and fairness constraints in automated decision systems be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on robustness checks across subpopulations simple.
+   B. Summaries are always reliable because averaging eliminates feedback loops from deployment.
+   C. Some summaries seem consistent because they mix incompatible cases, not because calibration disparities uniquely identifies one mechanism.
+   D. Aggregation guarantees that the same mechanism operates in content moderation pipelines and everywhere else.
+
+9. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage examines algorithmic bias and fairness constraints in automated decision systems and argues that proxy variable leakage is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how feedback loops from deployment can shift the baseline, especially when evidence is drawn from credit scoring systems. Finally, it maintains that tests combining counterfactual fairness tests with boundary-condition checks are required to make claims about bias in machine-learning decision pipelines robust.
+   B. The passage claims that fairness constraints under imperfect data is settled because proxy variable leakage uniquely identifies the mechanism. It argues that feedback loops from deployment is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using counterfactual fairness tests are unnecessary.
+   C. The passage argues that disparate impact in automated scoring cannot be studied empirically because confounders like feedback loops from deployment make data meaningless. It recommends replacing measurement with intuition and rejecting counterfactual fairness tests as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats counterfactual fairness tests as a historical curiosity and does not discuss proxy variable leakage or feedback loops from deployment. It ends without any methodological implication.
+
+10. [Inference] The passage suggests which of the following?
+   A. The passage claims that the best strategy is to average away label bias, since variability is merely a measurement error.
+   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving counterfactual fairness tests.
+   C. The passage suggests that error-rate gaps is primarily a rhetorical device rather than an empirical constraint on models.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when label bias can mimic error-rate gaps.
+
+
+Answer Key
+----------
+1: B
+2: B
+3: D
+4: A
+5: A
+6: D
+7: C
+8: C
+9: A
+10: D

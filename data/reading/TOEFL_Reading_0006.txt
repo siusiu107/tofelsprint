@@ -1,0 +1,158 @@
+Passage 0006: Glacial Retreat and Moraine-Dated Landscape Change (Geology)
+==========================================================================
+(Word count: 764)
+
+In tectonically active margins, researchers found that researchers have treated slope
+instability and rockfalls as the decisive sign of glacial retreat and moraine-dated
+landscape change. Despite the fact that cosmogenic nuclide exposure dating can make the
+pattern look unusually sharp, the passage argues that such confidence is conditional and
+must be earned by specifying assumptions. the resulting debate is less about data collection
+than about what the data are evidence for, an outcome that forces analysts to articulate
+boundary conditions rather than rely on familiar narratives.
+
+Not the obvious explanation but methodological humility is what the passage presents as the
+lesson of glacial retreat and moraine-dated landscape change: inference is constrained by
+what competing models would also predict. If one wishes to move from description to
+explanation, a different prediction follows: then the same observation—slope instability and
+rockfalls—must be paired with tests that change the conditions under which it appears.
+Whereas popular summaries treat slope instability and rockfalls as an endpoint looks
+decisive, the passage treats it as a starting point for sharper experimental or
+observational contrasts becomes more predictive under replication. In this sense, ice-front
+recession recorded in moraines is best treated as a conditional inference rather than as a
+mere label.
+
+Rarely has it been the case that claims about glacial retreat and moraine-dated landscape
+change stopped relying on a single figure and started relying on falsifiable predictions, at
+least before analysts began combining cosmogenic nuclide exposure dating with cross-site
+comparisons. the goal was to break degeneracies in which slope instability and rockfalls
+could be explained in more than one way because, as the author notes, confounders like
+temperature versus precipitation controls often co-vary with the driver. as the author
+notes, transparency about priors became an empirical issue rather than a stylistic choice,
+which changes whether two analyses are actually comparable.
+
+Working with sparse records and limited controls on temperature versus precipitation
+controls, the key question becomes whether many early studies framed glacial retreat and
+moraine-dated landscape change as a single-mechanism phenomenon. [A] The passage signals
+that a tidy fit may hide degenerate explanations. Whereas those studies emphasized slope
+instability and rockfalls as a signature may be convenient, later work asked whether the
+same signature survives when protocols and baselines differ is scientifically revealing. [B]
+Later comparisons reveal why this matters. this shift mattered for how evidence from
+Patagonian icefields was generalized because local conditions can change which processes
+generate slope instability and rockfalls, which is why replication matters. [C] The author
+uses the detour to show why a different metric would lead to a different conclusion. [D] The
+author suggests that the same evidence can support multiple stories when priors differ. In
+this sense, deglaciation-driven geomorphic change is best treated as a conditional inference
+rather than as a mere label.
+
+Though the first model can fit one dataset extremely well, the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how temperature
+versus precipitation controls can shift baselines, altering whether slope instability and
+rockfalls is even comparable across cases, something that means that a good fit is not the
+same as a good explanation. Unless temperature versus precipitation controls is changed
+while the nominal driver remains constant, one should expect different outcomes when
+conditions are perturbed cannot be claimed with confidence.
+
+Only by the field adopted tests that manipulate or stratify temperature versus precipitation
+controls was the field forced to accept that the debate became empirically productive rather
+than merely rhetorical. by comparing cases in which cosmogenic nuclide exposure dating
+constrains alternatives, researchers could ask which predictions survive out of sample,
+which is why the passage emphasizes comparative design over isolated exemplars. To be sure,
+a single case can be dramatic, yet the author does not deny the value of striking examples,
+but warns against treating them as representative. In this sense, retreating glacier termini
+over decades is best treated as a conditional inference rather than as a mere label.
+
+In the end, the analysis suggests the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about glacial retreat and moraine-dated landscape change be conditional on stated
+priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why the
+same record can yield multiple stories without implying that any story is arbitrary. Even if
+the temptation to treat a tidy plot as a definitive answer is strong, the result is a
+framework in which slope instability and rockfalls is interpreted through explicit boundary
+conditions rather than through habit.
+
+Questions
+---------
+
+1. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | dendrogeomorphology | Depends on modeling priors |
+   | Signal | isostatic rebound indicators | May be sensitive to preprocessing choices |
+   | Confounder | feedbacks from albedo change | Shifts the baseline |
+   Blank: The limitation for 'Method' is ________.
+   A. Depends on modeling priors
+   B. Shifts the baseline
+   C. It replaces sediment-core analysis with intuition.
+   D. It proves newly exposed proglacial lakes is unique.
+
+2. [Rhetorical Purpose] The mention of alternative mechanisms is used primarily to:
+   A. motivate clearer assumptions and stronger tests, such as comparing cases where remote sensing of glacier area constrains feedbacks from albedo change
+   B. The discussion suggests that feedbacks from albedo change is the phenomenon itself, so controlling for it would remove the effect of interest.
+   C. The author argues that remote sensing of glacier area should be replaced by an unmodeled trend line because assumptions distort evidence.
+   D. The passage treats newly exposed proglacial lakes as a confounder and feedbacks from albedo change as the diagnostic signal that identifies the mechanism.
+
+3. [Vocabulary] In the passage, the word **tentative** in the sentence below is closest in meaning to:
+   Sentence: To be sure, a single case can be dramatic, yet the author does not deny the value of striking examples, but warns against treating them as representative.
+   A. irrelevant to glacial retreat and moraine-dated landscape change, serving only as background detail
+   B. complete and final, so no further checks like sediment-core analysis are needed
+   C. not certain
+   D. unavoidable and uncontrollable because hazard cascades involving GLOFs dominates all evidence
+
+4. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about glacial retreat and moraine-dated landscape change be conditional on stated priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Aggregation guarantees that the same mechanism operates in the European Alps and everywhere else.
+   B. Summaries are always reliable because averaging eliminates hazard cascades involving GLOFs.
+   C. Some summaries seem consistent because they mix incompatible cases, not because slope instability and rockfalls uniquely identifies one mechanism.
+   D. Incompatible cases should be ignored to keep an explanation based on sediment-core analysis simple.
+
+5. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that deglaciation-driven geomorphic change is settled because river discharge seasonality shifts uniquely identifies the mechanism. It argues that debris-covered ice dynamics is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using remote sensing of glacier area are unnecessary.
+   B. The passage examines glacial retreat and moraine-dated landscape change and argues that river discharge seasonality shifts is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how debris-covered ice dynamics can shift the baseline, especially when evidence is drawn from Greenland outlet glaciers. Finally, it maintains that tests combining remote sensing of glacier area with boundary-condition checks are required to make claims about ice-front recession recorded in moraines robust.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats remote sensing of glacier area as a historical curiosity and does not discuss river discharge seasonality shifts or debris-covered ice dynamics. It ends without any methodological implication.
+   D. The passage argues that retreating glacier termini over decades cannot be studied empirically because confounders like debris-covered ice dynamics make data meaningless. It recommends replacing measurement with intuition and rejecting remote sensing of glacier area as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+6. [Factual Information] According to the passage, why does the author emphasize instrument calibration?
+   A. Since isostatic rebound indicators is observed in Himalayan glaciers, it must generalize to every setting, regardless of boundary conditions.
+   B. The discussion indicates that replication is redundant if dendrogeomorphology produces a tight fit on one dataset.
+   C. it prevents isostatic rebound indicators from being treated as a self-interpreting fingerprint and forces tests that control hazard cascades involving GLOFs
+   D. The author suggests that disagreement disappears once isostatic rebound indicators is detected, making model assumptions unnecessary.
+
+7. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The argument also suggests that disagreement can be productive, since it forces boundary conditions to be stated rather than assumed.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+8. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. UAV photogrammetry
+   B. Glacial Retreat and Moraine-Dated Landscape Change
+   C. isostatic rebound indicators
+   D. the price of coal in 1700
+
+9. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: If one wishes to move from description to explanation, a different prediction follows: then the same observation—slope instability and rockfalls—must be paired with tests that change the conditions under which it appears.
+   A. temperature versus precipitation controls alone, treated as the sole cause
+   B. cosmogenic nuclide exposure dating as a device rather than as an analytic approach
+   C. slope instability and rockfalls specifically, taken as an unambiguous measurement
+   D. the idea being discussed in the surrounding sentences
+
+10. [Inference] Which of the following can be inferred from the passage?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when feedbacks from albedo change can mimic newly exposed proglacial lakes.
+   B. The passage suggests that newly exposed proglacial lakes is primarily a rhetorical device rather than an empirical constraint on models.
+   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving UAV photogrammetry.
+   D. The passage claims that the best strategy is to average away feedbacks from albedo change, since variability is merely a measurement error.
+
+
+Answer Key
+----------
+1: A
+2: A
+3: C
+4: C
+5: B
+6: C
+7: B
+8: D
+9: D
+10: A

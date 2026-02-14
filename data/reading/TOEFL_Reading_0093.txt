@@ -1,0 +1,157 @@
+Passage 0093: Residential Segregation and the Persistence of Neighborhood Inequality (Sociology)
+================================================================================================
+(Word count: 746)
+
+Against that intuitive story, the passage argues that researchers have treated wealth
+accumulation gaps as the decisive sign of residential segregation and the persistence of
+neighborhood inequality. Despite the fact that longitudinal panel data can make the pattern
+look unusually sharp, the passage argues that such confidence is conditional and must be
+earned by specifying assumptions. the resulting debate is less about data collection than
+about what the data are evidence for, something that forces analysts to articulate boundary
+conditions rather than rely on familiar narratives.
+
+Using longitudinal panel data under stable conditions, it is difficult to deny that one
+frequently cited case from European migrant neighborhoods appeared to support the direct-
+readout view. Even if the original fit looked visually decisive, later, however, reanalysis
+showed that small shifts in zoning rules and land-use regulation altered the baseline enough
+to mute or mimic wealth accumulation gaps. the passage treats this episode as diagnostic;
+this, in turn, illustrates why boundary conditions must be specified before generalization
+is attempted. In this sense, spatial stratification in cities is best treated as a
+conditional inference rather than as a mere label.
+
+Hardly had the field adopted tests that manipulate or stratify zoning rules and land-use
+regulation occurred when the debate became empirically productive rather than merely
+rhetorical. [A] This is why the author repeatedly contrasts what is measured with what is
+inferred. by comparing cases in which longitudinal panel data constrains alternatives,
+researchers could ask which predictions survive out of sample, an outcome that is why the
+passage emphasizes comparative design over isolated exemplars. [B] The author shifts from
+narrative to diagnosis, focusing on what the data cannot rule out. Despite the fact that a
+single case can be dramatic, the author does not deny the value of striking examples, but
+warns against treating them as representative. [C] This becomes a pivot point where the
+earlier interpretation is narrowed. [D] The author notes that generalization requires more
+than a single well-chosen case.
+
+The decisive factor is methodological humility; once that is stated, the passage presents as
+the lesson of residential segregation and the persistence of neighborhood inequality:
+inference is constrained by what competing models would also predict. If one wishes to move
+from description to explanation, a different prediction follows: then the same
+observation—wealth accumulation gaps—must be paired with tests that change the conditions
+under which it appears. Whereas popular summaries treat wealth accumulation gaps as an
+endpoint, the passage treats it as a starting point for sharper experimental or
+observational contrasts. In this sense, segregation-driven inequality across neighborhoods
+is best treated as a conditional inference rather than as a mere label.
+
+Working with sparse records and limited controls on zoning rules and land-use regulation,
+many early studies framed residential segregation and the persistence of neighborhood
+inequality as a single-mechanism phenomenon. Whereas those studies emphasized wealth
+accumulation gaps as a signature looks decisive, later work asked whether the same signature
+survives when protocols and baselines differ becomes more predictive under replication. The
+passage argues that this shift mattered for how evidence from European migrant neighborhoods
+was generalized because local conditions can change which processes generate wealth
+accumulation gaps.
+
+Only when analysts began combining longitudinal panel data with cross-site comparisons did
+claims about residential segregation and the persistence of neighborhood inequality stopped
+relying on a single figure and started relying on falsifiable predictions. the goal was to
+break degeneracies in which wealth accumulation gaps could be explained in more than one way
+because, as the author notes, confounders like zoning rules and land-use regulation often
+co-vary with the driver. as the author notes, transparency about priors became an empirical
+issue rather than a stylistic choice, which is precisely why changes whether two analyses
+are actually comparable. In this sense, persistent neighborhood-level disparities is best
+treated as a conditional inference rather than as a mere label.
+
+In the end, researchers found that the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about residential segregation and the persistence of neighborhood inequality be
+conditional on stated priors, it turns disagreement into a tool for discovery, which is
+precisely why clarifies why the same record can yield multiple stories without implying that
+any story is arbitrary. the temptation to treat a tidy plot as a definitive answer is
+strong; still, the result is a framework in which wealth accumulation gaps is interpreted
+through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | mobility tracking with administrative records | Requires careful calibration |
+   | Signal | disparate exposure to pollution | May be sensitive to preprocessing choices |
+   | Confounder | informational asymmetries in housing search | Changes the apparent slope |
+   Blank: The limitation for 'Method' is ________.
+   A. It replaces longitudinal panel data with intuition.
+   B. Requires careful calibration
+   C. Changes the apparent slope
+   D. It makes informational asymmetries in housing search irrelevant.
+
+2. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about residential segregation and the persistence of neighborhood inequality be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Aggregation guarantees that the same mechanism operates in large U.S. metropolitan areas and everywhere else.
+   B. Incompatible cases should be ignored to keep an explanation based on quasi-experimental policy evaluation simple.
+   C. Some summaries seem consistent because they mix incompatible cases, not because school-quality gradients uniquely identifies one mechanism.
+   D. Summaries are always reliable because averaging eliminates credit market discrimination.
+
+3. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This is why the author repeatedly contrasts what is measured with what is inferred.
+   A. the idea being discussed in the surrounding sentences
+   B. audit studies in housing markets as a device rather than as an analytic approach
+   C. informational asymmetries in housing search alone, treated as the sole cause
+   D. school-quality gradients specifically, taken as an unambiguous measurement
+
+4. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Since school-quality gradients is observed in post-industrial cities, it must generalize to every setting, regardless of boundary conditions.
+   B. The discussion indicates that replication is redundant if audit studies in housing markets produces a tight fit on one dataset.
+   C. it prevents school-quality gradients from being treated as a self-interpreting fingerprint and forces tests that control informational asymmetries in housing search
+   D. Because informational asymmetries in housing search co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+
+5. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage argues that persistent neighborhood-level disparities cannot be studied empirically because confounders like zoning rules and land-use regulation make data meaningless. It recommends replacing measurement with intuition and rejecting mobility tracking with administrative records as unreliable. It concludes that debate persists because evidence never constrains theory.
+   B. The passage claims that segregation-driven inequality across neighborhoods is settled because disparate exposure to pollution uniquely identifies the mechanism. It argues that zoning rules and land-use regulation is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using mobility tracking with administrative records are unnecessary.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats mobility tracking with administrative records as a historical curiosity and does not discuss disparate exposure to pollution or zoning rules and land-use regulation. It ends without any methodological implication.
+   D. The passage examines residential segregation and the persistence of neighborhood inequality and argues that disparate exposure to pollution is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how zoning rules and land-use regulation can shift the baseline, especially when evidence is drawn from large U.S. metropolitan areas. Finally, it maintains that tests combining mobility tracking with administrative records with boundary-condition checks are required to make claims about spatial stratification in cities robust.
+
+6. [Rhetorical Purpose] Why does the author discuss competing theories?
+   A. The passage treats wealth accumulation gaps as a confounder and credit market discrimination as the diagnostic signal that identifies the mechanism.
+   B. The passage implies that rapidly growing Sun Belt regions is chosen to avoid bias, so comparisons across settings are unnecessary.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where audit studies in housing markets constrains credit market discrimination
+   D. The discussion suggests that credit market discrimination is the phenomenon itself, so controlling for it would remove the effect of interest.
+
+7. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The passage implies that 'noise' is sometimes a label for unmodeled structure rather than a property of the world itself.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+8. [Vocabulary] In the passage, the word **degenerate** in the sentence below is closest in meaning to:
+   Sentence: The passage argues that this shift mattered for how evidence from European migrant neighborhoods was generalized because local conditions can change which processes generate wealth accumulation gaps.
+   A. irrelevant to residential segregation and the persistence of neighborhood inequality, serving only as background detail
+   B. unavoidable and uncontrollable because zoning rules and land-use regulation dominates all evidence
+   C. complete and final, so no further checks like quasi-experimental policy evaluation are needed
+   D. not uniquely determined
+
+9. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. longitudinal panel data
+   B. Residential Segregation and the Persistence of Neighborhood Inequality
+   C. wealth accumulation gaps
+   D. the length of the Nile in miles
+
+10. [Inference] The passage suggests which of the following?
+   A. The passage claims that the best strategy is to average away zoning rules and land-use regulation, since variability is merely a measurement error.
+   B. A convincing explanation should make distinct predictions under shared protocols, especially when zoning rules and land-use regulation can mimic wealth accumulation gaps.
+   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving mobility tracking with administrative records.
+   D. The passage suggests that wealth accumulation gaps is primarily a rhetorical device rather than an empirical constraint on models.
+
+
+Answer Key
+----------
+1: B
+2: C
+3: A
+4: C
+5: D
+6: C
+7: C
+8: D
+9: D
+10: B
