@@ -1,0 +1,149 @@
+Passage 0293: Ocean Acidification and Aragonite Saturation Decline (Oceanography)
+=================================================================================
+(Word count: 771)
+
+Despite seemingly smooth trends, it becomes plausible that researchers have treated shell
+dissolution patterns as the decisive sign of ocean acidification and aragonite saturation
+decline. While it is true that pCO2 moorings can make the pattern look unusually sharp, the
+passage argues that such confidence is conditional and must be earned by specifying
+assumptions. the resulting debate is less about data collection than about what the data are
+evidence for, a move that forces analysts to articulate boundary conditions rather than rely
+on familiar narratives. Rarely, unless the field adopted tests that manipulate or stratify
+riverine alkalinity inputs, does one see why the debate became empirically productive rather
+than merely rhetorical. by comparing cases in which pCO2 moorings constrains alternatives,
+researchers could ask which predictions survive out of sample, an outcome that is why the
+passage emphasizes comparative design over isolated exemplars. Despite the fact that a
+single case can be dramatic, the author does not deny the value of striking examples, but
+warns against treating them as representative. In this sense, declining seawater ph in
+surface oceans is best treated as a conditional inference rather than as a mere label. What
+matters most is the apparent regularity of shell dissolution patterns, which is why drives
+the first interpretation: shell dissolution patterns is treated as a direct readout of
+mechanism. If shell dissolution patterns is uniquely produced by one causal pathway, then
+observations from the Pacific Northwest would be transferable, and disagreement would be
+largely technical. the literature is full of such claims—not the caveat that riverine
+alkalinity inputs might reproduce the same pattern. It is methodological humility, rather
+than a single headline feature, that the passage presents as the lesson of ocean
+acidification and aragonite saturation decline: inference is constrained by what competing
+models would also predict. [A] The author implies that replication is informative only when
+protocols are comparable. If one wishes to move from description to explanation, then the
+same observation—shell dissolution patterns—must be paired with tests that change the
+conditions under which it appears. [B] The passage highlights that mechanism claims must
+survive out-of-sample checks. Whereas popular summaries treat shell dissolution patterns as
+an endpoint invites a tidy story, the passage treats it as a starting point for sharper
+experimental or observational contrasts forces boundary conditions to be stated. [C] This
+detail becomes important later, when assumptions are tested. [D] At first glance, the
+pattern seems obvious, yet the author frames it as conditional. Rarely has it been the case
+that the debate became empirically productive rather than merely rhetorical, at least before
+the field adopted tests that manipulate or stratify riverine alkalinity inputs. by comparing
+cases in which pCO2 moorings constrains alternatives, researchers could ask which
+predictions survive out of sample, something that is why the passage emphasizes comparative
+design over isolated exemplars. Granted that a single case can be dramatic, the author does
+not deny the value of striking examples, but warns against treating them as representative.
+In this sense, carbonate chemistry shifts under rising co2 is best treated as a conditional
+inference rather than as a mere label. In replication attempts, one sees why the apparent
+consensus fractured when similar protocols were applied in settings unlike the Pacific
+Northwest. the same summary statistic could be reproduced while the underlying mechanisms
+differed because, as the author notes, riverine alkalinity inputs shifted the baseline in
+different directions across sites. The issue is not treating shell dissolution patterns as a
+self-sufficient conclusion; it is that the author therefore separates detection from
+interpretation. Not the obvious explanation but methodological humility is what the passage
+presents as the lesson of ocean acidification and aragonite saturation decline: inference is
+constrained by what competing models would also predict. Were one wishes to move from
+description to explanation to fail, then the same observation—shell dissolution
+patterns—must be paired with tests that change the conditions under which it appears.
+Whereas popular summaries treat shell dissolution patterns as an endpoint may be convenient,
+the passage treats it as a starting point for sharper experimental or observational
+contrasts is scientifically revealing. In this sense, falling ωarag and saturation horizons
+is best treated as a conditional inference rather than as a mere label. In the end, the
+passage concludes that the most informative evidence is often the evidence that forces
+competing assumptions into the open. by insisting that claims about ocean acidification and
+aragonite saturation decline be conditional on stated priors, it turns disagreement into a
+tool for discovery, which forces analysts to admit that clarifies why the same record can
+yield multiple stories without implying that any story is arbitrary.
+
+Questions
+---------
+
+1. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The author emphasizes that a clean-looking curve can still encode hidden choices, especially when preprocessing is treated as neutral.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+2. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | pCO2 moorings | May not generalize across contexts |
+   | Signal | shell dissolution patterns | May be muted by other processes |
+   | Confounder | upwelled CO2-rich waters | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces boron isotope proxies with intuition.
+   B. It proves community composition changes is unique.
+   C. It makes upwelled CO2-rich waters irrelevant.
+   D. May be muted by other processes
+
+3. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [C] This detail becomes important later, when assumptions are tested.
+   A. boron isotope proxies as a device rather than as an analytic approach
+   B. shell dissolution patterns specifically, taken as an unambiguous measurement
+   C. the idea being discussed in the surrounding sentences
+   D. buffer capacity variability alone, treated as the sole cause
+
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. the length of the Nile in miles
+   B. total alkalinity titration
+   C. shifts in saturation horizons
+   D. Ocean Acidification and Aragonite Saturation Decline
+
+5. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats total alkalinity titration as a historical curiosity and does not discuss community composition changes or riverine alkalinity inputs. It ends without any methodological implication.
+   B. The passage argues that falling ωarag and saturation horizons cannot be studied empirically because confounders like riverine alkalinity inputs make data meaningless. It recommends replacing measurement with intuition and rejecting total alkalinity titration as unreliable. It concludes that debate persists because evidence never constrains theory.
+   C. The passage claims that carbonate chemistry shifts under rising co2 is settled because community composition changes uniquely identifies the mechanism. It argues that riverine alkalinity inputs is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using total alkalinity titration are unnecessary.
+   D. The passage examines ocean acidification and aragonite saturation decline and argues that community composition changes is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how riverine alkalinity inputs can shift the baseline, especially when evidence is drawn from polar surface oceans. Finally, it maintains that tests combining total alkalinity titration with boundary-condition checks are required to make claims about declining seawater ph in surface oceans robust.
+
+6. [Inference] The passage suggests which of the following?
+   A. The passage suggests that shifts in saturation horizons is primarily a rhetorical device rather than an empirical constraint on models.
+   B. A convincing explanation should make distinct predictions under shared protocols, especially when regional hotspot dynamics can mimic shifts in saturation horizons.
+   C. The passage claims that the best strategy is to average away regional hotspot dynamics, since variability is merely a measurement error.
+   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving boron isotope proxies.
+
+7. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
+   A. motivate clearer assumptions and stronger tests, such as comparing cases where mesocosm experiments constrains buffer capacity variability
+   B. The passage treats shifts in saturation horizons as a confounder and buffer capacity variability as the diagnostic signal that identifies the mechanism.
+   C. The discussion suggests that buffer capacity variability is the phenomenon itself, so controlling for it would remove the effect of interest.
+   D. The author suggests that the key synonym 'carbonate chemistry shifts under rising CO2' refers to a different field altogether, not to ocean acidification and aragonite saturation decline.
+
+8. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about ocean acidification and aragonite saturation decline be conditional on stated priors, it turns disagreement into a tool for discovery, which forces analysts to admit that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Some summaries seem consistent because they mix incompatible cases, not because reduced calcification rates uniquely identifies one mechanism.
+   B. Aggregation guarantees that the same mechanism operates in the Pacific Northwest and everywhere else.
+   C. Summaries are always reliable because averaging eliminates buffer capacity variability.
+   D. Incompatible cases should be ignored to keep an explanation based on mesocosm experiments simple.
+
+9. [Factual Information] The passage indicates that model assumptions is important mainly because:
+   A. Since shifts in saturation horizons is observed in subtropical gyres, it must generalize to every setting, regardless of boundary conditions.
+   B. Because shifts in saturation horizons appears, the mechanism must be unique, so riverine alkalinity inputs can be ignored as irrelevant noise.
+   C. it prevents shifts in saturation horizons from being treated as a self-interpreting fingerprint and forces tests that control riverine alkalinity inputs
+   D. Because riverine alkalinity inputs co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+
+10. [Vocabulary] In the passage, the word **robust** in the sentence below is closest in meaning to:
+   Sentence: Rarely has it been the case that the debate became empirically productive rather than merely rhetorical, at least before the field adopted tests that manipulate or stratify riverine alkalinity inputs.
+   A. unavoidable and uncontrollable because riverine alkalinity inputs dominates all evidence
+   B. strong and reliable
+   C. irrelevant to ocean acidification and aragonite saturation decline, serving only as background detail
+   D. complete and final, so no further checks like pCO2 moorings are needed
+
+
+Answer Key
+----------
+1: D
+2: D
+3: C
+4: A
+5: D
+6: B
+7: A
+8: A
+9: C
+10: B

@@ -1,0 +1,156 @@
+Passage 0282: Retrieval-Induced Forgetting in Memory Experiments (Psychology)
+=============================================================================
+(Word count: 720)
+
+When memory is tested repeatedly, the analysis suggests researchers have treated
+metacognitive illusions as the decisive sign of retrieval-induced forgetting in memory
+experiments. To be sure, process-dissociation procedures can make the pattern look unusually
+sharp, yet the passage argues that such confidence is conditional and must be earned by
+specifying assumptions. the resulting debate is less about data collection than about what
+the data are evidence for, which is precisely why forces analysts to articulate boundary
+conditions rather than rely on familiar narratives.
+
+Even if the first model can fit one dataset extremely well, the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how inhibitory
+control differences can shift baselines, altering whether metacognitive illusions is even
+comparable across cases, an outcome that means that a good fit is not the same as a good
+explanation. Unless inhibitory control differences is changed while the nominal driver
+remains constant, one should expect different outcomes when conditions are perturbed cannot
+be claimed with confidence. In this sense, practice-driven suppression of competing memories
+is best treated as a conditional inference rather than as a mere label.
+
+Working with sparse records and limited controls on inhibitory control differences, the
+passage suggests many early studies framed retrieval-induced forgetting in memory
+experiments as a single-mechanism phenomenon. [A] The passage highlights that mechanism
+claims must survive out-of-sample checks. Whereas those studies emphasized metacognitive
+illusions as a signature may be convenient, later work asked whether the same signature
+survives when protocols and baselines differ is scientifically revealing. [B] That point is
+not rhetorical; it controls which prediction follows. this shift mattered for how evidence
+from classroom study settings was generalized because local conditions can change which
+processes generate metacognitive illusions, which is why replication matters. [C] The
+passage returns to this point to clarify what counts as evidence. [D] The argument hinges on
+what would change under an alternative explanation.
+
+Never before the field adopted tests that manipulate or stratify inhibitory control
+differences was it defensible to argue that the debate became empirically productive rather
+than merely rhetorical. by comparing cases in which process-dissociation procedures
+constrains alternatives, researchers could ask which predictions survive out of sample,
+which helps explain why is why the passage emphasizes comparative design over isolated
+exemplars. Admittedly, a single case can be dramatic; nevertheless, the author does not deny
+the value of striking examples, but warns against treating them as representative. In this
+sense, retrieval-based inhibition is best treated as a conditional inference rather than as
+a mere label.
+
+Hardly had analysts began combining process-dissociation procedures with cross-site
+comparisons occurred when claims about retrieval-induced forgetting in memory experiments
+stopped relying on a single figure and started relying on falsifiable predictions. the goal
+was to break degeneracies in which metacognitive illusions could be explained in more than
+one way largely because confounders like inhibitory control differences often co-vary with
+the driver. as the author notes, transparency about priors became an empirical issue rather
+than a stylistic choice, a move that changes whether two analyses are actually comparable.
+
+It is methodological humility that the passage presents as the lesson of retrieval-induced
+forgetting in memory experiments: inference is constrained by what competing models would
+also predict. If one wishes to move from description to explanation, a different prediction
+follows: then the same observation—metacognitive illusions—must be paired with tests that
+change the conditions under which it appears. Whereas popular summaries treat metacognitive
+illusions as an endpoint is easy to measure, the passage treats it as a starting point for
+sharper experimental or observational contrasts is harder to interpret without assumptions.
+In this sense, selective recall causing forgetting is best treated as a conditional
+inference rather than as a mere label.
+
+In the end, the passage argues that the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about retrieval-induced forgetting in memory experiments be conditional on stated
+priors, it turns disagreement into a tool for discovery, something that clarifies why the
+same record can yield multiple stories without implying that any story is arbitrary.
+Admittedly, the temptation to treat a tidy plot as a definitive answer is strong;
+nevertheless, the result is a framework in which metacognitive illusions is interpreted
+through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Rhetorical Purpose] The mention of alternative mechanisms is used primarily to:
+   A. The author suggests that the key synonym 'retrieval-based inhibition' refers to a different field altogether, not to retrieval-induced forgetting in memory experiments.
+   B. The discussion suggests that test expectancy effects is the phenomenon itself, so controlling for it would remove the effect of interest.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where paired-associate tasks constrains test expectancy effects
+   D. The passage implies that laboratory paradigms is chosen to avoid bias, so comparisons across settings are unnecessary.
+
+2. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about retrieval-induced forgetting in memory experiments be conditional on stated priors, it turns disagreement into a tool for discovery, something that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on pre-registered replication simple.
+   B. Aggregation guarantees that the same mechanism operates in cross-cultural replications and everywhere else.
+   C. Some summaries seem consistent because they mix incompatible cases, not because context-dependent effects uniquely identifies one mechanism.
+   D. Summaries are always reliable because averaging eliminates test expectancy effects.
+
+3. [Factual Information] According to the passage, why does the author emphasize instrument calibration?
+   A. it prevents strategy shifts over trials from being treated as a self-interpreting fingerprint and forces tests that control test expectancy effects
+   B. The discussion indicates that replication is redundant if process-dissociation procedures produces a tight fit on one dataset.
+   C. The author suggests that disagreement disappears once strategy shifts over trials is detected, making model assumptions unnecessary.
+   D. Since strategy shifts over trials is observed in laboratory paradigms, it must generalize to every setting, regardless of boundary conditions.
+
+4. [Inference] The passage suggests which of the following?
+   A. The passage claims that the best strategy is to average away encoding strength heterogeneity, since variability is merely a measurement error.
+   B. A convincing explanation should make distinct predictions under shared protocols, especially when encoding strength heterogeneity can mimic reduced recall of unpracticed items.
+   C. The passage suggests that reduced recall of unpracticed items is primarily a rhetorical device rather than an empirical constraint on models.
+   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving recognition tests.
+
+5. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: This is why the author dwells on assumptions: without them, two teams can analyze the same record and still disagree honestly.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+6. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | fMRI pattern analysis | Samples only part of the system |
+   | Signal | context-dependent effects | Can be degenerate with another effect |
+   | Confounder | test expectancy effects | Changes the apparent slope |
+   Blank: The limitation for 'Signal' is ________.
+   A. It makes test expectancy effects irrelevant.
+   B. Samples only part of the system
+   C. It proves strategy shifts over trials is unique.
+   D. Can be degenerate with another effect
+
+7. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage argues that selective recall causing forgetting cannot be studied empirically because confounders like inhibitory control differences make data meaningless. It recommends replacing measurement with intuition and rejecting recognition tests as unreliable. It concludes that debate persists because evidence never constrains theory.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats recognition tests as a historical curiosity and does not discuss reduced recall of unpracticed items or inhibitory control differences. It ends without any methodological implication.
+   C. The passage examines retrieval-induced forgetting in memory experiments and argues that reduced recall of unpracticed items is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how inhibitory control differences can shift the baseline, especially when evidence is drawn from classroom study settings. Finally, it maintains that tests combining recognition tests with boundary-condition checks are required to make claims about practice-driven suppression of competing memories robust.
+   D. The passage claims that retrieval-based inhibition is settled because reduced recall of unpracticed items uniquely identifies the mechanism. It argues that inhibitory control differences is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using recognition tests are unnecessary.
+
+8. [Vocabulary] In the passage, the word **tentative** in the sentence below is closest in meaning to:
+   Sentence: In this sense, practice-driven suppression of competing memories is best treated as a conditional inference rather than as a mere label.
+   A. unavoidable and uncontrollable because stress modulation of recall dominates all evidence
+   B. complete and final, so no further checks like recognition tests are needed
+   C. irrelevant to retrieval-induced forgetting in memory experiments, serving only as background detail
+   D. not certain
+
+9. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: it highlights how inhibitory control differences can shift baselines, altering whether metacognitive illusions is even comparable across cases, an outcome that means that a good fit is not the same as a good explanation.
+   A. strategy shifts over trials specifically, taken as an unambiguous measurement
+   B. the idea being discussed in the surrounding sentences
+   C. fMRI pattern analysis as a device rather than as an analytic approach
+   D. inhibitory control differences alone, treated as the sole cause
+
+10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. the author’s favorite color
+   B. context-dependent effects
+   C. Retrieval-Induced Forgetting in Memory Experiments
+   D. recognition tests
+
+
+Answer Key
+----------
+1: C
+2: C
+3: A
+4: B
+5: D
+6: D
+7: C
+8: D
+9: B
+10: A

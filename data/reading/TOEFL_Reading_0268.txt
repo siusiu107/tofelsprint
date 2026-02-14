@@ -1,0 +1,155 @@
+Passage 0268: Ocean Acidification and Aragonite Saturation Decline (Oceanography)
+=================================================================================
+(Word count: 719)
+
+In coastal upwelling regions, one sees why researchers have treated community composition
+changes as the decisive sign of ocean acidification and aragonite saturation decline. total
+alkalinity titration can make the pattern look unusually sharp; still, the passage argues
+that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for, a
+move that forces analysts to articulate boundary conditions rather than rely on familiar
+narratives.
+
+In replication attempts, the apparent consensus fractured when similar protocols were
+applied in settings unlike subtropical gyres. the same summary statistic could be reproduced
+while the underlying mechanisms differed because regional hotspot dynamics shifted the
+baseline in different directions across sites. Rather than treating community composition
+changes as a self-sufficient conclusion, the passage emphasizes that the author therefore
+separates detection from interpretation. In this sense, declining seawater ph in surface
+oceans is best treated as a conditional inference rather than as a mere label.
+
+Only after analysts began combining total alkalinity titration with cross-site comparisons
+did claims about ocean acidification and aragonite saturation decline stopped relying on a
+single figure and started relying on falsifiable predictions. the goal was to break
+degeneracies in which community composition changes could be explained in more than one way
+because, as the author notes, confounders like regional hotspot dynamics often co-vary with
+the driver. as the author notes, transparency about priors became an empirical issue rather
+than a stylistic choice; this, in turn, changes whether two analyses are actually
+comparable.
+
+Never before the field adopted tests that manipulate or stratify regional hotspot dynamics
+was it defensible to argue that the debate became empirically productive rather than merely
+rhetorical. by comparing cases in which total alkalinity titration constrains alternatives,
+researchers could ask which predictions survive out of sample, a move that is why the
+passage emphasizes comparative design over isolated exemplars. Even if a single case can be
+dramatic, the author does not deny the value of striking examples, but warns against
+treating them as representative. In this sense, carbonate chemistry shifts under rising co2
+is best treated as a conditional inference rather than as a mere label.
+
+It is methodological humility, rather than a single headline feature, that the passage
+presents as the lesson of ocean acidification and aragonite saturation decline: inference is
+constrained by what competing models would also predict. [A] This is why the author
+repeatedly contrasts what is measured with what is inferred. If one wishes to move from
+description to explanation holds, then the same observation—community composition
+changes—must be paired with tests that change the conditions under which it appears. [B]
+This detail becomes important later, when assumptions are tested. Whereas popular summaries
+treat community composition changes as an endpoint is easy to measure, the passage treats it
+as a starting point for sharper experimental or observational contrasts is harder to
+interpret without assumptions. [C] At first glance, the pattern seems obvious, yet the
+author frames it as conditional. [D] The author implies that replication is informative only
+when protocols are comparable.
+
+Only when the field adopted tests that manipulate or stratify regional hotspot dynamics did
+the debate became empirically productive rather than merely rhetorical. by comparing cases
+in which total alkalinity titration constrains alternatives, researchers could ask which
+predictions survive out of sample, a move that is why the passage emphasizes comparative
+design over isolated exemplars. Even though a single case can be dramatic, the author does
+not deny the value of striking examples, but warns against treating them as representative.
+In this sense, falling ωarag and saturation horizons is best treated as a conditional
+inference rather than as a mere label.
+
+In the end, researchers found that the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about ocean acidification and aragonite saturation decline be conditional on stated
+priors, it turns disagreement into a tool for discovery, a move that clarifies why the same
+record can yield multiple stories without implying that any story is arbitrary. Admittedly,
+the temptation to treat a tidy plot as a definitive answer is strong; nevertheless, the
+result is a framework in which community composition changes is interpreted through explicit
+boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This is why the author repeatedly contrasts what is measured with what is inferred.
+   A. riverine alkalinity inputs alone, treated as the sole cause
+   B. the idea being discussed in the surrounding sentences
+   C. carbonate-system modeling as a device rather than as an analytic approach
+   D. community composition changes specifically, taken as an unambiguous measurement
+
+2. [Vocabulary] In the passage, the word **salient** in the sentence below is closest in meaning to:
+   Sentence: If one wishes to move from description to explanation holds, then the same observation—community composition changes—must be paired with tests that change the conditions under which it appears.
+   A. irrelevant to ocean acidification and aragonite saturation decline, serving only as background detail
+   B. unavoidable and uncontrollable because riverine alkalinity inputs dominates all evidence
+   C. important
+   D. complete and final, so no further checks like pCO2 moorings are needed
+
+3. [Factual Information] The passage indicates that boundary conditions is important mainly because:
+   A. The passage implies that boron isotope proxies directly measures causes, meaning confounding from regional hotspot dynamics is impossible.
+   B. it prevents reduced calcification rates from being treated as a self-interpreting fingerprint and forces tests that control regional hotspot dynamics
+   C. The author suggests that disagreement disappears once reduced calcification rates is detected, making model assumptions unnecessary.
+   D. Since reduced calcification rates is observed in the Pacific Northwest, it must generalize to every setting, regardless of boundary conditions.
+
+4. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about ocean acidification and aragonite saturation decline be conditional on stated priors, it turns disagreement into a tool for discovery, a move that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on boron isotope proxies simple.
+   B. Aggregation guarantees that the same mechanism operates in the Pacific Northwest and everywhere else.
+   C. Summaries are always reliable because averaging eliminates riverine alkalinity inputs.
+   D. Some summaries seem consistent because they mix incompatible cases, not because reduced calcification rates uniquely identifies one mechanism.
+
+5. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. the price of coal in 1700
+   B. carbonate-system modeling
+   C. community composition changes
+   D. Ocean Acidification and Aragonite Saturation Decline
+
+6. [Inference] The passage suggests which of the following?
+   A. The author treats subtropical gyres as a special case and argues that no broader inference about ocean acidification and aragonite saturation decline is possible.
+   B. The passage suggests that shifts in saturation horizons is primarily a rhetorical device rather than an empirical constraint on models.
+   C. The passage claims that the best strategy is to average away regional hotspot dynamics, since variability is merely a measurement error.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when regional hotspot dynamics can mimic shifts in saturation horizons.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | pCO2 moorings | May not generalize across contexts |
+   | Signal | shifts in saturation horizons | Can be degenerate with another effect |
+   | Confounder | buffer capacity variability | Adds correlated noise |
+   Blank: The limitation for 'Signal' is ________.
+   A. May not generalize across contexts
+   B. It makes riverine alkalinity inputs irrelevant.
+   C. Can be degenerate with another effect
+   D. It proves reduced calcification rates is unique.
+
+8. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
+   A. motivate clearer assumptions and stronger tests, such as comparing cases where total alkalinity titration constrains upwelled CO2-rich waters
+   B. The discussion suggests that upwelled CO2-rich waters is the phenomenon itself, so controlling for it would remove the effect of interest.
+   C. The passage treats shell dissolution patterns as a confounder and upwelled CO2-rich waters as the diagnostic signal that identifies the mechanism.
+   D. The passage implies that polar surface oceans is chosen to avoid bias, so comparisons across settings are unnecessary.
+
+9. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: That shift in framing changed which questions were even worth asking, since 'detection' and 'interpretation' were no longer treated as the same task.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+10. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage argues that falling ωarag and saturation horizons cannot be studied empirically because confounders like buffer capacity variability make data meaningless. It recommends replacing measurement with intuition and rejecting total alkalinity titration as unreliable. It concludes that debate persists because evidence never constrains theory.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats total alkalinity titration as a historical curiosity and does not discuss shifts in saturation horizons or buffer capacity variability. It ends without any methodological implication.
+   C. The passage examines ocean acidification and aragonite saturation decline and argues that shifts in saturation horizons is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how buffer capacity variability can shift the baseline, especially when evidence is drawn from subtropical gyres. Finally, it maintains that tests combining total alkalinity titration with boundary-condition checks are required to make claims about declining seawater ph in surface oceans robust.
+   D. The passage claims that carbonate chemistry shifts under rising co2 is settled because shifts in saturation horizons uniquely identifies the mechanism. It argues that buffer capacity variability is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using total alkalinity titration are unnecessary.
+
+
+Answer Key
+----------
+1: B
+2: C
+3: B
+4: D
+5: A
+6: D
+7: C
+8: A
+9: A
+10: C
