@@ -1,0 +1,12 @@
+Narrator: Listen to part of a lecture in a chemistry class.
+Professor: Before we define anything, picture a real situation in the field—mud, wind, broken equipment, all of it. Today we're talking about NMR chemical shift and spin-spin coupling. I'll toss around a couple terms—photolysis, like, chemical shift, catalyst—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say photolysis, uh, is that basically enantiomer, or is it a different mechanism?
+Professor: Don’t get hung up on the numbers— photolysis is the process, and enantiomer is usually a proxy or a measurement for it. People mix them up because the plot looks clean, you know, but the causality is messy—No, wait, I meant photolysis, not enantiomer.
+Professor: Quick tangent: an ethics issue that complicates the neat textbook version. That’s why spin coupling and transition state matter—those are constraints, uh, not trivia.
+Professor: They redo the protocol: randomize order, blind the analysis, add an internal standard. Only after that do they treat the shift in adsorption isotherm as real rather than an artifact.
+Professor: Let’s frame it as a case. A team collects samples, builds a pipeline, and expects a clean result. Instead they see dependence on spin coupling. First they blame noise, then they realize the sampling window biased the baseline.
+Professor: So… what’s the catch here?
+Professor: …Alright, silence. Cool. I’ll answer my own question.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: You know, Good. Kind of, Look for an asymmetric prediction. Explanation A implies a change in ligand even if chemical shift stays constant; Explanation B doesn’t. Like, Design a small test around that hinge point.
+Professor: Anyway, to wrap up: NMR chemical shift and spin-spin coupling is less about one fact and more about reasoning under constraints. Watch the proxies, watch the instruments, and don’t fall in love with one pretty plot.

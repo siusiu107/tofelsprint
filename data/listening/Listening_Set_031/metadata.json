@@ -1,0 +1,27 @@
+{
+  "set": 31,
+  "format": "conversation",
+  "domain": "Geology",
+  "subtopic": "Isotope geochemistry in volcanic gases",
+  "mode": "conversation_problem",
+  "technical_terms": [
+    "tomography",
+    "magma chamber",
+    "fault plane",
+    "mantle convection",
+    "karst",
+    "isotope ratio",
+    "varve",
+    "lithosphere",
+    "subduction"
+  ],
+  "function_phrase": "Long story short,",
+  "main_point": "Student 1 asks about Isotope geochemistry in volcanic gases but then shifts to payment hold.",
+  "detail1": "Student 2 explains that missing documentation is treated differently from submitting late.",
+  "detail2": "The conversation includes a sudden topic shift after the initial problem is mostly addressed.",
+  "attitude": "Supportive, slightly casual; Student 2 gives practical advice.",
+  "organization_point": "Student 2 uses a tangent about an ethics aside to justify keeping proof of submission.",
+  "connecting_point": "The step-by-step plan shows how to avoid the portal splitting a request into multiple submissions.",
+  "has_purpose_shift": true,
+  "has_self_correction": true
+}
