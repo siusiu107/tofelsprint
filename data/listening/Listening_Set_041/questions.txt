@@ -1,0 +1,47 @@
+Q1. (Gist) What is the main purpose of the lecture?
+   A. Help a student solve an administrative problem on campus.
+   B. Describe a historical timeline and major dates.
+   C. The professor explains Consensus algorithms: Raft versus Paxos and how to interpret evidence when measurements can be misleading.
+   D. Explain a disagreement between two researchers.
+
+Q2. (Detail) What is mentioned as an important point?
+   A. The speaker says the main issue is a lack of funding.
+   B. The speaker says the policy changed last semester.
+   C. The professor distinguishes entropy (a process) from quorum (a proxy/measurement).
+   D. The speaker says the method works only in a controlled lab environment.
+
+Q3. (Inference) What does the speaker imply?
+   A. The speaker is completely confident that correlation proves causation.
+   B. Casual but analytical; he warns against over-trusting a neat correlation.
+   C. The speaker is annoyed and refuses to answer questions.
+   D. The speaker thinks instruments always provide unbiased data.
+
+Q4. (Function) What does the professor mean when he says, “Quick tangent:”?
+   A. To announce a schedule change.
+   B. To guide how the listener should interpret the previous point.
+   C. To refuse to answer.
+   D. To complain about the course.
+
+Q5. (Attitude) What is the speaker’s attitude toward the issue?
+   A. Confused and uncertain
+   B. Enthusiastic but careless
+   C. Skeptical and dismissive
+   D. Casual but analytical; he warns against over-trusting a neat correlation.
+
+Q6. (Organization) Why does Student 2 mention the tangent?
+   A. He adds a tangent about a tools tangent to show real-world constraints.
+   B. To criticize a student for interrupting
+   C. To fill time because the talk ends early
+   D. To avoid answering the question directly
+
+Q7. (Connecting Content) How does the example relate to the main point?
+   A. It shows historical background that is not connected to the concept.
+   B. The example about controlling for consensus shows how bias can flip an apparent pattern.
+   C. It lists definitions without explaining how they apply.
+   D. It changes the topic to a different unit of the course.
+
+Q8. (Detail) According to the speaker, what is one key detail about the situation?
+   A. He suggests testing an asymmetric prediction involving latency and hash collision.
+   B. The speaker says the policy changed last semester.
+   C. The speaker says the results were identical in every trial.
+   D. The speaker says the equipment measures temperature directly.

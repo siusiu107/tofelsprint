@@ -1,0 +1,10 @@
+Narrator: Listen to part of a lecture in a computer science class.
+Professor: I’m going to begin with a weird question that sounds unrelated. Kind of, It isn’t. Today we're talking about Consensus algorithms: Raft versus Paxos. I'll toss around a couple terms—entropy, hash collision, index—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say entropy, is that basically quorum, or is it a different mechanism?
+Professor: Quick tangent: entropy is the process, and quorum is usually a proxy or a measurement for it. People mix them up because the plot looks clean, uh, but the causality is messy.
+Professor: Sort of, Quick tangent: a tangent about the tool or instrument and what it cannot measure. That’s why deadlock and consensus matter—those are constraints, not trivia.
+Professor: Now the debate. One camp treats entropy as the driver; another treats it as a side effect. Both can fit the same dataset because the assumptions differ. Kind of, So the argument isn’t only about data—it’s about mechanism.
+Professor: Students love to say, ‘But the correlation is strong.’ Sure. But if you intervene—change index directly—and nothing moves, then correlation wasn’t the whole story.
+Student 2: So if we’re choosing between two explanations, sort of, what’s the fastest way to falsify one without running a whole new study?
+Professor: I guess, Good. Look for an asymmetric prediction. Like, Explanation A implies a change in latency even if hash collision stays constant; Explanation B doesn’t. Design a small test around that hinge point—No, wait, I meant consensus, not index.
+Professor: Anyway, to wrap up: Consensus algorithms: Raft versus Paxos is less about one fact and more about reasoning under constraints. Watch the proxies, I guess, watch the instruments, and don’t fall in love with one pretty plot.

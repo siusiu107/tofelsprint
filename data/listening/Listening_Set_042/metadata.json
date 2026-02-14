@@ -1,0 +1,27 @@
+{
+  "set": 42,
+  "format": "lecture",
+  "domain": "Computer Science",
+  "subtopic": "B-tree indexing and query planning",
+  "mode": "lecture_demo",
+  "technical_terms": [
+    "mutex",
+    "deadlock",
+    "quorum",
+    "latency",
+    "index",
+    "entropy",
+    "throughput",
+    "hash collision",
+    "regularization"
+  ],
+  "function_phrase": "Not quite.",
+  "main_point": "The professor explains B-tree indexing and query planning and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes mutex (a process) from latency (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving hash collision and deadlock.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a funding detail to show real-world constraints.",
+  "connecting_point": "The example about controlling for entropy shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}
