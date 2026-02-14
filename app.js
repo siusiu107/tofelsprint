@@ -213,51 +213,22 @@
     setSubbar('기능/디자인');
     setCounter('—');
     main.innerHTML = `
-      <div class="card">
-        <div class="card-title">디자인</div>
-        <ul class="bullets">
-          <li><b>전체 하양</b> 베이스 + <b>상단 보라 Topbar</b> + <b>연두 프레임</b> 느낌</li>
-          <li>섹션 타이머/리스닝 진행바는 상단에 고정(토플 느낌)</li>
-          <li>카드 UI: 라운드(18px) + 소프트 쉐도우</li>
-        </ul>
-      </div>
-
-      <div class="card">
-        <div class="card-title">모드별 동작</div>
-        <ul class="bullets">
-          <li><b>연습모드</b>: 답 선택 자유 + <b>이동은 수동(Prev/Next)</b></li>
-          <li><b>연습모드</b>: 진행/답안 <b>localStorage 저장 안 함</b>(탭 닫으면 초기화)</li>
-          <li><b>SimTest</b>: 팝업으로 실행, 시간 조정 불가, 끝나면 <b>채점 + 리뷰</b></li>
-        </ul>
-      </div>
-
-      <div class="card">
-        <div class="card-title">Listening 규칙</div>
-        <ul class="bullets">
-          <li>오디오 재생 중에는 <b>문제 화면 숨김</b></li>
-          <li>main audio 끝 → question audio 재생</li>
-          <li><b>SimTest</b>에서는 question audio 끝나면 <b>답 선택 여부 상관없이 자동 다음</b></li>
-          <li><b>SimTest</b> 출제는 <b>lecture + conversation 섞어서</b> 진행</li>
-        </ul>
-      </div>
-
-      <div class="card">
-        <div class="card-title">보안/제한(최대한)</div>
-        <ul class="bullets">
-          <li>오디오: 시킹/배속 변경 등 임의 조작을 최대한 차단</li>
-          <li>직접 URL로 <code>/data/reading/</code>, <code>/data/listening/</code> 접근 시 <b>잘못된 접근입니다</b> 표시(서비스워커 설치 후)</li>
-          <li><b>SimTest</b>에서 <kbd>Shift+F5</kbd> 등 강력 새로고침을 <b>살짝 차단</b>(키 입력 차단 + 나가기 경고)</li>
-          <li class="muted">※ 웹 특성상 개발자도구/네트워크 레벨까지 100% 완전 차단은 불가능해.</li>
-        </ul>
-      </div>
-
-      <div class="card">
-        <div class="card-title">데이터 넣는 위치</div>
-        <div class="muted">리딩/리스닝 데이터 파일은 이 프로젝트에 포함하지 않았어. 각 폴더에 파일을 넣으면 자동 인식돼.</div>
+      <div class="hero-card">
+        <div class="kicker">도움말</div>
+        <div class="muted" style="line-height:1.7">
+          이 앱 이름은 <b>tofelsprint</b>야.<br/>
+          Reading/Listening 자료는 앱에 포함되어 있지 않아. 아래 폴더에 넣으면 자동으로 인식돼.
+        </div>
+        <div style="height:12px"></div>
         <pre class="codeblock">(프로젝트 루트)/
   data/
-    reading/   ← 리딩 txt 파일들
-    listening/ ← 리스닝 세트 폴더들</pre>
+    reading/   ← 리딩 txt (최대 1000번까지)
+    listening/ ← Listening_Set_001 ~ Listening_Set_100</pre>
+        <div style="height:10px"></div>
+        <div class="muted small">
+          • Reading 파일 예: <code>data/reading/TOEFL_Reading_0002.txt</code><br/>
+          • Listening 폴더 예: <code>data/listening/Listening_Set_001/answer_key.txt</code>
+        </div>
       </div>
     `;
   }
@@ -269,7 +240,7 @@ function renderHome(){
     main.innerHTML = `
       <div class="hero">
         <div class="hero-card">
-          <h1 class="hero-title">TOEFL Prep Web</h1>
+          <h1 class="hero-title">tofelsprint</h1>
           <p class="hero-sub">
             연습모드 + 실전(Simulation) 모드.<br/>
             Reading/Listening 데이터 파일은 프로젝트에 포함하지 않았어.<br/>
@@ -304,10 +275,6 @@ function renderHome(){
                 <a class="btn secondary" href="/practice/listening">열기</a>
               </div>
             </div>
-          </div>
-
-          <div style="margin-top:12px" class="muted small">
-            실행은 <code>python -m http.server 8000</code> 추천.
           </div>
         </div>
       </div>
@@ -804,11 +771,11 @@ function renderHome(){
         el.className = 'card';
         el.innerHTML = `
           <div>
-            <div class="card-title">Set ${String(it.set).padStart(3,'0')} · ${escape(it.format)}</div>
+            <div class="card-title">Set ${String(it.set).padStart(4,'0')} · ${escape(it.format)}</div>
             <div class="card-meta">${escape(it.category)} · ${escape(it.main_topic || it.scenario || '')}</div>
           </div>
           <div class="card-actions">
-            <a class="btn secondary" href="/practice/listening/${it.set}">풀기</a>
+            <a class="btn secondary" href="/practice/listening/${String(it.set).padStart(4,'0')}">풀기</a>
           </div>
         `;
         list.appendChild(el);
@@ -835,7 +802,7 @@ function renderHome(){
     $('#btnAll').onclick = ()=>{ limit = filtered.length; render(); };
     $('#btnRand').onclick = ()=>{
       const it = filtered[Math.floor(Math.random()*filtered.length)];
-      navigate(`/practice/listening/${it.set}`);
+      navigate(`/practice/listening/${String(it.set).padStart(4,'0')}`);
     };
     $('#btnReload').onclick = ()=>{
       sessionStorage.removeItem('toefl_listening_index_v1');
@@ -851,7 +818,7 @@ function renderHome(){
     const mySeq = seq || __routeSeq;
     const stale = ()=> mySeq !== __routeSeq;
     setWeek('Week');
-    setSubbar(`Listening > Set ${String(setId).padStart(3,'0')}`);
+    setSubbar(`Listening > Set ${String(setId).padStart(4,'0')}`);
     // 상단 카운터는 Reading처럼 "세트 위치/전체" 표시
     // (질문 번호/전체는 패널 안(qCounter)에 표시)
     setCounter('—');
@@ -872,8 +839,8 @@ function renderHome(){
     // top counter: current set position / total sets
     setCounter(`${String(curIdx+1).padStart(4,'0')}/${String(idx.length).padStart(4,'0')}`);
 
-    nav.prev = curIdx>0 ? `/practice/listening/${idx[curIdx-1].set}` : null;
-    nav.next = curIdx<idx.length-1 ? `/practice/listening/${idx[curIdx+1].set}` : null;
+    nav.prev = curIdx>0 ? `/practice/listening/${String(idx[curIdx-1].set).padStart(4,'0')}` : null;
+    nav.next = curIdx<idx.length-1 ? `/practice/listening/${String(idx[curIdx+1].set).padStart(4,'0')}` : null;
     bindTopNav();
 
     main.innerHTML = `
