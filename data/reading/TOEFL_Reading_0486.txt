@@ -1,0 +1,155 @@
+Passage 0486: Retrieval-Induced Forgetting in Memory Experiments (Psychology)
+=============================================================================
+(Word count: 707)
+
+In classic laboratory tasks, one sees why researchers have treated context-dependent effects
+as the decisive sign of retrieval-induced forgetting in memory experiments. While it is true
+that pre-registered replication can make the pattern look unusually sharp, the passage
+argues that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for,
+which is precisely why forces analysts to articulate boundary conditions rather than rely on
+familiar narratives.
+
+It is methodological humility, rather than a single headline feature, that the passage
+presents as the lesson of retrieval-induced forgetting in memory experiments: inference is
+constrained by what competing models would also predict. Provided that one wishes to move
+from description to explanation, then the same observation—context-dependent effects—must be
+paired with tests that change the conditions under which it appears. Whereas popular
+summaries treat context-dependent effects as an endpoint, the passage treats it as a
+starting point for sharper experimental or observational contrasts. In this sense, practice-
+driven suppression of competing memories is best treated as a conditional inference rather
+than as a mere label.
+
+Though the first model can fit one dataset extremely well, the passage insists that
+uniqueness is precisely what must be shown, not assumed. [A] The author shifts from
+narrative to diagnosis, focusing on what the data cannot rule out. it highlights how
+inhibitory control differences can shift baselines, altering whether context-dependent
+effects is even comparable across cases, something that means that a good fit is not the
+same as a good explanation. [B] The author uses the example to separate detection from
+interpretation. If inhibitory control differences is changed while the nominal driver
+remains constant holds, one should expect different outcomes when conditions are perturbed.
+[C] This becomes a pivot point where the earlier interpretation is narrowed. [D] The author
+uses the detour to show why a different metric would lead to a different conclusion.
+
+The decisive factor is the apparent regularity of context-dependent effects; once that is
+stated, drives the first interpretation: context-dependent effects is treated as a direct
+readout of mechanism. Were context-dependent effects is uniquely produced by one causal
+pathway to fail, then observations from cross-cultural replications would be transferable,
+and disagreement would be largely technical. the literature is full of such claims, not
+because the caveat that inhibitory control differences might reproduce the same pattern, but
+because the assumptions differ. In this sense, retrieval-based inhibition is best treated as
+a conditional inference rather than as a mere label.
+
+Using pre-registered replication under stable conditions, the interpretation shifts, and one
+frequently cited case from cross-cultural replications appeared to support the direct-
+readout view. Though the original fit looked visually decisive, later, however, reanalysis
+showed that small shifts in inhibitory control differences altered the baseline enough to
+mute or mimic context-dependent effects. the passage treats this episode as diagnostic;
+this, in turn, illustrates why boundary conditions must be specified before generalization
+is attempted.
+
+Only through analysts began combining pre-registered replication with cross-site comparisons
+could one reasonably claim that claims about retrieval-induced forgetting in memory
+experiments stopped relying on a single figure and started relying on falsifiable
+predictions. the goal was to break degeneracies in which context-dependent effects could be
+explained in more than one way because confounders like inhibitory control differences often
+co-vary with the driver, which is why replication matters. as the author notes, transparency
+about priors became an empirical issue rather than a stylistic choice, something that
+changes whether two analyses are actually comparable. In this sense, selective recall
+causing forgetting is best treated as a conditional inference rather than as a mere label.
+
+In the end, one sees why the passage concludes that the most informative evidence is often
+the evidence that forces competing assumptions into the open. by insisting that claims about
+retrieval-induced forgetting in memory experiments be conditional on stated priors, it turns
+disagreement into a tool for discovery; this, in turn, clarifies why the same record can
+yield multiple stories without implying that any story is arbitrary. Even though the
+temptation to treat a tidy plot as a definitive answer is strong, the result is a framework
+in which context-dependent effects is interpreted through explicit boundary conditions
+rather than through habit.
+
+Questions
+---------
+
+1. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [C] This becomes a pivot point where the earlier interpretation is narrowed.
+   A. the idea being discussed in the surrounding sentences
+   B. stress modulation of recall alone, treated as the sole cause
+   C. pre-registered replication as a device rather than as an analytic approach
+   D. metacognitive illusions specifically, taken as an unambiguous measurement
+
+2. [Rhetorical Purpose] What is the primary purpose of presenting more than one explanation?
+   A. The author argues that paired-associate tasks should be replaced by an unmodeled trend line because assumptions distort evidence.
+   B. The discussion suggests that test expectancy effects is the phenomenon itself, so controlling for it would remove the effect of interest.
+   C. The author suggests that the key synonym 'competition-mediated memory loss' refers to a different field altogether, not to retrieval-induced forgetting in memory experiments.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where paired-associate tasks constrains test expectancy effects
+
+3. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The author emphasizes that a clean-looking curve can still encode hidden choices, especially when preprocessing is treated as neutral.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+4. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | process-dissociation procedures | Can introduce systematic bias |
+   | Signal | context-dependent effects | May be sensitive to preprocessing choices |
+   | Confounder | test expectancy effects | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. Co-varies with the driver of interest
+   B. It replaces recognition tests with intuition.
+   C. May be sensitive to preprocessing choices
+   D. It makes stress modulation of recall irrelevant.
+
+5. [Inference] Which of the following can be inferred from the passage?
+   A. The passage claims that the best strategy is to average away inhibitory control differences, since variability is merely a measurement error.
+   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving pre-registered replication.
+   C. The argument is that boundary conditions matter only for older studies, not for modern measurements using pre-registered replication.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when inhibitory control differences can mimic metacognitive illusions.
+
+6. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about retrieval-induced forgetting in memory experiments be conditional on stated priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on paired-associate tasks simple.
+   B. Some summaries seem consistent because they mix incompatible cases, not because strategy shifts over trials uniquely identifies one mechanism.
+   C. Aggregation guarantees that the same mechanism operates in clinical populations and everywhere else.
+   D. Summaries are always reliable because averaging eliminates inhibitory control differences.
+
+7. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. paired-associate tasks
+   B. the length of the Nile in miles
+   C. reduced recall of unpracticed items
+   D. Retrieval-Induced Forgetting in Memory Experiments
+
+8. [Vocabulary] In the passage, the word **salient** in the sentence below is closest in meaning to:
+   Sentence: by insisting that claims about retrieval-induced forgetting in memory experiments be conditional on stated priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. complete and final, so no further checks like recognition tests are needed
+   B. irrelevant to retrieval-induced forgetting in memory experiments, serving only as background detail
+   C. unavoidable and uncontrollable because encoding strength heterogeneity dominates all evidence
+   D. important
+
+9. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage examines retrieval-induced forgetting in memory experiments and argues that strategy shifts over trials is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how encoding strength heterogeneity can shift the baseline, especially when evidence is drawn from clinical populations. Finally, it maintains that tests combining process-dissociation procedures with boundary-condition checks are required to make claims about practice-driven suppression of competing memories robust.
+   B. The passage claims that retrieval-based inhibition is settled because strategy shifts over trials uniquely identifies the mechanism. It argues that encoding strength heterogeneity is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using process-dissociation procedures are unnecessary.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats process-dissociation procedures as a historical curiosity and does not discuss strategy shifts over trials or encoding strength heterogeneity. It ends without any methodological implication.
+   D. The passage argues that selective recall causing forgetting cannot be studied empirically because confounders like encoding strength heterogeneity make data meaningless. It recommends replacing measurement with intuition and rejecting process-dissociation procedures as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+10. [Factual Information] According to the passage, why does the author emphasize boundary conditions?
+   A. Because test expectancy effects co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   B. Since reduced recall of unpracticed items is observed in clinical populations, it must generalize to every setting, regardless of boundary conditions.
+   C. it prevents reduced recall of unpracticed items from being treated as a self-interpreting fingerprint and forces tests that control test expectancy effects
+   D. Because reduced recall of unpracticed items appears, the mechanism must be unique, so test expectancy effects can be ignored as irrelevant noise.
+
+
+Answer Key
+----------
+1: A
+2: D
+3: A
+4: C
+5: D
+6: B
+7: B
+8: D
+9: A
+10: C

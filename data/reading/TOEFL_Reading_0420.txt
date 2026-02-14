@@ -1,0 +1,147 @@
+Passage 0420: Network Diffusion of Innovations in Social Media (Sociology)
+==========================================================================
+(Word count: 637)
+
+Against that intuitive story, the central disagreement can be stated more precisely:
+researchers have treated algorithmic amplification signatures as the decisive sign of
+network diffusion of innovations in social media. Although A/B platform experiments can make
+the pattern look unusually sharp, the passage argues that such confidence is conditional and
+must be earned by specifying assumptions. the resulting debate is less about data collection
+than about what the data are evidence for, a move that forces analysts to articulate
+boundary conditions rather than rely on familiar narratives.
+
+Using A/B platform experiments under stable conditions, the passage suggests one frequently
+cited case from university networks appeared to support the direct-readout view. Though the
+original fit looked visually decisive, later, however, reanalysis showed that small shifts
+in status signaling incentives altered the baseline enough to mute or mimic algorithmic
+amplification signatures. the passage treats this episode as diagnostic, which illustrates
+why boundary conditions must be specified before generalization is attempted. In this sense,
+contagion-like spread of new behaviors is best treated as a conditional inference rather
+than as a mere label.
+
+Only through analysts began combining A/B platform experiments with cross-site comparisons
+could one reasonably claim that claims about network diffusion of innovations in social
+media stopped relying on a single figure and started relying on falsifiable predictions. the
+goal was to break degeneracies in which algorithmic amplification signatures could be
+explained in more than one way because, as the author notes, confounders like status
+signaling incentives often co-vary with the driver. as the author notes, transparency about
+priors became an empirical issue rather than a stylistic choice, which changes whether two
+analyses are actually comparable.
+
+The decisive factor is the apparent regularity of algorithmic amplification signatures; once
+that is stated, drives the first interpretation: algorithmic amplification signatures is
+treated as a direct readout of mechanism. [A] This is why the author repeatedly contrasts
+what is measured with what is inferred. If algorithmic amplification signatures is uniquely
+produced by one causal pathway, then observations from university networks would be
+transferable, and disagreement would be largely technical. [B] This is presented not as a
+loophole, but as a disciplined way to avoid overclaiming. Not the caveat that status
+signaling incentives might reproduce the same pattern, but the literature is full of such
+claims. [C] This reasoning matters because it changes what counts as a decisive test. [D]
+The discussion makes clear that measurement choices can masquerade as mechanism. In this
+sense, peer-to-peer adoption cascades in networks is best treated as a conditional inference
+rather than as a mere label.
+
+Even though the first model can fit one dataset extremely well, the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how status signaling
+incentives can shift baselines, altering whether algorithmic amplification signatures is
+even comparable across cases, a move that means that a good fit is not the same as a good
+explanation. Should status signaling incentives is changed while the nominal driver remains
+constant be true, one should expect different outcomes when conditions are perturbed. In
+this sense, innovation diffusion through social graphs is best treated as a conditional
+inference rather than as a mere label.
+
+In the end, the passage argues that the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about network diffusion of innovations in social media be conditional on stated
+priors, it turns disagreement into a tool for discovery, a move that clarifies why the same
+record can yield multiple stories without implying that any story is arbitrary. Even though
+the temptation to treat a tidy plot as a definitive answer is strong, the result is a
+framework in which algorithmic amplification signatures is interpreted through explicit
+boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Rhetorical Purpose] What function does the comparison with another theory perform in the argument?
+   A. The author suggests that the key synonym 'social transmission of practices' refers to a different field altogether, not to network diffusion of innovations in social media.
+   B. The passage treats algorithmic amplification signatures as a confounder and status signaling incentives as the diagnostic signal that identifies the mechanism.
+   C. The discussion suggests that status signaling incentives is the phenomenon itself, so controlling for it would remove the effect of interest.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where agent-based modeling constrains status signaling incentives
+
+2. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. homophily versus influence diagnostics
+   B. Network Diffusion of Innovations in Social Media
+   C. the price of coal in 1700
+   D. causal inference with instrumental variables
+
+3. [Vocabulary] In the passage, the word **approximate** in the sentence below is closest in meaning to:
+   Sentence: Using A/B platform experiments under stable conditions, the passage suggests one frequently cited case from university networks appeared to support the direct-readout view.
+   A. unavoidable and uncontrollable because endogeneity of peer selection dominates all evidence
+   B. rough
+   C. irrelevant to network diffusion of innovations in social media, serving only as background detail
+   D. complete and final, so no further checks like network analysis are needed
+
+4. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that peer-to-peer adoption cascades in networks is settled because cascade size distributions uniquely identifies the mechanism. It argues that measurement error in exposure is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using agent-based modeling are unnecessary.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats agent-based modeling as a historical curiosity and does not discuss cascade size distributions or measurement error in exposure. It ends without any methodological implication.
+   C. The passage examines network diffusion of innovations in social media and argues that cascade size distributions is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how measurement error in exposure can shift the baseline, especially when evidence is drawn from university networks. Finally, it maintains that tests combining agent-based modeling with boundary-condition checks are required to make claims about contagion-like spread of new behaviors robust.
+   D. The passage argues that innovation diffusion through social graphs cannot be studied empirically because confounders like measurement error in exposure make data meaningless. It recommends replacing measurement with intuition and rejecting agent-based modeling as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+5. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This is why the author repeatedly contrasts what is measured with what is inferred.
+   A. A/B platform experiments as a device rather than as an analytic approach
+   B. the idea being discussed in the surrounding sentences
+   C. cascade size distributions specifically, taken as an unambiguous measurement
+   D. status signaling incentives alone, treated as the sole cause
+
+6. [Inference] The passage suggests which of the following?
+   A. The passage claims that the best strategy is to average away platform governance changes, since variability is merely a measurement error.
+   B. A convincing explanation should make distinct predictions under shared protocols, especially when platform governance changes can mimic homophily versus influence diagnostics.
+   C. The passage suggests that homophily versus influence diagnostics is primarily a rhetorical device rather than an empirical constraint on models.
+   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using A/B platform experiments.
+
+7. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Because the inference is underdetermined, the most informative tests are those that break degeneracies rather than those that merely sharpen one feature.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+8. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | agent-based modeling | Samples only part of the system |
+   | Signal | cascade size distributions | Can be contaminated by background variability |
+   | Confounder | endogeneity of peer selection | Shifts the baseline |
+   Blank: The limitation for 'Method' is ________.
+   A. Samples only part of the system
+   B. It makes endogeneity of peer selection irrelevant.
+   C. Can be contaminated by background variability
+   D. Shifts the baseline
+
+9. [Factual Information] The passage indicates that confounder control is important mainly because:
+   A. Because status signaling incentives co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   B. The discussion indicates that replication is redundant if network analysis produces a tight fit on one dataset.
+   C. Because homophily versus influence diagnostics appears, the mechanism must be unique, so status signaling incentives can be ignored as irrelevant noise.
+   D. it prevents homophily versus influence diagnostics from being treated as a self-interpreting fingerprint and forces tests that control status signaling incentives
+
+10. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about network diffusion of innovations in social media be conditional on stated priors, it turns disagreement into a tool for discovery, a move that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Some summaries seem consistent because they mix incompatible cases, not because homophily versus influence diagnostics uniquely identifies one mechanism.
+   B. Aggregation guarantees that the same mechanism operates in online communities and everywhere else.
+   C. Summaries are always reliable because averaging eliminates measurement error in exposure.
+   D. Incompatible cases should be ignored to keep an explanation based on agent-based modeling simple.
+
+
+Answer Key
+----------
+1: D
+2: C
+3: B
+4: C
+5: B
+6: B
+7: A
+8: A
+9: D
+10: A

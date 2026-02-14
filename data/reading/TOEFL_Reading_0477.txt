@@ -1,0 +1,151 @@
+Passage 0477: Glacial Retreat and Moraine-Dated Landscape Change (Geology)
+==========================================================================
+(Word count: 774)
+
+Across different subduction segments, the analysis suggests researchers have treated river
+discharge seasonality shifts as the decisive sign of glacial retreat and moraine-dated
+landscape change. Admittedly, cosmogenic nuclide exposure dating can make the pattern look
+unusually sharp; nevertheless, the passage argues that such confidence is conditional and
+must be earned by specifying assumptions. the resulting debate is less about data collection
+than about what the data are evidence for, an outcome that forces analysts to articulate
+boundary conditions rather than rely on familiar narratives. Rarely, unless analysts began
+combining cosmogenic nuclide exposure dating with cross-site comparisons, does one see why
+claims about glacial retreat and moraine-dated landscape change stopped relying on a single
+figure and started relying on falsifiable predictions. [A] This point forces the reader to
+consider how confounders enter the pipeline. The passage argues that the goal was to break
+degeneracies in which river discharge seasonality shifts could be explained in more than one
+way because confounders like temperature versus precipitation controls often co-vary with
+the driver. [B] The author shifts from narrative to diagnosis, focusing on what the data
+cannot rule out. as the author notes, transparency about priors became an empirical issue
+rather than a stylistic choice, which is precisely why changes whether two analyses are
+actually comparable. [C] The author uses the detour to show why a different metric would
+lead to a different conclusion. [D] The author treats this as a clue rather than as a
+nuisance. In this sense, ice-front recession recorded in moraines is best treated as a
+conditional inference rather than as a mere label. Only when the field adopted tests that
+manipulate or stratify temperature versus precipitation controls did the debate became
+empirically productive rather than merely rhetorical. by comparing cases in which cosmogenic
+nuclide exposure dating constrains alternatives, researchers could ask which predictions
+survive out of sample, which is why the passage emphasizes comparative design over isolated
+exemplars. Though a single case can be dramatic, the author does not deny the value of
+striking examples, but warns against treating them as representative. Working with sparse
+records and limited controls on temperature versus precipitation controls, the
+interpretation shifts, and many early studies framed glacial retreat and moraine-dated
+landscape change as a single-mechanism phenomenon. Whereas those studies emphasized river
+discharge seasonality shifts as a signature looks decisive, later work asked whether the
+same signature survives when protocols and baselines differ becomes more predictive under
+replication. this shift mattered for how evidence from the European Alps was generalized
+because, as the author notes, local conditions can change which processes generate river
+discharge seasonality shifts. Not until analysts began combining cosmogenic nuclide exposure
+dating with cross-site comparisons did claims about glacial retreat and moraine-dated
+landscape change stopped relying on a single figure and started relying on falsifiable
+predictions. the goal was to break degeneracies in which river discharge seasonality shifts
+could be explained in more than one way because confounders like temperature versus
+precipitation controls often co-vary with the driver, which is why replication matters. as
+the author notes, transparency about priors became an empirical issue rather than a
+stylistic choice, an outcome that changes whether two analyses are actually comparable. In
+this sense, deglaciation-driven geomorphic change is best treated as a conditional inference
+rather than as a mere label. What matters most is methodological humility, which is why the
+passage presents as the lesson of glacial retreat and moraine-dated landscape change:
+inference is constrained by what competing models would also predict. Were one wishes to
+move from description to explanation to fail, then the same observation—river discharge
+seasonality shifts—must be paired with tests that change the conditions under which it
+appears. Whereas popular summaries treat river discharge seasonality shifts as an endpoint
+may be convenient, the passage treats it as a starting point for sharper experimental or
+observational contrasts is scientifically revealing. Using cosmogenic nuclide exposure
+dating under stable conditions, the author treats the complication as diagnostic, so one
+frequently cited case from the European Alps appeared to support the direct-readout view.
+Even if the original fit looked visually decisive, later, however, reanalysis showed that
+small shifts in temperature versus precipitation controls altered the baseline enough to
+mute or mimic river discharge seasonality shifts. the passage treats this episode as
+diagnostic, which forces analysts to admit that illustrates why boundary conditions must be
+specified before generalization is attempted. In this sense, retreating glacier termini over
+decades is best treated as a conditional inference rather than as a mere label. In the end,
+the analysis suggests the passage concludes that the most informative evidence is often the
+evidence that forces competing assumptions into the open.
+
+Questions
+---------
+
+1. [Factual Information] According to the passage, why does the author emphasize replication across contexts?
+   A. Because newly exposed proglacial lakes appears, the mechanism must be unique, so hazard cascades involving GLOFs can be ignored as irrelevant noise.
+   B. The passage implies that sediment-core analysis directly measures causes, meaning confounding from hazard cascades involving GLOFs is impossible.
+   C. it prevents newly exposed proglacial lakes from being treated as a self-interpreting fingerprint and forces tests that control hazard cascades involving GLOFs
+   D. Since newly exposed proglacial lakes is observed in Himalayan glaciers, it must generalize to every setting, regardless of boundary conditions.
+
+2. [Vocabulary] In the passage, the word **salient** in the sentence below is closest in meaning to:
+   Sentence: Using cosmogenic nuclide exposure dating under stable conditions, the author treats the complication as diagnostic, so one frequently cited case from the European Alps appeared to support the direct-readout view.
+   A. irrelevant to glacial retreat and moraine-dated landscape change, serving only as background detail
+   B. complete and final, so no further checks like UAV photogrammetry are needed
+   C. unavoidable and uncontrollable because debris-covered ice dynamics dominates all evidence
+   D. important
+
+3. [Inference] Which of the following can be inferred from the passage?
+   A. The passage claims that the best strategy is to average away debris-covered ice dynamics, since variability is merely a measurement error.
+   B. A convincing explanation should make distinct predictions under shared protocols, especially when debris-covered ice dynamics can mimic slope instability and rockfalls.
+   C. The argument is that boundary conditions matter only for older studies, not for modern measurements using UAV photogrammetry.
+   D. The author treats Patagonian icefields as a special case and argues that no broader inference about glacial retreat and moraine-dated landscape change is possible.
+
+4. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage examines glacial retreat and moraine-dated landscape change and argues that slope instability and rockfalls is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how temperature versus precipitation controls can shift the baseline, especially when evidence is drawn from Greenland outlet glaciers. Finally, it maintains that tests combining sediment-core analysis with boundary-condition checks are required to make claims about ice-front recession recorded in moraines robust.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats sediment-core analysis as a historical curiosity and does not discuss slope instability and rockfalls or temperature versus precipitation controls. It ends without any methodological implication.
+   C. The passage claims that deglaciation-driven geomorphic change is settled because slope instability and rockfalls uniquely identifies the mechanism. It argues that temperature versus precipitation controls is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using sediment-core analysis are unnecessary.
+   D. The passage argues that retreating glacier termini over decades cannot be studied empirically because confounders like temperature versus precipitation controls make data meaningless. It recommends replacing measurement with intuition and rejecting sediment-core analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+5. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Because the inference is underdetermined, the most informative tests are those that break degeneracies rather than those that merely sharpen one feature.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+6. [Rhetorical Purpose] Why does the author discuss competing theories?
+   A. motivate clearer assumptions and stronger tests, such as comparing cases where sediment-core analysis constrains hazard cascades involving GLOFs
+   B. The author argues that sediment-core analysis should be replaced by an unmodeled trend line because assumptions distort evidence.
+   C. The passage implies that Himalayan glaciers is chosen to avoid bias, so comparisons across settings are unnecessary.
+   D. The passage treats newly exposed proglacial lakes as a confounder and hazard cascades involving GLOFs as the diagnostic signal that identifies the mechanism.
+
+7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: the goal was to break degeneracies in which river discharge seasonality shifts could be explained in more than one way because confounders like temperature versus precipitation controls often co-vary with the driver, which is why replication matters.
+   A. Incompatible cases should be ignored to keep an explanation based on sediment-core analysis simple.
+   B. Some summaries seem consistent because they mix incompatible cases, not because slope instability and rockfalls uniquely identifies one mechanism.
+   C. Aggregation guarantees that the same mechanism operates in Patagonian icefields and everywhere else.
+   D. Summaries are always reliable because averaging eliminates hazard cascades involving GLOFs.
+
+8. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This point forces the reader to consider how confounders enter the pipeline.
+   A. the idea being discussed in the surrounding sentences
+   B. sediment-core analysis as a device rather than as an analytic approach
+   C. debris-covered ice dynamics alone, treated as the sole cause
+   D. newly exposed proglacial lakes specifically, taken as an unambiguous measurement
+
+9. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | dendrogeomorphology | Can introduce systematic bias |
+   | Signal | isostatic rebound indicators | May be muted by other processes |
+   | Confounder | hazard cascades involving GLOFs | Can mimic the target feature |
+   Blank: The limitation for 'Method' is ________.
+   A. It proves newly exposed proglacial lakes is unique.
+   B. Can introduce systematic bias
+   C. May be muted by other processes
+   D. It makes hazard cascades involving GLOFs irrelevant.
+
+10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. remote sensing of glacier area
+   B. Glacial Retreat and Moraine-Dated Landscape Change
+   C. slope instability and rockfalls
+   D. the author’s favorite color
+
+
+Answer Key
+----------
+1: C
+2: D
+3: B
+4: A
+5: A
+6: A
+7: B
+8: A
+9: B
+10: D

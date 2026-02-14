@@ -1,0 +1,159 @@
+Passage 0460: Exoplanet Atmospheric Characterization via Transmission Spectroscopy (Astronomy)
+==============================================================================================
+(Word count: 724)
+
+Despite apparently clean spectra, researchers have treated Rayleigh-scattering slopes as the
+decisive sign of exoplanet atmospheric characterization via transmission spectroscopy.
+Though transmission spectroscopy can make the pattern look unusually sharp, the passage
+argues that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for, a
+move that forces analysts to articulate boundary conditions rather than rely on familiar
+narratives.
+
+In replication attempts, one sees why the apparent consensus fractured when similar
+protocols were applied in settings unlike hot Jupiters such as WASP-39b. the same summary
+statistic could be reproduced while the underlying mechanisms differed largely because
+pressure–temperature profile degeneracy shifted the baseline in different directions across
+sites. Rather than treating Rayleigh-scattering slopes as a self-sufficient conclusion, the
+passage emphasizes that the author therefore separates detection from interpretation. In
+this sense, transit-spectrum analysis of exoplanet atmospheres is best treated as a
+conditional inference rather than as a mere label.
+
+Not until analysts began combining transmission spectroscopy with cross-site comparisons was
+it clear that claims about exoplanet atmospheric characterization via transmission
+spectroscopy stopped relying on a single figure and started relying on falsifiable
+predictions. the goal was to break degeneracies in which Rayleigh-scattering slopes could be
+explained in more than one way because confounders like pressure–temperature profile
+degeneracy often co-vary with the driver. as the author notes, transparency about priors
+became an empirical issue rather than a stylistic choice; this, in turn, changes whether two
+analyses are actually comparable.
+
+Rarely, unless the field adopted tests that manipulate or stratify pressure–temperature
+profile degeneracy, does one see why the debate became empirically productive rather than
+merely rhetorical. [A] This becomes a pivot point where the earlier interpretation is
+narrowed. by comparing cases in which transmission spectroscopy constrains alternatives,
+researchers could ask which predictions survive out of sample, which forces analysts to
+admit that is why the passage emphasizes comparative design over isolated exemplars. [B]
+This reasoning matters because it changes what counts as a decisive test. Despite the fact
+that a single case can be dramatic, the author does not deny the value of striking examples,
+but warns against treating them as representative. [C] The author implies that replication
+is informative only when protocols are comparable. [D] The author shifts from narrative to
+diagnosis, focusing on what the data cannot rule out. In this sense, spectroscopic probing
+of a planet’s gaseous envelope is best treated as a conditional inference rather than as a
+mere label.
+
+What matters most is methodological humility, which is why the passage presents as the
+lesson of exoplanet atmospheric characterization via transmission spectroscopy: inference is
+constrained by what competing models would also predict. If one wishes to move from
+description to explanation, a different prediction follows: then the same
+observation—Rayleigh-scattering slopes—must be paired with tests that change the conditions
+under which it appears. Whereas popular summaries treat Rayleigh-scattering slopes as an
+endpoint, the passage treats it as a starting point for sharper experimental or
+observational contrasts.
+
+Never before the field adopted tests that manipulate or stratify pressure–temperature
+profile degeneracy was it defensible to argue that the debate became empirically productive
+rather than merely rhetorical. by comparing cases in which transmission spectroscopy
+constrains alternatives, researchers could ask which predictions survive out of sample,
+which is why the passage emphasizes comparative design over isolated exemplars. To be sure,
+a single case can be dramatic, yet the author does not deny the value of striking examples,
+but warns against treating them as representative. In this sense, bayesian retrieval of
+atmospheric composition from transits is best treated as a conditional inference rather than
+as a mere label.
+
+In the end, the central disagreement can be stated more precisely: the passage concludes
+that the most informative evidence is often the evidence that forces competing assumptions
+into the open. by insisting that claims about exoplanet atmospheric characterization via
+transmission spectroscopy be conditional on stated priors, it turns disagreement into a tool
+for discovery, which is precisely why clarifies why the same record can yield multiple
+stories without implying that any story is arbitrary. Although the temptation to treat a
+tidy plot as a definitive answer is strong, the result is a framework in which Rayleigh-
+scattering slopes is interpreted through explicit boundary conditions rather than through
+habit.
+
+Questions
+---------
+
+1. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about exoplanet atmospheric characterization via transmission spectroscopy be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates stellar activity contamination.
+   B. Aggregation guarantees that the same mechanism operates in warm Neptunes like GJ 436b and everywhere else.
+   C. Some summaries seem consistent because they mix incompatible cases, not because wavelength-dependent muting by clouds and hazes uniquely identifies one mechanism.
+   D. Incompatible cases should be ignored to keep an explanation based on secondary-eclipse spectroscopy simple.
+
+2. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: In short, the passage treats methodological humility as a strength, not as an admission of ignorance.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+3. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats high-dispersion cross-correlation spectroscopy as a historical curiosity and does not discuss sodium and potassium lines or pressure–temperature profile degeneracy. It ends without any methodological implication.
+   B. The passage argues that bayesian retrieval of atmospheric composition from transits cannot be studied empirically because confounders like pressure–temperature profile degeneracy make data meaningless. It recommends replacing measurement with intuition and rejecting high-dispersion cross-correlation spectroscopy as unreliable. It concludes that debate persists because evidence never constrains theory.
+   C. The passage claims that spectroscopic probing of a planet’s gaseous envelope is settled because sodium and potassium lines uniquely identifies the mechanism. It argues that pressure–temperature profile degeneracy is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using high-dispersion cross-correlation spectroscopy are unnecessary.
+   D. The passage examines exoplanet atmospheric characterization via transmission spectroscopy and argues that sodium and potassium lines is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how pressure–temperature profile degeneracy can shift the baseline, especially when evidence is drawn from warm Neptunes like GJ 436b. Finally, it maintains that tests combining high-dispersion cross-correlation spectroscopy with boundary-condition checks are required to make claims about transit-spectrum analysis of exoplanet atmospheres robust.
+
+4. [Vocabulary] In the passage, the word **tentative** in the sentence below is closest in meaning to:
+   Sentence: In this sense, transit-spectrum analysis of exoplanet atmospheres is best treated as a conditional inference rather than as a mere label.
+   A. irrelevant to exoplanet atmospheric characterization via transmission spectroscopy, serving only as background detail
+   B. not certain
+   C. unavoidable and uncontrollable because stellar activity contamination dominates all evidence
+   D. complete and final, so no further checks like spectral injection–recovery tests are needed
+
+5. [Rhetorical Purpose] Why does the author discuss competing theories?
+   A. The passage treats wavelength-dependent muting by clouds and hazes as a confounder and limb-darkening uncertainty as the diagnostic signal that identifies the mechanism.
+   B. The discussion suggests that limb-darkening uncertainty is the phenomenon itself, so controlling for it would remove the effect of interest.
+   C. The author argues that secondary-eclipse spectroscopy should be replaced by an unmodeled trend line because assumptions distort evidence.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where secondary-eclipse spectroscopy constrains limb-darkening uncertainty
+
+6. [Inference] Which of the following can be inferred from the passage?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when stellar activity contamination can mimic water-vapor absorption bands.
+   B. The author treats warm Neptunes like GJ 436b as a special case and argues that no broader inference about exoplanet atmospheric characterization via transmission spectroscopy is possible.
+   C. The argument is that boundary conditions matter only for older studies, not for modern measurements using Bayesian atmospheric retrieval.
+   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving Bayesian atmospheric retrieval.
+
+7. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This becomes a pivot point where the earlier interpretation is narrowed.
+   A. water-vapor absorption bands specifically, taken as an unambiguous measurement
+   B. pressure–temperature profile degeneracy alone, treated as the sole cause
+   C. the idea being discussed in the surrounding sentences
+   D. transmission spectroscopy as a device rather than as an analytic approach
+
+8. [Factual Information] The passage indicates that replication across contexts is important mainly because:
+   A. The passage implies that spectral injection–recovery tests directly measures causes, meaning confounding from pressure–temperature profile degeneracy is impossible.
+   B. The author suggests that disagreement disappears once CO2 and CO signatures is detected, making model assumptions unnecessary.
+   C. Because CO2 and CO signatures appears, the mechanism must be unique, so pressure–temperature profile degeneracy can be ignored as irrelevant noise.
+   D. it prevents CO2 and CO signatures from being treated as a self-interpreting fingerprint and forces tests that control pressure–temperature profile degeneracy
+
+9. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. a recipe for bread fermentation
+   B. Exoplanet Atmospheric Characterization via Transmission Spectroscopy
+   C. secondary-eclipse spectroscopy
+   D. Rayleigh-scattering slopes
+
+10. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | high-dispersion cross-correlation spectroscopy | Samples only part of the system |
+   | Signal | sodium and potassium lines | Can be contaminated by background variability |
+   | Confounder | limb-darkening uncertainty | Changes the apparent slope |
+   Blank: The limitation for 'Confounder' is ________.
+   A. Samples only part of the system
+   B. Changes the apparent slope
+   C. It proves wavelength-dependent muting by clouds and hazes is unique.
+   D. It makes chemical disequilibrium irrelevant.
+
+
+Answer Key
+----------
+1: C
+2: C
+3: D
+4: B
+5: D
+6: A
+7: C
+8: D
+9: A
+10: B

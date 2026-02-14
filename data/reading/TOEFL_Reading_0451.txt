@@ -1,0 +1,149 @@
+Passage 0451: Exoplanet Atmospheric Characterization via Transmission Spectroscopy (Astronomy)
+==============================================================================================
+(Word count: 642)
+
+In the last decade, the analysis suggests researchers have treated water-vapor absorption
+bands as the decisive sign of exoplanet atmospheric characterization via transmission
+spectroscopy. While it is true that secondary-eclipse spectroscopy can make the pattern look
+unusually sharp, the passage argues that such confidence is conditional and must be earned
+by specifying assumptions. the resulting debate is less about data collection than about
+what the data are evidence for, something that forces analysts to articulate boundary
+conditions rather than rely on familiar narratives.
+
+Working with sparse records and limited controls on stellar activity contamination, the key
+question becomes whether many early studies framed exoplanet atmospheric characterization
+via transmission spectroscopy as a single-mechanism phenomenon. Whereas those studies
+emphasized water-vapor absorption bands as a signature may be convenient, later work asked
+whether the same signature survives when protocols and baselines differ is scientifically
+revealing. this shift mattered for how evidence from temperate rocky candidates in compact
+systems was generalized largely because local conditions can change which processes generate
+water-vapor absorption bands. In this sense, transit-spectrum analysis of exoplanet
+atmospheres is best treated as a conditional inference rather than as a mere label.
+
+Although the first model can fit one dataset extremely well, the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how stellar activity
+contamination can shift baselines, altering whether water-vapor absorption bands is even
+comparable across cases, which helps explain why means that a good fit is not the same as a
+good explanation. If stellar activity contamination is changed while the nominal driver
+remains constant, a different prediction follows: one should expect different outcomes when
+conditions are perturbed.
+
+Not until analysts began combining secondary-eclipse spectroscopy with cross-site
+comparisons did claims about exoplanet atmospheric characterization via transmission
+spectroscopy stopped relying on a single figure and started relying on falsifiable
+predictions. the goal was to break degeneracies in which water-vapor absorption bands could
+be explained in more than one way because confounders like stellar activity contamination
+often co-vary with the driver, which is why replication matters. as the author notes,
+transparency about priors became an empirical issue rather than a stylistic choice,
+something that changes whether two analyses are actually comparable. In this sense,
+spectroscopic probing of a planet’s gaseous envelope is best treated as a conditional
+inference rather than as a mere label.
+
+Seldom, prior to the field adopted tests that manipulate or stratify stellar activity
+contamination, did investigators concede that the debate became empirically productive
+rather than merely rhetorical. [A] Later comparisons reveal why this matters. by comparing
+cases in which secondary-eclipse spectroscopy constrains alternatives, researchers could ask
+which predictions survive out of sample, which forces analysts to admit that is why the
+passage emphasizes comparative design over isolated exemplars. [B] The discussion makes
+clear that measurement choices can masquerade as mechanism. Although a single case can be
+dramatic, the author does not deny the value of striking examples, but warns against
+treating them as representative. [C] The argument hinges on what would change under an
+alternative explanation. [D] The author uses the example to separate detection from
+interpretation. In this sense, bayesian retrieval of atmospheric composition from transits
+is best treated as a conditional inference rather than as a mere label.
+
+In the end, one sees why the passage concludes that the most informative evidence is often
+the evidence that forces competing assumptions into the open. by insisting that claims about
+exoplanet atmospheric characterization via transmission spectroscopy be conditional on
+stated priors, it turns disagreement into a tool for discovery, which helps explain why
+clarifies why the same record can yield multiple stories without implying that any story is
+arbitrary. Though the temptation to treat a tidy plot as a definitive answer is strong, the
+result is a framework in which water-vapor absorption bands is interpreted through explicit
+boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Because the inference is underdetermined, the most informative tests are those that break degeneracies rather than those that merely sharpen one feature.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+2. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | Bayesian atmospheric retrieval | Samples only part of the system |
+   | Signal | water-vapor absorption bands | Can be contaminated by background variability |
+   | Confounder | chemical disequilibrium | Adds correlated noise |
+   Blank: The limitation for 'Signal' is ________.
+   A. Samples only part of the system
+   B. Can be contaminated by background variability
+   C. It proves water-vapor absorption bands is unique.
+   D. Adds correlated noise
+
+3. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage examines exoplanet atmospheric characterization via transmission spectroscopy and argues that CO2 and CO signatures is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how pressure–temperature profile degeneracy can shift the baseline, especially when evidence is drawn from sub-Neptunes around M dwarfs. Finally, it maintains that tests combining secondary-eclipse spectroscopy with boundary-condition checks are required to make claims about transit-spectrum analysis of exoplanet atmospheres robust.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats secondary-eclipse spectroscopy as a historical curiosity and does not discuss CO2 and CO signatures or pressure–temperature profile degeneracy. It ends without any methodological implication.
+   C. The passage argues that bayesian retrieval of atmospheric composition from transits cannot be studied empirically because confounders like pressure–temperature profile degeneracy make data meaningless. It recommends replacing measurement with intuition and rejecting secondary-eclipse spectroscopy as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage claims that spectroscopic probing of a planet’s gaseous envelope is settled because CO2 and CO signatures uniquely identifies the mechanism. It argues that pressure–temperature profile degeneracy is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using secondary-eclipse spectroscopy are unnecessary.
+
+4. [Inference] The passage suggests which of the following?
+   A. The passage claims that the best strategy is to average away limb-darkening uncertainty, since variability is merely a measurement error.
+   B. The passage suggests that water-vapor absorption bands is primarily a rhetorical device rather than an empirical constraint on models.
+   C. The author treats temperate rocky candidates in compact systems as a special case and argues that no broader inference about exoplanet atmospheric characterization via transmission spectroscopy is possible.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when limb-darkening uncertainty can mimic water-vapor absorption bands.
+
+5. [Factual Information] According to the passage, why does the author emphasize model assumptions?
+   A. The author suggests that disagreement disappears once sodium and potassium lines is detected, making model assumptions unnecessary.
+   B. Since sodium and potassium lines is observed in sub-Neptunes around M dwarfs, it must generalize to every setting, regardless of boundary conditions.
+   C. it prevents sodium and potassium lines from being treated as a self-interpreting fingerprint and forces tests that control stellar activity contamination
+   D. Because sodium and potassium lines appears, the mechanism must be unique, so stellar activity contamination can be ignored as irrelevant noise.
+
+6. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about exoplanet atmospheric characterization via transmission spectroscopy be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on high-dispersion cross-correlation spectroscopy simple.
+   B. Aggregation guarantees that the same mechanism operates in temperate rocky candidates in compact systems and everywhere else.
+   C. Some summaries seem consistent because they mix incompatible cases, not because water-vapor absorption bands uniquely identifies one mechanism.
+   D. Summaries are always reliable because averaging eliminates pressure–temperature profile degeneracy.
+
+7. [Rhetorical Purpose] What is the primary purpose of presenting more than one explanation?
+   A. The author suggests that the key synonym 'spectroscopic probing of a planet’s gaseous envelope' refers to a different field altogether, not to exoplanet atmospheric characterization via transmission spectroscopy.
+   B. motivate clearer assumptions and stronger tests, such as comparing cases where spectral injection–recovery tests constrains pressure–temperature profile degeneracy
+   C. The passage treats CO2 and CO signatures as a confounder and pressure–temperature profile degeneracy as the diagnostic signal that identifies the mechanism.
+   D. The author argues that spectral injection–recovery tests should be replaced by an unmodeled trend line because assumptions distort evidence.
+
+8. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. water-vapor absorption bands
+   B. high-dispersion cross-correlation spectroscopy
+   C. Exoplanet Atmospheric Characterization via Transmission Spectroscopy
+   D. the price of coal in 1700
+
+9. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: While it is true that secondary-eclipse spectroscopy can make the pattern look unusually sharp, the passage argues that such confidence is conditional and must be earned by specifying assumptions.
+   A. water-vapor absorption bands specifically, taken as an unambiguous measurement
+   B. spectral injection–recovery tests as a device rather than as an analytic approach
+   C. stellar activity contamination alone, treated as the sole cause
+   D. the idea being discussed in the surrounding sentences
+
+10. [Vocabulary] In the passage, the word **plausible** in the sentence below is closest in meaning to:
+   Sentence: Whereas those studies emphasized water-vapor absorption bands as a signature may be convenient, later work asked whether the same signature survives when protocols and baselines differ is scientifically revealing.
+   A. reasonable
+   B. unavoidable and uncontrollable because chemical disequilibrium dominates all evidence
+   C. complete and final, so no further checks like Bayesian atmospheric retrieval are needed
+   D. irrelevant to exoplanet atmospheric characterization via transmission spectroscopy, serving only as background detail
+
+
+Answer Key
+----------
+1: B
+2: B
+3: A
+4: D
+5: C
+6: C
+7: B
+8: D
+9: D
+10: A

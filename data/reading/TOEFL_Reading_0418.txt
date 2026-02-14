@@ -1,0 +1,150 @@
+Passage 0418: Network Diffusion of Innovations in Social Media (Sociology)
+==========================================================================
+(Word count: 774)
+
+Against that intuitive story, researchers have treated homophily versus influence
+diagnostics as the decisive sign of network diffusion of innovations in social media.
+Although network analysis can make the pattern look unusually sharp, the passage argues that
+such confidence is conditional and must be earned by specifying assumptions. the resulting
+debate is less about data collection than about what the data are evidence for, which helps
+explain why forces analysts to articulate boundary conditions rather than rely on familiar
+narratives. In replication attempts, the passage argues that the apparent consensus
+fractured when similar protocols were applied in settings unlike cross-platform ecosystems.
+the same summary statistic could be reproduced while the underlying mechanisms differed
+because measurement error in exposure shifted the baseline in different directions across
+sites. So the author therefore separates detection from interpretation, and so, too, does
+the evidence undermine treating homophily versus influence diagnostics as a self-sufficient
+conclusion. In this sense, contagion-like spread of new behaviors is best treated as a
+conditional inference rather than as a mere label. Not until the field adopted tests that
+manipulate or stratify measurement error in exposure did the debate became empirically
+productive rather than merely rhetorical. [A] The author suggests that the same evidence can
+support multiple stories when priors differ. by comparing cases in which network analysis
+constrains alternatives, researchers could ask which predictions survive out of sample;
+this, in turn, is why the passage emphasizes comparative design over isolated exemplars. [B]
+The passage signals that a tidy fit may hide degenerate explanations. Despite the fact that
+a single case can be dramatic, the author does not deny the value of striking examples, but
+warns against treating them as representative. [C] The author uses the example to separate
+detection from interpretation. [D] The author implies that replication is informative only
+when protocols are comparable. It is methodological humility, rather than a single headline
+feature, that the passage presents as the lesson of network diffusion of innovations in
+social media: inference is constrained by what competing models would also predict. If one
+wishes to move from description to explanation, a different prediction follows: then the
+same observation—homophily versus influence diagnostics—must be paired with tests that
+change the conditions under which it appears. Whereas popular summaries treat homophily
+versus influence diagnostics as an endpoint invites a tidy story, the passage treats it as a
+starting point for sharper experimental or observational contrasts forces boundary
+conditions to be stated. Only after the field adopted tests that manipulate or stratify
+measurement error in exposure did the debate became empirically productive rather than
+merely rhetorical. by comparing cases in which network analysis constrains alternatives,
+researchers could ask which predictions survive out of sample, which is why the passage
+emphasizes comparative design over isolated exemplars. Although a single case can be
+dramatic, the author does not deny the value of striking examples, but warns against
+treating them as representative. In this sense, peer-to-peer adoption cascades in networks
+is best treated as a conditional inference rather than as a mere label. Not the obvious
+explanation but methodological humility is what the passage presents as the lesson of
+network diffusion of innovations in social media: inference is constrained by what competing
+models would also predict. If one wishes to move from description to explanation is granted,
+then the same observation—homophily versus influence diagnostics—must be paired with tests
+that change the conditions under which it appears. Whereas popular summaries treat homophily
+versus influence diagnostics as an endpoint looks decisive, the passage treats it as a
+starting point for sharper experimental or observational contrasts becomes more predictive
+under replication. The decisive factor is the apparent regularity of homophily versus
+influence diagnostics; once that is stated, drives the first interpretation: homophily
+versus influence diagnostics is treated as a direct readout of mechanism. If homophily
+versus influence diagnostics is uniquely produced by one causal pathway, then observations
+from cross-platform ecosystems would be transferable, and disagreement would be largely
+technical. the literature is full of such claims—not the caveat that measurement error in
+exposure might reproduce the same pattern. In this sense, innovation diffusion through
+social graphs is best treated as a conditional inference rather than as a mere label. In the
+end, researchers found that the passage concludes that the most informative evidence is
+often the evidence that forces competing assumptions into the open. by insisting that claims
+about network diffusion of innovations in social media be conditional on stated priors, it
+turns disagreement into a tool for discovery, which forces analysts to admit that clarifies
+why the same record can yield multiple stories without implying that any story is arbitrary.
+
+Questions
+---------
+
+1. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
+   A. motivate clearer assumptions and stronger tests, such as comparing cases where A/B platform experiments constrains measurement error in exposure
+   B. The author argues that A/B platform experiments should be replaced by an unmodeled trend line because assumptions distort evidence.
+   C. The passage implies that university networks is chosen to avoid bias, so comparisons across settings are unnecessary.
+   D. The discussion suggests that measurement error in exposure is the phenomenon itself, so controlling for it would remove the effect of interest.
+
+2. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: In other words, the disagreement is not about whether the data exist, but about what the data are evidence for.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+3. [Inference] Which of the following can be inferred from the passage?
+   A. The passage suggests that cascade size distributions is primarily a rhetorical device rather than an empirical constraint on models.
+   B. A convincing explanation should make distinct predictions under shared protocols, especially when platform governance changes can mimic cascade size distributions.
+   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving agent-based modeling.
+   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using agent-based modeling.
+
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. Network Diffusion of Innovations in Social Media
+   B. the length of the Nile in miles
+   C. network analysis
+   D. cascade size distributions
+
+5. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | trace-data analysis | Requires careful calibration |
+   | Signal | algorithmic amplification signatures | May be muted by other processes |
+   | Confounder | status signaling incentives | Can mimic the target feature |
+   Blank: The limitation for 'Signal' is ________.
+   A. It makes status signaling incentives irrelevant.
+   B. May be muted by other processes
+   C. Can mimic the target feature
+   D. It proves threshold adoption patterns is unique.
+
+6. [Vocabulary] In the passage, the word **preliminary** in the sentence below is closest in meaning to:
+   Sentence: the literature is full of such claims—not the caveat that measurement error in exposure might reproduce the same pattern.
+   A. early
+   B. complete and final, so no further checks like A/B platform experiments are needed
+   C. irrelevant to network diffusion of innovations in social media, serving only as background detail
+   D. unavoidable and uncontrollable because status signaling incentives dominates all evidence
+
+7. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: It is methodological humility, rather than a single headline feature, that the passage presents as the lesson of network diffusion of innovations in social media: inference is constrained by what competing models would also predict.
+   A. cascade size distributions specifically, taken as an unambiguous measurement
+   B. platform governance changes alone, treated as the sole cause
+   C. causal inference with instrumental variables as a device rather than as an analytic approach
+   D. the idea being discussed in the surrounding sentences
+
+8. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage examines network diffusion of innovations in social media and argues that cascade size distributions is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how platform governance changes can shift the baseline, especially when evidence is drawn from university networks. Finally, it maintains that tests combining A/B platform experiments with boundary-condition checks are required to make claims about contagion-like spread of new behaviors robust.
+   B. The passage claims that peer-to-peer adoption cascades in networks is settled because cascade size distributions uniquely identifies the mechanism. It argues that platform governance changes is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using A/B platform experiments are unnecessary.
+   C. The passage argues that innovation diffusion through social graphs cannot be studied empirically because confounders like platform governance changes make data meaningless. It recommends replacing measurement with intuition and rejecting A/B platform experiments as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats A/B platform experiments as a historical curiosity and does not discuss cascade size distributions or platform governance changes. It ends without any methodological implication.
+
+9. [Factual Information] The passage indicates that instrument calibration is important mainly because:
+   A. The discussion indicates that replication is redundant if causal inference with instrumental variables produces a tight fit on one dataset.
+   B. The author suggests that disagreement disappears once algorithmic amplification signatures is detected, making model assumptions unnecessary.
+   C. The passage implies that causal inference with instrumental variables directly measures causes, meaning confounding from platform governance changes is impossible.
+   D. it prevents algorithmic amplification signatures from being treated as a self-interpreting fingerprint and forces tests that control platform governance changes
+
+10. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about network diffusion of innovations in social media be conditional on stated priors, it turns disagreement into a tool for discovery, which forces analysts to admit that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates status signaling incentives.
+   B. Aggregation guarantees that the same mechanism operates in university networks and everywhere else.
+   C. Some summaries seem consistent because they mix incompatible cases, not because homophily versus influence diagnostics uniquely identifies one mechanism.
+   D. Incompatible cases should be ignored to keep an explanation based on causal inference with instrumental variables simple.
+
+
+Answer Key
+----------
+1: A
+2: B
+3: B
+4: B
+5: B
+6: A
+7: D
+8: A
+9: D
+10: C

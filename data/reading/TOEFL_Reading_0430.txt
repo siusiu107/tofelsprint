@@ -1,0 +1,163 @@
+Passage 0430: Heterogeneous Catalysis on Platinum Surfaces (Chemistry)
+======================================================================
+(Word count: 794)
+
+In operando measurement campaigns, the analysis suggests researchers have treated rate
+enhancement as the decisive sign of heterogeneous catalysis on platinum surfaces. Even
+though in situ spectroscopy can make the pattern look unusually sharp, the passage argues
+that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for, a
+move that forces analysts to articulate boundary conditions rather than rely on familiar
+narratives.
+
+If anything is responsible, it is the apparent regularity of rate enhancement, and therefore
+drives the first interpretation: rate enhancement is treated as a direct readout of
+mechanism. Unless rate enhancement is uniquely produced by one causal pathway, then
+observations from industrial hydrogenation reactors would be transferable, and disagreement
+would be largely technical cannot be claimed with confidence. the literature is full of such
+claims, not because the caveat that adsorbate coverage effects might reproduce the same
+pattern, but because the assumptions differ. In this sense, surface-mediated catalysis on pt
+is best treated as a conditional inference rather than as a mere label.
+
+Seldom, prior to the field adopted tests that manipulate or stratify adsorbate coverage
+effects, did investigators concede that the debate became empirically productive rather than
+merely rhetorical. by comparing cases in which in situ spectroscopy constrains alternatives,
+researchers could ask which predictions survive out of sample, which is why the passage
+emphasizes comparative design over isolated exemplars. To be sure, a single case can be
+dramatic, yet the author does not deny the value of striking examples, but warns against
+treating them as representative.
+
+In replication attempts, one sees why the apparent consensus fractured when similar
+protocols were applied in settings unlike industrial hydrogenation reactors. the same
+summary statistic could be reproduced while the underlying mechanisms differed largely
+because adsorbate coverage effects shifted the baseline in different directions across
+sites. the author therefore separates detection from interpretation, not because treating
+rate enhancement as a self-sufficient conclusion, but because the assumptions differ.
+
+Only by the field adopted tests that manipulate or stratify adsorbate coverage effects was
+the field forced to accept that the debate became empirically productive rather than merely
+rhetorical. by comparing cases in which in situ spectroscopy constrains alternatives,
+researchers could ask which predictions survive out of sample, which forces analysts to
+admit that is why the passage emphasizes comparative design over isolated exemplars. While
+it is true that a single case can be dramatic, the author does not deny the value of
+striking examples, but warns against treating them as representative. In this sense,
+platinum-catalyzed reaction pathways is best treated as a conditional inference rather than
+as a mere label.
+
+What matters most is methodological humility, which is why the passage presents as the
+lesson of heterogeneous catalysis on platinum surfaces: inference is constrained by what
+competing models would also predict. [A] The passage highlights that mechanism claims must
+survive out-of-sample checks. If one wishes to move from description to explanation, a
+different prediction follows: then the same observation—rate enhancement—must be paired with
+tests that change the conditions under which it appears. [B] This is presented not as a
+loophole, but as a disciplined way to avoid overclaiming. Whereas popular summaries treat
+rate enhancement as an endpoint, the passage treats it as a starting point for sharper
+experimental or observational contrasts. [C] The passage returns to this point to clarify
+what counts as evidence. [D] The passage emphasizes boundary conditions instead of treating
+them as afterthoughts.
+
+It is methodological humility, rather than a single headline feature, that the passage
+presents as the lesson of heterogeneous catalysis on platinum surfaces: inference is
+constrained by what competing models would also predict. If one wishes to move from
+description to explanation holds, then the same observation—rate enhancement—must be paired
+with tests that change the conditions under which it appears. Whereas popular summaries
+treat rate enhancement as an endpoint in one account, the passage treats it as a starting
+point for sharper experimental or observational contrasts in another. In this sense, metal-
+surface catalytic conversion is best treated as a conditional inference rather than as a
+mere label.
+
+In the end, it becomes plausible that the passage concludes that the most informative
+evidence is often the evidence that forces competing assumptions into the open. by insisting
+that claims about heterogeneous catalysis on platinum surfaces be conditional on stated
+priors, it turns disagreement into a tool for discovery, an outcome that clarifies why the
+same record can yield multiple stories without implying that any story is arbitrary. Even
+though the temptation to treat a tidy plot as a definitive answer is strong, the result is a
+framework in which rate enhancement is interpreted through explicit boundary conditions
+rather than through habit.
+
+Questions
+---------
+
+1. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
+   A. motivate clearer assumptions and stronger tests, such as comparing cases where surface microscopy constrains catalyst deactivation
+   B. The passage treats rate enhancement as a confounder and catalyst deactivation as the diagnostic signal that identifies the mechanism.
+   C. The author argues that surface microscopy should be replaced by an unmodeled trend line because assumptions distort evidence.
+   D. The author suggests that the key synonym 'Pt-active-site chemistry' refers to a different field altogether, not to heterogeneous catalysis on platinum surfaces.
+
+2. [Vocabulary] In the passage, the word **conspicuous** in the sentence below is closest in meaning to:
+   Sentence: by comparing cases in which in situ spectroscopy constrains alternatives, researchers could ask which predictions survive out of sample, which is why the passage emphasizes comparative design over isolated exemplars.
+   A. complete and final, so no further checks like DFT surface modeling are needed
+   B. easy to notice
+   C. irrelevant to heterogeneous catalysis on platinum surfaces, serving only as background detail
+   D. unavoidable and uncontrollable because adsorbate coverage effects dominates all evidence
+
+3. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. the author’s favorite color
+   B. selectivity shifts
+   C. in situ spectroscopy
+   D. Heterogeneous Catalysis on Platinum Surfaces
+
+4. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns disagreement into a tool for discovery, an outcome that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates catalyst deactivation.
+   B. Incompatible cases should be ignored to keep an explanation based on temperature-programmed desorption simple.
+   C. Aggregation guarantees that the same mechanism operates in laboratory single-crystal studies and everywhere else.
+   D. Some summaries seem consistent because they mix incompatible cases, not because structure-sensitive activity uniquely identifies one mechanism.
+
+5. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [B] This is presented not as a loophole, but as a disciplined way to avoid overclaiming.
+   A. temperature-programmed desorption as a device rather than as an analytic approach
+   B. catalyst deactivation alone, treated as the sole cause
+   C. poisoning by CO specifically, taken as an unambiguous measurement
+   D. the idea being discussed in the surrounding sentences
+
+6. [Inference] Which of the following can be inferred from the passage?
+   A. The passage suggests that poisoning by CO is primarily a rhetorical device rather than an empirical constraint on models.
+   B. The passage claims that the best strategy is to average away adsorbate coverage effects, since variability is merely a measurement error.
+   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving surface microscopy.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when adsorbate coverage effects can mimic poisoning by CO.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | microkinetic modeling | Samples only part of the system |
+   | Signal | selectivity shifts | Can vary across epochs |
+   | Confounder | facet dependence | Changes the apparent slope |
+   Blank: The limitation for 'Confounder' is ________.
+   A. It makes support interactions irrelevant.
+   B. Changes the apparent slope
+   C. Can vary across epochs
+   D. It proves poisoning by CO is unique.
+
+8. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage argues that metal-surface catalytic conversion cannot be studied empirically because confounders like support interactions make data meaningless. It recommends replacing measurement with intuition and rejecting surface microscopy as unreliable. It concludes that debate persists because evidence never constrains theory.
+   B. The passage claims that platinum-catalyzed reaction pathways is settled because rate enhancement uniquely identifies the mechanism. It argues that support interactions is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using surface microscopy are unnecessary.
+   C. The passage examines heterogeneous catalysis on platinum surfaces and argues that rate enhancement is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how support interactions can shift the baseline, especially when evidence is drawn from laboratory single-crystal studies. Finally, it maintains that tests combining surface microscopy with boundary-condition checks are required to make claims about surface-mediated catalysis on pt robust.
+   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats surface microscopy as a historical curiosity and does not discuss rate enhancement or support interactions. It ends without any methodological implication.
+
+9. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: As a result, the most valuable observations are often taken during transitions, when competing mechanisms diverge most clearly.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+10. [Factual Information] According to the passage, why does the author emphasize instrument calibration?
+   A. Because structure-sensitive activity appears, the mechanism must be unique, so support interactions can be ignored as irrelevant noise.
+   B. Because support interactions co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   C. it prevents structure-sensitive activity from being treated as a self-interpreting fingerprint and forces tests that control support interactions
+   D. The discussion indicates that replication is redundant if temperature-programmed desorption produces a tight fit on one dataset.
+
+
+Answer Key
+----------
+1: A
+2: B
+3: A
+4: D
+5: D
+6: D
+7: B
+8: C
+9: B
+10: C
