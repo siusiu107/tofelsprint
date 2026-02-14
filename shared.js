@@ -724,12 +724,36 @@ async function detectListeningRoot(){
 
   function parseListeningAnswerKey(txt){
     const out = {};
-    const lines = txt.replace(/\r\n/g,'\n').split('\n');
-    for(const line of lines){
-      const m = line.match(/^Q(\d+)\s*:\s*([A-D])\s*-\s*(.*)$/);
+    const lines = String(txt||'').replace(/\r\n/g,'\n').split('\n');
+    for(let line of lines){
+      line = String(line||'').trim();
+      if(!line) continue;
+
+      // Accept: "Q1: A", "Q1: A - explanation", "1: A", "1) A", "Q4: D - ...", etc.
+      // Also accept dash variants: -, –, —
+      let m = line.match(/^(?:Q)?(\d+)\s*[:\.\)]\s*([A-D])(?:\s*[-–—]\s*(.*))?$/i);
       if(m){
-        out[Number(m[1])] = { letter: m[2], explain: (m[3]||'').trim() };
+        const num = Number(m[1]);
+        const letter = String(m[2]).toUpperCase();
+        const explain = (m[3]||'').trim();
+        out[num] = { letter, explain };
+        continue;
       }
+
+      // Fallback: find first "Q?num" + letter anywhere in line
+      m = line.match(/\bQ?(\d+)\b[^A-D]*\b([A-D])\b/i);
+      if(m){
+        const num = Number(m[1]);
+        const letter = String(m[2]).toUpperCase();
+        let explain = '';
+        const dash = line.match(/[-–—]\s*(.*)$/);
+        if(dash) explain = (dash[1]||'').trim();
+        out[num] = { letter, explain };
+      }
+    }
+    return out;
+  }
+
     }
     return out;
   }
