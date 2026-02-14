@@ -1,0 +1,27 @@
+{
+  "set": 80,
+  "format": "conversation",
+  "domain": "Public Health",
+  "subtopic": "Telemedicine workflow and privacy",
+  "mode": "conversation_problem",
+  "technical_terms": [
+    "superspreading",
+    "privacy",
+    "protocol",
+    "randomization",
+    "sensitivity",
+    "triage",
+    "signal artifact",
+    "confounding",
+    "selective pressure"
+  ],
+  "function_phrase": "Think of it this way:",
+  "main_point": "Student 1 asks about Telemedicine workflow and privacy but then shifts to housing form.",
+  "detail1": "Student 2 explains that missing documentation is treated differently from submitting late.",
+  "detail2": "The conversation includes a sudden topic shift after the initial problem is mostly addressed.",
+  "attitude": "Supportive, slightly casual; Student 2 gives practical advice.",
+  "organization_point": "Student 2 uses a tangent about a student misconception to justify keeping proof of submission.",
+  "connecting_point": "The step-by-step plan shows how to avoid the portal splitting a request into multiple submissions.",
+  "has_purpose_shift": true,
+  "has_self_correction": true
+}

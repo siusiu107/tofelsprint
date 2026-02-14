@@ -1,0 +1,12 @@
+Narrator: Listen to part of a lecture in a history class.
+Professor: Um, Imagine you’re looking at the same data twice and getting two different stories. Today we're talking about Paleography: dating manuscripts by handwriting. I'll toss around a couple terms—manuscript, chronology, watermark—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say manuscript, I guess, is that basically scribe, or is it a different mechanism?
+Professor: To put it bluntly, manuscript is the process, and scribe is usually a proxy or a measurement for it. People mix them up because the plot looks clean, but the causality is messy—No, wait, I meant watermark, not chronology.
+Professor: Kind of, Quick tangent: an ethics issue that complicates the neat textbook version. That’s why marginalia and ink composition matter—those are constraints, I guess, not trivia.
+Professor: They redo the protocol: randomize order, blind the analysis, add an internal standard. Only after that do they treat the shift in provenance as real rather than an artifact.
+Professor: Um, Let’s frame it as a case. A team collects samples, um, builds a pipeline, and expects a clean result. You know, Instead they see dependence on marginalia. First they blame noise, then they realize the sampling window biased the baseline.
+Professor: Okay—why does that matter for the model?
+Professor: …Okay, that's fine. We'll do it together.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: Uh, Good. You know, Look for an asymmetric prediction. Explanation A implies a change in codex even if chronology stays constant; Explanation B doesn’t. Design a small test around that hinge point.
+Professor: Anyway, kind of, to wrap up: Paleography: dating manuscripts by handwriting is less about one fact and more about reasoning under constraints. Watch the proxies, watch the instruments, and don’t fall in love with one pretty plot.

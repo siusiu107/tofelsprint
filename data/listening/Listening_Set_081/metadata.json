@@ -1,0 +1,27 @@
+{
+  "set": 81,
+  "format": "lecture",
+  "domain": "Anthropology",
+  "subtopic": "Kinship terms and cultural categorization",
+  "mode": "lecture_story",
+  "technical_terms": [
+    "classification",
+    "ritual",
+    "ethnography",
+    "descent",
+    "consanguineal",
+    "kinship",
+    "reciprocity",
+    "status",
+    "affinal"
+  ],
+  "function_phrase": "Think of it this way:",
+  "main_point": "The professor explains Kinship terms and cultural categorization and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes classification (a process) from descent (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving status and ritual.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a tools tangent to show real-world constraints.",
+  "connecting_point": "The example about controlling for kinship shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}

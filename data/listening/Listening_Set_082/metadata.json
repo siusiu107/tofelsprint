@@ -1,0 +1,27 @@
+{
+  "set": 82,
+  "format": "lecture",
+  "domain": "Economics",
+  "subtopic": "Network effects and platform lock-in",
+  "mode": "lecture_case",
+  "technical_terms": [
+    "price discrimination",
+    "network effect",
+    "marginal cost",
+    "elasticity",
+    "arbitrage",
+    "hedging",
+    "equilibrium",
+    "incentive",
+    "consumer surplus"
+  ],
+  "function_phrase": "The tricky part is",
+  "main_point": "The professor explains Network effects and platform lock-in and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes price discrimination (a process) from elasticity (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving incentive and network effect.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a lab mishap to show real-world constraints.",
+  "connecting_point": "The example about controlling for hedging shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}
