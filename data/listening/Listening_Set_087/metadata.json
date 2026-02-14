@@ -1,0 +1,27 @@
+{
+  "set": 87,
+  "format": "conversation",
+  "domain": "Physics",
+  "subtopic": "Neutrino oscillations and flavor states",
+  "mode": "conversation_problem",
+  "technical_terms": [
+    "oscillation",
+    "interference",
+    "resonance",
+    "superconductivity",
+    "tunneling",
+    "cross-section",
+    "waveform",
+    "phase",
+    "flavor state"
+  ],
+  "function_phrase": "Right, and that matters because",
+  "main_point": "Student 1 asks about Neutrino oscillations and flavor states but then shifts to professor wellbeing.",
+  "detail1": "Student 2 explains that missing documentation is treated differently from submitting late.",
+  "detail2": "The conversation includes a sudden topic shift after the initial problem is mostly addressed.",
+  "attitude": "Supportive, slightly casual; Student 2 gives practical advice.",
+  "organization_point": "Student 2 uses a tangent about a conference anecdote to justify keeping proof of submission.",
+  "connecting_point": "The step-by-step plan shows how to avoid the portal splitting a request into multiple submissions.",
+  "has_purpose_shift": true,
+  "has_self_correction": true
+}

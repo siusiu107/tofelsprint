@@ -1,0 +1,47 @@
+Q1. (Gist) What is the main purpose of the lecture?
+   A. The professor explains Sampling bias and dataset shift and how to interpret evidence when measurements can be misleading.
+   B. Announce changes to the course syllabus and grading policy.
+   C. Give step-by-step instructions for a laboratory procedure.
+   D. Compare two unrelated theories without choosing between them.
+
+Q2. (Detail) According to the speaker, what is one key detail about the situation?
+   A. The speaker says the method works only in a controlled lab environment.
+   B. The speaker says the topic is too new to study reliably.
+   C. The professor distinguishes dataset shift (a process) from p-value (a proxy/measurement).
+   D. The speaker says the results were identical in every trial.
+
+Q3. (Inference) What can be inferred about the speaker’s view?
+   A. The speaker thinks instruments always provide unbiased data.
+   B. Casual but analytical; he warns against over-trusting a neat correlation.
+   C. The speaker wants the class to memorize terms without explanation.
+   D. The speaker is annoyed and refuses to answer questions.
+
+Q4. (Function) What does the professor mean when he says, “Think of it this way:”?
+   A. To refuse to answer.
+   B. To complain about the course.
+   C. To guide how the listener should interpret the previous point.
+   D. To announce a schedule change.
+
+Q5. (Attitude) What is the speaker’s attitude toward the issue?
+   A. Confused and uncertain
+   B. Enthusiastic but careless
+   C. Indifferent
+   D. Casual but analytical; he warns against over-trusting a neat correlation.
+
+Q6. (Organization) Why does the speaker include the tangent?
+   A. To fill time because the talk ends early
+   B. To summarize the reading assignment
+   C. To criticize a student for interrupting
+   D. He adds a tangent about a tools tangent to show real-world constraints.
+
+Q7. (Connecting Content) What does the example illustrate?
+   A. The example about controlling for baseline shows how bias can flip an apparent pattern.
+   B. It changes the topic to a different unit of the course.
+   C. It lists definitions without explaining how they apply.
+   D. It shows historical background that is not connected to the concept.
+
+Q8. (Detail) According to the speaker, what is one key detail about the situation?
+   A. The speaker says the method works only in a controlled lab environment.
+   B. The speaker says the topic is too new to study reliably.
+   C. He suggests testing an asymmetric prediction involving false discovery rate and statistical power.
+   D. The speaker says the results were identical in every trial.
