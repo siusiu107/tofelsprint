@@ -1,0 +1,27 @@
+{
+  "set": 63,
+  "format": "lecture",
+  "domain": "Psychology",
+  "subtopic": "Sleep architecture: REM, NREM, and spindle activity",
+  "mode": "lecture_demo",
+  "technical_terms": [
+    "attentional blink",
+    "prediction error",
+    "baseline",
+    "sunk cost",
+    "placebo",
+    "reinforcement",
+    "priming",
+    "extinction",
+    "cognitive load"
+  ],
+  "function_phrase": "Quick tangent:",
+  "main_point": "The professor explains Sleep architecture: REM, NREM, and spindle activity and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes attentional blink (a process) from sunk cost (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving extinction and prediction error.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a conference anecdote to show real-world constraints.",
+  "connecting_point": "The example about controlling for reinforcement shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": true,
+  "has_self_correction": true
+}

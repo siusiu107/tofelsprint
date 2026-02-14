@@ -1,0 +1,10 @@
+Narrator: Listen to part of a lecture in a psychology class.
+Professor: You know, Imagine you’re looking at the same data twice and getting two different stories. Today we're talking about Reinforcement learning and prediction error. I'll toss around a couple terms—attentional blink, like, cognitive load, placebo—but I'll translate them as we go.
+Student 1: Sort of, Sorry—can I ask something? When you say attentional blink, is that basically sunk cost, or is it a different mechanism?
+Professor: Exactly. attentional blink is the process, and sunk cost is usually a proxy or a measurement for it. People mix them up because the plot looks clean, but the causality is messy.
+Professor: Quick tangent: a real-world constraint—weather, time, or money—that makes the ‘ideal’ method impossible. That’s why prediction error and working memory matter—those are constraints, not trivia.
+Professor: Students love to say, ‘But the correlation is strong.’ Sure. But if you intervene—change placebo directly—and nothing moves, then correlation wasn’t the whole story.
+Professor: Um, Now the debate. One camp treats attentional blink as the driver; another treats it as a side effect. Both can fit the same dataset because the assumptions differ. So the argument isn’t only about data—it’s about mechanism.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: Good. Look for an asymmetric prediction. Explanation A implies a change in baseline even if cognitive load stays constant; Explanation B doesn’t. Design a small test around that hinge point.
+Professor: Anyway, to wrap up: Reinforcement learning and prediction error is less about one fact and more about reasoning under constraints. Watch the proxies, watch the instruments, and don’t fall in love with one pretty plot.

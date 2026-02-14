@@ -1,0 +1,27 @@
+{
+  "set": 64,
+  "format": "lecture",
+  "domain": "Psychology",
+  "subtopic": "Reinforcement learning and prediction error",
+  "mode": "lecture_debate",
+  "technical_terms": [
+    "attentional blink",
+    "cognitive load",
+    "placebo",
+    "sunk cost",
+    "prediction error",
+    "working memory",
+    "reinforcement",
+    "baseline",
+    "extinction"
+  ],
+  "function_phrase": "Exactly.",
+  "main_point": "The professor explains Reinforcement learning and prediction error and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes attentional blink (a process) from sunk cost (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving baseline and cognitive load.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a real-world constraint to show real-world constraints.",
+  "connecting_point": "The example about controlling for working memory shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}

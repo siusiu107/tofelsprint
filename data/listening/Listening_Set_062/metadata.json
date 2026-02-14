@@ -1,0 +1,27 @@
+{
+  "set": 62,
+  "format": "lecture",
+  "domain": "Psychology",
+  "subtopic": "Stereotype threat and performance",
+  "mode": "lecture_case",
+  "technical_terms": [
+    "extinction",
+    "working memory",
+    "baseline",
+    "placebo",
+    "prediction error",
+    "cognitive load",
+    "attentional blink",
+    "sunk cost",
+    "reinforcement"
+  ],
+  "function_phrase": "Let’s test that intuition.",
+  "main_point": "The professor explains Stereotype threat and performance and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes extinction (a process) from placebo (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving sunk cost and working memory.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a conference anecdote to show real-world constraints.",
+  "connecting_point": "The example about controlling for cognitive load shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}
