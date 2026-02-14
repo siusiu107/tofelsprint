@@ -1,0 +1,27 @@
+{
+  "set": 70,
+  "format": "lecture",
+  "domain": "Environmental Science",
+  "subtopic": "Wildfire ecology and fuel moisture",
+  "mode": "lecture_case",
+  "technical_terms": [
+    "bioaccumulation",
+    "salinity",
+    "sequestration",
+    "intermittency",
+    "particulate",
+    "runoff",
+    "trophic level",
+    "hypoxia",
+    "eutrophication"
+  ],
+  "function_phrase": "Not quite.",
+  "main_point": "The professor explains Wildfire ecology and fuel moisture and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes bioaccumulation (a process) from intermittency (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving hypoxia and salinity.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a lab mishap to show real-world constraints.",
+  "connecting_point": "The example about controlling for runoff shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}

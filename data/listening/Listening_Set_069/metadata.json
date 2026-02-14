@@ -1,0 +1,27 @@
+{
+  "set": 69,
+  "format": "lecture",
+  "domain": "Environmental Science",
+  "subtopic": "Microplastics as vectors for pollutants",
+  "mode": "lecture_story",
+  "technical_terms": [
+    "runoff",
+    "bioaccumulation",
+    "intermittency",
+    "sequestration",
+    "albedo",
+    "eutrophication",
+    "particulate",
+    "hypoxia",
+    "trophic level"
+  ],
+  "function_phrase": "Before we go there,",
+  "main_point": "The professor explains Microplastics as vectors for pollutants and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes runoff (a process) from sequestration (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving hypoxia and bioaccumulation.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a historical aside to show real-world constraints.",
+  "connecting_point": "The example about controlling for eutrophication shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}

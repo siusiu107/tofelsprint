@@ -1,0 +1,12 @@
+Narrator: Listen to part of a lecture in a environmental science class.
+Professor: Let’s start with a mistake—one I made when I was a graduate student. Today we're talking about Carbon sequestration in peatlands. I'll toss around a couple terms—hypoxia, runoff, albedo—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say hypoxia, like, is that basically bioaccumulation, or is it a different mechanism?
+Professor: Right, I guess, and that matters because hypoxia is the process, and bioaccumulation is usually a proxy or a measurement for it. People mix them up because the plot looks clean, kind of, but the causality is messy—No, wait, I meant bioaccumulation, not eutrophication.
+Professor: Quick tangent: a conference hallway conversation that changed how researchers framed the problem. That’s why eutrophication and intermittency matter—those are constraints, I guess, not trivia.
+Professor: Sort of, Let’s frame it as a case. A team collects samples, builds a pipeline, and expects a clean result. Um, Instead they see dependence on eutrophication. First they blame noise, then they realize the sampling window biased the baseline.
+Professor: They redo the protocol: randomize order, blind the analysis, add an internal standard. Um, Only after that do they treat the shift in sequestration as real rather than an artifact.
+Professor: So… what’s the catch here?
+Professor: …Okay, that's fine. We'll do it together.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: Good. Uh, Look for an asymmetric prediction. Um, Explanation A implies a change in salinity even if runoff stays constant; Explanation B doesn’t. Design a small test around that hinge point.
+Professor: Anyway, to wrap up: Carbon sequestration in peatlands is less about one fact and more about reasoning under constraints. Watch the proxies, like, watch the instruments, and don’t fall in love with one pretty plot.
