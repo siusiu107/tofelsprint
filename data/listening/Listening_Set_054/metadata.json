@@ -1,0 +1,27 @@
+{
+  "set": 54,
+  "format": "lecture",
+  "domain": "Linguistics",
+  "subtopic": "Implicature and conversational maxims",
+  "mode": "lecture_debate",
+  "technical_terms": [
+    "corpus",
+    "pragmatics",
+    "semantic bleaching",
+    "implicature",
+    "prosody",
+    "elicitation",
+    "register",
+    "syntax",
+    "morphology"
+  ],
+  "function_phrase": "To put it bluntly,",
+  "main_point": "The professor explains Implicature and conversational maxims and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes corpus (a process) from implicature (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving syntax and pragmatics.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a student misconception to show real-world constraints.",
+  "connecting_point": "The example about controlling for elicitation shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": true,
+  "has_self_correction": true
+}

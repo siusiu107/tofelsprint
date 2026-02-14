@@ -1,0 +1,12 @@
+Narrator: Listen to part of a lecture in a linguistics class.
+Professor: Before we define anything, picture a real situation in the field—mud, wind, broken equipment, all of it. Today we're talking about Implicature and conversational maxims. I'll toss around a couple terms—corpus, um, pragmatics, semantic bleaching—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say corpus, is that basically implicature, or is it a different mechanism?
+Professor: T-To To— put it bluntly, corpus is the process, and implicature is usually a proxy or a measurement for it. People mix them up because the plot looks clean, but the causality is messy.
+Professor: I guess, Quick tangent: a common misconception students have every semester. That’s why prosody and elicitation matter—those are constraints, not trivia.
+Professor: Students love to say, sort of, ‘But the correlation is strong.’ Sure. But if you intervene—change semantic bleaching directly—and nothing moves, then correlation wasn’t the whole story.
+Professor: Now the debate. One camp treats corpus as the driver; another treats it as a side effect. Both can fit the same dataset because the assumptions differ. Kind of, So the argument isn’t only about data—it’s about mechanism.
+Professor: Okay—why does that matter for the model?
+Professor: …Okay, that's fine. We'll do it together.
+Student 2: So if we’re choosing between two explanations, uh, what’s the fastest way to falsify one without running a whole new study?
+Professor: G-Good Good—. Like, Look for an asymmetric prediction. Explanation A implies a change in syntax even if pragmatics stays constant; Explanation B doesn’t. Design a small test around that hinge point.
+Professor: Anyway, you know, to wrap up: Implicature and conversational maxims is less about one fact and more about reasoning under constraints. Watch the proxies, watch the instruments, and don’t fall in love with one pretty plot.

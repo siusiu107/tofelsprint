@@ -1,0 +1,10 @@
+Narrator: Listen to part of a lecture in a linguistics class.
+Professor: If this topic feels slippery, that’s because it lives right on the boundary between two ideas. Today we're talking about Code-switching and pragmatic cues. I'll toss around a couple terms—syntax, you know, implicature, register—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say syntax, like, is that basically pragmatics, or is it a different mechanism?
+Professor: Uh, Not quite. syntax is the process, you know, and pragmatics is usually a proxy or a measurement for it. People mix them up because the plot looks clean, but the causality is messy.
+Professor: Uh, Quick tangent: a grant requirement that quietly shaped the experiment design. That’s why elicitation and corpus matter—those are constraints, not trivia.
+Professor: For example, um, two samples can look identical until you use a higher-resolution method. The moment you control for corpus, kind of, the pattern flips, and that flip is basically the clue.
+Professor: Here’s the story version. Kind of, You notice an odd shift in morphology. Then you ask what could plausibly produce it: changes in implicature, hidden variation in phoneme, or bias from semantic bleaching. The trick is tracking which explanation would leave which fingerprint.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: Kind of, Good. Look for an asymmetric prediction. Explanation A implies a change in phoneme even if implicature stays constant; Explanation B doesn’t. Design a small test around that hinge point.
+Professor: Anyway, to wrap up: Code-switching and pragmatic cues is less about one fact and more about reasoning under constraints. Watch the proxies, watch the instruments, and don’t fall in love with one pretty plot.
