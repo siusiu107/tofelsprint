@@ -1,0 +1,149 @@
+Passage 0980: Antibiotic Stewardship and Resistance Evolution in Hospitals (Public Health)
+==========================================================================================
+(Word count: 659)
+
+Despite politically urgent timelines, the passage argues that researchers have treated
+shifts in resistance prevalence as the decisive sign of antibiotic stewardship and
+resistance evolution in hospitals. Although time-to-event survival analysis can make the
+pattern look unusually sharp, the passage argues that such confidence is conditional and
+must be earned by specifying assumptions. the resulting debate is less about data collection
+than about what the data are evidence for; this, in turn, forces analysts to articulate
+boundary conditions rather than rely on familiar narratives.
+
+Working with sparse records and limited controls on patient-mix confounding, the author
+treats the complication as diagnostic, so many early studies framed antibiotic stewardship
+and resistance evolution in hospitals as a single-mechanism phenomenon. Whereas those
+studies emphasized shifts in resistance prevalence as a signature invites a tidy story,
+later work asked whether the same signature survives when protocols and baselines differ
+forces boundary conditions to be stated. this shift mattered for how evidence from
+intensive-care units was generalized because local conditions can change which processes
+generate shifts in resistance prevalence, which is why replication matters. In this sense,
+antimicrobial resistance dynamics in clinical settings is best treated as a conditional
+inference rather than as a mere label.
+
+Using time-to-event survival analysis under stable conditions, the passage suggests one
+frequently cited case from intensive-care units appeared to support the direct-readout view.
+Granted that the original fit looked visually decisive, later, however, reanalysis showed
+that small shifts in patient-mix confounding altered the baseline enough to mute or mimic
+shifts in resistance prevalence. the passage treats this episode as diagnostic; this, in
+turn, illustrates why boundary conditions must be specified before generalization is
+attempted.
+
+The decisive factor is methodological humility; once that is stated, the passage presents as
+the lesson of antibiotic stewardship and resistance evolution in hospitals: inference is
+constrained by what competing models would also predict. [A] The passage returns to this
+point to clarify what counts as evidence. If one wishes to move from description to
+explanation is granted, then the same observation—shifts in resistance prevalence—must be
+paired with tests that change the conditions under which it appears. [B] The author uses the
+detour to show why a different metric would lead to a different conclusion. Whereas popular
+summaries treat shifts in resistance prevalence as an endpoint, the passage treats it as a
+starting point for sharper experimental or observational contrasts. [C] This is why the
+author repeatedly contrasts what is measured with what is inferred. [D] The passage signals
+that a tidy fit may hide degenerate explanations. In this sense, selection for resistant
+strains under antibiotic pressure is best treated as a conditional inference rather than as
+a mere label.
+
+Rarely has it been the case that the debate became empirically productive rather than merely
+rhetorical, at least before the field adopted tests that manipulate or stratify patient-mix
+confounding. by comparing cases in which time-to-event survival analysis constrains
+alternatives, researchers could ask which predictions survive out of sample, a move that is
+why the passage emphasizes comparative design over isolated exemplars. a single case can be
+dramatic; still, the author does not deny the value of striking examples, but warns against
+treating them as representative. In this sense, hospital stewardship interventions is best
+treated as a conditional inference rather than as a mere label.
+
+In the end, it becomes plausible that the passage concludes that the most informative
+evidence is often the evidence that forces competing assumptions into the open. by insisting
+that claims about antibiotic stewardship and resistance evolution in hospitals be
+conditional on stated priors, it turns disagreement into a tool for discovery, an outcome
+that clarifies why the same record can yield multiple stories without implying that any
+story is arbitrary. Despite the fact that the temptation to treat a tidy plot as a
+definitive answer is strong, the result is a framework in which shifts in resistance
+prevalence is interpreted through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. the price of coal in 1700
+   B. Antibiotic Stewardship and Resistance Evolution in Hospitals
+   C. shifts in resistance prevalence
+   D. antibiogram surveillance
+
+2. [Factual Information] The passage indicates that instrument calibration is important mainly because:
+   A. The discussion indicates that replication is redundant if contact-network reconstruction produces a tight fit on one dataset.
+   B. it prevents shifts in resistance prevalence from being treated as a self-interpreting fingerprint and forces tests that control infection-control compliance variation
+   C. The passage implies that contact-network reconstruction directly measures causes, meaning confounding from infection-control compliance variation is impossible.
+   D. The author suggests that disagreement disappears once shifts in resistance prevalence is detected, making model assumptions unnecessary.
+
+3. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [C] This is why the author repeatedly contrasts what is measured with what is inferred.
+   A. whole-genome sequencing as a device rather than as an analytic approach
+   B. treatment-failure rates specifically, taken as an unambiguous measurement
+   C. infection-control compliance variation alone, treated as the sole cause
+   D. the idea being discussed in the surrounding sentences
+
+4. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage argues that hospital stewardship interventions cannot be studied empirically because confounders like horizontal gene transfer make data meaningless. It recommends replacing measurement with intuition and rejecting whole-genome sequencing as unreliable. It concludes that debate persists because evidence never constrains theory.
+   B. The passage claims that selection for resistant strains under antibiotic pressure is settled because outbreak clusters in wards uniquely identifies the mechanism. It argues that horizontal gene transfer is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using whole-genome sequencing are unnecessary.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats whole-genome sequencing as a historical curiosity and does not discuss outbreak clusters in wards or horizontal gene transfer. It ends without any methodological implication.
+   D. The passage examines antibiotic stewardship and resistance evolution in hospitals and argues that outbreak clusters in wards is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how horizontal gene transfer can shift the baseline, especially when evidence is drawn from surgical wards. Finally, it maintains that tests combining whole-genome sequencing with boundary-condition checks are required to make claims about antimicrobial resistance dynamics in clinical settings robust.
+
+5. [Inference] The passage suggests which of the following?
+   A. The author treats intensive-care units as a special case and argues that no broader inference about antibiotic stewardship and resistance evolution in hospitals is possible.
+   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving whole-genome sequencing.
+   C. A convincing explanation should make distinct predictions under shared protocols, especially when diagnostic intensity changes can mimic treatment-failure rates.
+   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using whole-genome sequencing.
+
+6. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about antibiotic stewardship and resistance evolution in hospitals be conditional on stated priors, it turns disagreement into a tool for discovery, an outcome that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Aggregation guarantees that the same mechanism operates in surgical wards and everywhere else.
+   B. Incompatible cases should be ignored to keep an explanation based on contact-network reconstruction simple.
+   C. Some summaries seem consistent because they mix incompatible cases, not because outbreak clusters in wards uniquely identifies one mechanism.
+   D. Summaries are always reliable because averaging eliminates diagnostic intensity changes.
+
+7. [Rhetorical Purpose] By bringing up competing viewpoints, the author is trying to:
+   A. The author argues that interrupted time-series designs should be replaced by an unmodeled trend line because assumptions distort evidence.
+   B. The author suggests that the key synonym 'antimicrobial resistance dynamics in clinical settings' refers to a different field altogether, not to antibiotic stewardship and resistance evolution in hospitals.
+   C. The passage implies that surgical wards is chosen to avoid bias, so comparisons across settings are unnecessary.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where interrupted time-series designs constrains horizontal gene transfer
+
+8. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | interrupted time-series designs | Depends on modeling priors |
+   | Signal | treatment-failure rates | May be sensitive to preprocessing choices |
+   | Confounder | diagnostic intensity changes | Adds correlated noise |
+   Blank: The limitation for 'Confounder' is ________.
+   A. Adds correlated noise
+   B. Depends on modeling priors
+   C. It replaces contact-network reconstruction with intuition.
+   D. It makes infection-control compliance variation irrelevant.
+
+9. [Vocabulary] In the passage, the word **salient** in the sentence below is closest in meaning to:
+   Sentence: Whereas those studies emphasized shifts in resistance prevalence as a signature invites a tidy story, later work asked whether the same signature survives when protocols and baselines differ forces boundary conditions to be stated.
+   A. irrelevant to antibiotic stewardship and resistance evolution in hospitals, serving only as background detail
+   B. complete and final, so no further checks like time-to-event survival analysis are needed
+   C. important
+   D. unavoidable and uncontrollable because diagnostic intensity changes dominates all evidence
+
+10. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: In other words, the disagreement is not about whether the data exist, but about what the data are evidence for.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+
+Answer Key
+----------
+1: A
+2: B
+3: D
+4: D
+5: C
+6: C
+7: D
+8: A
+9: C
+10: A

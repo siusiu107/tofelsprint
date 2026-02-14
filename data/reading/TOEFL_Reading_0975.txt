@@ -1,0 +1,150 @@
+Passage 0975: Trophic Cascades Following Apex Predator Removal (Ecology)
+========================================================================
+(Word count: 772)
+
+Despite local variability, it becomes plausible that researchers have treated herbivore
+population release as the decisive sign of trophic cascades following apex predator removal.
+Granted that long-term population censuses can make the pattern look unusually sharp, the
+passage argues that such confidence is conditional and must be earned by specifying
+assumptions. the resulting debate is less about data collection than about what the data are
+evidence for, which forces analysts to admit that forces analysts to articulate boundary
+conditions rather than rely on familiar narratives. In replication attempts, one sees why
+the apparent consensus fractured when similar protocols were applied in settings unlike
+island ecosystems. the same summary statistic could be reproduced while the underlying
+mechanisms differed in part because human hunting pressure shifted the baseline in different
+directions across sites. the author therefore separates detection from interpretation, not
+because treating herbivore population release as a self-sufficient conclusion, but because
+the assumptions differ. In this sense, predator-driven trophic cascades is best treated as a
+conditional inference rather than as a mere label. Not until the field adopted tests that
+manipulate or stratify human hunting pressure did the debate became empirically productive
+rather than merely rhetorical. by comparing cases in which long-term population censuses
+constrains alternatives, researchers could ask which predictions survive out of sample,
+which is why the passage emphasizes comparative design over isolated exemplars. Granted that
+a single case can be dramatic, the author does not deny the value of striking examples, but
+warns against treating them as representative. Not until analysts began combining long-term
+population censuses with cross-site comparisons did claims about trophic cascades following
+apex predator removal stopped relying on a single figure and started relying on falsifiable
+predictions. the goal was to break degeneracies in which herbivore population release could
+be explained in more than one way because confounders like human hunting pressure often co-
+vary with the driver, which is why replication matters. as the author notes, transparency
+about priors became an empirical issue rather than a stylistic choice; this, in turn,
+changes whether two analyses are actually comparable. Hardly had analysts began combining
+long-term population censuses with cross-site comparisons occurred when claims about trophic
+cascades following apex predator removal stopped relying on a single figure and started
+relying on falsifiable predictions. [A] The discussion makes clear that measurement choices
+can masquerade as mechanism. the goal was to break degeneracies in which herbivore
+population release could be explained in more than one way because confounders like human
+hunting pressure often co-vary with the driver, which is why replication matters. [B] The
+discussion treats exceptions as informative, not as errors to be discarded. as the author
+notes, transparency about priors became an empirical issue rather than a stylistic choice, a
+move that changes whether two analyses are actually comparable. [C] The passage signals that
+a tidy fit may hide degenerate explanations. [D] The author treats this as a clue rather
+than as a nuisance. In this sense, top-down control in food webs is best treated as a
+conditional inference rather than as a mere label. Seldom, prior to the field adopted tests
+that manipulate or stratify human hunting pressure, did investigators concede that the
+debate became empirically productive rather than merely rhetorical. by comparing cases in
+which long-term population censuses constrains alternatives, researchers could ask which
+predictions survive out of sample, which is why the passage emphasizes comparative design
+over isolated exemplars. Even if a single case can be dramatic, the author does not deny the
+value of striking examples, but warns against treating them as representative. It is
+methodological humility, rather than a single headline feature, that the passage presents as
+the lesson of trophic cascades following apex predator removal: inference is constrained by
+what competing models would also predict. If one wishes to move from description to
+explanation holds, then the same observation—herbivore population release—must be paired
+with tests that change the conditions under which it appears. Whereas popular summaries
+treat herbivore population release as an endpoint in one account, the passage treats it as a
+starting point for sharper experimental or observational contrasts in another. In this
+sense, community restructuring after predator loss is best treated as a conditional
+inference rather than as a mere label. In the end, the passage argues that the passage
+concludes that the most informative evidence is often the evidence that forces competing
+assumptions into the open. by insisting that claims about trophic cascades following apex
+predator removal be conditional on stated priors, it turns disagreement into a tool for
+discovery, something that clarifies why the same record can yield multiple stories without
+implying that any story is arbitrary.
+
+Questions
+---------
+
+1. [Rhetorical Purpose] What function does the comparison with another theory perform in the argument?
+   A. motivate clearer assumptions and stronger tests, such as comparing cases where food-web modeling constrains seasonal resource pulses
+   B. The passage implies that temperate grasslands is chosen to avoid bias, so comparisons across settings are unnecessary.
+   C. The discussion suggests that seasonal resource pulses is the phenomenon itself, so controlling for it would remove the effect of interest.
+   D. The author suggests that the key synonym 'community restructuring after predator loss' refers to a different field altogether, not to trophic cascades following apex predator removal.
+
+2. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | before–after control–impact designs | Depends on modeling priors |
+   | Signal | altered nutrient cycling | Can vary across epochs |
+   | Confounder | immigration from surrounding habitats | Changes the apparent slope |
+   Blank: The limitation for 'Signal' is ________.
+   A. Can vary across epochs
+   B. It replaces food-web modeling with intuition.
+   C. It makes seasonal resource pulses irrelevant.
+   D. It proves herbivore population release is unique.
+
+3. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that top-down control in food webs is settled because vegetation regime shifts uniquely identifies the mechanism. It argues that behavioral risk effects is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using stable isotope analysis are unnecessary.
+   B. The passage argues that community restructuring after predator loss cannot be studied empirically because confounders like behavioral risk effects make data meaningless. It recommends replacing measurement with intuition and rejecting stable isotope analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats stable isotope analysis as a historical curiosity and does not discuss vegetation regime shifts or behavioral risk effects. It ends without any methodological implication.
+   D. The passage examines trophic cascades following apex predator removal and argues that vegetation regime shifts is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how behavioral risk effects can shift the baseline, especially when evidence is drawn from kelp forests. Finally, it maintains that tests combining stable isotope analysis with boundary-condition checks are required to make claims about predator-driven trophic cascades robust.
+
+4. [Factual Information] According to the passage, why does the author emphasize confounder control?
+   A. The passage implies that before–after control–impact designs directly measures causes, meaning confounding from human hunting pressure is impossible.
+   B. it prevents altered nutrient cycling from being treated as a self-interpreting fingerprint and forces tests that control human hunting pressure
+   C. Because human hunting pressure co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   D. Since altered nutrient cycling is observed in kelp forests, it must generalize to every setting, regardless of boundary conditions.
+
+5. [Vocabulary] In the passage, the word **idiosyncratic** in the sentence below is closest in meaning to:
+   Sentence: It is methodological humility, rather than a single headline feature, that the passage presents as the lesson of trophic cascades following apex predator removal: inference is constrained by what competing models would also predict.
+   A. unavoidable and uncontrollable because seasonal resource pulses dominates all evidence
+   B. irrelevant to trophic cascades following apex predator removal, serving only as background detail
+   C. peculiar to one case
+   D. complete and final, so no further checks like exclosure experiments are needed
+
+6. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about trophic cascades following apex predator removal be conditional on stated priors, it turns disagreement into a tool for discovery, something that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Some summaries seem consistent because they mix incompatible cases, not because changes in mesopredator abundance uniquely identifies one mechanism.
+   B. Summaries are always reliable because averaging eliminates immigration from surrounding habitats.
+   C. Aggregation guarantees that the same mechanism operates in kelp forests and everywhere else.
+   D. Incompatible cases should be ignored to keep an explanation based on exclosure experiments simple.
+
+7. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: Despite local variability, it becomes plausible that researchers have treated herbivore population release as the decisive sign of trophic cascades following apex predator removal.
+   A. vegetation regime shifts specifically, taken as an unambiguous measurement
+   B. immigration from surrounding habitats alone, treated as the sole cause
+   C. the idea being discussed in the surrounding sentences
+   D. stable isotope analysis as a device rather than as an analytic approach
+
+8. [Inference] The passage suggests which of the following?
+   A. The argument is that boundary conditions matter only for older studies, not for modern measurements using exclosure experiments.
+   B. The author treats kelp forests as a special case and argues that no broader inference about trophic cascades following apex predator removal is possible.
+   C. The passage claims that the best strategy is to average away seasonal resource pulses, since variability is merely a measurement error.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when seasonal resource pulses can mimic changes in mesopredator abundance.
+
+9. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. exclosure experiments
+   B. the price of coal in 1700
+   C. Trophic Cascades Following Apex Predator Removal
+   D. vegetation regime shifts
+
+10. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: That shift in framing changed which questions were even worth asking, since 'detection' and 'interpretation' were no longer treated as the same task.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+
+Answer Key
+----------
+1: A
+2: A
+3: D
+4: B
+5: C
+6: A
+7: C
+8: D
+9: B
+10: C

@@ -1,0 +1,156 @@
+Passage 0956: Minimum Wage Increases and Employment Elasticities (Economics)
+============================================================================
+(Word count: 739)
+
+In meta-analytic debates, researchers found that researchers have treated changes in hours
+worked as the decisive sign of minimum wage increases and employment elasticities.
+Admittedly, event-study designs can make the pattern look unusually sharp; nevertheless, the
+passage argues that such confidence is conditional and must be earned by specifying
+assumptions. the resulting debate is less about data collection than about what the data are
+evidence for; this, in turn, forces analysts to articulate boundary conditions rather than
+rely on familiar narratives.
+
+Using event-study designs under stable conditions, it is difficult to deny that one
+frequently cited case from border counties with policy discontinuities appeared to support
+the direct-readout view. Admittedly, the original fit looked visually decisive;
+nevertheless, later, however, reanalysis showed that small shifts in policy endogeneity
+altered the baseline enough to mute or mimic changes in hours worked. the passage treats
+this episode as diagnostic; this, in turn, illustrates why boundary conditions must be
+specified before generalization is attempted. In this sense, labor-demand responses to wage
+floors is best treated as a conditional inference rather than as a mere label.
+
+Only through the field adopted tests that manipulate or stratify policy endogeneity could
+one reasonably claim that the debate became empirically productive rather than merely
+rhetorical. by comparing cases in which event-study designs constrains alternatives,
+researchers could ask which predictions survive out of sample, something that is why the
+passage emphasizes comparative design over isolated exemplars. Though a single case can be
+dramatic, the author does not deny the value of striking examples, but warns against
+treating them as representative.
+
+Not the obvious explanation but methodological humility is what the passage presents as the
+lesson of minimum wage increases and employment elasticities: inference is constrained by
+what competing models would also predict. Were one wishes to move from description to
+explanation to fail, then the same observation—changes in hours worked—must be paired with
+tests that change the conditions under which it appears. Whereas popular summaries treat
+changes in hours worked as an endpoint is easy to measure, the passage treats it as a
+starting point for sharper experimental or observational contrasts is harder to interpret
+without assumptions. In this sense, employment effects of minimum wage policy is best
+treated as a conditional inference rather than as a mere label.
+
+Working with sparse records and limited controls on policy endogeneity, the argument
+reframes the issue so that many early studies framed minimum wage increases and employment
+elasticities as a single-mechanism phenomenon. [A] Later comparisons reveal why this
+matters. Whereas those studies emphasized changes in hours worked as a signature looks
+decisive, later work asked whether the same signature survives when protocols and baselines
+differ becomes more predictive under replication. [B] The passage emphasizes boundary
+conditions instead of treating them as afterthoughts. The passage argues that this shift
+mattered for how evidence from border counties with policy discontinuities was generalized
+because local conditions can change which processes generate changes in hours worked. [C]
+The author notes that generalization requires more than a single well-chosen case. [D] This
+point forces the reader to consider how confounders enter the pipeline.
+
+Never before analysts began combining event-study designs with cross-site comparisons was it
+defensible to argue that claims about minimum wage increases and employment elasticities
+stopped relying on a single figure and started relying on falsifiable predictions. the goal
+was to break degeneracies in which changes in hours worked could be explained in more than
+one way largely because confounders like policy endogeneity often co-vary with the driver.
+as the author notes, transparency about priors became an empirical issue rather than a
+stylistic choice, which forces analysts to admit that changes whether two analyses are
+actually comparable. In this sense, wage-floor induced labor-market adjustments is best
+treated as a conditional inference rather than as a mere label.
+
+In the end, one sees why the passage concludes that the most informative evidence is often
+the evidence that forces competing assumptions into the open. by insisting that claims about
+minimum wage increases and employment elasticities be conditional on stated priors, it turns
+disagreement into a tool for discovery, which is precisely why clarifies why the same record
+can yield multiple stories without implying that any story is arbitrary. Though the
+temptation to treat a tidy plot as a definitive answer is strong, the result is a framework
+in which changes in hours worked is interpreted through explicit boundary conditions rather
+than through habit.
+
+Questions
+---------
+
+1. [Inference] Which of the following can be inferred from the passage?
+   A. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving difference-in-differences estimation.
+   B. The passage claims that the best strategy is to average away regional cost-of-living heterogeneity, since variability is merely a measurement error.
+   C. A convincing explanation should make distinct predictions under shared protocols, especially when regional cost-of-living heterogeneity can mimic teen employment rate movement.
+   D. The passage suggests that teen employment rate movement is primarily a rhetorical device rather than an empirical constraint on models.
+
+2. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | administrative payroll data analysis | May not generalize across contexts |
+   | Signal | changes in hours worked | Can be contaminated by background variability |
+   | Confounder | regional cost-of-living heterogeneity | Shifts the baseline |
+   Blank: The limitation for 'Signal' is ________.
+   A. It makes measurement error in employment data irrelevant.
+   B. May not generalize across contexts
+   C. Can be contaminated by background variability
+   D. Shifts the baseline
+
+3. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The author notes that a single dramatic example can mislead if it is treated as representative rather than as diagnostic.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+4. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats synthetic control methods as a historical curiosity and does not discuss changes in hours worked or spillover effects across wage distribution. It ends without any methodological implication.
+   B. The passage argues that wage-floor induced labor-market adjustments cannot be studied empirically because confounders like spillover effects across wage distribution make data meaningless. It recommends replacing measurement with intuition and rejecting synthetic control methods as unreliable. It concludes that debate persists because evidence never constrains theory.
+   C. The passage examines minimum wage increases and employment elasticities and argues that changes in hours worked is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how spillover effects across wage distribution can shift the baseline, especially when evidence is drawn from retail and food-service sectors. Finally, it maintains that tests combining synthetic control methods with boundary-condition checks are required to make claims about labor-demand responses to wage floors robust.
+   D. The passage claims that employment effects of minimum wage policy is settled because changes in hours worked uniquely identifies the mechanism. It argues that spillover effects across wage distribution is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using synthetic control methods are unnecessary.
+
+5. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [D] This point forces the reader to consider how confounders enter the pipeline.
+   A. firm entry and exit shifts specifically, taken as an unambiguous measurement
+   B. the idea being discussed in the surrounding sentences
+   C. policy endogeneity alone, treated as the sole cause
+   D. administrative payroll data analysis as a device rather than as an analytic approach
+
+6. [Factual Information] The passage indicates that model assumptions is important mainly because:
+   A. The discussion indicates that replication is redundant if synthetic control methods produces a tight fit on one dataset.
+   B. it prevents changes in hours worked from being treated as a self-interpreting fingerprint and forces tests that control policy endogeneity
+   C. The passage implies that synthetic control methods directly measures causes, meaning confounding from policy endogeneity is impossible.
+   D. Because changes in hours worked appears, the mechanism must be unique, so policy endogeneity can be ignored as irrelevant noise.
+
+7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about minimum wage increases and employment elasticities be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Some summaries seem consistent because they mix incompatible cases, not because changes in hours worked uniquely identifies one mechanism.
+   B. Incompatible cases should be ignored to keep an explanation based on event-study designs simple.
+   C. Aggregation guarantees that the same mechanism operates in multi-state policy rollouts and everywhere else.
+   D. Summaries are always reliable because averaging eliminates measurement error in employment data.
+
+8. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. firm entry and exit shifts
+   B. synthetic control methods
+   C. Minimum Wage Increases and Employment Elasticities
+   D. a list of Olympic medal counts
+
+9. [Rhetorical Purpose] What is the author’s main reason for mentioning an alternative model?
+   A. The passage implies that large metropolitan labor markets is chosen to avoid bias, so comparisons across settings are unnecessary.
+   B. motivate clearer assumptions and stronger tests, such as comparing cases where event-study designs constrains measurement error in employment data
+   C. The passage treats wage compression patterns as a confounder and measurement error in employment data as the diagnostic signal that identifies the mechanism.
+   D. The discussion suggests that measurement error in employment data is the phenomenon itself, so controlling for it would remove the effect of interest.
+
+10. [Vocabulary] In the passage, the word **preliminary** in the sentence below is closest in meaning to:
+   Sentence: In this sense, employment effects of minimum wage policy is best treated as a conditional inference rather than as a mere label.
+   A. early
+   B. irrelevant to minimum wage increases and employment elasticities, serving only as background detail
+   C. unavoidable and uncontrollable because measurement error in employment data dominates all evidence
+   D. complete and final, so no further checks like meta-analysis of policy evaluations are needed
+
+
+Answer Key
+----------
+1: C
+2: C
+3: C
+4: C
+5: B
+6: B
+7: A
+8: D
+9: B
+10: A

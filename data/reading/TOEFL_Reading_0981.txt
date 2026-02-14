@@ -1,0 +1,154 @@
+Passage 0981: Network Diffusion of Innovations in Social Media (Sociology)
+==========================================================================
+(Word count: 740)
+
+Against that intuitive story, the passage argues that researchers have treated threshold
+adoption patterns as the decisive sign of network diffusion of innovations in social media.
+Granted that network analysis can make the pattern look unusually sharp, the passage argues
+that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for,
+which forces analysts to admit that forces analysts to articulate boundary conditions rather
+than rely on familiar narratives.
+
+Rarely, unless analysts began combining network analysis with cross-site comparisons, does
+one see why claims about network diffusion of innovations in social media stopped relying on
+a single figure and started relying on falsifiable predictions. [A] That point is not
+rhetorical; it controls which prediction follows. the goal was to break degeneracies in
+which threshold adoption patterns could be explained in more than one way in part because
+confounders like measurement error in exposure often co-vary with the driver. [B] The author
+treats this as a clue rather than as a nuisance. as the author notes, transparency about
+priors became an empirical issue rather than a stylistic choice, a move that changes whether
+two analyses are actually comparable. [C] This is why the author repeatedly contrasts what
+is measured with what is inferred. [D] At first glance, the pattern seems obvious, yet the
+author frames it as conditional. In this sense, contagion-like spread of new behaviors is
+best treated as a conditional inference rather than as a mere label.
+
+the first model can fit one dataset extremely well; still, the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how measurement error
+in exposure can shift baselines, altering whether threshold adoption patterns is even
+comparable across cases, which helps explain why means that a good fit is not the same as a
+good explanation. If measurement error in exposure is changed while the nominal driver
+remains constant holds, one should expect different outcomes when conditions are perturbed.
+
+The decisive factor is methodological humility; once that is stated, the passage presents as
+the lesson of network diffusion of innovations in social media: inference is constrained by
+what competing models would also predict. Were one wishes to move from description to
+explanation to fail, then the same observation—threshold adoption patterns—must be paired
+with tests that change the conditions under which it appears. Whereas popular summaries
+treat threshold adoption patterns as an endpoint looks decisive, the passage treats it as a
+starting point for sharper experimental or observational contrasts becomes more predictive
+under replication. In this sense, peer-to-peer adoption cascades in networks is best treated
+as a conditional inference rather than as a mere label.
+
+It is the apparent regularity of threshold adoption patterns, rather than a single headline
+feature, that drives the first interpretation: threshold adoption patterns is treated as a
+direct readout of mechanism. If threshold adoption patterns is uniquely produced by one
+causal pathway holds, then observations from workplace communication graphs would be
+transferable, and disagreement would be largely technical. Rather than the caveat that
+measurement error in exposure might reproduce the same pattern, the passage emphasizes that
+the literature is full of such claims.
+
+Using network analysis under stable conditions, the passage suggests one frequently cited
+case from workplace communication graphs appeared to support the direct-readout view. To be
+sure, the original fit looked visually decisive, yet later, however, reanalysis showed that
+small shifts in measurement error in exposure altered the baseline enough to mute or mimic
+threshold adoption patterns. the passage treats this episode as diagnostic, which helps
+explain why illustrates why boundary conditions must be specified before generalization is
+attempted. In this sense, innovation diffusion through social graphs is best treated as a
+conditional inference rather than as a mere label.
+
+In the end, the analysis suggests the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about network diffusion of innovations in social media be conditional on stated
+priors, it turns disagreement into a tool for discovery, something that clarifies why the
+same record can yield multiple stories without implying that any story is arbitrary.
+Admittedly, the temptation to treat a tidy plot as a definitive answer is strong;
+nevertheless, the result is a framework in which threshold adoption patterns is interpreted
+through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about network diffusion of innovations in social media be conditional on stated priors, it turns disagreement into a tool for discovery, something that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on A/B platform experiments simple.
+   B. Aggregation guarantees that the same mechanism operates in cross-platform ecosystems and everywhere else.
+   C. Summaries are always reliable because averaging eliminates measurement error in exposure.
+   D. Some summaries seem consistent because they mix incompatible cases, not because cascade size distributions uniquely identifies one mechanism.
+
+2. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [C] This is why the author repeatedly contrasts what is measured with what is inferred.
+   A. network analysis as a device rather than as an analytic approach
+   B. homophily versus influence diagnostics specifically, taken as an unambiguous measurement
+   C. the idea being discussed in the surrounding sentences
+   D. endogeneity of peer selection alone, treated as the sole cause
+
+3. [Factual Information] According to the passage, why does the author emphasize instrument calibration?
+   A. The discussion indicates that replication is redundant if trace-data analysis produces a tight fit on one dataset.
+   B. Since algorithmic amplification signatures is observed in cross-platform ecosystems, it must generalize to every setting, regardless of boundary conditions.
+   C. The author suggests that disagreement disappears once algorithmic amplification signatures is detected, making model assumptions unnecessary.
+   D. it prevents algorithmic amplification signatures from being treated as a self-interpreting fingerprint and forces tests that control platform governance changes
+
+4. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: This is why the author dwells on assumptions: without them, two teams can analyze the same record and still disagree honestly.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+5. [Vocabulary] In the passage, the word **persistent** in the sentence below is closest in meaning to:
+   Sentence: the passage treats this episode as diagnostic, which helps explain why illustrates why boundary conditions must be specified before generalization is attempted.
+   A. complete and final, so no further checks like agent-based modeling are needed
+   B. unavoidable and uncontrollable because endogeneity of peer selection dominates all evidence
+   C. irrelevant to network diffusion of innovations in social media, serving only as background detail
+   D. lasting
+
+6. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that peer-to-peer adoption cascades in networks is settled because threshold adoption patterns uniquely identifies the mechanism. It argues that endogeneity of peer selection is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using A/B platform experiments are unnecessary.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats A/B platform experiments as a historical curiosity and does not discuss threshold adoption patterns or endogeneity of peer selection. It ends without any methodological implication.
+   C. The passage examines network diffusion of innovations in social media and argues that threshold adoption patterns is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how endogeneity of peer selection can shift the baseline, especially when evidence is drawn from online communities. Finally, it maintains that tests combining A/B platform experiments with boundary-condition checks are required to make claims about contagion-like spread of new behaviors robust.
+   D. The passage argues that innovation diffusion through social graphs cannot be studied empirically because confounders like endogeneity of peer selection make data meaningless. It recommends replacing measurement with intuition and rejecting A/B platform experiments as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | causal inference with instrumental variables | Can introduce systematic bias |
+   | Signal | threshold adoption patterns | Can be contaminated by background variability |
+   | Confounder | platform governance changes | Changes the apparent slope |
+   Blank: The limitation for 'Method' is ________.
+   A. Can introduce systematic bias
+   B. It proves algorithmic amplification signatures is unique.
+   C. It replaces trace-data analysis with intuition.
+   D. It makes measurement error in exposure irrelevant.
+
+8. [Rhetorical Purpose] What function does the comparison with another theory perform in the argument?
+   A. motivate clearer assumptions and stronger tests, such as comparing cases where agent-based modeling constrains endogeneity of peer selection
+   B. The author suggests that the key synonym 'innovation diffusion through social graphs' refers to a different field altogether, not to network diffusion of innovations in social media.
+   C. The passage treats cascade size distributions as a confounder and endogeneity of peer selection as the diagnostic signal that identifies the mechanism.
+   D. The discussion suggests that endogeneity of peer selection is the phenomenon itself, so controlling for it would remove the effect of interest.
+
+9. [Inference] Which of the following can be inferred from the passage?
+   A. The passage claims that the best strategy is to average away status signaling incentives, since variability is merely a measurement error.
+   B. A convincing explanation should make distinct predictions under shared protocols, especially when status signaling incentives can mimic algorithmic amplification signatures.
+   C. The passage suggests that algorithmic amplification signatures is primarily a rhetorical device rather than an empirical constraint on models.
+   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving network analysis.
+
+10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. A/B platform experiments
+   B. the length of the Nile in miles
+   C. cascade size distributions
+   D. Network Diffusion of Innovations in Social Media
+
+
+Answer Key
+----------
+1: D
+2: C
+3: D
+4: C
+5: D
+6: C
+7: A
+8: A
+9: B
+10: B
