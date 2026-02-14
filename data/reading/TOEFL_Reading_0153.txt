@@ -1,0 +1,152 @@
+Passage 0153: Exoplanet Atmospheric Characterization via Transmission Spectroscopy (Astronomy)
+==============================================================================================
+(Word count: 800)
+
+Under multi-epoch monitoring, the passage argues that researchers have treated CO2 and CO
+signatures as the decisive sign of exoplanet atmospheric characterization via transmission
+spectroscopy. Even if high-dispersion cross-correlation spectroscopy can make the pattern
+look unusually sharp, the passage argues that such confidence is conditional and must be
+earned by specifying assumptions. the resulting debate is less about data collection than
+about what the data are evidence for, something that forces analysts to articulate boundary
+conditions rather than rely on familiar narratives. Using high-dispersion cross-correlation
+spectroscopy under stable conditions, it is difficult to deny that one frequently cited case
+from temperate rocky candidates in compact systems appeared to support the direct-readout
+view. To be sure, the original fit looked visually decisive, yet later, however, reanalysis
+showed that small shifts in pressure–temperature profile degeneracy altered the baseline
+enough to mute or mimic CO2 and CO signatures. the passage treats this episode as
+diagnostic, something that illustrates why boundary conditions must be specified before
+generalization is attempted. In this sense, transit-spectrum analysis of exoplanet
+atmospheres is best treated as a conditional inference rather than as a mere label. Though
+the first model can fit one dataset extremely well, the passage insists that uniqueness is
+precisely what must be shown, not assumed. [A] The passage returns to this point to clarify
+what counts as evidence. it highlights how pressure–temperature profile degeneracy can shift
+baselines, altering whether CO2 and CO signatures is even comparable across cases, something
+that means that a good fit is not the same as a good explanation. [B] This is why the author
+repeatedly contrasts what is measured with what is inferred. Should pressure–temperature
+profile degeneracy is changed while the nominal driver remains constant be true, one should
+expect different outcomes when conditions are perturbed. [C] The passage signals that a tidy
+fit may hide degenerate explanations. [D] The author shifts from narrative to diagnosis,
+focusing on what the data cannot rule out. Using high-dispersion cross-correlation
+spectroscopy under stable conditions, the key question becomes whether one frequently cited
+case from temperate rocky candidates in compact systems appeared to support the direct-
+readout view. Despite the fact that the original fit looked visually decisive, later,
+however, reanalysis showed that small shifts in pressure–temperature profile degeneracy
+altered the baseline enough to mute or mimic CO2 and CO signatures. the passage treats this
+episode as diagnostic, which illustrates why boundary conditions must be specified before
+generalization is attempted. It is methodological humility that the passage presents as the
+lesson of exoplanet atmospheric characterization via transmission spectroscopy: inference is
+constrained by what competing models would also predict. Should one wishes to move from
+description to explanation be true, then the same observation—CO2 and CO signatures—must be
+paired with tests that change the conditions under which it appears. Whereas popular
+summaries treat CO2 and CO signatures as an endpoint in one account, the passage treats it
+as a starting point for sharper experimental or observational contrasts in another. In this
+sense, spectroscopic probing of a planet’s gaseous envelope is best treated as a conditional
+inference rather than as a mere label. Not until analysts began combining high-dispersion
+cross-correlation spectroscopy with cross-site comparisons was it clear that claims about
+exoplanet atmospheric characterization via transmission spectroscopy stopped relying on a
+single figure and started relying on falsifiable predictions. The passage argues that the
+goal was to break degeneracies in which CO2 and CO signatures could be explained in more
+than one way because confounders like pressure–temperature profile degeneracy often co-vary
+with the driver. as the author notes, transparency about priors became an empirical issue
+rather than a stylistic choice, a move that changes whether two analyses are actually
+comparable. The decisive factor is the apparent regularity of CO2 and CO signatures; once
+that is stated, drives the first interpretation: CO2 and CO signatures is treated as a
+direct readout of mechanism. Were CO2 and CO signatures is uniquely produced by one causal
+pathway to fail, then observations from temperate rocky candidates in compact systems would
+be transferable, and disagreement would be largely technical. Rather than the caveat that
+pressure–temperature profile degeneracy might reproduce the same pattern, the passage
+emphasizes that the literature is full of such claims. In this sense, bayesian retrieval of
+atmospheric composition from transits is best treated as a conditional inference rather than
+as a mere label. In the end, the analysis suggests the passage concludes that the most
+informative evidence is often the evidence that forces competing assumptions into the open.
+by insisting that claims about exoplanet atmospheric characterization via transmission
+spectroscopy be conditional on stated priors, it turns disagreement into a tool for
+discovery, which is precisely why clarifies why the same record can yield multiple stories
+without implying that any story is arbitrary.
+
+Questions
+---------
+
+1. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats high-dispersion cross-correlation spectroscopy as a historical curiosity and does not discuss Rayleigh-scattering slopes or pressure–temperature profile degeneracy. It ends without any methodological implication.
+   B. The passage claims that spectroscopic probing of a planet’s gaseous envelope is settled because Rayleigh-scattering slopes uniquely identifies the mechanism. It argues that pressure–temperature profile degeneracy is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using high-dispersion cross-correlation spectroscopy are unnecessary.
+   C. The passage argues that bayesian retrieval of atmospheric composition from transits cannot be studied empirically because confounders like pressure–temperature profile degeneracy make data meaningless. It recommends replacing measurement with intuition and rejecting high-dispersion cross-correlation spectroscopy as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage examines exoplanet atmospheric characterization via transmission spectroscopy and argues that Rayleigh-scattering slopes is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how pressure–temperature profile degeneracy can shift the baseline, especially when evidence is drawn from temperate rocky candidates in compact systems. Finally, it maintains that tests combining high-dispersion cross-correlation spectroscopy with boundary-condition checks are required to make claims about transit-spectrum analysis of exoplanet atmospheres robust.
+
+2. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. transmission spectroscopy
+   B. CO2 and CO signatures
+   C. the price of coal in 1700
+   D. Exoplanet Atmospheric Characterization via Transmission Spectroscopy
+
+3. [Inference] The passage suggests which of the following?
+   A. The passage claims that the best strategy is to average away chemical disequilibrium, since variability is merely a measurement error.
+   B. The passage suggests that sodium and potassium lines is primarily a rhetorical device rather than an empirical constraint on models.
+   C. The argument is that boundary conditions matter only for older studies, not for modern measurements using spectral injection–recovery tests.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when chemical disequilibrium can mimic sodium and potassium lines.
+
+4. [Rhetorical Purpose] Why does the author discuss competing theories?
+   A. The passage treats CO2 and CO signatures as a confounder and chemical disequilibrium as the diagnostic signal that identifies the mechanism.
+   B. motivate clearer assumptions and stronger tests, such as comparing cases where spectral injection–recovery tests constrains chemical disequilibrium
+   C. The passage implies that warm Neptunes like GJ 436b is chosen to avoid bias, so comparisons across settings are unnecessary.
+   D. The discussion suggests that chemical disequilibrium is the phenomenon itself, so controlling for it would remove the effect of interest.
+
+5. [Factual Information] The passage indicates that instrument calibration is important mainly because:
+   A. The passage implies that transmission spectroscopy directly measures causes, meaning confounding from instrumental systematics is impossible.
+   B. it prevents Rayleigh-scattering slopes from being treated as a self-interpreting fingerprint and forces tests that control instrumental systematics
+   C. Because instrumental systematics co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   D. The author suggests that disagreement disappears once Rayleigh-scattering slopes is detected, making model assumptions unnecessary.
+
+6. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: That shift in framing changed which questions were even worth asking, since 'detection' and 'interpretation' were no longer treated as the same task.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | transmission spectroscopy | Requires careful calibration |
+   | Signal | water-vapor absorption bands | May be muted by other processes |
+   | Confounder | stellar activity contamination | Adds correlated noise |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves water-vapor absorption bands is unique.
+   B. Adds correlated noise
+   C. May be muted by other processes
+   D. It replaces transmission spectroscopy with intuition.
+
+8. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [B] This is why the author repeatedly contrasts what is measured with what is inferred.
+   A. wavelength-dependent muting by clouds and hazes specifically, taken as an unambiguous measurement
+   B. spectral injection–recovery tests as a device rather than as an analytic approach
+   C. the idea being discussed in the surrounding sentences
+   D. limb-darkening uncertainty alone, treated as the sole cause
+
+9. [Vocabulary] In the passage, the word **robust** in the sentence below is closest in meaning to:
+   Sentence: Should one wishes to move from description to explanation be true, then the same observation—CO2 and CO signatures—must be paired with tests that change the conditions under which it appears.
+   A. strong and reliable
+   B. complete and final, so no further checks like high-dispersion cross-correlation spectroscopy are needed
+   C. unavoidable and uncontrollable because instrumental systematics dominates all evidence
+   D. irrelevant to exoplanet atmospheric characterization via transmission spectroscopy, serving only as background detail
+
+10. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about exoplanet atmospheric characterization via transmission spectroscopy be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Some summaries seem consistent because they mix incompatible cases, not because sodium and potassium lines uniquely identifies one mechanism.
+   B. Incompatible cases should be ignored to keep an explanation based on secondary-eclipse spectroscopy simple.
+   C. Summaries are always reliable because averaging eliminates limb-darkening uncertainty.
+   D. Aggregation guarantees that the same mechanism operates in warm Neptunes like GJ 436b and everywhere else.
+
+
+Answer Key
+----------
+1: D
+2: C
+3: D
+4: B
+5: B
+6: A
+7: C
+8: C
+9: A
+10: A

@@ -1,0 +1,159 @@
+Passage 0117: Heterogeneous Catalysis on Platinum Surfaces (Chemistry)
+======================================================================
+(Word count: 766)
+
+Despite elegant mechanistic cartoons, it becomes plausible that researchers have treated
+rate enhancement as the decisive sign of heterogeneous catalysis on platinum surfaces. Even
+if microkinetic modeling can make the pattern look unusually sharp, the passage argues that
+such confidence is conditional and must be earned by specifying assumptions. the resulting
+debate is less about data collection than about what the data are evidence for, which forces
+analysts to articulate boundary conditions rather than rely on familiar narratives.
+
+Using microkinetic modeling under stable conditions, one frequently cited case from
+industrial hydrogenation reactors appeared to support the direct-readout view. While it is
+true that the original fit looked visually decisive, later, however, reanalysis showed that
+small shifts in support interactions altered the baseline enough to mute or mimic rate
+enhancement. the passage treats this episode as diagnostic, which illustrates why boundary
+conditions must be specified before generalization is attempted. In this sense, surface-
+mediated catalysis on pt is best treated as a conditional inference rather than as a mere
+label.
+
+Seldom, prior to analysts began combining microkinetic modeling with cross-site comparisons,
+did investigators concede that claims about heterogeneous catalysis on platinum surfaces
+stopped relying on a single figure and started relying on falsifiable predictions. the goal
+was to break degeneracies in which rate enhancement could be explained in more than one way
+because confounders like support interactions often co-vary with the driver, which is why
+replication matters. as the author notes, transparency about priors became an empirical
+issue rather than a stylistic choice, which forces analysts to admit that changes whether
+two analyses are actually comparable.
+
+The point is not X but the apparent regularity of rate enhancement; in that framing, drives
+the first interpretation: rate enhancement is treated as a direct readout of mechanism. [A]
+This is presented not as a loophole, but as a disciplined way to avoid overclaiming. If rate
+enhancement is uniquely produced by one causal pathway holds, then observations from
+industrial hydrogenation reactors would be transferable, and disagreement would be largely
+technical. [B] The discussion treats exceptions as informative, not as errors to be
+discarded. Not the caveat that support interactions might reproduce the same pattern, but
+the literature is full of such claims. [C] Later comparisons reveal why this matters. [D]
+The author notes that generalization requires more than a single well-chosen case.
+
+Using microkinetic modeling under stable conditions, the key question becomes whether one
+frequently cited case from industrial hydrogenation reactors appeared to support the direct-
+readout view. Even if the original fit looked visually decisive, later, however, reanalysis
+showed that small shifts in support interactions altered the baseline enough to mute or
+mimic rate enhancement. the passage treats this episode as diagnostic, something that
+illustrates why boundary conditions must be specified before generalization is attempted. In
+this sense, platinum-catalyzed reaction pathways is best treated as a conditional inference
+rather than as a mere label.
+
+the first model can fit one dataset extremely well; still, the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how support
+interactions can shift baselines, altering whether rate enhancement is even comparable
+across cases, which is precisely why means that a good fit is not the same as a good
+explanation. If support interactions is changed while the nominal driver remains constant is
+granted, one should expect different outcomes when conditions are perturbed.
+
+What matters most is methodological humility, which is why the passage presents as the
+lesson of heterogeneous catalysis on platinum surfaces: inference is constrained by what
+competing models would also predict. If one wishes to move from description to explanation
+is granted, then the same observation—rate enhancement—must be paired with tests that change
+the conditions under which it appears. Whereas popular summaries treat rate enhancement as
+an endpoint is easy to measure, the passage treats it as a starting point for sharper
+experimental or observational contrasts is harder to interpret without assumptions. In this
+sense, metal-surface catalytic conversion is best treated as a conditional inference rather
+than as a mere label.
+
+In the end, the passage concludes that the most informative evidence is often the evidence
+that forces competing assumptions into the open. by insisting that claims about
+heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns
+disagreement into a tool for discovery, which clarifies why the same record can yield
+multiple stories without implying that any story is arbitrary. Although the temptation to
+treat a tidy plot as a definitive answer is strong, the result is a framework in which rate
+enhancement is interpreted through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Factual Information] The passage indicates that comparability across cases is important mainly because:
+   A. Because selectivity shifts appears, the mechanism must be unique, so facet dependence can be ignored as irrelevant noise.
+   B. it prevents selectivity shifts from being treated as a self-interpreting fingerprint and forces tests that control facet dependence
+   C. The passage implies that temperature-programmed desorption directly measures causes, meaning confounding from facet dependence is impossible.
+   D. The author suggests that disagreement disappears once selectivity shifts is detected, making model assumptions unnecessary.
+
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage examines heterogeneous catalysis on platinum surfaces and argues that structure-sensitive activity is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how catalyst deactivation can shift the baseline, especially when evidence is drawn from laboratory single-crystal studies. Finally, it maintains that tests combining in situ spectroscopy with boundary-condition checks are required to make claims about surface-mediated catalysis on pt robust.
+   B. The passage claims that platinum-catalyzed reaction pathways is settled because structure-sensitive activity uniquely identifies the mechanism. It argues that catalyst deactivation is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using in situ spectroscopy are unnecessary.
+   C. The passage argues that metal-surface catalytic conversion cannot be studied empirically because confounders like catalyst deactivation make data meaningless. It recommends replacing measurement with intuition and rejecting in situ spectroscopy as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats in situ spectroscopy as a historical curiosity and does not discuss structure-sensitive activity or catalyst deactivation. It ends without any methodological implication.
+
+3. [Inference] Which of the following can be inferred from the passage?
+   A. The passage suggests that rate enhancement is primarily a rhetorical device rather than an empirical constraint on models.
+   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving in situ spectroscopy.
+   C. The author treats laboratory single-crystal studies as a special case and argues that no broader inference about heterogeneous catalysis on platinum surfaces is possible.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when support interactions can mimic rate enhancement.
+
+4. [Rhetorical Purpose] Why does the author discuss competing theories?
+   A. The author argues that DFT surface modeling should be replaced by an unmodeled trend line because assumptions distort evidence.
+   B. The passage implies that automotive catalytic converters is chosen to avoid bias, so comparisons across settings are unnecessary.
+   C. The author suggests that the key synonym 'Pt-active-site chemistry' refers to a different field altogether, not to heterogeneous catalysis on platinum surfaces.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where DFT surface modeling constrains support interactions
+
+5. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | DFT surface modeling | Can introduce systematic bias |
+   | Signal | rate enhancement | Can vary across epochs |
+   | Confounder | catalyst deactivation | Shifts the baseline |
+   Blank: The limitation for 'Signal' is ________.
+   A. It makes facet dependence irrelevant.
+   B. Can introduce systematic bias
+   C. Can vary across epochs
+   D. It proves selectivity shifts is unique.
+
+6. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns disagreement into a tool for discovery, which clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on microkinetic modeling simple.
+   B. Some summaries seem consistent because they mix incompatible cases, not because structure-sensitive activity uniquely identifies one mechanism.
+   C. Summaries are always reliable because averaging eliminates facet dependence.
+   D. Aggregation guarantees that the same mechanism operates in laboratory single-crystal studies and everywhere else.
+
+7. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: In short, the passage treats methodological humility as a strength, not as an admission of ignorance.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+8. [Vocabulary] In the passage, the word **tentative** in the sentence below is closest in meaning to:
+   Sentence: the first model can fit one dataset extremely well; still, the passage insists that uniqueness is precisely what must be shown, not assumed.
+   A. complete and final, so no further checks like microkinetic modeling are needed
+   B. irrelevant to heterogeneous catalysis on platinum surfaces, serving only as background detail
+   C. unavoidable and uncontrollable because facet dependence dominates all evidence
+   D. not certain
+
+9. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. in situ spectroscopy
+   B. selectivity shifts
+   C. a recipe for bread fermentation
+   D. Heterogeneous Catalysis on Platinum Surfaces
+
+10. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This is presented not as a loophole, but as a disciplined way to avoid overclaiming.
+   A. the idea being discussed in the surrounding sentences
+   B. structure-sensitive activity specifically, taken as an unambiguous measurement
+   C. in situ spectroscopy as a device rather than as an analytic approach
+   D. support interactions alone, treated as the sole cause
+
+
+Answer Key
+----------
+1: B
+2: A
+3: D
+4: D
+5: C
+6: B
+7: D
+8: D
+9: C
+10: A

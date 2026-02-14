@@ -1,0 +1,157 @@
+Passage 0188: Network Diffusion of Innovations in Social Media (Sociology)
+==========================================================================
+(Word count: 762)
+
+Against that intuitive story, it becomes plausible that researchers have treated cascade
+size distributions as the decisive sign of network diffusion of innovations in social media.
+While it is true that A/B platform experiments can make the pattern look unusually sharp,
+the passage argues that such confidence is conditional and must be earned by specifying
+assumptions. the resulting debate is less about data collection than about what the data are
+evidence for; this, in turn, forces analysts to articulate boundary conditions rather than
+rely on familiar narratives.
+
+Working with sparse records and limited controls on platform governance changes, the
+argument reframes the issue so that many early studies framed network diffusion of
+innovations in social media as a single-mechanism phenomenon. Whereas those studies
+emphasized cascade size distributions as a signature looks decisive, later work asked
+whether the same signature survives when protocols and baselines differ becomes more
+predictive under replication. this shift mattered for how evidence from university networks
+was generalized because local conditions can change which processes generate cascade size
+distributions. In this sense, contagion-like spread of new behaviors is best treated as a
+conditional inference rather than as a mere label.
+
+Hardly had analysts began combining A/B platform experiments with cross-site comparisons
+occurred when claims about network diffusion of innovations in social media stopped relying
+on a single figure and started relying on falsifiable predictions. the goal was to break
+degeneracies in which cascade size distributions could be explained in more than one way
+largely because confounders like platform governance changes often co-vary with the driver.
+as the author notes, transparency about priors became an empirical issue rather than a
+stylistic choice; this, in turn, changes whether two analyses are actually comparable.
+
+Rarely has it been the case that the debate became empirically productive rather than merely
+rhetorical, at least before the field adopted tests that manipulate or stratify platform
+governance changes. [A] This point forces the reader to consider how confounders enter the
+pipeline. by comparing cases in which A/B platform experiments constrains alternatives,
+researchers could ask which predictions survive out of sample, which forces analysts to
+admit that is why the passage emphasizes comparative design over isolated exemplars. [B]
+This is presented not as a loophole, but as a disciplined way to avoid overclaiming. Though
+a single case can be dramatic, the author does not deny the value of striking examples, but
+warns against treating them as representative. [C] That point is not rhetorical; it controls
+which prediction follows. [D] This is why the author repeatedly contrasts what is measured
+with what is inferred. In this sense, peer-to-peer adoption cascades in networks is best
+treated as a conditional inference rather than as a mere label.
+
+Using A/B platform experiments under stable conditions, the author treats the complication
+as diagnostic, so one frequently cited case from university networks appeared to support the
+direct-readout view. Admittedly, the original fit looked visually decisive; nevertheless,
+later, however, reanalysis showed that small shifts in platform governance changes altered
+the baseline enough to mute or mimic cascade size distributions. the passage treats this
+episode as diagnostic; this, in turn, illustrates why boundary conditions must be specified
+before generalization is attempted.
+
+If anything is responsible, it is methodological humility, and therefore the passage
+presents as the lesson of network diffusion of innovations in social media: inference is
+constrained by what competing models would also predict. If one wishes to move from
+description to explanation is granted, then the same observation—cascade size
+distributions—must be paired with tests that change the conditions under which it appears.
+Whereas popular summaries treat cascade size distributions as an endpoint is easy to
+measure, the passage treats it as a starting point for sharper experimental or observational
+contrasts is harder to interpret without assumptions. In this sense, innovation diffusion
+through social graphs is best treated as a conditional inference rather than as a mere
+label.
+
+In the end, the central disagreement can be stated more precisely: the passage concludes
+that the most informative evidence is often the evidence that forces competing assumptions
+into the open. by insisting that claims about network diffusion of innovations in social
+media be conditional on stated priors, it turns disagreement into a tool for discovery,
+which is precisely why clarifies why the same record can yield multiple stories without
+implying that any story is arbitrary. Granted that the temptation to treat a tidy plot as a
+definitive answer is strong, the result is a framework in which cascade size distributions
+is interpreted through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Factual Information] The passage indicates that replication across contexts is important mainly because:
+   A. The author suggests that disagreement disappears once threshold adoption patterns is detected, making model assumptions unnecessary.
+   B. it prevents threshold adoption patterns from being treated as a self-interpreting fingerprint and forces tests that control endogeneity of peer selection
+   C. Since threshold adoption patterns is observed in workplace communication graphs, it must generalize to every setting, regardless of boundary conditions.
+   D. The passage implies that A/B platform experiments directly measures causes, meaning confounding from endogeneity of peer selection is impossible.
+
+2. [Rhetorical Purpose] Why does the author discuss competing theories?
+   A. motivate clearer assumptions and stronger tests, such as comparing cases where causal inference with instrumental variables constrains endogeneity of peer selection
+   B. The passage implies that university networks is chosen to avoid bias, so comparisons across settings are unnecessary.
+   C. The author suggests that the key synonym 'contagion-like spread of new behaviors' refers to a different field altogether, not to network diffusion of innovations in social media.
+   D. The discussion suggests that endogeneity of peer selection is the phenomenon itself, so controlling for it would remove the effect of interest.
+
+3. [Inference] The passage suggests which of the following?
+   A. The passage claims that the best strategy is to average away platform governance changes, since variability is merely a measurement error.
+   B. The argument is that boundary conditions matter only for older studies, not for modern measurements using trace-data analysis.
+   C. A convincing explanation should make distinct predictions under shared protocols, especially when platform governance changes can mimic cascade size distributions.
+   D. The passage suggests that cascade size distributions is primarily a rhetorical device rather than an empirical constraint on models.
+
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. algorithmic amplification signatures
+   B. network analysis
+   C. a recipe for bread fermentation
+   D. Network Diffusion of Innovations in Social Media
+
+5. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: In short, the passage treats methodological humility as a strength, not as an admission of ignorance.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+6. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | trace-data analysis | Can introduce systematic bias |
+   | Signal | homophily versus influence diagnostics | Can be degenerate with another effect |
+   | Confounder | platform governance changes | Shifts the baseline |
+   Blank: The limitation for 'Signal' is ________.
+   A. Can introduce systematic bias
+   B. Can be degenerate with another effect
+   C. It makes status signaling incentives irrelevant.
+   D. It proves homophily versus influence diagnostics is unique.
+
+7. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This point forces the reader to consider how confounders enter the pipeline.
+   A. the idea being discussed in the surrounding sentences
+   B. trace-data analysis as a device rather than as an analytic approach
+   C. endogeneity of peer selection alone, treated as the sole cause
+   D. threshold adoption patterns specifically, taken as an unambiguous measurement
+
+8. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats agent-based modeling as a historical curiosity and does not discuss cascade size distributions or measurement error in exposure. It ends without any methodological implication.
+   B. The passage claims that peer-to-peer adoption cascades in networks is settled because cascade size distributions uniquely identifies the mechanism. It argues that measurement error in exposure is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using agent-based modeling are unnecessary.
+   C. The passage argues that innovation diffusion through social graphs cannot be studied empirically because confounders like measurement error in exposure make data meaningless. It recommends replacing measurement with intuition and rejecting agent-based modeling as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage examines network diffusion of innovations in social media and argues that cascade size distributions is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how measurement error in exposure can shift the baseline, especially when evidence is drawn from cross-platform ecosystems. Finally, it maintains that tests combining agent-based modeling with boundary-condition checks are required to make claims about contagion-like spread of new behaviors robust.
+
+9. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about network diffusion of innovations in social media be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Some summaries seem consistent because they mix incompatible cases, not because homophily versus influence diagnostics uniquely identifies one mechanism.
+   B. Incompatible cases should be ignored to keep an explanation based on trace-data analysis simple.
+   C. Summaries are always reliable because averaging eliminates endogeneity of peer selection.
+   D. Aggregation guarantees that the same mechanism operates in workplace communication graphs and everywhere else.
+
+10. [Vocabulary] In the passage, the word **plausible** in the sentence below is closest in meaning to:
+   Sentence: Against that intuitive story, it becomes plausible that researchers have treated cascade size distributions as the decisive sign of network diffusion of innovations in social media.
+   A. unavoidable and uncontrollable because measurement error in exposure dominates all evidence
+   B. irrelevant to network diffusion of innovations in social media, serving only as background detail
+   C. reasonable
+   D. complete and final, so no further checks like causal inference with instrumental variables are needed
+
+
+Answer Key
+----------
+1: B
+2: A
+3: C
+4: C
+5: D
+6: B
+7: A
+8: D
+9: A
+10: C

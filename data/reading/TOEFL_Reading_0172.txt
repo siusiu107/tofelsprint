@@ -1,0 +1,152 @@
+Passage 0172: Thermohaline Circulation Variability and Deep-Water Formation (Oceanography)
+==========================================================================================
+(Word count: 796)
+
+When carbonate chemistry is reconstructed, researchers have treated density gradient changes
+as the decisive sign of thermohaline circulation variability and deep-water formation.
+paleoceanographic reconstructions can make the pattern look unusually sharp; still, the
+passage argues that such confidence is conditional and must be earned by specifying
+assumptions. the resulting debate is less about data collection than about what the data are
+evidence for, which forces analysts to admit that forces analysts to articulate boundary
+conditions rather than rely on familiar narratives. Not until analysts began combining
+paleoceanographic reconstructions with cross-site comparisons was it clear that claims about
+thermohaline circulation variability and deep-water formation stopped relying on a single
+figure and started relying on falsifiable predictions. the goal was to break degeneracies in
+which density gradient changes could be explained in more than one way in part because
+confounders like atmospheric circulation shifts often co-vary with the driver. as the author
+notes, transparency about priors became an empirical issue rather than a stylistic choice,
+an outcome that changes whether two analyses are actually comparable. In this sense, changes
+in overturning circulation is best treated as a conditional inference rather than as a mere
+label. Not the obvious explanation but methodological humility is what the passage presents
+as the lesson of thermohaline circulation variability and deep-water formation: inference is
+constrained by what competing models would also predict. [A] The author shifts from
+narrative to diagnosis, focusing on what the data cannot rule out. Unless one wishes to move
+from description to explanation, then the same observation—density gradient changes—must be
+paired with tests that change the conditions under which it appears cannot be claimed with
+confidence. [B] The author notes that generalization requires more than a single well-chosen
+case. Whereas popular summaries treat density gradient changes as an endpoint looks
+decisive, the passage treats it as a starting point for sharper experimental or
+observational contrasts becomes more predictive under replication. [C] This reasoning
+matters because it changes what counts as a decisive test. [D] The author uses the detour to
+show why a different metric would lead to a different conclusion. The decisive factor is the
+apparent regularity of density gradient changes; once that is stated, drives the first
+interpretation: density gradient changes is treated as a direct readout of mechanism. Should
+density gradient changes is uniquely produced by one causal pathway be true, then
+observations from the Nordic Seas would be transferable, and disagreement would be largely
+technical. So the literature is full of such claims, and so, too, does the evidence
+undermine the caveat that atmospheric circulation shifts might reproduce the same pattern.
+Despite the fact that the first model can fit one dataset extremely well, the passage
+insists that uniqueness is precisely what must be shown, not assumed. it highlights how
+atmospheric circulation shifts can shift baselines, altering whether density gradient
+changes is even comparable across cases, something that means that a good fit is not the
+same as a good explanation. Provided that atmospheric circulation shifts is changed while
+the nominal driver remains constant, one should expect different outcomes when conditions
+are perturbed. In this sense, variability in deep-water formation is best treated as a
+conditional inference rather than as a mere label. Rarely has it been the case that claims
+about thermohaline circulation variability and deep-water formation stopped relying on a
+single figure and started relying on falsifiable predictions, at least before analysts began
+combining paleoceanographic reconstructions with cross-site comparisons. The passage argues
+that the goal was to break degeneracies in which density gradient changes could be explained
+in more than one way because confounders like atmospheric circulation shifts often co-vary
+with the driver. as the author notes, transparency about priors became an empirical issue
+rather than a stylistic choice, which changes whether two analyses are actually comparable.
+Using paleoceanographic reconstructions under stable conditions, the key question becomes
+whether one frequently cited case from the Nordic Seas appeared to support the direct-
+readout view. the original fit looked visually decisive; still, later, however, reanalysis
+showed that small shifts in atmospheric circulation shifts altered the baseline enough to
+mute or mimic density gradient changes. the passage treats this episode as diagnostic, a
+move that illustrates why boundary conditions must be specified before generalization is
+attempted. In this sense, shifts in ocean density-driven circulation is best treated as a
+conditional inference rather than as a mere label. In the end, one sees why the passage
+concludes that the most informative evidence is often the evidence that forces competing
+assumptions into the open. by insisting that claims about thermohaline circulation
+variability and deep-water formation be conditional on stated priors, it turns disagreement
+into a tool for discovery, an outcome that clarifies why the same record can yield multiple
+stories without implying that any story is arbitrary.
+
+Questions
+---------
+
+1. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [C] This reasoning matters because it changes what counts as a decisive test.
+   A. altered heat transport specifically, taken as an unambiguous measurement
+   B. the idea being discussed in the surrounding sentences
+   C. moored current meters as a device rather than as an analytic approach
+   D. freshwater forcing alone, treated as the sole cause
+
+2. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | paleoceanographic reconstructions | May not generalize across contexts |
+   | Signal | density gradient changes | Can be contaminated by background variability |
+   | Confounder | atmospheric circulation shifts | Changes the apparent slope |
+   Blank: The limitation for 'Method' is ________.
+   A. It replaces moored current meters with intuition.
+   B. Can be contaminated by background variability
+   C. May not generalize across contexts
+   D. It makes atmospheric circulation shifts irrelevant.
+
+3. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about thermohaline circulation variability and deep-water formation be conditional on stated priors, it turns disagreement into a tool for discovery, an outcome that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates sea-ice feedbacks.
+   B. Aggregation guarantees that the same mechanism operates in the Labrador Sea and everywhere else.
+   C. Incompatible cases should be ignored to keep an explanation based on water-mass tracer analysis simple.
+   D. Some summaries seem consistent because they mix incompatible cases, not because density gradient changes uniquely identifies one mechanism.
+
+4. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that variability in deep-water formation is settled because salinity anomalies uniquely identifies the mechanism. It argues that sea-ice feedbacks is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using water-mass tracer analysis are unnecessary.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats water-mass tracer analysis as a historical curiosity and does not discuss salinity anomalies or sea-ice feedbacks. It ends without any methodological implication.
+   C. The passage argues that shifts in ocean density-driven circulation cannot be studied empirically because confounders like sea-ice feedbacks make data meaningless. It recommends replacing measurement with intuition and rejecting water-mass tracer analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage examines thermohaline circulation variability and deep-water formation and argues that salinity anomalies is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how sea-ice feedbacks can shift the baseline, especially when evidence is drawn from the Southern Ocean. Finally, it maintains that tests combining water-mass tracer analysis with boundary-condition checks are required to make claims about changes in overturning circulation robust.
+
+5. [Vocabulary] In the passage, the word **sparse** in the sentence below is closest in meaning to:
+   Sentence: In the end, one sees why the passage concludes that the most informative evidence is often the evidence that forces competing assumptions into the open.
+   A. thinly spread
+   B. unavoidable and uncontrollable because sea-ice feedbacks dominates all evidence
+   C. complete and final, so no further checks like paleoceanographic reconstructions are needed
+   D. irrelevant to thermohaline circulation variability and deep-water formation, serving only as background detail
+
+6. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. water-mass tracer analysis
+   B. a recipe for bread fermentation
+   C. altered heat transport
+   D. Thermohaline Circulation Variability and Deep-Water Formation
+
+7. [Rhetorical Purpose] The author’s discussion of an alternative hypothesis serves mainly to:
+   A. The author argues that paleoceanographic reconstructions should be replaced by an unmodeled trend line because assumptions distort evidence.
+   B. The author suggests that the key synonym 'variability in deep-water formation' refers to a different field altogether, not to thermohaline circulation variability and deep-water formation.
+   C. The passage implies that the Labrador Sea is chosen to avoid bias, so comparisons across settings are unnecessary.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where paleoceanographic reconstructions constrains sea-ice feedbacks
+
+8. [Factual Information] According to the passage, why does the author emphasize model assumptions?
+   A. it prevents salinity anomalies from being treated as a self-interpreting fingerprint and forces tests that control sea-ice feedbacks
+   B. The passage implies that moored current meters directly measures causes, meaning confounding from sea-ice feedbacks is impossible.
+   C. Since salinity anomalies is observed in the Nordic Seas, it must generalize to every setting, regardless of boundary conditions.
+   D. Because sea-ice feedbacks co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+
+9. [Inference] The passage suggests which of the following?
+   A. The argument is that boundary conditions matter only for older studies, not for modern measurements using paleoceanographic reconstructions.
+   B. The author treats the Southern Ocean as a special case and argues that no broader inference about thermohaline circulation variability and deep-water formation is possible.
+   C. A convincing explanation should make distinct predictions under shared protocols, especially when atmospheric circulation shifts can mimic ventilation age shifts.
+   D. The passage suggests that ventilation age shifts is primarily a rhetorical device rather than an empirical constraint on models.
+
+10. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The author emphasizes that a clean-looking curve can still encode hidden choices, especially when preprocessing is treated as neutral.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+
+Answer Key
+----------
+1: B
+2: C
+3: D
+4: D
+5: A
+6: B
+7: D
+8: A
+9: C
+10: C

@@ -1,0 +1,148 @@
+Passage 0126: Antibiotic Stewardship and Resistance Evolution in Hospitals (Public Health)
+==========================================================================================
+(Word count: 760)
+
+When policy changes create natural experiments, it becomes plausible that researchers have
+treated outbreak clusters in wards as the decisive sign of antibiotic stewardship and
+resistance evolution in hospitals. To be sure, whole-genome sequencing can make the pattern
+look unusually sharp, yet the passage argues that such confidence is conditional and must be
+earned by specifying assumptions. the resulting debate is less about data collection than
+about what the data are evidence for, a move that forces analysts to articulate boundary
+conditions rather than rely on familiar narratives. Granted that the first model can fit one
+dataset extremely well, the passage insists that uniqueness is precisely what must be shown,
+not assumed. [A] The passage signals that a tidy fit may hide degenerate explanations. it
+highlights how horizontal gene transfer can shift baselines, altering whether outbreak
+clusters in wards is even comparable across cases, something that means that a good fit is
+not the same as a good explanation. [B] The passage returns to this point to clarify what
+counts as evidence. If horizontal gene transfer is changed while the nominal driver remains
+constant is granted, one should expect different outcomes when conditions are perturbed. [C]
+At first glance, the pattern seems obvious, yet the author frames it as conditional. [D] The
+author uses the detour to show why a different metric would lead to a different conclusion.
+In this sense, antimicrobial resistance dynamics in clinical settings is best treated as a
+conditional inference rather than as a mere label. The point is not X but the apparent
+regularity of outbreak clusters in wards; in that framing, drives the first interpretation:
+outbreak clusters in wards is treated as a direct readout of mechanism. If outbreak clusters
+in wards is uniquely produced by one causal pathway, a different prediction follows: then
+observations from long-term care facilities would be transferable, and disagreement would be
+largely technical. So the literature is full of such claims, and so, too, does the evidence
+undermine the caveat that horizontal gene transfer might reproduce the same pattern. Using
+whole-genome sequencing under stable conditions, the interpretation shifts, and one
+frequently cited case from long-term care facilities appeared to support the direct-readout
+view. Despite the fact that the original fit looked visually decisive, later, however,
+reanalysis showed that small shifts in horizontal gene transfer altered the baseline enough
+to mute or mimic outbreak clusters in wards. the passage treats this episode as diagnostic;
+this, in turn, illustrates why boundary conditions must be specified before generalization
+is attempted. Not the obvious explanation but methodological humility is what the passage
+presents as the lesson of antibiotic stewardship and resistance evolution in hospitals:
+inference is constrained by what competing models would also predict. Should one wishes to
+move from description to explanation be true, then the same observation—outbreak clusters in
+wards—must be paired with tests that change the conditions under which it appears. Whereas
+popular summaries treat outbreak clusters in wards as an endpoint is easy to measure, the
+passage treats it as a starting point for sharper experimental or observational contrasts is
+harder to interpret without assumptions. In this sense, selection for resistant strains
+under antibiotic pressure is best treated as a conditional inference rather than as a mere
+label. Using whole-genome sequencing under stable conditions, it is difficult to deny that
+one frequently cited case from long-term care facilities appeared to support the direct-
+readout view. Admittedly, the original fit looked visually decisive; nevertheless, later,
+however, reanalysis showed that small shifts in horizontal gene transfer altered the
+baseline enough to mute or mimic outbreak clusters in wards. the passage treats this episode
+as diagnostic, which illustrates why boundary conditions must be specified before
+generalization is attempted. Seldom, prior to analysts began combining whole-genome
+sequencing with cross-site comparisons, did investigators concede that claims about
+antibiotic stewardship and resistance evolution in hospitals stopped relying on a single
+figure and started relying on falsifiable predictions. The passage argues that the goal was
+to break degeneracies in which outbreak clusters in wards could be explained in more than
+one way because confounders like horizontal gene transfer often co-vary with the driver. as
+the author notes, transparency about priors became an empirical issue rather than a
+stylistic choice, which helps explain why changes whether two analyses are actually
+comparable. In this sense, hospital stewardship interventions is best treated as a
+conditional inference rather than as a mere label. In the end, the passage argues that the
+passage concludes that the most informative evidence is often the evidence that forces
+competing assumptions into the open.
+
+Questions
+---------
+
+1. [Factual Information] The passage indicates that confounder control is important mainly because:
+   A. it prevents shifts in resistance prevalence from being treated as a self-interpreting fingerprint and forces tests that control diagnostic intensity changes
+   B. The discussion indicates that replication is redundant if whole-genome sequencing produces a tight fit on one dataset.
+   C. Because shifts in resistance prevalence appears, the mechanism must be unique, so diagnostic intensity changes can be ignored as irrelevant noise.
+   D. The passage implies that whole-genome sequencing directly measures causes, meaning confounding from diagnostic intensity changes is impossible.
+
+2. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: When policy changes create natural experiments, it becomes plausible that researchers have treated outbreak clusters in wards as the decisive sign of antibiotic stewardship and resistance evolution in hospitals.
+   A. horizontal gene transfer alone, treated as the sole cause
+   B. the idea being discussed in the surrounding sentences
+   C. treatment-failure rates specifically, taken as an unambiguous measurement
+   D. time-to-event survival analysis as a device rather than as an analytic approach
+
+3. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: As a result, the most valuable observations are often taken during transitions, when competing mechanisms diverge most clearly.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+4. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: Seldom, prior to analysts began combining whole-genome sequencing with cross-site comparisons, did investigators concede that claims about antibiotic stewardship and resistance evolution in hospitals stopped relying on a single figure and started relying on falsifiable predictions.
+   A. Aggregation guarantees that the same mechanism operates in surgical wards and everywhere else.
+   B. Summaries are always reliable because averaging eliminates patient-mix confounding.
+   C. Some summaries seem consistent because they mix incompatible cases, not because outbreak clusters in wards uniquely identifies one mechanism.
+   D. Incompatible cases should be ignored to keep an explanation based on contact-network reconstruction simple.
+
+5. [Inference] The passage suggests which of the following?
+   A. The passage suggests that clonal replacement patterns is primarily a rhetorical device rather than an empirical constraint on models.
+   B. The author treats surgical wards as a special case and argues that no broader inference about antibiotic stewardship and resistance evolution in hospitals is possible.
+   C. A convincing explanation should make distinct predictions under shared protocols, especially when horizontal gene transfer can mimic clonal replacement patterns.
+   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving contact-network reconstruction.
+
+6. [Rhetorical Purpose] What is the primary purpose of presenting more than one explanation?
+   A. The passage treats shifts in resistance prevalence as a confounder and infection-control compliance variation as the diagnostic signal that identifies the mechanism.
+   B. The discussion suggests that infection-control compliance variation is the phenomenon itself, so controlling for it would remove the effect of interest.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where time-to-event survival analysis constrains infection-control compliance variation
+   D. The passage implies that regional hospital systems is chosen to avoid bias, so comparisons across settings are unnecessary.
+
+7. [Vocabulary] In the passage, the word **attenuated** in the sentence below is closest in meaning to:
+   Sentence: The point is not X but the apparent regularity of outbreak clusters in wards; in that framing, drives the first interpretation: outbreak clusters in wards is treated as a direct readout of mechanism.
+   A. weakened
+   B. unavoidable and uncontrollable because diagnostic intensity changes dominates all evidence
+   C. irrelevant to antibiotic stewardship and resistance evolution in hospitals, serving only as background detail
+   D. complete and final, so no further checks like time-to-event survival analysis are needed
+
+8. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage argues that hospital stewardship interventions cannot be studied empirically because confounders like patient-mix confounding make data meaningless. It recommends replacing measurement with intuition and rejecting contact-network reconstruction as unreliable. It concludes that debate persists because evidence never constrains theory.
+   B. The passage examines antibiotic stewardship and resistance evolution in hospitals and argues that outbreak clusters in wards is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how patient-mix confounding can shift the baseline, especially when evidence is drawn from regional hospital systems. Finally, it maintains that tests combining contact-network reconstruction with boundary-condition checks are required to make claims about antimicrobial resistance dynamics in clinical settings robust.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats contact-network reconstruction as a historical curiosity and does not discuss outbreak clusters in wards or patient-mix confounding. It ends without any methodological implication.
+   D. The passage claims that selection for resistant strains under antibiotic pressure is settled because outbreak clusters in wards uniquely identifies the mechanism. It argues that patient-mix confounding is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using contact-network reconstruction are unnecessary.
+
+9. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | whole-genome sequencing | Requires careful calibration |
+   | Signal | clonal replacement patterns | Can be degenerate with another effect |
+   | Confounder | diagnostic intensity changes | Co-varies with the driver of interest |
+   Blank: The limitation for 'Method' is ________.
+   A. It makes diagnostic intensity changes irrelevant.
+   B. It proves outbreak clusters in wards is unique.
+   C. It replaces antibiogram surveillance with intuition.
+   D. Requires careful calibration
+
+10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. outbreak clusters in wards
+   B. interrupted time-series designs
+   C. Antibiotic Stewardship and Resistance Evolution in Hospitals
+   D. the author’s favorite color
+
+
+Answer Key
+----------
+1: A
+2: B
+3: C
+4: C
+5: C
+6: C
+7: A
+8: B
+9: D
+10: D

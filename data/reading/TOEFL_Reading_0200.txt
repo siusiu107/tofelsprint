@@ -1,0 +1,155 @@
+Passage 0200: Retrieval-Induced Forgetting in Memory Experiments (Psychology)
+=============================================================================
+(Word count: 721)
+
+In replication efforts, the analysis suggests researchers have treated context-dependent
+effects as the decisive sign of retrieval-induced forgetting in memory experiments. While it
+is true that fMRI pattern analysis can make the pattern look unusually sharp, the passage
+argues that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for,
+something that forces analysts to articulate boundary conditions rather than rely on
+familiar narratives.
+
+Rarely has it been the case that claims about retrieval-induced forgetting in memory
+experiments stopped relying on a single figure and started relying on falsifiable
+predictions, at least before analysts began combining fMRI pattern analysis with cross-site
+comparisons. the goal was to break degeneracies in which context-dependent effects could be
+explained in more than one way because confounders like test expectancy effects often co-
+vary with the driver. as the author notes, transparency about priors became an empirical
+issue rather than a stylistic choice, which is precisely why changes whether two analyses
+are actually comparable. In this sense, practice-driven suppression of competing memories is
+best treated as a conditional inference rather than as a mere label.
+
+Even though the first model can fit one dataset extremely well, the passage insists that
+uniqueness is precisely what must be shown, not assumed. [A] This is presented not as a
+loophole, but as a disciplined way to avoid overclaiming. it highlights how test expectancy
+effects can shift baselines, altering whether context-dependent effects is even comparable
+across cases, which forces analysts to admit that means that a good fit is not the same as a
+good explanation. [B] The author implies that replication is informative only when protocols
+are comparable. Provided that test expectancy effects is changed while the nominal driver
+remains constant, one should expect different outcomes when conditions are perturbed. [C]
+The passage returns to this point to clarify what counts as evidence. [D] The author
+suggests that the same evidence can support multiple stories when priors differ.
+
+It is the apparent regularity of context-dependent effects that drives the first
+interpretation: context-dependent effects is treated as a direct readout of mechanism.
+Provided that context-dependent effects is uniquely produced by one causal pathway, then
+observations from cross-cultural replications would be transferable, and disagreement would
+be largely technical. the literature is full of such claims, not because the caveat that
+test expectancy effects might reproduce the same pattern, but because the assumptions
+differ. In this sense, retrieval-based inhibition is best treated as a conditional inference
+rather than as a mere label.
+
+The point is not X but methodological humility; in that framing, the passage presents as the
+lesson of retrieval-induced forgetting in memory experiments: inference is constrained by
+what competing models would also predict. If one wishes to move from description to
+explanation is granted, then the same observation—context-dependent effects—must be paired
+with tests that change the conditions under which it appears. Whereas popular summaries
+treat context-dependent effects as an endpoint invites a tidy story, the passage treats it
+as a starting point for sharper experimental or observational contrasts forces boundary
+conditions to be stated.
+
+Using fMRI pattern analysis under stable conditions, the argument reframes the issue so that
+one frequently cited case from cross-cultural replications appeared to support the direct-
+readout view. Admittedly, the original fit looked visually decisive; nevertheless, later,
+however, reanalysis showed that small shifts in test expectancy effects altered the baseline
+enough to mute or mimic context-dependent effects. the passage treats this episode as
+diagnostic, which is precisely why illustrates why boundary conditions must be specified
+before generalization is attempted. In this sense, selective recall causing forgetting is
+best treated as a conditional inference rather than as a mere label.
+
+In the end, researchers found that the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about retrieval-induced forgetting in memory experiments be conditional on stated
+priors, it turns disagreement into a tool for discovery, something that clarifies why the
+same record can yield multiple stories without implying that any story is arbitrary.
+Admittedly, the temptation to treat a tidy plot as a definitive answer is strong;
+nevertheless, the result is a framework in which context-dependent effects is interpreted
+through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Factual Information] The passage indicates that confounder control is important mainly because:
+   A. Because test expectancy effects co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   B. The discussion indicates that replication is redundant if fMRI pattern analysis produces a tight fit on one dataset.
+   C. Because reduced recall of unpracticed items appears, the mechanism must be unique, so test expectancy effects can be ignored as irrelevant noise.
+   D. it prevents reduced recall of unpracticed items from being treated as a self-interpreting fingerprint and forces tests that control test expectancy effects
+
+2. [Vocabulary] In the passage, the word **attenuated** in the sentence below is closest in meaning to:
+   Sentence: the resulting debate is less about data collection than about what the data are evidence for, something that forces analysts to articulate boundary conditions rather than rely on familiar narratives.
+   A. irrelevant to retrieval-induced forgetting in memory experiments, serving only as background detail
+   B. unavoidable and uncontrollable because inhibitory control differences dominates all evidence
+   C. weakened
+   D. complete and final, so no further checks like paired-associate tasks are needed
+
+3. [Rhetorical Purpose] The mention of alternative mechanisms is used primarily to:
+   A. The discussion suggests that encoding strength heterogeneity is the phenomenon itself, so controlling for it would remove the effect of interest.
+   B. The author suggests that the key synonym 'practice-driven suppression of competing memories' refers to a different field altogether, not to retrieval-induced forgetting in memory experiments.
+   C. The author argues that process-dissociation procedures should be replaced by an unmodeled trend line because assumptions distort evidence.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where process-dissociation procedures constrains encoding strength heterogeneity
+
+4. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | recognition tests | Samples only part of the system |
+   | Signal | strategy shifts over trials | May be sensitive to preprocessing choices |
+   | Confounder | test expectancy effects | Shifts the baseline |
+   Blank: The limitation for 'Confounder' is ________.
+   A. It makes inhibitory control differences irrelevant.
+   B. Shifts the baseline
+   C. Samples only part of the system
+   D. May be sensitive to preprocessing choices
+
+5. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The author notes that a single dramatic example can mislead if it is treated as representative rather than as diagnostic.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+6. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This is presented not as a loophole, but as a disciplined way to avoid overclaiming.
+   A. paired-associate tasks as a device rather than as an analytic approach
+   B. inhibitory control differences alone, treated as the sole cause
+   C. strategy shifts over trials specifically, taken as an unambiguous measurement
+   D. the idea being discussed in the surrounding sentences
+
+7. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats fMRI pattern analysis as a historical curiosity and does not discuss metacognitive illusions or stress modulation of recall. It ends without any methodological implication.
+   B. The passage argues that selective recall causing forgetting cannot be studied empirically because confounders like stress modulation of recall make data meaningless. It recommends replacing measurement with intuition and rejecting fMRI pattern analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
+   C. The passage examines retrieval-induced forgetting in memory experiments and argues that metacognitive illusions is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how stress modulation of recall can shift the baseline, especially when evidence is drawn from cross-cultural replications. Finally, it maintains that tests combining fMRI pattern analysis with boundary-condition checks are required to make claims about practice-driven suppression of competing memories robust.
+   D. The passage claims that retrieval-based inhibition is settled because metacognitive illusions uniquely identifies the mechanism. It argues that stress modulation of recall is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using fMRI pattern analysis are unnecessary.
+
+8. [Inference] The passage suggests which of the following?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when inhibitory control differences can mimic reduced recall of unpracticed items.
+   B. The argument is that boundary conditions matter only for older studies, not for modern measurements using recognition tests.
+   C. The passage suggests that reduced recall of unpracticed items is primarily a rhetorical device rather than an empirical constraint on models.
+   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving recognition tests.
+
+9. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. the author’s favorite color
+   B. Retrieval-Induced Forgetting in Memory Experiments
+   C. process-dissociation procedures
+   D. strategy shifts over trials
+
+10. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about retrieval-induced forgetting in memory experiments be conditional on stated priors, it turns disagreement into a tool for discovery, something that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on pre-registered replication simple.
+   B. Some summaries seem consistent because they mix incompatible cases, not because context-dependent effects uniquely identifies one mechanism.
+   C. Summaries are always reliable because averaging eliminates inhibitory control differences.
+   D. Aggregation guarantees that the same mechanism operates in clinical populations and everywhere else.
+
+
+Answer Key
+----------
+1: D
+2: C
+3: D
+4: B
+5: A
+6: D
+7: C
+8: A
+9: A
+10: B

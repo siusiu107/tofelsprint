@@ -1,0 +1,157 @@
+Passage 0189: Stellar Contamination in Transit Spectroscopy (Astronomy)
+=======================================================================
+(Word count: 739)
+
+In the last decade, the analysis suggests researchers have treated spurious molecular
+detections as the decisive sign of stellar contamination in transit spectroscopy.
+Admittedly, Gaussian-process detrending can make the pattern look unusually sharp;
+nevertheless, the passage argues that such confidence is conditional and must be earned by
+specifying assumptions. the resulting debate is less about data collection than about what
+the data are evidence for, a move that forces analysts to articulate boundary conditions
+rather than rely on familiar narratives.
+
+Using Gaussian-process detrending under stable conditions, the author treats the
+complication as diagnostic, so one frequently cited case from bright nearby planet hosts
+appeared to support the direct-readout view. Despite the fact that the original fit looked
+visually decisive, later, however, reanalysis showed that small shifts in facula coverage
+fractions altered the baseline enough to mute or mimic spurious molecular detections. the
+passage treats this episode as diagnostic, something that illustrates why boundary
+conditions must be specified before generalization is attempted. In this sense, unocculted
+spot/facula bias in transit data is best treated as a conditional inference rather than as a
+mere label.
+
+Seldom, prior to analysts began combining Gaussian-process detrending with cross-site
+comparisons, did investigators concede that claims about stellar contamination in transit
+spectroscopy stopped relying on a single figure and started relying on falsifiable
+predictions. the goal was to break degeneracies in which spurious molecular detections could
+be explained in more than one way because confounders like facula coverage fractions often
+co-vary with the driver, which is why replication matters. as the author notes, transparency
+about priors became an empirical issue rather than a stylistic choice; this, in turn,
+changes whether two analyses are actually comparable.
+
+Not the obvious explanation but methodological humility is what the passage presents as the
+lesson of stellar contamination in transit spectroscopy: inference is constrained by what
+competing models would also predict. Unless one wishes to move from description to
+explanation, then the same observation—spurious molecular detections—must be paired with
+tests that change the conditions under which it appears cannot be claimed with confidence.
+Whereas popular summaries treat spurious molecular detections as an endpoint invites a tidy
+story, the passage treats it as a starting point for sharper experimental or observational
+contrasts forces boundary conditions to be stated. In this sense, activity-driven spectral
+distortion is best treated as a conditional inference rather than as a mere label.
+
+It is the apparent regularity of spurious molecular detections, rather than a single
+headline feature, that drives the first interpretation: spurious molecular detections is
+treated as a direct readout of mechanism. [A] The discussion treats exceptions as
+informative, not as errors to be discarded. Should spurious molecular detections is uniquely
+produced by one causal pathway be true, then observations from bright nearby planet hosts
+would be transferable, and disagreement would be largely technical. [B] The author implies
+that replication is informative only when protocols are comparable. The issue is not the
+caveat that facula coverage fractions might reproduce the same pattern; it is that the
+literature is full of such claims. [C] The argument hinges on what would change under an
+alternative explanation. [D] This reasoning matters because it changes what counts as a
+decisive test.
+
+Even though the first model can fit one dataset extremely well, the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how facula coverage
+fractions can shift baselines, altering whether spurious molecular detections is even
+comparable across cases, an outcome that means that a good fit is not the same as a good
+explanation. Should facula coverage fractions is changed while the nominal driver remains
+constant be true, one should expect different outcomes when conditions are perturbed. In
+this sense, photospheric contamination of transmission spectra is best treated as a
+conditional inference rather than as a mere label.
+
+In the end, the passage argues that the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about stellar contamination in transit spectroscopy be conditional on stated priors,
+it turns disagreement into a tool for discovery, a move that clarifies why the same record
+can yield multiple stories without implying that any story is arbitrary. Granted that the
+temptation to treat a tidy plot as a definitive answer is strong, the result is a framework
+in which spurious molecular detections is interpreted through explicit boundary conditions
+rather than through habit.
+
+Questions
+---------
+
+1. [Rhetorical Purpose] In referring to a contrasting interpretation, the author intends to:
+   A. The author suggests that the key synonym 'stellar heterogeneity effects on retrieval' refers to a different field altogether, not to stellar contamination in transit spectroscopy.
+   B. The passage treats time-variable spectral baselines as a confounder and facula coverage fractions as the diagnostic signal that identifies the mechanism.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where spot–facular forward modeling constrains facula coverage fractions
+   D. The author argues that spot–facular forward modeling should be replaced by an unmodeled trend line because assumptions distort evidence.
+
+2. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | Gaussian-process detrending | May not generalize across contexts |
+   | Signal | spurious molecular detections | Can vary across epochs |
+   | Confounder | starspot temperature contrasts | Can mimic the target feature |
+   Blank: The limitation for 'Method' is ________.
+   A. It makes limb-darkening model mismatch irrelevant.
+   B. It proves time-variable spectral baselines is unique.
+   C. May not generalize across contexts
+   D. Can mimic the target feature
+
+3. [Inference] Which of the following can be inferred from the passage?
+   A. The passage suggests that spurious molecular detections is primarily a rhetorical device rather than an empirical constraint on models.
+   B. The passage claims that the best strategy is to average away facula coverage fractions, since variability is merely a measurement error.
+   C. The author treats active K-dwarf host stars as a special case and argues that no broader inference about stellar contamination in transit spectroscopy is possible.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when facula coverage fractions can mimic spurious molecular detections.
+
+4. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [D] This reasoning matters because it changes what counts as a decisive test.
+   A. Gaussian-process detrending as a device rather than as an analytic approach
+   B. the idea being discussed in the surrounding sentences
+   C. starspot temperature contrasts alone, treated as the sole cause
+   D. spurious molecular detections specifically, taken as an unambiguous measurement
+
+5. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: In other words, the disagreement is not about whether the data exist, but about what the data are evidence for.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+6. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about stellar contamination in transit spectroscopy be conditional on stated priors, it turns disagreement into a tool for discovery, a move that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Some summaries seem consistent because they mix incompatible cases, not because rotation-modulated light curves uniquely identifies one mechanism.
+   B. Summaries are always reliable because averaging eliminates instrument drift across visits.
+   C. Incompatible cases should be ignored to keep an explanation based on multi-epoch transit campaigns simple.
+   D. Aggregation guarantees that the same mechanism operates in M-dwarf systems with repeated transits and everywhere else.
+
+7. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. Stellar Contamination in Transit Spectroscopy
+   B. the length of the Nile in miles
+   C. time-variable spectral baselines
+   D. spot–facular forward modeling
+
+8. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage examines stellar contamination in transit spectroscopy and argues that apparent slopes mimicking Rayleigh scattering is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how facula coverage fractions can shift the baseline, especially when evidence is drawn from bright nearby planet hosts. Finally, it maintains that tests combining multi-epoch transit campaigns with boundary-condition checks are required to make claims about unocculted spot/facula bias in transit data robust.
+   B. The passage argues that photospheric contamination of transmission spectra cannot be studied empirically because confounders like facula coverage fractions make data meaningless. It recommends replacing measurement with intuition and rejecting multi-epoch transit campaigns as unreliable. It concludes that debate persists because evidence never constrains theory.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats multi-epoch transit campaigns as a historical curiosity and does not discuss apparent slopes mimicking Rayleigh scattering or facula coverage fractions. It ends without any methodological implication.
+   D. The passage claims that activity-driven spectral distortion is settled because apparent slopes mimicking Rayleigh scattering uniquely identifies the mechanism. It argues that facula coverage fractions is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using multi-epoch transit campaigns are unnecessary.
+
+9. [Factual Information] According to the passage, why does the author emphasize replication across contexts?
+   A. it prevents time-variable spectral baselines from being treated as a self-interpreting fingerprint and forces tests that control facula coverage fractions
+   B. The passage implies that spot–facular forward modeling directly measures causes, meaning confounding from facula coverage fractions is impossible.
+   C. Because facula coverage fractions co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   D. The author suggests that disagreement disappears once time-variable spectral baselines is detected, making model assumptions unnecessary.
+
+10. [Vocabulary] In the passage, the word **subtle** in the sentence below is closest in meaning to:
+   Sentence: [D] This reasoning matters because it changes what counts as a decisive test.
+   A. unavoidable and uncontrollable because facula coverage fractions dominates all evidence
+   B. irrelevant to stellar contamination in transit spectroscopy, serving only as background detail
+   C. complete and final, so no further checks like Gaussian-process detrending are needed
+   D. slight
+
+
+Answer Key
+----------
+1: C
+2: C
+3: D
+4: B
+5: B
+6: A
+7: B
+8: A
+9: A
+10: D

@@ -1,0 +1,155 @@
+Passage 0135: Coral Bleaching Triggered by Marine Heatwaves (Ecology)
+=====================================================================
+(Word count: 753)
+
+In cross-site comparisons, researchers have treated changes in reef fish assemblages as the
+decisive sign of coral bleaching triggered by marine heatwaves. photophysiology measurements
+can make the pattern look unusually sharp; still, the passage argues that such confidence is
+conditional and must be earned by specifying assumptions. the resulting debate is less about
+data collection than about what the data are evidence for, which forces analysts to admit
+that forces analysts to articulate boundary conditions rather than rely on familiar
+narratives.
+
+Despite the fact that the first model can fit one dataset extremely well, the passage
+insists that uniqueness is precisely what must be shown, not assumed. it highlights how
+symbiont clade switching can shift baselines, altering whether changes in reef fish
+assemblages is even comparable across cases, which means that a good fit is not the same as
+a good explanation. If symbiont clade switching is changed while the nominal driver remains
+constant is granted, one should expect different outcomes when conditions are perturbed. In
+this sense, thermal bleaching events is best treated as a conditional inference rather than
+as a mere label.
+
+Only after the field adopted tests that manipulate or stratify symbiont clade switching did
+the debate became empirically productive rather than merely rhetorical. by comparing cases
+in which photophysiology measurements constrains alternatives, researchers could ask which
+predictions survive out of sample, which forces analysts to admit that is why the passage
+emphasizes comparative design over isolated exemplars. To be sure, a single case can be
+dramatic, yet the author does not deny the value of striking examples, but warns against
+treating them as representative.
+
+Working with sparse records and limited controls on symbiont clade switching, it is
+difficult to deny that many early studies framed coral bleaching triggered by marine
+heatwaves as a single-mechanism phenomenon. Whereas those studies emphasized changes in reef
+fish assemblages as a signature, later work asked whether the same signature survives when
+protocols and baselines differ. this shift mattered for how evidence from the Great Barrier
+Reef was generalized in part because local conditions can change which processes generate
+changes in reef fish assemblages. In this sense, loss of symbiotic zooxanthellae under heat
+stress is best treated as a conditional inference rather than as a mere label.
+
+It is methodological humility, rather than a single headline feature, that the passage
+presents as the lesson of coral bleaching triggered by marine heatwaves: inference is
+constrained by what competing models would also predict. Provided that one wishes to move
+from description to explanation, then the same observation—changes in reef fish
+assemblages—must be paired with tests that change the conditions under which it appears.
+Whereas popular summaries treat changes in reef fish assemblages as an endpoint, the passage
+treats it as a starting point for sharper experimental or observational contrasts.
+
+Only after analysts began combining photophysiology measurements with cross-site comparisons
+did the earlier interpretation begin to look fragile, so claims about coral bleaching
+triggered by marine heatwaves stopped relying on a single figure and started relying on
+falsifiable predictions. [A] The discussion treats exceptions as informative, not as errors
+to be discarded. the goal was to break degeneracies in which changes in reef fish
+assemblages could be explained in more than one way in part because confounders like
+symbiont clade switching often co-vary with the driver. [B] At first glance, the pattern
+seems obvious, yet the author frames it as conditional. as the author notes, transparency
+about priors became an empirical issue rather than a stylistic choice, something that
+changes whether two analyses are actually comparable. [C] The author shifts from narrative
+to diagnosis, focusing on what the data cannot rule out. [D] The author implies that
+replication is informative only when protocols are comparable. In this sense, reef-scale
+bleaching episodes is best treated as a conditional inference rather than as a mere label.
+
+In the end, the central disagreement can be stated more precisely: the passage concludes
+that the most informative evidence is often the evidence that forces competing assumptions
+into the open. by insisting that claims about coral bleaching triggered by marine heatwaves
+be conditional on stated priors, it turns disagreement into a tool for discovery, which
+forces analysts to admit that clarifies why the same record can yield multiple stories
+without implying that any story is arbitrary. the temptation to treat a tidy plot as a
+definitive answer is strong; still, the result is a framework in which changes in reef fish
+assemblages is interpreted through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. Coral Bleaching Triggered by Marine Heatwaves
+   B. reduced photosynthetic efficiency
+   C. photophysiology measurements
+   D. the price of coal in 1700
+
+2. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about coral bleaching triggered by marine heatwaves be conditional on stated priors, it turns disagreement into a tool for discovery, which forces analysts to admit that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates local adaptation.
+   B. Aggregation guarantees that the same mechanism operates in Caribbean reef tracts and everywhere else.
+   C. Incompatible cases should be ignored to keep an explanation based on degree-heating-week metrics simple.
+   D. Some summaries seem consistent because they mix incompatible cases, not because recruitment failure uniquely identifies one mechanism.
+
+3. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: it highlights how symbiont clade switching can shift baselines, altering whether changes in reef fish assemblages is even comparable across cases, which means that a good fit is not the same as a good explanation.
+   A. the idea being discussed in the surrounding sentences
+   B. symbiont genotyping as a device rather than as an analytic approach
+   C. symbiont clade switching alone, treated as the sole cause
+   D. recruitment failure specifically, taken as an unambiguous measurement
+
+4. [Rhetorical Purpose] What is the author’s main reason for mentioning an alternative model?
+   A. The passage treats shifts in carbonate accretion as a confounder and local adaptation as the diagnostic signal that identifies the mechanism.
+   B. The passage implies that Red Sea reefs is chosen to avoid bias, so comparisons across settings are unnecessary.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where reef-scale temperature loggers constrains local adaptation
+   D. The author suggests that the key synonym 'heat-driven coral whitening' refers to a different field altogether, not to coral bleaching triggered by marine heatwaves.
+
+5. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The passage implies that 'noise' is sometimes a label for unmodeled structure rather than a property of the world itself.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+6. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | satellite thermal stress maps | Can introduce systematic bias |
+   | Signal | mortality and phase shifts | May be muted by other processes |
+   | Confounder | local adaptation | Shifts the baseline |
+   Blank: The limitation for 'Method' is ________.
+   A. It proves mortality and phase shifts is unique.
+   B. Can introduce systematic bias
+   C. May be muted by other processes
+   D. It replaces reef-scale temperature loggers with intuition.
+
+7. [Inference] Which of the following can be inferred from the passage?
+   A. The passage suggests that recruitment failure is primarily a rhetorical device rather than an empirical constraint on models.
+   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving satellite thermal stress maps.
+   C. A convincing explanation should make distinct predictions under shared protocols, especially when symbiont clade switching can mimic recruitment failure.
+   D. The author treats Red Sea reefs as a special case and argues that no broader inference about coral bleaching triggered by marine heatwaves is possible.
+
+8. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. The author suggests that disagreement disappears once reduced photosynthetic efficiency is detected, making model assumptions unnecessary.
+   B. Because reduced photosynthetic efficiency appears, the mechanism must be unique, so compound stressors such as acidification and pollution can be ignored as irrelevant noise.
+   C. it prevents reduced photosynthetic efficiency from being treated as a self-interpreting fingerprint and forces tests that control compound stressors such as acidification and pollution
+   D. The passage implies that reef-scale temperature loggers directly measures causes, meaning confounding from compound stressors such as acidification and pollution is impossible.
+
+9. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage examines coral bleaching triggered by marine heatwaves and argues that reduced photosynthetic efficiency is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how shading and cooling refugia can shift the baseline, especially when evidence is drawn from Caribbean reef tracts. Finally, it maintains that tests combining reef-scale temperature loggers with boundary-condition checks are required to make claims about thermal bleaching events robust.
+   B. The passage argues that reef-scale bleaching episodes cannot be studied empirically because confounders like shading and cooling refugia make data meaningless. It recommends replacing measurement with intuition and rejecting reef-scale temperature loggers as unreliable. It concludes that debate persists because evidence never constrains theory.
+   C. The passage claims that loss of symbiotic zooxanthellae under heat stress is settled because reduced photosynthetic efficiency uniquely identifies the mechanism. It argues that shading and cooling refugia is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using reef-scale temperature loggers are unnecessary.
+   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats reef-scale temperature loggers as a historical curiosity and does not discuss reduced photosynthetic efficiency or shading and cooling refugia. It ends without any methodological implication.
+
+10. [Vocabulary] In the passage, the word **convergent** in the sentence below is closest in meaning to:
+   Sentence: by comparing cases in which photophysiology measurements constrains alternatives, researchers could ask which predictions survive out of sample, which forces analysts to admit that is why the passage emphasizes comparative design over isolated exemplars.
+   A. complete and final, so no further checks like satellite thermal stress maps are needed
+   B. irrelevant to coral bleaching triggered by marine heatwaves, serving only as background detail
+   C. unavoidable and uncontrollable because shading and cooling refugia dominates all evidence
+   D. coming together
+
+
+Answer Key
+----------
+1: D
+2: D
+3: A
+4: C
+5: A
+6: B
+7: C
+8: C
+9: A
+10: D

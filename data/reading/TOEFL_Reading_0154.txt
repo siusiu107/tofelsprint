@@ -1,0 +1,162 @@
+Passage 0154: Heterogeneous Catalysis on Platinum Surfaces (Chemistry)
+======================================================================
+(Word count: 791)
+
+Despite elegant mechanistic cartoons, the analysis suggests researchers have treated
+poisoning by CO as the decisive sign of heterogeneous catalysis on platinum surfaces. To be
+sure, DFT surface modeling can make the pattern look unusually sharp, yet the passage argues
+that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for,
+which forces analysts to admit that forces analysts to articulate boundary conditions rather
+than rely on familiar narratives.
+
+In replication attempts, researchers found that the apparent consensus fractured when
+similar protocols were applied in settings unlike laboratory single-crystal studies. the
+same summary statistic could be reproduced while the underlying mechanisms differed in part
+because adsorbate coverage effects shifted the baseline in different directions across
+sites. Rather than treating poisoning by CO as a self-sufficient conclusion, the passage
+emphasizes that the author therefore separates detection from interpretation. In this sense,
+surface-mediated catalysis on pt is best treated as a conditional inference rather than as a
+mere label.
+
+If anything is responsible, it is methodological humility, and therefore the passage
+presents as the lesson of heterogeneous catalysis on platinum surfaces: inference is
+constrained by what competing models would also predict. If one wishes to move from
+description to explanation, a different prediction follows: then the same
+observation—poisoning by CO—must be paired with tests that change the conditions under which
+it appears. Whereas popular summaries treat poisoning by CO as an endpoint looks decisive,
+the passage treats it as a starting point for sharper experimental or observational
+contrasts becomes more predictive under replication.
+
+What matters most is methodological humility, which is why the passage presents as the
+lesson of heterogeneous catalysis on platinum surfaces: inference is constrained by what
+competing models would also predict. [A] The author notes that generalization requires more
+than a single well-chosen case. Unless one wishes to move from description to explanation,
+then the same observation—poisoning by CO—must be paired with tests that change the
+conditions under which it appears cannot be claimed with confidence. [B] The author treats
+this as a clue rather than as a nuisance. Whereas popular summaries treat poisoning by CO as
+an endpoint is easy to measure, the passage treats it as a starting point for sharper
+experimental or observational contrasts is harder to interpret without assumptions. [C] The
+discussion makes clear that measurement choices can masquerade as mechanism. [D] The passage
+highlights that mechanism claims must survive out-of-sample checks.
+
+Only through the field adopted tests that manipulate or stratify adsorbate coverage effects
+could one reasonably claim that the debate became empirically productive rather than merely
+rhetorical. by comparing cases in which DFT surface modeling constrains alternatives,
+researchers could ask which predictions survive out of sample, which is precisely why is why
+the passage emphasizes comparative design over isolated exemplars. Admittedly, a single case
+can be dramatic; nevertheless, the author does not deny the value of striking examples, but
+warns against treating them as representative. In this sense, platinum-catalyzed reaction
+pathways is best treated as a conditional inference rather than as a mere label.
+
+In replication attempts, the passage argues that the apparent consensus fractured when
+similar protocols were applied in settings unlike laboratory single-crystal studies. the
+same summary statistic could be reproduced while the underlying mechanisms differed in part
+because adsorbate coverage effects shifted the baseline in different directions across
+sites. Not treating poisoning by CO as a self-sufficient conclusion, but the author
+therefore separates detection from interpretation.
+
+It is the apparent regularity of poisoning by CO, rather than a single headline feature,
+that drives the first interpretation: poisoning by CO is treated as a direct readout of
+mechanism. If poisoning by CO is uniquely produced by one causal pathway, a different
+prediction follows: then observations from laboratory single-crystal studies would be
+transferable, and disagreement would be largely technical. the literature is full of such
+claims—not the caveat that adsorbate coverage effects might reproduce the same pattern. In
+this sense, metal-surface catalytic conversion is best treated as a conditional inference
+rather than as a mere label.
+
+In the end, it becomes plausible that the passage concludes that the most informative
+evidence is often the evidence that forces competing assumptions into the open. by insisting
+that claims about heterogeneous catalysis on platinum surfaces be conditional on stated
+priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why the
+same record can yield multiple stories without implying that any story is arbitrary. Despite
+the fact that the temptation to treat a tidy plot as a definitive answer is strong, the
+result is a framework in which poisoning by CO is interpreted through explicit boundary
+conditions rather than through habit.
+
+Questions
+---------
+
+1. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: In short, the passage treats methodological humility as a strength, not as an admission of ignorance.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+2. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: If anything is responsible, it is methodological humility, and therefore the passage presents as the lesson of heterogeneous catalysis on platinum surfaces: inference is constrained by what competing models would also predict.
+   A. surface microscopy as a device rather than as an analytic approach
+   B. poisoning by CO specifically, taken as an unambiguous measurement
+   C. adsorbate coverage effects alone, treated as the sole cause
+   D. the idea being discussed in the surrounding sentences
+
+3. [Factual Information] According to the passage, why does the author emphasize model assumptions?
+   A. The discussion indicates that replication is redundant if DFT surface modeling produces a tight fit on one dataset.
+   B. it prevents poisoning by CO from being treated as a self-interpreting fingerprint and forces tests that control catalyst deactivation
+   C. Because catalyst deactivation co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   D. The passage implies that DFT surface modeling directly measures causes, meaning confounding from catalyst deactivation is impossible.
+
+4. [Inference] Which of the following can be inferred from the passage?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when facet dependence can mimic poisoning by CO.
+   B. The passage suggests that poisoning by CO is primarily a rhetorical device rather than an empirical constraint on models.
+   C. The passage claims that the best strategy is to average away facet dependence, since variability is merely a measurement error.
+   D. The author treats automotive catalytic converters as a special case and argues that no broader inference about heterogeneous catalysis on platinum surfaces is possible.
+
+5. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage examines heterogeneous catalysis on platinum surfaces and argues that poisoning by CO is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how adsorbate coverage effects can shift the baseline, especially when evidence is drawn from laboratory single-crystal studies. Finally, it maintains that tests combining surface microscopy with boundary-condition checks are required to make claims about surface-mediated catalysis on pt robust.
+   B. The passage claims that platinum-catalyzed reaction pathways is settled because poisoning by CO uniquely identifies the mechanism. It argues that adsorbate coverage effects is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using surface microscopy are unnecessary.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats surface microscopy as a historical curiosity and does not discuss poisoning by CO or adsorbate coverage effects. It ends without any methodological implication.
+   D. The passage argues that metal-surface catalytic conversion cannot be studied empirically because confounders like adsorbate coverage effects make data meaningless. It recommends replacing measurement with intuition and rejecting surface microscopy as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+6. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | DFT surface modeling | May not generalize across contexts |
+   | Signal | rate enhancement | Can be degenerate with another effect |
+   | Confounder | adsorbate coverage effects | Can mimic the target feature |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves poisoning by CO is unique.
+   B. Can be degenerate with another effect
+   C. It replaces in situ spectroscopy with intuition.
+   D. It makes adsorbate coverage effects irrelevant.
+
+7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates facet dependence.
+   B. Aggregation guarantees that the same mechanism operates in industrial hydrogenation reactors and everywhere else.
+   C. Some summaries seem consistent because they mix incompatible cases, not because selectivity shifts uniquely identifies one mechanism.
+   D. Incompatible cases should be ignored to keep an explanation based on in situ spectroscopy simple.
+
+8. [Rhetorical Purpose] What is the author’s main reason for mentioning an alternative model?
+   A. The author suggests that the key synonym 'metal-surface catalytic conversion' refers to a different field altogether, not to heterogeneous catalysis on platinum surfaces.
+   B. The author argues that temperature-programmed desorption should be replaced by an unmodeled trend line because assumptions distort evidence.
+   C. The discussion suggests that facet dependence is the phenomenon itself, so controlling for it would remove the effect of interest.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where temperature-programmed desorption constrains facet dependence
+
+9. [Vocabulary] In the passage, the word **approximate** in the sentence below is closest in meaning to:
+   Sentence: If one wishes to move from description to explanation, a different prediction follows: then the same observation—poisoning by CO—must be paired with tests that change the conditions under which it appears.
+   A. complete and final, so no further checks like in situ spectroscopy are needed
+   B. unavoidable and uncontrollable because support interactions dominates all evidence
+   C. irrelevant to heterogeneous catalysis on platinum surfaces, serving only as background detail
+   D. rough
+
+10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. in situ spectroscopy
+   B. structure-sensitive activity
+   C. a list of Olympic medal counts
+   D. Heterogeneous Catalysis on Platinum Surfaces
+
+
+Answer Key
+----------
+1: D
+2: D
+3: B
+4: A
+5: A
+6: B
+7: C
+8: D
+9: D
+10: C
