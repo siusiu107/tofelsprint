@@ -1,0 +1,27 @@
+{
+  "set": 25,
+  "format": "lecture",
+  "domain": "Geology",
+  "subtopic": "Seismic tomography and mantle plumes",
+  "mode": "lecture_case",
+  "technical_terms": [
+    "mantle convection",
+    "varve",
+    "seismic wave",
+    "magma chamber",
+    "tomography",
+    "karst",
+    "fault plane",
+    "isotope ratio",
+    "lithosphere"
+  ],
+  "function_phrase": "The tricky part is",
+  "main_point": "The professor explains Seismic tomography and mantle plumes and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes mantle convection (a process) from magma chamber (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving isotope ratio and varve.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a tools tangent to show real-world constraints.",
+  "connecting_point": "The example about controlling for karst shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}

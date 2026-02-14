@@ -1,0 +1,27 @@
+{
+  "set": 29,
+  "format": "conversation",
+  "domain": "Geology",
+  "subtopic": "Glacial varves as annual climate archives",
+  "mode": "conversation_problem",
+  "technical_terms": [
+    "karst",
+    "lithosphere",
+    "mantle convection",
+    "fault plane",
+    "subduction",
+    "seismic wave",
+    "tomography",
+    "magma chamber",
+    "isotope ratio"
+  ],
+  "function_phrase": "If you remember one thing, remember this:",
+  "main_point": "Student 1 asks about Glacial varves as annual climate archives but then shifts to professor wellbeing.",
+  "detail1": "Student 2 explains that missing documentation is treated differently from submitting late.",
+  "detail2": "The conversation includes a sudden topic shift after the initial problem is mostly addressed.",
+  "attitude": "Supportive, slightly casual; Student 2 gives practical advice.",
+  "organization_point": "Student 2 uses a tangent about a lab mishap to justify keeping proof of submission.",
+  "connecting_point": "The step-by-step plan shows how to avoid the portal splitting a request into multiple submissions.",
+  "has_purpose_shift": true,
+  "has_self_correction": true
+}

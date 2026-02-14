@@ -1,0 +1,27 @@
+{
+  "set": 27,
+  "format": "lecture",
+  "domain": "Geology",
+  "subtopic": "Karst aquifers and sinkhole formation",
+  "mode": "lecture_demo",
+  "technical_terms": [
+    "mantle convection",
+    "magma chamber",
+    "lithosphere",
+    "tomography",
+    "subduction",
+    "seismic wave",
+    "karst",
+    "isotope ratio",
+    "fault plane"
+  ],
+  "function_phrase": "I’m glad you asked.",
+  "main_point": "The professor explains Karst aquifers and sinkhole formation and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes mantle convection (a process) from tomography (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving isotope ratio and magma chamber.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about an ethics aside to show real-world constraints.",
+  "connecting_point": "The example about controlling for seismic wave shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}
