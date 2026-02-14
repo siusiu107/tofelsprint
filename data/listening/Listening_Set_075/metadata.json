@@ -1,0 +1,27 @@
+{
+  "set": 75,
+  "format": "lecture",
+  "domain": "Public Health",
+  "subtopic": "Clinical trials: randomization and confounding",
+  "mode": "lecture_case",
+  "technical_terms": [
+    "superspreading",
+    "confounding",
+    "specificity",
+    "privacy",
+    "protocol",
+    "randomization",
+    "triage",
+    "selective pressure",
+    "signal artifact"
+  ],
+  "function_phrase": "To put it bluntly,",
+  "main_point": "The professor explains Clinical trials: randomization and confounding and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes superspreading (a process) from privacy (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving selective pressure and confounding.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a historical aside to show real-world constraints.",
+  "connecting_point": "The example about controlling for randomization shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}

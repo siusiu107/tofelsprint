@@ -1,0 +1,10 @@
+Narrator: Listen to part of a lecture in a public health class.
+Professor: I’m going to begin with a weird question that sounds unrelated. It isn’t. Sort of, Today we're talking about Clinical trials: randomization and confounding. I'll toss around a couple terms—superspreading, I guess, confounding, specificity—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say superspreading, is that basically privacy, or is it a different mechanism?
+Professor: To put it bluntly, superspreading is the process, and privacy is usually a proxy or a measurement for it. People mix them up because the plot looks clean, but the causality is messy.
+Professor: Quick tangent: a brief historical aside about who first proposed the idea. That’s why protocol and randomization matter—those are constraints, not trivia.
+Professor: They redo the protocol: randomize order, blind the analysis, add an internal standard. Only after that do they treat the shift in triage as real rather than an artifact.
+Professor: Let’s frame it as a case. A team collects samples, you know, builds a pipeline, and expects a clean result. Instead they see dependence on protocol. First they blame noise, then they realize the sampling window biased the baseline.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: Good. Uh, Look for an asymmetric prediction. Explanation A implies a change in selective pressure even if confounding stays constant; Explanation B doesn’t. Design a small test around that hinge point—No, wait, I meant privacy, not superspreading.
+Professor: Anyway, to wrap up: Clinical trials: randomization and confounding is less about one fact and more about reasoning under constraints. Watch the proxies, watch the instruments, and don’t fall in love with one pretty plot.

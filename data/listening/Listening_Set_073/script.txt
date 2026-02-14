@@ -1,0 +1,12 @@
+Narrator: Listen to part of a lecture in a public health class.
+Professor: I’m going to begin with a weird question that sounds unrelated. Um, It isn’t. Today we're talking about Antibiotic resistance and selective pressure. I'll toss around a couple terms—specificity, superspreading, selective pressure—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say specificity, is that basically privacy, or is it a different mechanism?
+Professor: L-Long Long— story short, specificity is the process, and privacy is usually a proxy or a measurement for it. People mix them up because the plot looks clean, but the causality is messy.
+Professor: Kind of, Quick tangent: a common misconception students have every semester. That’s why protocol and randomization matter—those are constraints, not trivia.
+Professor: They redo the protocol: randomize order, um, blind the analysis, add an internal standard. Only after that do they treat the shift in triage as real rather than an artifact.
+Professor: Let’s frame it as a case. A team collects samples, builds a pipeline, and expects a clean result. You know, Instead they see dependence on protocol. First they blame noise, you know, then they realize the sampling window biased the baseline.
+Professor: So what would you predict happens next?
+Professor: …Okay, that's fine. We'll do it together.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: Good. I guess, Look for an asymmetric prediction. Explanation A implies a change in sensitivity even if superspreading stays constant; Explanation B doesn’t. Design a small test around that hinge point.
+Professor: Anyway, like, to wrap up: Antibiotic resistance and selective pressure is less about one fact and more about reasoning under constraints. Watch the proxies, watch the instruments, and don’t fall in love with one pretty plot.

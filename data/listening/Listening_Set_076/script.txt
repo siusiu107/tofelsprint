@@ -1,0 +1,10 @@
+Narrator: Listen to part of a lecture in a public health class.
+Professor: Okay, quick show of hands—who actually did the reading? Yeah... that’s what I thought. Uh, Today we're talking about Diagnostic specificity vs sensitivity. I'll toss around a couple terms—privacy, specificity, confounding—but I'll translate them as we go.
+Student 1: Sorry—can I ask something? When you say privacy, like, is that basically randomization, or is it a different mechanism?
+Professor: Exactly. privacy is the process, um, and randomization is usually a proxy or a measurement for it. People mix them up ’cause the plot looks clean, but the causality is messy.
+Professor: Quick tangent: a minor lab mishap—like someone labeling tubes backwards—that forced the team to rethink their protocol. That’s why protocol and selective pressure matter—those are constraints, not trivia.
+Professor: Let’s do a mini-demo in our heads. Pretend you’re designing a measurement. If your instrument is sensitive to selective pressure but blind to sensitivity, you’ll misread the system. So you either redesign the measurement, or you model the bias and quantify uncertainty.
+Professor: This is where controls and replication come in. One control isolates specificity; another isolates protocol. If both fail, it’s not ‘bad luck’—it’s telling you the model assumptions are off.
+Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
+Professor: Good. Look for an asymmetric prediction. Sort of, Explanation A implies a change in sensitivity even if specificity stays constant; Explanation B doesn’t. Um, Design a small test around that hinge point.
+Professor: Anyway, uh, to wrap up: Diagnostic specificity vs sensitivity is less about one fact and more about reasoning under constraints. Watch the proxies, um, watch the instruments, and don’t fall in love with one pretty plot.

@@ -1,0 +1,27 @@
+{
+  "set": 74,
+  "format": "lecture",
+  "domain": "Public Health",
+  "subtopic": "R0, superspreading, and outbreak curves",
+  "mode": "lecture_demo",
+  "technical_terms": [
+    "specificity",
+    "triage",
+    "selective pressure",
+    "confounding",
+    "privacy",
+    "randomization",
+    "protocol",
+    "signal artifact",
+    "superspreading"
+  ],
+  "function_phrase": "Hold on—",
+  "main_point": "The professor explains R0, superspreading, and outbreak curves and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes specificity (a process) from confounding (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving signal artifact and triage.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a conference anecdote to show real-world constraints.",
+  "connecting_point": "The example about controlling for randomization shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}

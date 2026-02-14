@@ -1,0 +1,27 @@
+{
+  "set": 76,
+  "format": "lecture",
+  "domain": "Public Health",
+  "subtopic": "Diagnostic specificity vs sensitivity",
+  "mode": "lecture_demo",
+  "technical_terms": [
+    "privacy",
+    "specificity",
+    "confounding",
+    "randomization",
+    "protocol",
+    "selective pressure",
+    "triage",
+    "sensitivity",
+    "superspreading"
+  ],
+  "function_phrase": "Exactly.",
+  "main_point": "The professor explains Diagnostic specificity vs sensitivity and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes privacy (a process) from randomization (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving sensitivity and specificity.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a lab mishap to show real-world constraints.",
+  "connecting_point": "The example about controlling for selective pressure shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": false,
+  "has_self_correction": true
+}
