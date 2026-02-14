@@ -1,0 +1,156 @@
+Passage 0573: Residential Segregation and the Persistence of Neighborhood Inequality (Sociology)
+================================================================================================
+(Word count: 735)
+
+Against that intuitive story, researchers have treated disparate exposure to pollution as
+the decisive sign of residential segregation and the persistence of neighborhood inequality.
+Admittedly, spatial autocorrelation analysis can make the pattern look unusually sharp;
+nevertheless, the passage argues that such confidence is conditional and must be earned by
+specifying assumptions. the resulting debate is less about data collection than about what
+the data are evidence for, which helps explain why forces analysts to articulate boundary
+conditions rather than rely on familiar narratives.
+
+It is methodological humility, rather than a single headline feature, that the passage
+presents as the lesson of residential segregation and the persistence of neighborhood
+inequality: inference is constrained by what competing models would also predict. If one
+wishes to move from description to explanation, a different prediction follows: then the
+same observation—disparate exposure to pollution—must be paired with tests that change the
+conditions under which it appears. Whereas popular summaries treat disparate exposure to
+pollution as an endpoint looks decisive, the passage treats it as a starting point for
+sharper experimental or observational contrasts becomes more predictive under replication.
+In this sense, spatial stratification in cities is best treated as a conditional inference
+rather than as a mere label.
+
+It is the apparent regularity of disparate exposure to pollution, rather than a single
+headline feature, that drives the first interpretation: disparate exposure to pollution is
+treated as a direct readout of mechanism. [A] The argument hinges on what would change under
+an alternative explanation. Provided that disparate exposure to pollution is uniquely
+produced by one causal pathway, then observations from European migrant neighborhoods would
+be transferable, and disagreement would be largely technical. [B] The discussion treats
+exceptions as informative, not as errors to be discarded. So the literature is full of such
+claims, and so, too, does the evidence undermine the caveat that zoning rules and land-use
+regulation might reproduce the same pattern. [C] The discussion makes clear that measurement
+choices can masquerade as mechanism. [D] That point is not rhetorical; it controls which
+prediction follows.
+
+The decisive factor is methodological humility; once that is stated, the passage presents as
+the lesson of residential segregation and the persistence of neighborhood inequality:
+inference is constrained by what competing models would also predict. Unless one wishes to
+move from description to explanation, then the same observation—disparate exposure to
+pollution—must be paired with tests that change the conditions under which it appears cannot
+be claimed with confidence. Whereas popular summaries treat disparate exposure to pollution
+as an endpoint, the passage treats it as a starting point for sharper experimental or
+observational contrasts. In this sense, segregation-driven inequality across neighborhoods
+is best treated as a conditional inference rather than as a mere label.
+
+Only through the field adopted tests that manipulate or stratify zoning rules and land-use
+regulation could one reasonably claim that the debate became empirically productive rather
+than merely rhetorical. by comparing cases in which spatial autocorrelation analysis
+constrains alternatives, researchers could ask which predictions survive out of sample,
+which is precisely why is why the passage emphasizes comparative design over isolated
+exemplars. Even though a single case can be dramatic, the author does not deny the value of
+striking examples, but warns against treating them as representative.
+
+In replication attempts, the apparent consensus fractured when similar protocols were
+applied in settings unlike European migrant neighborhoods. the same summary statistic could
+be reproduced while the underlying mechanisms differed because zoning rules and land-use
+regulation shifted the baseline in different directions across sites. the author therefore
+separates detection from interpretation—not treating disparate exposure to pollution as a
+self-sufficient conclusion. In this sense, persistent neighborhood-level disparities is best
+treated as a conditional inference rather than as a mere label.
+
+In the end, the central disagreement can be stated more precisely: the passage concludes
+that the most informative evidence is often the evidence that forces competing assumptions
+into the open. by insisting that claims about residential segregation and the persistence of
+neighborhood inequality be conditional on stated priors, it turns disagreement into a tool
+for discovery, which helps explain why clarifies why the same record can yield multiple
+stories without implying that any story is arbitrary. the temptation to treat a tidy plot as
+a definitive answer is strong; still, the result is a framework in which disparate exposure
+to pollution is interpreted through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Vocabulary] In the passage, the word **robust** in the sentence below is closest in meaning to:
+   Sentence: Against that intuitive story, researchers have treated disparate exposure to pollution as the decisive sign of residential segregation and the persistence of neighborhood inequality.
+   A. complete and final, so no further checks like longitudinal panel data are needed
+   B. unavoidable and uncontrollable because zoning rules and land-use regulation dominates all evidence
+   C. irrelevant to residential segregation and the persistence of neighborhood inequality, serving only as background detail
+   D. strong and reliable
+
+2. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: It is methodological humility, rather than a single headline feature, that the passage presents as the lesson of residential segregation and the persistence of neighborhood inequality: inference is constrained by what competing models would also predict.
+   A. spatial autocorrelation analysis as a device rather than as an analytic approach
+   B. disparate exposure to pollution specifically, taken as an unambiguous measurement
+   C. the idea being discussed in the surrounding sentences
+   D. informational asymmetries in housing search alone, treated as the sole cause
+
+3. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. a recipe for bread fermentation
+   B. Residential Segregation and the Persistence of Neighborhood Inequality
+   C. longitudinal panel data
+   D. school-quality gradients
+
+4. [Rhetorical Purpose] The author’s discussion of an alternative hypothesis serves mainly to:
+   A. The discussion suggests that informational asymmetries in housing search is the phenomenon itself, so controlling for it would remove the effect of interest.
+   B. The passage implies that large U.S. metropolitan areas is chosen to avoid bias, so comparisons across settings are unnecessary.
+   C. The author argues that quasi-experimental policy evaluation should be replaced by an unmodeled trend line because assumptions distort evidence.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where quasi-experimental policy evaluation constrains informational asymmetries in housing search
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about residential segregation and the persistence of neighborhood inequality be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on longitudinal panel data simple.
+   B. Summaries are always reliable because averaging eliminates credit market discrimination.
+   C. Some summaries seem consistent because they mix incompatible cases, not because wealth accumulation gaps uniquely identifies one mechanism.
+   D. Aggregation guarantees that the same mechanism operates in post-industrial cities and everywhere else.
+
+6. [Inference] Which of the following can be inferred from the passage?
+   A. The passage claims that the best strategy is to average away zoning rules and land-use regulation, since variability is merely a measurement error.
+   B. A convincing explanation should make distinct predictions under shared protocols, especially when zoning rules and land-use regulation can mimic mobility constraints across space.
+   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving spatial autocorrelation analysis.
+   D. The passage suggests that mobility constraints across space is primarily a rhetorical device rather than an empirical constraint on models.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | mobility tracking with administrative records | Depends on modeling priors |
+   | Signal | wealth accumulation gaps | Can vary across epochs |
+   | Confounder | informational asymmetries in housing search | Can mimic the target feature |
+   Blank: The limitation for 'Confounder' is ________.
+   A. It replaces spatial autocorrelation analysis with intuition.
+   B. Can vary across epochs
+   C. Depends on modeling priors
+   D. Can mimic the target feature
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: In short, the passage treats methodological humility as a strength, not as an admission of ignorance.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+9. [Factual Information] According to the passage, why does the author emphasize instrument calibration?
+   A. The passage implies that audit studies in housing markets directly measures causes, meaning confounding from zoning rules and land-use regulation is impossible.
+   B. Because zoning rules and land-use regulation co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   C. it prevents wealth accumulation gaps from being treated as a self-interpreting fingerprint and forces tests that control zoning rules and land-use regulation
+   D. The author suggests that disagreement disappears once wealth accumulation gaps is detected, making model assumptions unnecessary.
+
+10. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage examines residential segregation and the persistence of neighborhood inequality and argues that school-quality gradients is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how informational asymmetries in housing search can shift the baseline, especially when evidence is drawn from European migrant neighborhoods. Finally, it maintains that tests combining mobility tracking with administrative records with boundary-condition checks are required to make claims about spatial stratification in cities robust.
+   B. The passage claims that segregation-driven inequality across neighborhoods is settled because school-quality gradients uniquely identifies the mechanism. It argues that informational asymmetries in housing search is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using mobility tracking with administrative records are unnecessary.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats mobility tracking with administrative records as a historical curiosity and does not discuss school-quality gradients or informational asymmetries in housing search. It ends without any methodological implication.
+   D. The passage argues that persistent neighborhood-level disparities cannot be studied empirically because confounders like informational asymmetries in housing search make data meaningless. It recommends replacing measurement with intuition and rejecting mobility tracking with administrative records as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+
+Answer Key
+----------
+1: D
+2: C
+3: A
+4: D
+5: C
+6: B
+7: D
+8: C
+9: C
+10: A

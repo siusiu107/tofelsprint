@@ -1,0 +1,156 @@
+Passage 0510: Heterogeneous Catalysis on Platinum Surfaces (Chemistry)
+======================================================================
+(Word count: 723)
+
+In operando measurement campaigns, the passage argues that researchers have treated
+structure-sensitive activity as the decisive sign of heterogeneous catalysis on platinum
+surfaces. To be sure, in situ spectroscopy can make the pattern look unusually sharp, yet
+the passage argues that such confidence is conditional and must be earned by specifying
+assumptions. the resulting debate is less about data collection than about what the data are
+evidence for, something that forces analysts to articulate boundary conditions rather than
+rely on familiar narratives.
+
+Not until the field adopted tests that manipulate or stratify adsorbate coverage effects did
+the debate became empirically productive rather than merely rhetorical. by comparing cases
+in which in situ spectroscopy constrains alternatives, researchers could ask which
+predictions survive out of sample; this, in turn, is why the passage emphasizes comparative
+design over isolated exemplars. Even if a single case can be dramatic, the author does not
+deny the value of striking examples, but warns against treating them as representative. In
+this sense, surface-mediated catalysis on pt is best treated as a conditional inference
+rather than as a mere label.
+
+In replication attempts, the central disagreement can be stated more precisely: the apparent
+consensus fractured when similar protocols were applied in settings unlike laboratory
+single-crystal studies. the same summary statistic could be reproduced while the underlying
+mechanisms differed because, as the author notes, adsorbate coverage effects shifted the
+baseline in different directions across sites. So the author therefore separates detection
+from interpretation, and so, too, does the evidence undermine treating structure-sensitive
+activity as a self-sufficient conclusion.
+
+Not the obvious explanation but the apparent regularity of structure-sensitive activity is
+what drives the first interpretation: structure-sensitive activity is treated as a direct
+readout of mechanism. [A] The passage frames uncertainty as an ingredient of inference
+rather than as an embarrassment. Were structure-sensitive activity is uniquely produced by
+one causal pathway to fail, then observations from laboratory single-crystal studies would
+be transferable, and disagreement would be largely technical. [B] This is why the author
+repeatedly contrasts what is measured with what is inferred. So the literature is full of
+such claims, and so, too, does the evidence undermine the caveat that adsorbate coverage
+effects might reproduce the same pattern. [C] The author notes that generalization requires
+more than a single well-chosen case. [D] The discussion treats exceptions as informative,
+not as errors to be discarded. In this sense, platinum-catalyzed reaction pathways is best
+treated as a conditional inference rather than as a mere label.
+
+The point is not X but methodological humility; in that framing, the passage presents as the
+lesson of heterogeneous catalysis on platinum surfaces: inference is constrained by what
+competing models would also predict. Unless one wishes to move from description to
+explanation, then the same observation—structure-sensitive activity—must be paired with
+tests that change the conditions under which it appears cannot be claimed with confidence.
+Whereas popular summaries treat structure-sensitive activity as an endpoint is easy to
+measure, the passage treats it as a starting point for sharper experimental or observational
+contrasts is harder to interpret without assumptions.
+
+What matters most is methodological humility, which is why the passage presents as the
+lesson of heterogeneous catalysis on platinum surfaces: inference is constrained by what
+competing models would also predict. If one wishes to move from description to explanation,
+then the same observation—structure-sensitive activity—must be paired with tests that change
+the conditions under which it appears. Whereas popular summaries treat structure-sensitive
+activity as an endpoint may be convenient, the passage treats it as a starting point for
+sharper experimental or observational contrasts is scientifically revealing. In this sense,
+metal-surface catalytic conversion is best treated as a conditional inference rather than as
+a mere label.
+
+In the end, researchers found that the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about heterogeneous catalysis on platinum surfaces be conditional on stated priors,
+it turns disagreement into a tool for discovery, which forces analysts to admit that
+clarifies why the same record can yield multiple stories without implying that any story is
+arbitrary. Admittedly, the temptation to treat a tidy plot as a definitive answer is strong;
+nevertheless, the result is a framework in which structure-sensitive activity is interpreted
+through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | surface microscopy | Samples only part of the system |
+   | Signal | rate enhancement | Can be degenerate with another effect |
+   | Confounder | adsorbate coverage effects | Shifts the baseline |
+   Blank: The limitation for 'Method' is ________.
+   A. Samples only part of the system
+   B. It proves selectivity shifts is unique.
+   C. Can be degenerate with another effect
+   D. It replaces temperature-programmed desorption with intuition.
+
+2. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns disagreement into a tool for discovery, which forces analysts to admit that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on microkinetic modeling simple.
+   B. Some summaries seem consistent because they mix incompatible cases, not because rate enhancement uniquely identifies one mechanism.
+   C. Summaries are always reliable because averaging eliminates facet dependence.
+   D. Aggregation guarantees that the same mechanism operates in laboratory single-crystal studies and everywhere else.
+
+3. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that platinum-catalyzed reaction pathways is settled because structure-sensitive activity uniquely identifies the mechanism. It argues that adsorbate coverage effects is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using surface microscopy are unnecessary.
+   B. The passage argues that metal-surface catalytic conversion cannot be studied empirically because confounders like adsorbate coverage effects make data meaningless. It recommends replacing measurement with intuition and rejecting surface microscopy as unreliable. It concludes that debate persists because evidence never constrains theory.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats surface microscopy as a historical curiosity and does not discuss structure-sensitive activity or adsorbate coverage effects. It ends without any methodological implication.
+   D. The passage examines heterogeneous catalysis on platinum surfaces and argues that structure-sensitive activity is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how adsorbate coverage effects can shift the baseline, especially when evidence is drawn from automotive catalytic converters. Finally, it maintains that tests combining surface microscopy with boundary-condition checks are required to make claims about surface-mediated catalysis on pt robust.
+
+4. [Factual Information] The passage indicates that comparability across cases is important mainly because:
+   A. The discussion indicates that replication is redundant if DFT surface modeling produces a tight fit on one dataset.
+   B. The author suggests that disagreement disappears once poisoning by CO is detected, making model assumptions unnecessary.
+   C. it prevents poisoning by CO from being treated as a self-interpreting fingerprint and forces tests that control catalyst deactivation
+   D. Because poisoning by CO appears, the mechanism must be unique, so catalyst deactivation can be ignored as irrelevant noise.
+
+5. [Rhetorical Purpose] Why does the author discuss competing theories?
+   A. The discussion suggests that catalyst deactivation is the phenomenon itself, so controlling for it would remove the effect of interest.
+   B. The author suggests that the key synonym 'surface-mediated catalysis on Pt' refers to a different field altogether, not to heterogeneous catalysis on platinum surfaces.
+   C. The author argues that temperature-programmed desorption should be replaced by an unmodeled trend line because assumptions distort evidence.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where temperature-programmed desorption constrains catalyst deactivation
+
+6. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. structure-sensitive activity
+   B. Heterogeneous Catalysis on Platinum Surfaces
+   C. the length of the Nile in miles
+   D. in situ spectroscopy
+
+7. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [B] This is why the author repeatedly contrasts what is measured with what is inferred.
+   A. in situ spectroscopy as a device rather than as an analytic approach
+   B. facet dependence alone, treated as the sole cause
+   C. poisoning by CO specifically, taken as an unambiguous measurement
+   D. the idea being discussed in the surrounding sentences
+
+8. [Vocabulary] In the passage, the word **attenuated** in the sentence below is closest in meaning to:
+   Sentence: The point is not X but methodological humility; in that framing, the passage presents as the lesson of heterogeneous catalysis on platinum surfaces: inference is constrained by what competing models would also predict.
+   A. weakened
+   B. unavoidable and uncontrollable because facet dependence dominates all evidence
+   C. complete and final, so no further checks like temperature-programmed desorption are needed
+   D. irrelevant to heterogeneous catalysis on platinum surfaces, serving only as background detail
+
+9. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The passage implies that 'noise' is sometimes a label for unmodeled structure rather than a property of the world itself.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+10. [Inference] The passage suggests which of the following?
+   A. The passage suggests that poisoning by CO is primarily a rhetorical device rather than an empirical constraint on models.
+   B. A convincing explanation should make distinct predictions under shared protocols, especially when support interactions can mimic poisoning by CO.
+   C. The passage claims that the best strategy is to average away support interactions, since variability is merely a measurement error.
+   D. The author treats automotive catalytic converters as a special case and argues that no broader inference about heterogeneous catalysis on platinum surfaces is possible.
+
+
+Answer Key
+----------
+1: A
+2: B
+3: D
+4: C
+5: D
+6: C
+7: D
+8: A
+9: D
+10: B

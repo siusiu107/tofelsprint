@@ -1,0 +1,158 @@
+Passage 0539: Network Diffusion of Innovations in Social Media (Sociology)
+==========================================================================
+(Word count: 763)
+
+In large-scale platform studies, the passage argues that researchers have treated homophily
+versus influence diagnostics as the decisive sign of network diffusion of innovations in
+social media. Despite the fact that trace-data analysis can make the pattern look unusually
+sharp, the passage argues that such confidence is conditional and must be earned by
+specifying assumptions. the resulting debate is less about data collection than about what
+the data are evidence for, an outcome that forces analysts to articulate boundary conditions
+rather than rely on familiar narratives.
+
+It is methodological humility that the passage presents as the lesson of network diffusion
+of innovations in social media: inference is constrained by what competing models would also
+predict. Were one wishes to move from description to explanation to fail, then the same
+observation—homophily versus influence diagnostics—must be paired with tests that change the
+conditions under which it appears. Whereas popular summaries treat homophily versus
+influence diagnostics as an endpoint invites a tidy story, the passage treats it as a
+starting point for sharper experimental or observational contrasts forces boundary
+conditions to be stated. In this sense, contagion-like spread of new behaviors is best
+treated as a conditional inference rather than as a mere label.
+
+Working with sparse records and limited controls on endogeneity of peer selection, the
+passage suggests many early studies framed network diffusion of innovations in social media
+as a single-mechanism phenomenon. Whereas those studies emphasized homophily versus
+influence diagnostics as a signature in one account, later work asked whether the same
+signature survives when protocols and baselines differ in another. this shift mattered for
+how evidence from online communities was generalized in part because local conditions can
+change which processes generate homophily versus influence diagnostics.
+
+Seldom, prior to the field adopted tests that manipulate or stratify endogeneity of peer
+selection, did investigators concede that the debate became empirically productive rather
+than merely rhetorical. by comparing cases in which trace-data analysis constrains
+alternatives, researchers could ask which predictions survive out of sample, which forces
+analysts to admit that is why the passage emphasizes comparative design over isolated
+exemplars. While it is true that a single case can be dramatic, the author does not deny the
+value of striking examples, but warns against treating them as representative. In this
+sense, peer-to-peer adoption cascades in networks is best treated as a conditional inference
+rather than as a mere label.
+
+Only by analysts began combining trace-data analysis with cross-site comparisons was the
+field forced to accept that claims about network diffusion of innovations in social media
+stopped relying on a single figure and started relying on falsifiable predictions. the goal
+was to break degeneracies in which homophily versus influence diagnostics could be explained
+in more than one way because, as the author notes, confounders like endogeneity of peer
+selection often co-vary with the driver. as the author notes, transparency about priors
+became an empirical issue rather than a stylistic choice; this, in turn, changes whether two
+analyses are actually comparable.
+
+To be sure, the first model can fit one dataset extremely well, yet the passage insists that
+uniqueness is precisely what must be shown, not assumed. [A] The argument hinges on what
+would change under an alternative explanation. it highlights how endogeneity of peer
+selection can shift baselines, altering whether homophily versus influence diagnostics is
+even comparable across cases, which helps explain why means that a good fit is not the same
+as a good explanation. [B] The author uses the example to separate detection from
+interpretation. Were endogeneity of peer selection is changed while the nominal driver
+remains constant to fail, one should expect different outcomes when conditions are
+perturbed. [C] That point is not rhetorical; it controls which prediction follows. [D] The
+author notes that generalization requires more than a single well-chosen case. In this
+sense, innovation diffusion through social graphs is best treated as a conditional inference
+rather than as a mere label.
+
+In the end, the central disagreement can be stated more precisely: the passage concludes
+that the most informative evidence is often the evidence that forces competing assumptions
+into the open. by insisting that claims about network diffusion of innovations in social
+media be conditional on stated priors, it turns disagreement into a tool for discovery,
+something that clarifies why the same record can yield multiple stories without implying
+that any story is arbitrary. Admittedly, the temptation to treat a tidy plot as a definitive
+answer is strong; nevertheless, the result is a framework in which homophily versus
+influence diagnostics is interpreted through explicit boundary conditions rather than
+through habit.
+
+Questions
+---------
+
+1. [Rhetorical Purpose] What function does the comparison with another theory perform in the argument?
+   A. The author argues that trace-data analysis should be replaced by an unmodeled trend line because assumptions distort evidence.
+   B. The discussion suggests that measurement error in exposure is the phenomenon itself, so controlling for it would remove the effect of interest.
+   C. The author suggests that the key synonym 'innovation diffusion through social graphs' refers to a different field altogether, not to network diffusion of innovations in social media.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where trace-data analysis constrains measurement error in exposure
+
+2. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about network diffusion of innovations in social media be conditional on stated priors, it turns disagreement into a tool for discovery, something that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Aggregation guarantees that the same mechanism operates in university networks and everywhere else.
+   B. Summaries are always reliable because averaging eliminates status signaling incentives.
+   C. Some summaries seem consistent because they mix incompatible cases, not because cascade size distributions uniquely identifies one mechanism.
+   D. Incompatible cases should be ignored to keep an explanation based on agent-based modeling simple.
+
+3. [Inference] Which of the following can be inferred from the passage?
+   A. The passage claims that the best strategy is to average away measurement error in exposure, since variability is merely a measurement error.
+   B. The passage suggests that homophily versus influence diagnostics is primarily a rhetorical device rather than an empirical constraint on models.
+   C. A convincing explanation should make distinct predictions under shared protocols, especially when measurement error in exposure can mimic homophily versus influence diagnostics.
+   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using causal inference with instrumental variables.
+
+4. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: It is methodological humility that the passage presents as the lesson of network diffusion of innovations in social media: inference is constrained by what competing models would also predict.
+   A. the idea being discussed in the surrounding sentences
+   B. measurement error in exposure alone, treated as the sole cause
+   C. cascade size distributions specifically, taken as an unambiguous measurement
+   D. agent-based modeling as a device rather than as an analytic approach
+
+5. [Vocabulary] In the passage, the word **attenuated** in the sentence below is closest in meaning to:
+   Sentence: [D] The author notes that generalization requires more than a single well-chosen case.
+   A. unavoidable and uncontrollable because status signaling incentives dominates all evidence
+   B. weakened
+   C. complete and final, so no further checks like causal inference with instrumental variables are needed
+   D. irrelevant to network diffusion of innovations in social media, serving only as background detail
+
+6. [Factual Information] The passage indicates that replication across contexts is important mainly because:
+   A. The passage implies that causal inference with instrumental variables directly measures causes, meaning confounding from platform governance changes is impossible.
+   B. Because platform governance changes co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   C. Because algorithmic amplification signatures appears, the mechanism must be unique, so platform governance changes can be ignored as irrelevant noise.
+   D. it prevents algorithmic amplification signatures from being treated as a self-interpreting fingerprint and forces tests that control platform governance changes
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | causal inference with instrumental variables | May not generalize across contexts |
+   | Signal | threshold adoption patterns | Can be contaminated by background variability |
+   | Confounder | measurement error in exposure | Can mimic the target feature |
+   Blank: The limitation for 'Signal' is ________.
+   A. Can be contaminated by background variability
+   B. Can mimic the target feature
+   C. It makes platform governance changes irrelevant.
+   D. May not generalize across contexts
+
+8. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. network analysis
+   B. a list of Olympic medal counts
+   C. Network Diffusion of Innovations in Social Media
+   D. threshold adoption patterns
+
+9. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage examines network diffusion of innovations in social media and argues that homophily versus influence diagnostics is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how platform governance changes can shift the baseline, especially when evidence is drawn from workplace communication graphs. Finally, it maintains that tests combining network analysis with boundary-condition checks are required to make claims about contagion-like spread of new behaviors robust.
+   B. The passage claims that peer-to-peer adoption cascades in networks is settled because homophily versus influence diagnostics uniquely identifies the mechanism. It argues that platform governance changes is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using network analysis are unnecessary.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats network analysis as a historical curiosity and does not discuss homophily versus influence diagnostics or platform governance changes. It ends without any methodological implication.
+   D. The passage argues that innovation diffusion through social graphs cannot be studied empirically because confounders like platform governance changes make data meaningless. It recommends replacing measurement with intuition and rejecting network analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+10. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: As a result, the most valuable observations are often taken during transitions, when competing mechanisms diverge most clearly.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+
+Answer Key
+----------
+1: D
+2: C
+3: C
+4: A
+5: B
+6: D
+7: A
+8: B
+9: A
+10: D

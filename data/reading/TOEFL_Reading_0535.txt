@@ -1,0 +1,150 @@
+Passage 0535: Algorithmic Bias and Fairness Constraints in Automated Decision Systems (Technology)
+==================================================================================================
+(Word count: 772)
+
+Despite formal proofs, researchers have treated shifted decision thresholds as the decisive
+sign of algorithmic bias and fairness constraints in automated decision systems. audit
+studies with held-out groups can make the pattern look unusually sharp; still, the passage
+argues that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for,
+something that forces analysts to articulate boundary conditions rather than rely on
+familiar narratives. Not the obvious explanation but methodological humility is what the
+passage presents as the lesson of algorithmic bias and fairness constraints in automated
+decision systems: inference is constrained by what competing models would also predict. If
+one wishes to move from description to explanation, then the same observation—shifted
+decision thresholds—must be paired with tests that change the conditions under which it
+appears. Whereas popular summaries treat shifted decision thresholds as an endpoint, the
+passage treats it as a starting point for sharper experimental or observational contrasts.
+In this sense, bias in machine-learning decision pipelines is best treated as a conditional
+inference rather than as a mere label. Only through the field adopted tests that manipulate
+or stratify measurement error in sensitive attributes could one reasonably claim that the
+debate became empirically productive rather than merely rhetorical. by comparing cases in
+which audit studies with held-out groups constrains alternatives, researchers could ask
+which predictions survive out of sample, a move that is why the passage emphasizes
+comparative design over isolated exemplars. a single case can be dramatic; still, the author
+does not deny the value of striking examples, but warns against treating them as
+representative. Only after analysts began combining audit studies with held-out groups with
+cross-site comparisons did claims about algorithmic bias and fairness constraints in
+automated decision systems stopped relying on a single figure and started relying on
+falsifiable predictions. The passage argues that the goal was to break degeneracies in which
+shifted decision thresholds could be explained in more than one way because confounders like
+measurement error in sensitive attributes often co-vary with the driver. as the author
+notes, transparency about priors became an empirical issue rather than a stylistic choice,
+which helps explain why changes whether two analyses are actually comparable. Only after
+analysts began combining audit studies with held-out groups with cross-site comparisons did
+claims about algorithmic bias and fairness constraints in automated decision systems stopped
+relying on a single figure and started relying on falsifiable predictions. the goal was to
+break degeneracies in which shifted decision thresholds could be explained in more than one
+way in part because confounders like measurement error in sensitive attributes often co-vary
+with the driver. as the author notes, transparency about priors became an empirical issue
+rather than a stylistic choice, a move that changes whether two analyses are actually
+comparable. In this sense, fairness constraints under imperfect data is best treated as a
+conditional inference rather than as a mere label. Working with sparse records and limited
+controls on measurement error in sensitive attributes, the argument reframes the issue so
+that many early studies framed algorithmic bias and fairness constraints in automated
+decision systems as a single-mechanism phenomenon. [A] The passage emphasizes boundary
+conditions instead of treating them as afterthoughts. Whereas those studies emphasized
+shifted decision thresholds as a signature is easy to measure, later work asked whether the
+same signature survives when protocols and baselines differ is harder to interpret without
+assumptions. [B] The passage signals that a tidy fit may hide degenerate explanations. The
+passage argues that this shift mattered for how evidence from hiring and screening tools was
+generalized because local conditions can change which processes generate shifted decision
+thresholds. [C] Later comparisons reveal why this matters. [D] The passage frames
+uncertainty as an ingredient of inference rather than as an embarrassment. Using audit
+studies with held-out groups under stable conditions, the author treats the complication as
+diagnostic, so one frequently cited case from hiring and screening tools appeared to support
+the direct-readout view. To be sure, the original fit looked visually decisive, yet later,
+however, reanalysis showed that small shifts in measurement error in sensitive attributes
+altered the baseline enough to mute or mimic shifted decision thresholds. the passage treats
+this episode as diagnostic, something that illustrates why boundary conditions must be
+specified before generalization is attempted. In this sense, disparate impact in automated
+scoring is best treated as a conditional inference rather than as a mere label. In the end,
+it becomes plausible that the passage concludes that the most informative evidence is often
+the evidence that forces competing assumptions into the open.
+
+Questions
+---------
+
+1. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: Only after analysts began combining audit studies with held-out groups with cross-site comparisons did claims about algorithmic bias and fairness constraints in automated decision systems stopped relying on a single figure and started relying on falsifiable predictions.
+   A. Summaries are always reliable because averaging eliminates dataset shift.
+   B. Aggregation guarantees that the same mechanism operates in content moderation pipelines and everywhere else.
+   C. Incompatible cases should be ignored to keep an explanation based on bias–variance decomposition simple.
+   D. Some summaries seem consistent because they mix incompatible cases, not because calibration disparities uniquely identifies one mechanism.
+
+2. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Because the inference is underdetermined, the most informative tests are those that break degeneracies rather than those that merely sharpen one feature.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+3. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | counterfactual fairness tests | May not generalize across contexts |
+   | Signal | proxy variable leakage | Can vary across epochs |
+   | Confounder | measurement error in sensitive attributes | Adds correlated noise |
+   Blank: The limitation for 'Method' is ________.
+   A. It proves calibration disparities is unique.
+   B. Adds correlated noise
+   C. May not generalize across contexts
+   D. Can vary across epochs
+
+4. [Vocabulary] In the passage, the word **subtle** in the sentence below is closest in meaning to:
+   Sentence: as the author notes, transparency about priors became an empirical issue rather than a stylistic choice, which helps explain why changes whether two analyses are actually comparable.
+   A. slight
+   B. unavoidable and uncontrollable because feedback loops from deployment dominates all evidence
+   C. complete and final, so no further checks like causal graph specification are needed
+   D. irrelevant to algorithmic bias and fairness constraints in automated decision systems, serving only as background detail
+
+5. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: If one wishes to move from description to explanation, then the same observation—shifted decision thresholds—must be paired with tests that change the conditions under which it appears.
+   A. dataset shift alone, treated as the sole cause
+   B. calibration disparities specifically, taken as an unambiguous measurement
+   C. bias–variance decomposition as a device rather than as an analytic approach
+   D. the idea being discussed in the surrounding sentences
+
+6. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. counterfactual fairness tests
+   B. shifted decision thresholds
+   C. the author’s favorite color
+   D. Algorithmic Bias and Fairness Constraints in Automated Decision Systems
+
+7. [Factual Information] The passage indicates that boundary conditions is important mainly because:
+   A. The author suggests that disagreement disappears once error-rate gaps is detected, making model assumptions unnecessary.
+   B. it prevents error-rate gaps from being treated as a self-interpreting fingerprint and forces tests that control label bias
+   C. Because label bias co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   D. The discussion indicates that replication is redundant if causal graph specification produces a tight fit on one dataset.
+
+8. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that fairness constraints under imperfect data is settled because shifted decision thresholds uniquely identifies the mechanism. It argues that feedback loops from deployment is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using counterfactual fairness tests are unnecessary.
+   B. The passage examines algorithmic bias and fairness constraints in automated decision systems and argues that shifted decision thresholds is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how feedback loops from deployment can shift the baseline, especially when evidence is drawn from credit scoring systems. Finally, it maintains that tests combining counterfactual fairness tests with boundary-condition checks are required to make claims about bias in machine-learning decision pipelines robust.
+   C. The passage argues that disparate impact in automated scoring cannot be studied empirically because confounders like feedback loops from deployment make data meaningless. It recommends replacing measurement with intuition and rejecting counterfactual fairness tests as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats counterfactual fairness tests as a historical curiosity and does not discuss shifted decision thresholds or feedback loops from deployment. It ends without any methodological implication.
+
+9. [Inference] The passage suggests which of the following?
+   A. The passage suggests that shifted decision thresholds is primarily a rhetorical device rather than an empirical constraint on models.
+   B. A convincing explanation should make distinct predictions under shared protocols, especially when dataset shift can mimic shifted decision thresholds.
+   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving causal graph specification.
+   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using causal graph specification.
+
+10. [Rhetorical Purpose] Why does the author discuss competing theories?
+   A. The passage implies that credit scoring systems is chosen to avoid bias, so comparisons across settings are unnecessary.
+   B. The discussion suggests that dataset shift is the phenomenon itself, so controlling for it would remove the effect of interest.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where audit studies with held-out groups constrains dataset shift
+   D. The author suggests that the key synonym 'equity-aware model evaluation' refers to a different field altogether, not to algorithmic bias and fairness constraints in automated decision systems.
+
+
+Answer Key
+----------
+1: D
+2: D
+3: C
+4: A
+5: D
+6: C
+7: B
+8: B
+9: B
+10: C

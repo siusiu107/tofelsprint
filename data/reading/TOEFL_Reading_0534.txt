@@ -1,0 +1,156 @@
+Passage 0534: Network Diffusion of Innovations in Social Media (Sociology)
+==========================================================================
+(Word count: 729)
+
+In replication attempts, one sees why researchers have treated threshold adoption patterns
+as the decisive sign of network diffusion of innovations in social media. Even if causal
+inference with instrumental variables can make the pattern look unusually sharp, the passage
+argues that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for,
+something that forces analysts to articulate boundary conditions rather than rely on
+familiar narratives.
+
+To be sure, the first model can fit one dataset extremely well, yet the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how endogeneity of
+peer selection can shift baselines, altering whether threshold adoption patterns is even
+comparable across cases, something that means that a good fit is not the same as a good
+explanation. Provided that endogeneity of peer selection is changed while the nominal driver
+remains constant, one should expect different outcomes when conditions are perturbed. In
+this sense, contagion-like spread of new behaviors is best treated as a conditional
+inference rather than as a mere label.
+
+If anything is responsible, it is methodological humility, and therefore the passage
+presents as the lesson of network diffusion of innovations in social media: inference is
+constrained by what competing models would also predict. [A] This is presented not as a
+loophole, but as a disciplined way to avoid overclaiming. Should one wishes to move from
+description to explanation be true, then the same observation—threshold adoption
+patterns—must be paired with tests that change the conditions under which it appears. [B]
+That point is not rhetorical; it controls which prediction follows. Whereas popular
+summaries treat threshold adoption patterns as an endpoint looks decisive, the passage
+treats it as a starting point for sharper experimental or observational contrasts becomes
+more predictive under replication. [C] Later comparisons reveal why this matters. [D] The
+argument hinges on what would change under an alternative explanation.
+
+Not until analysts began combining causal inference with instrumental variables with cross-
+site comparisons did claims about network diffusion of innovations in social media stopped
+relying on a single figure and started relying on falsifiable predictions. the goal was to
+break degeneracies in which threshold adoption patterns could be explained in more than one
+way largely because confounders like endogeneity of peer selection often co-vary with the
+driver. as the author notes, transparency about priors became an empirical issue rather than
+a stylistic choice, something that changes whether two analyses are actually comparable. In
+this sense, peer-to-peer adoption cascades in networks is best treated as a conditional
+inference rather than as a mere label.
+
+It is the apparent regularity of threshold adoption patterns that drives the first
+interpretation: threshold adoption patterns is treated as a direct readout of mechanism. If
+threshold adoption patterns is uniquely produced by one causal pathway is granted, then
+observations from workplace communication graphs would be transferable, and disagreement
+would be largely technical. the literature is full of such claims, not because the caveat
+that endogeneity of peer selection might reproduce the same pattern, but because the
+assumptions differ.
+
+Using causal inference with instrumental variables under stable conditions, the author
+treats the complication as diagnostic, so one frequently cited case from workplace
+communication graphs appeared to support the direct-readout view. Although the original fit
+looked visually decisive, later, however, reanalysis showed that small shifts in endogeneity
+of peer selection altered the baseline enough to mute or mimic threshold adoption patterns.
+the passage treats this episode as diagnostic, an outcome that illustrates why boundary
+conditions must be specified before generalization is attempted. In this sense, innovation
+diffusion through social graphs is best treated as a conditional inference rather than as a
+mere label.
+
+In the end, the passage concludes that the most informative evidence is often the evidence
+that forces competing assumptions into the open. by insisting that claims about network
+diffusion of innovations in social media be conditional on stated priors, it turns
+disagreement into a tool for discovery, which forces analysts to admit that clarifies why
+the same record can yield multiple stories without implying that any story is arbitrary.
+Admittedly, the temptation to treat a tidy plot as a definitive answer is strong;
+nevertheless, the result is a framework in which threshold adoption patterns is interpreted
+through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that peer-to-peer adoption cascades in networks is settled because homophily versus influence diagnostics uniquely identifies the mechanism. It argues that platform governance changes is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using trace-data analysis are unnecessary.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats trace-data analysis as a historical curiosity and does not discuss homophily versus influence diagnostics or platform governance changes. It ends without any methodological implication.
+   C. The passage argues that innovation diffusion through social graphs cannot be studied empirically because confounders like platform governance changes make data meaningless. It recommends replacing measurement with intuition and rejecting trace-data analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage examines network diffusion of innovations in social media and argues that homophily versus influence diagnostics is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how platform governance changes can shift the baseline, especially when evidence is drawn from online communities. Finally, it maintains that tests combining trace-data analysis with boundary-condition checks are required to make claims about contagion-like spread of new behaviors robust.
+
+2. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | network analysis | Requires careful calibration |
+   | Signal | threshold adoption patterns | Can vary across epochs |
+   | Confounder | status signaling incentives | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. Can vary across epochs
+   B. It proves homophily versus influence diagnostics is unique.
+   C. It replaces trace-data analysis with intuition.
+   D. Co-varies with the driver of interest
+
+3. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This is presented not as a loophole, but as a disciplined way to avoid overclaiming.
+   A. cascade size distributions specifically, taken as an unambiguous measurement
+   B. agent-based modeling as a device rather than as an analytic approach
+   C. the idea being discussed in the surrounding sentences
+   D. status signaling incentives alone, treated as the sole cause
+
+4. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The author emphasizes that a clean-looking curve can still encode hidden choices, especially when preprocessing is treated as neutral.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+5. [Vocabulary] In the passage, the word **sparse** in the sentence below is closest in meaning to:
+   Sentence: [D] The argument hinges on what would change under an alternative explanation.
+   A. thinly spread
+   B. unavoidable and uncontrollable because endogeneity of peer selection dominates all evidence
+   C. irrelevant to network diffusion of innovations in social media, serving only as background detail
+   D. complete and final, so no further checks like A/B platform experiments are needed
+
+6. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about network diffusion of innovations in social media be conditional on stated priors, it turns disagreement into a tool for discovery, which forces analysts to admit that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on agent-based modeling simple.
+   B. Summaries are always reliable because averaging eliminates measurement error in exposure.
+   C. Some summaries seem consistent because they mix incompatible cases, not because homophily versus influence diagnostics uniquely identifies one mechanism.
+   D. Aggregation guarantees that the same mechanism operates in cross-platform ecosystems and everywhere else.
+
+7. [Rhetorical Purpose] What function does the comparison with another theory perform in the argument?
+   A. The passage treats algorithmic amplification signatures as a confounder and endogeneity of peer selection as the diagnostic signal that identifies the mechanism.
+   B. motivate clearer assumptions and stronger tests, such as comparing cases where A/B platform experiments constrains endogeneity of peer selection
+   C. The passage implies that cross-platform ecosystems is chosen to avoid bias, so comparisons across settings are unnecessary.
+   D. The discussion suggests that endogeneity of peer selection is the phenomenon itself, so controlling for it would remove the effect of interest.
+
+8. [Inference] The passage suggests which of the following?
+   A. The argument is that boundary conditions matter only for older studies, not for modern measurements using agent-based modeling.
+   B. The passage claims that the best strategy is to average away status signaling incentives, since variability is merely a measurement error.
+   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving agent-based modeling.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when status signaling incentives can mimic homophily versus influence diagnostics.
+
+9. [Factual Information] The passage indicates that confounder control is important mainly because:
+   A. it prevents cascade size distributions from being treated as a self-interpreting fingerprint and forces tests that control endogeneity of peer selection
+   B. The author suggests that disagreement disappears once cascade size distributions is detected, making model assumptions unnecessary.
+   C. The passage implies that trace-data analysis directly measures causes, meaning confounding from endogeneity of peer selection is impossible.
+   D. Since cascade size distributions is observed in online communities, it must generalize to every setting, regardless of boundary conditions.
+
+10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. Network Diffusion of Innovations in Social Media
+   B. cascade size distributions
+   C. the price of coal in 1700
+   D. agent-based modeling
+
+
+Answer Key
+----------
+1: D
+2: A
+3: C
+4: D
+5: A
+6: C
+7: B
+8: D
+9: A
+10: C

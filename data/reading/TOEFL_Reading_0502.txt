@@ -1,0 +1,149 @@
+Passage 0502: Antibiotic Stewardship and Resistance Evolution in Hospitals (Public Health)
+==========================================================================================
+(Word count: 673)
+
+When policy changes create natural experiments, researchers have treated treatment-failure
+rates as the decisive sign of antibiotic stewardship and resistance evolution in hospitals.
+While it is true that contact-network reconstruction can make the pattern look unusually
+sharp, the passage argues that such confidence is conditional and must be earned by
+specifying assumptions. the resulting debate is less about data collection than about what
+the data are evidence for, which helps explain why forces analysts to articulate boundary
+conditions rather than rely on familiar narratives.
+
+Working with sparse records and limited controls on horizontal gene transfer, it is
+difficult to deny that many early studies framed antibiotic stewardship and resistance
+evolution in hospitals as a single-mechanism phenomenon. [A] This is why the author
+repeatedly contrasts what is measured with what is inferred. Whereas those studies
+emphasized treatment-failure rates as a signature invites a tidy story, later work asked
+whether the same signature survives when protocols and baselines differ forces boundary
+conditions to be stated. [B] The author suggests that the same evidence can support multiple
+stories when priors differ. this shift mattered for how evidence from intensive-care units
+was generalized because local conditions can change which processes generate treatment-
+failure rates, which is why replication matters. [C] This reasoning matters because it
+changes what counts as a decisive test. [D] At first glance, the pattern seems obvious, yet
+the author frames it as conditional. In this sense, antimicrobial resistance dynamics in
+clinical settings is best treated as a conditional inference rather than as a mere label.
+
+Only by analysts began combining contact-network reconstruction with cross-site comparisons
+was the field forced to accept that claims about antibiotic stewardship and resistance
+evolution in hospitals stopped relying on a single figure and started relying on falsifiable
+predictions. the goal was to break degeneracies in which treatment-failure rates could be
+explained in more than one way largely because confounders like horizontal gene transfer
+often co-vary with the driver. as the author notes, transparency about priors became an
+empirical issue rather than a stylistic choice, which forces analysts to admit that changes
+whether two analyses are actually comparable.
+
+The decisive factor is methodological humility; once that is stated, the passage presents as
+the lesson of antibiotic stewardship and resistance evolution in hospitals: inference is
+constrained by what competing models would also predict. If one wishes to move from
+description to explanation, then the same observation—treatment-failure rates—must be paired
+with tests that change the conditions under which it appears. Whereas popular summaries
+treat treatment-failure rates as an endpoint looks decisive, the passage treats it as a
+starting point for sharper experimental or observational contrasts becomes more predictive
+under replication. In this sense, selection for resistant strains under antibiotic pressure
+is best treated as a conditional inference rather than as a mere label.
+
+Only when the field adopted tests that manipulate or stratify horizontal gene transfer did
+the debate became empirically productive rather than merely rhetorical. by comparing cases
+in which contact-network reconstruction constrains alternatives, researchers could ask which
+predictions survive out of sample, which helps explain why is why the passage emphasizes
+comparative design over isolated exemplars. Admittedly, a single case can be dramatic;
+nevertheless, the author does not deny the value of striking examples, but warns against
+treating them as representative. In this sense, hospital stewardship interventions is best
+treated as a conditional inference rather than as a mere label.
+
+In the end, it becomes plausible that the passage concludes that the most informative
+evidence is often the evidence that forces competing assumptions into the open. by insisting
+that claims about antibiotic stewardship and resistance evolution in hospitals be
+conditional on stated priors, it turns disagreement into a tool for discovery, which helps
+explain why clarifies why the same record can yield multiple stories without implying that
+any story is arbitrary. While it is true that the temptation to treat a tidy plot as a
+definitive answer is strong, the result is a framework in which treatment-failure rates is
+interpreted through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This is why the author repeatedly contrasts what is measured with what is inferred.
+   A. diagnostic intensity changes alone, treated as the sole cause
+   B. the idea being discussed in the surrounding sentences
+   C. interrupted time-series designs as a device rather than as an analytic approach
+   D. treatment-failure rates specifically, taken as an unambiguous measurement
+
+2. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: This is why the author dwells on assumptions: without them, two teams can analyze the same record and still disagree honestly.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+3. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats contact-network reconstruction as a historical curiosity and does not discuss shifts in resistance prevalence or patient-mix confounding. It ends without any methodological implication.
+   B. The passage claims that selection for resistant strains under antibiotic pressure is settled because shifts in resistance prevalence uniquely identifies the mechanism. It argues that patient-mix confounding is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using contact-network reconstruction are unnecessary.
+   C. The passage argues that hospital stewardship interventions cannot be studied empirically because confounders like patient-mix confounding make data meaningless. It recommends replacing measurement with intuition and rejecting contact-network reconstruction as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage examines antibiotic stewardship and resistance evolution in hospitals and argues that shifts in resistance prevalence is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how patient-mix confounding can shift the baseline, especially when evidence is drawn from regional hospital systems. Finally, it maintains that tests combining contact-network reconstruction with boundary-condition checks are required to make claims about antimicrobial resistance dynamics in clinical settings robust.
+
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. shifts in resistance prevalence
+   B. time-to-event survival analysis
+   C. Antibiotic Stewardship and Resistance Evolution in Hospitals
+   D. the price of coal in 1700
+
+5. [Vocabulary] In the passage, the word **conspicuous** in the sentence below is closest in meaning to:
+   Sentence: In this sense, hospital stewardship interventions is best treated as a conditional inference rather than as a mere label.
+   A. irrelevant to antibiotic stewardship and resistance evolution in hospitals, serving only as background detail
+   B. unavoidable and uncontrollable because diagnostic intensity changes dominates all evidence
+   C. easy to notice
+   D. complete and final, so no further checks like interrupted time-series designs are needed
+
+6. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | time-to-event survival analysis | Samples only part of the system |
+   | Signal | shifts in resistance prevalence | May be muted by other processes |
+   | Confounder | diagnostic intensity changes | Co-varies with the driver of interest |
+   Blank: The limitation for 'Confounder' is ________.
+   A. It replaces interrupted time-series designs with intuition.
+   B. Co-varies with the driver of interest
+   C. May be muted by other processes
+   D. Samples only part of the system
+
+7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about antibiotic stewardship and resistance evolution in hospitals be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates diagnostic intensity changes.
+   B. Aggregation guarantees that the same mechanism operates in regional hospital systems and everywhere else.
+   C. Incompatible cases should be ignored to keep an explanation based on contact-network reconstruction simple.
+   D. Some summaries seem consistent because they mix incompatible cases, not because outbreak clusters in wards uniquely identifies one mechanism.
+
+8. [Inference] The passage suggests which of the following?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when infection-control compliance variation can mimic shifts in resistance prevalence.
+   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving contact-network reconstruction.
+   C. The argument is that boundary conditions matter only for older studies, not for modern measurements using contact-network reconstruction.
+   D. The author treats regional hospital systems as a special case and argues that no broader inference about antibiotic stewardship and resistance evolution in hospitals is possible.
+
+9. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
+   A. The passage implies that regional hospital systems is chosen to avoid bias, so comparisons across settings are unnecessary.
+   B. The author suggests that the key synonym 'evolution of drug resistance in pathogens' refers to a different field altogether, not to antibiotic stewardship and resistance evolution in hospitals.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where contact-network reconstruction constrains infection-control compliance variation
+   D. The passage treats outbreak clusters in wards as a confounder and infection-control compliance variation as the diagnostic signal that identifies the mechanism.
+
+10. [Factual Information] According to the passage, why does the author emphasize instrument calibration?
+   A. it prevents clonal replacement patterns from being treated as a self-interpreting fingerprint and forces tests that control infection-control compliance variation
+   B. The discussion indicates that replication is redundant if time-to-event survival analysis produces a tight fit on one dataset.
+   C. The passage implies that time-to-event survival analysis directly measures causes, meaning confounding from infection-control compliance variation is impossible.
+   D. Because infection-control compliance variation co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+
+
+Answer Key
+----------
+1: B
+2: C
+3: D
+4: D
+5: C
+6: B
+7: D
+8: A
+9: C
+10: A

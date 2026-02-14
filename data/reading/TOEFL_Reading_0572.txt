@@ -1,0 +1,150 @@
+Passage 0572: Cholera Transmission and the Rise of Modern Sanitation (Public Health)
+====================================================================================
+(Word count: 790)
+
+When policy changes create natural experiments, researchers have treated rapid epidemic
+waves as the decisive sign of cholera transmission and the rise of modern sanitation. Even
+though time-series outbreak modeling can make the pattern look unusually sharp, the passage
+argues that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for, a
+move that forces analysts to articulate boundary conditions rather than rely on familiar
+narratives. It is methodological humility that the passage presents as the lesson of cholera
+transmission and the rise of modern sanitation: inference is constrained by what competing
+models would also predict. [A] The author notes that generalization requires more than a
+single well-chosen case. If one wishes to move from description to explanation is granted,
+then the same observation—rapid epidemic waves—must be paired with tests that change the
+conditions under which it appears. [B] This is why the author repeatedly contrasts what is
+measured with what is inferred. Whereas popular summaries treat rapid epidemic waves as an
+endpoint looks decisive, the passage treats it as a starting point for sharper experimental
+or observational contrasts becomes more predictive under replication. [C] The argument
+hinges on what would change under an alternative explanation. [D] The author uses the detour
+to show why a different metric would lead to a different conclusion. In this sense,
+waterborne vibrio cholerae diffusion is best treated as a conditional inference rather than
+as a mere label. Using time-series outbreak modeling under stable conditions, the passage
+suggests one frequently cited case from river-delta cities appeared to support the direct-
+readout view. the original fit looked visually decisive; still, later, however, reanalysis
+showed that small shifts in reporting bias and undercounting altered the baseline enough to
+mute or mimic rapid epidemic waves. the passage treats this episode as diagnostic, which
+helps explain why illustrates why boundary conditions must be specified before
+generalization is attempted. Despite the fact that the first model can fit one dataset
+extremely well, the passage insists that uniqueness is precisely what must be shown, not
+assumed. it highlights how reporting bias and undercounting can shift baselines, altering
+whether rapid epidemic waves is even comparable across cases, which forces analysts to admit
+that means that a good fit is not the same as a good explanation. Were reporting bias and
+undercounting is changed while the nominal driver remains constant to fail, one should
+expect different outcomes when conditions are perturbed. Hardly had analysts began combining
+time-series outbreak modeling with cross-site comparisons occurred when claims about cholera
+transmission and the rise of modern sanitation stopped relying on a single figure and
+started relying on falsifiable predictions. the goal was to break degeneracies in which
+rapid epidemic waves could be explained in more than one way because confounders like
+reporting bias and undercounting often co-vary with the driver, which is why replication
+matters. as the author notes, transparency about priors became an empirical issue rather
+than a stylistic choice; this, in turn, changes whether two analyses are actually
+comparable. In this sense, fecal–oral transmission via contaminated water is best treated as
+a conditional inference rather than as a mere label. What matters most is the apparent
+regularity of rapid epidemic waves, which is why drives the first interpretation: rapid
+epidemic waves is treated as a direct readout of mechanism. If rapid epidemic waves is
+uniquely produced by one causal pathway holds, then observations from river-delta cities
+would be transferable, and disagreement would be largely technical. Rather than the caveat
+that reporting bias and undercounting might reproduce the same pattern, the passage
+emphasizes that the literature is full of such claims. Using time-series outbreak modeling
+under stable conditions, the key question becomes whether one frequently cited case from
+river-delta cities appeared to support the direct-readout view. Admittedly, the original fit
+looked visually decisive; nevertheless, later, however, reanalysis showed that small shifts
+in reporting bias and undercounting altered the baseline enough to mute or mimic rapid
+epidemic waves. the passage treats this episode as diagnostic, an outcome that illustrates
+why boundary conditions must be specified before generalization is attempted. In this sense,
+cholera outbreaks shaped by infrastructure is best treated as a conditional inference rather
+than as a mere label. In the end, the central disagreement can be stated more precisely: the
+passage concludes that the most informative evidence is often the evidence that forces
+competing assumptions into the open. by insisting that claims about cholera transmission and
+the rise of modern sanitation be conditional on stated priors, it turns disagreement into a
+tool for discovery, which is precisely why clarifies why the same record can yield multiple
+stories without implying that any story is arbitrary.
+
+Questions
+---------
+
+1. [Factual Information] The passage indicates that instrument calibration is important mainly because:
+   A. Because attack-rate gradients appears, the mechanism must be unique, so access inequality can be ignored as irrelevant noise.
+   B. Since attack-rate gradients is observed in coastal urban centers, it must generalize to every setting, regardless of boundary conditions.
+   C. it prevents attack-rate gradients from being treated as a self-interpreting fingerprint and forces tests that control access inequality
+   D. The passage implies that time-series outbreak modeling directly measures causes, meaning confounding from access inequality is impossible.
+
+2. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | spatial epidemiology | Depends on modeling priors |
+   | Signal | rapid epidemic waves | Can be degenerate with another effect |
+   | Confounder | miasma versus germ-theory assumptions | Changes the apparent slope |
+   Blank: The limitation for 'Signal' is ________.
+   A. Depends on modeling priors
+   B. Can be degenerate with another effect
+   C. It replaces intervention evaluation with intuition.
+   D. Changes the apparent slope
+
+3. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [B] This is why the author repeatedly contrasts what is measured with what is inferred.
+   A. the idea being discussed in the surrounding sentences
+   B. miasma versus germ-theory assumptions alone, treated as the sole cause
+   C. spatial epidemiology as a device rather than as an analytic approach
+   D. clustered cases around water sources specifically, taken as an unambiguous measurement
+
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. rapid epidemic waves
+   B. Cholera Transmission and the Rise of Modern Sanitation
+   C. spatial epidemiology
+   D. a list of Olympic medal counts
+
+5. [Vocabulary] In the passage, the word **conditional** in the sentence below is closest in meaning to:
+   Sentence: Even though time-series outbreak modeling can make the pattern look unusually sharp, the passage argues that such confidence is conditional and must be earned by specifying assumptions.
+   A. dependent on conditions
+   B. complete and final, so no further checks like microbial culture and sequencing are needed
+   C. unavoidable and uncontrollable because access inequality dominates all evidence
+   D. irrelevant to cholera transmission and the rise of modern sanitation, serving only as background detail
+
+6. [Rhetorical Purpose] What is the primary purpose of presenting more than one explanation?
+   A. The passage treats mortality declines after filtration as a confounder and seasonality and mobility patterns as the diagnostic signal that identifies the mechanism.
+   B. The passage implies that Haiti outbreak settings is chosen to avoid bias, so comparisons across settings are unnecessary.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where time-series outbreak modeling constrains seasonality and mobility patterns
+   D. The discussion suggests that seasonality and mobility patterns is the phenomenon itself, so controlling for it would remove the effect of interest.
+
+7. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that fecal–oral transmission via contaminated water is settled because attack-rate gradients uniquely identifies the mechanism. It argues that access inequality is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using microbial culture and sequencing are unnecessary.
+   B. The passage examines cholera transmission and the rise of modern sanitation and argues that attack-rate gradients is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how access inequality can shift the baseline, especially when evidence is drawn from river-delta cities. Finally, it maintains that tests combining microbial culture and sequencing with boundary-condition checks are required to make claims about waterborne vibrio cholerae diffusion robust.
+   C. The passage argues that cholera outbreaks shaped by infrastructure cannot be studied empirically because confounders like access inequality make data meaningless. It recommends replacing measurement with intuition and rejecting microbial culture and sequencing as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats microbial culture and sequencing as a historical curiosity and does not discuss attack-rate gradients or access inequality. It ends without any methodological implication.
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: In other words, the disagreement is not about whether the data exist, but about what the data are evidence for.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+9. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about cholera transmission and the rise of modern sanitation be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates reporting bias and undercounting.
+   B. Aggregation guarantees that the same mechanism operates in coastal urban centers and everywhere else.
+   C. Some summaries seem consistent because they mix incompatible cases, not because rapid epidemic waves uniquely identifies one mechanism.
+   D. Incompatible cases should be ignored to keep an explanation based on historical case mapping simple.
+
+10. [Inference] Which of the following can be inferred from the passage?
+   A. The passage claims that the best strategy is to average away reporting bias and undercounting, since variability is merely a measurement error.
+   B. The author treats coastal urban centers as a special case and argues that no broader inference about cholera transmission and the rise of modern sanitation is possible.
+   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving intervention evaluation.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when reporting bias and undercounting can mimic attack-rate gradients.
+
+
+Answer Key
+----------
+1: C
+2: B
+3: A
+4: D
+5: A
+6: C
+7: B
+8: C
+9: C
+10: D
