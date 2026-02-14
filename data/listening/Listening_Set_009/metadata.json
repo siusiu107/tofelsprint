@@ -1,0 +1,27 @@
+{
+  "set": 9,
+  "format": "conversation",
+  "domain": "Astronomy",
+  "subtopic": "Transit photometry and exoplanet radius estimates",
+  "mode": "conversation_problem",
+  "technical_terms": [
+    "redshift",
+    "eccentricity",
+    "Keplerian",
+    "magnetosphere",
+    "parallax",
+    "light curve",
+    "spectroscopy",
+    "orbital period",
+    "signal-to-noise ratio"
+  ],
+  "function_phrase": "Think of it this way:",
+  "main_point": "Student 1 asks for help with a campus process related to Transit photometry and exoplanet radius estimates.",
+  "detail1": "Student 2 explains that missing documentation is treated differently from submitting late.",
+  "detail2": "Student 2 suggests saving a confirmation page and ticket number.",
+  "attitude": "Supportive, slightly casual; Student 2 gives practical advice.",
+  "organization_point": "Student 2 uses a tangent about a lab mishap to justify keeping proof of submission.",
+  "connecting_point": "The step-by-step plan shows how to avoid the portal splitting a request into multiple submissions.",
+  "has_purpose_shift": false,
+  "has_self_correction": true
+}

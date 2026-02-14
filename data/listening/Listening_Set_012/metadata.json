@@ -1,0 +1,27 @@
+{
+  "set": 12,
+  "format": "lecture",
+  "domain": "Astronomy",
+  "subtopic": "Pulsar timing arrays and nanohertz gravitational waves",
+  "mode": "lecture_debate",
+  "technical_terms": [
+    "eccentricity",
+    "Keplerian",
+    "light curve",
+    "orbital period",
+    "parallax",
+    "magnetosphere",
+    "photons",
+    "signal-to-noise ratio",
+    "redshift"
+  ],
+  "function_phrase": "Don’t get hung up on the numbers—",
+  "main_point": "The professor explains Pulsar timing arrays and nanohertz gravitational waves and how to interpret evidence when measurements can be misleading.",
+  "detail1": "The professor distinguishes eccentricity (a process) from orbital period (a proxy/measurement).",
+  "detail2": "He suggests testing an asymmetric prediction involving signal-to-noise ratio and Keplerian.",
+  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
+  "organization_point": "He adds a tangent about a funding detail to show real-world constraints.",
+  "connecting_point": "The example about controlling for magnetosphere shows how bias can flip an apparent pattern.",
+  "has_awkward_silence": true,
+  "has_self_correction": true
+}
