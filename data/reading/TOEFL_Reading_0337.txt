@@ -1,0 +1,156 @@
+Passage 0337: Subduction-Zone Megathrust Earthquakes and Slow Slip (Geology)
+============================================================================
+(Word count: 749)
+
+In hazard assessments, the central disagreement can be stated more precisely: researchers
+have treated transient surface deformation as the decisive sign of subduction-zone
+megathrust earthquakes and slow slip. Although numerical rupture simulations can make the
+pattern look unusually sharp, the passage argues that such confidence is conditional and
+must be earned by specifying assumptions. the resulting debate is less about data collection
+than about what the data are evidence for, which forces analysts to admit that forces
+analysts to articulate boundary conditions rather than rely on familiar narratives.
+
+Seldom, prior to analysts began combining numerical rupture simulations with cross-site
+comparisons, did investigators concede that claims about subduction-zone megathrust
+earthquakes and slow slip stopped relying on a single figure and started relying on
+falsifiable predictions. The passage argues that the goal was to break degeneracies in which
+transient surface deformation could be explained in more than one way because confounders
+like stress transfer after large events often co-vary with the driver. as the author notes,
+transparency about priors became an empirical issue rather than a stylistic choice, which
+changes whether two analyses are actually comparable. In this sense, megathrust rupture
+dynamics is best treated as a conditional inference rather than as a mere label.
+
+It is methodological humility that the passage presents as the lesson of subduction-zone
+megathrust earthquakes and slow slip: inference is constrained by what competing models
+would also predict. If one wishes to move from description to explanation, then the same
+observation—transient surface deformation—must be paired with tests that change the
+conditions under which it appears. Whereas popular summaries treat transient surface
+deformation as an endpoint invites a tidy story, the passage treats it as a starting point
+for sharper experimental or observational contrasts forces boundary conditions to be stated.
+
+Although the first model can fit one dataset extremely well, the passage insists that
+uniqueness is precisely what must be shown, not assumed. [A] The argument hinges on what
+would change under an alternative explanation. it highlights how stress transfer after large
+events can shift baselines, altering whether transient surface deformation is even
+comparable across cases, which is precisely why means that a good fit is not the same as a
+good explanation. [B] The passage emphasizes boundary conditions instead of treating them as
+afterthoughts. Provided that stress transfer after large events is changed while the nominal
+driver remains constant, one should expect different outcomes when conditions are perturbed.
+[C] The author uses the example to separate detection from interpretation. [D] The author
+suggests that the same evidence can support multiple stories when priors differ. In this
+sense, episodic tremor and slip is best treated as a conditional inference rather than as a
+mere label.
+
+Only when the field adopted tests that manipulate or stratify stress transfer after large
+events did the debate became empirically productive rather than merely rhetorical. by
+comparing cases in which numerical rupture simulations constrains alternatives, researchers
+could ask which predictions survive out of sample, which is why the passage emphasizes
+comparative design over isolated exemplars. Granted that a single case can be dramatic, the
+author does not deny the value of striking examples, but warns against treating them as
+representative.
+
+Working with sparse records and limited controls on stress transfer after large events, the
+argument reframes the issue so that many early studies framed subduction-zone megathrust
+earthquakes and slow slip as a single-mechanism phenomenon. Whereas those studies emphasized
+transient surface deformation as a signature invites a tidy story, later work asked whether
+the same signature survives when protocols and baselines differ forces boundary conditions
+to be stated. The passage argues that this shift mattered for how evidence from the Japan
+Trench region was generalized because local conditions can change which processes generate
+transient surface deformation. In this sense, slow-slip events on plate interfaces is best
+treated as a conditional inference rather than as a mere label.
+
+In the end, it becomes plausible that the passage concludes that the most informative
+evidence is often the evidence that forces competing assumptions into the open. by insisting
+that claims about subduction-zone megathrust earthquakes and slow slip be conditional on
+stated priors, it turns disagreement into a tool for discovery, which is precisely why
+clarifies why the same record can yield multiple stories without implying that any story is
+arbitrary. Though the temptation to treat a tidy plot as a definitive answer is strong, the
+result is a framework in which transient surface deformation is interpreted through explicit
+boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Vocabulary] In the passage, the word **persistent** in the sentence below is closest in meaning to:
+   Sentence: Though the temptation to treat a tidy plot as a definitive answer is strong, the result is a framework in which transient surface deformation is interpreted through explicit boundary conditions rather than through habit.
+   A. complete and final, so no further checks like inversion of seismic waveforms are needed
+   B. lasting
+   C. irrelevant to subduction-zone megathrust earthquakes and slow slip, serving only as background detail
+   D. unavoidable and uncontrollable because heterogeneous frictional properties dominates all evidence
+
+2. [Factual Information] The passage indicates that boundary conditions is important mainly because:
+   A. The author suggests that disagreement disappears once low-frequency tremor bursts is detected, making model assumptions unnecessary.
+   B. The passage implies that paleoseismic trenching directly measures causes, meaning confounding from stress transfer after large events is impossible.
+   C. Because stress transfer after large events co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   D. it prevents low-frequency tremor bursts from being treated as a self-interpreting fingerprint and forces tests that control stress transfer after large events
+
+3. [Rhetorical Purpose] In referring to a contrasting interpretation, the author intends to:
+   A. The author argues that paleoseismic trenching should be replaced by an unmodeled trend line because assumptions distort evidence.
+   B. The passage treats low-frequency tremor bursts as a confounder and fluid overpressure in faults as the diagnostic signal that identifies the mechanism.
+   C. The passage implies that Sumatra–Andaman is chosen to avoid bias, so comparisons across settings are unnecessary.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where paleoseismic trenching constrains fluid overpressure in faults
+
+4. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about subduction-zone megathrust earthquakes and slow slip be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates locked versus creeping patches.
+   B. Aggregation guarantees that the same mechanism operates in the Chilean margin and everywhere else.
+   C. Some summaries seem consistent because they mix incompatible cases, not because low-frequency tremor bursts uniquely identifies one mechanism.
+   D. Incompatible cases should be ignored to keep an explanation based on inversion of seismic waveforms simple.
+
+5. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | paleoseismic trenching | Requires careful calibration |
+   | Signal | tsunami-generating seafloor uplift | Can be contaminated by background variability |
+   | Confounder | heterogeneous frictional properties | Adds correlated noise |
+   Blank: The limitation for 'Method' is ________.
+   A. Requires careful calibration
+   B. It proves low-frequency tremor bursts is unique.
+   C. Can be contaminated by background variability
+   D. Adds correlated noise
+
+6. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The author notes that a single dramatic example can mislead if it is treated as representative rather than as diagnostic.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+7. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: It is methodological humility that the passage presents as the lesson of subduction-zone megathrust earthquakes and slow slip: inference is constrained by what competing models would also predict.
+   A. locked versus creeping patches alone, treated as the sole cause
+   B. the idea being discussed in the surrounding sentences
+   C. foreshock clustering specifically, taken as an unambiguous measurement
+   D. seafloor pressure sensors as a device rather than as an analytic approach
+
+8. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. Subduction-Zone Megathrust Earthquakes and Slow Slip
+   B. tsunami-generating seafloor uplift
+   C. the author’s favorite color
+   D. inversion of seismic waveforms
+
+9. [Inference] Which of the following can be inferred from the passage?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when locked versus creeping patches can mimic transient surface deformation.
+   B. The author treats the Cascadia subduction zone as a special case and argues that no broader inference about subduction-zone megathrust earthquakes and slow slip is possible.
+   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving continuous GPS geodesy.
+   D. The passage suggests that transient surface deformation is primarily a rhetorical device rather than an empirical constraint on models.
+
+10. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that episodic tremor and slip is settled because low-frequency tremor bursts uniquely identifies the mechanism. It argues that locked versus creeping patches is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using seafloor pressure sensors are unnecessary.
+   B. The passage argues that slow-slip events on plate interfaces cannot be studied empirically because confounders like locked versus creeping patches make data meaningless. It recommends replacing measurement with intuition and rejecting seafloor pressure sensors as unreliable. It concludes that debate persists because evidence never constrains theory.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats seafloor pressure sensors as a historical curiosity and does not discuss low-frequency tremor bursts or locked versus creeping patches. It ends without any methodological implication.
+   D. The passage examines subduction-zone megathrust earthquakes and slow slip and argues that low-frequency tremor bursts is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how locked versus creeping patches can shift the baseline, especially when evidence is drawn from the Chilean margin. Finally, it maintains that tests combining seafloor pressure sensors with boundary-condition checks are required to make claims about megathrust rupture dynamics robust.
+
+
+Answer Key
+----------
+1: B
+2: D
+3: D
+4: C
+5: A
+6: A
+7: B
+8: C
+9: A
+10: D

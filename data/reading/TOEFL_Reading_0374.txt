@@ -1,0 +1,157 @@
+Passage 0374: Agricultural Revolutions and the Reorganization of Rural Labor (History)
+======================================================================================
+(Word count: 740)
+
+Across multiple northern cities, researchers have treated land-use intensification as the
+decisive sign of agricultural revolutions and the reorganization of rural labor. Granted
+that demographic inference from parish registers can make the pattern look unusually sharp,
+the passage argues that such confidence is conditional and must be earned by specifying
+assumptions. the resulting debate is less about data collection than about what the data are
+evidence for, which is precisely why forces analysts to articulate boundary conditions
+rather than rely on familiar narratives.
+
+Using demographic inference from parish registers under stable conditions, one frequently
+cited case from postwar East Asian countryside appeared to support the direct-readout view.
+While it is true that the original fit looked visually decisive, later, however, reanalysis
+showed that small shifts in property-right reforms altered the baseline enough to mute or
+mimic land-use intensification. the passage treats this episode as diagnostic, which forces
+analysts to admit that illustrates why boundary conditions must be specified before
+generalization is attempted. In this sense, technological change in agriculture is best
+treated as a conditional inference rather than as a mere label.
+
+It is methodological humility, rather than a single headline feature, that the passage
+presents as the lesson of agricultural revolutions and the reorganization of rural labor:
+inference is constrained by what competing models would also predict. [A] The discussion
+treats exceptions as informative, not as errors to be discarded. If one wishes to move from
+description to explanation is granted, then the same observation—land-use
+intensification—must be paired with tests that change the conditions under which it appears.
+[B] The argument hinges on what would change under an alternative explanation. Whereas
+popular summaries treat land-use intensification as an endpoint invites a tidy story, the
+passage treats it as a starting point for sharper experimental or observational contrasts
+forces boundary conditions to be stated. [C] The passage returns to this point to clarify
+what counts as evidence. [D] The author shifts from narrative to diagnosis, focusing on what
+the data cannot rule out.
+
+The decisive factor is the apparent regularity of land-use intensification; once that is
+stated, drives the first interpretation: land-use intensification is treated as a direct
+readout of mechanism. If land-use intensification is uniquely produced by one causal pathway
+is granted, then observations from postwar East Asian countryside would be transferable, and
+disagreement would be largely technical. the literature is full of such claims, not because
+the caveat that property-right reforms might reproduce the same pattern, but because the
+assumptions differ. In this sense, restructuring of rural work under mechanization is best
+treated as a conditional inference rather than as a mere label.
+
+Only when analysts began combining demographic inference from parish registers with cross-
+site comparisons did claims about agricultural revolutions and the reorganization of rural
+labor stopped relying on a single figure and started relying on falsifiable predictions. the
+goal was to break degeneracies in which land-use intensification could be explained in more
+than one way because, as the author notes, confounders like property-right reforms often co-
+vary with the driver. as the author notes, transparency about priors became an empirical
+issue rather than a stylistic choice; this, in turn, changes whether two analyses are
+actually comparable.
+
+Admittedly, the first model can fit one dataset extremely well; nevertheless, the passage
+insists that uniqueness is precisely what must be shown, not assumed. it highlights how
+property-right reforms can shift baselines, altering whether land-use intensification is
+even comparable across cases, something that means that a good fit is not the same as a good
+explanation. Should property-right reforms is changed while the nominal driver remains
+constant be true, one should expect different outcomes when conditions are perturbed. In
+this sense, shifts from subsistence to market farming is best treated as a conditional
+inference rather than as a mere label.
+
+In the end, the central disagreement can be stated more precisely: the passage concludes
+that the most informative evidence is often the evidence that forces competing assumptions
+into the open. by insisting that claims about agricultural revolutions and the
+reorganization of rural labor be conditional on stated priors, it turns disagreement into a
+tool for discovery, a move that clarifies why the same record can yield multiple stories
+without implying that any story is arbitrary. Admittedly, the temptation to treat a tidy
+plot as a definitive answer is strong; nevertheless, the result is a framework in which
+land-use intensification is interpreted through explicit boundary conditions rather than
+through habit.
+
+Questions
+---------
+
+1. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | estate account analysis | Samples only part of the system |
+   | Signal | changes in tenancy patterns | Can vary across epochs |
+   | Confounder | property-right reforms | Adds correlated noise |
+   Blank: The limitation for 'Confounder' is ________.
+   A. It replaces price series reconstruction with intuition.
+   B. It proves changes in tenancy patterns is unique.
+   C. Can vary across epochs
+   D. Adds correlated noise
+
+2. [Factual Information] According to the passage, why does the author emphasize confounder control?
+   A. The author suggests that disagreement disappears once changes in tenancy patterns is detected, making model assumptions unnecessary.
+   B. it prevents changes in tenancy patterns from being treated as a self-interpreting fingerprint and forces tests that control market integration
+   C. The discussion indicates that replication is redundant if comparative regional case studies produces a tight fit on one dataset.
+   D. Because changes in tenancy patterns appears, the mechanism must be unique, so market integration can be ignored as irrelevant noise.
+
+3. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about agricultural revolutions and the reorganization of rural labor be conditional on stated priors, it turns disagreement into a tool for discovery, a move that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Aggregation guarantees that the same mechanism operates in early modern England and everywhere else.
+   B. Summaries are always reliable because averaging eliminates market integration.
+   C. Some summaries seem consistent because they mix incompatible cases, not because changes in tenancy patterns uniquely identifies one mechanism.
+   D. Incompatible cases should be ignored to keep an explanation based on comparative regional case studies simple.
+
+4. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats estate account analysis as a historical curiosity and does not discuss wage compression or expansion or market integration. It ends without any methodological implication.
+   B. The passage argues that shifts from subsistence to market farming cannot be studied empirically because confounders like market integration make data meaningless. It recommends replacing measurement with intuition and rejecting estate account analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
+   C. The passage claims that restructuring of rural work under mechanization is settled because wage compression or expansion uniquely identifies the mechanism. It argues that market integration is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using estate account analysis are unnecessary.
+   D. The passage examines agricultural revolutions and the reorganization of rural labor and argues that wage compression or expansion is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how market integration can shift the baseline, especially when evidence is drawn from postwar East Asian countryside. Finally, it maintains that tests combining estate account analysis with boundary-condition checks are required to make claims about technological change in agriculture robust.
+
+5. [Inference] Which of the following can be inferred from the passage?
+   A. The passage suggests that land-use intensification is primarily a rhetorical device rather than an empirical constraint on models.
+   B. The passage claims that the best strategy is to average away market integration, since variability is merely a measurement error.
+   C. A convincing explanation should make distinct predictions under shared protocols, especially when market integration can mimic land-use intensification.
+   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving comparative regional case studies.
+
+6. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. Agricultural Revolutions and the Reorganization of Rural Labor
+   B. estate account analysis
+   C. changes in tenancy patterns
+   D. a list of Olympic medal counts
+
+7. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: While it is true that the original fit looked visually decisive, later, however, reanalysis showed that small shifts in property-right reforms altered the baseline enough to mute or mimic land-use intensification.
+   A. the idea being discussed in the surrounding sentences
+   B. credit constraints alone, treated as the sole cause
+   C. archival policy analysis as a device rather than as an analytic approach
+   D. wage compression or expansion specifically, taken as an unambiguous measurement
+
+8. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
+   A. motivate clearer assumptions and stronger tests, such as comparing cases where price series reconstruction constrains property-right reforms
+   B. The author argues that price series reconstruction should be replaced by an unmodeled trend line because assumptions distort evidence.
+   C. The discussion suggests that property-right reforms is the phenomenon itself, so controlling for it would remove the effect of interest.
+   D. The passage treats land-use intensification as a confounder and property-right reforms as the diagnostic signal that identifies the mechanism.
+
+9. [Vocabulary] In the passage, the word **approximate** in the sentence below is closest in meaning to:
+   Sentence: Only when analysts began combining demographic inference from parish registers with cross-site comparisons did claims about agricultural revolutions and the reorganization of rural labor stopped relying on a single figure and started relying on falsifiable predictions.
+   A. rough
+   B. irrelevant to agricultural revolutions and the reorganization of rural labor, serving only as background detail
+   C. unavoidable and uncontrollable because property-right reforms dominates all evidence
+   D. complete and final, so no further checks like estate account analysis are needed
+
+10. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: This point matters because the simplest interpretation often survives only by silently restricting the range of cases under discussion.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+
+Answer Key
+----------
+1: D
+2: B
+3: C
+4: D
+5: C
+6: D
+7: A
+8: A
+9: A
+10: A

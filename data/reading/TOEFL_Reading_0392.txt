@@ -1,0 +1,154 @@
+Passage 0392: Retrieval-Induced Forgetting in Memory Experiments (Psychology)
+=============================================================================
+(Word count: 742)
+
+When memory is tested repeatedly, the analysis suggests researchers have treated strategy
+shifts over trials as the decisive sign of retrieval-induced forgetting in memory
+experiments. Granted that paired-associate tasks can make the pattern look unusually sharp,
+the passage argues that such confidence is conditional and must be earned by specifying
+assumptions. the resulting debate is less about data collection than about what the data are
+evidence for, an outcome that forces analysts to articulate boundary conditions rather than
+rely on familiar narratives.
+
+Using paired-associate tasks under stable conditions, it is difficult to deny that one
+frequently cited case from cross-cultural replications appeared to support the direct-
+readout view. To be sure, the original fit looked visually decisive, yet later, however,
+reanalysis showed that small shifts in test expectancy effects altered the baseline enough
+to mute or mimic strategy shifts over trials. the passage treats this episode as diagnostic,
+an outcome that illustrates why boundary conditions must be specified before generalization
+is attempted. In this sense, practice-driven suppression of competing memories is best
+treated as a conditional inference rather than as a mere label.
+
+While it is true that the first model can fit one dataset extremely well, the passage
+insists that uniqueness is precisely what must be shown, not assumed. [A] The author uses
+the detour to show why a different metric would lead to a different conclusion. it
+highlights how test expectancy effects can shift baselines, altering whether strategy shifts
+over trials is even comparable across cases, which is precisely why means that a good fit is
+not the same as a good explanation. [B] The author implies that replication is informative
+only when protocols are comparable. If test expectancy effects is changed while the nominal
+driver remains constant is granted, one should expect different outcomes when conditions are
+perturbed. [C] At first glance, the pattern seems obvious, yet the author frames it as
+conditional. [D] The passage signals that a tidy fit may hide degenerate explanations.
+
+The decisive factor is methodological humility; once that is stated, the passage presents as
+the lesson of retrieval-induced forgetting in memory experiments: inference is constrained
+by what competing models would also predict. If one wishes to move from description to
+explanation is granted, then the same observation—strategy shifts over trials—must be paired
+with tests that change the conditions under which it appears. Whereas popular summaries
+treat strategy shifts over trials as an endpoint may be convenient, the passage treats it as
+a starting point for sharper experimental or observational contrasts is scientifically
+revealing. In this sense, retrieval-based inhibition is best treated as a conditional
+inference rather than as a mere label.
+
+Only after analysts began combining paired-associate tasks with cross-site comparisons did
+claims about retrieval-induced forgetting in memory experiments stopped relying on a single
+figure and started relying on falsifiable predictions. the goal was to break degeneracies in
+which strategy shifts over trials could be explained in more than one way because, as the
+author notes, confounders like test expectancy effects often co-vary with the driver. as the
+author notes, transparency about priors became an empirical issue rather than a stylistic
+choice, an outcome that changes whether two analyses are actually comparable.
+
+The point is not X but the apparent regularity of strategy shifts over trials; in that
+framing, drives the first interpretation: strategy shifts over trials is treated as a direct
+readout of mechanism. If strategy shifts over trials is uniquely produced by one causal
+pathway, a different prediction follows: then observations from cross-cultural replications
+would be transferable, and disagreement would be largely technical. The issue is not the
+caveat that test expectancy effects might reproduce the same pattern; it is that the
+literature is full of such claims. In this sense, selective recall causing forgetting is
+best treated as a conditional inference rather than as a mere label.
+
+In the end, it becomes plausible that the passage concludes that the most informative
+evidence is often the evidence that forces competing assumptions into the open. by insisting
+that claims about retrieval-induced forgetting in memory experiments be conditional on
+stated priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why
+the same record can yield multiple stories without implying that any story is arbitrary.
+Although the temptation to treat a tidy plot as a definitive answer is strong, the result is
+a framework in which strategy shifts over trials is interpreted through explicit boundary
+conditions rather than through habit.
+
+Questions
+---------
+
+1. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: As a result, the most valuable observations are often taken during transitions, when competing mechanisms diverge most clearly.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+2. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. reduced recall of unpracticed items
+   B. Retrieval-Induced Forgetting in Memory Experiments
+   C. fMRI pattern analysis
+   D. the length of the Nile in miles
+
+3. [Vocabulary] In the passage, the word **salient** in the sentence below is closest in meaning to:
+   Sentence: To be sure, the original fit looked visually decisive, yet later, however, reanalysis showed that small shifts in test expectancy effects altered the baseline enough to mute or mimic strategy shifts over trials.
+   A. irrelevant to retrieval-induced forgetting in memory experiments, serving only as background detail
+   B. complete and final, so no further checks like paired-associate tasks are needed
+   C. important
+   D. unavoidable and uncontrollable because stress modulation of recall dominates all evidence
+
+4. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that retrieval-based inhibition is settled because strategy shifts over trials uniquely identifies the mechanism. It argues that inhibitory control differences is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using recognition tests are unnecessary.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats recognition tests as a historical curiosity and does not discuss strategy shifts over trials or inhibitory control differences. It ends without any methodological implication.
+   C. The passage examines retrieval-induced forgetting in memory experiments and argues that strategy shifts over trials is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how inhibitory control differences can shift the baseline, especially when evidence is drawn from laboratory paradigms. Finally, it maintains that tests combining recognition tests with boundary-condition checks are required to make claims about practice-driven suppression of competing memories robust.
+   D. The passage argues that selective recall causing forgetting cannot be studied empirically because confounders like inhibitory control differences make data meaningless. It recommends replacing measurement with intuition and rejecting recognition tests as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+5. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | process-dissociation procedures | Requires careful calibration |
+   | Signal | context-dependent effects | May be sensitive to preprocessing choices |
+   | Confounder | stress modulation of recall | Co-varies with the driver of interest |
+   Blank: The limitation for 'Confounder' is ________.
+   A. Co-varies with the driver of interest
+   B. May be sensitive to preprocessing choices
+   C. Requires careful calibration
+   D. It makes test expectancy effects irrelevant.
+
+6. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: Using paired-associate tasks under stable conditions, it is difficult to deny that one frequently cited case from cross-cultural replications appeared to support the direct-readout view.
+   A. inhibitory control differences alone, treated as the sole cause
+   B. strategy shifts over trials specifically, taken as an unambiguous measurement
+   C. paired-associate tasks as a device rather than as an analytic approach
+   D. the idea being discussed in the surrounding sentences
+
+7. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
+   A. The discussion suggests that inhibitory control differences is the phenomenon itself, so controlling for it would remove the effect of interest.
+   B. motivate clearer assumptions and stronger tests, such as comparing cases where fMRI pattern analysis constrains inhibitory control differences
+   C. The passage treats reduced recall of unpracticed items as a confounder and inhibitory control differences as the diagnostic signal that identifies the mechanism.
+   D. The author suggests that the key synonym 'competition-mediated memory loss' refers to a different field altogether, not to retrieval-induced forgetting in memory experiments.
+
+8. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about retrieval-induced forgetting in memory experiments be conditional on stated priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates test expectancy effects.
+   B. Aggregation guarantees that the same mechanism operates in cross-cultural replications and everywhere else.
+   C. Incompatible cases should be ignored to keep an explanation based on recognition tests simple.
+   D. Some summaries seem consistent because they mix incompatible cases, not because reduced recall of unpracticed items uniquely identifies one mechanism.
+
+9. [Factual Information] According to the passage, why does the author emphasize model assumptions?
+   A. The discussion indicates that replication is redundant if fMRI pattern analysis produces a tight fit on one dataset.
+   B. it prevents reduced recall of unpracticed items from being treated as a self-interpreting fingerprint and forces tests that control stress modulation of recall
+   C. Because reduced recall of unpracticed items appears, the mechanism must be unique, so stress modulation of recall can be ignored as irrelevant noise.
+   D. Since reduced recall of unpracticed items is observed in classroom study settings, it must generalize to every setting, regardless of boundary conditions.
+
+10. [Inference] The passage suggests which of the following?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when inhibitory control differences can mimic strategy shifts over trials.
+   B. The argument is that boundary conditions matter only for older studies, not for modern measurements using paired-associate tasks.
+   C. The passage claims that the best strategy is to average away inhibitory control differences, since variability is merely a measurement error.
+   D. The author treats clinical populations as a special case and argues that no broader inference about retrieval-induced forgetting in memory experiments is possible.
+
+
+Answer Key
+----------
+1: D
+2: D
+3: C
+4: C
+5: A
+6: D
+7: B
+8: D
+9: B
+10: A

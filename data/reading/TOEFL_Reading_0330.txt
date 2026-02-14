@@ -1,0 +1,148 @@
+Passage 0330: Minimum Wage Increases and Employment Elasticities (Economics)
+============================================================================
+(Word count: 650)
+
+When policies roll out unevenly, the central disagreement can be stated more precisely:
+researchers have treated wage compression patterns as the decisive sign of minimum wage
+increases and employment elasticities. Despite the fact that event-study designs can make
+the pattern look unusually sharp, the passage argues that such confidence is conditional and
+must be earned by specifying assumptions. the resulting debate is less about data collection
+than about what the data are evidence for, which forces analysts to articulate boundary
+conditions rather than rely on familiar narratives.
+
+Working with sparse records and limited controls on spillover effects across wage
+distribution, the argument reframes the issue so that many early studies framed minimum wage
+increases and employment elasticities as a single-mechanism phenomenon. [A] This point
+forces the reader to consider how confounders enter the pipeline. Whereas those studies
+emphasized wage compression patterns as a signature, later work asked whether the same
+signature survives when protocols and baselines differ. [B] This becomes a pivot point where
+the earlier interpretation is narrowed. this shift mattered for how evidence from multi-
+state policy rollouts was generalized because local conditions can change which processes
+generate wage compression patterns. [C] The passage returns to this point to clarify what
+counts as evidence. [D] The discussion treats exceptions as informative, not as errors to be
+discarded. In this sense, labor-demand responses to wage floors is best treated as a
+conditional inference rather than as a mere label.
+
+the first model can fit one dataset extremely well; still, the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how spillover effects
+across wage distribution can shift baselines, altering whether wage compression patterns is
+even comparable across cases, something that means that a good fit is not the same as a good
+explanation. If spillover effects across wage distribution is changed while the nominal
+driver remains constant is granted, one should expect different outcomes when conditions are
+perturbed.
+
+Not until analysts began combining event-study designs with cross-site comparisons was it
+clear that claims about minimum wage increases and employment elasticities stopped relying
+on a single figure and started relying on falsifiable predictions. the goal was to break
+degeneracies in which wage compression patterns could be explained in more than one way
+because, as the author notes, confounders like spillover effects across wage distribution
+often co-vary with the driver. as the author notes, transparency about priors became an
+empirical issue rather than a stylistic choice, which changes whether two analyses are
+actually comparable. In this sense, employment effects of minimum wage policy is best
+treated as a conditional inference rather than as a mere label.
+
+It is methodological humility that the passage presents as the lesson of minimum wage
+increases and employment elasticities: inference is constrained by what competing models
+would also predict. If one wishes to move from description to explanation holds, then the
+same observation—wage compression patterns—must be paired with tests that change the
+conditions under which it appears. Whereas popular summaries treat wage compression patterns
+as an endpoint looks decisive, the passage treats it as a starting point for sharper
+experimental or observational contrasts becomes more predictive under replication. In this
+sense, wage-floor induced labor-market adjustments is best treated as a conditional
+inference rather than as a mere label.
+
+In the end, it becomes plausible that the passage concludes that the most informative
+evidence is often the evidence that forces competing assumptions into the open. by insisting
+that claims about minimum wage increases and employment elasticities be conditional on
+stated priors, it turns disagreement into a tool for discovery, which clarifies why the same
+record can yield multiple stories without implying that any story is arbitrary. Granted that
+the temptation to treat a tidy plot as a definitive answer is strong, the result is a
+framework in which wage compression patterns is interpreted through explicit boundary
+conditions rather than through habit.
+
+Questions
+---------
+
+1. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about minimum wage increases and employment elasticities be conditional on stated priors, it turns disagreement into a tool for discovery, which clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Aggregation guarantees that the same mechanism operates in large metropolitan labor markets and everywhere else.
+   B. Summaries are always reliable because averaging eliminates measurement error in employment data.
+   C. Some summaries seem consistent because they mix incompatible cases, not because firm entry and exit shifts uniquely identifies one mechanism.
+   D. Incompatible cases should be ignored to keep an explanation based on event-study designs simple.
+
+2. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This point forces the reader to consider how confounders enter the pipeline.
+   A. firm entry and exit shifts specifically, taken as an unambiguous measurement
+   B. the idea being discussed in the surrounding sentences
+   C. policy endogeneity alone, treated as the sole cause
+   D. difference-in-differences estimation as a device rather than as an analytic approach
+
+3. [Factual Information] The passage indicates that replication across contexts is important mainly because:
+   A. The author suggests that disagreement disappears once firm entry and exit shifts is detected, making model assumptions unnecessary.
+   B. Because firm entry and exit shifts appears, the mechanism must be unique, so measurement error in employment data can be ignored as irrelevant noise.
+   C. The discussion indicates that replication is redundant if event-study designs produces a tight fit on one dataset.
+   D. it prevents firm entry and exit shifts from being treated as a self-interpreting fingerprint and forces tests that control measurement error in employment data
+
+4. [Rhetorical Purpose] By bringing up competing viewpoints, the author is trying to:
+   A. motivate clearer assumptions and stronger tests, such as comparing cases where event-study designs constrains measurement error in employment data
+   B. The author suggests that the key synonym 'wage-floor induced labor-market adjustments' refers to a different field altogether, not to minimum wage increases and employment elasticities.
+   C. The passage treats changes in hours worked as a confounder and measurement error in employment data as the diagnostic signal that identifies the mechanism.
+   D. The discussion suggests that measurement error in employment data is the phenomenon itself, so controlling for it would remove the effect of interest.
+
+5. [Inference] The passage suggests which of the following?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when spillover effects across wage distribution can mimic firm entry and exit shifts.
+   B. The author treats retail and food-service sectors as a special case and argues that no broader inference about minimum wage increases and employment elasticities is possible.
+   C. The argument is that boundary conditions matter only for older studies, not for modern measurements using synthetic control methods.
+   D. The passage claims that the best strategy is to average away spillover effects across wage distribution, since variability is merely a measurement error.
+
+6. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that employment effects of minimum wage policy is settled because teen employment rate movement uniquely identifies the mechanism. It argues that policy endogeneity is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using event-study designs are unnecessary.
+   B. The passage examines minimum wage increases and employment elasticities and argues that teen employment rate movement is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how policy endogeneity can shift the baseline, especially when evidence is drawn from border counties with policy discontinuities. Finally, it maintains that tests combining event-study designs with boundary-condition checks are required to make claims about labor-demand responses to wage floors robust.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats event-study designs as a historical curiosity and does not discuss teen employment rate movement or policy endogeneity. It ends without any methodological implication.
+   D. The passage argues that wage-floor induced labor-market adjustments cannot be studied empirically because confounders like policy endogeneity make data meaningless. It recommends replacing measurement with intuition and rejecting event-study designs as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+7. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: As a result, the most valuable observations are often taken during transitions, when competing mechanisms diverge most clearly.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+8. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | administrative payroll data analysis | Requires careful calibration |
+   | Signal | teen employment rate movement | May be sensitive to preprocessing choices |
+   | Confounder | measurement error in employment data | Adds correlated noise |
+   Blank: The limitation for 'Signal' is ________.
+   A. Requires careful calibration
+   B. Adds correlated noise
+   C. It replaces synthetic control methods with intuition.
+   D. May be sensitive to preprocessing choices
+
+9. [Vocabulary] In the passage, the word **preliminary** in the sentence below is closest in meaning to:
+   Sentence: In this sense, labor-demand responses to wage floors is best treated as a conditional inference rather than as a mere label.
+   A. irrelevant to minimum wage increases and employment elasticities, serving only as background detail
+   B. complete and final, so no further checks like difference-in-differences estimation are needed
+   C. early
+   D. unavoidable and uncontrollable because measurement error in employment data dominates all evidence
+
+10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. a recipe for bread fermentation
+   B. difference-in-differences estimation
+   C. Minimum Wage Increases and Employment Elasticities
+   D. teen employment rate movement
+
+
+Answer Key
+----------
+1: C
+2: B
+3: D
+4: A
+5: A
+6: B
+7: B
+8: D
+9: C
+10: A

@@ -1,0 +1,157 @@
+Passage 0376: Antibiotic Stewardship and Resistance Evolution in Hospitals (Public Health)
+==========================================================================================
+(Word count: 739)
+
+In hospital-based surveillance, the central disagreement can be stated more precisely:
+researchers have treated clonal replacement patterns as the decisive sign of antibiotic
+stewardship and resistance evolution in hospitals. Even though interrupted time-series
+designs can make the pattern look unusually sharp, the passage argues that such confidence
+is conditional and must be earned by specifying assumptions. the resulting debate is less
+about data collection than about what the data are evidence for, which forces analysts to
+admit that forces analysts to articulate boundary conditions rather than rely on familiar
+narratives.
+
+Using interrupted time-series designs under stable conditions, the passage suggests one
+frequently cited case from long-term care facilities appeared to support the direct-readout
+view. Despite the fact that the original fit looked visually decisive, later, however,
+reanalysis showed that small shifts in patient-mix confounding altered the baseline enough
+to mute or mimic clonal replacement patterns. the passage treats this episode as diagnostic,
+an outcome that illustrates why boundary conditions must be specified before generalization
+is attempted. In this sense, antimicrobial resistance dynamics in clinical settings is best
+treated as a conditional inference rather than as a mere label.
+
+It is methodological humility that the passage presents as the lesson of antibiotic
+stewardship and resistance evolution in hospitals: inference is constrained by what
+competing models would also predict. Unless one wishes to move from description to
+explanation, then the same observation—clonal replacement patterns—must be paired with tests
+that change the conditions under which it appears cannot be claimed with confidence. Whereas
+popular summaries treat clonal replacement patterns as an endpoint in one account, the
+passage treats it as a starting point for sharper experimental or observational contrasts in
+another.
+
+Only through analysts began combining interrupted time-series designs with cross-site
+comparisons could one reasonably claim that claims about antibiotic stewardship and
+resistance evolution in hospitals stopped relying on a single figure and started relying on
+falsifiable predictions. The passage argues that the goal was to break degeneracies in which
+clonal replacement patterns could be explained in more than one way because confounders like
+patient-mix confounding often co-vary with the driver. as the author notes, transparency
+about priors became an empirical issue rather than a stylistic choice; this, in turn,
+changes whether two analyses are actually comparable. In this sense, selection for resistant
+strains under antibiotic pressure is best treated as a conditional inference rather than as
+a mere label.
+
+Granted that the first model can fit one dataset extremely well, the passage insists that
+uniqueness is precisely what must be shown, not assumed. [A] The author uses the example to
+separate detection from interpretation. it highlights how patient-mix confounding can shift
+baselines, altering whether clonal replacement patterns is even comparable across cases,
+which means that a good fit is not the same as a good explanation. [B] The author implies
+that replication is informative only when protocols are comparable. Were patient-mix
+confounding is changed while the nominal driver remains constant to fail, one should expect
+different outcomes when conditions are perturbed. [C] The author suggests that the same
+evidence can support multiple stories when priors differ. [D] The passage signals that a
+tidy fit may hide degenerate explanations.
+
+If anything is responsible, it is the apparent regularity of clonal replacement patterns,
+and therefore drives the first interpretation: clonal replacement patterns is treated as a
+direct readout of mechanism. If clonal replacement patterns is uniquely produced by one
+causal pathway is granted, then observations from long-term care facilities would be
+transferable, and disagreement would be largely technical. So the literature is full of such
+claims, and so, too, does the evidence undermine the caveat that patient-mix confounding
+might reproduce the same pattern. In this sense, hospital stewardship interventions is best
+treated as a conditional inference rather than as a mere label.
+
+In the end, the central disagreement can be stated more precisely: the passage concludes
+that the most informative evidence is often the evidence that forces competing assumptions
+into the open. by insisting that claims about antibiotic stewardship and resistance
+evolution in hospitals be conditional on stated priors, it turns disagreement into a tool
+for discovery, a move that clarifies why the same record can yield multiple stories without
+implying that any story is arbitrary. Granted that the temptation to treat a tidy plot as a
+definitive answer is strong, the result is a framework in which clonal replacement patterns
+is interpreted through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The author notes that a single dramatic example can mislead if it is treated as representative rather than as diagnostic.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+2. [Factual Information] According to the passage, why does the author emphasize boundary conditions?
+   A. it prevents treatment-failure rates from being treated as a self-interpreting fingerprint and forces tests that control infection-control compliance variation
+   B. The discussion indicates that replication is redundant if interrupted time-series designs produces a tight fit on one dataset.
+   C. The author suggests that disagreement disappears once treatment-failure rates is detected, making model assumptions unnecessary.
+   D. Since treatment-failure rates is observed in regional hospital systems, it must generalize to every setting, regardless of boundary conditions.
+
+3. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that selection for resistant strains under antibiotic pressure is settled because shifts in resistance prevalence uniquely identifies the mechanism. It argues that patient-mix confounding is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using antibiogram surveillance are unnecessary.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats antibiogram surveillance as a historical curiosity and does not discuss shifts in resistance prevalence or patient-mix confounding. It ends without any methodological implication.
+   C. The passage examines antibiotic stewardship and resistance evolution in hospitals and argues that shifts in resistance prevalence is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how patient-mix confounding can shift the baseline, especially when evidence is drawn from long-term care facilities. Finally, it maintains that tests combining antibiogram surveillance with boundary-condition checks are required to make claims about antimicrobial resistance dynamics in clinical settings robust.
+   D. The passage argues that hospital stewardship interventions cannot be studied empirically because confounders like patient-mix confounding make data meaningless. It recommends replacing measurement with intuition and rejecting antibiogram surveillance as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+4. [Rhetorical Purpose] What is the author’s main reason for mentioning an alternative model?
+   A. The author argues that contact-network reconstruction should be replaced by an unmodeled trend line because assumptions distort evidence.
+   B. The passage implies that regional hospital systems is chosen to avoid bias, so comparisons across settings are unnecessary.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where contact-network reconstruction constrains horizontal gene transfer
+   D. The discussion suggests that horizontal gene transfer is the phenomenon itself, so controlling for it would remove the effect of interest.
+
+5. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | whole-genome sequencing | Samples only part of the system |
+   | Signal | clonal replacement patterns | Can be contaminated by background variability |
+   | Confounder | diagnostic intensity changes | Changes the apparent slope |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves outbreak clusters in wards is unique.
+   B. Changes the apparent slope
+   C. It replaces time-to-event survival analysis with intuition.
+   D. Can be contaminated by background variability
+
+6. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: It is methodological humility that the passage presents as the lesson of antibiotic stewardship and resistance evolution in hospitals: inference is constrained by what competing models would also predict.
+   A. contact-network reconstruction as a device rather than as an analytic approach
+   B. the idea being discussed in the surrounding sentences
+   C. treatment-failure rates specifically, taken as an unambiguous measurement
+   D. infection-control compliance variation alone, treated as the sole cause
+
+7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about antibiotic stewardship and resistance evolution in hospitals be conditional on stated priors, it turns disagreement into a tool for discovery, a move that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates infection-control compliance variation.
+   B. Incompatible cases should be ignored to keep an explanation based on antibiogram surveillance simple.
+   C. Aggregation guarantees that the same mechanism operates in intensive-care units and everywhere else.
+   D. Some summaries seem consistent because they mix incompatible cases, not because outbreak clusters in wards uniquely identifies one mechanism.
+
+8. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. Antibiotic Stewardship and Resistance Evolution in Hospitals
+   B. the author’s favorite color
+   C. clonal replacement patterns
+   D. antibiogram surveillance
+
+9. [Vocabulary] In the passage, the word **persistent** in the sentence below is closest in meaning to:
+   Sentence: Granted that the first model can fit one dataset extremely well, the passage insists that uniqueness is precisely what must be shown, not assumed.
+   A. complete and final, so no further checks like time-to-event survival analysis are needed
+   B. unavoidable and uncontrollable because patient-mix confounding dominates all evidence
+   C. lasting
+   D. irrelevant to antibiotic stewardship and resistance evolution in hospitals, serving only as background detail
+
+10. [Inference] The passage suggests which of the following?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when patient-mix confounding can mimic outbreak clusters in wards.
+   B. The passage claims that the best strategy is to average away patient-mix confounding, since variability is merely a measurement error.
+   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving antibiogram surveillance.
+   D. The author treats intensive-care units as a special case and argues that no broader inference about antibiotic stewardship and resistance evolution in hospitals is possible.
+
+
+Answer Key
+----------
+1: C
+2: A
+3: C
+4: C
+5: D
+6: B
+7: D
+8: B
+9: C
+10: A
