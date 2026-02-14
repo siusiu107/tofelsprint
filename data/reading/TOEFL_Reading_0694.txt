@@ -1,0 +1,150 @@
+Passage 0694: Cognitive Dissonance and Post-Decision Rationalization (Psychology)
+=================================================================================
+(Word count: 665)
+
+When memory is tested repeatedly, the central disagreement can be stated more precisely:
+researchers have treated devaluation of rejected alternatives as the decisive sign of
+cognitive dissonance and post-decision rationalization. To be sure, meta-analytic synthesis
+can make the pattern look unusually sharp, yet the passage argues that such confidence is
+conditional and must be earned by specifying assumptions. the resulting debate is less about
+data collection than about what the data are evidence for; this, in turn, forces analysts to
+articulate boundary conditions rather than rely on familiar narratives.
+
+While it is true that the first model can fit one dataset extremely well, the passage
+insists that uniqueness is precisely what must be shown, not assumed. it highlights how
+measurement reactivity can shift baselines, altering whether devaluation of rejected
+alternatives is even comparable across cases, something that means that a good fit is not
+the same as a good explanation. If measurement reactivity is changed while the nominal
+driver remains constant, one should expect different outcomes when conditions are perturbed.
+In this sense, post-choice attitude change is best treated as a conditional inference rather
+than as a mere label.
+
+It is methodological humility, rather than a single headline feature, that the passage
+presents as the lesson of cognitive dissonance and post-decision rationalization: inference
+is constrained by what competing models would also predict. Unless one wishes to move from
+description to explanation, then the same observation—devaluation of rejected
+alternatives—must be paired with tests that change the conditions under which it appears
+cannot be claimed with confidence. Whereas popular summaries treat devaluation of rejected
+alternatives as an endpoint is easy to measure, the passage treats it as a starting point
+for sharper experimental or observational contrasts is harder to interpret without
+assumptions.
+
+Working with sparse records and limited controls on measurement reactivity, the passage
+suggests many early studies framed cognitive dissonance and post-decision rationalization as
+a single-mechanism phenomenon. Whereas those studies emphasized devaluation of rejected
+alternatives as a signature looks decisive, later work asked whether the same signature
+survives when protocols and baselines differ becomes more predictive under replication. this
+shift mattered for how evidence from consumer choice studies was generalized because local
+conditions can change which processes generate devaluation of rejected alternatives, which
+is why replication matters. In this sense, dissonance reduction after decisions is best
+treated as a conditional inference rather than as a mere label.
+
+Seldom, prior to analysts began combining meta-analytic synthesis with cross-site
+comparisons, did investigators concede that claims about cognitive dissonance and post-
+decision rationalization stopped relying on a single figure and started relying on
+falsifiable predictions. [A] This reasoning matters because it changes what counts as a
+decisive test. The passage argues that the goal was to break degeneracies in which
+devaluation of rejected alternatives could be explained in more than one way because
+confounders like measurement reactivity often co-vary with the driver. [B] The author
+implies that replication is informative only when protocols are comparable. as the author
+notes, transparency about priors became an empirical issue rather than a stylistic choice;
+this, in turn, changes whether two analyses are actually comparable. [C] The author notes
+that generalization requires more than a single well-chosen case. [D] The passage signals
+that a tidy fit may hide degenerate explanations. In this sense, self-justification
+mechanisms is best treated as a conditional inference rather than as a mere label.
+
+In the end, the passage argues that the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about cognitive dissonance and post-decision rationalization be conditional on stated
+priors, it turns disagreement into a tool for discovery, which helps explain why clarifies
+why the same record can yield multiple stories without implying that any story is arbitrary.
+Though the temptation to treat a tidy plot as a definitive answer is strong, the result is a
+framework in which devaluation of rejected alternatives is interpreted through explicit
+boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The author emphasizes that a clean-looking curve can still encode hidden choices, especially when preprocessing is treated as neutral.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+2. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | longitudinal attitude surveys | Can introduce systematic bias |
+   | Signal | increased liking for chosen options | May be muted by other processes |
+   | Confounder | measurement reactivity | Co-varies with the driver of interest |
+   Blank: The limitation for 'Confounder' is ________.
+   A. It proves devaluation of rejected alternatives is unique.
+   B. Co-varies with the driver of interest
+   C. It replaces implicit association tests with intuition.
+   D. It makes cultural norms about consistency irrelevant.
+
+3. [Rhetorical Purpose] What is the author’s main reason for mentioning an alternative model?
+   A. The passage implies that cross-national survey samples is chosen to avoid bias, so comparisons across settings are unnecessary.
+   B. The discussion suggests that measurement reactivity is the phenomenon itself, so controlling for it would remove the effect of interest.
+   C. The author argues that choice-induced preference paradigms should be replaced by an unmodeled trend line because assumptions distort evidence.
+   D. motivate clearer assumptions and stronger tests, such as comparing cases where choice-induced preference paradigms constrains measurement reactivity
+
+4. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This reasoning matters because it changes what counts as a decisive test.
+   A. cultural norms about consistency alone, treated as the sole cause
+   B. choice-induced preference paradigms as a device rather than as an analytic approach
+   C. the idea being discussed in the surrounding sentences
+   D. increased liking for chosen options specifically, taken as an unambiguous measurement
+
+5. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that dissonance reduction after decisions is settled because selective memory for supporting evidence uniquely identifies the mechanism. It argues that public versus private commitment is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using meta-analytic synthesis are unnecessary.
+   B. The passage argues that self-justification mechanisms cannot be studied empirically because confounders like public versus private commitment make data meaningless. It recommends replacing measurement with intuition and rejecting meta-analytic synthesis as unreliable. It concludes that debate persists because evidence never constrains theory.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats meta-analytic synthesis as a historical curiosity and does not discuss selective memory for supporting evidence or public versus private commitment. It ends without any methodological implication.
+   D. The passage examines cognitive dissonance and post-decision rationalization and argues that selective memory for supporting evidence is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how public versus private commitment can shift the baseline, especially when evidence is drawn from workplace decision settings. Finally, it maintains that tests combining meta-analytic synthesis with boundary-condition checks are required to make claims about post-choice attitude change robust.
+
+6. [Inference] Which of the following can be inferred from the passage?
+   A. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving meta-analytic synthesis.
+   B. The author treats cross-national survey samples as a special case and argues that no broader inference about cognitive dissonance and post-decision rationalization is possible.
+   C. A convincing explanation should make distinct predictions under shared protocols, especially when measurement reactivity can mimic increased liking for chosen options.
+   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using meta-analytic synthesis.
+
+7. [Vocabulary] In the passage, the word **conditional** in the sentence below is closest in meaning to:
+   Sentence: To be sure, meta-analytic synthesis can make the pattern look unusually sharp, yet the passage argues that such confidence is conditional and must be earned by specifying assumptions.
+   A. unavoidable and uncontrollable because cultural norms about consistency dominates all evidence
+   B. dependent on conditions
+   C. irrelevant to cognitive dissonance and post-decision rationalization, serving only as background detail
+   D. complete and final, so no further checks like choice-induced preference paradigms are needed
+
+8. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. a list of Olympic medal counts
+   B. selective memory for supporting evidence
+   C. Cognitive Dissonance and Post-Decision Rationalization
+   D. choice-induced preference paradigms
+
+9. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about cognitive dissonance and post-decision rationalization be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates public versus private commitment.
+   B. Incompatible cases should be ignored to keep an explanation based on choice-induced preference paradigms simple.
+   C. Some summaries seem consistent because they mix incompatible cases, not because shifted confidence judgments uniquely identifies one mechanism.
+   D. Aggregation guarantees that the same mechanism operates in political opinion panels and everywhere else.
+
+10. [Factual Information] According to the passage, why does the author emphasize model assumptions?
+   A. it prevents selective memory for supporting evidence from being treated as a self-interpreting fingerprint and forces tests that control cultural norms about consistency
+   B. Because cultural norms about consistency co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   C. Since selective memory for supporting evidence is observed in political opinion panels, it must generalize to every setting, regardless of boundary conditions.
+   D. The author suggests that disagreement disappears once selective memory for supporting evidence is detected, making model assumptions unnecessary.
+
+
+Answer Key
+----------
+1: B
+2: B
+3: D
+4: C
+5: D
+6: C
+7: B
+8: A
+9: C
+10: A

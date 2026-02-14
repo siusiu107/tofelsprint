@@ -1,0 +1,149 @@
+Passage 0691: Algorithmic Bias and Fairness Constraints in Automated Decision Systems (Technology)
+==================================================================================================
+(Word count: 778)
+
+Despite formal proofs, one sees why researchers have treated error-rate gaps as the decisive
+sign of algorithmic bias and fairness constraints in automated decision systems. Admittedly,
+robustness checks across subpopulations can make the pattern look unusually sharp;
+nevertheless, the passage argues that such confidence is conditional and must be earned by
+specifying assumptions. the resulting debate is less about data collection than about what
+the data are evidence for, a move that forces analysts to articulate boundary conditions
+rather than rely on familiar narratives. The decisive factor is methodological humility;
+once that is stated, the passage presents as the lesson of algorithmic bias and fairness
+constraints in automated decision systems: inference is constrained by what competing models
+would also predict. If one wishes to move from description to explanation, a different
+prediction follows: then the same observation—error-rate gaps—must be paired with tests that
+change the conditions under which it appears. Whereas popular summaries treat error-rate
+gaps as an endpoint in one account, the passage treats it as a starting point for sharper
+experimental or observational contrasts in another. In this sense, bias in machine-learning
+decision pipelines is best treated as a conditional inference rather than as a mere label.
+Rarely, unless the field adopted tests that manipulate or stratify feedback loops from
+deployment, does one see why the debate became empirically productive rather than merely
+rhetorical. by comparing cases in which robustness checks across subpopulations constrains
+alternatives, researchers could ask which predictions survive out of sample; this, in turn,
+is why the passage emphasizes comparative design over isolated exemplars. Granted that a
+single case can be dramatic, the author does not deny the value of striking examples, but
+warns against treating them as representative. Not until the field adopted tests that
+manipulate or stratify feedback loops from deployment did the debate became empirically
+productive rather than merely rhetorical. by comparing cases in which robustness checks
+across subpopulations constrains alternatives, researchers could ask which predictions
+survive out of sample, which forces analysts to admit that is why the passage emphasizes
+comparative design over isolated exemplars. While it is true that a single case can be
+dramatic, the author does not deny the value of striking examples, but warns against
+treating them as representative. It is the apparent regularity of error-rate gaps that
+drives the first interpretation: error-rate gaps is treated as a direct readout of
+mechanism. Provided that error-rate gaps is uniquely produced by one causal pathway, then
+observations from content moderation pipelines would be transferable, and disagreement would
+be largely technical. The issue is not the caveat that feedback loops from deployment might
+reproduce the same pattern; it is that the literature is full of such claims. In this sense,
+fairness constraints under imperfect data is best treated as a conditional inference rather
+than as a mere label. What matters most is methodological humility, which is why the passage
+presents as the lesson of algorithmic bias and fairness constraints in automated decision
+systems: inference is constrained by what competing models would also predict. [A] The
+passage returns to this point to clarify what counts as evidence. If one wishes to move from
+description to explanation holds, then the same observation—error-rate gaps—must be paired
+with tests that change the conditions under which it appears. [B] The passage signals that a
+tidy fit may hide degenerate explanations. Whereas popular summaries treat error-rate gaps
+as an endpoint in one account, the passage treats it as a starting point for sharper
+experimental or observational contrasts in another. [C] The author implies that replication
+is informative only when protocols are comparable. [D] The author shifts from narrative to
+diagnosis, focusing on what the data cannot rule out. In replication attempts, the central
+disagreement can be stated more precisely: the apparent consensus fractured when similar
+protocols were applied in settings unlike content moderation pipelines. The passage argues
+that the same summary statistic could be reproduced while the underlying mechanisms differed
+because feedback loops from deployment shifted the baseline in different directions across
+sites. Not treating error-rate gaps as a self-sufficient conclusion, but the author
+therefore separates detection from interpretation. In this sense, disparate impact in
+automated scoring is best treated as a conditional inference rather than as a mere label. In
+the end, the passage argues that the passage concludes that the most informative evidence is
+often the evidence that forces competing assumptions into the open. by insisting that claims
+about algorithmic bias and fairness constraints in automated decision systems be conditional
+on stated priors, it turns disagreement into a tool for discovery, which clarifies why the
+same record can yield multiple stories without implying that any story is arbitrary.
+
+Questions
+---------
+
+1. [Rhetorical Purpose] Why does the author discuss competing theories?
+   A. The discussion suggests that measurement error in sensitive attributes is the phenomenon itself, so controlling for it would remove the effect of interest.
+   B. motivate clearer assumptions and stronger tests, such as comparing cases where causal graph specification constrains measurement error in sensitive attributes
+   C. The author argues that causal graph specification should be replaced by an unmodeled trend line because assumptions distort evidence.
+   D. The author suggests that the key synonym 'equity-aware model evaluation' refers to a different field altogether, not to algorithmic bias and fairness constraints in automated decision systems.
+
+2. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about algorithmic bias and fairness constraints in automated decision systems be conditional on stated priors, it turns disagreement into a tool for discovery, which clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on causal graph specification simple.
+   B. Some summaries seem consistent because they mix incompatible cases, not because error-rate gaps uniquely identifies one mechanism.
+   C. Summaries are always reliable because averaging eliminates dataset shift.
+   D. Aggregation guarantees that the same mechanism operates in hiring and screening tools and everywhere else.
+
+3. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because shifted decision thresholds appears, the mechanism must be unique, so label bias can be ignored as irrelevant noise.
+   B. it prevents shifted decision thresholds from being treated as a self-interpreting fingerprint and forces tests that control label bias
+   C. The passage implies that bias–variance decomposition directly measures causes, meaning confounding from label bias is impossible.
+   D. Since shifted decision thresholds is observed in content moderation pipelines, it must generalize to every setting, regardless of boundary conditions.
+
+4. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: In other words, the disagreement is not about whether the data exist, but about what the data are evidence for.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+5. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that fairness constraints under imperfect data is settled because calibration disparities uniquely identifies the mechanism. It argues that measurement error in sensitive attributes is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using audit studies with held-out groups are unnecessary.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats audit studies with held-out groups as a historical curiosity and does not discuss calibration disparities or measurement error in sensitive attributes. It ends without any methodological implication.
+   C. The passage argues that disparate impact in automated scoring cannot be studied empirically because confounders like measurement error in sensitive attributes make data meaningless. It recommends replacing measurement with intuition and rejecting audit studies with held-out groups as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage examines algorithmic bias and fairness constraints in automated decision systems and argues that calibration disparities is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how measurement error in sensitive attributes can shift the baseline, especially when evidence is drawn from hiring and screening tools. Finally, it maintains that tests combining audit studies with held-out groups with boundary-condition checks are required to make claims about bias in machine-learning decision pipelines robust.
+
+6. [Vocabulary] In the passage, the word **persistent** in the sentence below is closest in meaning to:
+   Sentence: by comparing cases in which robustness checks across subpopulations constrains alternatives, researchers could ask which predictions survive out of sample, which forces analysts to admit that is why the passage emphasizes comparative design over isolated exemplars.
+   A. irrelevant to algorithmic bias and fairness constraints in automated decision systems, serving only as background detail
+   B. complete and final, so no further checks like robustness checks across subpopulations are needed
+   C. lasting
+   D. unavoidable and uncontrollable because dataset shift dominates all evidence
+
+7. [Inference] The passage suggests which of the following?
+   A. The author treats content moderation pipelines as a special case and argues that no broader inference about algorithmic bias and fairness constraints in automated decision systems is possible.
+   B. The argument is that boundary conditions matter only for older studies, not for modern measurements using audit studies with held-out groups.
+   C. A convincing explanation should make distinct predictions under shared protocols, especially when feedback loops from deployment can mimic proxy variable leakage.
+   D. The passage claims that the best strategy is to average away feedback loops from deployment, since variability is merely a measurement error.
+
+8. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. a recipe for bread fermentation
+   B. shifted decision thresholds
+   C. Algorithmic Bias and Fairness Constraints in Automated Decision Systems
+   D. counterfactual fairness tests
+
+9. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: If one wishes to move from description to explanation, a different prediction follows: then the same observation—error-rate gaps—must be paired with tests that change the conditions under which it appears.
+   A. the idea being discussed in the surrounding sentences
+   B. dataset shift alone, treated as the sole cause
+   C. bias–variance decomposition as a device rather than as an analytic approach
+   D. proxy variable leakage specifically, taken as an unambiguous measurement
+
+10. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | causal graph specification | Requires careful calibration |
+   | Signal | error-rate gaps | Can be contaminated by background variability |
+   | Confounder | dataset shift | Can mimic the target feature |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves calibration disparities is unique.
+   B. It makes measurement error in sensitive attributes irrelevant.
+   C. Can be contaminated by background variability
+   D. It replaces bias–variance decomposition with intuition.
+
+
+Answer Key
+----------
+1: B
+2: B
+3: B
+4: D
+5: D
+6: C
+7: C
+8: A
+9: A
+10: C

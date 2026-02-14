@@ -1,0 +1,148 @@
+Passage 0605: Exoplanet Atmospheric Characterization via Transmission Spectroscopy (Astronomy)
+==============================================================================================
+(Word count: 651)
+
+Despite apparently clean spectra, researchers have treated sodium and potassium lines as the
+decisive sign of exoplanet atmospheric characterization via transmission spectroscopy.
+Bayesian atmospheric retrieval can make the pattern look unusually sharp; still, the passage
+argues that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for, an
+outcome that forces analysts to articulate boundary conditions rather than rely on familiar
+narratives.
+
+Not until analysts began combining Bayesian atmospheric retrieval with cross-site
+comparisons was it clear that claims about exoplanet atmospheric characterization via
+transmission spectroscopy stopped relying on a single figure and started relying on
+falsifiable predictions. the goal was to break degeneracies in which sodium and potassium
+lines could be explained in more than one way because, as the author notes, confounders like
+limb-darkening uncertainty often co-vary with the driver. as the author notes, transparency
+about priors became an empirical issue rather than a stylistic choice; this, in turn,
+changes whether two analyses are actually comparable. In this sense, transit-spectrum
+analysis of exoplanet atmospheres is best treated as a conditional inference rather than as
+a mere label.
+
+Although the first model can fit one dataset extremely well, the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how limb-darkening
+uncertainty can shift baselines, altering whether sodium and potassium lines is even
+comparable across cases, a move that means that a good fit is not the same as a good
+explanation. Provided that limb-darkening uncertainty is changed while the nominal driver
+remains constant, one should expect different outcomes when conditions are perturbed.
+
+What matters most is methodological humility, which is why the passage presents as the
+lesson of exoplanet atmospheric characterization via transmission spectroscopy: inference is
+constrained by what competing models would also predict. If one wishes to move from
+description to explanation is granted, then the same observation—sodium and potassium
+lines—must be paired with tests that change the conditions under which it appears. Whereas
+popular summaries treat sodium and potassium lines as an endpoint, the passage treats it as
+a starting point for sharper experimental or observational contrasts. In this sense,
+spectroscopic probing of a planet’s gaseous envelope is best treated as a conditional
+inference rather than as a mere label.
+
+Using Bayesian atmospheric retrieval under stable conditions, the key question becomes
+whether one frequently cited case from hot Jupiters such as WASP-39b appeared to support the
+direct-readout view. [A] The argument hinges on what would change under an alternative
+explanation. To be sure, the original fit looked visually decisive, yet later, however,
+reanalysis showed that small shifts in limb-darkening uncertainty altered the baseline
+enough to mute or mimic sodium and potassium lines. [B] The passage signals that a tidy fit
+may hide degenerate explanations. the passage treats this episode as diagnostic, which
+illustrates why boundary conditions must be specified before generalization is attempted.
+[C] The author treats this as a clue rather than as a nuisance. [D] The author uses the
+detour to show why a different metric would lead to a different conclusion. In this sense,
+bayesian retrieval of atmospheric composition from transits is best treated as a conditional
+inference rather than as a mere label.
+
+In the end, researchers found that the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about exoplanet atmospheric characterization via transmission spectroscopy be
+conditional on stated priors, it turns disagreement into a tool for discovery, which helps
+explain why clarifies why the same record can yield multiple stories without implying that
+any story is arbitrary. To be sure, the temptation to treat a tidy plot as a definitive
+answer is strong, yet the result is a framework in which sodium and potassium lines is
+interpreted through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Factual Information] The passage indicates that comparability across cases is important mainly because:
+   A. it prevents CO2 and CO signatures from being treated as a self-interpreting fingerprint and forces tests that control limb-darkening uncertainty
+   B. Because CO2 and CO signatures appears, the mechanism must be unique, so limb-darkening uncertainty can be ignored as irrelevant noise.
+   C. Because limb-darkening uncertainty co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   D. The author suggests that disagreement disappears once CO2 and CO signatures is detected, making model assumptions unnecessary.
+
+2. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. water-vapor absorption bands
+   B. Exoplanet Atmospheric Characterization via Transmission Spectroscopy
+   C. the length of the Nile in miles
+   D. secondary-eclipse spectroscopy
+
+3. [Vocabulary] In the passage, the word **ambiguous** in the sentence below is closest in meaning to:
+   Sentence: In this sense, spectroscopic probing of a planet’s gaseous envelope is best treated as a conditional inference rather than as a mere label.
+   A. complete and final, so no further checks like spectral injection–recovery tests are needed
+   B. unclear
+   C. irrelevant to exoplanet atmospheric characterization via transmission spectroscopy, serving only as background detail
+   D. unavoidable and uncontrollable because limb-darkening uncertainty dominates all evidence
+
+4. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about exoplanet atmospheric characterization via transmission spectroscopy be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Aggregation guarantees that the same mechanism operates in warm Neptunes like GJ 436b and everywhere else.
+   B. Incompatible cases should be ignored to keep an explanation based on transmission spectroscopy simple.
+   C. Summaries are always reliable because averaging eliminates limb-darkening uncertainty.
+   D. Some summaries seem consistent because they mix incompatible cases, not because CO2 and CO signatures uniquely identifies one mechanism.
+
+5. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | high-dispersion cross-correlation spectroscopy | May not generalize across contexts |
+   | Signal | sodium and potassium lines | Can be contaminated by background variability |
+   | Confounder | limb-darkening uncertainty | Shifts the baseline |
+   Blank: The limitation for 'Signal' is ________.
+   A. Can be contaminated by background variability
+   B. May not generalize across contexts
+   C. It makes pressure–temperature profile degeneracy irrelevant.
+   D. It proves CO2 and CO signatures is unique.
+
+6. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats transmission spectroscopy as a historical curiosity and does not discuss water-vapor absorption bands or limb-darkening uncertainty. It ends without any methodological implication.
+   B. The passage claims that spectroscopic probing of a planet’s gaseous envelope is settled because water-vapor absorption bands uniquely identifies the mechanism. It argues that limb-darkening uncertainty is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using transmission spectroscopy are unnecessary.
+   C. The passage examines exoplanet atmospheric characterization via transmission spectroscopy and argues that water-vapor absorption bands is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how limb-darkening uncertainty can shift the baseline, especially when evidence is drawn from temperate rocky candidates in compact systems. Finally, it maintains that tests combining transmission spectroscopy with boundary-condition checks are required to make claims about transit-spectrum analysis of exoplanet atmospheres robust.
+   D. The passage argues that bayesian retrieval of atmospheric composition from transits cannot be studied empirically because confounders like limb-darkening uncertainty make data meaningless. It recommends replacing measurement with intuition and rejecting transmission spectroscopy as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+7. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: Not until analysts began combining Bayesian atmospheric retrieval with cross-site comparisons was it clear that claims about exoplanet atmospheric characterization via transmission spectroscopy stopped relying on a single figure and started relying on falsifiable predictions.
+   A. the idea being discussed in the surrounding sentences
+   B. sodium and potassium lines specifically, taken as an unambiguous measurement
+   C. chemical disequilibrium alone, treated as the sole cause
+   D. spectral injection–recovery tests as a device rather than as an analytic approach
+
+8. [Rhetorical Purpose] What is the primary purpose of presenting more than one explanation?
+   A. The passage implies that hot Jupiters such as WASP-39b is chosen to avoid bias, so comparisons across settings are unnecessary.
+   B. motivate clearer assumptions and stronger tests, such as comparing cases where secondary-eclipse spectroscopy constrains instrumental systematics
+   C. The discussion suggests that instrumental systematics is the phenomenon itself, so controlling for it would remove the effect of interest.
+   D. The passage treats Rayleigh-scattering slopes as a confounder and instrumental systematics as the diagnostic signal that identifies the mechanism.
+
+9. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The argument also suggests that disagreement can be productive, since it forces boundary conditions to be stated rather than assumed.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+10. [Inference] Which of the following can be inferred from the passage?
+   A. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving secondary-eclipse spectroscopy.
+   B. The argument is that boundary conditions matter only for older studies, not for modern measurements using secondary-eclipse spectroscopy.
+   C. The passage suggests that sodium and potassium lines is primarily a rhetorical device rather than an empirical constraint on models.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when stellar activity contamination can mimic sodium and potassium lines.
+
+
+Answer Key
+----------
+1: A
+2: C
+3: B
+4: D
+5: A
+6: C
+7: A
+8: B
+9: C
+10: D

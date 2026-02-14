@@ -1,0 +1,150 @@
+Passage 0651: Network Diffusion of Innovations in Social Media (Sociology)
+==========================================================================
+(Word count: 786)
+
+In policy discussions, researchers found that researchers have treated cascade size
+distributions as the decisive sign of network diffusion of innovations in social media.
+Granted that network analysis can make the pattern look unusually sharp, the passage argues
+that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for,
+which helps explain why forces analysts to articulate boundary conditions rather than rely
+on familiar narratives. In replication attempts, the analysis suggests the apparent
+consensus fractured when similar protocols were applied in settings unlike cross-platform
+ecosystems. the same summary statistic could be reproduced while the underlying mechanisms
+differed in part because endogeneity of peer selection shifted the baseline in different
+directions across sites. Rather than treating cascade size distributions as a self-
+sufficient conclusion, the passage emphasizes that the author therefore separates detection
+from interpretation. In this sense, contagion-like spread of new behaviors is best treated
+as a conditional inference rather than as a mere label. What matters most is the apparent
+regularity of cascade size distributions, which is why drives the first interpretation:
+cascade size distributions is treated as a direct readout of mechanism. If cascade size
+distributions is uniquely produced by one causal pathway, a different prediction follows:
+then observations from cross-platform ecosystems would be transferable, and disagreement
+would be largely technical. Rather than the caveat that endogeneity of peer selection might
+reproduce the same pattern, the passage emphasizes that the literature is full of such
+claims. If anything is responsible, it is methodological humility, and therefore the passage
+presents as the lesson of network diffusion of innovations in social media: inference is
+constrained by what competing models would also predict. Were one wishes to move from
+description to explanation to fail, then the same observation—cascade size
+distributions—must be paired with tests that change the conditions under which it appears.
+Whereas popular summaries treat cascade size distributions as an endpoint invites a tidy
+story, the passage treats it as a starting point for sharper experimental or observational
+contrasts forces boundary conditions to be stated. Not the obvious explanation but
+methodological humility is what the passage presents as the lesson of network diffusion of
+innovations in social media: inference is constrained by what competing models would also
+predict. Provided that one wishes to move from description to explanation, then the same
+observation—cascade size distributions—must be paired with tests that change the conditions
+under which it appears. Whereas popular summaries treat cascade size distributions as an
+endpoint in one account, the passage treats it as a starting point for sharper experimental
+or observational contrasts in another. In this sense, peer-to-peer adoption cascades in
+networks is best treated as a conditional inference rather than as a mere label. Only after
+the field adopted tests that manipulate or stratify endogeneity of peer selection did the
+debate became empirically productive rather than merely rhetorical. by comparing cases in
+which network analysis constrains alternatives, researchers could ask which predictions
+survive out of sample, which helps explain why is why the passage emphasizes comparative
+design over isolated exemplars. Even if a single case can be dramatic, the author does not
+deny the value of striking examples, but warns against treating them as representative.
+Rarely, unless the field adopted tests that manipulate or stratify endogeneity of peer
+selection, does one see why the debate became empirically productive rather than merely
+rhetorical. [A] The author suggests that the same evidence can support multiple stories when
+priors differ. by comparing cases in which network analysis constrains alternatives,
+researchers could ask which predictions survive out of sample, a move that is why the
+passage emphasizes comparative design over isolated exemplars. [B] The author shifts from
+narrative to diagnosis, focusing on what the data cannot rule out. To be sure, a single case
+can be dramatic, yet the author does not deny the value of striking examples, but warns
+against treating them as representative. [C] This is presented not as a loophole, but as a
+disciplined way to avoid overclaiming. [D] The author treats this as a clue rather than as a
+nuisance. In this sense, innovation diffusion through social graphs is best treated as a
+conditional inference rather than as a mere label. In the end, the central disagreement can
+be stated more precisely: the passage concludes that the most informative evidence is often
+the evidence that forces competing assumptions into the open. by insisting that claims about
+network diffusion of innovations in social media be conditional on stated priors, it turns
+disagreement into a tool for discovery, something that clarifies why the same record can
+yield multiple stories without implying that any story is arbitrary.
+
+Questions
+---------
+
+1. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | A/B platform experiments | Samples only part of the system |
+   | Signal | threshold adoption patterns | May be sensitive to preprocessing choices |
+   | Confounder | status signaling incentives | Shifts the baseline |
+   Blank: The limitation for 'Method' is ________.
+   A. May be sensitive to preprocessing choices
+   B. It proves algorithmic amplification signatures is unique.
+   C. It makes endogeneity of peer selection irrelevant.
+   D. Samples only part of the system
+
+2. [Vocabulary] In the passage, the word **salient** in the sentence below is closest in meaning to:
+   Sentence: In policy discussions, researchers found that researchers have treated cascade size distributions as the decisive sign of network diffusion of innovations in social media.
+   A. unavoidable and uncontrollable because measurement error in exposure dominates all evidence
+   B. irrelevant to network diffusion of innovations in social media, serving only as background detail
+   C. complete and final, so no further checks like A/B platform experiments are needed
+   D. important
+
+3. [Inference] Which of the following can be inferred from the passage?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when platform governance changes can mimic algorithmic amplification signatures.
+   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving agent-based modeling.
+   C. The author treats workplace communication graphs as a special case and argues that no broader inference about network diffusion of innovations in social media is possible.
+   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using agent-based modeling.
+
+4. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Because the inference is underdetermined, the most informative tests are those that break degeneracies rather than those that merely sharpen one feature.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about network diffusion of innovations in social media be conditional on stated priors, it turns disagreement into a tool for discovery, something that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on causal inference with instrumental variables simple.
+   B. Some summaries seem consistent because they mix incompatible cases, not because algorithmic amplification signatures uniquely identifies one mechanism.
+   C. Aggregation guarantees that the same mechanism operates in online communities and everywhere else.
+   D. Summaries are always reliable because averaging eliminates endogeneity of peer selection.
+
+6. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. agent-based modeling
+   B. Network Diffusion of Innovations in Social Media
+   C. a list of Olympic medal counts
+   D. homophily versus influence diagnostics
+
+7. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [C] This is presented not as a loophole, but as a disciplined way to avoid overclaiming.
+   A. A/B platform experiments as a device rather than as an analytic approach
+   B. algorithmic amplification signatures specifically, taken as an unambiguous measurement
+   C. the idea being discussed in the surrounding sentences
+   D. status signaling incentives alone, treated as the sole cause
+
+8. [Factual Information] The passage indicates that replication across contexts is important mainly because:
+   A. it prevents cascade size distributions from being treated as a self-interpreting fingerprint and forces tests that control status signaling incentives
+   B. Since cascade size distributions is observed in online communities, it must generalize to every setting, regardless of boundary conditions.
+   C. Because cascade size distributions appears, the mechanism must be unique, so status signaling incentives can be ignored as irrelevant noise.
+   D. The discussion indicates that replication is redundant if network analysis produces a tight fit on one dataset.
+
+9. [Rhetorical Purpose] By bringing up competing viewpoints, the author is trying to:
+   A. The author suggests that the key synonym 'innovation diffusion through social graphs' refers to a different field altogether, not to network diffusion of innovations in social media.
+   B. The passage implies that online communities is chosen to avoid bias, so comparisons across settings are unnecessary.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where causal inference with instrumental variables constrains status signaling incentives
+   D. The author argues that causal inference with instrumental variables should be replaced by an unmodeled trend line because assumptions distort evidence.
+
+10. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that peer-to-peer adoption cascades in networks is settled because algorithmic amplification signatures uniquely identifies the mechanism. It argues that endogeneity of peer selection is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using A/B platform experiments are unnecessary.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats A/B platform experiments as a historical curiosity and does not discuss algorithmic amplification signatures or endogeneity of peer selection. It ends without any methodological implication.
+   C. The passage argues that innovation diffusion through social graphs cannot be studied empirically because confounders like endogeneity of peer selection make data meaningless. It recommends replacing measurement with intuition and rejecting A/B platform experiments as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage examines network diffusion of innovations in social media and argues that algorithmic amplification signatures is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how endogeneity of peer selection can shift the baseline, especially when evidence is drawn from online communities. Finally, it maintains that tests combining A/B platform experiments with boundary-condition checks are required to make claims about contagion-like spread of new behaviors robust.
+
+
+Answer Key
+----------
+1: D
+2: D
+3: A
+4: B
+5: B
+6: C
+7: C
+8: A
+9: C
+10: D

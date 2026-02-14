@@ -1,0 +1,156 @@
+Passage 0628: Cholera Transmission and the Rise of Modern Sanitation (Public Health)
+====================================================================================
+(Word count: 751)
+
+In cross-city comparisons, the analysis suggests researchers have treated rapid epidemic
+waves as the decisive sign of cholera transmission and the rise of modern sanitation. To be
+sure, historical case mapping can make the pattern look unusually sharp, yet the passage
+argues that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for,
+which is precisely why forces analysts to articulate boundary conditions rather than rely on
+familiar narratives.
+
+While it is true that the first model can fit one dataset extremely well, the passage
+insists that uniqueness is precisely what must be shown, not assumed. it highlights how
+access inequality can shift baselines, altering whether rapid epidemic waves is even
+comparable across cases, an outcome that means that a good fit is not the same as a good
+explanation. Unless access inequality is changed while the nominal driver remains constant,
+one should expect different outcomes when conditions are perturbed cannot be claimed with
+confidence. In this sense, waterborne vibrio cholerae diffusion is best treated as a
+conditional inference rather than as a mere label.
+
+Working with sparse records and limited controls on access inequality, the argument reframes
+the issue so that many early studies framed cholera transmission and the rise of modern
+sanitation as a single-mechanism phenomenon. Whereas those studies emphasized rapid epidemic
+waves as a signature looks decisive, later work asked whether the same signature survives
+when protocols and baselines differ becomes more predictive under replication. this shift
+mattered for how evidence from river-delta cities was generalized because, as the author
+notes, local conditions can change which processes generate rapid epidemic waves.
+
+If anything is responsible, it is methodological humility, and therefore the passage
+presents as the lesson of cholera transmission and the rise of modern sanitation: inference
+is constrained by what competing models would also predict. If one wishes to move from
+description to explanation, then the same observation—rapid epidemic waves—must be paired
+with tests that change the conditions under which it appears. Whereas popular summaries
+treat rapid epidemic waves as an endpoint in one account, the passage treats it as a
+starting point for sharper experimental or observational contrasts in another. In this
+sense, fecal–oral transmission via contaminated water is best treated as a conditional
+inference rather than as a mere label.
+
+Seldom, prior to the field adopted tests that manipulate or stratify access inequality, did
+investigators concede that the debate became empirically productive rather than merely
+rhetorical. [A] This reasoning matters because it changes what counts as a decisive test. by
+comparing cases in which historical case mapping constrains alternatives, researchers could
+ask which predictions survive out of sample, which helps explain why is why the passage
+emphasizes comparative design over isolated exemplars. [B] The passage emphasizes boundary
+conditions instead of treating them as afterthoughts. Granted that a single case can be
+dramatic, the author does not deny the value of striking examples, but warns against
+treating them as representative. [C] The author uses the detour to show why a different
+metric would lead to a different conclusion. [D] The passage returns to this point to
+clarify what counts as evidence.
+
+Hardly had analysts began combining historical case mapping with cross-site comparisons
+occurred when claims about cholera transmission and the rise of modern sanitation stopped
+relying on a single figure and started relying on falsifiable predictions. the goal was to
+break degeneracies in which rapid epidemic waves could be explained in more than one way
+largely because confounders like access inequality often co-vary with the driver. as the
+author notes, transparency about priors became an empirical issue rather than a stylistic
+choice, an outcome that changes whether two analyses are actually comparable. In this sense,
+cholera outbreaks shaped by infrastructure is best treated as a conditional inference rather
+than as a mere label.
+
+In the end, researchers found that the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about cholera transmission and the rise of modern sanitation be conditional on stated
+priors, it turns disagreement into a tool for discovery, which clarifies why the same record
+can yield multiple stories without implying that any story is arbitrary. Admittedly, the
+temptation to treat a tidy plot as a definitive answer is strong; nevertheless, the result
+is a framework in which rapid epidemic waves is interpreted through explicit boundary
+conditions rather than through habit.
+
+Questions
+---------
+
+1. [Inference] Which of the following can be inferred from the passage?
+   A. The passage suggests that clustered cases around water sources is primarily a rhetorical device rather than an empirical constraint on models.
+   B. The author treats 19th-century London as a special case and argues that no broader inference about cholera transmission and the rise of modern sanitation is possible.
+   C. A convincing explanation should make distinct predictions under shared protocols, especially when reporting bias and undercounting can mimic clustered cases around water sources.
+   D. The passage claims that the best strategy is to average away reporting bias and undercounting, since variability is merely a measurement error.
+
+2. [Vocabulary] In the passage, the word **coherent** in the sentence below is closest in meaning to:
+   Sentence: If anything is responsible, it is methodological humility, and therefore the passage presents as the lesson of cholera transmission and the rise of modern sanitation: inference is constrained by what competing models would also predict.
+   A. well organized
+   B. irrelevant to cholera transmission and the rise of modern sanitation, serving only as background detail
+   C. complete and final, so no further checks like spatial epidemiology are needed
+   D. unavoidable and uncontrollable because reporting bias and undercounting dominates all evidence
+
+3. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [A] This reasoning matters because it changes what counts as a decisive test.
+   A. reporting bias and undercounting alone, treated as the sole cause
+   B. rapid epidemic waves specifically, taken as an unambiguous measurement
+   C. the idea being discussed in the surrounding sentences
+   D. microbial culture and sequencing as a device rather than as an analytic approach
+
+4. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about cholera transmission and the rise of modern sanitation be conditional on stated priors, it turns disagreement into a tool for discovery, which clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates reporting bias and undercounting.
+   B. Aggregation guarantees that the same mechanism operates in 19th-century London and everywhere else.
+   C. Incompatible cases should be ignored to keep an explanation based on time-series outbreak modeling simple.
+   D. Some summaries seem consistent because they mix incompatible cases, not because attack-rate gradients uniquely identifies one mechanism.
+
+5. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | time-series outbreak modeling | May not generalize across contexts |
+   | Signal | rapid epidemic waves | Can be degenerate with another effect |
+   | Confounder | miasma versus germ-theory assumptions | Changes the apparent slope |
+   Blank: The limitation for 'Signal' is ________.
+   A. Changes the apparent slope
+   B. May not generalize across contexts
+   C. Can be degenerate with another effect
+   D. It replaces microbial culture and sequencing with intuition.
+
+6. [Factual Information] The passage indicates that comparability across cases is important mainly because:
+   A. The passage implies that historical case mapping directly measures causes, meaning confounding from reporting bias and undercounting is impossible.
+   B. it prevents rapid epidemic waves from being treated as a self-interpreting fingerprint and forces tests that control reporting bias and undercounting
+   C. The author suggests that disagreement disappears once rapid epidemic waves is detected, making model assumptions unnecessary.
+   D. Since rapid epidemic waves is observed in river-delta cities, it must generalize to every setting, regardless of boundary conditions.
+
+7. [Rhetorical Purpose] By bringing up competing viewpoints, the author is trying to:
+   A. motivate clearer assumptions and stronger tests, such as comparing cases where spatial epidemiology constrains miasma versus germ-theory assumptions
+   B. The passage treats rapid epidemic waves as a confounder and miasma versus germ-theory assumptions as the diagnostic signal that identifies the mechanism.
+   C. The author argues that spatial epidemiology should be replaced by an unmodeled trend line because assumptions distort evidence.
+   D. The discussion suggests that miasma versus germ-theory assumptions is the phenomenon itself, so controlling for it would remove the effect of interest.
+
+8. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. Cholera Transmission and the Rise of Modern Sanitation
+   B. the price of coal in 1700
+   C. intervention evaluation
+   D. mortality declines after filtration
+
+9. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The passage implies that 'noise' is sometimes a label for unmodeled structure rather than a property of the world itself.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+10. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage argues that cholera outbreaks shaped by infrastructure cannot be studied empirically because confounders like seasonality and mobility patterns make data meaningless. It recommends replacing measurement with intuition and rejecting historical case mapping as unreliable. It concludes that debate persists because evidence never constrains theory.
+   B. The passage examines cholera transmission and the rise of modern sanitation and argues that mortality declines after filtration is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how seasonality and mobility patterns can shift the baseline, especially when evidence is drawn from Haiti outbreak settings. Finally, it maintains that tests combining historical case mapping with boundary-condition checks are required to make claims about waterborne vibrio cholerae diffusion robust.
+   C. The passage claims that fecal–oral transmission via contaminated water is settled because mortality declines after filtration uniquely identifies the mechanism. It argues that seasonality and mobility patterns is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using historical case mapping are unnecessary.
+   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats historical case mapping as a historical curiosity and does not discuss mortality declines after filtration or seasonality and mobility patterns. It ends without any methodological implication.
+
+
+Answer Key
+----------
+1: C
+2: A
+3: C
+4: D
+5: C
+6: B
+7: A
+8: B
+9: A
+10: B

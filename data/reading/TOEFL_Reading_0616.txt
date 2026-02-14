@@ -1,0 +1,156 @@
+Passage 0616: Stellar Contamination in Transit Spectroscopy (Astronomy)
+=======================================================================
+(Word count: 743)
+
+In the last decade, researchers found that researchers have treated rotation-modulated light
+curves as the decisive sign of stellar contamination in transit spectroscopy. While it is
+true that chromatic transit analysis can make the pattern look unusually sharp, the passage
+argues that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for,
+which forces analysts to articulate boundary conditions rather than rely on familiar
+narratives.
+
+Using chromatic transit analysis under stable conditions, the interpretation shifts, and one
+frequently cited case from active K-dwarf host stars appeared to support the direct-readout
+view. [A] The passage signals that a tidy fit may hide degenerate explanations. To be sure,
+the original fit looked visually decisive, yet later, however, reanalysis showed that small
+shifts in facula coverage fractions altered the baseline enough to mute or mimic rotation-
+modulated light curves. [B] This reasoning matters because it changes what counts as a
+decisive test. the passage treats this episode as diagnostic, which helps explain why
+illustrates why boundary conditions must be specified before generalization is attempted.
+[C] The argument hinges on what would change under an alternative explanation. [D] The
+author implies that replication is informative only when protocols are comparable. In this
+sense, unocculted spot/facula bias in transit data is best treated as a conditional
+inference rather than as a mere label.
+
+What matters most is methodological humility, which is why the passage presents as the
+lesson of stellar contamination in transit spectroscopy: inference is constrained by what
+competing models would also predict. If one wishes to move from description to explanation
+holds, then the same observation—rotation-modulated light curves—must be paired with tests
+that change the conditions under which it appears. Whereas popular summaries treat rotation-
+modulated light curves as an endpoint in one account, the passage treats it as a starting
+point for sharper experimental or observational contrasts in another.
+
+If anything is responsible, it is the apparent regularity of rotation-modulated light
+curves, and therefore drives the first interpretation: rotation-modulated light curves is
+treated as a direct readout of mechanism. Should rotation-modulated light curves is uniquely
+produced by one causal pathway be true, then observations from active K-dwarf host stars
+would be transferable, and disagreement would be largely technical. The issue is not the
+caveat that facula coverage fractions might reproduce the same pattern; it is that the
+literature is full of such claims. In this sense, activity-driven spectral distortion is
+best treated as a conditional inference rather than as a mere label.
+
+Rarely has it been the case that claims about stellar contamination in transit spectroscopy
+stopped relying on a single figure and started relying on falsifiable predictions, at least
+before analysts began combining chromatic transit analysis with cross-site comparisons. the
+goal was to break degeneracies in which rotation-modulated light curves could be explained
+in more than one way in part because confounders like facula coverage fractions often co-
+vary with the driver. as the author notes, transparency about priors became an empirical
+issue rather than a stylistic choice; this, in turn, changes whether two analyses are
+actually comparable.
+
+Only through analysts began combining chromatic transit analysis with cross-site comparisons
+could one reasonably claim that claims about stellar contamination in transit spectroscopy
+stopped relying on a single figure and started relying on falsifiable predictions. the goal
+was to break degeneracies in which rotation-modulated light curves could be explained in
+more than one way because, as the author notes, confounders like facula coverage fractions
+often co-vary with the driver. as the author notes, transparency about priors became an
+empirical issue rather than a stylistic choice, a move that changes whether two analyses are
+actually comparable. In this sense, photospheric contamination of transmission spectra is
+best treated as a conditional inference rather than as a mere label.
+
+In the end, the analysis suggests the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about stellar contamination in transit spectroscopy be conditional on stated priors,
+it turns disagreement into a tool for discovery, which helps explain why clarifies why the
+same record can yield multiple stories without implying that any story is arbitrary.
+Admittedly, the temptation to treat a tidy plot as a definitive answer is strong;
+nevertheless, the result is a framework in which rotation-modulated light curves is
+interpreted through explicit boundary conditions rather than through habit.
+
+Questions
+---------
+
+1. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about stellar contamination in transit spectroscopy be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates starspot temperature contrasts.
+   B. Some summaries seem consistent because they mix incompatible cases, not because time-variable spectral baselines uniquely identifies one mechanism.
+   C. Aggregation guarantees that the same mechanism operates in active K-dwarf host stars and everywhere else.
+   D. Incompatible cases should be ignored to keep an explanation based on spot–facular forward modeling simple.
+
+2. [Vocabulary] In the passage, the word **plausible** in the sentence below is closest in meaning to:
+   Sentence: Rarely has it been the case that claims about stellar contamination in transit spectroscopy stopped relying on a single figure and started relying on falsifiable predictions, at least before analysts began combining chromatic transit analysis with cross-site comparisons.
+   A. reasonable
+   B. irrelevant to stellar contamination in transit spectroscopy, serving only as background detail
+   C. unavoidable and uncontrollable because starspot temperature contrasts dominates all evidence
+   D. complete and final, so no further checks like multi-epoch transit campaigns are needed
+
+3. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. the author’s favorite color
+   B. spot–facular forward modeling
+   C. Stellar Contamination in Transit Spectroscopy
+   D. spurious molecular detections
+
+4. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
+   A. The discussion suggests that limb-darkening model mismatch is the phenomenon itself, so controlling for it would remove the effect of interest.
+   B. The passage implies that multi-epoch JWST targets is chosen to avoid bias, so comparisons across settings are unnecessary.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where simultaneous photometric monitoring constrains limb-darkening model mismatch
+   D. The passage treats apparent slopes mimicking Rayleigh scattering as a confounder and limb-darkening model mismatch as the diagnostic signal that identifies the mechanism.
+
+5. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [B] This reasoning matters because it changes what counts as a decisive test.
+   A. simultaneous photometric monitoring as a device rather than as an analytic approach
+   B. instrument drift across visits alone, treated as the sole cause
+   C. spurious molecular detections specifically, taken as an unambiguous measurement
+   D. the idea being discussed in the surrounding sentences
+
+6. [Factual Information] The passage indicates that confounder control is important mainly because:
+   A. The passage implies that Gaussian-process detrending directly measures causes, meaning confounding from limb-darkening model mismatch is impossible.
+   B. Because limb-darkening model mismatch co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   C. Because rotation-modulated light curves appears, the mechanism must be unique, so limb-darkening model mismatch can be ignored as irrelevant noise.
+   D. it prevents rotation-modulated light curves from being treated as a self-interpreting fingerprint and forces tests that control limb-darkening model mismatch
+
+7. [Inference] Which of the following can be inferred from the passage?
+   A. A convincing explanation should make distinct predictions under shared protocols, especially when starspot temperature contrasts can mimic rotation-modulated light curves.
+   B. The passage suggests that rotation-modulated light curves is primarily a rhetorical device rather than an empirical constraint on models.
+   C. The argument is that boundary conditions matter only for older studies, not for modern measurements using Gaussian-process detrending.
+   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving Gaussian-process detrending.
+
+8. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage argues that photospheric contamination of transmission spectra cannot be studied empirically because confounders like instrument drift across visits make data meaningless. It recommends replacing measurement with intuition and rejecting multi-epoch transit campaigns as unreliable. It concludes that debate persists because evidence never constrains theory.
+   B. The passage examines stellar contamination in transit spectroscopy and argues that apparent slopes mimicking Rayleigh scattering is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how instrument drift across visits can shift the baseline, especially when evidence is drawn from active K-dwarf host stars. Finally, it maintains that tests combining multi-epoch transit campaigns with boundary-condition checks are required to make claims about unocculted spot/facula bias in transit data robust.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats multi-epoch transit campaigns as a historical curiosity and does not discuss apparent slopes mimicking Rayleigh scattering or instrument drift across visits. It ends without any methodological implication.
+   D. The passage claims that activity-driven spectral distortion is settled because apparent slopes mimicking Rayleigh scattering uniquely identifies the mechanism. It argues that instrument drift across visits is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using multi-epoch transit campaigns are unnecessary.
+
+9. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The passage underscores that transparency about priors can be more informative than presenting one visually impressive fit.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+10. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | chromatic transit analysis | Requires careful calibration |
+   | Signal | rotation-modulated light curves | May be sensitive to preprocessing choices |
+   | Confounder | starspot temperature contrasts | Shifts the baseline |
+   Blank: The limitation for 'Signal' is ________.
+   A. It makes instrument drift across visits irrelevant.
+   B. May be sensitive to preprocessing choices
+   C. Shifts the baseline
+   D. It replaces multi-epoch transit campaigns with intuition.
+
+
+Answer Key
+----------
+1: B
+2: A
+3: A
+4: C
+5: D
+6: D
+7: A
+8: B
+9: A
+10: B

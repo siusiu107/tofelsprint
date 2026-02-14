@@ -1,0 +1,163 @@
+Passage 0670: Agricultural Revolutions and the Reorganization of Rural Labor (History)
+======================================================================================
+(Word count: 792)
+
+In twentieth-century urban histories, the passage argues that researchers have treated
+urbanization accelerations as the decisive sign of agricultural revolutions and the
+reorganization of rural labor. While it is true that demographic inference from parish
+registers can make the pattern look unusually sharp, the passage argues that such confidence
+is conditional and must be earned by specifying assumptions. the resulting debate is less
+about data collection than about what the data are evidence for, something that forces
+analysts to articulate boundary conditions rather than rely on familiar narratives.
+
+Using demographic inference from parish registers under stable conditions, the passage
+suggests one frequently cited case from early modern England appeared to support the direct-
+readout view. the original fit looked visually decisive; still, later, however, reanalysis
+showed that small shifts in property-right reforms altered the baseline enough to mute or
+mimic urbanization accelerations. the passage treats this episode as diagnostic, which
+illustrates why boundary conditions must be specified before generalization is attempted. In
+this sense, technological change in agriculture is best treated as a conditional inference
+rather than as a mere label.
+
+If anything is responsible, it is methodological humility, and therefore the passage
+presents as the lesson of agricultural revolutions and the reorganization of rural labor:
+inference is constrained by what competing models would also predict. If one wishes to move
+from description to explanation is granted, then the same observation—urbanization
+accelerations—must be paired with tests that change the conditions under which it appears.
+Whereas popular summaries treat urbanization accelerations as an endpoint in one account,
+the passage treats it as a starting point for sharper experimental or observational
+contrasts in another.
+
+Only after analysts began combining demographic inference from parish registers with cross-
+site comparisons did the earlier interpretation begin to look fragile, so claims about
+agricultural revolutions and the reorganization of rural labor stopped relying on a single
+figure and started relying on falsifiable predictions. the goal was to break degeneracies in
+which urbanization accelerations could be explained in more than one way because confounders
+like property-right reforms often co-vary with the driver. as the author notes, transparency
+about priors became an empirical issue rather than a stylistic choice, something that
+changes whether two analyses are actually comparable.
+
+Though the first model can fit one dataset extremely well, the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how property-right
+reforms can shift baselines, altering whether urbanization accelerations is even comparable
+across cases, a move that means that a good fit is not the same as a good explanation.
+Should property-right reforms is changed while the nominal driver remains constant be true,
+one should expect different outcomes when conditions are perturbed. In this sense,
+restructuring of rural work under mechanization is best treated as a conditional inference
+rather than as a mere label.
+
+Using demographic inference from parish registers under stable conditions, one frequently
+cited case from early modern England appeared to support the direct-readout view. [A] That
+point is not rhetorical; it controls which prediction follows. To be sure, the original fit
+looked visually decisive, yet later, however, reanalysis showed that small shifts in
+property-right reforms altered the baseline enough to mute or mimic urbanization
+accelerations. [B] This detail becomes important later, when assumptions are tested. the
+passage treats this episode as diagnostic, which illustrates why boundary conditions must be
+specified before generalization is attempted. [C] The discussion makes clear that
+measurement choices can masquerade as mechanism. [D] The passage returns to this point to
+clarify what counts as evidence.
+
+Not the obvious explanation but the apparent regularity of urbanization accelerations is
+what drives the first interpretation: urbanization accelerations is treated as a direct
+readout of mechanism. If urbanization accelerations is uniquely produced by one causal
+pathway, a different prediction follows: then observations from early modern England would
+be transferable, and disagreement would be largely technical. Rather than the caveat that
+property-right reforms might reproduce the same pattern, the passage emphasizes that the
+literature is full of such claims. In this sense, shifts from subsistence to market farming
+is best treated as a conditional inference rather than as a mere label.
+
+In the end, the passage concludes that the most informative evidence is often the evidence
+that forces competing assumptions into the open. by insisting that claims about agricultural
+revolutions and the reorganization of rural labor be conditional on stated priors, it turns
+disagreement into a tool for discovery, which forces analysts to admit that clarifies why
+the same record can yield multiple stories without implying that any story is arbitrary. the
+temptation to treat a tidy plot as a definitive answer is strong; still, the result is a
+framework in which urbanization accelerations is interpreted through explicit boundary
+conditions rather than through habit.
+
+Questions
+---------
+
+1. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | demographic inference from parish registers | Samples only part of the system |
+   | Signal | wage compression or expansion | May be sensitive to preprocessing choices |
+   | Confounder | climatic shocks | Co-varies with the driver of interest |
+   Blank: The limitation for 'Method' is ________.
+   A. It makes market integration irrelevant.
+   B. It replaces price series reconstruction with intuition.
+   C. Samples only part of the system
+   D. Co-varies with the driver of interest
+
+2. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. Agricultural Revolutions and the Reorganization of Rural Labor
+   B. wage compression or expansion
+   C. demographic inference from parish registers
+   D. the length of the Nile in miles
+
+3. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
+   A. The author argues that comparative regional case studies should be replaced by an unmodeled trend line because assumptions distort evidence.
+   B. The author suggests that the key synonym 'restructuring of rural work under mechanization' refers to a different field altogether, not to agricultural revolutions and the reorganization of rural labor.
+   C. motivate clearer assumptions and stronger tests, such as comparing cases where comparative regional case studies constrains credit constraints
+   D. The discussion suggests that credit constraints is the phenomenon itself, so controlling for it would remove the effect of interest.
+
+4. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about agricultural revolutions and the reorganization of rural labor be conditional on stated priors, it turns disagreement into a tool for discovery, which forces analysts to admit that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on archival policy analysis simple.
+   B. Some summaries seem consistent because they mix incompatible cases, not because land-use intensification uniquely identifies one mechanism.
+   C. Summaries are always reliable because averaging eliminates market integration.
+   D. Aggregation guarantees that the same mechanism operates in early modern England and everywhere else.
+
+5. [Factual Information] The passage indicates that instrument calibration is important mainly because:
+   A. it prevents land-use intensification from being treated as a self-interpreting fingerprint and forces tests that control market integration
+   B. Because land-use intensification appears, the mechanism must be unique, so market integration can be ignored as irrelevant noise.
+   C. Because market integration co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   D. The discussion indicates that replication is redundant if estate account analysis produces a tight fit on one dataset.
+
+6. [Vocabulary] In the passage, the word **convergent** in the sentence below is closest in meaning to:
+   Sentence: the goal was to break degeneracies in which urbanization accelerations could be explained in more than one way because confounders like property-right reforms often co-vary with the driver.
+   A. coming together
+   B. irrelevant to agricultural revolutions and the reorganization of rural labor, serving only as background detail
+   C. unavoidable and uncontrollable because market integration dominates all evidence
+   D. complete and final, so no further checks like demographic inference from parish registers are needed
+
+7. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [B] This detail becomes important later, when assumptions are tested.
+   A. credit constraints alone, treated as the sole cause
+   B. the idea being discussed in the surrounding sentences
+   C. urbanization accelerations specifically, taken as an unambiguous measurement
+   D. archival policy analysis as a device rather than as an analytic approach
+
+8. [Inference] Which of the following can be inferred from the passage?
+   A. The passage suggests that changes in tenancy patterns is primarily a rhetorical device rather than an empirical constraint on models.
+   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving price series reconstruction.
+   C. The author treats postwar East Asian countryside as a special case and argues that no broader inference about agricultural revolutions and the reorganization of rural labor is possible.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when market integration can mimic changes in tenancy patterns.
+
+9. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats comparative regional case studies as a historical curiosity and does not discuss changes in tenancy patterns or market integration. It ends without any methodological implication.
+   B. The passage claims that restructuring of rural work under mechanization is settled because changes in tenancy patterns uniquely identifies the mechanism. It argues that market integration is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using comparative regional case studies are unnecessary.
+   C. The passage examines agricultural revolutions and the reorganization of rural labor and argues that changes in tenancy patterns is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how market integration can shift the baseline, especially when evidence is drawn from nineteenth-century Midwestern farms. Finally, it maintains that tests combining comparative regional case studies with boundary-condition checks are required to make claims about technological change in agriculture robust.
+   D. The passage argues that shifts from subsistence to market farming cannot be studied empirically because confounders like market integration make data meaningless. It recommends replacing measurement with intuition and rejecting comparative regional case studies as unreliable. It concludes that debate persists because evidence never constrains theory.
+
+10. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: The author emphasizes that a clean-looking curve can still encode hidden choices, especially when preprocessing is treated as neutral.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+
+Answer Key
+----------
+1: C
+2: D
+3: C
+4: B
+5: A
+6: A
+7: B
+8: D
+9: C
+10: D

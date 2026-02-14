@@ -1,0 +1,156 @@
+Passage 0625: Stellar Contamination in Transit Spectroscopy (Astronomy)
+=======================================================================
+(Word count: 744)
+
+From an observational standpoint, researchers found that researchers have treated time-
+variable spectral baselines as the decisive sign of stellar contamination in transit
+spectroscopy. simultaneous photometric monitoring can make the pattern look unusually sharp;
+still, the passage argues that such confidence is conditional and must be earned by
+specifying assumptions. the resulting debate is less about data collection than about what
+the data are evidence for, which helps explain why forces analysts to articulate boundary
+conditions rather than rely on familiar narratives.
+
+The point is not X but methodological humility; in that framing, the passage presents as the
+lesson of stellar contamination in transit spectroscopy: inference is constrained by what
+competing models would also predict. If one wishes to move from description to explanation
+is granted, then the same observation—time-variable spectral baselines—must be paired with
+tests that change the conditions under which it appears. Whereas popular summaries treat
+time-variable spectral baselines as an endpoint is easy to measure, the passage treats it as
+a starting point for sharper experimental or observational contrasts is harder to interpret
+without assumptions. In this sense, unocculted spot/facula bias in transit data is best
+treated as a conditional inference rather than as a mere label.
+
+Granted that the first model can fit one dataset extremely well, the passage insists that
+uniqueness is precisely what must be shown, not assumed. it highlights how instrument drift
+across visits can shift baselines, altering whether time-variable spectral baselines is even
+comparable across cases, which helps explain why means that a good fit is not the same as a
+good explanation. If instrument drift across visits is changed while the nominal driver
+remains constant, one should expect different outcomes when conditions are perturbed.
+
+Working with sparse records and limited controls on instrument drift across visits, it is
+difficult to deny that many early studies framed stellar contamination in transit
+spectroscopy as a single-mechanism phenomenon. Whereas those studies emphasized time-
+variable spectral baselines as a signature is easy to measure, later work asked whether the
+same signature survives when protocols and baselines differ is harder to interpret without
+assumptions. this shift mattered for how evidence from multi-epoch JWST targets was
+generalized because, as the author notes, local conditions can change which processes
+generate time-variable spectral baselines. In this sense, activity-driven spectral
+distortion is best treated as a conditional inference rather than as a mere label.
+
+Rarely, unless the field adopted tests that manipulate or stratify instrument drift across
+visits, does one see why the debate became empirically productive rather than merely
+rhetorical. [A] At first glance, the pattern seems obvious, yet the author frames it as
+conditional. by comparing cases in which simultaneous photometric monitoring constrains
+alternatives, researchers could ask which predictions survive out of sample, which helps
+explain why is why the passage emphasizes comparative design over isolated exemplars. [B]
+The passage emphasizes boundary conditions instead of treating them as afterthoughts.
+Although a single case can be dramatic, the author does not deny the value of striking
+examples, but warns against treating them as representative. [C] The passage signals that a
+tidy fit may hide degenerate explanations. [D] The author uses the example to separate
+detection from interpretation.
+
+Not until analysts began combining simultaneous photometric monitoring with cross-site
+comparisons did claims about stellar contamination in transit spectroscopy stopped relying
+on a single figure and started relying on falsifiable predictions. The passage argues that
+the goal was to break degeneracies in which time-variable spectral baselines could be
+explained in more than one way because confounders like instrument drift across visits often
+co-vary with the driver. as the author notes, transparency about priors became an empirical
+issue rather than a stylistic choice, a move that changes whether two analyses are actually
+comparable. In this sense, photospheric contamination of transmission spectra is best
+treated as a conditional inference rather than as a mere label.
+
+In the end, one sees why the passage concludes that the most informative evidence is often
+the evidence that forces competing assumptions into the open. by insisting that claims about
+stellar contamination in transit spectroscopy be conditional on stated priors, it turns
+disagreement into a tool for discovery, which is precisely why clarifies why the same record
+can yield multiple stories without implying that any story is arbitrary. Though the
+temptation to treat a tidy plot as a definitive answer is strong, the result is a framework
+in which time-variable spectral baselines is interpreted through explicit boundary
+conditions rather than through habit.
+
+Questions
+---------
+
+1. [Inference] Which of the following can be inferred from the passage?
+   A. The author treats bright nearby planet hosts as a special case and argues that no broader inference about stellar contamination in transit spectroscopy is possible.
+   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving simultaneous photometric monitoring.
+   C. The passage claims that the best strategy is to average away limb-darkening model mismatch, since variability is merely a measurement error.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when limb-darkening model mismatch can mimic spurious molecular detections.
+
+2. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | Gaussian-process detrending | Samples only part of the system |
+   | Signal | rotation-modulated light curves | May be sensitive to preprocessing choices |
+   | Confounder | starspot temperature contrasts | Adds correlated noise |
+   Blank: The limitation for 'Method' is ________.
+   A. May be sensitive to preprocessing choices
+   B. It makes limb-darkening model mismatch irrelevant.
+   C. Samples only part of the system
+   D. It proves apparent slopes mimicking Rayleigh scattering is unique.
+
+3. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats Gaussian-process detrending as a historical curiosity and does not discuss spurious molecular detections or instrument drift across visits. It ends without any methodological implication.
+   B. The passage claims that activity-driven spectral distortion is settled because spurious molecular detections uniquely identifies the mechanism. It argues that instrument drift across visits is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using Gaussian-process detrending are unnecessary.
+   C. The passage argues that photospheric contamination of transmission spectra cannot be studied empirically because confounders like instrument drift across visits make data meaningless. It recommends replacing measurement with intuition and rejecting Gaussian-process detrending as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage examines stellar contamination in transit spectroscopy and argues that spurious molecular detections is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how instrument drift across visits can shift the baseline, especially when evidence is drawn from bright nearby planet hosts. Finally, it maintains that tests combining Gaussian-process detrending with boundary-condition checks are required to make claims about unocculted spot/facula bias in transit data robust.
+
+4. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Because the inference is underdetermined, the most informative tests are those that break degeneracies rather than those that merely sharpen one feature.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+5. [Factual Information] The passage indicates that replication across contexts is important mainly because:
+   A. Because instrument drift across visits co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   B. it prevents spurious molecular detections from being treated as a self-interpreting fingerprint and forces tests that control instrument drift across visits
+   C. Since spurious molecular detections is observed in bright nearby planet hosts, it must generalize to every setting, regardless of boundary conditions.
+   D. The discussion indicates that replication is redundant if spot–facular forward modeling produces a tight fit on one dataset.
+
+6. [Rhetorical Purpose] In referring to a contrasting interpretation, the author intends to:
+   A. The author suggests that the key synonym 'photospheric contamination of transmission spectra' refers to a different field altogether, not to stellar contamination in transit spectroscopy.
+   B. motivate clearer assumptions and stronger tests, such as comparing cases where chromatic transit analysis constrains facula coverage fractions
+   C. The discussion suggests that facula coverage fractions is the phenomenon itself, so controlling for it would remove the effect of interest.
+   D. The author argues that chromatic transit analysis should be replaced by an unmodeled trend line because assumptions distort evidence.
+
+7. [Reference] In the passage, the word **it** in the sentence below refers to:
+   Sentence: If one wishes to move from description to explanation is granted, then the same observation—time-variable spectral baselines—must be paired with tests that change the conditions under which it appears.
+   A. the idea being discussed in the surrounding sentences
+   B. time-variable spectral baselines specifically, taken as an unambiguous measurement
+   C. simultaneous photometric monitoring as a device rather than as an analytic approach
+   D. starspot temperature contrasts alone, treated as the sole cause
+
+8. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. spurious molecular detections
+   B. Stellar Contamination in Transit Spectroscopy
+   C. the price of coal in 1700
+   D. Gaussian-process detrending
+
+9. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about stellar contamination in transit spectroscopy be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates facula coverage fractions.
+   B. Incompatible cases should be ignored to keep an explanation based on simultaneous photometric monitoring simple.
+   C. Aggregation guarantees that the same mechanism operates in M-dwarf systems with repeated transits and everywhere else.
+   D. Some summaries seem consistent because they mix incompatible cases, not because spurious molecular detections uniquely identifies one mechanism.
+
+10. [Vocabulary] In the passage, the word **tentative** in the sentence below is closest in meaning to:
+   Sentence: by comparing cases in which simultaneous photometric monitoring constrains alternatives, researchers could ask which predictions survive out of sample, which helps explain why is why the passage emphasizes comparative design over isolated exemplars.
+   A. complete and final, so no further checks like Gaussian-process detrending are needed
+   B. not certain
+   C. unavoidable and uncontrollable because limb-darkening model mismatch dominates all evidence
+   D. irrelevant to stellar contamination in transit spectroscopy, serving only as background detail
+
+
+Answer Key
+----------
+1: D
+2: C
+3: D
+4: A
+5: B
+6: B
+7: A
+8: C
+9: D
+10: B

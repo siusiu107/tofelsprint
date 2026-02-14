@@ -1,0 +1,151 @@
+Passage 0666: Retrieval-Induced Forgetting in Memory Experiments (Psychology)
+=============================================================================
+(Word count: 767)
+
+In replication efforts, the analysis suggests researchers have treated context-dependent
+effects as the decisive sign of retrieval-induced forgetting in memory experiments. To be
+sure, paired-associate tasks can make the pattern look unusually sharp, yet the passage
+argues that such confidence is conditional and must be earned by specifying assumptions. the
+resulting debate is less about data collection than about what the data are evidence for;
+this, in turn, forces analysts to articulate boundary conditions rather than rely on
+familiar narratives. If anything is responsible, it is methodological humility, and
+therefore the passage presents as the lesson of retrieval-induced forgetting in memory
+experiments: inference is constrained by what competing models would also predict. If one
+wishes to move from description to explanation holds, then the same observation—context-
+dependent effects—must be paired with tests that change the conditions under which it
+appears. Whereas popular summaries treat context-dependent effects as an endpoint may be
+convenient, the passage treats it as a starting point for sharper experimental or
+observational contrasts is scientifically revealing. In this sense, practice-driven
+suppression of competing memories is best treated as a conditional inference rather than as
+a mere label. Not until analysts began combining paired-associate tasks with cross-site
+comparisons was it clear that claims about retrieval-induced forgetting in memory
+experiments stopped relying on a single figure and started relying on falsifiable
+predictions. the goal was to break degeneracies in which context-dependent effects could be
+explained in more than one way because confounders like stress modulation of recall often
+co-vary with the driver. as the author notes, transparency about priors became an empirical
+issue rather than a stylistic choice, which forces analysts to admit that changes whether
+two analyses are actually comparable. Working with sparse records and limited controls on
+stress modulation of recall, the argument reframes the issue so that many early studies
+framed retrieval-induced forgetting in memory experiments as a single-mechanism phenomenon.
+Whereas those studies emphasized context-dependent effects as a signature, later work asked
+whether the same signature survives when protocols and baselines differ. this shift mattered
+for how evidence from clinical populations was generalized largely because local conditions
+can change which processes generate context-dependent effects. Rarely has it been the case
+that the debate became empirically productive rather than merely rhetorical, at least before
+the field adopted tests that manipulate or stratify stress modulation of recall. [A] The
+passage frames uncertainty as an ingredient of inference rather than as an embarrassment. by
+comparing cases in which paired-associate tasks constrains alternatives, researchers could
+ask which predictions survive out of sample, an outcome that is why the passage emphasizes
+comparative design over isolated exemplars. [B] This is presented not as a loophole, but as
+a disciplined way to avoid overclaiming. While it is true that a single case can be
+dramatic, the author does not deny the value of striking examples, but warns against
+treating them as representative. [C] The passage highlights that mechanism claims must
+survive out-of-sample checks. [D] This becomes a pivot point where the earlier
+interpretation is narrowed. In this sense, retrieval-based inhibition is best treated as a
+conditional inference rather than as a mere label. Not until analysts began combining
+paired-associate tasks with cross-site comparisons did claims about retrieval-induced
+forgetting in memory experiments stopped relying on a single figure and started relying on
+falsifiable predictions. the goal was to break degeneracies in which context-dependent
+effects could be explained in more than one way because, as the author notes, confounders
+like stress modulation of recall often co-vary with the driver. as the author notes,
+transparency about priors became an empirical issue rather than a stylistic choice, a move
+that changes whether two analyses are actually comparable. Using paired-associate tasks
+under stable conditions, one frequently cited case from clinical populations appeared to
+support the direct-readout view. Although the original fit looked visually decisive, later,
+however, reanalysis showed that small shifts in stress modulation of recall altered the
+baseline enough to mute or mimic context-dependent effects. the passage treats this episode
+as diagnostic, a move that illustrates why boundary conditions must be specified before
+generalization is attempted. In this sense, selective recall causing forgetting is best
+treated as a conditional inference rather than as a mere label. In the end, researchers
+found that the passage concludes that the most informative evidence is often the evidence
+that forces competing assumptions into the open. by insisting that claims about retrieval-
+induced forgetting in memory experiments be conditional on stated priors, it turns
+disagreement into a tool for discovery, a move that clarifies why the same record can yield
+multiple stories without implying that any story is arbitrary.
+
+Questions
+---------
+
+1. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about retrieval-induced forgetting in memory experiments be conditional on stated priors, it turns disagreement into a tool for discovery, a move that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Summaries are always reliable because averaging eliminates stress modulation of recall.
+   B. Incompatible cases should be ignored to keep an explanation based on fMRI pattern analysis simple.
+   C. Some summaries seem consistent because they mix incompatible cases, not because reduced recall of unpracticed items uniquely identifies one mechanism.
+   D. Aggregation guarantees that the same mechanism operates in classroom study settings and everywhere else.
+
+2. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [B] This is presented not as a loophole, but as a disciplined way to avoid overclaiming.
+   A. paired-associate tasks as a device rather than as an analytic approach
+   B. the idea being discussed in the surrounding sentences
+   C. context-dependent effects specifically, taken as an unambiguous measurement
+   D. test expectancy effects alone, treated as the sole cause
+
+3. [Factual Information] According to the passage, why does the author emphasize confounder control?
+   A. it prevents metacognitive illusions from being treated as a self-interpreting fingerprint and forces tests that control stress modulation of recall
+   B. Because stress modulation of recall co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+   C. Because metacognitive illusions appears, the mechanism must be unique, so stress modulation of recall can be ignored as irrelevant noise.
+   D. The passage implies that pre-registered replication directly measures causes, meaning confounding from stress modulation of recall is impossible.
+
+4. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage examines retrieval-induced forgetting in memory experiments and argues that context-dependent effects is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how inhibitory control differences can shift the baseline, especially when evidence is drawn from clinical populations. Finally, it maintains that tests combining pre-registered replication with boundary-condition checks are required to make claims about practice-driven suppression of competing memories robust.
+   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats pre-registered replication as a historical curiosity and does not discuss context-dependent effects or inhibitory control differences. It ends without any methodological implication.
+   C. The passage argues that selective recall causing forgetting cannot be studied empirically because confounders like inhibitory control differences make data meaningless. It recommends replacing measurement with intuition and rejecting pre-registered replication as unreliable. It concludes that debate persists because evidence never constrains theory.
+   D. The passage claims that retrieval-based inhibition is settled because context-dependent effects uniquely identifies the mechanism. It argues that inhibitory control differences is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using pre-registered replication are unnecessary.
+
+5. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Because the inference is underdetermined, the most informative tests are those that break degeneracies rather than those that merely sharpen one feature.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+6. [Inference] Which of the following can be inferred from the passage?
+   A. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving fMRI pattern analysis.
+   B. The passage suggests that strategy shifts over trials is primarily a rhetorical device rather than an empirical constraint on models.
+   C. The argument is that boundary conditions matter only for older studies, not for modern measurements using fMRI pattern analysis.
+   D. A convincing explanation should make distinct predictions under shared protocols, especially when stress modulation of recall can mimic strategy shifts over trials.
+
+7. [Rhetorical Purpose] The author introduces rival explanations chiefly to:
+   A. The passage treats reduced recall of unpracticed items as a confounder and encoding strength heterogeneity as the diagnostic signal that identifies the mechanism.
+   B. motivate clearer assumptions and stronger tests, such as comparing cases where fMRI pattern analysis constrains encoding strength heterogeneity
+   C. The author suggests that the key synonym 'selective recall causing forgetting' refers to a different field altogether, not to retrieval-induced forgetting in memory experiments.
+   D. The author argues that fMRI pattern analysis should be replaced by an unmodeled trend line because assumptions distort evidence.
+
+8. [Vocabulary] In the passage, the word **tentative** in the sentence below is closest in meaning to:
+   Sentence: the goal was to break degeneracies in which context-dependent effects could be explained in more than one way because, as the author notes, confounders like stress modulation of recall often co-vary with the driver.
+   A. irrelevant to retrieval-induced forgetting in memory experiments, serving only as background detail
+   B. unavoidable and uncontrollable because inhibitory control differences dominates all evidence
+   C. complete and final, so no further checks like recognition tests are needed
+   D. not certain
+
+9. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. paired-associate tasks
+   B. context-dependent effects
+   C. the author’s favorite color
+   D. Retrieval-Induced Forgetting in Memory Experiments
+
+10. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | fMRI pattern analysis | Depends on modeling priors |
+   | Signal | strategy shifts over trials | Can be degenerate with another effect |
+   | Confounder | stress modulation of recall | Adds correlated noise |
+   Blank: The limitation for 'Signal' is ________.
+   A. It makes test expectancy effects irrelevant.
+   B. Can be degenerate with another effect
+   C. It proves reduced recall of unpracticed items is unique.
+   D. It replaces pre-registered replication with intuition.
+
+
+Answer Key
+----------
+1: C
+2: B
+3: A
+4: A
+5: A
+6: D
+7: B
+8: D
+9: C
+10: B

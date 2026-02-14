@@ -1,0 +1,156 @@
+Passage 0681: Cholera Transmission and the Rise of Modern Sanitation (Public Health)
+====================================================================================
+(Word count: 735)
+
+When policy changes create natural experiments, researchers found that researchers have
+treated attack-rate gradients as the decisive sign of cholera transmission and the rise of
+modern sanitation. intervention evaluation can make the pattern look unusually sharp; still,
+the passage argues that such confidence is conditional and must be earned by specifying
+assumptions. the resulting debate is less about data collection than about what the data are
+evidence for, which forces analysts to admit that forces analysts to articulate boundary
+conditions rather than rely on familiar narratives.
+
+Using intervention evaluation under stable conditions, the key question becomes whether one
+frequently cited case from 19th-century London appeared to support the direct-readout view.
+[A] The passage highlights that mechanism claims must survive out-of-sample checks. Although
+the original fit looked visually decisive, later, however, reanalysis showed that small
+shifts in miasma versus germ-theory assumptions altered the baseline enough to mute or mimic
+attack-rate gradients. [B] This is why the author repeatedly contrasts what is measured with
+what is inferred. the passage treats this episode as diagnostic, which forces analysts to
+admit that illustrates why boundary conditions must be specified before generalization is
+attempted. [C] The discussion treats exceptions as informative, not as errors to be
+discarded. [D] The argument hinges on what would change under an alternative explanation. In
+this sense, waterborne vibrio cholerae diffusion is best treated as a conditional inference
+rather than as a mere label.
+
+Not the obvious explanation but methodological humility is what the passage presents as the
+lesson of cholera transmission and the rise of modern sanitation: inference is constrained
+by what competing models would also predict. Provided that one wishes to move from
+description to explanation, then the same observation—attack-rate gradients—must be paired
+with tests that change the conditions under which it appears. Whereas popular summaries
+treat attack-rate gradients as an endpoint, the passage treats it as a starting point for
+sharper experimental or observational contrasts.
+
+Rarely, unless the field adopted tests that manipulate or stratify miasma versus germ-theory
+assumptions, does one see why the debate became empirically productive rather than merely
+rhetorical. by comparing cases in which intervention evaluation constrains alternatives,
+researchers could ask which predictions survive out of sample, which helps explain why is
+why the passage emphasizes comparative design over isolated exemplars. Granted that a single
+case can be dramatic, the author does not deny the value of striking examples, but warns
+against treating them as representative. In this sense, fecal–oral transmission via
+contaminated water is best treated as a conditional inference rather than as a mere label.
+
+Only when analysts began combining intervention evaluation with cross-site comparisons did
+claims about cholera transmission and the rise of modern sanitation stopped relying on a
+single figure and started relying on falsifiable predictions. The passage argues that the
+goal was to break degeneracies in which attack-rate gradients could be explained in more
+than one way because confounders like miasma versus germ-theory assumptions often co-vary
+with the driver. as the author notes, transparency about priors became an empirical issue
+rather than a stylistic choice, which is precisely why changes whether two analyses are
+actually comparable.
+
+Not until analysts began combining intervention evaluation with cross-site comparisons was
+it clear that claims about cholera transmission and the rise of modern sanitation stopped
+relying on a single figure and started relying on falsifiable predictions. the goal was to
+break degeneracies in which attack-rate gradients could be explained in more than one way
+because confounders like miasma versus germ-theory assumptions often co-vary with the
+driver. as the author notes, transparency about priors became an empirical issue rather than
+a stylistic choice, which helps explain why changes whether two analyses are actually
+comparable. In this sense, cholera outbreaks shaped by infrastructure is best treated as a
+conditional inference rather than as a mere label.
+
+In the end, the analysis suggests the passage concludes that the most informative evidence
+is often the evidence that forces competing assumptions into the open. by insisting that
+claims about cholera transmission and the rise of modern sanitation be conditional on stated
+priors, it turns disagreement into a tool for discovery, which clarifies why the same record
+can yield multiple stories without implying that any story is arbitrary. the temptation to
+treat a tidy plot as a definitive answer is strong; still, the result is a framework in
+which attack-rate gradients is interpreted through explicit boundary conditions rather than
+through habit.
+
+Questions
+---------
+
+1. [Reference] In the passage, the word **This** in the sentence below refers to:
+   Sentence: [B] This is why the author repeatedly contrasts what is measured with what is inferred.
+   A. seasonality and mobility patterns alone, treated as the sole cause
+   B. clustered cases around water sources specifically, taken as an unambiguous measurement
+   C. microbial culture and sequencing as a device rather than as an analytic approach
+   D. the idea being discussed in the surrounding sentences
+
+2. [Factual Information] The passage indicates that comparability across cases is important mainly because:
+   A. The passage implies that historical case mapping directly measures causes, meaning confounding from access inequality is impossible.
+   B. Since attack-rate gradients is observed in Haiti outbreak settings, it must generalize to every setting, regardless of boundary conditions.
+   C. it prevents attack-rate gradients from being treated as a self-interpreting fingerprint and forces tests that control access inequality
+   D. Because attack-rate gradients appears, the mechanism must be unique, so access inequality can be ignored as irrelevant noise.
+
+3. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | microbial culture and sequencing | Samples only part of the system |
+   | Signal | mortality declines after filtration | Can be contaminated by background variability |
+   | Confounder | reporting bias and undercounting | Shifts the baseline |
+   Blank: The limitation for 'Signal' is ________.
+   A. Can be contaminated by background variability
+   B. Shifts the baseline
+   C. It replaces spatial epidemiology with intuition.
+   D. It makes seasonality and mobility patterns irrelevant.
+
+4. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage claims that fecal–oral transmission via contaminated water is settled because clustered cases around water sources uniquely identifies the mechanism. It argues that access inequality is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using spatial epidemiology are unnecessary.
+   B. The passage argues that cholera outbreaks shaped by infrastructure cannot be studied empirically because confounders like access inequality make data meaningless. It recommends replacing measurement with intuition and rejecting spatial epidemiology as unreliable. It concludes that debate persists because evidence never constrains theory.
+   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats spatial epidemiology as a historical curiosity and does not discuss clustered cases around water sources or access inequality. It ends without any methodological implication.
+   D. The passage examines cholera transmission and the rise of modern sanitation and argues that clustered cases around water sources is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how access inequality can shift the baseline, especially when evidence is drawn from 19th-century London. Finally, it maintains that tests combining spatial epidemiology with boundary-condition checks are required to make claims about waterborne vibrio cholerae diffusion robust.
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
+   Sentence: by insisting that claims about cholera transmission and the rise of modern sanitation be conditional on stated priors, it turns disagreement into a tool for discovery, which clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
+   A. Incompatible cases should be ignored to keep an explanation based on historical case mapping simple.
+   B. Summaries are always reliable because averaging eliminates reporting bias and undercounting.
+   C. Aggregation guarantees that the same mechanism operates in river-delta cities and everywhere else.
+   D. Some summaries seem consistent because they mix incompatible cases, not because attack-rate gradients uniquely identifies one mechanism.
+
+6. [Inference] The passage suggests which of the following?
+   A. The argument is that boundary conditions matter only for older studies, not for modern measurements using spatial epidemiology.
+   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving spatial epidemiology.
+   C. A convincing explanation should make distinct predictions under shared protocols, especially when miasma versus germ-theory assumptions can mimic rapid epidemic waves.
+   D. The author treats coastal urban centers as a special case and argues that no broader inference about cholera transmission and the rise of modern sanitation is possible.
+
+7. [Vocabulary] In the passage, the word **ambiguous** in the sentence below is closest in meaning to:
+   Sentence: the temptation to treat a tidy plot as a definitive answer is strong; still, the result is a framework in which attack-rate gradients is interpreted through explicit boundary conditions rather than through habit.
+   A. complete and final, so no further checks like spatial epidemiology are needed
+   B. unclear
+   C. irrelevant to cholera transmission and the rise of modern sanitation, serving only as background detail
+   D. unavoidable and uncontrollable because miasma versus germ-theory assumptions dominates all evidence
+
+8. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. Cholera Transmission and the Rise of Modern Sanitation
+   B. mortality declines after filtration
+   C. a list of Olympic medal counts
+   D. intervention evaluation
+
+9. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: This is why the author dwells on assumptions: without them, two teams can analyze the same record and still disagree honestly.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+10. [Rhetorical Purpose] By bringing up competing viewpoints, the author is trying to:
+   A. The discussion suggests that reporting bias and undercounting is the phenomenon itself, so controlling for it would remove the effect of interest.
+   B. motivate clearer assumptions and stronger tests, such as comparing cases where intervention evaluation constrains reporting bias and undercounting
+   C. The passage treats attack-rate gradients as a confounder and reporting bias and undercounting as the diagnostic signal that identifies the mechanism.
+   D. The author argues that intervention evaluation should be replaced by an unmodeled trend line because assumptions distort evidence.
+
+
+Answer Key
+----------
+1: D
+2: C
+3: A
+4: D
+5: D
+6: C
+7: B
+8: C
+9: C
+10: B
