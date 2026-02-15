@@ -1,151 +1,140 @@
-Passage 0026: CRISPR-Cas Immunity and Phage–Host Coevolution (Biology)
-======================================================================
-(Word count: 781)
+Passage 0026: Gifts, Reciprocity, and How Obligation Builds Social Networks (Anthropology)
+==========================================================================================
+(Word count: 611)
 
-From a population-genetic perspective, it becomes plausible that researchers have treated
-frequency-dependent selection signatures as the decisive sign of crispr-cas immunity and
-phage–host coevolution. Granted that spacer profiling can make the pattern look unusually
-sharp, the passage argues that such confidence is conditional and must be earned by
-specifying assumptions. the resulting debate is less about data collection than about what
-the data are evidence for, a move that forces analysts to articulate boundary conditions
-rather than rely on familiar narratives. The decisive factor is methodological humility;
-once that is stated, the passage presents as the lesson of crispr-cas immunity and
-phage–host coevolution: inference is constrained by what competing models would also
-predict. Unless one wishes to move from description to explanation, then the same
-observation—frequency-dependent selection signatures—must be paired with tests that change
-the conditions under which it appears cannot be claimed with confidence. Whereas popular
-summaries treat frequency-dependent selection signatures as an endpoint in one account, the
-passage treats it as a starting point for sharper experimental or observational contrasts in
-another. In this sense, crispr-based adaptive immunity in bacteria is best treated as a
-conditional inference rather than as a mere label. It is the apparent regularity of
-frequency-dependent selection signatures that drives the first interpretation: frequency-
-dependent selection signatures is treated as a direct readout of mechanism. If frequency-
-dependent selection signatures is uniquely produced by one causal pathway holds, then
-observations from natural microbial mats would be transferable, and disagreement would be
-largely technical. the literature is full of such claims, not because the caveat that
-mutational supply rates might reproduce the same pattern, but because the assumptions
-differ. Only through analysts began combining spacer profiling with cross-site comparisons
-could one reasonably claim that claims about crispr-cas immunity and phage–host coevolution
-stopped relying on a single figure and started relying on falsifiable predictions. the goal
-was to break degeneracies in which frequency-dependent selection signatures could be
-explained in more than one way because confounders like mutational supply rates often co-
-vary with the driver, which is why replication matters. as the author notes, transparency
-about priors became an empirical issue rather than a stylistic choice, which forces analysts
-to admit that changes whether two analyses are actually comparable. Using spacer profiling
-under stable conditions, the key question becomes whether one frequently cited case from
-natural microbial mats appeared to support the direct-readout view. [A] This becomes a pivot
-point where the earlier interpretation is narrowed. Though the original fit looked visually
-decisive, later, however, reanalysis showed that small shifts in mutational supply rates
-altered the baseline enough to mute or mimic frequency-dependent selection signatures. [B]
-At first glance, the pattern seems obvious, yet the author frames it as conditional. the
-passage treats this episode as diagnostic, which illustrates why boundary conditions must be
-specified before generalization is attempted. [C] The passage returns to this point to
-clarify what counts as evidence. [D] The passage highlights that mechanism claims must
-survive out-of-sample checks. In this sense, spacer acquisition during phage exposure is
-best treated as a conditional inference rather than as a mere label. Only when analysts
-began combining spacer profiling with cross-site comparisons did claims about crispr-cas
-immunity and phage–host coevolution stopped relying on a single figure and started relying
-on falsifiable predictions. the goal was to break degeneracies in which frequency-dependent
-selection signatures could be explained in more than one way in part because confounders
-like mutational supply rates often co-vary with the driver. as the author notes,
-transparency about priors became an empirical issue rather than a stylistic choice, which
-changes whether two analyses are actually comparable. Granted that the first model can fit
-one dataset extremely well, the passage insists that uniqueness is precisely what must be
-shown, not assumed. it highlights how mutational supply rates can shift baselines, altering
-whether frequency-dependent selection signatures is even comparable across cases, a move
-that means that a good fit is not the same as a good explanation. If mutational supply rates
-is changed while the nominal driver remains constant, one should expect different outcomes
-when conditions are perturbed. In this sense, phage–host arms races is best treated as a
-conditional inference rather than as a mere label. In the end, the central disagreement can
-be stated more precisely: the passage concludes that the most informative evidence is often
-the evidence that forces competing assumptions into the open. by insisting that claims about
-crispr-cas immunity and phage–host coevolution be conditional on stated priors, it turns
-disagreement into a tool for discovery, which is precisely why clarifies why the same record
-can yield multiple stories without implying that any story is arbitrary.
+In many societies, gifts are not treated as simple transfers of property. A gift can carry a
+social weight that lingers after the object has changed hands, shaping who is allied with
+whom, who is respected, and who is indebted. To outsiders accustomed to cash transactions,
+this can look irrational: why give away valuable goods and then spend months preparing a
+return gift? Yet gift exchange can function as a system for building relationships when
+there is no centralized authority to enforce contracts. The object matters, but the social
+bond it creates can matter more.
+
+A gift generates obligation through three linked expectations: to give, to receive, and to
+reciprocate. To refuse a gift is often to refuse the relationship the giver proposes. To
+accept is to acknowledge that relationship, which can be both honor and burden. Reciprocity,
+meanwhile, is not merely repayment; it is a way of proving that one can meet social duties
+and maintain status. [A] In this sense, gifts are instruments for ranking as well as for
+bonding: the capacity to give signals resources and generosity, while the capacity to
+reciprocate signals competence and dignity.
+
+The timing of reciprocity is crucial. If a return is immediate and equal, the exchange
+resembles barter and the social distance between parties can remain. If the return is
+delayed, the relationship stays “open,” keeping parties connected through mutual awareness.
+Delay can therefore be strategic: it allows obligations to circulate and reputations to
+grow. At the same time, delay can be risky. If a recipient cannot reciprocate, the imbalance
+can harden into dependence, giving the original giver leverage in future disputes.
+
+Gift systems also manage scarcity and surplus. In environments where food harvests
+fluctuate, redistributing goods through ritualized giving can help buffer households against
+bad seasons. But the buffering is not anonymous. A household that receives help may owe
+labor, political support, or future goods to the household that gave. [B] The system is thus
+both economic and moral. It makes survival more likely, yet it ties survival to social ties
+that can be unequal.
+
+Because gifts are public performances, they can become arenas for competition. Ceremonial
+exchanges may involve dramatic displays of wealth precisely because the audience must
+witness the giver’s capacity. In some cases, givers may even destroy goods to demonstrate
+that they can afford loss, converting material waste into prestige. Such actions can look
+like madness if one measures success only by accumulation. Within the logic of the system,
+however, prestige is a form of capital. It can translate into followers, marriage alliances,
+or influence in decision-making councils.
+
+Modern economies have not abolished gift logic; they have relocated it. Corporate
+philanthropy, holiday presents, and social media giveaways can all create expectations of
+goodwill and future support. Even in workplaces where salaries are explicit, favors and
+mentoring can create informal debts. The form changes, but the causal mechanism remains: a
+transfer that cannot be reduced to price can generate relationships that persist beyond the
+moment.
+
+Thus, a gift is best understood not as a free object, but as a social act with consequences.
+[C] It invites a response, and that invitation can organize communities by weaving
+households into networks of mutual obligation. [D] Where law and contracts are weak or
+distant, gifts can serve as a practical technology for cooperation, proving that what looks
+like generosity on the surface can be, at the same time, a durable architecture of social
+life.
+
+When obligations circulate widely, cooperation can persist without constant bargaining,
+because the expectations are learned early and enforced socially.
+
+When obligations circulate widely, cooperation can persist without constant bargaining,
+because the expectations are learned early and enforced socially.
+
 
 Questions
 ---------
 
-1. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [A] This becomes a pivot point where the earlier interpretation is narrowed.
-   A. the idea being discussed in the surrounding sentences
-   B. ecological structure of populations alone, treated as the sole cause
-   C. spacer profiling as a device rather than as an analytic approach
-   D. spacer turnover rates specifically, taken as an unambiguous measurement
+1. [Inference] What can be inferred from the passage about why delayed reciprocity can be strategic?
+   A. It keeps the relationship open by maintaining an ongoing obligation and connection
+   B. It eliminates any social meaning of the exchange
+   C. It prevents prestige from being observed publicly
+   D. It ensures that the exchange becomes anonymous charity
 
-2. [Factual Information] The passage indicates that comparability across cases is important mainly because:
-   A. Because mutational supply rates co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
-   B. Because phage escape mutations appears, the mechanism must be unique, so mutational supply rates can be ignored as irrelevant noise.
-   C. The discussion indicates that replication is redundant if population-genetic modeling produces a tight fit on one dataset.
-   D. it prevents phage escape mutations from being treated as a self-interpreting fingerprint and forces tests that control mutational supply rates
+2. [Vocabulary] The word “arena” in the passage is closest in meaning to:
+   A. a setting for competition
+   B. a storage container
+   C. a legal document
+   D. a seasonal harvest
 
-3. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | phage challenge assays | Can introduce systematic bias |
-   | Signal | changes in infection dynamics | May be sensitive to preprocessing choices |
-   | Confounder | mutational supply rates | Co-varies with the driver of interest |
-   Blank: The limitation for 'Method' is ________.
-   A. It makes mutational supply rates irrelevant.
-   B. Can introduce systematic bias
-   C. It proves spacer turnover rates is unique.
-   D. May be sensitive to preprocessing choices
-
-4. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats experimental evolution as a historical curiosity and does not discuss phage escape mutations or co-infection dynamics. It ends without any methodological implication.
-   B. The passage argues that phage–host arms races cannot be studied empirically because confounders like co-infection dynamics make data meaningless. It recommends replacing measurement with intuition and rejecting experimental evolution as unreliable. It concludes that debate persists because evidence never constrains theory.
-   C. The passage examines crispr-cas immunity and phage–host coevolution and argues that phage escape mutations is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how co-infection dynamics can shift the baseline, especially when evidence is drawn from chemostat experiments. Finally, it maintains that tests combining experimental evolution with boundary-condition checks are required to make claims about crispr-based adaptive immunity in bacteria robust.
-   D. The passage claims that spacer acquisition during phage exposure is settled because phage escape mutations uniquely identifies the mechanism. It argues that co-infection dynamics is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using experimental evolution are unnecessary.
-
-5. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about crispr-cas immunity and phage–host coevolution be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Incompatible cases should be ignored to keep an explanation based on population-genetic modeling simple.
-   B. Aggregation guarantees that the same mechanism operates in chemostat experiments and everywhere else.
-   C. Some summaries seem consistent because they mix incompatible cases, not because spacer turnover rates uniquely identifies one mechanism.
-   D. Summaries are always reliable because averaging eliminates ecological structure of populations.
-
-6. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: In short, the passage treats methodological humility as a strength, not as an admission of ignorance.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: The social cost of rejecting such a proposal can be higher than the material value of the object itself.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-7. [Inference] Which of the following can be inferred from the passage?
-   A. The argument is that boundary conditions matter only for older studies, not for modern measurements using experimental evolution.
-   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving experimental evolution.
-   C. A convincing explanation should make distinct predictions under shared protocols, especially when costs of immunity can mimic spacer turnover rates.
-   D. The author treats chemostat experiments as a special case and argues that no broader inference about crispr-cas immunity and phage–host coevolution is possible.
+4. [Factual] According to the passage, which trio of expectations helps create obligation in gift exchange?
+   A. to give, to receive, and to reciprocate
+   B. to hide, to hoard, and to destroy
+   C. to measure, to price, and to tax
+   D. to migrate, to farm, and to trade
 
-8. [Vocabulary] In the passage, the word **subtle** in the sentence below is closest in meaning to:
-   Sentence: It is the apparent regularity of frequency-dependent selection signatures that drives the first interpretation: frequency-dependent selection signatures is treated as a direct readout of mechanism.
-   A. irrelevant to crispr-cas immunity and phage–host coevolution, serving only as background detail
-   B. slight
-   C. unavoidable and uncontrollable because mutational supply rates dominates all evidence
-   D. complete and final, so no further checks like population-genetic modeling are needed
+5. [Rhetorical Purpose] Why does the author mention the destruction of goods in ceremonial exchanges?
+   A. To illustrate how prestige can be generated through visible displays that defy accumulation-based logic
+   B. To argue that gift exchange always improves material efficiency
+   C. To claim that communities lack any moral rules
+   D. To suggest that gifts have no audience
 
-9. [Rhetorical Purpose] Why does the author discuss competing theories?
-   A. motivate clearer assumptions and stronger tests, such as comparing cases where single-cell sequencing constrains costs of immunity
-   B. The author suggests that the key synonym 'sequence-specific defense and counter-defense' refers to a different field altogether, not to crispr-cas immunity and phage–host coevolution.
-   C. The discussion suggests that costs of immunity is the phenomenon itself, so controlling for it would remove the effect of interest.
-   D. The passage implies that natural microbial mats is chosen to avoid bias, so comparisons across settings are unnecessary.
+6. [Negative Factual] All of the following are mentioned as possible outcomes of gift obligations EXCEPT:
+   A. political support
+   B. labor owed in the future
+   C. marriage alliances
+   D. gravitational lensing of starlight
 
-10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. phage challenge assays
-   B. a list of Olympic medal counts
-   C. CRISPR-Cas Immunity and Phage–Host Coevolution
-   D. frequency-dependent selection signatures
+7. [Reference] In the passage, “the system” in “the system is thus both economic and moral” refers to:
+   A. ritualized redistribution through gift exchange and its attached obligations
+   B. a cash tax code
+   C. barter without social meaning
+   D. industrial mass production
+
+8. [Organization] How is the passage primarily organized?
+   A. It explains why gifts carry social weight, describes obligations and timing, shows buffering and competition, then connects the logic to modern examples
+   B. It lists gift items by category only
+   C. It argues that gifts are identical to prices and stops
+   D. It focuses only on one festival without general principles
+
+9. [Paraphrase] Which option best restates the claim that gifts can be a “technology for cooperation”?
+   A. They create enforceable relationships through mutual obligation when formal contracts are limited
+   B. They replace all moral rules with cash payments
+   C. They eliminate scarcity by producing new goods
+   D. They prevent any form of inequality from emerging
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Gifts are free objects with no social consequences beyond the moment of giving.
+   B. The passage explains that gift exchange creates durable obligations to give, receive, and reciprocate, using timing and public display to build bonds and status, buffering scarcity while also enabling inequality, and showing that gift logic persists in modern settings.
+   C. Gift exchange is identical to anonymous charity and cannot involve competition.
+   D. Prestige matters only in cash economies, not in gift systems.
 
 
 Answer Key
 ----------
 1: A
-2: D
-3: B
-4: C
-5: C
+2: A
+3: A
+4: A
+5: A
 6: D
-7: C
-8: B
+7: A
+8: A
 9: A
 10: B

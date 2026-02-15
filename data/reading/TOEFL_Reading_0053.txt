@@ -1,159 +1,136 @@
-Passage 0053: Exoplanet Atmospheric Characterization via Transmission Spectroscopy (Astronomy)
-==============================================================================================
-(Word count: 753)
+Passage 0053: Inflation Expectations, Salient Prices, and Why Stories Can Move Real Decisions (Economics)
+=========================================================================================================
+(Word count: 617)
 
-Despite apparently clean spectra, the passage argues that researchers have treated water-
-vapor absorption bands as the decisive sign of exoplanet atmospheric characterization via
-transmission spectroscopy. While it is true that spectral injection–recovery tests can make
-the pattern look unusually sharp, the passage argues that such confidence is conditional and
-must be earned by specifying assumptions. the resulting debate is less about data collection
-than about what the data are evidence for; this, in turn, forces analysts to articulate
-boundary conditions rather than rely on familiar narratives.
+Inflation is often described as a single number—“prices rose three percent this year”—but in
+everyday life it is a mosaic. Some prices jump quickly, others barely move, and consumers
+notice the ones they encounter most often. This difference matters because many economic
+decisions depend not only on today’s prices but on what people expect prices to be tomorrow.
+When households believe that the cost of groceries or rent will rise soon, they may buy
+earlier, negotiate harder, or demand higher wages. When firms believe their input costs will
+climb, they may reset menus, raise list prices, or seek cheaper suppliers. Expectations can
+therefore shape inflation’s trajectory, not merely reflect it.
 
-In replication attempts, one sees why the apparent consensus fractured when similar
-protocols were applied in settings unlike temperate rocky candidates in compact systems. the
-same summary statistic could be reproduced while the underlying mechanisms differed because
-limb-darkening uncertainty shifted the baseline in different directions across sites, which
-is why replication matters. Not treating water-vapor absorption bands as a self-sufficient
-conclusion, but the author therefore separates detection from interpretation. In this sense,
-transit-spectrum analysis of exoplanet atmospheres is best treated as a conditional
-inference rather than as a mere label.
+In textbook stories, expectations are anchored by a central signal: a stable monetary regime
+convinces people that high inflation will not persist. In practice, expectations are formed
+with imperfect information. Many households do not track official inflation statistics, and
+even those who hear them may interpret them through personal experience. A commuter who sees
+fuel prices swing weekly may infer “everything is getting expensive,” even if other
+categories are stable. Similarly, a tenant facing a sharp rent increase may generalize that
+shock to the whole economy. [A] The mind tends to overweight salient, frequent purchases,
+turning a few loud price movements into a broader belief.
 
-Only after analysts began combining spectral injection–recovery tests with cross-site
-comparisons did claims about exoplanet atmospheric characterization via transmission
-spectroscopy stopped relying on a single figure and started relying on falsifiable
-predictions. the goal was to break degeneracies in which water-vapor absorption bands could
-be explained in more than one way because, as the author notes, confounders like limb-
-darkening uncertainty often co-vary with the driver. as the author notes, transparency about
-priors became an empirical issue rather than a stylistic choice, a move that changes whether
-two analyses are actually comparable.
+Firms, too, face frictions. Changing prices is not free. A restaurant that prints new menus,
+retrains staff, and risks annoying customers has an incentive to adjust in discrete steps
+rather than continuously. If managers expect input costs to keep rising, they may choose a
+larger price increase now to avoid repeated adjustments later. Conversely, if they expect
+inflation to ease, they may delay, absorbing short-term cost changes in margins. In this
+way, expectations influence the timing and size of price resets, shaping the “stickiness”
+that macroeconomists observe in aggregate data.
 
-Rarely, unless the field adopted tests that manipulate or stratify limb-darkening
-uncertainty, does one see why the debate became empirically productive rather than merely
-rhetorical. [A] The author treats this as a clue rather than as a nuisance. by comparing
-cases in which spectral injection–recovery tests constrains alternatives, researchers could
-ask which predictions survive out of sample, which helps explain why is why the passage
-emphasizes comparative design over isolated exemplars. [B] This is why the author repeatedly
-contrasts what is measured with what is inferred. While it is true that a single case can be
-dramatic, the author does not deny the value of striking examples, but warns against
-treating them as representative. [C] At first glance, the pattern seems obvious, yet the
-author frames it as conditional. [D] The passage frames uncertainty as an ingredient of
-inference rather than as an embarrassment. In this sense, spectroscopic probing of a
-planet’s gaseous envelope is best treated as a conditional inference rather than as a mere
-label.
+Expectations are also social. People talk. News headlines, employer memos, and social media
+posts circulate narratives about what is happening to prices and why. A widely shared
+story—“shipping costs are exploding,” “housing is unattainable,” or “discounts will
+return”—can coordinate attention. Once attention is coordinated, behavior can synchronize:
+many consumers rush to purchase, many firms adjust their markups, and what began as a story
+becomes visible in transaction data. [B] The mechanism is not mystical. A narrative is a
+compressed model that tells people which signals to treat as meaningful and which to ignore.
 
-Seldom, prior to the field adopted tests that manipulate or stratify limb-darkening
-uncertainty, did investigators concede that the debate became empirically productive rather
-than merely rhetorical. by comparing cases in which spectral injection–recovery tests
-constrains alternatives, researchers could ask which predictions survive out of sample,
-something that is why the passage emphasizes comparative design over isolated exemplars.
-Even though a single case can be dramatic, the author does not deny the value of striking
-examples, but warns against treating them as representative.
+Researchers have shown that simply prompting people to recall recent price changes can shift
+their reported inflation expectations. When asked about gasoline, respondents forecast
+higher inflation than when asked about electronics. The difference reflects not only true
+price dynamics but the memory architecture of consumers. Likewise, firms in sectors with
+volatile costs—such as food—may build “inflation clauses” into contracts more readily than
+firms in sectors where costs are stable. Contract design then feeds back into wage
+bargaining and pricing decisions, spreading the impact of expectations through the economy’s
+institutional plumbing.
 
-What matters most is methodological humility, which is why the passage presents as the
-lesson of exoplanet atmospheric characterization via transmission spectroscopy: inference is
-constrained by what competing models would also predict. If one wishes to move from
-description to explanation, a different prediction follows: then the same observation—water-
-vapor absorption bands—must be paired with tests that change the conditions under which it
-appears. Whereas popular summaries treat water-vapor absorption bands as an endpoint is easy
-to measure, the passage treats it as a starting point for sharper experimental or
-observational contrasts is harder to interpret without assumptions. In this sense, bayesian
-retrieval of atmospheric composition from transits is best treated as a conditional
-inference rather than as a mere label.
+None of this implies that expectations alone create inflation out of thin air. Physical
+constraints—supply disruptions, productivity, and energy costs—still matter. Yet
+expectations influence how shocks propagate. A one-time cost increase can fade if firms and
+workers treat it as temporary; it can persist if they treat it as the start of a new regime
+and adjust wages and prices accordingly. [C] The same shock, filtered through different
+beliefs, can therefore leave different scars.
 
-In the end, the central disagreement can be stated more precisely: the passage concludes
-that the most informative evidence is often the evidence that forces competing assumptions
-into the open. by insisting that claims about exoplanet atmospheric characterization via
-transmission spectroscopy be conditional on stated priors, it turns disagreement into a tool
-for discovery, something that clarifies why the same record can yield multiple stories
-without implying that any story is arbitrary. While it is true that the temptation to treat
-a tidy plot as a definitive answer is strong, the result is a framework in which water-vapor
-absorption bands is interpreted through explicit boundary conditions rather than through
-habit.
+Thus, inflation is partly a coordination problem in a world of limited attention. [D]
+Numbers matter, but so do the stories people use to make sense of those numbers, because
+those stories can steer when—and by how much—prices and wages are reset.
+
 
 Questions
 ---------
 
-1. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about exoplanet atmospheric characterization via transmission spectroscopy be conditional on stated priors, it turns disagreement into a tool for discovery, something that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Incompatible cases should be ignored to keep an explanation based on high-dispersion cross-correlation spectroscopy simple.
-   B. Summaries are always reliable because averaging eliminates stellar activity contamination.
-   C. Some summaries seem consistent because they mix incompatible cases, not because Rayleigh-scattering slopes uniquely identifies one mechanism.
-   D. Aggregation guarantees that the same mechanism operates in warm Neptunes like GJ 436b and everywhere else.
+1. [Rhetorical Purpose] Why does the author emphasize that inflation is “a mosaic” of different price movements?
+   A. To show that people form expectations from uneven personal experiences rather than from one uniform price change
+   B. To argue that official inflation measures are always fabricated
+   C. To claim that only gasoline prices matter for inflation
+   D. To suggest that firms never change prices
 
-2. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [B] This is why the author repeatedly contrasts what is measured with what is inferred.
-   A. high-dispersion cross-correlation spectroscopy as a device rather than as an analytic approach
-   B. the idea being discussed in the surrounding sentences
-   C. Rayleigh-scattering slopes specifically, taken as an unambiguous measurement
-   D. instrumental systematics alone, treated as the sole cause
-
-3. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. CO2 and CO signatures
-   B. Exoplanet Atmospheric Characterization via Transmission Spectroscopy
-   C. the price of coal in 1700
-   D. Bayesian atmospheric retrieval
-
-4. [Vocabulary] In the passage, the word **persistent** in the sentence below is closest in meaning to:
-   Sentence: In this sense, transit-spectrum analysis of exoplanet atmospheres is best treated as a conditional inference rather than as a mere label.
-   A. lasting
-   B. complete and final, so no further checks like Bayesian atmospheric retrieval are needed
-   C. unavoidable and uncontrollable because stellar activity contamination dominates all evidence
-   D. irrelevant to exoplanet atmospheric characterization via transmission spectroscopy, serving only as background detail
-
-5. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats spectral injection–recovery tests as a historical curiosity and does not discuss Rayleigh-scattering slopes or stellar activity contamination. It ends without any methodological implication.
-   B. The passage claims that spectroscopic probing of a planet’s gaseous envelope is settled because Rayleigh-scattering slopes uniquely identifies the mechanism. It argues that stellar activity contamination is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using spectral injection–recovery tests are unnecessary.
-   C. The passage argues that bayesian retrieval of atmospheric composition from transits cannot be studied empirically because confounders like stellar activity contamination make data meaningless. It recommends replacing measurement with intuition and rejecting spectral injection–recovery tests as unreliable. It concludes that debate persists because evidence never constrains theory.
-   D. The passage examines exoplanet atmospheric characterization via transmission spectroscopy and argues that Rayleigh-scattering slopes is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how stellar activity contamination can shift the baseline, especially when evidence is drawn from hot Jupiters such as WASP-39b. Finally, it maintains that tests combining spectral injection–recovery tests with boundary-condition checks are required to make claims about transit-spectrum analysis of exoplanet atmospheres robust.
-
-6. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | transmission spectroscopy | Can introduce systematic bias |
-   | Signal | CO2 and CO signatures | May be muted by other processes |
-   | Confounder | limb-darkening uncertainty | Changes the apparent slope |
-   Blank: The limitation for 'Method' is ________.
-   A. It proves wavelength-dependent muting by clouds and hazes is unique.
-   B. It makes stellar activity contamination irrelevant.
-   C. Can introduce systematic bias
-   D. May be muted by other processes
-
-7. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: In other words, the disagreement is not about whether the data exist, but about what the data are evidence for.
+2. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: Because people cannot monitor every category, they rely on shortcuts that can systematically bias beliefs.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-8. [Rhetorical Purpose] By bringing up competing viewpoints, the author is trying to:
-   A. motivate clearer assumptions and stronger tests, such as comparing cases where spectral injection–recovery tests constrains stellar activity contamination
-   B. The author argues that spectral injection–recovery tests should be replaced by an unmodeled trend line because assumptions distort evidence.
-   C. The passage treats wavelength-dependent muting by clouds and hazes as a confounder and stellar activity contamination as the diagnostic signal that identifies the mechanism.
-   D. The author suggests that the key synonym 'Bayesian retrieval of atmospheric composition from transits' refers to a different field altogether, not to exoplanet atmospheric characterization via transmission spectroscopy.
+3. [Factual] According to the passage, why might a restaurant raise prices by a larger amount at once?
+   A. To avoid the repeated costs and customer disruption of frequent small changes if costs are expected to keep rising
+   B. Because menus cannot be printed more than once a year by law
+   C. Because customers always prefer higher prices
+   D. Because input costs for restaurants never fluctuate
 
-9. [Factual Information] The passage indicates that confounder control is important mainly because:
-   A. The passage implies that secondary-eclipse spectroscopy directly measures causes, meaning confounding from instrumental systematics is impossible.
-   B. Because sodium and potassium lines appears, the mechanism must be unique, so instrumental systematics can be ignored as irrelevant noise.
-   C. The author suggests that disagreement disappears once sodium and potassium lines is detected, making model assumptions unnecessary.
-   D. it prevents sodium and potassium lines from being treated as a self-interpreting fingerprint and forces tests that control instrumental systematics
+4. [Inference] What can be inferred about how narratives influence economic behavior in the passage?
+   A. They can coordinate attention so that many actors respond similarly, making the story’s effects visible in data
+   B. They eliminate physical constraints such as energy costs
+   C. They prevent any wage bargaining from occurring
+   D. They make prices change continuously without frictions
 
-10. [Inference] The passage suggests which of the following?
-   A. The argument is that boundary conditions matter only for older studies, not for modern measurements using spectral injection–recovery tests.
-   B. A convincing explanation should make distinct predictions under shared protocols, especially when stellar activity contamination can mimic water-vapor absorption bands.
-   C. The passage suggests that water-vapor absorption bands is primarily a rhetorical device rather than an empirical constraint on models.
-   D. The author treats hot Jupiters such as WASP-39b as a special case and argues that no broader inference about exoplanet atmospheric characterization via transmission spectroscopy is possible.
+5. [Vocabulary] The word “salient” in the passage is closest in meaning to:
+   A. noticeable and attention-grabbing
+   B. mathematically identical
+   C. legally required
+   D. chemically reactive
+
+6. [Negative Factual] All of the following are mentioned as influences on inflation dynamics EXCEPT:
+   A. supply disruptions
+   B. productivity
+   C. energy costs
+   D. calcium carbonate formation in wet plaster
+
+7. [Reference] In the passage, “the difference” refers to:
+   A. how asking about gasoline versus electronics changes reported inflation expectations
+   B. the gap between night and day temperatures in deserts
+   C. the chemical signature of obsidian sources
+   D. the duration of a microlensing anomaly
+
+8. [Organization] How is the passage primarily organized?
+   A. It explains why expectations matter, shows how households and firms form beliefs, discusses narratives and frictions, then describes how expectations shape shock persistence
+   B. It provides a timeline of central bank presidents
+   C. It lists consumer prices without interpretation
+   D. It argues that inflation is unrelated to wages
+
+9. [Paraphrase] Which option best restates the idea that narratives are “compressed models”?
+   A. They simplify complex information into a story that tells people which signals to treat as important
+   B. They are detailed statistical tables listing every transaction
+   C. They are contracts that set wages automatically
+   D. They are manufacturing blueprints for menus
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Inflation is determined only by official statistics, so expectations cannot matter.
+   B. The passage argues that inflation expectations shape consumer and firm behavior, are formed from salient personal price experiences and social narratives, and influence when prices and wages are reset, thereby affecting whether shocks fade or persist even though physical factors like energy and supply still matter.
+   C. Firms adjust prices continuously without costs, so expectations have no effect on timing.
+   D. Narratives create inflation entirely without any underlying shocks.
 
 
 Answer Key
 ----------
-1: C
-2: B
-3: C
+1: A
+2: A
+3: A
 4: A
-5: D
-6: C
-7: B
+5: A
+6: D
+7: A
 8: A
-9: D
+9: A
 10: B

@@ -1,149 +1,141 @@
-Passage 0057: Antibiotic Stewardship and Resistance Evolution in Hospitals (Public Health)
-==========================================================================================
-(Word count: 654)
+Passage 0057: Printing Diagrams and How Repeatable Images Changed Scientific Argument (History of Science)
+==========================================================================================================
+(Word count: 613)
 
-In hospital-based surveillance, one sees why researchers have treated clonal replacement
-patterns as the decisive sign of antibiotic stewardship and resistance evolution in
-hospitals. Even though time-to-event survival analysis can make the pattern look unusually
-sharp, the passage argues that such confidence is conditional and must be earned by
-specifying assumptions. the resulting debate is less about data collection than about what
-the data are evidence for, which is precisely why forces analysts to articulate boundary
-conditions rather than rely on familiar narratives.
+In medieval Europe, much knowledge traveled as handwritten manuscripts copied by scribes.
+The text could be duplicated, but images were harder. A diagram of a plant, a star chart, or
+a geometrical figure depended on the skill and patience of the copyist, and small
+distortions could accumulate across generations of copying. When printing arrived, it did
+not merely accelerate the spread of words; it changed what could count as shared evidence,
+especially in fields that relied on visual representation.
 
-Only after the field adopted tests that manipulate or stratify horizontal gene transfer did
-the debate became empirically productive rather than merely rhetorical. by comparing cases
-in which time-to-event survival analysis constrains alternatives, researchers could ask
-which predictions survive out of sample, which is why the passage emphasizes comparative
-design over isolated exemplars. Even if a single case can be dramatic, the author does not
-deny the value of striking examples, but warns against treating them as representative. In
-this sense, antimicrobial resistance dynamics in clinical settings is best treated as a
-conditional inference rather than as a mere label.
+Early printers faced an obstacle: movable type could print letters, yet drawings required
+different methods. Woodcuts—images carved in relief into wooden blocks—provided one
+solution. A block could be inked and pressed alongside type, allowing a page to integrate
+text and image. Later, copperplate engraving and etching allowed finer lines, useful for
+anatomy and astronomy, though they required separate presses and careful registration. [A]
+Each technique had its own aesthetic and its own errors, but all offered something
+manuscripts struggled to guarantee: repeatability.
 
-Rarely has it been the case that the debate became empirically productive rather than merely
-rhetorical, at least before the field adopted tests that manipulate or stratify horizontal
-gene transfer. by comparing cases in which time-to-event survival analysis constrains
-alternatives, researchers could ask which predictions survive out of sample; this, in turn,
-is why the passage emphasizes comparative design over isolated exemplars. Though a single
-case can be dramatic, the author does not deny the value of striking examples, but warns
-against treating them as representative.
+Repeatability mattered for argument. A naturalist describing an unfamiliar shell could now
+include an image that readers across a continent could inspect. An astronomer could
+circulate a star map and invite others to compare it with the night sky. When disagreements
+arose, the dispute could focus on the same diagram rather than on divergent hand-copied
+variants. This encouraged a new style of critique. Instead of debating a description’s
+plausibility in the abstract, readers could point to a feature in a printed figure and ask
+whether it had been observed or idealized. The diagram became not decoration but a claim.
 
-Not the obvious explanation but methodological humility is what the passage presents as the
-lesson of antibiotic stewardship and resistance evolution in hospitals: inference is
-constrained by what competing models would also predict. Unless one wishes to move from
-description to explanation, then the same observation—clonal replacement patterns—must be
-paired with tests that change the conditions under which it appears cannot be claimed with
-confidence. Whereas popular summaries treat clonal replacement patterns as an endpoint may
-be convenient, the passage treats it as a starting point for sharper experimental or
-observational contrasts is scientifically revealing. In this sense, selection for resistant
-strains under antibiotic pressure is best treated as a conditional inference rather than as
-a mere label.
+Printing also encouraged standardization. Anatomical atlases developed conventions for
+labeling parts; botanical books adopted schematic forms to highlight diagnostic traits. Even
+when the images were not strictly realistic, their stylization served a purpose: it made the
+relevant structure legible to novices. Yet standardization carried risks. A widely
+reproduced error could become authoritative simply because it was ubiquitous. If a woodcut
+of a herb misrepresented leaf arrangement, later authors might copy the figure, assuming
+repetition implied accuracy. [B] The very mechanism that stabilized knowledge could also
+stabilize mistakes.
 
-Never before analysts began combining time-to-event survival analysis with cross-site
-comparisons was it defensible to argue that claims about antibiotic stewardship and
-resistance evolution in hospitals stopped relying on a single figure and started relying on
-falsifiable predictions. [A] The discussion treats exceptions as informative, not as errors
-to be discarded. the goal was to break degeneracies in which clonal replacement patterns
-could be explained in more than one way largely because confounders like horizontal gene
-transfer often co-vary with the driver. [B] The author notes that generalization requires
-more than a single well-chosen case. as the author notes, transparency about priors became
-an empirical issue rather than a stylistic choice; this, in turn, changes whether two
-analyses are actually comparable. [C] The passage signals that a tidy fit may hide
-degenerate explanations. [D] This detail becomes important later, when assumptions are
-tested. In this sense, hospital stewardship interventions is best treated as a conditional
-inference rather than as a mere label.
+The economics of printing shaped content as well. Producing detailed plates was expensive,
+so publishers targeted audiences who could pay: physicians, apothecaries, navigators, and
+wealthy collectors. This influenced which topics became richly illustrated and which
+remained text-heavy. Moreover, printers often reused blocks across books to reduce cost,
+meaning that an image could migrate from one context to another. A fish illustration might
+appear in a cookbook and then in a natural history compendium, carrying with it assumptions
+about how the fish ought to look. Over time, however, the expanding market for textbooks and
+popular science created incentives for more accurate and more specialized imagery.
 
-In the end, researchers found that the passage concludes that the most informative evidence
-is often the evidence that forces competing assumptions into the open. by insisting that
-claims about antibiotic stewardship and resistance evolution in hospitals be conditional on
-stated priors, it turns disagreement into a tool for discovery, a move that clarifies why
-the same record can yield multiple stories without implying that any story is arbitrary. the
-temptation to treat a tidy plot as a definitive answer is strong; still, the result is a
-framework in which clonal replacement patterns is interpreted through explicit boundary
-conditions rather than through habit.
+By the seventeenth century, printed diagrams were intertwined with experimental culture.
+Instrument makers supplied drawings of telescopes; chemists printed apparatus layouts;
+mathematicians included geometric constructions that readers could retrace. The page became
+a surrogate laboratory bench. A reader could, at least in outline, reproduce a procedure by
+following a sequence of figures. This did not eliminate the need for hands-on skill, yet it
+did create a common reference that could be annotated, criticized, and improved.
+
+Thus, printing helped transform knowledge from local craft into distributed conversation.
+[C] It did so not only by multiplying copies but by stabilizing what readers could jointly
+see. [D] When a diagram becomes shareable, it becomes disputable—and in being disputable, it
+can become more reliable.
+
+When diagrams become reproducible, disagreements can shift from ‘I saw something’ to ‘we can
+all inspect the same figure.’
+
+When diagrams become reproducible, disagreements can shift from ‘I saw something’ to ‘we can
+all inspect the same figure.’
+
 
 Questions
 ---------
 
-1. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: As a result, the most valuable observations are often taken during transitions, when competing mechanisms diverge most clearly.
+1. [Factual] According to the passage, what advantage did woodcuts provide to early printers?
+   A. They allowed images to be inked and printed alongside movable type on the same page
+   B. They eliminated the cost of producing any illustrations
+   C. They created color photographs of anatomy
+   D. They replaced the need for any written text
+
+2. [Vocabulary] The word “registration” in the passage is closest in meaning to:
+   A. the precise alignment of separately printed elements on a page
+   B. the legal act of publishing a book
+   C. the recording of star brightness values
+   D. the growth of crystals in lava
+
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: For readers, that meant an image could function as a stable reference rather than as a unique artifact.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-2. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [D] This detail becomes important later, when assumptions are tested.
-   A. the idea being discussed in the surrounding sentences
-   B. interrupted time-series designs as a device rather than as an analytic approach
-   C. patient-mix confounding alone, treated as the sole cause
-   D. clonal replacement patterns specifically, taken as an unambiguous measurement
+4. [Inference] What can be inferred about how printing changed scholarly disagreements?
+   A. Disputes could focus on the same reproduced figure instead of on inconsistently copied manuscript images
+   B. Disagreements disappeared because all diagrams were perfect
+   C. Scholars stopped using images entirely and relied on text only
+   D. Only wealthy collectors were allowed to criticize diagrams
 
-3. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | antibiogram surveillance | May not generalize across contexts |
-   | Signal | outbreak clusters in wards | Can be degenerate with another effect |
-   | Confounder | infection-control compliance variation | Co-varies with the driver of interest |
-   Blank: The limitation for 'Confounder' is ________.
-   A. It replaces antibiogram surveillance with intuition.
-   B. Co-varies with the driver of interest
-   C. It makes horizontal gene transfer irrelevant.
-   D. May not generalize across contexts
+5. [Negative Factual] All of the following are mentioned as consequences or risks of standardization EXCEPT:
+   A. making key structures legible to novices
+   B. allowing widely reproduced errors to become authoritative
+   C. encouraging conventions for labels and schematic forms
+   D. preventing any reuse of image blocks to reduce cost
 
-4. [Vocabulary] In the passage, the word **persistent** in the sentence below is closest in meaning to:
-   Sentence: the temptation to treat a tidy plot as a definitive answer is strong; still, the result is a framework in which clonal replacement patterns is interpreted through explicit boundary conditions rather than through habit.
-   A. lasting
-   B. irrelevant to antibiotic stewardship and resistance evolution in hospitals, serving only as background detail
-   C. unavoidable and uncontrollable because horizontal gene transfer dominates all evidence
-   D. complete and final, so no further checks like antibiogram surveillance are needed
+6. [Rhetorical Purpose] Why does the author discuss the economics of producing detailed plates?
+   A. To show how cost and audience shaped which fields received rich visual representation and how images were reused
+   B. To argue that printing was free for everyone
+   C. To claim that economic factors never affect scientific communication
+   D. To explain why telescopes cannot be drawn
 
-5. [Rhetorical Purpose] What function does the comparison with another theory perform in the argument?
-   A. The passage treats outbreak clusters in wards as a confounder and patient-mix confounding as the diagnostic signal that identifies the mechanism.
-   B. motivate clearer assumptions and stronger tests, such as comparing cases where contact-network reconstruction constrains patient-mix confounding
-   C. The passage implies that long-term care facilities is chosen to avoid bias, so comparisons across settings are unnecessary.
-   D. The discussion suggests that patient-mix confounding is the phenomenon itself, so controlling for it would remove the effect of interest.
+7. [Reference] In the passage, “the page became a surrogate laboratory bench” means that:
+   A. figures and apparatus drawings let readers follow and partially replicate procedures conceptually
+   B. books physically replaced all experimental instruments
+   C. printing forced experiments to stop
+   D. laboratories moved into printing houses
 
-6. [Factual Information] The passage indicates that replication across contexts is important mainly because:
-   A. The discussion indicates that replication is redundant if interrupted time-series designs produces a tight fit on one dataset.
-   B. The passage implies that interrupted time-series designs directly measures causes, meaning confounding from diagnostic intensity changes is impossible.
-   C. Because outbreak clusters in wards appears, the mechanism must be unique, so diagnostic intensity changes can be ignored as irrelevant noise.
-   D. it prevents outbreak clusters in wards from being treated as a self-interpreting fingerprint and forces tests that control diagnostic intensity changes
+8. [Organization] How is the passage primarily organized?
+   A. It contrasts manuscripts with printing, explains image-printing techniques, shows how repeatability affected argument and standardization, then discusses economics and experimental culture before concluding on shared visual evidence
+   B. It lists printing dates without explaining effects
+   C. It describes only copper mining for plates
+   D. It focuses on modern digital graphics only
 
-7. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage argues that hospital stewardship interventions cannot be studied empirically because confounders like horizontal gene transfer make data meaningless. It recommends replacing measurement with intuition and rejecting antibiogram surveillance as unreliable. It concludes that debate persists because evidence never constrains theory.
-   B. The passage claims that selection for resistant strains under antibiotic pressure is settled because clonal replacement patterns uniquely identifies the mechanism. It argues that horizontal gene transfer is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using antibiogram surveillance are unnecessary.
-   C. The passage examines antibiotic stewardship and resistance evolution in hospitals and argues that clonal replacement patterns is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how horizontal gene transfer can shift the baseline, especially when evidence is drawn from intensive-care units. Finally, it maintains that tests combining antibiogram surveillance with boundary-condition checks are required to make claims about antimicrobial resistance dynamics in clinical settings robust.
-   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats antibiogram surveillance as a historical curiosity and does not discuss clonal replacement patterns or horizontal gene transfer. It ends without any methodological implication.
+9. [Paraphrase] Which option best restates the idea that repeatability could also stabilize mistakes?
+   A. If an inaccurate image is reproduced widely, repetition can make it seem trustworthy and encourage copying
+   B. Printed images cannot contain errors because plates are carved carefully
+   C. Mistakes occur only in handwritten manuscripts
+   D. Standardization prevents novices from learning anatomy
 
-8. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about antibiotic stewardship and resistance evolution in hospitals be conditional on stated priors, it turns disagreement into a tool for discovery, a move that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Incompatible cases should be ignored to keep an explanation based on whole-genome sequencing simple.
-   B. Some summaries seem consistent because they mix incompatible cases, not because shifts in resistance prevalence uniquely identifies one mechanism.
-   C. Summaries are always reliable because averaging eliminates horizontal gene transfer.
-   D. Aggregation guarantees that the same mechanism operates in long-term care facilities and everywhere else.
-
-9. [Inference] The passage suggests which of the following?
-   A. The passage suggests that shifts in resistance prevalence is primarily a rhetorical device rather than an empirical constraint on models.
-   B. The passage claims that the best strategy is to average away infection-control compliance variation, since variability is merely a measurement error.
-   C. A convincing explanation should make distinct predictions under shared protocols, especially when infection-control compliance variation can mimic shifts in resistance prevalence.
-   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using whole-genome sequencing.
-
-10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. interrupted time-series designs
-   B. Antibiotic Stewardship and Resistance Evolution in Hospitals
-   C. clonal replacement patterns
-   D. a list of Olympic medal counts
+10. [Summary] Which statement best summarizes the passage?
+   A. Printing influenced knowledge mainly by changing paper quality, not by affecting images.
+   B. The passage argues that printing technologies made diagrams repeatable, allowing readers to share and critique the same visual evidence, which encouraged new forms of argument and standardization while also risking the widespread spread of errors, with economics and experimental culture shaping what was illustrated and how diagrams functioned.
+   C. Woodcuts replaced all other image techniques because they provided perfect realism.
+   D. Handwritten manuscripts always provided more consistent diagrams than printed books.
 
 
 Answer Key
 ----------
-1: D
+1: A
 2: A
-3: B
+3: A
 4: A
-5: B
-6: D
-7: C
-8: B
-9: C
-10: D
+5: D
+6: A
+7: A
+8: A
+9: A
+10: B

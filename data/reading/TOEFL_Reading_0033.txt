@@ -1,157 +1,135 @@
-Passage 0033: Glacial Retreat and Moraine-Dated Landscape Change (Geology)
-==========================================================================
-(Word count: 729)
+Passage 0033: Prince Rupert’s Drops and How Tempering Turns Stress into Strength (Materials Science)
+====================================================================================================
+(Word count: 626)
 
-In hazard assessments, the central disagreement can be stated more precisely: researchers
-have treated river discharge seasonality shifts as the decisive sign of glacial retreat and
-moraine-dated landscape change. cosmogenic nuclide exposure dating can make the pattern look
-unusually sharp; still, the passage argues that such confidence is conditional and must be
-earned by specifying assumptions. the resulting debate is less about data collection than
-about what the data are evidence for, something that forces analysts to articulate boundary
-conditions rather than rely on familiar narratives.
+A glass bead dropped into cold water usually cools, hardens, and remains unremarkable. A
+Prince Rupert’s drop, however, behaves like a paradox. Its bulbous head can survive hammer
+blows, yet if the thin tail is snapped, the entire drop disintegrates into a shower of
+glittering fragments in a fraction of a second. The spectacle is not magic; it is the
+physics of stress trapped inside a solid.
 
-Using cosmogenic nuclide exposure dating under stable conditions, the passage suggests one
-frequently cited case from Greenland outlet glaciers appeared to support the direct-readout
-view. [A] This is why the author repeatedly contrasts what is measured with what is
-inferred. While it is true that the original fit looked visually decisive, later, however,
-reanalysis showed that small shifts in temperature versus precipitation controls altered the
-baseline enough to mute or mimic river discharge seasonality shifts. [B] Later comparisons
-reveal why this matters. the passage treats this episode as diagnostic, which helps explain
-why illustrates why boundary conditions must be specified before generalization is
-attempted. [C] This point forces the reader to consider how confounders enter the pipeline.
-[D] The passage highlights that mechanism claims must survive out-of-sample checks. In this
-sense, ice-front recession recorded in moraines is best treated as a conditional inference
-rather than as a mere label.
+The drop is made by dripping molten glass into water. The surface cools and solidifies
+almost instantly, while the interior remains hot and fluid for longer. As the interior
+eventually cools, it wants to contract, but the already-rigid outer shell restrains it. The
+result is a stress pattern: the surface is locked in compression, while the interior is
+locked in tension. Compression at the surface is protective because cracks have difficulty
+opening against compressive forces. Tension inside is dangerous because, once a crack
+penetrates the compressive layer, it can accelerate through a stored energy reservoir. [A]
+The drop is thus an object whose strength and fragility are two sides of the same cooling
+history.
 
-Working with sparse records and limited controls on temperature versus precipitation
-controls, the key question becomes whether many early studies framed glacial retreat and
-moraine-dated landscape change as a single-mechanism phenomenon. Whereas those studies
-emphasized river discharge seasonality shifts as a signature, later work asked whether the
-same signature survives when protocols and baselines differ. this shift mattered for how
-evidence from Greenland outlet glaciers was generalized because local conditions can change
-which processes generate river discharge seasonality shifts.
+Tempered glass used in car windows and shower doors exploits the same principle
+deliberately. Manufacturers heat a sheet of glass and then cool its surfaces rapidly with
+air jets. The surfaces harden first and end up in compression, while the core is in tension.
+If the glass breaks, it tends to crumble into small, blunt pieces rather than into long,
+sharp shards, because the internal tension encourages many cracks to form simultaneously,
+fragmenting the sheet. This “safe breakage” reduces injury risk, even though it is violent
+at the microscopic scale.
 
-It is methodological humility that the passage presents as the lesson of glacial retreat and
-moraine-dated landscape change: inference is constrained by what competing models would also
-predict. If one wishes to move from description to explanation is granted, then the same
-observation—river discharge seasonality shifts—must be paired with tests that change the
-conditions under which it appears. Whereas popular summaries treat river discharge
-seasonality shifts as an endpoint may be convenient, the passage treats it as a starting
-point for sharper experimental or observational contrasts is scientifically revealing. In
-this sense, deglaciation-driven geomorphic change is best treated as a conditional inference
-rather than as a mere label.
+The tail of a Prince Rupert’s drop is the weak link because it provides a route to the
+interior. A small notch in the tail can act as a crack starter. When the tail snaps, the
+crack can quickly pierce the compressive skin and reach the tensile core. Once that happens,
+the internal stress drives a crack front that races through the drop faster than sound in
+the glass. High-speed videos show a branching network: the crack does not remain a single
+line but splits repeatedly, creating myriad fragments. [B] In effect, the drop converts
+stored elastic energy into new surface area, and that conversion is sudden because the
+energy was trapped when the glass froze.
 
-Rarely, unless analysts began combining cosmogenic nuclide exposure dating with cross-site
-comparisons, does one see why claims about glacial retreat and moraine-dated landscape
-change stopped relying on a single figure and started relying on falsifiable predictions.
-the goal was to break degeneracies in which river discharge seasonality shifts could be
-explained in more than one way largely because confounders like temperature versus
-precipitation controls often co-vary with the driver. as the author notes, transparency
-about priors became an empirical issue rather than a stylistic choice, which helps explain
-why changes whether two analyses are actually comparable.
+Engineers care about these stress profiles because they can be tuned. If the compressive
+layer is thick, a crack must travel farther before reaching the tensile core, improving
+strength. If cooling is uneven, stress can become asymmetric, creating weak zones. Surface
+scratches matter enormously because they act as stress concentrators. A tiny scratch can
+locally amplify stress at its tip, making it easier for a crack to initiate. This is why a
+tempered glass panel can be surprisingly strong when pristine yet fail from a small chip at
+the edge. [C] The failure is not a sign that the material was “weak”; it is a sign that
+fracture is governed by local geometry in the presence of global stress.
 
-Hardly had the field adopted tests that manipulate or stratify temperature versus
-precipitation controls occurred when the debate became empirically productive rather than
-merely rhetorical. by comparing cases in which cosmogenic nuclide exposure dating constrains
-alternatives, researchers could ask which predictions survive out of sample, which helps
-explain why is why the passage emphasizes comparative design over isolated exemplars.
-Although a single case can be dramatic, the author does not deny the value of striking
-examples, but warns against treating them as representative. In this sense, retreating
-glacier termini over decades is best treated as a conditional inference rather than as a
-mere label.
+The same logic appears in other engineered materials. Prestressed concrete uses steel
+tendons to place concrete in compression, improving its ability to resist tensile cracking.
+Even biological materials exploit compressive skins: the outer layers of bones and shells
+can carry compressive loads while inner layers distribute forces. In each case, strength is
+less about having no defects than about making defects harder to activate.
 
-In the end, researchers found that the passage concludes that the most informative evidence
-is often the evidence that forces competing assumptions into the open. by insisting that
-claims about glacial retreat and moraine-dated landscape change be conditional on stated
-priors, it turns disagreement into a tool for discovery, which helps explain why clarifies
-why the same record can yield multiple stories without implying that any story is arbitrary.
-Even if the temptation to treat a tidy plot as a definitive answer is strong, the result is
-a framework in which river discharge seasonality shifts is interpreted through explicit
-boundary conditions rather than through habit.
+Prince Rupert’s drops therefore function as a compact lesson in fracture mechanics. [D]
+Cooling can lock a material into a state that hides energy, and the release of that energy
+can be either beneficial—as in safe fragmentation—or catastrophic when a small crack finds
+the one path that unlocks the interior tension.
+
 
 Questions
 ---------
 
-1. [Factual Information] The passage indicates that instrument calibration is important mainly because:
-   A. Because hazard cascades involving GLOFs co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
-   B. The discussion indicates that replication is redundant if remote sensing of glacier area produces a tight fit on one dataset.
-   C. it prevents river discharge seasonality shifts from being treated as a self-interpreting fingerprint and forces tests that control hazard cascades involving GLOFs
-   D. Since river discharge seasonality shifts is observed in Greenland outlet glaciers, it must generalize to every setting, regardless of boundary conditions.
+1. [Vocabulary] The word “reservoir” in the passage is closest in meaning to:
+   A. a stored supply
+   B. a sharp fragment
+   C. a cooling jet
+   D. a protective coating
 
-2. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about glacial retreat and moraine-dated landscape change be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Aggregation guarantees that the same mechanism operates in Himalayan glaciers and everywhere else.
-   B. Incompatible cases should be ignored to keep an explanation based on sediment-core analysis simple.
-   C. Summaries are always reliable because averaging eliminates debris-covered ice dynamics.
-   D. Some summaries seem consistent because they mix incompatible cases, not because river discharge seasonality shifts uniquely identifies one mechanism.
+2. [Factual] According to the passage, what stress state exists at the surface of a Prince Rupert’s drop?
+   A. compression
+   B. pure tension
+   C. no stress at all
+   D. alternating magnetic domains
 
-3. [Vocabulary] In the passage, the word **conditional** in the sentence below is closest in meaning to:
-   Sentence: cosmogenic nuclide exposure dating can make the pattern look unusually sharp; still, the passage argues that such confidence is conditional and must be earned by specifying assumptions.
-   A. dependent on conditions
-   B. unavoidable and uncontrollable because feedbacks from albedo change dominates all evidence
-   C. irrelevant to glacial retreat and moraine-dated landscape change, serving only as background detail
-   D. complete and final, so no further checks like cosmogenic nuclide exposure dating are needed
+3. [Rhetorical Purpose] Why does the author mention tempered glass used in windows and doors?
+   A. To show that the same stress principle is applied intentionally for safety in modern engineering
+   B. To argue that Prince Rupert’s drops are produced in factories today
+   C. To claim that tempered glass cannot break
+   D. To suggest that cooling history is irrelevant to fracture
 
-4. [Inference] Which of the following can be inferred from the passage?
-   A. The passage suggests that slope instability and rockfalls is primarily a rhetorical device rather than an empirical constraint on models.
-   B. A convincing explanation should make distinct predictions under shared protocols, especially when feedbacks from albedo change can mimic slope instability and rockfalls.
-   C. The author treats the European Alps as a special case and argues that no broader inference about glacial retreat and moraine-dated landscape change is possible.
-   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving dendrogeomorphology.
-
-5. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: Because the inference is underdetermined, the most informative tests are those that break degeneracies rather than those that merely sharpen one feature.
+4. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: The surface behaves like a tight band that squeezes the interior and resists the opening of fissures.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-6. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage examines glacial retreat and moraine-dated landscape change and argues that slope instability and rockfalls is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how feedbacks from albedo change can shift the baseline, especially when evidence is drawn from the European Alps. Finally, it maintains that tests combining sediment-core analysis with boundary-condition checks are required to make claims about ice-front recession recorded in moraines robust.
-   B. The passage claims that deglaciation-driven geomorphic change is settled because slope instability and rockfalls uniquely identifies the mechanism. It argues that feedbacks from albedo change is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using sediment-core analysis are unnecessary.
-   C. The passage argues that retreating glacier termini over decades cannot be studied empirically because confounders like feedbacks from albedo change make data meaningless. It recommends replacing measurement with intuition and rejecting sediment-core analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
-   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats sediment-core analysis as a historical curiosity and does not discuss slope instability and rockfalls or feedbacks from albedo change. It ends without any methodological implication.
+5. [Inference] What can be inferred about why a small edge chip can be especially dangerous for tempered glass?
+   A. It can provide a crack starter that bypasses the compressive layer and accesses the tensile core
+   B. It neutralizes all internal stress by heating the glass
+   C. It increases the thickness of the compressive skin
+   D. It makes the glass more flexible so cracks cannot form
 
-7. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. Glacial Retreat and Moraine-Dated Landscape Change
-   B. UAV photogrammetry
-   C. the author’s favorite color
-   D. river discharge seasonality shifts
+6. [Negative Factual] All of the following are mentioned as examples of using compression to resist cracking EXCEPT:
+   A. tempered glass
+   B. prestressed concrete
+   C. outer layers of shells and bones
+   D. radiocarbon calibration curves
 
-8. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | cosmogenic nuclide exposure dating | Can introduce systematic bias |
-   | Signal | isostatic rebound indicators | May be muted by other processes |
-   | Confounder | feedbacks from albedo change | Shifts the baseline |
-   Blank: The limitation for 'Signal' is ________.
-   A. Can introduce systematic bias
-   B. May be muted by other processes
-   C. It proves slope instability and rockfalls is unique.
-   D. It makes hazard cascades involving GLOFs irrelevant.
+7. [Reference] In the passage, “this ‘safe breakage’” refers to tempered glass’s tendency to:
+   A. fragment into small blunt pieces rather than long sharp shards
+   B. remain unbroken under any impact
+   C. melt and reseal after cracking
+   D. produce a single straight crack
 
-9. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [A] This is why the author repeatedly contrasts what is measured with what is inferred.
-   A. the idea being discussed in the surrounding sentences
-   B. UAV photogrammetry as a device rather than as an analytic approach
-   C. hazard cascades involving GLOFs alone, treated as the sole cause
-   D. isostatic rebound indicators specifically, taken as an unambiguous measurement
+8. [Organization] How is the passage primarily organized?
+   A. It introduces a striking phenomenon, explains the stress mechanism from cooling, compares it to tempered glass, then connects the idea to crack initiation and broader engineering examples
+   B. It narrates the discovery of glass chronologically only
+   C. It focuses on chemical composition and ignores stress
+   D. It argues that glass breaks randomly without physical explanation
 
-10. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
-   A. The passage implies that Himalayan glaciers is chosen to avoid bias, so comparisons across settings are unnecessary.
-   B. The author suggests that the key synonym 'deglaciation-driven geomorphic change' refers to a different field altogether, not to glacial retreat and moraine-dated landscape change.
-   C. The author argues that UAV photogrammetry should be replaced by an unmodeled trend line because assumptions distort evidence.
-   D. motivate clearer assumptions and stronger tests, such as comparing cases where UAV photogrammetry constrains temperature versus precipitation controls
+9. [Paraphrase] Which option best restates the idea that strength and fragility are “two sides of the same cooling history”?
+   A. Rapid cooling creates a compressive surface that resists cracks, but also traps internal tension that can drive explosive failure if breached
+   B. Cooling makes glass chemically unstable so it shatters later
+   C. Only the tail is strong while the head is weak
+   D. Glass becomes stronger solely because it is thicker
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Prince Rupert’s drops shatter because glass is inherently brittle and cannot store stress.
+   B. The passage explains that rapid cooling traps compressive stress at the surface and tensile stress inside, making Prince Rupert’s drops and tempered glass unusually strong against surface cracks yet capable of sudden fragmentation if a crack reaches the stressed core, illustrating how engineered stress profiles control fracture.
+   C. Tempered glass breaks into long shards because internal tension prevents crack branching.
+   D. Surface scratches do not matter because fractures depend only on overall thickness.
 
 
 Answer Key
 ----------
-1: C
-2: D
+1: A
+2: A
 3: A
-4: B
-5: D
-6: A
-7: C
-8: B
+4: A
+5: A
+6: D
+7: A
+8: A
 9: A
-10: D
+10: B

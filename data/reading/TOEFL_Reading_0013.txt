@@ -1,157 +1,137 @@
-Passage 0013: Antibiotic Stewardship and Resistance Evolution in Hospitals (Public Health)
-==========================================================================================
-(Word count: 722)
+Passage 0013: The Great Vowel Shift and Why English Spelling Remembers (Linguistics)
+====================================================================================
+(Word count: 644)
 
-In outbreak investigations, researchers found that researchers have treated treatment-
-failure rates as the decisive sign of antibiotic stewardship and resistance evolution in
-hospitals. interrupted time-series designs can make the pattern look unusually sharp; still,
-the passage argues that such confidence is conditional and must be earned by specifying
-assumptions. the resulting debate is less about data collection than about what the data are
-evidence for, which forces analysts to articulate boundary conditions rather than rely on
-familiar narratives.
+English spelling often feels like a museum of earlier pronunciation. Letters remain fixed
+while sounds wander, leaving modern readers to wonder why “bite” is not pronounced like
+“bit” with an extra consonant, or why “meet” and “meat” look different despite sounding
+alike in many accents. One of the major reasons for this mismatch is the Great Vowel Shift,
+a chain of changes that transformed long vowels in English between roughly the late Middle
+Ages and the early modern period. The shift did not flip a single switch; it reshaped an
+entire system by pushing vowels through a crowded space.
 
-If anything is responsible, it is methodological humility, and therefore the passage
-presents as the lesson of antibiotic stewardship and resistance evolution in hospitals:
-inference is constrained by what competing models would also predict. If one wishes to move
-from description to explanation, then the same observation—treatment-failure rates—must be
-paired with tests that change the conditions under which it appears. Whereas popular
-summaries treat treatment-failure rates as an endpoint in one account, the passage treats it
-as a starting point for sharper experimental or observational contrasts in another. In this
-sense, antimicrobial resistance dynamics in clinical settings is best treated as a
-conditional inference rather than as a mere label.
+To understand a chain shift, imagine vowels as positions in the mouth rather than as letters
+on a page. A high vowel is produced with the tongue raised; a low vowel is produced with the
+tongue lowered. If one vowel moves, it can collide with a neighbor, and languages tend to
+avoid collisions that would make words harder to distinguish. A chain shift can therefore
+occur when one vowel’s movement pressures another to move as well, like rearranging
+furniture in a room when one chair is dragged across the floor.
 
-Using interrupted time-series designs under stable conditions, the key question becomes
-whether one frequently cited case from long-term care facilities appeared to support the
-direct-readout view. Admittedly, the original fit looked visually decisive; nevertheless,
-later, however, reanalysis showed that small shifts in infection-control compliance
-variation altered the baseline enough to mute or mimic treatment-failure rates. the passage
-treats this episode as diagnostic, which helps explain why illustrates why boundary
-conditions must be specified before generalization is attempted.
+In the Great Vowel Shift, vowels that were once pronounced like modern continental European
+vowels began to rise and, in some cases, turn into diphthongs. The long vowel in “bite,” for
+instance, was once closer to a pure [iː] sound; it rose until it could rise no further and
+then “broke” into a glide, producing something like modern [aɪ]. The long vowel in “meet”
+rose toward [iː], while the long vowel in “name” shifted upward toward [eː] and later
+developed the [eɪ] glide in many varieties. [A] When these movements are mapped, they
+resemble a cascade: one vowel vacates a position, another moves into it, and a third is
+displaced in turn. [B] The end result is not random drift but a reorganization that keeps
+vowels distinct.
 
-Never before analysts began combining interrupted time-series designs with cross-site
-comparisons was it defensible to argue that claims about antibiotic stewardship and
-resistance evolution in hospitals stopped relying on a single figure and started relying on
-falsifiable predictions. the goal was to break degeneracies in which treatment-failure rates
-could be explained in more than one way because, as the author notes, confounders like
-infection-control compliance variation often co-vary with the driver. as the author notes,
-transparency about priors became an empirical issue rather than a stylistic choice; this, in
-turn, changes whether two analyses are actually comparable. In this sense, selection for
-resistant strains under antibiotic pressure is best treated as a conditional inference
-rather than as a mere label.
+What caused the shift remains debated, and the debate itself highlights how sound change can
+arise from social and structural forces. One account emphasizes dialect mixing after
+population movements and urban growth. As speakers with different vowel systems interact,
+pronunciations can become unstable, and certain variants can spread if they become
+associated with prestige or with a rising urban norm. Another account emphasizes internal
+phonetic pressures: subtle articulatory tendencies can accumulate, and once one vowel begins
+to move, the chain reaction becomes likely. [C] These accounts are not mutually exclusive.
+Social changes can provide the conditions for variants to circulate widely, while structural
+pressures shape which variants can survive without collapsing distinctions.
 
-Rarely has it been the case that the debate became empirically productive rather than merely
-rhetorical, at least before the field adopted tests that manipulate or stratify infection-
-control compliance variation. by comparing cases in which interrupted time-series designs
-constrains alternatives, researchers could ask which predictions survive out of sample;
-this, in turn, is why the passage emphasizes comparative design over isolated exemplars.
-Granted that a single case can be dramatic, the author does not deny the value of striking
-examples, but warns against treating them as representative.
+The shift’s legacy is visible in spelling because spelling was becoming more standardized
+just as pronunciation was changing. Early printers and educators fixed many spellings in
+place at a moment when the spoken system was still in motion. Consequently, the letters that
+once corresponded reasonably to sounds became increasingly misleading. The oddity is
+therefore historical rather than irrational: the writing system preserves an earlier stage,
+while the spoken system moved on.
 
-Working with sparse records and limited controls on infection-control compliance variation,
-the interpretation shifts, and many early studies framed antibiotic stewardship and
-resistance evolution in hospitals as a single-mechanism phenomenon. [A] The passage signals
-that a tidy fit may hide degenerate explanations. Whereas those studies emphasized
-treatment-failure rates as a signature, later work asked whether the same signature survives
-when protocols and baselines differ. [B] The argument hinges on what would change under an
-alternative explanation. this shift mattered for how evidence from long-term care facilities
-was generalized in part because local conditions can change which processes generate
-treatment-failure rates. [C] The passage emphasizes boundary conditions instead of treating
-them as afterthoughts. [D] This becomes a pivot point where the earlier interpretation is
-narrowed. In this sense, hospital stewardship interventions is best treated as a conditional
-inference rather than as a mere label.
+Even within English, the shift did not produce uniform outcomes. Some dialects participated
+more fully than others, and later changes further altered vowels. Yet the Great Vowel Shift
+remains a powerful example of how a language can change without losing communicative
+efficiency. By moving vowels in a coordinated way, speakers maintained contrasts among words
+even as the phonetic substance of those contrasts transformed. [D] In that sense, English
+spelling is not merely an annoyance; it is a record of a system that changed together to
+avoid confusion.
 
-In the end, researchers found that the passage concludes that the most informative evidence
-is often the evidence that forces competing assumptions into the open. by insisting that
-claims about antibiotic stewardship and resistance evolution in hospitals be conditional on
-stated priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why
-the same record can yield multiple stories without implying that any story is arbitrary. To
-be sure, the temptation to treat a tidy plot as a definitive answer is strong, yet the
-result is a framework in which treatment-failure rates is interpreted through explicit
-boundary conditions rather than through habit.
+Evidence of the shift also survives in older poetry. Lines that once rhymed perfectly can
+look “imperfect” to modern ears, not because poets were careless, but because the vowel
+system they heard differed from ours. Spelling sometimes preserves this older rhyming logic
+as well, leaving pairs that appear mismatched today as fossils of earlier sound alignment.
+
 
 Questions
 ---------
 
-1. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. whole-genome sequencing
-   B. Antibiotic Stewardship and Resistance Evolution in Hospitals
-   C. shifts in resistance prevalence
-   D. the price of coal in 1700
+1. [Factual] According to the passage, what is a “chain shift”?
+   A. A series of vowel movements in which one change pressures other vowels to move to maintain distinctions
+   B. A sudden replacement of all consonants with vowels
+   C. A spelling reform that aligns letters perfectly with sound
+   D. A process that makes words less distinguishable over time
 
-2. [Factual Information] According to the passage, why does the author emphasize confounder control?
-   A. it prevents clonal replacement patterns from being treated as a self-interpreting fingerprint and forces tests that control horizontal gene transfer
-   B. The discussion indicates that replication is redundant if antibiogram surveillance produces a tight fit on one dataset.
-   C. The passage implies that antibiogram surveillance directly measures causes, meaning confounding from horizontal gene transfer is impossible.
-   D. Because clonal replacement patterns appears, the mechanism must be unique, so horizontal gene transfer can be ignored as irrelevant noise.
+2. [Vocabulary] The word “cascade” in the passage is closest in meaning to:
+   A. a sequence of linked events
+   B. a fixed boundary
+   C. a written rule
+   D. a silent letter
 
-3. [Vocabulary] In the passage, the word **tentative** in the sentence below is closest in meaning to:
-   Sentence: To be sure, the temptation to treat a tidy plot as a definitive answer is strong, yet the result is a framework in which treatment-failure rates is interpreted through explicit boundary conditions rather than through habit.
-   A. complete and final, so no further checks like interrupted time-series designs are needed
-   B. not certain
-   C. irrelevant to antibiotic stewardship and resistance evolution in hospitals, serving only as background detail
-   D. unavoidable and uncontrollable because infection-control compliance variation dominates all evidence
+3. [Inference] What can be inferred about why the writing system became “misleading”?
+   A. Spellings were stabilized while pronunciation continued to change, leaving older letter-sound relations in place
+   B. Printers intentionally tried to confuse readers
+   C. Pronunciation remained stable while letters changed rapidly
+   D. English borrowed spellings only from languages with no vowels
 
-4. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage argues that hospital stewardship interventions cannot be studied empirically because confounders like infection-control compliance variation make data meaningless. It recommends replacing measurement with intuition and rejecting antibiogram surveillance as unreliable. It concludes that debate persists because evidence never constrains theory.
-   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats antibiogram surveillance as a historical curiosity and does not discuss treatment-failure rates or infection-control compliance variation. It ends without any methodological implication.
-   C. The passage examines antibiotic stewardship and resistance evolution in hospitals and argues that treatment-failure rates is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how infection-control compliance variation can shift the baseline, especially when evidence is drawn from regional hospital systems. Finally, it maintains that tests combining antibiogram surveillance with boundary-condition checks are required to make claims about antimicrobial resistance dynamics in clinical settings robust.
-   D. The passage claims that selection for resistant strains under antibiotic pressure is settled because treatment-failure rates uniquely identifies the mechanism. It argues that infection-control compliance variation is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using antibiogram surveillance are unnecessary.
-
-5. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
-   A. The passage implies that long-term care facilities is chosen to avoid bias, so comparisons across settings are unnecessary.
-   B. The discussion suggests that diagnostic intensity changes is the phenomenon itself, so controlling for it would remove the effect of interest.
-   C. motivate clearer assumptions and stronger tests, such as comparing cases where antibiogram surveillance constrains diagnostic intensity changes
-   D. The passage treats clonal replacement patterns as a confounder and diagnostic intensity changes as the diagnostic signal that identifies the mechanism.
-
-6. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: As a result, the most valuable observations are often taken during transitions, when competing mechanisms diverge most clearly.
+4. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: If two vowels were to end up in the same position, many word contrasts would blur.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | contact-network reconstruction | Requires careful calibration |
-   | Signal | shifts in resistance prevalence | Can vary across epochs |
-   | Confounder | diagnostic intensity changes | Can mimic the target feature |
-   Blank: The limitation for 'Signal' is ________.
-   A. Can vary across epochs
-   B. It makes infection-control compliance variation irrelevant.
-   C. Can mimic the target feature
-   D. Requires careful calibration
+5. [Negative Factual] All of the following are mentioned as possible influences on the shift EXCEPT:
+   A. dialect mixing and urban growth
+   B. internal phonetic pressures
+   C. the need to avoid vowel collisions
+   D. the discovery of a new alphabet on another planet
 
-8. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about antibiotic stewardship and resistance evolution in hospitals be conditional on stated priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Incompatible cases should be ignored to keep an explanation based on contact-network reconstruction simple.
-   B. Some summaries seem consistent because they mix incompatible cases, not because shifts in resistance prevalence uniquely identifies one mechanism.
-   C. Aggregation guarantees that the same mechanism operates in surgical wards and everywhere else.
-   D. Summaries are always reliable because averaging eliminates patient-mix confounding.
+6. [Rhetorical Purpose] Why does the author compare vowel change to rearranging furniture in a room?
+   A. To illustrate how movement of one vowel can force other vowels to shift to avoid overlap
+   B. To argue that vowels are physically stored in furniture
+   C. To claim that sound change happens only indoors
+   D. To suggest that vowel systems never maintain distinctions
 
-9. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [D] This becomes a pivot point where the earlier interpretation is narrowed.
-   A. patient-mix confounding alone, treated as the sole cause
-   B. the idea being discussed in the surrounding sentences
-   C. shifts in resistance prevalence specifically, taken as an unambiguous measurement
-   D. time-to-event survival analysis as a device rather than as an analytic approach
+7. [Reference] In the passage, “these movements” refers to:
+   A. the movements of printers between towns
+   B. the coordinated rising and diphthongization of long vowels
+   C. the movement of consonants into vowels
+   D. the shifting of spelling rules in modern schools
 
-10. [Inference] Which of the following can be inferred from the passage?
-   A. A convincing explanation should make distinct predictions under shared protocols, especially when diagnostic intensity changes can mimic treatment-failure rates.
-   B. The passage suggests that treatment-failure rates is primarily a rhetorical device rather than an empirical constraint on models.
-   C. The passage claims that the best strategy is to average away diagnostic intensity changes, since variability is merely a measurement error.
-   D. The author treats surgical wards as a special case and argues that no broader inference about antibiotic stewardship and resistance evolution in hospitals is possible.
+8. [Organization] How is the passage primarily organized?
+   A. It introduces a modern puzzle, explains the chain-shift mechanism with examples, then discusses competing causes and the consequences for spelling
+   B. It lists English words without explanation
+   C. It provides a biography of a single linguist
+   D. It argues that spelling caused vowel change
+
+9. [Paraphrase] Which option best restates the idea that the mismatch is “historical rather than irrational”?
+   A. Spelling reflects an earlier pronunciation stage, so it looks inconsistent only because speech changed afterward
+   B. Spelling was designed to be random from the start
+   C. Pronunciation follows spelling exactly in all eras
+   D. English contains no systematic sound changes
+
+10. [Summary] Which statement best summarizes the passage?
+   A. The Great Vowel Shift was a spelling reform that made English pronunciation simpler and uniform.
+   B. The passage explains the Great Vowel Shift as a coordinated chain of long-vowel changes that preserved word contrasts, discusses social and structural explanations for the shift, and shows how stabilized spelling preserved older letter-sound relations as pronunciation moved.
+   C. English spelling is inconsistent because vowels never change systematically.
+   D. Dialect mixing prevents any sound change from spreading beyond one town.
 
 
 Answer Key
 ----------
-1: D
+1: A
 2: A
-3: B
-4: C
-5: C
-6: D
-7: A
-8: B
-9: B
-10: A
+3: A
+4: B
+5: D
+6: A
+7: B
+8: A
+9: A
+10: B

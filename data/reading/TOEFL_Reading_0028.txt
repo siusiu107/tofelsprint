@@ -1,154 +1,138 @@
-Passage 0028: The Great Migration and Northern Urban Transformation (History)
+Passage 0028: Catalytic Converters as Surface Chemistry in Motion (Chemistry)
 =============================================================================
-(Word count: 706)
+(Word count: 611)
 
-In comparative migration studies, researchers found that researchers have treated political
-realignment patterns as the decisive sign of the great migration and northern urban
-transformation. Even though census microdata analysis can make the pattern look unusually
-sharp, the passage argues that such confidence is conditional and must be earned by
-specifying assumptions. the resulting debate is less about data collection than about what
-the data are evidence for, which helps explain why forces analysts to articulate boundary
-conditions rather than rely on familiar narratives.
+A catalytic converter in a car’s exhaust system looks like a passive metal container, yet it
+performs a chemically difficult job in a fraction of a second. Exhaust gases contain carbon
+monoxide, unburned hydrocarbons, and nitrogen oxides, all of which can harm health and
+contribute to smog. The converter’s purpose is to transform these molecules into less
+harmful products—carbon dioxide, water, and nitrogen—without being consumed itself. Its
+effectiveness depends on catalysis: the acceleration of chemical reactions by providing an
+alternative pathway with lower activation energy.
 
-In replication attempts, researchers found that the apparent consensus fractured when
-similar protocols were applied in settings unlike Philadelphia. the same summary statistic
-could be reproduced while the underlying mechanisms differed in part because racial violence
-and intimidation shifted the baseline in different directions across sites. the author
-therefore separates detection from interpretation—not treating political realignment
-patterns as a self-sufficient conclusion. In this sense, african american internal migration
-is best treated as a conditional inference rather than as a mere label.
+In a typical converter, precious metals such as platinum, palladium, and rhodium are
+dispersed on a ceramic honeycomb. The honeycomb has immense surface area, allowing many gas
+molecules to contact catalytic sites as they flow through. When a molecule adsorbs onto a
+metal surface, its bonds can weaken or reorient, making it easier for the molecule to react.
+Carbon monoxide, for example, can bind to platinum, while oxygen from the exhaust can also
+adsorb. On the surface, the two can meet and form carbon dioxide, which then desorbs and
+leaves the catalyst ready for another cycle.
 
-Not until the field adopted tests that manipulate or stratify racial violence and
-intimidation was it clear that the debate became empirically productive rather than merely
-rhetorical. by comparing cases in which census microdata analysis constrains alternatives,
-researchers could ask which predictions survive out of sample, which helps explain why is
-why the passage emphasizes comparative design over isolated exemplars. Admittedly, a single
-case can be dramatic; nevertheless, the author does not deny the value of striking examples,
-but warns against treating them as representative.
+Nitrogen oxides pose a different challenge because they contain nitrogen tightly bound to
+oxygen. Rhodium is especially effective at reducing these oxides, splitting NO into N and O
+on the surface. The nitrogen atoms can pair to form N2, while oxygen can react with carbon
+monoxide or hydrocarbons. [A] In other words, the converter coordinates reactions that would
+be too slow in free gas collisions by holding reactants in proximity on a surface that
+reshapes their bonds.
 
-If anything is responsible, it is the apparent regularity of political realignment patterns,
-and therefore drives the first interpretation: political realignment patterns is treated as
-a direct readout of mechanism. If political realignment patterns is uniquely produced by one
-causal pathway holds, then observations from Philadelphia would be transferable, and
-disagreement would be largely technical. the literature is full of such claims, not because
-the caveat that racial violence and intimidation might reproduce the same pattern, but
-because the assumptions differ. In this sense, south-to-north population movement is best
-treated as a conditional inference rather than as a mere label.
+A converter’s performance depends on temperature. Below a “light‑off” temperature, exhaust
+molecules do not adsorb and react quickly enough, so emissions remain high. Once the
+catalyst warms, rates rise steeply. This is why short trips can be disproportionately
+polluting: the engine may run for only a few minutes, and the converter may not reach its
+optimal operating range. Engineers address this by placing converters closer to the engine
+or by using strategies that heat the catalyst rapidly after ignition.
 
-Not the obvious explanation but methodological humility is what the passage presents as the
-lesson of the great migration and northern urban transformation: inference is constrained by
-what competing models would also predict. If one wishes to move from description to
-explanation, a different prediction follows: then the same observation—political realignment
-patterns—must be paired with tests that change the conditions under which it appears.
-Whereas popular summaries treat political realignment patterns as an endpoint, the passage
-treats it as a starting point for sharper experimental or observational contrasts.
+Mixture control is also critical. A three‑way converter must both oxidize CO and
+hydrocarbons and reduce nitrogen oxides. These reactions demand different oxygen conditions.
+If the exhaust is oxygen‑rich, oxidation is easy but reduction of NOx is harder; if the
+exhaust is oxygen‑poor, reduction improves but oxidation suffers. Modern engines therefore
+use oxygen sensors and feedback control to keep the mixture near a narrow window where both
+processes can proceed effectively. [B] The converter’s chemistry is thus inseparable from
+engine management; it is part of a coupled system rather than an afterthought.
 
-It is methodological humility that the passage presents as the lesson of the great migration
-and northern urban transformation: inference is constrained by what competing models would
-also predict. [A] This is why the author repeatedly contrasts what is measured with what is
-inferred. Should one wishes to move from description to explanation be true, then the same
-observation—political realignment patterns—must be paired with tests that change the
-conditions under which it appears. [B] The passage highlights that mechanism claims must
-survive out-of-sample checks. Whereas popular summaries treat political realignment patterns
-as an endpoint looks decisive, the passage treats it as a starting point for sharper
-experimental or observational contrasts becomes more predictive under replication. [C] This
-becomes a pivot point where the earlier interpretation is narrowed. [D] The discussion makes
-clear that measurement choices can masquerade as mechanism. In this sense, twentieth-century
-black migration flows is best treated as a conditional inference rather than as a mere
-label.
+Catalysts can degrade. Sulfur compounds can “poison” active sites by binding strongly and
+blocking them. Thermal stress can cause metal particles to sinter, shrinking surface area as
+small particles merge into larger ones. Physical shocks can fracture the ceramic support.
+Each failure mode reduces the number of accessible sites, slowing reactions and raising
+emissions. The converter’s durability therefore depends not only on the intrinsic catalytic
+activity of metals but also on materials engineering that stabilizes dispersion under harsh
+conditions.
 
-In the end, the analysis suggests the passage concludes that the most informative evidence
-is often the evidence that forces competing assumptions into the open. by insisting that
-claims about the great migration and northern urban transformation be conditional on stated
-priors, it turns disagreement into a tool for discovery, which helps explain why clarifies
-why the same record can yield multiple stories without implying that any story is arbitrary.
-Though the temptation to treat a tidy plot as a definitive answer is strong, the result is a
-framework in which political realignment patterns is interpreted through explicit boundary
-conditions rather than through habit.
+The converter illustrates a general principle of heterogeneous catalysis: surfaces can
+control reaction pathways by controlling encounters. [C] By adsorbing, weakening bonds, and
+releasing products, the catalyst turns a chaotic stream of molecules into a sequence of
+guided transformations. [D] What seems like a simple box under a car is, at the molecular
+scale, a carefully designed landscape where chemistry is compelled to happen faster and
+cleaner than it would in open air.
+
+Because the best-performing metals are scarce, researchers also explore alternative
+catalysts and supports that preserve activity while reducing cost.
+
 
 Questions
 ---------
 
-1. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage argues that twentieth-century black migration flows cannot be studied empirically because confounders like racial violence and intimidation make data meaningless. It recommends replacing measurement with intuition and rejecting oral history synthesis as unreliable. It concludes that debate persists because evidence never constrains theory.
-   B. The passage examines the great migration and northern urban transformation and argues that political realignment patterns is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how racial violence and intimidation can shift the baseline, especially when evidence is drawn from Detroit. Finally, it maintains that tests combining oral history synthesis with boundary-condition checks are required to make claims about african american internal migration robust.
-   C. The passage claims that south-to-north population movement is settled because political realignment patterns uniquely identifies the mechanism. It argues that racial violence and intimidation is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using oral history synthesis are unnecessary.
-   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats oral history synthesis as a historical curiosity and does not discuss political realignment patterns or racial violence and intimidation. It ends without any methodological implication.
+1. [Factual] According to the passage, why does a converter use a ceramic honeycomb coated with metals?
+   A. To provide very large surface area so exhaust molecules can contact many catalytic sites
+   B. To increase exhaust pressure and slow gas flow intentionally
+   C. To store fuel for later combustion
+   D. To eliminate the need for oxygen sensors
 
-2. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. the price of coal in 1700
-   B. political realignment patterns
-   C. census microdata analysis
-   D. The Great Migration and Northern Urban Transformation
+2. [Vocabulary] The word “sinter” in the passage is closest in meaning to:
+   A. merge into larger particles, reducing surface area
+   B. dissolve completely into gas
+   C. freeze instantly
+   D. become electrically charged
 
-3. [Vocabulary] In the passage, the word **sparse** in the sentence below is closest in meaning to:
-   Sentence: In this sense, twentieth-century black migration flows is best treated as a conditional inference rather than as a mere label.
-   A. irrelevant to the great migration and northern urban transformation, serving only as background detail
-   B. complete and final, so no further checks like census microdata analysis are needed
-   C. thinly spread
-   D. unavoidable and uncontrollable because racial violence and intimidation dominates all evidence
-
-4. [Inference] Which of the following can be inferred from the passage?
-   A. The argument is that boundary conditions matter only for older studies, not for modern measurements using housing record reconstruction.
-   B. The passage claims that the best strategy is to average away housing covenants and policy constraints, since variability is merely a measurement error.
-   C. The passage suggests that segregation and redlining signatures is primarily a rhetorical device rather than an empirical constraint on models.
-   D. A convincing explanation should make distinct predictions under shared protocols, especially when housing covenants and policy constraints can mimic segregation and redlining signatures.
-
-5. [Rhetorical Purpose] The mention of alternative mechanisms is used primarily to:
-   A. The author suggests that the key synonym 'mass relocation from the Jim Crow South' refers to a different field altogether, not to the great migration and northern urban transformation.
-   B. The passage implies that Harlem is chosen to avoid bias, so comparisons across settings are unnecessary.
-   C. The passage treats segregation and redlining signatures as a confounder and push–pull dynamics as the diagnostic signal that identifies the mechanism.
-   D. motivate clearer assumptions and stronger tests, such as comparing cases where labor market inference from wage series constrains push–pull dynamics
-
-6. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about the great migration and northern urban transformation be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Aggregation guarantees that the same mechanism operates in Harlem and everywhere else.
-   B. Incompatible cases should be ignored to keep an explanation based on oral history synthesis simple.
-   C. Summaries are always reliable because averaging eliminates housing covenants and policy constraints.
-   D. Some summaries seem consistent because they mix incompatible cases, not because political realignment patterns uniquely identifies one mechanism.
-
-7. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: The argument also suggests that disagreement can be productive, since it forces boundary conditions to be stated rather than assumed.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: Surface contact, rather than chance midair collision, becomes the decisive factor.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-8. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
-   A. The discussion indicates that replication is redundant if oral history synthesis produces a tight fit on one dataset.
-   B. it prevents shifts in industrial labor demand from being treated as a self-interpreting fingerprint and forces tests that control wartime industry demand
-   C. The passage implies that oral history synthesis directly measures causes, meaning confounding from wartime industry demand is impossible.
-   D. Since shifts in industrial labor demand is observed in Detroit, it must generalize to every setting, regardless of boundary conditions.
+4. [Inference] What can be inferred about why short trips can produce higher emissions per minute?
+   A. The catalyst may remain below light-off temperature, so reactions proceed too slowly to clean exhaust effectively
+   B. The converter becomes permanently poisoned after a short trip
+   C. NOx is not produced at low speed
+   D. Oxygen sensors stop functioning on short routes
 
-9. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | newspaper archive research | Samples only part of the system |
-   | Signal | segregation and redlining signatures | Can be degenerate with another effect |
-   | Confounder | racial violence and intimidation | Adds correlated noise |
-   Blank: The limitation for 'Confounder' is ________.
-   A. Can be degenerate with another effect
-   B. Adds correlated noise
-   C. Samples only part of the system
-   D. It makes racial violence and intimidation irrelevant.
+5. [Negative Factual] All of the following are mentioned as degradation mechanisms EXCEPT:
+   A. sulfur poisoning
+   B. thermal sintering of metal particles
+   C. fracturing of the ceramic support
+   D. photosynthetic carbon fixation in leaves
 
-10. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [A] This is why the author repeatedly contrasts what is measured with what is inferred.
-   A. the idea being discussed in the surrounding sentences
-   B. housing covenants and policy constraints alone, treated as the sole cause
-   C. newspaper archive research as a device rather than as an analytic approach
-   D. shifts in industrial labor demand specifically, taken as an unambiguous measurement
+6. [Rhetorical Purpose] Why does the author explain oxygen-rich versus oxygen-poor exhaust?
+   A. To show why engine feedback must keep conditions near a narrow window so oxidation and NOx reduction both work
+   B. To argue that oxygen makes all reactions impossible
+   C. To claim that three-way converters perform only one reaction
+   D. To suggest that mixture control is irrelevant to catalysis
+
+7. [Reference] In the passage, “this failure mode” refers to:
+   A. processes that reduce accessible catalytic sites, such as poisoning or sintering
+   B. the formation of carbon dioxide on the surface
+   C. the production of exhaust gases in the engine
+   D. the addition of oxygen sensors to a car
+
+8. [Organization] How is the passage primarily organized?
+   A. It introduces catalytic purpose, explains surface reactions for CO and NOx, then discusses temperature and mixture constraints before describing degradation and a broader catalysis principle
+   B. It lists metal prices without chemistry
+   C. It focuses only on ceramic manufacturing and not reactions
+   D. It argues that converters consume precious metals rapidly
+
+9. [Paraphrase] Which option best restates the idea that the converter “coordinates reactions” by holding reactants on a surface?
+   A. Adsorption brings molecules together and weakens bonds, enabling faster transformations than free-gas collisions
+   B. The converter works by removing molecules with a filter
+   C. Reactions accelerate because exhaust is compressed into a smaller volume
+   D. Coordination means the catalyst becomes a reactant and is used up
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Catalytic converters reduce emissions mainly by trapping gases permanently inside a container.
+   B. The passage explains how catalytic converters use metal surfaces on a high-area support to speed oxidation and reduction reactions, why temperature and oxygen conditions must be controlled for three-way performance, and how poisoning and sintering can degrade activity over time.
+   C. Converters work equally well at any temperature because adsorption is irrelevant.
+   D. NOx reduction is impossible in exhaust, so converters only oxidize hydrocarbons.
 
 
 Answer Key
 ----------
-1: B
+1: A
 2: A
-3: C
-4: D
+3: A
+4: A
 5: D
-6: D
-7: B
-8: B
-9: B
-10: A
+6: A
+7: A
+8: A
+9: A
+10: B

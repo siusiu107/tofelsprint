@@ -1,148 +1,138 @@
-Passage 0015: Stellar Contamination in Transit Spectroscopy (Astronomy)
-=======================================================================
-(Word count: 637)
+Passage 0015: Shape-Memory Alloys and Reversible Crystal Transformations (Materials Science)
+============================================================================================
+(Word count: 629)
 
-Despite apparently clean spectra, researchers have treated spurious molecular detections as
-the decisive sign of stellar contamination in transit spectroscopy. Even though Gaussian-
-process detrending can make the pattern look unusually sharp, the passage argues that such
-confidence is conditional and must be earned by specifying assumptions. the resulting debate
-is less about data collection than about what the data are evidence for, which is precisely
-why forces analysts to articulate boundary conditions rather than rely on familiar
-narratives.
+A paperclip bends and, if pushed too far, stays bent. A nickel‑titanium wire, by contrast,
+can be twisted, stretched, and then return to its original shape as if the deformation had
+been erased. This behavior, often marketed as “shape memory,” is not a trick of elastic
+stiffness alone. It arises from a reversible change in crystal structure. In one state the
+alloy’s atoms occupy a higher‑symmetry arrangement; in another they occupy a lower‑symmetry
+arrangement that can accommodate strain by shifting variants rather than by permanently
+sliding atomic planes.
 
-Working with sparse records and limited controls on starspot temperature contrasts, the key
-question becomes whether many early studies framed stellar contamination in transit
-spectroscopy as a single-mechanism phenomenon. Whereas those studies emphasized spurious
-molecular detections as a signature looks decisive, later work asked whether the same
-signature survives when protocols and baselines differ becomes more predictive under
-replication. this shift mattered for how evidence from active K-dwarf host stars was
-generalized because local conditions can change which processes generate spurious molecular
-detections. In this sense, unocculted spot/facula bias in transit data is best treated as a
-conditional inference rather than as a mere label.
+The temperature‑driven form is the most intuitive. At low temperature, the alloy can exist
+in a martensitic phase composed of multiple variants. When stress is applied, variants that
+fit the stress direction grow at the expense of others, allowing large apparent deformation
+without permanent damage. When the alloy is heated above a transformation range, it reverts
+to the austenitic phase, and the variant pattern disappears, pulling the macroscopic shape
+back to its original form. Because the transformation absorbs and releases latent heat, the
+process is more like a phase change than like a rubber band snap.
 
-If anything is responsible, it is methodological humility, and therefore the passage
-presents as the lesson of stellar contamination in transit spectroscopy: inference is
-constrained by what competing models would also predict. [A] The author uses the example to
-separate detection from interpretation. If one wishes to move from description to
-explanation is granted, then the same observation—spurious molecular detections—must be
-paired with tests that change the conditions under which it appears. [B] The passage signals
-that a tidy fit may hide degenerate explanations. Whereas popular summaries treat spurious
-molecular detections as an endpoint looks decisive, the passage treats it as a starting
-point for sharper experimental or observational contrasts becomes more predictive under
-replication. [C] At first glance, the pattern seems obvious, yet the author frames it as
-conditional. [D] This becomes a pivot point where the earlier interpretation is narrowed.
+A second, closely related behavior is superelasticity, which occurs not by heating but by
+stress at a fixed temperature. If the alloy is slightly above its transformation range,
+applying stress can induce martensite locally. The material appears to “yield,” yet when
+stress is removed the induced martensite reverts and the strain is recovered. Engineers
+value this behavior in medical stents: a stent can be compressed into a catheter, delivered
+to a narrow artery, and then expand outward with gentle, sustained force. [A] The benefit
+depends on an unusual plateau in the stress‑strain curve: instead of steadily rising stress
+with strain, the material can deform substantially at nearly constant stress while the phase
+transformation progresses. [B]
 
-Never before analysts began combining Gaussian-process detrending with cross-site
-comparisons was it defensible to argue that claims about stellar contamination in transit
-spectroscopy stopped relying on a single figure and started relying on falsifiable
-predictions. the goal was to break degeneracies in which spurious molecular detections could
-be explained in more than one way because confounders like starspot temperature contrasts
-often co-vary with the driver. as the author notes, transparency about priors became an
-empirical issue rather than a stylistic choice; this, in turn, changes whether two analyses
-are actually comparable. In this sense, activity-driven spectral distortion is best treated
-as a conditional inference rather than as a mere label.
+The same phase logic also explains why processing matters so much. Small changes in
+composition can shift transformation temperatures, and heat treatments can change
+precipitates that pin or release transformation fronts. If the alloy is too nickel‑rich,
+transformation temperatures may drop below body temperature, improving superelasticity for
+implants; if the alloy is adjusted differently, shape memory can be tuned to activate with
+mild warming. Yet tuning has costs. A treatment that improves recoverable strain can reduce
+fatigue life if it produces brittle precipitates or concentrates stress at grain boundaries.
+[C] In cyclic applications, such as orthodontic wires that flex thousands of times, fatigue
+becomes the limiting factor long before the dramatic “memory” effect fails in a single pull.
 
-Using Gaussian-process detrending under stable conditions, the passage suggests one
-frequently cited case from active K-dwarf host stars appeared to support the direct-readout
-view. the original fit looked visually decisive; still, later, however, reanalysis showed
-that small shifts in starspot temperature contrasts altered the baseline enough to mute or
-mimic spurious molecular detections. the passage treats this episode as diagnostic, a move
-that illustrates why boundary conditions must be specified before generalization is
-attempted. In this sense, photospheric contamination of transmission spectra is best treated
-as a conditional inference rather than as a mere label.
+Designers therefore treat nickel‑titanium as a system that trades behaviors against one
+another. High recoverable strain is valuable, but so is stable transformation over many
+cycles and resistance to corrosion in body fluids. Surface oxidation can protect against
+corrosion, yet surface defects can initiate cracks under repeated flexing. Moreover, the
+very feature that makes the alloy useful—the moving phase boundary—creates internal
+friction, which can generate heat and alter local transformation behavior under rapid
+cycling.
 
-In the end, it becomes plausible that the passage concludes that the most informative
-evidence is often the evidence that forces competing assumptions into the open. by insisting
-that claims about stellar contamination in transit spectroscopy be conditional on stated
-priors, it turns disagreement into a tool for discovery, which is precisely why clarifies
-why the same record can yield multiple stories without implying that any story is arbitrary.
-Even if the temptation to treat a tidy plot as a definitive answer is strong, the result is
-a framework in which spurious molecular detections is interpreted through explicit boundary
-conditions rather than through habit.
+Despite these complications, shape‑memory alloys are a reminder that mechanical behavior can
+be engineered through structure, not merely through strength. [D] When a device “remembers,”
+it is actually following an energetic path back to a preferred crystal arrangement. The
+macroscopic return, which feels almost magical in the hand, is therefore an expression of
+microscopic order: atoms shifting between phases, variants reorganizing under stress, and
+heat defining which structure is stable at a given moment.
+
+Another practical feature is hysteresis: the temperature at which the alloy transforms on
+heating is not identical to the temperature at which it transforms on cooling. That gap can
+be useful, because it stabilizes a device against small temperature fluctuations, but it can
+also complicate precise activation if engineers need a sharp threshold.
+
 
 Questions
 ---------
 
-1. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about stellar contamination in transit spectroscopy be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Summaries are always reliable because averaging eliminates facula coverage fractions.
-   B. Incompatible cases should be ignored to keep an explanation based on chromatic transit analysis simple.
-   C. Some summaries seem consistent because they mix incompatible cases, not because rotation-modulated light curves uniquely identifies one mechanism.
-   D. Aggregation guarantees that the same mechanism operates in M-dwarf systems with repeated transits and everywhere else.
+1. [Vocabulary] The word “latent” in the passage is closest in meaning to:
+   A. hidden but capable of being released
+   B. irreversible
+   C. surface-level
+   D. unrelated
 
-2. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: This is why the author dwells on assumptions: without them, two teams can analyze the same record and still disagree honestly.
+2. [Factual] According to the passage, what enables large deformation in the martensitic phase without permanent damage?
+   A. Growth of martensite variants aligned with the stress direction
+   B. Permanent sliding of atomic planes that cannot be reversed
+   C. Complete melting of the alloy during stretching
+   D. A chemical reaction that creates new atoms
+
+3. [Rhetorical Purpose] Why does the author mention medical stents?
+   A. To illustrate an application where superelasticity provides gentle, sustained expansion after compression
+   B. To argue that nickel-titanium is used only in electronics
+   C. To show that stents depend on corrosion rather than mechanics
+   D. To claim that all alloys have identical stress-strain curves
+
+4. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: During that interval, additional strain is accommodated by transforming more material rather than by increasing stress sharply.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-3. [Rhetorical Purpose] The author’s discussion of an alternative hypothesis serves mainly to:
-   A. The author suggests that the key synonym 'photospheric contamination of transmission spectra' refers to a different field altogether, not to stellar contamination in transit spectroscopy.
-   B. The discussion suggests that starspot temperature contrasts is the phenomenon itself, so controlling for it would remove the effect of interest.
-   C. The passage implies that M-dwarf systems with repeated transits is chosen to avoid bias, so comparisons across settings are unnecessary.
-   D. motivate clearer assumptions and stronger tests, such as comparing cases where simultaneous photometric monitoring constrains starspot temperature contrasts
+5. [Inference] What can be inferred from the passage about why fatigue is important for orthodontic wires?
+   A. Because repeated flexing can cause failure over many cycles even if a single deformation can be recovered
+   B. Because orthodontic wires are heated above melting temperature repeatedly
+   C. Because corrosion is impossible in body fluids
+   D. Because superelasticity eliminates any crack formation
 
-4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. Gaussian-process detrending
-   B. spurious molecular detections
-   C. Stellar Contamination in Transit Spectroscopy
-   D. the length of the Nile in miles
+6. [Negative Factual] All of the following are mentioned as factors affecting performance EXCEPT:
+   A. composition shifts that change transformation temperature
+   B. heat treatments that alter precipitates
+   C. surface defects that can initiate cracks under cycling
+   D. the presence of lunar tides changing crystal symmetry
 
-5. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage argues that photospheric contamination of transmission spectra cannot be studied empirically because confounders like facula coverage fractions make data meaningless. It recommends replacing measurement with intuition and rejecting chromatic transit analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
-   B. The passage examines stellar contamination in transit spectroscopy and argues that rotation-modulated light curves is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how facula coverage fractions can shift the baseline, especially when evidence is drawn from multi-epoch JWST targets. Finally, it maintains that tests combining chromatic transit analysis with boundary-condition checks are required to make claims about unocculted spot/facula bias in transit data robust.
-   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats chromatic transit analysis as a historical curiosity and does not discuss rotation-modulated light curves or facula coverage fractions. It ends without any methodological implication.
-   D. The passage claims that activity-driven spectral distortion is settled because rotation-modulated light curves uniquely identifies the mechanism. It argues that facula coverage fractions is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using chromatic transit analysis are unnecessary.
+7. [Reference] In the passage, “this behavior” in “Engineers value this behavior in medical stents” refers to:
+   A. rubber-like elasticity unrelated to phase change
+   B. superelastic recovery driven by stress-induced martensite
+   C. permanent plastic bending
+   D. corrosion-driven expansion
 
-6. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [D] This becomes a pivot point where the earlier interpretation is narrowed.
-   A. the idea being discussed in the surrounding sentences
-   B. instrument drift across visits alone, treated as the sole cause
-   C. simultaneous photometric monitoring as a device rather than as an analytic approach
-   D. rotation-modulated light curves specifically, taken as an unambiguous measurement
+8. [Organization] How does the passage develop the explanation of shape memory and superelasticity?
+   A. By introducing the contrast with ordinary metals, explaining phase-based mechanisms, then discussing tuning, trade-offs, and durability limits
+   B. By listing alloy names without describing phases
+   C. By focusing only on corrosion chemistry and ignoring mechanics
+   D. By narrating a historical timeline without physical explanation
 
-7. [Vocabulary] In the passage, the word **incremental** in the sentence below is closest in meaning to:
-   Sentence: [B] The passage signals that a tidy fit may hide degenerate explanations.
-   A. irrelevant to stellar contamination in transit spectroscopy, serving only as background detail
-   B. unavoidable and uncontrollable because limb-darkening model mismatch dominates all evidence
-   C. complete and final, so no further checks like Gaussian-process detrending are needed
-   D. gradual
+9. [Paraphrase] Which option best restates the idea that the return is “an energetic path back to a preferred crystal arrangement”?
+   A. The material reverts to the crystal phase that is stable under the current conditions, pulling the shape back as atoms reorganize
+   B. The material returns because it contains hidden springs that never change
+   C. The return is caused by external magnets aligning the wire
+   D. The return happens only because the metal cools below freezing
 
-8. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | multi-epoch transit campaigns | Requires careful calibration |
-   | Signal | rotation-modulated light curves | Can vary across epochs |
-   | Confounder | facula coverage fractions | Shifts the baseline |
-   Blank: The limitation for 'Method' is ________.
-   A. It proves time-variable spectral baselines is unique.
-   B. Requires careful calibration
-   C. It replaces Gaussian-process detrending with intuition.
-   D. Shifts the baseline
-
-9. [Inference] The passage suggests which of the following?
-   A. The passage suggests that apparent slopes mimicking Rayleigh scattering is primarily a rhetorical device rather than an empirical constraint on models.
-   B. The author treats bright nearby planet hosts as a special case and argues that no broader inference about stellar contamination in transit spectroscopy is possible.
-   C. A convincing explanation should make distinct predictions under shared protocols, especially when instrument drift across visits can mimic apparent slopes mimicking Rayleigh scattering.
-   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using simultaneous photometric monitoring.
-
-10. [Factual Information] The passage indicates that confounder control is important mainly because:
-   A. The passage implies that Gaussian-process detrending directly measures causes, meaning confounding from limb-darkening model mismatch is impossible.
-   B. it prevents spurious molecular detections from being treated as a self-interpreting fingerprint and forces tests that control limb-darkening model mismatch
-   C. Because spurious molecular detections appears, the mechanism must be unique, so limb-darkening model mismatch can be ignored as irrelevant noise.
-   D. The author suggests that disagreement disappears once spurious molecular detections is detected, making model assumptions unnecessary.
+10. [Summary] Which statement best summarizes the passage?
+   A. Shape memory is caused by simple elastic stiffness and does not involve any phase changes.
+   B. The passage explains nickel‑titanium’s shape memory and superelasticity as reversible crystal-structure transformations, shows how stress and temperature can induce phase changes, and discusses how composition, processing, fatigue, and surface effects create design trade-offs.
+   C. Superelasticity occurs only when alloys melt and re-freeze inside the body.
+   D. Medical stents depend on permanent plastic deformation to expand arteries.
 
 
 Answer Key
 ----------
-1: C
-2: C
-3: D
-4: D
-5: B
-6: A
-7: D
-8: B
-9: C
+1: A
+2: A
+3: A
+4: B
+5: A
+6: D
+7: B
+8: A
+9: A
 10: B

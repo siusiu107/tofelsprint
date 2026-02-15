@@ -1,154 +1,139 @@
-Passage 0074: Heterogeneous Catalysis on Platinum Surfaces (Chemistry)
-======================================================================
-(Word count: 719)
+Passage 0074: Pulsar Timing Arrays and Nanohertz Gravity
+========================================================
+(Word count: 601)
 
-In surface-science experiments, it becomes plausible that researchers have treated poisoning
-by CO as the decisive sign of heterogeneous catalysis on platinum surfaces. Although DFT
-surface modeling can make the pattern look unusually sharp, the passage argues that such
-confidence is conditional and must be earned by specifying assumptions. the resulting debate
-is less about data collection than about what the data are evidence for, a move that forces
-analysts to articulate boundary conditions rather than rely on familiar narratives.
+In 1967, when radio astronomers first noticed the clocklike pulses from certain neutron
+stars, the regularity seemed almost unnatural. Pulsars—rapidly rotating remnants of massive
+stars—emit beams of radio waves that sweep past Earth like lighthouse beams. Because the
+rotation can be extraordinarily stable, the arrival times of pulses can be predicted with
+remarkable precision. Over decades, that stability has transformed pulsars from curiosities
+into instruments: they are timekeepers that astronomers can use to probe phenomena that are
+otherwise too large and slow to sense.
 
-Rarely has it been the case that the debate became empirically productive rather than merely
-rhetorical, at least before the field adopted tests that manipulate or stratify catalyst
-deactivation. by comparing cases in which DFT surface modeling constrains alternatives,
-researchers could ask which predictions survive out of sample, which is why the passage
-emphasizes comparative design over isolated exemplars. a single case can be dramatic; still,
-the author does not deny the value of striking examples, but warns against treating them as
-representative. In this sense, surface-mediated catalysis on pt is best treated as a
-conditional inference rather than as a mere label.
+One ambitious application is the search for very low-frequency gravitational waves. Unlike
+the gravitational waves detected by ground-based observatories, which arise from stellar-
+mass objects merging in seconds, nanohertz gravitational waves would have periods of years
+to decades. Such waves are expected from pairs of supermassive black holes orbiting one
+another as galaxies merge. Because the wavelength is so large, no laboratory-scale detector
+can fit inside a single cycle. Instead, astronomers build a detector the size of the Solar
+System by comparing many pulsar clocks spread across the sky.
 
-Rarely, unless the field adopted tests that manipulate or stratify catalyst deactivation,
-does one see why the debate became empirically productive rather than merely rhetorical. by
-comparing cases in which DFT surface modeling constrains alternatives, researchers could ask
-which predictions survive out of sample; this, in turn, is why the passage emphasizes
-comparative design over isolated exemplars. Though a single case can be dramatic, the author
-does not deny the value of striking examples, but warns against treating them as
-representative.
+The logic is subtle yet physical. If a gravitational wave passes between Earth and a pulsar,
+it slightly stretches and compresses spacetime along the path. That change alters the
+apparent travel time of pulses, producing tiny deviations in arrival times relative to a
+model. A single pulsar can show such “timing residuals” for many reasons—interstellar plasma
+variations, intrinsic spin irregularities, or errors in planetary ephemerides—so one pulsar
+alone cannot prove a gravitational wave. The key is correlation. A gravitational-wave
+background should imprint a distinctive pattern of correlated residuals between pairs of
+pulsars depending on their angular separation on the sky. [A] In practice, astronomers look
+for that pattern within noisy, irregular data by combining measurements from dozens of
+millisecond pulsars.
 
-It is methodological humility, rather than a single headline feature, that the passage
-presents as the lesson of heterogeneous catalysis on platinum surfaces: inference is
-constrained by what competing models would also predict. [A] The passage signals that a tidy
-fit may hide degenerate explanations. If one wishes to move from description to explanation,
-a different prediction follows: then the same observation—poisoning by CO—must be paired
-with tests that change the conditions under which it appears. [B] The passage returns to
-this point to clarify what counts as evidence. Whereas popular summaries treat poisoning by
-CO as an endpoint is easy to measure, the passage treats it as a starting point for sharper
-experimental or observational contrasts is harder to interpret without assumptions. [C] The
-author treats this as a clue rather than as a nuisance. [D] The author uses the detour to
-show why a different metric would lead to a different conclusion. In this sense, platinum-
-catalyzed reaction pathways is best treated as a conditional inference rather than as a mere
-label.
+Long baselines and careful modeling are essential. The interstellar medium is not empty;
+electrons cause radio pulses to disperse, delaying lower frequencies more than higher ones,
+and the electron density changes over time. Observers therefore measure pulsars at multiple
+radio frequencies to correct for dispersion changes. They also correct for Earth’s motion
+around the Sun, which introduces predictable timing shifts, and for small irregularities in
+the pulsar’s rotation. Each correction is necessary because the signal being sought is
+extraordinarily small: timing residuals of tens to hundreds of nanoseconds across years. [B]
+The achievement is not that pulsars are perfect clocks, but that they are good enough, and
+numerous enough, for statistical patterns to emerge.
 
-In replication attempts, one sees why the apparent consensus fractured when similar
-protocols were applied in settings unlike electrochemical interfaces. the same summary
-statistic could be reproduced while the underlying mechanisms differed largely because
-catalyst deactivation shifted the baseline in different directions across sites. the author
-therefore separates detection from interpretation, not because treating poisoning by CO as a
-self-sufficient conclusion, but because the assumptions differ.
+Recent years have produced strong evidence that a common process is producing correlated
+timing residuals across pulsar arrays. Whether the correlations match precisely the expected
+angular pattern for gravitational waves remains an active question, yet the direction is
+clear: pulsar timing arrays have become a complementary observatory for the universe’s
+largest mergers.
 
-Never before analysts began combining DFT surface modeling with cross-site comparisons was
-it defensible to argue that claims about heterogeneous catalysis on platinum surfaces
-stopped relying on a single figure and started relying on falsifiable predictions. the goal
-was to break degeneracies in which poisoning by CO could be explained in more than one way
-largely because confounders like catalyst deactivation often co-vary with the driver. as the
-author notes, transparency about priors became an empirical issue rather than a stylistic
-choice, an outcome that changes whether two analyses are actually comparable. In this sense,
-metal-surface catalytic conversion is best treated as a conditional inference rather than as
-a mere label.
+Even if the signal is confirmed, the payoff is broader than a single detection. The spectrum
+of the background could reveal how frequently galaxies merge, how black holes grow, and
+whether exotic sources—cosmic strings, for example—contribute at low frequencies. Pulsars,
+which are born from violent stellar deaths, thus become gentle detectors of cosmic
+choreography on the largest scales. [C] Their pulses do not “measure” gravity in a
+laboratory sense; they register its influence by arriving a little early or a little late,
+in a pattern that only a sky-wide network can decode. [D]
 
-In the end, one sees why the passage concludes that the most informative evidence is often
-the evidence that forces competing assumptions into the open. by insisting that claims about
-heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns
-disagreement into a tool for discovery, which helps explain why clarifies why the same
-record can yield multiple stories without implying that any story is arbitrary. Even if the
-temptation to treat a tidy plot as a definitive answer is strong, the result is a framework
-in which poisoning by CO is interpreted through explicit boundary conditions rather than
-through habit.
+A single millisecond of extra delay, repeated across thousands of pulses, becomes a
+measurable signature when clocks are stable enough.
+
+A single millisecond of extra delay, repeated across thousands of pulses, becomes a
+measurable signature when clocks are stable enough.
+
 
 Questions
 ---------
 
-1. [Inference] The passage suggests which of the following?
-   A. The author treats electrochemical interfaces as a special case and argues that no broader inference about heterogeneous catalysis on platinum surfaces is possible.
-   B. The argument is that boundary conditions matter only for older studies, not for modern measurements using surface microscopy.
-   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving surface microscopy.
-   D. A convincing explanation should make distinct predictions under shared protocols, especially when adsorbate coverage effects can mimic structure-sensitive activity.
+1. [Factual] According to the passage, nanohertz gravitational waves are expected to be produced primarily by:
+   A. orbiting pairs of supermassive black holes formed during galaxy mergers
+   B. chemical reactions inside planetary atmospheres
+   C. rapid collapse of kelp forests into urchin barrens
+   D. soil erosion caused by wind on farmland
 
-2. [Vocabulary] In the passage, the word **persistent** in the sentence below is closest in meaning to:
-   Sentence: If one wishes to move from description to explanation, a different prediction follows: then the same observation—poisoning by CO—must be paired with tests that change the conditions under which it appears.
-   A. unavoidable and uncontrollable because adsorbate coverage effects dominates all evidence
-   B. lasting
-   C. complete and final, so no further checks like microkinetic modeling are needed
-   D. irrelevant to heterogeneous catalysis on platinum surfaces, serving only as background detail
+2. [Vocabulary] The word “residuals” in “timing residuals” is closest in meaning to:
+   A. differences between observed and predicted pulse arrival times
+   B. the radio beams emitted by pulsars
+   C. a protective metal coating on detectors
+   D. the rotation period of Earth
 
-3. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats in situ spectroscopy as a historical curiosity and does not discuss structure-sensitive activity or facet dependence. It ends without any methodological implication.
-   B. The passage examines heterogeneous catalysis on platinum surfaces and argues that structure-sensitive activity is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how facet dependence can shift the baseline, especially when evidence is drawn from industrial hydrogenation reactors. Finally, it maintains that tests combining in situ spectroscopy with boundary-condition checks are required to make claims about surface-mediated catalysis on pt robust.
-   C. The passage claims that platinum-catalyzed reaction pathways is settled because structure-sensitive activity uniquely identifies the mechanism. It argues that facet dependence is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using in situ spectroscopy are unnecessary.
-   D. The passage argues that metal-surface catalytic conversion cannot be studied empirically because confounders like facet dependence make data meaningless. It recommends replacing measurement with intuition and rejecting in situ spectroscopy as unreliable. It concludes that debate persists because evidence never constrains theory.
-
-4. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: The author emphasizes that a clean-looking curve can still encode hidden choices, especially when preprocessing is treated as neutral.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: That shared imprint is what turns a collection of separate clocks into a single, distributed detector.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-5. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. the length of the Nile in miles
-   B. Heterogeneous Catalysis on Platinum Surfaces
-   C. microkinetic modeling
-   D. rate enhancement
+4. [Inference] What can be inferred about why multi-frequency observations are useful for pulsar timing arrays?
+   A. They help correct delays caused by interstellar electron dispersion that varies over time
+   B. They increase the pulsar’s rotation rate, improving clock stability
+   C. They eliminate the need to model Earth’s orbit
+   D. They prove that pulsars emit gravitational waves directly
 
-6. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | surface microscopy | Depends on modeling priors |
-   | Signal | poisoning by CO | May be sensitive to preprocessing choices |
-   | Confounder | adsorbate coverage effects | Shifts the baseline |
-   Blank: The limitation for 'Signal' is ________.
-   A. Depends on modeling priors
-   B. Shifts the baseline
-   C. May be sensitive to preprocessing choices
-   D. It replaces DFT surface modeling with intuition.
+5. [Negative Factual] All of the following are mentioned as potential causes of timing residuals EXCEPT:
+   A. variations in interstellar plasma
+   B. intrinsic irregularities in pulsar spin
+   C. errors in planetary ephemerides
+   D. malaria parasites altering red blood cells in the bloodstream
 
-7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Incompatible cases should be ignored to keep an explanation based on surface microscopy simple.
-   B. Aggregation guarantees that the same mechanism operates in electrochemical interfaces and everywhere else.
-   C. Some summaries seem consistent because they mix incompatible cases, not because rate enhancement uniquely identifies one mechanism.
-   D. Summaries are always reliable because averaging eliminates facet dependence.
+6. [Rhetorical Purpose] Why does the author emphasize the role of correlation among many pulsars?
+   A. Because a gravitational-wave background should produce a distinctive shared pattern that separates it from pulsar-specific noise
+   B. Because correlation is used to speed up radio pulse emission
+   C. Because one pulsar can never be timed accurately
+   D. Because only correlated errors are scientifically valuable
 
-8. [Rhetorical Purpose] In referring to a contrasting interpretation, the author intends to:
-   A. motivate clearer assumptions and stronger tests, such as comparing cases where surface microscopy constrains adsorbate coverage effects
-   B. The author argues that surface microscopy should be replaced by an unmodeled trend line because assumptions distort evidence.
-   C. The discussion suggests that adsorbate coverage effects is the phenomenon itself, so controlling for it would remove the effect of interest.
-   D. The author suggests that the key synonym 'Pt-active-site chemistry' refers to a different field altogether, not to heterogeneous catalysis on platinum surfaces.
+7. [Reference] In the passage, “the payoff” refers to:
+   A. what confirming the signal could reveal about galaxy mergers, black hole growth, and possible exotic sources
+   B. the money paid to observatories per detection
+   C. the cost of building ground-based interferometers
+   D. the nutrients plants receive from fungi
 
-9. [Factual Information] The passage indicates that comparability across cases is important mainly because:
-   A. The author suggests that disagreement disappears once rate enhancement is detected, making model assumptions unnecessary.
-   B. it prevents rate enhancement from being treated as a self-interpreting fingerprint and forces tests that control catalyst deactivation
-   C. The discussion indicates that replication is redundant if microkinetic modeling produces a tight fit on one dataset.
-   D. Because catalyst deactivation co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+8. [Organization] How is the passage primarily organized?
+   A. It introduces pulsars as precise clocks, explains how a pulsar timing array can detect very low-frequency gravitational waves through correlated timing residuals, then discusses modeling challenges and scientific implications
+   B. It recounts the life cycle of every neutron star in chronological order
+   C. It argues that gravitational waves can be detected only in laboratories
+   D. It focuses on telescope engineering while ignoring timing models
 
-10. [Reference] In the passage, the word **it** in the sentence below refers to:
-   Sentence: In surface-science experiments, it becomes plausible that researchers have treated poisoning by CO as the decisive sign of heterogeneous catalysis on platinum surfaces.
-   A. microkinetic modeling as a device rather than as an analytic approach
-   B. catalyst deactivation alone, treated as the sole cause
-   C. selectivity shifts specifically, taken as an unambiguous measurement
-   D. the idea being discussed in the surrounding sentences
+9. [Paraphrase] Which option best restates the idea that the detector is “the size of the Solar System”?
+   A. The effective measurement baseline is the Earth–pulsar path lengths and Earth’s orbit, enabling sensitivity to very long gravitational-wave periods
+   B. The array uses solar panels across the Solar System to power antennas
+   C. Pulsars physically orbit inside the Solar System to form a ring
+   D. Astronomers place detectors on every planet to listen for pulses
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Pulsars are too irregular to be useful for any measurements, so timing arrays are abandoned.
+   B. The passage explains how pulsars’ stable pulse arrival times allow astronomers to build pulsar timing arrays that search for nanohertz gravitational waves, likely from supermassive black hole binaries, by looking for a distinctive pattern of correlated timing residuals across many pulsars while correcting for interstellar and orbital effects, with potential insights into galaxy mergers and other cosmic sources.
+   C. Nanohertz gravitational waves are detected by measuring soil moisture in prairies.
+   D. Correlation is unnecessary because one pulsar provides a complete gravitational-wave spectrum.
 
 
 Answer Key
 ----------
-1: D
-2: B
-3: B
-4: B
-5: A
-6: C
-7: C
+1: A
+2: A
+3: A
+4: A
+5: D
+6: A
+7: A
 8: A
-9: B
-10: D
+9: A
+10: B

@@ -1,157 +1,140 @@
-Passage 0017: Minimum Wage Increases and Employment Elasticities (Economics)
-============================================================================
-(Word count: 774)
+Passage 0017: Predators, Prey Behavior, and Context-Dependent Trophic Cascades (Ecology)
+========================================================================================
+(Word count: 643)
 
-Despite tidy headline estimates, the central disagreement can be stated more precisely:
-researchers have treated firm entry and exit shifts as the decisive sign of minimum wage
-increases and employment elasticities. Granted that meta-analysis of policy evaluations can
-make the pattern look unusually sharp, the passage argues that such confidence is
-conditional and must be earned by specifying assumptions. the resulting debate is less about
-data collection than about what the data are evidence for; this, in turn, forces analysts to
-articulate boundary conditions rather than rely on familiar narratives.
+When large predators disappear, the change is not confined to the predator itself. It can
+propagate through prey behavior, vegetation, and even riverbanks. This propagation is
+sometimes called a trophic cascade, but the phrase can invite oversimplification, as if one
+species toggles an ecosystem like a switch. In reality, cascades unfold through a series of
+linked causes that depend on where animals move, what they eat, and how plants respond to
+browsing pressure over time.
 
-Rarely, unless analysts began combining meta-analysis of policy evaluations with cross-site
-comparisons, does one see why claims about minimum wage increases and employment
-elasticities stopped relying on a single figure and started relying on falsifiable
-predictions. the goal was to break degeneracies in which firm entry and exit shifts could be
-explained in more than one way in part because confounders like spillover effects across
-wage distribution often co-vary with the driver. as the author notes, transparency about
-priors became an empirical issue rather than a stylistic choice, which helps explain why
-changes whether two analyses are actually comparable. In this sense, labor-demand responses
-to wage floors is best treated as a conditional inference rather than as a mere label.
+Consider a landscape in which wolves have been absent for decades. Ungulates such as elk can
+become abundant, but abundance alone does not explain vegetation change. Predators also
+shape prey behavior. Without wolves, elk may spend more time in open valley bottoms where
+grasses and willows are accessible and where escape is easy. With wolves present, those same
+open areas can become risky, and elk may shift toward steeper terrain or move more
+frequently. The behavioral shift changes where browsing is concentrated even if the total
+number of elk changes only modestly.
 
-The decisive factor is methodological humility; once that is stated, the passage presents as
-the lesson of minimum wage increases and employment elasticities: inference is constrained
-by what competing models would also predict. Should one wishes to move from description to
-explanation be true, then the same observation—firm entry and exit shifts—must be paired
-with tests that change the conditions under which it appears. Whereas popular summaries
-treat firm entry and exit shifts as an endpoint is easy to measure, the passage treats it as
-a starting point for sharper experimental or observational contrasts is harder to interpret
-without assumptions.
+Such spatial redistribution matters for plants that grow slowly. Willows and aspens in
+valley bottoms can be repeatedly browsed at the same height, preventing them from escaping
+into tall stems. When browsing pressure drops—either because elk numbers decline, because
+elk spend less time in vulnerable areas, or because harsh winters interact with predation—
+young shoots can survive long enough to grow above the reach of constant browsing. [A] Once
+stems reach that threshold, a small difference in browsing can produce a large difference in
+plant structure, because the plant’s own growth then begins to outrun herbivory.
 
-In replication attempts, the central disagreement can be stated more precisely: the apparent
-consensus fractured when similar protocols were applied in settings unlike border counties
-with policy discontinuities. the same summary statistic could be reproduced while the
-underlying mechanisms differed because, as the author notes, spillover effects across wage
-distribution shifted the baseline in different directions across sites. the author therefore
-separates detection from interpretation—not treating firm entry and exit shifts as a self-
-sufficient conclusion. In this sense, employment effects of minimum wage policy is best
-treated as a conditional inference rather than as a mere label.
+The plant changes can then influence other species. Beaver colonies, for example, rely on
+willow as food and as building material. If willow stands recover, beavers can expand,
+building dams that slow streams and create wetlands. Those wetlands can support amphibians
+and alter sediment deposition. Meanwhile, denser riparian vegetation can stabilize
+riverbanks, reducing erosion and changing channel shape. [B] In this way, the predator’s
+influence can be expressed in places where the predator never spends much time, because the
+pathway runs through prey and plants.
 
-Seldom, prior to the field adopted tests that manipulate or stratify spillover effects
-across wage distribution, did investigators concede that the debate became empirically
-productive rather than merely rhetorical. [A] The discussion treats exceptions as
-informative, not as errors to be discarded. by comparing cases in which meta-analysis of
-policy evaluations constrains alternatives, researchers could ask which predictions survive
-out of sample, which helps explain why is why the passage emphasizes comparative design over
-isolated exemplars. [B] This is why the author repeatedly contrasts what is measured with
-what is inferred. While it is true that a single case can be dramatic, the author does not
-deny the value of striking examples, but warns against treating them as representative. [C]
-The author implies that replication is informative only when protocols are comparable. [D]
-The author shifts from narrative to diagnosis, focusing on what the data cannot rule out.
+Yet cascades rarely proceed cleanly. In some regions, elk may switch to other browse
+species, shifting pressure rather than removing it. In others, human hunting can reduce elk
+numbers, complicating the attribution of change to wolves alone. Climate also matters. A
+series of dry years can limit willow recovery even if browsing declines, while wetter years
+can accelerate growth. The cascade, therefore, is conditional: predators can open a door,
+but weather and habitat determine how far the system walks through it. [C]
 
-Rarely, unless the field adopted tests that manipulate or stratify spillover effects across
-wage distribution, does one see why the debate became empirically productive rather than
-merely rhetorical. by comparing cases in which meta-analysis of policy evaluations
-constrains alternatives, researchers could ask which predictions survive out of sample,
-which is why the passage emphasizes comparative design over isolated exemplars. Despite the
-fact that a single case can be dramatic, the author does not deny the value of striking
-examples, but warns against treating them as representative. In this sense, wage-floor
-induced labor-market adjustments is best treated as a conditional inference rather than as a
-mere label.
+This conditionality is precisely why trophic cascades are scientifically useful. They
+encourage ecologists to ask mechanistic questions: Did prey numbers change, prey behavior
+change, or both? Did plants cross a height threshold? Did riparian soils retain enough
+moisture to support regrowth? Answering such questions can prevent the story from becoming a
+fable and can reveal where management interventions are likely to work. If vegetation fails
+to recover, perhaps the issue is not predator presence but lack of water or continued
+browsing by another herbivore.
 
-In the end, the central disagreement can be stated more precisely: the passage concludes
-that the most informative evidence is often the evidence that forces competing assumptions
-into the open. by insisting that claims about minimum wage increases and employment
-elasticities be conditional on stated priors, it turns disagreement into a tool for
-discovery, which helps explain why clarifies why the same record can yield multiple stories
-without implying that any story is arbitrary. Though the temptation to treat a tidy plot as
-a definitive answer is strong, the result is a framework in which firm entry and exit shifts
-is interpreted through explicit boundary conditions rather than through habit.
+Seen as a chain rather than as a slogan, a cascade connects predators to landscapes through
+ordinary processes: risk, movement, feeding, growth, and engineering by other species. [D]
+The lesson is neither that wolves are magical nor that they are irrelevant. It is that
+ecosystems are networks in which removing or restoring a strong interaction can redirect
+many smaller interactions, sometimes visibly, sometimes subtly, and always in ways that
+depend on context.
+
+Time also creates surprises. Even if browsing pressure drops quickly, trees may take years
+to seed and establish, and a single flood can uproot young stems before they mature.
+Meanwhile, when ungulates concentrate in safer uplands, their grazing can alter grassland
+composition there, meaning that a “recovered” valley can coincide with a changed hillside.
+
 
 Questions
 ---------
 
-1. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [B] This is why the author repeatedly contrasts what is measured with what is inferred.
-   A. spillover effects across wage distribution alone, treated as the sole cause
-   B. firm entry and exit shifts specifically, taken as an unambiguous measurement
-   C. event-study designs as a device rather than as an analytic approach
-   D. the idea being discussed in the surrounding sentences
+1. [Rhetorical Purpose] Why does the author warn that the term “trophic cascade” can invite oversimplification?
+   A. To argue that predators have no influence on ecosystems
+   B. To emphasize that cascades depend on linked mechanisms and context rather than a single automatic switch
+   C. To claim that vegetation changes occur only because of geology
+   D. To suggest that prey behavior never changes in response to predators
 
-2. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about minimum wage increases and employment elasticities be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Aggregation guarantees that the same mechanism operates in large metropolitan labor markets and everywhere else.
-   B. Summaries are always reliable because averaging eliminates policy endogeneity.
-   C. Some summaries seem consistent because they mix incompatible cases, not because teen employment rate movement uniquely identifies one mechanism.
-   D. Incompatible cases should be ignored to keep an explanation based on synthetic control methods simple.
+2. [Vocabulary] The word “conditional” in the passage is closest in meaning to:
+   A. dependent on specific circumstances
+   B. invisible
+   C. permanent
+   D. irrelevant
 
-3. [Inference] Which of the following can be inferred from the passage?
-   A. The author treats border counties with policy discontinuities as a special case and argues that no broader inference about minimum wage increases and employment elasticities is possible.
-   B. A convincing explanation should make distinct predictions under shared protocols, especially when policy endogeneity can mimic teen employment rate movement.
-   C. The passage claims that the best strategy is to average away policy endogeneity, since variability is merely a measurement error.
-   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving event-study designs.
-
-4. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: As a result, the most valuable observations are often taken during transitions, when competing mechanisms diverge most clearly.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: The change is as much about fear as it is about appetite.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-5. [Rhetorical Purpose] What function does the comparison with another theory perform in the argument?
-   A. motivate clearer assumptions and stronger tests, such as comparing cases where meta-analysis of policy evaluations constrains measurement error in employment data
-   B. The passage treats wage compression patterns as a confounder and measurement error in employment data as the diagnostic signal that identifies the mechanism.
-   C. The passage implies that large metropolitan labor markets is chosen to avoid bias, so comparisons across settings are unnecessary.
-   D. The discussion suggests that measurement error in employment data is the phenomenon itself, so controlling for it would remove the effect of interest.
+4. [Factual] According to the passage, how can predators influence where browsing occurs even if elk numbers do not change dramatically?
+   A. By altering elk movement and habitat use, shifting browsing pressure spatially
+   B. By converting elk directly into beavers
+   C. By increasing rainfall in valley bottoms
+   D. By preventing plants from growing above browsing height
 
-6. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | event-study designs | Requires careful calibration |
-   | Signal | teen employment rate movement | May be muted by other processes |
-   | Confounder | measurement error in employment data | Changes the apparent slope |
-   Blank: The limitation for 'Method' is ________.
-   A. Requires careful calibration
-   B. It proves teen employment rate movement is unique.
-   C. Changes the apparent slope
-   D. It makes policy endogeneity irrelevant.
+5. [Inference] What can be inferred about why a plant height threshold matters for willow recovery?
+   A. Once stems grow beyond frequent browsing height, plant growth can outpace herbivory and structural change can accelerate
+   B. Height thresholds prevent beavers from using willow as building material
+   C. Tall stems always attract more browsing pressure from elk
+   D. Plant thresholds matter only when wolves are absent
 
-7. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage examines minimum wage increases and employment elasticities and argues that changes in hours worked is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how regional cost-of-living heterogeneity can shift the baseline, especially when evidence is drawn from border counties with policy discontinuities. Finally, it maintains that tests combining event-study designs with boundary-condition checks are required to make claims about labor-demand responses to wage floors robust.
-   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats event-study designs as a historical curiosity and does not discuss changes in hours worked or regional cost-of-living heterogeneity. It ends without any methodological implication.
-   C. The passage argues that wage-floor induced labor-market adjustments cannot be studied empirically because confounders like regional cost-of-living heterogeneity make data meaningless. It recommends replacing measurement with intuition and rejecting event-study designs as unreliable. It concludes that debate persists because evidence never constrains theory.
-   D. The passage claims that employment effects of minimum wage policy is settled because changes in hours worked uniquely identifies the mechanism. It argues that regional cost-of-living heterogeneity is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using event-study designs are unnecessary.
+6. [Negative Factual] All of the following are mentioned as factors that can complicate cascades EXCEPT:
+   A. human hunting
+   B. climate variation such as dry or wet years
+   C. prey switching to other browse species
+   D. the alignment of exoplanet orbital planes
 
-8. [Vocabulary] In the passage, the word **degenerate** in the sentence below is closest in meaning to:
-   Sentence: Whereas popular summaries treat firm entry and exit shifts as an endpoint is easy to measure, the passage treats it as a starting point for sharper experimental or observational contrasts is harder to interpret without assumptions.
-   A. irrelevant to minimum wage increases and employment elasticities, serving only as background detail
-   B. unavoidable and uncontrollable because regional cost-of-living heterogeneity dominates all evidence
-   C. not uniquely determined
-   D. complete and final, so no further checks like difference-in-differences estimation are needed
+7. [Reference] In the passage, “those wetlands” refers to wetlands created by:
+   A. wolves digging dens along streams
+   B. beaver dams built after willow recovery
+   C. elk migration routes through mountains
+   D. erosion removing riverbanks
 
-9. [Factual Information] The passage indicates that comparability across cases is important mainly because:
-   A. Since wage compression patterns is observed in retail and food-service sectors, it must generalize to every setting, regardless of boundary conditions.
-   B. The discussion indicates that replication is redundant if synthetic control methods produces a tight fit on one dataset.
-   C. Because regional cost-of-living heterogeneity co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
-   D. it prevents wage compression patterns from being treated as a self-interpreting fingerprint and forces tests that control regional cost-of-living heterogeneity
+8. [Organization] How is the passage primarily organized?
+   A. It explains behavioral and numerical pathways from predators to plants, then traces consequences through beavers and rivers, and finally discusses why outcomes vary with context
+   B. It lists animal names without causal connections
+   C. It describes only wolf hunting tactics
+   D. It provides a climate-only explanation for vegetation change
 
-10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. Minimum Wage Increases and Employment Elasticities
-   B. the length of the Nile in miles
-   C. changes in hours worked
-   D. administrative payroll data analysis
+9. [Paraphrase] Which option best restates the idea that predators can “open a door” but context determines how far change goes?
+   A. Predators can reduce browsing pressure, but plant recovery still depends on moisture, habitat, and other interacting forces
+   B. Predators guarantee identical outcomes in every ecosystem
+   C. Context does not matter once a predator returns
+   D. Plants recover only through genetic mutation after predation
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Wolves cause vegetation to recover automatically, so climate and human hunting are irrelevant.
+   B. The passage explains trophic cascades as linked mechanisms in which predators affect prey behavior and numbers, altering browsing and allowing vegetation and species like beavers to change landscapes, while emphasizing that outcomes vary with climate, hunting, and other contextual factors.
+   C. Predators influence ecosystems only by eating plants directly.
+   D. Elk always browse the same areas regardless of risk, so predator reintroduction has no effects.
 
 
 Answer Key
 ----------
-1: D
-2: C
-3: B
+1: B
+2: A
+3: A
 4: A
 5: A
-6: A
-7: A
-8: C
-9: D
+6: D
+7: B
+8: A
+9: A
 10: B

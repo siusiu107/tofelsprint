@@ -1,152 +1,136 @@
-Passage 0005: Subduction-Zone Megathrust Earthquakes and Slow Slip (Geology)
-============================================================================
-(Word count: 798)
+Passage 0005: Expectations, Contracts, and the Making of Inflation Spirals (Economics)
+======================================================================================
+(Word count: 606)
 
-In hazard assessments, the central disagreement can be stated more precisely: researchers
-have treated low-frequency tremor bursts as the decisive sign of subduction-zone megathrust
-earthquakes and slow slip. inversion of seismic waveforms can make the pattern look
-unusually sharp; still, the passage argues that such confidence is conditional and must be
-earned by specifying assumptions. the resulting debate is less about data collection than
-about what the data are evidence for, something that forces analysts to articulate boundary
-conditions rather than rely on familiar narratives. Rarely, unless the field adopted tests
-that manipulate or stratify locked versus creeping patches, does one see why the debate
-became empirically productive rather than merely rhetorical. by comparing cases in which
-inversion of seismic waveforms constrains alternatives, researchers could ask which
-predictions survive out of sample, something that is why the passage emphasizes comparative
-design over isolated exemplars. Despite the fact that a single case can be dramatic, the
-author does not deny the value of striking examples, but warns against treating them as
-representative. In this sense, megathrust rupture dynamics is best treated as a conditional
-inference rather than as a mere label. Only after analysts began combining inversion of
-seismic waveforms with cross-site comparisons did claims about subduction-zone megathrust
-earthquakes and slow slip stopped relying on a single figure and started relying on
-falsifiable predictions. the goal was to break degeneracies in which low-frequency tremor
-bursts could be explained in more than one way because confounders like locked versus
-creeping patches often co-vary with the driver. as the author notes, transparency about
-priors became an empirical issue rather than a stylistic choice, which is precisely why
-changes whether two analyses are actually comparable. What matters most is methodological
-humility, which is why the passage presents as the lesson of subduction-zone megathrust
-earthquakes and slow slip: inference is constrained by what competing models would also
-predict. If one wishes to move from description to explanation is granted, then the same
-observation—low-frequency tremor bursts—must be paired with tests that change the conditions
-under which it appears. Whereas popular summaries treat low-frequency tremor bursts as an
-endpoint looks decisive, the passage treats it as a starting point for sharper experimental
-or observational contrasts becomes more predictive under replication. Only after analysts
-began combining inversion of seismic waveforms with cross-site comparisons did the earlier
-interpretation begin to look fragile, so claims about subduction-zone megathrust earthquakes
-and slow slip stopped relying on a single figure and started relying on falsifiable
-predictions. The passage argues that the goal was to break degeneracies in which low-
-frequency tremor bursts could be explained in more than one way because confounders like
-locked versus creeping patches often co-vary with the driver. as the author notes,
-transparency about priors became an empirical issue rather than a stylistic choice; this, in
-turn, changes whether two analyses are actually comparable. In this sense, episodic tremor
-and slip is best treated as a conditional inference rather than as a mere label. In
-replication attempts, one sees why the apparent consensus fractured when similar protocols
-were applied in settings unlike the Chilean margin. [A] The passage frames uncertainty as an
-ingredient of inference rather than as an embarrassment. the same summary statistic could be
-reproduced while the underlying mechanisms differed largely because locked versus creeping
-patches shifted the baseline in different directions across sites. [B] The author treats
-this as a clue rather than as a nuisance. the author therefore separates detection from
-interpretation, not because treating low-frequency tremor bursts as a self-sufficient
-conclusion, but because the assumptions differ. [C] This is presented not as a loophole, but
-as a disciplined way to avoid overclaiming. [D] This reasoning matters because it changes
-what counts as a decisive test. Only through the field adopted tests that manipulate or
-stratify locked versus creeping patches could one reasonably claim that the debate became
-empirically productive rather than merely rhetorical. by comparing cases in which inversion
-of seismic waveforms constrains alternatives, researchers could ask which predictions
-survive out of sample; this, in turn, is why the passage emphasizes comparative design over
-isolated exemplars. Admittedly, a single case can be dramatic; nevertheless, the author does
-not deny the value of striking examples, but warns against treating them as representative.
-In this sense, slow-slip events on plate interfaces is best treated as a conditional
-inference rather than as a mere label. In the end, the passage concludes that the most
-informative evidence is often the evidence that forces competing assumptions into the open.
-by insisting that claims about subduction-zone megathrust earthquakes and slow slip be
-conditional on stated priors, it turns disagreement into a tool for discovery, which forces
-analysts to admit that clarifies why the same record can yield multiple stories without
-implying that any story is arbitrary.
+Inflation is often introduced as a simple rise in prices, but the more important question is
+why prices rise in a way that becomes self-sustaining. A shopkeeper who raises prices once
+because shipping costs spike is not necessarily participating in an inflationary spiral. A
+spiral emerges when expectations reshape behavior: workers demand higher wages because they
+anticipate higher living costs; firms raise prices because they anticipate higher wage
+bills; and both sides treat those anticipations as prudent, not speculative. In other words,
+the future becomes an input to the present.
+
+Expectations matter because many prices are not set continuously. Wages are negotiated
+periodically, rents are fixed in contracts, and even restaurant menus are updated in
+batches. When economic agents suspect that costs will rise before the next renegotiation,
+they try to preempt the loss. Workers seek cost‑of‑living adjustments, firms build in a
+cushion, and landlords prefer shorter leases. These choices can be individually reasonable
+while collectively pushing the price level upward.
+
+Yet expectations do not float free. They are anchored—or unanchored—by experiences and
+signals. In a period where prices have been stable for decades, a temporary shock may be
+treated as noise. By contrast, in a period where households have watched groceries and
+energy prices climb month after month, the same temporary shock can be read as confirmation
+that “things are getting worse,” altering bargaining behavior. [A] Surveys of households
+frequently show this asymmetry: recent price increases in salient goods weigh more heavily
+than abstract assurances about long-run stability. [B] The mechanism is cognitive as much as
+economic, because people infer the future from what they encounter most often. [C]
+
+Firms, for their part, respond not only to costs but also to the risk of being the last to
+adjust. If a firm delays a price increase while competitors move first, it can be squeezed:
+costs rise while revenue lags. When many firms share that fear, they update prices earlier
+and more frequently, which itself makes price changes more visible to consumers, feeding
+expectation shifts. That feedback is especially strong in sectors where prices are posted
+and compared publicly, such as fuel stations, because consumers can watch adjustments in
+real time and interpret them as signals of a broader trend.
+
+However, inflation expectations can also soften. If wage growth slows, if energy prices
+retreat, and if firms begin to believe that consumers will resist further increases, then
+the incentive to “preload” prices diminishes. In such cases, contracts are renewed with
+smaller adjustments, and the pace of price updating decelerates. [D] The key point is that
+inflation is not merely a list of higher numbers; it is a pattern of decisions made under
+uncertainty, shaped by what people believe will happen before the next contract, menu
+update, or pay negotiation.
+
+Understanding inflation therefore requires tracking the causal bridge between experience and
+expectation. When salient prices rise repeatedly, expectations harden; when expectations
+harden, bargaining and pricing strategies shift; when strategies shift, price changes become
+more frequent and visible. The spiral is not inevitable, but it is intelligible: it is
+produced by ordinary actors trying to protect themselves against anticipated loss.
+
+Contracts can amplify these dynamics through indexation. When leases, supply agreements, or
+wage deals are written to adjust automatically with a price index, today’s increases
+mechanically become tomorrow’s increases, reducing the need to renegotiate but also reducing
+the system’s ability to cool quickly. Retailers may also respond by changing package size
+rather than sticker price, but consumers who notice “shrinkage” can interpret it as another
+sign that inflation is entrenched, which can harden expectations even when official prices
+move more slowly.
+
 
 Questions
 ---------
 
-1. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about subduction-zone megathrust earthquakes and slow slip be conditional on stated priors, it turns disagreement into a tool for discovery, which forces analysts to admit that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Aggregation guarantees that the same mechanism operates in the Chilean margin and everywhere else.
-   B. Summaries are always reliable because averaging eliminates fluid overpressure in faults.
-   C. Some summaries seem consistent because they mix incompatible cases, not because low-frequency tremor bursts uniquely identifies one mechanism.
-   D. Incompatible cases should be ignored to keep an explanation based on numerical rupture simulations simple.
+1. [Vocabulary] The word “preempt” in the passage is closest in meaning to:
+   A. to prevent or act before something happens
+   B. to ignore completely
+   C. to celebrate publicly
+   D. to postpone indefinitely
 
-2. [Factual Information] According to the passage, why does the author emphasize replication across contexts?
-   A. Since transient surface deformation is observed in the Cascadia subduction zone, it must generalize to every setting, regardless of boundary conditions.
-   B. Because transient surface deformation appears, the mechanism must be unique, so stress transfer after large events can be ignored as irrelevant noise.
-   C. The author suggests that disagreement disappears once transient surface deformation is detected, making model assumptions unnecessary.
-   D. it prevents transient surface deformation from being treated as a self-interpreting fingerprint and forces tests that control stress transfer after large events
+2. [Rhetorical Purpose] Why does the author mention that many prices are updated in batches rather than continuously?
+   A. To show why anticipating future costs can influence present negotiations and price setting
+   B. To argue that inflation has nothing to do with wages or contracts
+   C. To claim that menus determine all macroeconomic outcomes
+   D. To suggest that prices never change in stable economies
 
-3. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage examines subduction-zone megathrust earthquakes and slow slip and argues that low-frequency tremor bursts is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how fluid overpressure in faults can shift the baseline, especially when evidence is drawn from the Cascadia subduction zone. Finally, it maintains that tests combining numerical rupture simulations with boundary-condition checks are required to make claims about megathrust rupture dynamics robust.
-   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats numerical rupture simulations as a historical curiosity and does not discuss low-frequency tremor bursts or fluid overpressure in faults. It ends without any methodological implication.
-   C. The passage claims that episodic tremor and slip is settled because low-frequency tremor bursts uniquely identifies the mechanism. It argues that fluid overpressure in faults is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using numerical rupture simulations are unnecessary.
-   D. The passage argues that slow-slip events on plate interfaces cannot be studied empirically because confounders like fluid overpressure in faults make data meaningless. It recommends replacing measurement with intuition and rejecting numerical rupture simulations as unreliable. It concludes that debate persists because evidence never constrains theory.
+3. [Negative Factual] All of the following are cited as reasons expectations can become stronger EXCEPT:
+   A. repeated increases in salient goods like groceries and energy
+   B. publicly visible posted prices such as fuel
+   C. fear of being the last firm to adjust prices
+   D. the presence of a single unobserved shock that households never notice
 
-4. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: As a result, the most valuable observations are often taken during transitions, when competing mechanisms diverge most clearly.
+4. [Inference] What can be inferred from the passage about a sector with highly visible posted prices?
+   A. Frequent visible adjustments may reinforce consumer beliefs that broader inflation is underway
+   B. Posted prices prevent firms from changing prices at all
+   C. Consumers in such sectors are less likely to form expectations about the future
+   D. Visibility eliminates competition among firms
+
+5. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: As a result, a household’s daily shopping basket can shape its sense of the economy more than official reports do.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-5. [Rhetorical Purpose] Why does the author discuss competing theories?
-   A. motivate clearer assumptions and stronger tests, such as comparing cases where numerical rupture simulations constrains locked versus creeping patches
-   B. The author argues that numerical rupture simulations should be replaced by an unmodeled trend line because assumptions distort evidence.
-   C. The passage implies that the Chilean margin is chosen to avoid bias, so comparisons across settings are unnecessary.
-   D. The discussion suggests that locked versus creeping patches is the phenomenon itself, so controlling for it would remove the effect of interest.
+6. [Factual] According to the passage, what helps turn a one-time cost shock into a spiral?
+   A. Expectations that lead workers and firms to adjust wages and prices in advance of future costs
+   B. A permanent ban on contracts
+   C. A decline in menu prices
+   D. An increase in the number of competitors, regardless of costs
 
-6. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [C] This is presented not as a loophole, but as a disciplined way to avoid overclaiming.
-   A. foreshock clustering specifically, taken as an unambiguous measurement
-   B. seafloor pressure sensors as a device rather than as an analytic approach
-   C. locked versus creeping patches alone, treated as the sole cause
-   D. the idea being discussed in the surrounding sentences
+7. [Reference] In the sentence “they update prices earlier and more frequently,” the word “they” refers to:
+   A. consumers watching fuel prices
+   B. firms responding to the risk of delayed adjustment
+   C. contracts that fix rents
+   D. surveys that measure household beliefs
 
-7. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. low-frequency tremor bursts
-   B. the price of coal in 1700
-   C. seafloor pressure sensors
-   D. Subduction-Zone Megathrust Earthquakes and Slow Slip
+8. [Organization] How does the author develop the explanation of inflation?
+   A. By moving from a definition to the role of expectations, then to how experiences shape beliefs, and finally to how behavior can also reverse
+   B. By listing inflation rates by country without explaining mechanisms
+   C. By describing only government budgets
+   D. By focusing solely on shipping costs
 
-8. [Vocabulary] In the passage, the word **preliminary** in the sentence below is closest in meaning to:
-   Sentence: the same summary statistic could be reproduced while the underlying mechanisms differed largely because locked versus creeping patches shifted the baseline in different directions across sites.
-   A. complete and final, so no further checks like seafloor pressure sensors are needed
-   B. unavoidable and uncontrollable because heterogeneous frictional properties dominates all evidence
-   C. early
-   D. irrelevant to subduction-zone megathrust earthquakes and slow slip, serving only as background detail
+9. [Paraphrase] Which option best restates the idea that “the future becomes an input to the present”?
+   A. People act today based on what they believe costs and prices will be before the next negotiation
+   B. Only past prices matter for current decisions
+   C. Contracts eliminate uncertainty about future costs
+   D. Inflation is determined only by currency design
 
-9. [Inference] The passage suggests which of the following?
-   A. The passage suggests that transient surface deformation is primarily a rhetorical device rather than an empirical constraint on models.
-   B. A convincing explanation should make distinct predictions under shared protocols, especially when fluid overpressure in faults can mimic transient surface deformation.
-   C. The author treats Sumatra–Andaman as a special case and argues that no broader inference about subduction-zone megathrust earthquakes and slow slip is possible.
-   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using seafloor pressure sensors.
-
-10. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | continuous GPS geodesy | Depends on modeling priors |
-   | Signal | foreshock clustering | Can be degenerate with another effect |
-   | Confounder | stress transfer after large events | Shifts the baseline |
-   Blank: The limitation for 'Method' is ________.
-   A. It replaces numerical rupture simulations with intuition.
-   B. It proves transient surface deformation is unique.
-   C. It makes locked versus creeping patches irrelevant.
-   D. Depends on modeling priors
+10. [Summary] Which statement best summarizes the passage?
+   A. Inflation is simply higher prices caused by shipping costs, and expectations play no role.
+   B. The passage argues that inflation can become self-sustaining when experiences shape expectations, expectations shape wage and pricing decisions, and visible price adjustments reinforce beliefs, though the pattern can soften when incentives and beliefs change.
+   C. Inflation occurs only in sectors with hidden prices and cannot be seen by consumers.
+   D. Price stability requires that all wages be renegotiated daily.
 
 
 Answer Key
 ----------
-1: C
-2: D
-3: A
-4: C
-5: A
-6: D
+1: A
+2: A
+3: D
+4: A
+5: B
+6: A
 7: B
-8: C
-9: B
-10: D
+8: A
+9: A
+10: B

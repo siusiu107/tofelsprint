@@ -1,150 +1,140 @@
-Passage 0024: Cognitive Dissonance and Post-Decision Rationalization (Psychology)
-=================================================================================
-(Word count: 762)
+Passage 0024: C4 Photosynthesis as a Biochemical Response to Heat and Drought (Botany)
+======================================================================================
+(Word count: 637)
 
-From a cognitive-control perspective, the central disagreement can be stated more precisely:
-researchers have treated selective memory for supporting evidence as the decisive sign of
-cognitive dissonance and post-decision rationalization. Admittedly, longitudinal attitude
-surveys can make the pattern look unusually sharp; nevertheless, the passage argues that
-such confidence is conditional and must be earned by specifying assumptions. the resulting
-debate is less about data collection than about what the data are evidence for, which is
-precisely why forces analysts to articulate boundary conditions rather than rely on familiar
-narratives. If anything is responsible, it is methodological humility, and therefore the
-passage presents as the lesson of cognitive dissonance and post-decision rationalization:
-inference is constrained by what competing models would also predict. Unless one wishes to
-move from description to explanation, then the same observation—selective memory for
-supporting evidence—must be paired with tests that change the conditions under which it
-appears cannot be claimed with confidence. Whereas popular summaries treat selective memory
-for supporting evidence as an endpoint looks decisive, the passage treats it as a starting
-point for sharper experimental or observational contrasts becomes more predictive under
-replication. In this sense, post-choice attitude change is best treated as a conditional
-inference rather than as a mere label. It is the apparent regularity of selective memory for
-supporting evidence that drives the first interpretation: selective memory for supporting
-evidence is treated as a direct readout of mechanism. Unless selective memory for supporting
-evidence is uniquely produced by one causal pathway, then observations from cross-national
-survey samples would be transferable, and disagreement would be largely technical cannot be
-claimed with confidence. Not the caveat that cultural norms about consistency might
-reproduce the same pattern, but the literature is full of such claims. While it is true that
-the first model can fit one dataset extremely well, the passage insists that uniqueness is
-precisely what must be shown, not assumed. [A] This reasoning matters because it changes
-what counts as a decisive test. it highlights how cultural norms about consistency can shift
-baselines, altering whether selective memory for supporting evidence is even comparable
-across cases, an outcome that means that a good fit is not the same as a good explanation.
-[B] Later comparisons reveal why this matters. If cultural norms about consistency is
-changed while the nominal driver remains constant is granted, one should expect different
-outcomes when conditions are perturbed. [C] The discussion makes clear that measurement
-choices can masquerade as mechanism. [D] The passage highlights that mechanism claims must
-survive out-of-sample checks. Using longitudinal attitude surveys under stable conditions,
-the key question becomes whether one frequently cited case from cross-national survey
-samples appeared to support the direct-readout view. Even if the original fit looked
-visually decisive, later, however, reanalysis showed that small shifts in cultural norms
-about consistency altered the baseline enough to mute or mimic selective memory for
-supporting evidence. the passage treats this episode as diagnostic, which illustrates why
-boundary conditions must be specified before generalization is attempted. In this sense,
-dissonance reduction after decisions is best treated as a conditional inference rather than
-as a mere label. Rarely has it been the case that claims about cognitive dissonance and
-post-decision rationalization stopped relying on a single figure and started relying on
-falsifiable predictions, at least before analysts began combining longitudinal attitude
-surveys with cross-site comparisons. the goal was to break degeneracies in which selective
-memory for supporting evidence could be explained in more than one way largely because
-confounders like cultural norms about consistency often co-vary with the driver. as the
-author notes, transparency about priors became an empirical issue rather than a stylistic
-choice, a move that changes whether two analyses are actually comparable. Only by analysts
-began combining longitudinal attitude surveys with cross-site comparisons was the field
-forced to accept that claims about cognitive dissonance and post-decision rationalization
-stopped relying on a single figure and started relying on falsifiable predictions. the goal
-was to break degeneracies in which selective memory for supporting evidence could be
-explained in more than one way because confounders like cultural norms about consistency
-often co-vary with the driver, which is why replication matters. as the author notes,
-transparency about priors became an empirical issue rather than a stylistic choice, which
-changes whether two analyses are actually comparable. In this sense, self-justification
-mechanisms is best treated as a conditional inference rather than as a mere label. In the
-end, one sees why the passage concludes that the most informative evidence is often the
-evidence that forces competing assumptions into the open.
+Photosynthesis is often summarized as plants “turning sunlight into sugar,” but the chemical
+path from light to biomass is shaped by a persistent complication: the enzyme that captures
+carbon dioxide can also capture oxygen. In most plants, the enzyme RuBisCO fixes carbon
+dioxide in a cycle known as C3 photosynthesis. RuBisCO, however, is not perfectly selective.
+When it binds oxygen instead of carbon dioxide, it triggers photorespiration, a process that
+consumes energy and releases previously fixed carbon. Photorespiration is not a minor
+inefficiency; under hot, dry conditions it can drain a significant fraction of the plant’s
+potential productivity.
+
+C4 photosynthesis evolved as a biochemical workaround. Instead of relying on RuBisCO alone
+in the same cells where air enters, C4 plants first capture carbon dioxide into a four-
+carbon compound using a different enzyme that does not react with oxygen. They then deliver
+that compound to specialized bundle-sheath cells, where carbon dioxide is released at high
+concentration around RuBisCO. By raising the local carbon dioxide level, C4 plants suppress
+photorespiration: RuBisCO is fed what it is meant to bind. The plant is, in effect, paying
+an energetic cost to run a carbon concentrating system in order to avoid a larger cost
+later.
+
+This design interacts with climate through water. When stomata—the pores that admit carbon
+dioxide—open, water vapor escapes. In hot or arid environments, plants may partially close
+stomata to conserve water, but closing stomata lowers internal carbon dioxide, which makes
+photorespiration more likely in C3 plants. [A] Because C4 plants can concentrate carbon
+dioxide internally, they can maintain carbon fixation even when stomata are less open,
+improving water-use efficiency. This is why many C4 grasses dominate warm savannas and
+tropical grasslands.
+
+The trade-off is that the concentrating machinery costs ATP, so in cool, moist, and shaded
+environments, C3 plants can outcompete C4 plants because the photorespiration penalty is
+smaller and the extra C4 steps are not worth paying for. Temperature and carbon dioxide
+levels both matter. When atmospheric carbon dioxide is high, C3 plants suffer less from
+photorespiration because RuBisCO encounters carbon dioxide more often. When carbon dioxide
+is low, C4 advantages grow. This is one reason paleobotanists link the expansion of C4
+grasslands in Earth’s past to changes in atmospheric carbon dioxide and to the spread of
+open habitats.
+
+Agricultural consequences follow. Maize and sugarcane are C4 crops and often yield well in
+hot climates, while rice and wheat are C3 crops and can be more sensitive to heat stress
+that increases photorespiration. Yet crops are not locked into a single destiny. Breeding
+can improve heat tolerance, and irrigation can reduce water stress, altering the relative
+advantages. Moreover, rising atmospheric carbon dioxide could, in principle, benefit C3
+crops by reducing photorespiration, though heat waves and drought can offset that benefit.
+[B] The net outcome depends on how multiple drivers combine on plant physiology and on farm
+practices.
+
+A useful fingerprint of these pathways appears in carbon isotopes. Because enzymes
+discriminate slightly between carbon isotopes, C3 and C4 plants leave different ratios of
+carbon‑13 to carbon‑12 in their tissues. Ecologists can measure these ratios in soil organic
+matter or in the enamel of grazing animals to infer which photosynthetic strategy dominated
+an ancient landscape. In modern settings, isotope maps help track how grasslands respond to
+warming or to shifts in rainfall, linking leaf-level chemistry to regional change.
+
+The deeper lesson is that photosynthesis is not one universal recipe. It is a family of
+strategies shaped by oxygen, temperature, and water availability. [C] By building a
+biochemical pump, C4 plants changed the terms of the carbon-oxygen competition inside their
+leaves. The result is visible at continental scale: grasslands where C4 species thrive,
+forests where C3 species dominate, and cropping systems that reflect the hidden chemistry of
+a single enzyme’s preferences. [D]
+
 
 Questions
 ---------
 
-1. [Factual Information] According to the passage, why does the author emphasize instrument calibration?
-   A. The author suggests that disagreement disappears once shifted confidence judgments is detected, making model assumptions unnecessary.
-   B. it prevents shifted confidence judgments from being treated as a self-interpreting fingerprint and forces tests that control self-concept threat
-   C. Since shifted confidence judgments is observed in cross-national survey samples, it must generalize to every setting, regardless of boundary conditions.
-   D. Because shifted confidence judgments appears, the mechanism must be unique, so self-concept threat can be ignored as irrelevant noise.
+1. [Vocabulary] The word “selective” in the passage is closest in meaning to:
+   A. able to choose one substance over another
+   B. highly visible
+   C. physically large
+   D. completely reversible
 
-2. [Vocabulary] In the passage, the word **ambiguous** in the sentence below is closest in meaning to:
-   Sentence: [B] Later comparisons reveal why this matters.
-   A. unclear
-   B. complete and final, so no further checks like behavioral priming designs are needed
-   C. irrelevant to cognitive dissonance and post-decision rationalization, serving only as background detail
-   D. unavoidable and uncontrollable because public versus private commitment dominates all evidence
+2. [Factual] According to the passage, what problem does photorespiration create for many C3 plants?
+   A. It wastes energy and releases previously fixed carbon when RuBisCO binds oxygen
+   B. It increases carbon fixation by concentrating carbon dioxide
+   C. It prevents water loss by keeping stomata closed
+   D. It eliminates the need for ATP in the Calvin cycle
 
-3. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [A] This reasoning matters because it changes what counts as a decisive test.
-   A. behavioral priming designs as a device rather than as an analytic approach
-   B. the idea being discussed in the surrounding sentences
-   C. self-concept threat alone, treated as the sole cause
-   D. shifted confidence judgments specifically, taken as an unambiguous measurement
-
-4. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage claims that dissonance reduction after decisions is settled because shifted confidence judgments uniquely identifies the mechanism. It argues that public versus private commitment is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using meta-analytic synthesis are unnecessary.
-   B. The passage argues that self-justification mechanisms cannot be studied empirically because confounders like public versus private commitment make data meaningless. It recommends replacing measurement with intuition and rejecting meta-analytic synthesis as unreliable. It concludes that debate persists because evidence never constrains theory.
-   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats meta-analytic synthesis as a historical curiosity and does not discuss shifted confidence judgments or public versus private commitment. It ends without any methodological implication.
-   D. The passage examines cognitive dissonance and post-decision rationalization and argues that shifted confidence judgments is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how public versus private commitment can shift the baseline, especially when evidence is drawn from cross-national survey samples. Finally, it maintains that tests combining meta-analytic synthesis with boundary-condition checks are required to make claims about post-choice attitude change robust.
-
-5. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. behavioral priming designs
-   B. Cognitive Dissonance and Post-Decision Rationalization
-   C. selective memory for supporting evidence
-   D. the price of coal in 1700
-
-6. [Inference] The passage suggests which of the following?
-   A. A convincing explanation should make distinct predictions under shared protocols, especially when cultural norms about consistency can mimic selective memory for supporting evidence.
-   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving meta-analytic synthesis.
-   C. The passage claims that the best strategy is to average away cultural norms about consistency, since variability is merely a measurement error.
-   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using meta-analytic synthesis.
-
-7. [Rhetorical Purpose] By bringing up competing viewpoints, the author is trying to:
-   A. motivate clearer assumptions and stronger tests, such as comparing cases where behavioral priming designs constrains self-concept threat
-   B. The passage implies that workplace decision settings is chosen to avoid bias, so comparisons across settings are unnecessary.
-   C. The discussion suggests that self-concept threat is the phenomenon itself, so controlling for it would remove the effect of interest.
-   D. The author argues that behavioral priming designs should be replaced by an unmodeled trend line because assumptions distort evidence.
-
-8. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: it highlights how cultural norms about consistency can shift baselines, altering whether selective memory for supporting evidence is even comparable across cases, an outcome that means that a good fit is not the same as a good explanation.
-   A. Summaries are always reliable because averaging eliminates measurement reactivity.
-   B. Incompatible cases should be ignored to keep an explanation based on choice-induced preference paradigms simple.
-   C. Some summaries seem consistent because they mix incompatible cases, not because devaluation of rejected alternatives uniquely identifies one mechanism.
-   D. Aggregation guarantees that the same mechanism operates in political opinion panels and everywhere else.
-
-9. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: The author notes that a single dramatic example can mislead if it is treated as representative rather than as diagnostic.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: In that situation, oxygen becomes a more frequent competitor for RuBisCO’s active site.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-10. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | behavioral priming designs | Can introduce systematic bias |
-   | Signal | increased liking for chosen options | Can be contaminated by background variability |
-   | Confounder | measurement reactivity | Shifts the baseline |
-   Blank: The limitation for 'Confounder' is ________.
-   A. It replaces choice-induced preference paradigms with intuition.
-   B. Can be contaminated by background variability
-   C. Shifts the baseline
-   D. Can introduce systematic bias
+4. [Inference] What can be inferred about why C4 plants often dominate warm grasslands?
+   A. Their carbon-concentrating system reduces photorespiration and allows efficient carbon fixation with less stomatal opening
+   B. They require no water to photosynthesize
+   C. They avoid using RuBisCO entirely
+   D. They are always superior regardless of temperature
+
+5. [Negative Factual] All of the following are described as influencing C3 versus C4 advantage EXCEPT:
+   A. temperature
+   B. water availability through stomatal behavior
+   C. atmospheric carbon dioxide levels
+   D. the speed of sound in air
+
+6. [Rhetorical Purpose] Why does the author mention crops such as maize, rice, and wheat?
+   A. To show that biochemical pathways have practical consequences for agricultural performance under different climates
+   B. To argue that all crops are C4 plants
+   C. To claim that irrigation cannot change outcomes
+   D. To suggest that plant physiology is independent of chemistry
+
+7. [Reference] In the passage, “this design” refers to:
+   A. the separation of initial carbon capture and RuBisCO activity that concentrates carbon dioxide
+   B. the use of oxygen as a fertilizer
+   C. the closing of stomata permanently
+   D. the elimination of bundle-sheath cells
+
+8. [Organization] How is the passage primarily organized?
+   A. It introduces RuBisCO’s oxygen problem, explains the C4 workaround, then links the trade-offs to climate, ecology, and agriculture
+   B. It lists plant names without mechanisms
+   C. It focuses only on paleobotany with no physiology
+   D. It argues that oxygen does not affect photosynthesis
+
+9. [Paraphrase] Which option best restates the claim that C4 plants “pay an energetic cost” to avoid a larger one?
+   A. They spend extra ATP to concentrate carbon dioxide, reducing bigger losses from photorespiration
+   B. They sacrifice all sugar production to conserve energy
+   C. They avoid ATP entirely by switching enzymes
+   D. They convert oxygen directly into carbon dioxide
+
+10. [Summary] Which statement best summarizes the passage?
+   A. C4 photosynthesis evolved because RuBisCO cannot bind carbon dioxide in any plant.
+   B. The passage explains that C3 plants lose efficiency when RuBisCO fixes oxygen, and that C4 plants evolved a carbon-concentrating mechanism that improves performance in hot, dry conditions while carrying an energetic cost that makes C3 advantageous in cooler, moist settings, with implications for ecosystems and crops.
+   C. Photorespiration increases in cool shade, so C4 plants dominate forests.
+   D. Atmospheric carbon dioxide has no influence on the balance between C3 and C4 strategies.
 
 
 Answer Key
 ----------
-1: B
+1: A
 2: A
-3: B
-4: D
+3: A
+4: A
 5: D
 6: A
 7: A
-8: C
-9: D
-10: C
+8: A
+9: A
+10: B

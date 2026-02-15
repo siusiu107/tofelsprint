@@ -1,155 +1,139 @@
-Passage 0091: Superconducting Phase Transitions in Cuprates (Physics)
-=====================================================================
-(Word count: 711)
+Passage 0091: Columnar Basalt and the Geometry of Cooling Fractures (Geology)
+=============================================================================
+(Word count: 642)
 
-Despite textbook expectations, researchers have treated vortex dynamics as the decisive sign
-of superconducting phase transitions in cuprates. Despite the fact that transport
-measurements can make the pattern look unusually sharp, the passage argues that such
-confidence is conditional and must be earned by specifying assumptions. the resulting debate
-is less about data collection than about what the data are evidence for, which is precisely
-why forces analysts to articulate boundary conditions rather than rely on familiar
-narratives.
+Walk along a cliff made of basalt, and you may find the rock broken into a honeycomb of
+tall, polygonal columns, as if a mason had stacked stone prisms with mathematical patience.
+Giant’s Causeway in Northern Ireland and Devil’s Postpile in California are famous examples,
+yet similar columns appear wherever basaltic lava cools under the right circumstances. The
+pattern is not carved by chisels; it is written by contraction, because molten rock shrinks
+as it loses heat and, when it cannot shrink smoothly, it fractures.
 
-Using transport measurements under stable conditions, the key question becomes whether one
-frequently cited case from oxide heterostructures appeared to support the direct-readout
-view. [A] At first glance, the pattern seems obvious, yet the author frames it as
-conditional. Admittedly, the original fit looked visually decisive; nevertheless, later,
-however, reanalysis showed that small shifts in competing electronic orders altered the
-baseline enough to mute or mimic vortex dynamics. [B] The author uses the detour to show why
-a different metric would lead to a different conclusion. the passage treats this episode as
-diagnostic, a move that illustrates why boundary conditions must be specified before
-generalization is attempted. [C] The passage highlights that mechanism claims must survive
-out-of-sample checks. [D] This is presented not as a loophole, but as a disciplined way to
-avoid overclaiming. In this sense, high-tc superconducting transitions is best treated as a
-conditional inference rather than as a mere label.
+Basalt begins as a fluid melt, often erupted in thick flows or pooled in lava lakes. At the
+top and bottom of a flow, cooling is rapid because the lava is in contact with air or with
+wet ground, and chilled margins can form quickly. In the interior, cooling is slower, and
+the temperature gradient persists for months or even years. As the interior drops through
+the solidification range, crystals grow, and the newly solid rock begins to contract. [A] If
+the contraction were perfectly uniform, the rock would simply become slightly smaller;
+however, because the solid interior is constrained by surrounding material, tensile stresses
+accumulate.
 
-It is methodological humility that the passage presents as the lesson of superconducting
-phase transitions in cuprates: inference is constrained by what competing models would also
-predict. If one wishes to move from description to explanation holds, then the same
-observation—vortex dynamics—must be paired with tests that change the conditions under which
-it appears. Whereas popular summaries treat vortex dynamics as an endpoint looks decisive,
-the passage treats it as a starting point for sharper experimental or observational
-contrasts becomes more predictive under replication.
+Once tensile stress exceeds the tensile strength of the rock, cracks nucleate. These cracks
+tend to form a network that, at first, is irregular, but it evolves toward a more even
+spacing because closely spaced cracks relieve stress efficiently and reduce the need for
+additional cracks. The result is a pattern that statistically favors hexagons, not because
+nature “prefers” six, but because hexagons tile a plane with minimal perimeter for a given
+area, distributing stress in a nearly even way. Pentagons and heptagons occur as well, and
+the columns are rarely perfect; the underlying logic is energetic economy rather than
+geometric idealism. [B] What looks like a design is, in fact, a compromise between competing
+stress fields.
 
-Only after analysts began combining transport measurements with cross-site comparisons did
-claims about superconducting phase transitions in cuprates stopped relying on a single
-figure and started relying on falsifiable predictions. the goal was to break degeneracies in
-which vortex dynamics could be explained in more than one way because confounders like
-competing electronic orders often co-vary with the driver. as the author notes, transparency
-about priors became an empirical issue rather than a stylistic choice, which changes whether
-two analyses are actually comparable. In this sense, cuprate superconductivity onset is best
-treated as a conditional inference rather than as a mere label.
+The cracks do not stop at the surface. As cooling continues, the fracture network propagates
+downward, producing columns whose long axes are roughly perpendicular to the cooling
+surface. That orientation is why columns can point upward in one outcrop but sideways in
+another: they align with the direction of greatest heat loss. In a lava lake that cools from
+the top, columns can grow downward; in a thin dike that cools from its walls, columns can
+grow inward from both sides, meeting in a central seam. The term “columnar jointing”
+emphasizes that these are joints—fractures without major displacement—rather than faults.
 
-Rarely has it been the case that the debate became empirically productive rather than merely
-rhetorical, at least before the field adopted tests that manipulate or stratify competing
-electronic orders. by comparing cases in which transport measurements constrains
-alternatives, researchers could ask which predictions survive out of sample, which forces
-analysts to admit that is why the passage emphasizes comparative design over isolated
-exemplars. Although a single case can be dramatic, the author does not deny the value of
-striking examples, but warns against treating them as representative.
+Cooling rate influences column size. Where cooling is slow, stress accumulates over a larger
+distance before cracking becomes energetically favorable, producing thicker columns; where
+cooling is fast, cracks form more closely spaced, producing thinner columns. Geologists
+therefore read columns as fossilized cooling histories, even though the relationship is not
+a simple ruler: the same column width can reflect different combinations of flow thickness,
+water content, and thermal conductivity. [C] Still, the general trend remains visible in
+basalt that cooled beneath water, where rapid quenching often yields dense sets of narrow
+columns.
 
-Working with sparse records and limited controls on competing electronic orders, it is
-difficult to deny that many early studies framed superconducting phase transitions in
-cuprates as a single-mechanism phenomenon. Whereas those studies emphasized vortex dynamics
-as a signature is easy to measure, later work asked whether the same signature survives when
-protocols and baselines differ is harder to interpret without assumptions. this shift
-mattered for how evidence from oxide heterostructures was generalized largely because local
-conditions can change which processes generate vortex dynamics. In this sense, zero-
-resistance phase emergence is best treated as a conditional inference rather than as a mere
-label.
+Columns also preserve clues about post-cooling processes. Some show curved “entablature”
+zones where cooling conditions changed, perhaps because water flooded the flow or because
+the flow surface broke and altered heat loss. Others display joint surfaces with striations
+that record incremental crack advance, a stop-and-start process rather than a single snap.
+Even the flat, step-like surfaces between segments of a column—called colonnades—can
+indicate episodic cooling and fracture propagation. The rock, in other words, carries a
+record not only of eruption but also of the thermal conversation between lava and its
+environment.
 
-In the end, researchers found that the passage concludes that the most informative evidence
-is often the evidence that forces competing assumptions into the open. by insisting that
-claims about superconducting phase transitions in cuprates be conditional on stated priors,
-it turns disagreement into a tool for discovery; this, in turn, clarifies why the same
-record can yield multiple stories without implying that any story is arbitrary. Admittedly,
-the temptation to treat a tidy plot as a definitive answer is strong; nevertheless, the
-result is a framework in which vortex dynamics is interpreted through explicit boundary
-conditions rather than through habit.
+Columnar basalt therefore offers a lesson in cause and consequence. [D] Heat loss drives
+contraction; contraction drives fracture; fracture organizes itself into quasi-regular
+polygons; and, long after the lava has cooled, the resulting architecture turns an ancient
+thermal event into a landscape that looks improbably engineered.
+
 
 Questions
 ---------
 
-1. [Inference] Which of the following can be inferred from the passage?
-   A. The passage suggests that Meissner effect signatures is primarily a rhetorical device rather than an empirical constraint on models.
-   B. A convincing explanation should make distinct predictions under shared protocols, especially when disorder and inhomogeneity can mimic Meissner effect signatures.
-   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving scanning tunneling microscopy.
-   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using scanning tunneling microscopy.
-
-2. [Factual Information] According to the passage, why does the author emphasize confounder control?
-   A. The author suggests that disagreement disappears once critical temperature shifts is detected, making model assumptions unnecessary.
-   B. it prevents critical temperature shifts from being treated as a self-interpreting fingerprint and forces tests that control disorder and inhomogeneity
-   C. Since critical temperature shifts is observed in oxide heterostructures, it must generalize to every setting, regardless of boundary conditions.
-   D. The passage implies that high-field magnet studies directly measures causes, meaning confounding from disorder and inhomogeneity is impossible.
-
-3. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [D] This is presented not as a loophole, but as a disciplined way to avoid overclaiming.
-   A. pseudogap behavior specifically, taken as an unambiguous measurement
-   B. disorder and inhomogeneity alone, treated as the sole cause
-   C. ARPES as a device rather than as an analytic approach
-   D. the idea being discussed in the surrounding sentences
-
-4. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | scanning tunneling microscopy | May not generalize across contexts |
-   | Signal | vortex dynamics | May be sensitive to preprocessing choices |
-   | Confounder | doping dependence | Adds correlated noise |
-   Blank: The limitation for 'Method' is ________.
-   A. It makes competing electronic orders irrelevant.
-   B. It proves pseudogap behavior is unique.
-   C. May not generalize across contexts
-   D. May be sensitive to preprocessing choices
-
-5. [Vocabulary] In the passage, the word **idiosyncratic** in the sentence below is closest in meaning to:
-   Sentence: Working with sparse records and limited controls on competing electronic orders, it is difficult to deny that many early studies framed superconducting phase transitions in cuprates as a single-mechanism phenomenon.
-   A. complete and final, so no further checks like scanning tunneling microscopy are needed
-   B. unavoidable and uncontrollable because quantum critical fluctuations dominates all evidence
-   C. irrelevant to superconducting phase transitions in cuprates, serving only as background detail
-   D. peculiar to one case
-
-6. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage argues that zero-resistance phase emergence cannot be studied empirically because confounders like competing electronic orders make data meaningless. It recommends replacing measurement with intuition and rejecting muon spin rotation as unreliable. It concludes that debate persists because evidence never constrains theory.
-   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats muon spin rotation as a historical curiosity and does not discuss pseudogap behavior or competing electronic orders. It ends without any methodological implication.
-   C. The passage examines superconducting phase transitions in cuprates and argues that pseudogap behavior is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how competing electronic orders can shift the baseline, especially when evidence is drawn from BSCCO crystals. Finally, it maintains that tests combining muon spin rotation with boundary-condition checks are required to make claims about high-tc superconducting transitions robust.
-   D. The passage claims that cuprate superconductivity onset is settled because pseudogap behavior uniquely identifies the mechanism. It argues that competing electronic orders is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using muon spin rotation are unnecessary.
-
-7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about superconducting phase transitions in cuprates be conditional on stated priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Some summaries seem consistent because they mix incompatible cases, not because vortex dynamics uniquely identifies one mechanism.
-   B. Incompatible cases should be ignored to keep an explanation based on transport measurements simple.
-   C. Summaries are always reliable because averaging eliminates quantum critical fluctuations.
-   D. Aggregation guarantees that the same mechanism operates in oxide heterostructures and everywhere else.
-
-8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: In short, the passage treats methodological humility as a strength, not as an admission of ignorance.
+1. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: Because cracks relieve stress most effectively when they are spaced relatively evenly, the network tends to “self-correct” as it grows.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-9. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. the author’s favorite color
-   B. Superconducting Phase Transitions in Cuprates
-   C. muon spin rotation
-   D. critical temperature shifts
+2. [Vocabulary] The word “nucleate” in the passage is closest in meaning to:
+   A. to begin forming at a small site
+   B. to dissolve into liquid again
+   C. to move sideways in large blocks
+   D. to become chemically inert
 
-10. [Rhetorical Purpose] In referring to a contrasting interpretation, the author intends to:
-   A. motivate clearer assumptions and stronger tests, such as comparing cases where muon spin rotation constrains disorder and inhomogeneity
-   B. The passage implies that oxide heterostructures is chosen to avoid bias, so comparisons across settings are unnecessary.
-   C. The discussion suggests that disorder and inhomogeneity is the phenomenon itself, so controlling for it would remove the effect of interest.
-   D. The author argues that muon spin rotation should be replaced by an unmodeled trend line because assumptions distort evidence.
+3. [Factual] According to the passage, what directly causes the fractures that create columnar jointing?
+   A. tensile stresses created as solidifying basalt contracts during cooling
+   B. erosion by wind carving polygons into soft rock
+   C. chemical reactions between basalt and plant roots
+   D. violent fault movement that displaces columns meters apart
+
+4. [Inference] What can be inferred about why hexagons are common but not exclusive in columnar basalt?
+   A. Hexagons distribute stress efficiently in a tiling pattern, but local conditions and evolving crack growth also produce other polygons
+   B. Hexagons are the only shape that can form in any cooling lava
+   C. Pentagons occur only when basalt is reheated to melt
+   D. Heptagons are carved later by human tools
+
+5. [Rhetorical Purpose] Why does the author mention outcrops where columns point sideways rather than upward?
+   A. To show that column orientation follows the direction of heat loss rather than a fixed “upward” rule
+   B. To argue that basalt always cools from the bottom first
+   C. To suggest that erosion rotates columns after they form
+   D. To claim that sideways columns indicate a different rock type
+
+6. [Negative Factual] All of the following factors are mentioned as affecting column size or interpretation EXCEPT:
+   A. cooling rate
+   B. flow thickness
+   C. water content
+   D. the size of pollen baskets on insect legs
+
+7. [Reference] In the passage, “a compromise between competing stress fields” refers to:
+   A. the imperfect polygon network that emerges as fractures organize to relieve tensile stress efficiently
+   B. a negotiated policy between fishing firms
+   C. a choice between equal temperament and historical tuning
+   D. a shift from slavery to freedom in law
+
+8. [Organization] How is the passage primarily organized?
+   A. It introduces the visual phenomenon, explains thermal contraction and crack formation, then discusses polygon patterns, orientation, and what variations reveal about cooling history
+   B. It lists famous basalt cliffs without explaining formation
+   C. It argues that polygons are carved entirely by erosion
+   D. It describes only chemical weathering and omits cooling
+
+9. [Paraphrase] Which option best restates the author’s main causal chain?
+   A. As basalt cools it contracts, the resulting tensile stress triggers fractures, and those fractures evolve into organized polygonal columns that record cooling conditions
+   B. Basalt expands as it cools, causing smooth shrinking without cracks
+   C. Columns form when rivers cut basalt into equal slices
+   D. Columns are built by microorganisms that tile rock surfaces
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Columnar basalt is produced when erosion carves perfect hexagons into already solid rock.
+   B. The passage explains columnar basalt as a fracture architecture created when cooling lava contracts, accumulates tensile stress, and forms crack networks that evolve toward roughly even spacing and polygonal tiling; it notes that column orientation reflects heat-loss direction and that column size and internal zones preserve information about cooling rates and changing environmental conditions.
+   C. Polygonal columns form only in granite because basalt cannot fracture.
+   D. Hexagons are common because basalt crystals grow only in six-sided shapes.
 
 
 Answer Key
 ----------
 1: B
-2: B
-3: D
-4: C
-5: D
-6: C
+2: A
+3: A
+4: A
+5: A
+6: D
 7: A
-8: B
+8: A
 9: A
-10: A
+10: B

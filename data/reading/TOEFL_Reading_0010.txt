@@ -1,159 +1,137 @@
-Passage 0010: Algorithmic Bias and Fairness Constraints in Automated Decision Systems (Technology)
-==================================================================================================
-(Word count: 772)
+Passage 0010: Upwelling Timing and Cycles in Small Pelagic Fisheries (Oceanography)
+===================================================================================
+(Word count: 613)
 
-Under real-world workload variation, the analysis suggests researchers have treated shifted
-decision thresholds as the decisive sign of algorithmic bias and fairness constraints in
-automated decision systems. Though audit studies with held-out groups can make the pattern
-look unusually sharp, the passage argues that such confidence is conditional and must be
-earned by specifying assumptions. the resulting debate is less about data collection than
-about what the data are evidence for, something that forces analysts to articulate boundary
-conditions rather than rely on familiar narratives.
+Along certain coasts, cold water rises from the deep and turns the sea into a moving pantry.
+This process, coastal upwelling, occurs when winds push surface water away from shore and
+deeper water replaces it. Because deep water is often rich in dissolved nutrients, upwelling
+can trigger blooms of phytoplankton, which support zooplankton, fish, and seabirds. It can
+therefore be tempting to treat upwelling as a simple blessing: more nutrients, more food,
+more fish. Yet the link between upwelling and fish abundance is not a straight line. It
+depends on timing, intensity, and the life cycles of the organisms that must ride the
+pulses.
 
-Using audit studies with held-out groups under stable conditions, the passage suggests one
-frequently cited case from credit scoring systems appeared to support the direct-readout
-view. While it is true that the original fit looked visually decisive, later, however,
-reanalysis showed that small shifts in measurement error in sensitive attributes altered the
-baseline enough to mute or mimic shifted decision thresholds. the passage treats this
-episode as diagnostic, which is precisely why illustrates why boundary conditions must be
-specified before generalization is attempted. In this sense, bias in machine-learning
-decision pipelines is best treated as a conditional inference rather than as a mere label.
+Upwelling is driven by winds that are seasonal and variable. If winds are moderate and
+persistent during the spawning season of small pelagic fish such as sardines or anchovies,
+the resulting plankton can provide reliable food for larvae. But if winds are too strong,
+surface waters can become turbulent, dispersing larvae and pushing them offshore into
+habitats with fewer predators in some cases but poorer feeding in others. If winds begin
+late, larvae may hatch into a water column that has not yet been fertilized, and early
+starvation can occur even though nutrients arrive later.
 
-Working with sparse records and limited controls on measurement error in sensitive
-attributes, it is difficult to deny that many early studies framed algorithmic bias and
-fairness constraints in automated decision systems as a single-mechanism phenomenon. Whereas
-those studies emphasized shifted decision thresholds as a signature in one account, later
-work asked whether the same signature survives when protocols and baselines differ in
-another. this shift mattered for how evidence from credit scoring systems was generalized
-because, as the author notes, local conditions can change which processes generate shifted
-decision thresholds.
+These subtleties help explain why fisheries can oscillate between anchovy‑dominated and
+sardine‑dominated regimes. One account emphasizes physical forcing: shifts in wind patterns
+and ocean temperature favor one species’ spawning strategy over the other’s. A second
+account emphasizes biological feedback: once one species becomes abundant, it can consume
+the plankton community in a way that disadvantages the other, and predation on eggs and
+larvae can amplify that dominance. [A] Under the physical account, a change in wind and
+temperature should precede a regime shift. [B] Under the feedback account, dominance could
+persist even after physical conditions become less favorable, because the dominant species
+reshapes the food web. [C]
 
-If anything is responsible, it is methodological humility, and therefore the passage
-presents as the lesson of algorithmic bias and fairness constraints in automated decision
-systems: inference is constrained by what competing models would also predict. [A] The
-author treats this as a clue rather than as a nuisance. If one wishes to move from
-description to explanation, then the same observation—shifted decision thresholds—must be
-paired with tests that change the conditions under which it appears. [B] This becomes a
-pivot point where the earlier interpretation is narrowed. Whereas popular summaries treat
-shifted decision thresholds as an endpoint invites a tidy story, the passage treats it as a
-starting point for sharper experimental or observational contrasts forces boundary
-conditions to be stated. [C] This reasoning matters because it changes what counts as a
-decisive test. [D] This point forces the reader to consider how confounders enter the
-pipeline. In this sense, fairness constraints under imperfect data is best treated as a
-conditional inference rather than as a mere label.
+Long-term records from some eastern boundary currents suggest that both forces operate, but
+not always on the same schedule. In one multidecadal series, anchovy recruitment rose
+following years with earlier, moderate upwelling, while sardine recruitment rose following
+years with warmer surface temperatures and later upwelling. Yet there were also periods when
+sardines remained abundant despite a return to conditions that had previously favored
+anchovies. Those periods are difficult to interpret if one assumes that winds alone dictate
+the outcome; they make more sense if one allows that a dominant population can modify prey
+fields and predation pressure, creating inertia in the system.
 
-Only after the field adopted tests that manipulate or stratify measurement error in
-sensitive attributes did the earlier interpretation begin to look fragile, so the debate
-became empirically productive rather than merely rhetorical. by comparing cases in which
-audit studies with held-out groups constrains alternatives, researchers could ask which
-predictions survive out of sample, an outcome that is why the passage emphasizes comparative
-design over isolated exemplars. To be sure, a single case can be dramatic, yet the author
-does not deny the value of striking examples, but warns against treating them as
-representative.
+The consequences of these cycles extend beyond fishers. Seabirds breeding on islands can
+fail in years when prey fish are scarce near shore, even if fish are present farther
+offshore. Marine mammals can shift foraging ranges, and coastal communities that depend on
+one fishery can face economic shocks when the regime flips. [D] Thus, upwelling is not
+merely a physical event; it is an ecological driver whose effects are mediated by life
+history and by competition.
 
-Only after analysts began combining audit studies with held-out groups with cross-site
-comparisons did claims about algorithmic bias and fairness constraints in automated decision
-systems stopped relying on a single figure and started relying on falsifiable predictions.
-the goal was to break degeneracies in which shifted decision thresholds could be explained
-in more than one way because confounders like measurement error in sensitive attributes
-often co-vary with the driver, which is why replication matters. as the author notes,
-transparency about priors became an empirical issue rather than a stylistic choice, an
-outcome that changes whether two analyses are actually comparable. In this sense, disparate
-impact in automated scoring is best treated as a conditional inference rather than as a mere
-label.
+To predict future regimes, researchers increasingly track not only wind indices but also
+larval survival conditions: the match between plankton timing and hatching, the degree of
+turbulence, and the nearshore retention of young fish. The core lesson remains simple,
+though its consequences are complex: deep water brings nutrients, but nutrients help fish
+only when the ocean’s timing aligns with the fragile early stages of life.
 
-In the end, researchers found that the passage concludes that the most informative evidence
-is often the evidence that forces competing assumptions into the open. by insisting that
-claims about algorithmic bias and fairness constraints in automated decision systems be
-conditional on stated priors, it turns disagreement into a tool for discovery, which is
-precisely why clarifies why the same record can yield multiple stories without implying that
-any story is arbitrary. Though the temptation to treat a tidy plot as a definitive answer is
-strong, the result is a framework in which shifted decision thresholds is interpreted
-through explicit boundary conditions rather than through habit.
+Upwelling can also carry chemical consequences. Deep water is often low in oxygen and high
+in dissolved carbon dioxide, so intense upwelling can bring hypoxic, more acidic water onto
+the shelf, stressing shellfish and benthic organisms. A coast can therefore experience a
+paradoxical season in which nutrients rise and plankton blooms expand while some nearshore
+habitats suffer from low oxygen.
+
 
 Questions
 ---------
 
-1. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: The author notes that a single dramatic example can mislead if it is treated as representative rather than as diagnostic.
+1. [Inference] What can be inferred from the passage about why stronger upwelling is not always better for fish recruitment?
+   A. Very strong winds can increase turbulence and transport larvae offshore, which may reduce feeding or survival
+   B. Strong winds prevent nutrients from reaching the surface entirely
+   C. Larvae survive best when the ocean is always turbulent
+   D. Upwelling affects only seabirds, not fish
+
+2. [Vocabulary] The word “inertia” in the passage is closest in meaning to:
+   A. a tendency to persist or resist change
+   B. a sudden collapse
+   C. a nutrient source
+   D. a fishing technique
+
+3. [Rhetorical Purpose] Why does the author contrast a “physical forcing” account with a “biological feedback” account?
+   A. To show that regime shifts can be driven by both environmental changes and population interactions, which make different predictions about timing
+   B. To argue that winds never influence upwelling
+   C. To claim that competition is irrelevant in the ocean
+   D. To suggest that sardines and anchovies are identical species
+
+4. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: In that case, the abundance of one species becomes part of the environment experienced by the other.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-2. [Factual Information] The passage indicates that replication across contexts is important mainly because:
-   A. The author suggests that disagreement disappears once calibration disparities is detected, making model assumptions unnecessary.
-   B. it prevents calibration disparities from being treated as a self-interpreting fingerprint and forces tests that control dataset shift
-   C. Because dataset shift co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
-   D. The passage implies that counterfactual fairness tests directly measures causes, meaning confounding from dataset shift is impossible.
+5. [Negative Factual] All of the following are mentioned as reasons recruitment can fail EXCEPT:
+   A. late onset of nutrient-rich conditions during hatching
+   B. excess turbulence dispersing larvae
+   C. mismatch between plankton timing and spawning
+   D. the formation of basalt columns in the ocean floor
 
-3. [Inference] Which of the following can be inferred from the passage?
-   A. The passage claims that the best strategy is to average away label bias, since variability is merely a measurement error.
-   B. A convincing explanation should make distinct predictions under shared protocols, especially when label bias can mimic error-rate gaps.
-   C. The argument is that boundary conditions matter only for older studies, not for modern measurements using causal graph specification.
-   D. The passage suggests that error-rate gaps is primarily a rhetorical device rather than an empirical constraint on models.
+6. [Factual] According to the passage, what initiates coastal upwelling?
+   A. Winds push surface water away from shore, allowing deeper water to rise and replace it
+   B. Deep water rises because it is lighter than surface water
+   C. Fish schools migrate upward and carry nutrients with them
+   D. Tides always pull deep water toward the surface at midday
 
-4. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | causal graph specification | Requires careful calibration |
-   | Signal | calibration disparities | May be muted by other processes |
-   | Confounder | dataset shift | Changes the apparent slope |
-   Blank: The limitation for 'Signal' is ________.
-   A. May be muted by other processes
-   B. Requires careful calibration
-   C. It proves proxy variable leakage is unique.
-   D. Changes the apparent slope
+7. [Reference] In the sentence “Those periods are difficult to interpret…,” the phrase “Those periods” refers to times when:
+   A. anchovies and sardines were both absent from the ocean
+   B. sardines remained abundant even after conditions returned that had favored anchovies before
+   C. winds stopped entirely for several years
+   D. seabirds moved offshore permanently
 
-5. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. Algorithmic Bias and Fairness Constraints in Automated Decision Systems
-   B. robustness checks across subpopulations
-   C. shifted decision thresholds
-   D. a recipe for bread fermentation
+8. [Organization] How is the passage primarily organized?
+   A. It introduces upwelling, explains why timing and intensity matter, compares two accounts for regime shifts, and then describes ecological and human consequences
+   B. It lists chemical elements found in seawater without discussing winds
+   C. It narrates a single fishing trip without broader explanation
+   D. It focuses only on seabirds and ignores ocean physics
 
-6. [Vocabulary] In the passage, the word **conditional** in the sentence below is closest in meaning to:
-   Sentence: Though audit studies with held-out groups can make the pattern look unusually sharp, the passage argues that such confidence is conditional and must be earned by specifying assumptions.
-   A. irrelevant to algorithmic bias and fairness constraints in automated decision systems, serving only as background detail
-   B. dependent on conditions
-   C. unavoidable and uncontrollable because dataset shift dominates all evidence
-   D. complete and final, so no further checks like causal graph specification are needed
+9. [Paraphrase] Which option best restates the idea that nutrients help fish only when timing aligns with early life stages?
+   A. Productive conditions must coincide with hatching and larval survival; otherwise the added nutrients arrive too late to prevent early losses
+   B. Nutrients always increase recruitment regardless of season
+   C. Larvae do not depend on plankton for food
+   D. Upwelling determines adult fish size but not survival
 
-7. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [B] This becomes a pivot point where the earlier interpretation is narrowed.
-   A. calibration disparities specifically, taken as an unambiguous measurement
-   B. feedback loops from deployment alone, treated as the sole cause
-   C. the idea being discussed in the surrounding sentences
-   D. causal graph specification as a device rather than as an analytic approach
-
-8. [Rhetorical Purpose] What function does the comparison with another theory perform in the argument?
-   A. motivate clearer assumptions and stronger tests, such as comparing cases where robustness checks across subpopulations constrains label bias
-   B. The author argues that robustness checks across subpopulations should be replaced by an unmodeled trend line because assumptions distort evidence.
-   C. The passage treats error-rate gaps as a confounder and label bias as the diagnostic signal that identifies the mechanism.
-   D. The passage implies that content moderation pipelines is chosen to avoid bias, so comparisons across settings are unnecessary.
-
-9. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage claims that fairness constraints under imperfect data is settled because proxy variable leakage uniquely identifies the mechanism. It argues that measurement error in sensitive attributes is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using counterfactual fairness tests are unnecessary.
-   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats counterfactual fairness tests as a historical curiosity and does not discuss proxy variable leakage or measurement error in sensitive attributes. It ends without any methodological implication.
-   C. The passage argues that disparate impact in automated scoring cannot be studied empirically because confounders like measurement error in sensitive attributes make data meaningless. It recommends replacing measurement with intuition and rejecting counterfactual fairness tests as unreliable. It concludes that debate persists because evidence never constrains theory.
-   D. The passage examines algorithmic bias and fairness constraints in automated decision systems and argues that proxy variable leakage is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how measurement error in sensitive attributes can shift the baseline, especially when evidence is drawn from hiring and screening tools. Finally, it maintains that tests combining counterfactual fairness tests with boundary-condition checks are required to make claims about bias in machine-learning decision pipelines robust.
-
-10. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about algorithmic bias and fairness constraints in automated decision systems be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Some summaries seem consistent because they mix incompatible cases, not because error-rate gaps uniquely identifies one mechanism.
-   B. Summaries are always reliable because averaging eliminates dataset shift.
-   C. Incompatible cases should be ignored to keep an explanation based on causal graph specification simple.
-   D. Aggregation guarantees that the same mechanism operates in credit scoring systems and everywhere else.
+10. [Summary] Which statement best summarizes the passage?
+   A. Upwelling always increases fish populations because nutrients guarantee recruitment.
+   B. The passage explains that coastal upwelling brings nutrients but that fish abundance depends on wind timing and intensity; regime shifts between sardines and anchovies can reflect both physical conditions and biological feedbacks, with consequences for ecosystems and coastal communities.
+   C. Sardine and anchovy cycles are caused solely by island seabirds changing nests.
+   D. Upwelling occurs when tides pull surface water offshore, and turbulence has no effect on larvae.
 
 
 Answer Key
 ----------
-1: D
-2: B
-3: B
+1: A
+2: A
+3: A
 4: A
 5: D
-6: B
-7: C
+6: A
+7: B
 8: A
-9: D
-10: A
+9: A
+10: B

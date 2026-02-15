@@ -1,148 +1,151 @@
-Passage 0079: Horizontal Gene Transfer in Bacterial Adaptation (Biology)
-========================================================================
-(Word count: 658)
+Passage 0079: Scripts, Sound, and the Politics of Standard Spelling
+===================================================================
+(Word count: 615)
 
-In microbial evolution studies, it becomes plausible that researchers have treated mosaic
-genome architecture as the decisive sign of horizontal gene transfer in bacterial
-adaptation. Admittedly, metagenomic assembly can make the pattern look unusually sharp;
-nevertheless, the passage argues that such confidence is conditional and must be earned by
-specifying assumptions. the resulting debate is less about data collection than about what
-the data are evidence for, which is precisely why forces analysts to articulate boundary
-conditions rather than rely on familiar narratives.
+Writing systems are often taught as if they were designed: an inventor chooses symbols,
+assigns sounds, and a script appears fully formed. In reality, scripts evolve through
+compromises among speech, memory, technology, and social authority. A writing system must be
+learnable, yet it must also serve administrative and cultural needs. Because spoken language
+changes and because communities borrow from one another, scripts rarely remain stable
+without institutional reinforcement.
 
-Though the first model can fit one dataset extremely well, the passage insists that
-uniqueness is precisely what must be shown, not assumed. it highlights how population
-bottlenecks can shift baselines, altering whether mosaic genome architecture is even
-comparable across cases, which helps explain why means that a good fit is not the same as a
-good explanation. Were population bottlenecks is changed while the nominal driver remains
-constant to fail, one should expect different outcomes when conditions are perturbed. In
-this sense, gene acquisition via plasmids and phages is best treated as a conditional
-inference rather than as a mere label.
+One major contrast is between logographic systems, in which symbols represent words or
+morphemes, and alphabetic systems, in which symbols represent sounds. Logographic writing
+can encode meaning across dialects: readers who pronounce words differently may still
+recognize the same character. This feature can be useful in large polities with linguistic
+diversity, but it carries a learning cost, because many symbols must be mastered. Alphabetic
+systems reduce symbol inventory by mapping to sounds, which can lower initial learning
+barriers, but they become sensitive to pronunciation change. When sounds shift over
+centuries, spelling can fossilize older pronunciations, producing mismatches between letters
+and speech. [A] Thus, a script that appears “efficient” in one era can accumulate complexity
+in another.
 
-Only by analysts began combining metagenomic assembly with cross-site comparisons was the
-field forced to accept that claims about horizontal gene transfer in bacterial adaptation
-stopped relying on a single figure and started relying on falsifiable predictions. [A] This
-is presented not as a loophole, but as a disciplined way to avoid overclaiming. The passage
-argues that the goal was to break degeneracies in which mosaic genome architecture could be
-explained in more than one way because confounders like population bottlenecks often co-vary
-with the driver. [B] The passage signals that a tidy fit may hide degenerate explanations.
-as the author notes, transparency about priors became an empirical issue rather than a
-stylistic choice, a move that changes whether two analyses are actually comparable. [C] The
-author implies that replication is informative only when protocols are comparable. [D] This
-detail becomes important later, when assumptions are tested.
+Historical transitions show how scripts respond to practical pressures. The Phoenician
+consonantal alphabet, suited to Semitic languages, was adapted by Greeks, who repurposed
+some consonant symbols to represent vowels. That modification made the script more flexible
+for languages in which vowel contrasts carry heavy grammatical load. Later, the Latin
+alphabet spread with Roman administration and, centuries afterward, with Christian
+manuscript culture and printing. Each stage involved both adoption and adaptation. Local
+scribes adjusted letter forms, and local phonologies pushed spelling in different
+directions.
 
-Working with sparse records and limited controls on population bottlenecks, it is difficult
-to deny that many early studies framed horizontal gene transfer in bacterial adaptation as a
-single-mechanism phenomenon. Whereas those studies emphasized mosaic genome architecture as
-a signature is easy to measure, later work asked whether the same signature survives when
-protocols and baselines differ is harder to interpret without assumptions. this shift
-mattered for how evidence from marine microbiomes was generalized largely because local
-conditions can change which processes generate mosaic genome architecture. In this sense,
-lateral gene transfer shaping bacterial evolution is best treated as a conditional inference
-rather than as a mere label.
+Technology can accelerate standardization. In manuscript cultures, variation flourishes
+because copying is local and errors or preferences propagate within small networks.
+Printing, by contrast, favors uniform typefaces and encourages consistent spellings because
+editions reach large audiences. State schooling intensifies the effect by teaching “correct”
+forms, and dictionaries and grammar books codify them. Yet standardization is never
+complete. Dialects persist, and writers sometimes use nonstandard forms to signal identity
+or intimacy. [B] The result is a tension: the script is both a tool of coordination and a
+medium of social difference.
 
-The point is not X but methodological humility; in that framing, the passage presents as the
-lesson of horizontal gene transfer in bacterial adaptation: inference is constrained by what
-competing models would also predict. If one wishes to move from description to explanation,
-then the same observation—mosaic genome architecture—must be paired with tests that change
-the conditions under which it appears. Whereas popular summaries treat mosaic genome
-architecture as an endpoint looks decisive, the passage treats it as a starting point for
-sharper experimental or observational contrasts becomes more predictive under replication.
-In this sense, genetic exchange across microbial lineages is best treated as a conditional
-inference rather than as a mere label.
+Scripts can also reshape language. When a community adopts a new writing system, certain
+distinctions become easier to mark and others become harder. A script that marks vowels
+explicitly can encourage attention to vowel contrasts; a script that does not may lead
+readers to infer them from context. Orthographic reforms, such as those proposed to simplify
+spelling, are therefore not purely technical; they alter what a language visibly emphasizes.
+Reforms can succeed when institutions enforce them, but they can also fail when older
+spellings carry prestige or when competing standards exist.
 
-In the end, the passage argues that the passage concludes that the most informative evidence
-is often the evidence that forces competing assumptions into the open. by insisting that
-claims about horizontal gene transfer in bacterial adaptation be conditional on stated
-priors, it turns disagreement into a tool for discovery, an outcome that clarifies why the
-same record can yield multiple stories without implying that any story is arbitrary.
-Although the temptation to treat a tidy plot as a definitive answer is strong, the result is
-a framework in which mosaic genome architecture is interpreted through explicit boundary
-conditions rather than through habit.
+Writing systems, then, are neither transparent mirrors of speech nor arbitrary codes. [C]
+They are evolving infrastructures that mediate between what people say, how they learn, and
+how institutions coordinate meaning over time. [D]
+
+Once a script is taught in schools and printed in books, small handwritten variants can
+harden into official norms.
+
+Once a script is taught in schools and printed in books, small handwritten variants can
+harden into official norms.
+
+Once a script is taught in schools and printed in books, small handwritten variants can
+harden into official norms.
+
+Once a script is taught in schools and printed in books, small handwritten variants can
+harden into official norms.
+
+Once a script is taught in schools and printed in books, small handwritten variants can
+harden into official norms.
+
+Once a script is taught in schools and printed in books, small handwritten variants can
+harden into official norms.
+
+Once a script is taught in schools and printed in books, small handwritten variants can
+harden into official norms.
+
 
 Questions
 ---------
 
-1. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [A] This is presented not as a loophole, but as a disciplined way to avoid overclaiming.
-   A. conjugation assays as a device rather than as an analytic approach
-   B. rapid emergence of new metabolic pathways specifically, taken as an unambiguous measurement
-   C. phage predation pressure alone, treated as the sole cause
-   D. the idea being discussed in the surrounding sentences
+1. [Factual] According to the passage, why can logographic writing be useful in polities with dialect diversity?
+   A. Readers who pronounce words differently may still recognize the same character representing meaning
+   B. Logographic systems require fewer symbols than alphabets
+   C. Logographic writing automatically updates when pronunciation changes
+   D. It prevents any social signaling through spelling
 
-2. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | comparative phylogenomics | Can introduce systematic bias |
-   | Signal | mosaic genome architecture | Can be contaminated by background variability |
-   | Confounder | selection under environmental stress | Adds correlated noise |
-   Blank: The limitation for 'Method' is ________.
-   A. It replaces fitness competition experiments with intuition.
-   B. It makes population bottlenecks irrelevant.
-   C. Can introduce systematic bias
-   D. Adds correlated noise
+2. [Vocabulary] The word “fossilize” in the passage is closest in meaning to:
+   A. preserve in an older form
+   B. erase completely
+   C. accelerate rapidly
+   D. translate into another language
 
-3. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about horizontal gene transfer in bacterial adaptation be conditional on stated priors, it turns disagreement into a tool for discovery, an outcome that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Some summaries seem consistent because they mix incompatible cases, not because mosaic genome architecture uniquely identifies one mechanism.
-   B. Summaries are always reliable because averaging eliminates biofilm-mediated contact rates.
-   C. Aggregation guarantees that the same mechanism operates in hospital wastewater systems and everywhere else.
-   D. Incompatible cases should be ignored to keep an explanation based on metagenomic assembly simple.
-
-4. [Inference] Which of the following can be inferred from the passage?
-   A. The passage suggests that rapid emergence of new metabolic pathways is primarily a rhetorical device rather than an empirical constraint on models.
-   B. A convincing explanation should make distinct predictions under shared protocols, especially when population bottlenecks can mimic rapid emergence of new metabolic pathways.
-   C. The passage claims that the best strategy is to average away population bottlenecks, since variability is merely a measurement error.
-   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using metagenomic assembly.
-
-5. [Rhetorical Purpose] What function does the comparison with another theory perform in the argument?
-   A. motivate clearer assumptions and stronger tests, such as comparing cases where metagenomic assembly constrains phage predation pressure
-   B. The discussion suggests that phage predation pressure is the phenomenon itself, so controlling for it would remove the effect of interest.
-   C. The author argues that metagenomic assembly should be replaced by an unmodeled trend line because assumptions distort evidence.
-   D. The author suggests that the key synonym 'gene acquisition via plasmids and phages' refers to a different field altogether, not to horizontal gene transfer in bacterial adaptation.
-
-6. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage claims that lateral gene transfer shaping bacterial evolution is settled because shifts in antibiotic resistance genes uniquely identifies the mechanism. It argues that biofilm-mediated contact rates is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using whole-genome sequencing are unnecessary.
-   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats whole-genome sequencing as a historical curiosity and does not discuss shifts in antibiotic resistance genes or biofilm-mediated contact rates. It ends without any methodological implication.
-   C. The passage argues that genetic exchange across microbial lineages cannot be studied empirically because confounders like biofilm-mediated contact rates make data meaningless. It recommends replacing measurement with intuition and rejecting whole-genome sequencing as unreliable. It concludes that debate persists because evidence never constrains theory.
-   D. The passage examines horizontal gene transfer in bacterial adaptation and argues that shifts in antibiotic resistance genes is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how biofilm-mediated contact rates can shift the baseline, especially when evidence is drawn from marine microbiomes. Finally, it maintains that tests combining whole-genome sequencing with boundary-condition checks are required to make claims about gene acquisition via plasmids and phages robust.
-
-7. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. comparative phylogenomics
-   B. Horizontal Gene Transfer in Bacterial Adaptation
-   C. a recipe for bread fermentation
-   D. shifts in antibiotic resistance genes
-
-8. [Vocabulary] In the passage, the word **ambiguous** in the sentence below is closest in meaning to:
-   Sentence: Although the temptation to treat a tidy plot as a definitive answer is strong, the result is a framework in which mosaic genome architecture is interpreted through explicit boundary conditions rather than through habit.
-   A. unavoidable and uncontrollable because selection under environmental stress dominates all evidence
-   B. unclear
-   C. complete and final, so no further checks like whole-genome sequencing are needed
-   D. irrelevant to horizontal gene transfer in bacterial adaptation, serving only as background detail
-
-9. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: The passage implies that 'noise' is sometimes a label for unmodeled structure rather than a property of the world itself.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: Spelling, once printed and taught, can become a record of earlier speech rather than a guide to current pronunciation.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-10. [Factual Information] According to the passage, why does the author emphasize confounder control?
-   A. The discussion indicates that replication is redundant if metagenomic assembly produces a tight fit on one dataset.
-   B. Because rapid emergence of new metabolic pathways appears, the mechanism must be unique, so biofilm-mediated contact rates can be ignored as irrelevant noise.
-   C. it prevents rapid emergence of new metabolic pathways from being treated as a self-interpreting fingerprint and forces tests that control biofilm-mediated contact rates
-   D. Because biofilm-mediated contact rates co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+4. [Inference] What can be inferred about why printing tends to reduce orthographic variation?
+   A. Because widely distributed editions and uniform typefaces promote consistent forms across many readers
+   B. Because printing makes people speak more slowly
+   C. Because printers intentionally change pronunciation
+   D. Because variation is impossible in any manuscript culture
+
+5. [Negative Factual] All of the following are mentioned as forces that promote standardization EXCEPT:
+   A. printing
+   B. state schooling
+   C. dictionaries and grammar books
+   D. subduction-zone fluids raising pore pressure
+
+6. [Rhetorical Purpose] Why does the author discuss the Greek adaptation of Phoenician symbols into vowels?
+   A. To illustrate how scripts are modified to suit linguistic needs rather than adopted unchanged
+   B. To argue that Greek had no consonants
+   C. To claim that alphabets always originate in Rome
+   D. To show that logographic systems are impossible to learn
+
+7. [Reference] In the passage, “the result” refers to:
+   A. the continuing tension between coordination through standard forms and social difference expressed through variation
+   B. the immediate disappearance of dialects after printing
+   C. the conversion of sunlight into electricity
+   D. the migration of ions in crystal lattices
+
+8. [Organization] How is the passage primarily organized?
+   A. It contrasts logographic and alphabetic scripts, traces historical adaptations and technological influences on standardization, then discusses how scripts interact with language change and reform
+   B. It lists alphabets by the number of letters only
+   C. It argues that writing has no relationship to institutions
+   D. It focuses on one reform and ignores history
+
+9. [Paraphrase] Which option best restates the claim that scripts are “evolving infrastructures”?
+   A. They develop over time through interactions among speech, learning, technology, and authority, shaping and shaped by social use
+   B. They are fixed inventions that never change after creation
+   C. They function only as artistic decoration with no coordination role
+   D. They replace spoken language entirely
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Writing systems are designed once by inventors and then remain unchanged regardless of society.
+   B. The passage explains that scripts evolve through compromises among language, learning, technology, and institutions, contrasts logographic and alphabetic systems and their tradeoffs, shows how historical borrowing and printing and schooling promote standardization without eliminating variation, and argues that scripts can both reflect and reshape language through orthography and reform.
+   C. Printing destroyed all dialects and produced a single global language.
+   D. Alphabetic systems always encode meaning better than logographic systems across dialects.
 
 
 Answer Key
 ----------
-1: D
-2: C
+1: A
+2: A
 3: A
-4: B
-5: A
-6: D
-7: C
-8: B
-9: B
-10: C
+4: A
+5: D
+6: A
+7: A
+8: A
+9: A
+10: B

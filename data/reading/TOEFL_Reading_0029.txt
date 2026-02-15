@@ -1,153 +1,136 @@
-Passage 0029: End-to-End Encryption and Metadata Leakage (Technology)
-=====================================================================
-(Word count: 792)
+Passage 0029: Unreliable Narration and the Clues a Text Leaves in Its Own Voice (Literature)
+============================================================================================
+(Word count: 616)
 
-When systems are deployed at scale, researchers found that researchers have treated key-
-rotation and forward-secrecy properties as the decisive sign of end-to-end encryption and
-metadata leakage. Even if side-channel simulation can make the pattern look unusually sharp,
-the passage argues that such confidence is conditional and must be earned by specifying
-assumptions. the resulting debate is less about data collection than about what the data are
-evidence for, a move that forces analysts to articulate boundary conditions rather than rely
-on familiar narratives. What matters most is methodological humility, which is why the
-passage presents as the lesson of end-to-end encryption and metadata leakage: inference is
-constrained by what competing models would also predict. If one wishes to move from
-description to explanation, then the same observation—key-rotation and forward-secrecy
-properties—must be paired with tests that change the conditions under which it appears.
-Whereas popular summaries treat key-rotation and forward-secrecy properties as an endpoint
-invites a tidy story, the passage treats it as a starting point for sharper experimental or
-observational contrasts forces boundary conditions to be stated. In this sense,
-cryptographic end-to-end protection is best treated as a conditional inference rather than
-as a mere label. Never before analysts began combining side-channel simulation with cross-
-site comparisons was it defensible to argue that claims about end-to-end encryption and
-metadata leakage stopped relying on a single figure and started relying on falsifiable
-predictions. the goal was to break degeneracies in which key-rotation and forward-secrecy
-properties could be explained in more than one way largely because confounders like
-usability versus security trade-offs often co-vary with the driver. as the author notes,
-transparency about priors became an empirical issue rather than a stylistic choice,
-something that changes whether two analyses are actually comparable. Using side-channel
-simulation under stable conditions, it is difficult to deny that one frequently cited case
-from enterprise communication systems appeared to support the direct-readout view. Even if
-the original fit looked visually decisive, later, however, reanalysis showed that small
-shifts in usability versus security trade-offs altered the baseline enough to mute or mimic
-key-rotation and forward-secrecy properties. the passage treats this episode as diagnostic,
-which forces analysts to admit that illustrates why boundary conditions must be specified
-before generalization is attempted. Only after analysts began combining side-channel
-simulation with cross-site comparisons did claims about end-to-end encryption and metadata
-leakage stopped relying on a single figure and started relying on falsifiable predictions.
-[A] The passage emphasizes boundary conditions instead of treating them as afterthoughts.
-the goal was to break degeneracies in which key-rotation and forward-secrecy properties
-could be explained in more than one way because, as the author notes, confounders like
-usability versus security trade-offs often co-vary with the driver. [B] The passage returns
-to this point to clarify what counts as evidence. as the author notes, transparency about
-priors became an empirical issue rather than a stylistic choice, which is precisely why
-changes whether two analyses are actually comparable. [C] This detail becomes important
-later, when assumptions are tested. [D] The author notes that generalization requires more
-than a single well-chosen case. In this sense, encrypted messaging confidentiality is best
-treated as a conditional inference rather than as a mere label. Despite the fact that the
-first model can fit one dataset extremely well, the passage insists that uniqueness is
-precisely what must be shown, not assumed. it highlights how usability versus security
-trade-offs can shift baselines, altering whether key-rotation and forward-secrecy properties
-is even comparable across cases, a move that means that a good fit is not the same as a good
-explanation. If usability versus security trade-offs is changed while the nominal driver
-remains constant is granted, one should expect different outcomes when conditions are
-perturbed. What matters most is the apparent regularity of key-rotation and forward-secrecy
-properties, which is why drives the first interpretation: key-rotation and forward-secrecy
-properties is treated as a direct readout of mechanism. Should key-rotation and forward-
-secrecy properties is uniquely produced by one causal pathway be true, then observations
-from enterprise communication systems would be transferable, and disagreement would be
-largely technical. Rather than the caveat that usability versus security trade-offs might
-reproduce the same pattern, the passage emphasizes that the literature is full of such
-claims. In this sense, content-secure communication systems is best treated as a conditional
-inference rather than as a mere label. In the end, one sees why the passage concludes that
-the most informative evidence is often the evidence that forces competing assumptions into
-the open. by insisting that claims about end-to-end encryption and metadata leakage be
-conditional on stated priors, it turns disagreement into a tool for discovery, which helps
-explain why clarifies why the same record can yield multiple stories without implying that
-any story is arbitrary.
+Readers often assume that a narrator is a transparent window onto events. Yet many
+narratives are built around the opposite idea: the voice telling the story may be limited,
+biased, or strategically misleading. An “unreliable narrator” is not simply a liar.
+Unreliability can arise from ignorance, self-deception, trauma, social pressure, or a desire
+to present oneself favorably. The key is that the text provides clues that the narrator’s
+account should not be accepted at face value. When those clues accumulate, the reader’s task
+shifts from following events to judging the voice that reports them.
+
+One common mechanism is inconsistency. A narrator may describe a scene with confidence and
+then later contradict a detail without noticing the contradiction. If a narrator insists
+that a relationship was harmonious but repeatedly reports small moments of fear or control,
+the mismatch suggests that the narrator is smoothing the story. The unreliability is not an
+external label; it is produced by the tension between what the narrator says and what the
+narrator inadvertently shows. [A] The more the narrator tries to stabilize a self-image, the
+more the narrative can expose cracks in that stability.
+
+Another mechanism is selective emphasis. A narrator may linger on trivial justifications
+while rushing past actions that would be morally questionable if examined. Such pacing is
+itself evidence. When a narrator spends pages explaining why a decision “had to be made,”
+the excess explanation can signal that the decision is ethically fragile. Conversely, a
+brief, flat sentence—“I left him there”—can be more alarming than a detailed confession,
+because the lack of emotional response implies numbness or avoidance. Through such choices,
+the text teaches readers where to look.
+
+Unreliability can also be structural. Some stories present documents—letters, diaries,
+testimony—whose purpose in the fictional world is persuasion. A letter written to a court is
+shaped by what the writer wants the court to believe. A diary can be shaped by what the
+writer wants to believe about themselves. Because the document has an audience, the voice is
+already a performance. [B] The narrator’s claims must therefore be read alongside the social
+stakes of being believed.
+
+Importantly, unreliable narration does not reduce a story to a puzzle with a single hidden
+solution. Often, the “truth” is not fully recoverable, because the text is interested in how
+people construct meaning under pressure. A narrator who is ashamed may omit facts not to
+deceive a reader but to survive internally. In such cases, the reader’s ethical stance
+becomes part of the experience: one can condemn the narrator, sympathize with them, or
+oscillate between both. The narrative’s power lies in that oscillation, which mirrors real
+social life, where people rarely provide complete, neutral accounts of themselves.
+
+Unreliability also reshapes time. When a narrator recounts childhood from adulthood,
+memories can be colored by later ideologies or by a need to justify present outcomes. The
+past becomes a stage on which the narrator rehearses an argument about the self. [C] Details
+that do not fit the argument may be forgotten, and details that do fit may be magnified. The
+reader senses the distortion not by possessing an external camera, but by noticing pattern:
+what is repeated, what is avoided, what is oddly vivid.
+
+Thus, unreliable narration is less a trick than a technique for exploring perception and
+self-making. [D] By forcing readers to evaluate the voice that speaks, the text transforms
+reading into a social act: one listens, doubts, revises, and listens again, discovering that
+narrative truth can be something negotiated rather than merely delivered.
+
+That is why unreliable narration can feel intimate: it exposes the habits of self-
+justification that readers recognize in everyday conversation.
+
 
 Questions
 ---------
 
-1. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. End-to-End Encryption and Metadata Leakage
-   B. the length of the Nile in miles
-   C. protocol verification
-   D. content secrecy with observable metadata
+1. [Rhetorical Purpose] Why does the author stress that an unreliable narrator is “not simply a liar”?
+   A. To show that unreliability can arise from limitation or self-protection as well as deliberate deception
+   B. To argue that narrators are always fully accurate
+   C. To claim that stories should avoid first-person voices
+   D. To suggest that readers can ignore textual clues
 
-2. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [C] This detail becomes important later, when assumptions are tested.
-   A. network adversaries alone, treated as the sole cause
-   B. the idea being discussed in the surrounding sentences
-   C. content secrecy with observable metadata specifically, taken as an unambiguous measurement
-   D. protocol verification as a device rather than as an analytic approach
+2. [Vocabulary] The word “oscillation” in the passage is closest in meaning to:
+   A. back-and-forth movement
+   B. permanent certainty
+   C. silent agreement
+   D. formal testimony
 
-3. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats user behavior studies as a historical curiosity and does not discuss key-rotation and forward-secrecy properties or network adversaries. It ends without any methodological implication.
-   B. The passage argues that content-secure communication systems cannot be studied empirically because confounders like network adversaries make data meaningless. It recommends replacing measurement with intuition and rejecting user behavior studies as unreliable. It concludes that debate persists because evidence never constrains theory.
-   C. The passage claims that encrypted messaging confidentiality is settled because key-rotation and forward-secrecy properties uniquely identifies the mechanism. It argues that network adversaries is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using user behavior studies are unnecessary.
-   D. The passage examines end-to-end encryption and metadata leakage and argues that key-rotation and forward-secrecy properties is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how network adversaries can shift the baseline, especially when evidence is drawn from enterprise communication systems. Finally, it maintains that tests combining user behavior studies with boundary-condition checks are required to make claims about cryptographic end-to-end protection robust.
-
-4. [Rhetorical Purpose] In referring to a contrasting interpretation, the author intends to:
-   A. The author argues that traffic analysis experiments should be replaced by an unmodeled trend line because assumptions distort evidence.
-   B. motivate clearer assumptions and stronger tests, such as comparing cases where traffic analysis experiments constrains network adversaries
-   C. The discussion suggests that network adversaries is the phenomenon itself, so controlling for it would remove the effect of interest.
-   D. The passage implies that messaging apps is chosen to avoid bias, so comparisons across settings are unnecessary.
-
-5. [Factual Information] According to the passage, why does the author emphasize instrument calibration?
-   A. it prevents linkability of communication patterns from being treated as a self-interpreting fingerprint and forces tests that control network adversaries
-   B. The passage implies that protocol verification directly measures causes, meaning confounding from network adversaries is impossible.
-   C. Because network adversaries co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
-   D. Because linkability of communication patterns appears, the mechanism must be unique, so network adversaries can be ignored as irrelevant noise.
-
-6. [Inference] The passage suggests which of the following?
-   A. A convincing explanation should make distinct predictions under shared protocols, especially when protocol upgrade complexity can mimic timing correlation risks.
-   B. The argument is that boundary conditions matter only for older studies, not for modern measurements using side-channel simulation.
-   C. The passage suggests that timing correlation risks is primarily a rhetorical device rather than an empirical constraint on models.
-   D. The passage claims that the best strategy is to average away protocol upgrade complexity, since variability is merely a measurement error.
-
-7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about end-to-end encryption and metadata leakage be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Incompatible cases should be ignored to keep an explanation based on side-channel simulation simple.
-   B. Summaries are always reliable because averaging eliminates usability versus security trade-offs.
-   C. Some summaries seem consistent because they mix incompatible cases, not because linkability of communication patterns uniquely identifies one mechanism.
-   D. Aggregation guarantees that the same mechanism operates in messaging apps and everywhere else.
-
-8. [Vocabulary] In the passage, the word **degenerate** in the sentence below is closest in meaning to:
-   Sentence: Never before analysts began combining side-channel simulation with cross-site comparisons was it defensible to argue that claims about end-to-end encryption and metadata leakage stopped relying on a single figure and started relying on falsifiable predictions.
-   A. complete and final, so no further checks like user behavior studies are needed
-   B. irrelevant to end-to-end encryption and metadata leakage, serving only as background detail
-   C. not uniquely determined
-   D. unavoidable and uncontrollable because protocol upgrade complexity dominates all evidence
-
-9. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: In short, the passage treats methodological humility as a strength, not as an admission of ignorance.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: In that moment, the narrative becomes a mirror that reflects the speaker’s needs as much as it reflects events.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-10. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | protocol verification | Requires careful calibration |
-   | Signal | timing correlation risks | May be sensitive to preprocessing choices |
-   | Confounder | usability versus security trade-offs | Shifts the baseline |
-   Blank: The limitation for 'Signal' is ________.
-   A. Requires careful calibration
-   B. It proves timing correlation risks is unique.
-   C. May be sensitive to preprocessing choices
-   D. Shifts the baseline
+4. [Factual] According to the passage, which of the following can signal unreliability?
+   A. inconsistencies and contradictions the narrator does not acknowledge
+   B. a narrator using dialogue tags
+   C. a story containing only one character
+   D. a narrator always speaking in short sentences
+
+5. [Inference] What can be inferred about why “excess explanation” may indicate ethical fragility?
+   A. A narrator may overjustify actions that would look questionable if examined directly
+   B. Explanations always make a decision morally strong
+   C. Pacing cannot provide evidence about a narrator
+   D. Ethical fragility occurs only in letters to courts
+
+6. [Negative Factual] All of the following are mentioned as sources of unreliability EXCEPT:
+   A. ignorance
+   B. trauma
+   C. social pressure
+   D. thermohaline sinking in the North Atlantic
+
+7. [Reference] In the passage, “the document has an audience” refers to the idea that:
+   A. letters and testimonies are shaped by the desire to persuade specific readers
+   B. diaries cannot be read by anyone
+   C. audience size determines plot
+   D. documents eliminate performance
+
+8. [Organization] How is the passage primarily organized?
+   A. It defines unreliability, then describes several mechanisms (inconsistency, selective emphasis, document purpose, memory), ending with why the technique matters
+   B. It summarizes one novel’s plot only
+   C. It argues that truth in fiction is always recoverable
+   D. It focuses on grammar and punctuation rules
+
+9. [Paraphrase] Which option best restates the claim that reading becomes “a social act”?
+   A. Readers must evaluate a speaker’s credibility the way they would in real conversations, revising beliefs as clues accumulate
+   B. Readers become characters inside the book literally
+   C. Social acts require multiple narrators on every page
+   D. Listening removes the need to interpret patterns
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Unreliable narration is a rare error that occurs only when authors forget details.
+   B. The passage explains unreliable narration as a technique in which textual clues—such as contradictions, selective emphasis, and audience-driven documents—prompt readers to judge the narrator’s voice, making truth partly negotiated and revealing how memory and self-presentation shape storytelling.
+   C. Unreliability makes stories meaningless because events cannot be followed.
+   D. Narrators are reliable whenever they describe emotions vividly.
 
 
 Answer Key
 ----------
-1: B
-2: B
-3: D
-4: B
+1: A
+2: A
+3: A
+4: A
 5: A
-6: A
-7: C
-8: C
-9: D
-10: C
+6: D
+7: A
+8: A
+9: A
+10: B

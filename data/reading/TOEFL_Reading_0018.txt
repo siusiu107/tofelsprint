@@ -1,160 +1,135 @@
-Passage 0018: Exoplanet Atmospheric Characterization via Transmission Spectroscopy (Astronomy)
-==============================================================================================
-(Word count: 786)
+Passage 0018: Public-Key Cryptography, RSA, and the Architecture of Trust (Computer Science)
+============================================================================================
+(Word count: 639)
 
-In the last decade, the analysis suggests researchers have treated wavelength-dependent
-muting by clouds and hazes as the decisive sign of exoplanet atmospheric characterization
-via transmission spectroscopy. Despite the fact that spectral injection–recovery tests can
-make the pattern look unusually sharp, the passage argues that such confidence is
-conditional and must be earned by specifying assumptions. the resulting debate is less about
-data collection than about what the data are evidence for, a move that forces analysts to
-articulate boundary conditions rather than rely on familiar narratives.
+Sending a secret over an open network seems impossible at first: if an eavesdropper can copy
+every packet, how can two people exchange a key without already sharing one? For centuries,
+the practical answer was to rely on couriers or on prearranged codes. Public‑key
+cryptography changed that answer by splitting a single role—“the key”—into two roles that
+interlock: a public component that can be shared widely and a private component that must
+remain hidden. The public part does not reveal the private part easily, yet the two together
+allow a message to be locked by anyone and unlocked by only one holder.
 
-The decisive factor is methodological humility; once that is stated, the passage presents as
-the lesson of exoplanet atmospheric characterization via transmission spectroscopy:
-inference is constrained by what competing models would also predict. If one wishes to move
-from description to explanation, a different prediction follows: then the same
-observation—wavelength-dependent muting by clouds and hazes—must be paired with tests that
-change the conditions under which it appears. Whereas popular summaries treat wavelength-
-dependent muting by clouds and hazes as an endpoint in one account, the passage treats it as
-a starting point for sharper experimental or observational contrasts in another. In this
-sense, transit-spectrum analysis of exoplanet atmospheres is best treated as a conditional
-inference rather than as a mere label.
+RSA, one of the most influential public‑key schemes, depends on a specific asymmetry between
+multiplication and factorization. Multiplying two large primes is computationally
+straightforward, even when the numbers have hundreds of digits. Reversing the
+product—discovering the two primes that generated it—appears to require far more work as the
+numbers grow. RSA uses this asymmetry by choosing two large primes, multiplying them to form
+a modulus, and publishing that modulus as part of the public key. A sender can then encrypt
+a message using a public exponent, producing a cipher that can be reversed efficiently only
+if one knows a corresponding private exponent tied to the primes’ hidden structure.
 
-Only by analysts began combining spectral injection–recovery tests with cross-site
-comparisons was the field forced to accept that claims about exoplanet atmospheric
-characterization via transmission spectroscopy stopped relying on a single figure and
-started relying on falsifiable predictions. the goal was to break degeneracies in which
-wavelength-dependent muting by clouds and hazes could be explained in more than one way in
-part because confounders like pressure–temperature profile degeneracy often co-vary with the
-driver. as the author notes, transparency about priors became an empirical issue rather than
-a stylistic choice, a move that changes whether two analyses are actually comparable.
+The scheme’s security is not based on secrecy of the algorithm; it is based on secrecy of
+the private key. That design choice matters operationally. If the mathematics is public,
+implementations can be tested and scrutinized, and security does not collapse when an
+adversary learns how encryption works. What must be protected is the private exponent and
+the primes that make it possible to compute. [A] If those primes are generated poorly—too
+small, predictable, or reused—then the asymmetry weakens and the private key can be
+reconstructed.
 
-Rarely, unless analysts began combining spectral injection–recovery tests with cross-site
-comparisons, does one see why claims about exoplanet atmospheric characterization via
-transmission spectroscopy stopped relying on a single figure and started relying on
-falsifiable predictions. the goal was to break degeneracies in which wavelength-dependent
-muting by clouds and hazes could be explained in more than one way because, as the author
-notes, confounders like pressure–temperature profile degeneracy often co-vary with the
-driver. as the author notes, transparency about priors became an empirical issue rather than
-a stylistic choice, an outcome that changes whether two analyses are actually comparable. In
-this sense, spectroscopic probing of a planet’s gaseous envelope is best treated as a
-conditional inference rather than as a mere label.
+Public‑key cryptography also changed how trust is managed. If anyone can publish a public
+key, how does a user know the key belongs to the intended website rather than to an
+impersonator? The practical solution is not to abandon public keys but to bind them to
+identities through certificates. A certificate authority signs a statement that a particular
+public key corresponds to a particular domain, and browsers verify that signature. This does
+not eliminate trust; it concentrates it. The system works well when authorities are careful
+and transparent, but it can fail when an authority is compromised or coerced. [B] In such
+cases, an attacker can present a “valid” certificate for a site they do not own, and users
+may be deceived even though the mathematics is unbroken.
 
-Using spectral injection–recovery tests under stable conditions, one frequently cited case
-from sub-Neptunes around M dwarfs appeared to support the direct-readout view. Even though
-the original fit looked visually decisive, later, however, reanalysis showed that small
-shifts in pressure–temperature profile degeneracy altered the baseline enough to mute or
-mimic wavelength-dependent muting by clouds and hazes. the passage treats this episode as
-diagnostic; this, in turn, illustrates why boundary conditions must be specified before
-generalization is attempted.
+The computational landscape also changes over time. Key sizes once considered ample can
+become inadequate as hardware and algorithms improve. A modulus that was difficult to factor
+in 1995 can become tractable decades later, not because the number changed, but because
+human capacity to search did. This is why cryptographic practice treats security as a moving
+threshold rather than as a permanent label. [C] The same principle motivates interest in
+post‑quantum cryptography: if a large-scale quantum computer were built, some factoring
+problems would become much easier, forcing a shift toward schemes based on different hard
+problems.
 
-Working with sparse records and limited controls on pressure–temperature profile degeneracy,
-it is difficult to deny that many early studies framed exoplanet atmospheric
-characterization via transmission spectroscopy as a single-mechanism phenomenon. [A] This is
-presented not as a loophole, but as a disciplined way to avoid overclaiming. Whereas those
-studies emphasized wavelength-dependent muting by clouds and hazes as a signature in one
-account, later work asked whether the same signature survives when protocols and baselines
-differ in another. [B] The discussion makes clear that measurement choices can masquerade as
-mechanism. this shift mattered for how evidence from sub-Neptunes around M dwarfs was
-generalized largely because local conditions can change which processes generate wavelength-
-dependent muting by clouds and hazes. [C] The author suggests that the same evidence can
-support multiple stories when priors differ. [D] Later comparisons reveal why this matters.
-In this sense, bayesian retrieval of atmospheric composition from transits is best treated
-as a conditional inference rather than as a mere label.
+Yet even without futuristic machines, real-world failures often come from mundane causes. A
+server might leak its private key through poor storage, a device might reuse a “random”
+number that is not random, or a user might accept a warning and connect anyway. Public‑key
+cryptography can make secure communication possible, but it cannot replace careful
+engineering and cautious behavior. [D] Its conceptual achievement is nevertheless profound:
+it turns an apparently circular problem— how to share a secret without a shared secret—into
+a solvable one, by arranging mathematics so that locking is easy, unlocking is controlled,
+and the private knowledge needed to unlock remains expensive to reconstruct.
 
-In the end, the passage argues that the passage concludes that the most informative evidence
-is often the evidence that forces competing assumptions into the open. by insisting that
-claims about exoplanet atmospheric characterization via transmission spectroscopy be
-conditional on stated priors, it turns disagreement into a tool for discovery, a move that
-clarifies why the same record can yield multiple stories without implying that any story is
-arbitrary. To be sure, the temptation to treat a tidy plot as a definitive answer is strong,
-yet the result is a framework in which wavelength-dependent muting by clouds and hazes is
-interpreted through explicit boundary conditions rather than through habit.
 
 Questions
 ---------
 
-1. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: As a result, the most valuable observations are often taken during transitions, when competing mechanisms diverge most clearly.
+1. [Inference] What can be inferred from the passage about why public-key cryptography was conceptually important?
+   A. It enabled two parties to establish secure communication without already sharing a secret key through a courier
+   B. It eliminated the need for any private information in security systems
+   C. It required that encryption algorithms be hidden to remain secure
+   D. It made eavesdropping physically impossible on networks
+
+2. [Vocabulary] The word “asymmetry” in the passage is closest in meaning to:
+   A. an imbalance in difficulty between two related tasks
+   B. a secret agreement between users
+   C. a type of certificate
+   D. a stored password
+
+3. [Factual] According to the passage, what mathematical property does RSA rely on?
+   A. It relies on the idea that factoring a product of large primes is much harder than multiplying the primes
+   B. It relies on the fact that prime numbers cannot be multiplied
+   C. It relies on secret algorithms that cannot be examined publicly
+   D. It relies on certificates that cannot be forged under any circumstances
+
+4. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: In effect, the public key is a lock that can be built in public, while the key that opens it is never displayed.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-2. [Factual Information] According to the passage, why does the author emphasize confounder control?
-   A. it prevents water-vapor absorption bands from being treated as a self-interpreting fingerprint and forces tests that control limb-darkening uncertainty
-   B. Because water-vapor absorption bands appears, the mechanism must be unique, so limb-darkening uncertainty can be ignored as irrelevant noise.
-   C. The author suggests that disagreement disappears once water-vapor absorption bands is detected, making model assumptions unnecessary.
-   D. The discussion indicates that replication is redundant if high-dispersion cross-correlation spectroscopy produces a tight fit on one dataset.
+5. [Negative Factual] All of the following are mentioned as ways security can fail EXCEPT:
+   A. poor prime generation or reuse weakening the private key
+   B. a compromised certificate authority issuing misleading certificates
+   C. leaking private keys through careless storage
+   D. ocean upwelling delivering nutrients to phytoplankton
 
-3. [Inference] Which of the following can be inferred from the passage?
-   A. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving Bayesian atmospheric retrieval.
-   B. The author treats hot Jupiters such as WASP-39b as a special case and argues that no broader inference about exoplanet atmospheric characterization via transmission spectroscopy is possible.
-   C. The passage suggests that Rayleigh-scattering slopes is primarily a rhetorical device rather than an empirical constraint on models.
-   D. A convincing explanation should make distinct predictions under shared protocols, especially when stellar activity contamination can mimic Rayleigh-scattering slopes.
+6. [Rhetorical Purpose] Why does the author discuss certificate authorities?
+   A. To show that trust in identities must be managed separately from the mathematics of encryption
+   B. To argue that certificates replace private keys entirely
+   C. To claim that browsers can factor large numbers automatically
+   D. To suggest that RSA is secure only if certificates are secret
 
-4. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | spectral injection–recovery tests | May not generalize across contexts |
-   | Signal | sodium and potassium lines | Can vary across epochs |
-   | Confounder | instrumental systematics | Adds correlated noise |
-   Blank: The limitation for 'Signal' is ________.
-   A. Can vary across epochs
-   B. May not generalize across contexts
-   C. It replaces secondary-eclipse spectroscopy with intuition.
-   D. It proves wavelength-dependent muting by clouds and hazes is unique.
+7. [Reference] In the sentence “The system works well when authorities are careful…,” what does “the system” refer to?
+   A. multiplying two primes to create a modulus
+   B. binding public keys to identities through signed certificates
+   C. sending secrets by courier
+   D. reusing the same random number repeatedly
 
-5. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [A] This is presented not as a loophole, but as a disciplined way to avoid overclaiming.
-   A. the idea being discussed in the surrounding sentences
-   B. stellar activity contamination alone, treated as the sole cause
-   C. secondary-eclipse spectroscopy as a device rather than as an analytic approach
-   D. sodium and potassium lines specifically, taken as an unambiguous measurement
+8. [Organization] How is the passage primarily organized?
+   A. It introduces the key-sharing problem, explains RSA’s mathematical idea, then expands to trust infrastructure and changing computational capacity, ending with practical failure modes
+   B. It provides only equations and no explanation of trust
+   C. It argues that algorithms must be hidden and ends there
+   D. It focuses on quantum computers first and ignores RSA
 
-6. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about exoplanet atmospheric characterization via transmission spectroscopy be conditional on stated priors, it turns disagreement into a tool for discovery, a move that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Incompatible cases should be ignored to keep an explanation based on transmission spectroscopy simple.
-   B. Aggregation guarantees that the same mechanism operates in sub-Neptunes around M dwarfs and everywhere else.
-   C. Summaries are always reliable because averaging eliminates stellar activity contamination.
-   D. Some summaries seem consistent because they mix incompatible cases, not because sodium and potassium lines uniquely identifies one mechanism.
+9. [Paraphrase] Which option best restates the idea that security is “a moving threshold”?
+   A. What is hard to break can change as computing power and algorithms improve, so key sizes must be updated
+   B. Once a key is secure, it remains secure forever regardless of technology
+   C. Security depends only on user behavior and never on computation
+   D. Keys become weaker because the numbers themselves shrink over time
 
-7. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage claims that spectroscopic probing of a planet’s gaseous envelope is settled because Rayleigh-scattering slopes uniquely identifies the mechanism. It argues that chemical disequilibrium is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using spectral injection–recovery tests are unnecessary.
-   B. The passage argues that bayesian retrieval of atmospheric composition from transits cannot be studied empirically because confounders like chemical disequilibrium make data meaningless. It recommends replacing measurement with intuition and rejecting spectral injection–recovery tests as unreliable. It concludes that debate persists because evidence never constrains theory.
-   C. The passage examines exoplanet atmospheric characterization via transmission spectroscopy and argues that Rayleigh-scattering slopes is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how chemical disequilibrium can shift the baseline, especially when evidence is drawn from sub-Neptunes around M dwarfs. Finally, it maintains that tests combining spectral injection–recovery tests with boundary-condition checks are required to make claims about transit-spectrum analysis of exoplanet atmospheres robust.
-   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats spectral injection–recovery tests as a historical curiosity and does not discuss Rayleigh-scattering slopes or chemical disequilibrium. It ends without any methodological implication.
-
-8. [Vocabulary] In the passage, the word **sparse** in the sentence below is closest in meaning to:
-   Sentence: Working with sparse records and limited controls on pressure–temperature profile degeneracy, it is difficult to deny that many early studies framed exoplanet atmospheric characterization via transmission spectroscopy as a single-mechanism phenomenon.
-   A. irrelevant to exoplanet atmospheric characterization via transmission spectroscopy, serving only as background detail
-   B. unavoidable and uncontrollable because chemical disequilibrium dominates all evidence
-   C. thinly spread
-   D. complete and final, so no further checks like high-dispersion cross-correlation spectroscopy are needed
-
-9. [Rhetorical Purpose] In referring to a contrasting interpretation, the author intends to:
-   A. The passage implies that warm Neptunes like GJ 436b is chosen to avoid bias, so comparisons across settings are unnecessary.
-   B. motivate clearer assumptions and stronger tests, such as comparing cases where spectral injection–recovery tests constrains limb-darkening uncertainty
-   C. The author argues that spectral injection–recovery tests should be replaced by an unmodeled trend line because assumptions distort evidence.
-   D. The passage treats Rayleigh-scattering slopes as a confounder and limb-darkening uncertainty as the diagnostic signal that identifies the mechanism.
-
-10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. high-dispersion cross-correlation spectroscopy
-   B. CO2 and CO signatures
-   C. Exoplanet Atmospheric Characterization via Transmission Spectroscopy
-   D. the author’s favorite color
+10. [Summary] Which statement best summarizes the passage?
+   A. RSA makes secrecy unnecessary because public keys reveal private keys instantly.
+   B. The passage explains how public-key cryptography, exemplified by RSA, uses a difficulty gap between multiplication and factoring to allow public locking with private unlocking, while noting that identity trust and real-world implementation choices strongly influence security over time.
+   C. Secure communication is possible only through couriers because networks cannot be protected.
+   D. Certificates eliminate the need for encryption by proving identity alone.
 
 
 Answer Key
 ----------
 1: A
 2: A
-3: D
+3: A
 4: A
-5: A
-6: D
-7: C
-8: C
-9: B
-10: D
+5: D
+6: A
+7: B
+8: A
+9: A
+10: B

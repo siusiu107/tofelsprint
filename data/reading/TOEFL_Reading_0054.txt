@@ -1,152 +1,134 @@
-Passage 0054: Heterogeneous Catalysis on Platinum Surfaces (Chemistry)
-======================================================================
-(Word count: 711)
+Passage 0054: Internal Waves and the Hidden Mixing That Links Ocean Layers (Oceanography)
+=========================================================================================
+(Word count: 604)
 
-Under expanded parameter sweeps, the analysis suggests researchers have treated selectivity
-shifts as the decisive sign of heterogeneous catalysis on platinum surfaces. Even though
-surface microscopy can make the pattern look unusually sharp, the passage argues that such
-confidence is conditional and must be earned by specifying assumptions. the resulting debate
-is less about data collection than about what the data are evidence for, a move that forces
-analysts to articulate boundary conditions rather than rely on familiar narratives.
+To someone watching the sea’s surface, the ocean can appear as a single layer of moving
+water. Below, however, the ocean is stratified. Warm, relatively fresh water often sits
+above colder, saltier, denser water, forming layers separated by sharp gradients in density.
+Because density resists vertical motion, the stratified ocean behaves, in some respects,
+like a stacked fluid rather than a stirred pot. Yet nutrients and heat do move upward and
+downward, and that movement is critical for climate and for marine ecosystems. A major
+engine of that movement is the internal wave.
 
-Granted that the first model can fit one dataset extremely well, the passage insists that
-uniqueness is precisely what must be shown, not assumed. it highlights how facet dependence
-can shift baselines, altering whether selectivity shifts is even comparable across cases,
-something that means that a good fit is not the same as a good explanation. Should facet
-dependence is changed while the nominal driver remains constant be true, one should expect
-different outcomes when conditions are perturbed. In this sense, surface-mediated catalysis
-on pt is best treated as a conditional inference rather than as a mere label.
+Internal waves are waves that propagate along density interfaces within the ocean rather
+than at the surface. When tidal flow pushes water over a ridge or through a narrow strait,
+it can displace isopycnals—surfaces of equal density—creating a slow, rolling wave that
+travels through the ocean interior. The wave’s amplitude can be tens of meters, even though
+the surface hardly changes. In some regions, internal tides generated at seafloor topography
+radiate for hundreds of kilometers. [A] They carry energy away from where they are born, and
+as that energy dissipates, it can be converted into mixing.
 
-Working with sparse records and limited controls on facet dependence, the key question
-becomes whether many early studies framed heterogeneous catalysis on platinum surfaces as a
-single-mechanism phenomenon. Whereas those studies emphasized selectivity shifts as a
-signature is easy to measure, later work asked whether the same signature survives when
-protocols and baselines differ is harder to interpret without assumptions. this shift
-mattered for how evidence from automotive catalytic converters was generalized because, as
-the author notes, local conditions can change which processes generate selectivity shifts.
+Mixing is not uniform. Internal waves can steepen and break, much like surface waves near a
+beach, producing turbulence that stirs water across density layers. Where the ocean is
+rough-bottomed or where currents shear strongly, breaking is more likely. The result is a
+patchwork: quiet stratification punctuated by hotspots of turbulent overturning. These
+hotspots are disproportionately important because they allow deep, nutrient-rich water to
+leak upward and allow surface heat to be exported downward. Phytoplankton growth in the
+sunlit layer, for example, can be limited by nitrogen or iron delivered from below. A burst
+of mixing can therefore fertilize a region, altering food webs and even fisheries.
 
-Only by the field adopted tests that manipulate or stratify facet dependence was the field
-forced to accept that the debate became empirically productive rather than merely
-rhetorical. by comparing cases in which surface microscopy constrains alternatives,
-researchers could ask which predictions survive out of sample, which helps explain why is
-why the passage emphasizes comparative design over isolated exemplars. To be sure, a single
-case can be dramatic, yet the author does not deny the value of striking examples, but warns
-against treating them as representative. In this sense, platinum-catalyzed reaction pathways
-is best treated as a conditional inference rather than as a mere label.
+Internal waves also interact with coastlines. When an internal wave shoals onto a
+continental shelf, it can compress into a packet of internal bores that push cold water
+toward shore at depth. Divers sometimes experience this as a sudden chill sweeping across a
+reef. Such pulses can expose organisms to rapid temperature shifts and can deliver nutrients
+to coastal habitats, influencing kelp and coral growth. [B] In estuaries, internal motions
+can also affect how salinity intrudes, shaping where larvae and plankton are transported.
 
-Only when analysts began combining surface microscopy with cross-site comparisons did claims
-about heterogeneous catalysis on platinum surfaces stopped relying on a single figure and
-started relying on falsifiable predictions. The passage argues that the goal was to break
-degeneracies in which selectivity shifts could be explained in more than one way because
-confounders like facet dependence often co-vary with the driver. as the author notes,
-transparency about priors became an empirical issue rather than a stylistic choice, which
-helps explain why changes whether two analyses are actually comparable.
+Because internal waves are mostly invisible from above, observing them requires creative
+tools. Moorings with temperature and salinity sensors can detect oscillations in density
+surfaces. Autonomous gliders can profile repeatedly, mapping wave structure over time.
+Satellites can sometimes infer internal tides indirectly, because surface currents induced
+by internal motion create subtle roughness patterns. Numerical models, meanwhile, must
+represent wave generation and breaking without explicitly resolving every turbulent eddy,
+which is computationally impossible at global scales.
 
-It is methodological humility that the passage presents as the lesson of heterogeneous
-catalysis on platinum surfaces: inference is constrained by what competing models would also
-predict. [A] The discussion treats exceptions as informative, not as errors to be discarded.
-If one wishes to move from description to explanation, a different prediction follows: then
-the same observation—selectivity shifts—must be paired with tests that change the conditions
-under which it appears. [B] The passage returns to this point to clarify what counts as
-evidence. Whereas popular summaries treat selectivity shifts as an endpoint, the passage
-treats it as a starting point for sharper experimental or observational contrasts. [C] This
-becomes a pivot point where the earlier interpretation is narrowed. [D] The author notes
-that generalization requires more than a single well-chosen case. In this sense, metal-
-surface catalytic conversion is best treated as a conditional inference rather than as a
-mere label.
+The climate connection is direct. The ocean’s large-scale circulation depends on how easily
+deep water can return to the surface. If mixing is too weak, deep water remains isolated,
+and heat and carbon can be trapped for long periods. If mixing is strong, nutrients and
+carbon circulate more rapidly. Internal wave-driven turbulence is therefore a key parameter
+in models of carbon uptake and sea-level rise. It is also a moving target, because changing
+stratification—driven by warming and freshening—can alter where and how waves break.
 
-In the end, one sees why the passage concludes that the most informative evidence is often
-the evidence that forces competing assumptions into the open. by insisting that claims about
-heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns
-disagreement into a tool for discovery, a move that clarifies why the same record can yield
-multiple stories without implying that any story is arbitrary. Even if the temptation to
-treat a tidy plot as a definitive answer is strong, the result is a framework in which
-selectivity shifts is interpreted through explicit boundary conditions rather than through
-habit.
+In short, internal waves are the ocean’s hidden movers. [C] They transport energy through
+layered water and then, by breaking, convert that energy into the mixing that links the deep
+ocean to the surface. [D] The sea may look calm, but within it a slow, tidal heartbeat
+continually stirs the layers that make marine life—and climate—possible.
+
 
 Questions
 ---------
 
-1. [Inference] The passage suggests which of the following?
-   A. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving DFT surface modeling.
-   B. A convincing explanation should make distinct predictions under shared protocols, especially when support interactions can mimic selectivity shifts.
-   C. The passage suggests that selectivity shifts is primarily a rhetorical device rather than an empirical constraint on models.
-   D. The author treats laboratory single-crystal studies as a special case and argues that no broader inference about heterogeneous catalysis on platinum surfaces is possible.
+1. [Vocabulary] The word “isopycnals” in the passage refers to:
+   A. surfaces of equal density within the ocean
+   B. surface foam created by wind
+   C. deep-sea volcanic glass layers
+   D. satellite images of roughness
 
-2. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: In other words, the disagreement is not about whether the data exist, but about what the data are evidence for.
+2. [Factual] According to the passage, what commonly generates internal tides?
+   A. tidal flow interacting with seafloor topography such as ridges and straits
+   B. cosmic rays striking the sea surface
+   C. chemical reactions between salt and sunlight
+   D. seasonal changes in Earth’s orbit
+
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: Unlike surface swells, these waves can be huge in the interior while leaving only faint traces at the top.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-3. [Rhetorical Purpose] In referring to a contrasting interpretation, the author intends to:
-   A. The discussion suggests that facet dependence is the phenomenon itself, so controlling for it would remove the effect of interest.
-   B. motivate clearer assumptions and stronger tests, such as comparing cases where temperature-programmed desorption constrains facet dependence
-   C. The author suggests that the key synonym 'Pt-active-site chemistry' refers to a different field altogether, not to heterogeneous catalysis on platinum surfaces.
-   D. The passage implies that electrochemical interfaces is chosen to avoid bias, so comparisons across settings are unnecessary.
+4. [Inference] What can be inferred about why mixing “hotspots” are important in a stratified ocean?
+   A. They provide rare pathways for nutrients and heat to cross density layers, influencing ecosystems and climate
+   B. They prevent any vertical movement from occurring anywhere else
+   C. They eliminate stratification entirely across the globe
+   D. They occur only at the surface and thus affect only wind waves
 
-4. [Vocabulary] In the passage, the word **preliminary** in the sentence below is closest in meaning to:
-   Sentence: Only by the field adopted tests that manipulate or stratify facet dependence was the field forced to accept that the debate became empirically productive rather than merely rhetorical.
-   A. unavoidable and uncontrollable because adsorbate coverage effects dominates all evidence
-   B. complete and final, so no further checks like in situ spectroscopy are needed
-   C. irrelevant to heterogeneous catalysis on platinum surfaces, serving only as background detail
-   D. early
+5. [Negative Factual] All of the following are mentioned as observation tools for internal waves EXCEPT:
+   A. sensor moorings
+   B. autonomous gliders
+   C. satellite inferences from surface roughness
+   D. portable X-ray fluorescence on stone tools
 
-5. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | microkinetic modeling | May not generalize across contexts |
-   | Signal | poisoning by CO | Can vary across epochs |
-   | Confounder | catalyst deactivation | Shifts the baseline |
-   Blank: The limitation for 'Confounder' is ________.
-   A. May not generalize across contexts
-   B. Can vary across epochs
-   C. Shifts the baseline
-   D. It proves rate enhancement is unique.
+6. [Rhetorical Purpose] Why does the author describe divers feeling a “sudden chill” on a reef?
+   A. To give a concrete example of how internal bores can rapidly bring cold water shoreward
+   B. To argue that reefs do not experience temperature change
+   C. To show that internal waves are always dangerous to humans
+   D. To claim that reefs generate internal tides by themselves
 
-6. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage examines heterogeneous catalysis on platinum surfaces and argues that poisoning by CO is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how support interactions can shift the baseline, especially when evidence is drawn from automotive catalytic converters. Finally, it maintains that tests combining temperature-programmed desorption with boundary-condition checks are required to make claims about surface-mediated catalysis on pt robust.
-   B. The passage claims that platinum-catalyzed reaction pathways is settled because poisoning by CO uniquely identifies the mechanism. It argues that support interactions is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using temperature-programmed desorption are unnecessary.
-   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats temperature-programmed desorption as a historical curiosity and does not discuss poisoning by CO or support interactions. It ends without any methodological implication.
-   D. The passage argues that metal-surface catalytic conversion cannot be studied empirically because confounders like support interactions make data meaningless. It recommends replacing measurement with intuition and rejecting temperature-programmed desorption as unreliable. It concludes that debate persists because evidence never constrains theory.
+7. [Reference] In the passage, “these hotspots” refers to:
+   A. localized regions where internal waves break and turbulence mixes water across density layers
+   B. coastal restaurants that print new menus
+   C. volcanic flows that produce obsidian
+   D. patches of desert vegetation using CAM
 
-7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns disagreement into a tool for discovery, a move that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Some summaries seem consistent because they mix incompatible cases, not because rate enhancement uniquely identifies one mechanism.
-   B. Aggregation guarantees that the same mechanism operates in electrochemical interfaces and everywhere else.
-   C. Summaries are always reliable because averaging eliminates support interactions.
-   D. Incompatible cases should be ignored to keep an explanation based on DFT surface modeling simple.
+8. [Organization] How is the passage primarily organized?
+   A. It introduces stratification, explains what internal waves are and how they are generated, describes how breaking produces patchy mixing and ecological effects, then discusses observation challenges and climate implications
+   B. It lists fish species by size
+   C. It argues that ocean layers never mix at all
+   D. It focuses only on tides at the surface
 
-8. [Factual Information] The passage indicates that confounder control is important mainly because:
-   A. Since rate enhancement is observed in laboratory single-crystal studies, it must generalize to every setting, regardless of boundary conditions.
-   B. Because rate enhancement appears, the mechanism must be unique, so support interactions can be ignored as irrelevant noise.
-   C. Because support interactions co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
-   D. it prevents rate enhancement from being treated as a self-interpreting fingerprint and forces tests that control support interactions
+9. [Paraphrase] Which option best restates the claim that internal waves are “hidden movers”?
+   A. They drive interior energy transport and mixing that link deep and surface layers even though they are hard to see from above
+   B. They move ships by pushing directly on hulls
+   C. They are identical to surface waves created by wind
+   D. They are myths invented by divers
 
-9. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. poisoning by CO
-   B. Heterogeneous Catalysis on Platinum Surfaces
-   C. the price of coal in 1700
-   D. temperature-programmed desorption
-
-10. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [C] This becomes a pivot point where the earlier interpretation is narrowed.
-   A. facet dependence alone, treated as the sole cause
-   B. in situ spectroscopy as a device rather than as an analytic approach
-   C. the idea being discussed in the surrounding sentences
-   D. selectivity shifts specifically, taken as an unambiguous measurement
+10. [Summary] Which statement best summarizes the passage?
+   A. Internal waves occur only on the surface and have no effect on ecosystems or climate.
+   B. The passage explains that internal waves propagate along density layers in a stratified ocean, are generated by tides interacting with topography, and, when they break, create patchy turbulence that transports nutrients and heat, affecting coastal habitats and large-scale climate circulation, even though such waves are difficult to observe directly.
+   C. Mixing is uniform everywhere in the ocean, so internal waves are irrelevant.
+   D. Satellites can always see internal waves clearly because they create large surface storms.
 
 
 Answer Key
 ----------
-1: B
-2: B
-3: B
-4: D
-5: C
+1: A
+2: A
+3: A
+4: A
+5: D
 6: A
 7: A
-8: D
-9: C
-10: C
+8: A
+9: A
+10: B

@@ -1,148 +1,136 @@
-Passage 0044: Heterogeneous Catalysis on Platinum Surfaces (Chemistry)
-======================================================================
-(Word count: 648)
+Passage 0044: Fresco as Chemistry, Workflow, and Conservation Challenge (Art History)
+=====================================================================================
+(Word count: 607)
 
-In surface-science experiments, it becomes plausible that researchers have treated rate
-enhancement as the decisive sign of heterogeneous catalysis on platinum surfaces. Even
-though DFT surface modeling can make the pattern look unusually sharp, the passage argues
-that such confidence is conditional and must be earned by specifying assumptions. the
-resulting debate is less about data collection than about what the data are evidence for,
-which forces analysts to articulate boundary conditions rather than rely on familiar
-narratives.
+A fresco looks, to a casual visitor, like paint applied to a wall. Yet a true fresco is
+closer to a chemical collaboration between pigment and plaster, one that depends on timing.
+In the technique known as buon fresco (“true fresco”), an artist applies pigment suspended
+in water onto fresh, wet lime plaster. As the plaster dries, it undergoes carbonation:
+calcium hydroxide reacts with carbon dioxide in the air to form calcium carbonate. Pigment
+particles become embedded within this growing mineral matrix, which can produce
+extraordinary durability.
 
-It is methodological humility that the passage presents as the lesson of heterogeneous
-catalysis on platinum surfaces: inference is constrained by what competing models would also
-predict. [A] At first glance, the pattern seems obvious, yet the author frames it as
-conditional. If one wishes to move from description to explanation, then the same
-observation—rate enhancement—must be paired with tests that change the conditions under
-which it appears. [B] That point is not rhetorical; it controls which prediction follows.
-Whereas popular summaries treat rate enhancement as an endpoint looks decisive, the passage
-treats it as a starting point for sharper experimental or observational contrasts becomes
-more predictive under replication. [C] The argument hinges on what would change under an
-alternative explanation. [D] The author treats this as a clue rather than as a nuisance. In
-this sense, surface-mediated catalysis on pt is best treated as a conditional inference
-rather than as a mere label.
+The craft begins with preparing the wall. A rough underlayer, the arriccio, provides a
+stable base and can be marked with a preliminary sketch. The final smooth layer, the
+intonaco, is applied in small sections called giornate, literally “day’s work,” because the
+artist must paint before the plaster sets. This constraint shapes composition. Large scenes
+are planned so that seams fall along natural boundaries—an architectural edge, a fold of
+fabric—so that transitions are less visible. [A] The day-by-day rhythm means that fresco is
+as much scheduling as artistry: the wall’s chemistry dictates the pace of imagination.
 
-Working with sparse records and limited controls on support interactions, the author treats
-the complication as diagnostic, so many early studies framed heterogeneous catalysis on
-platinum surfaces as a single-mechanism phenomenon. Whereas those studies emphasized rate
-enhancement as a signature in one account, later work asked whether the same signature
-survives when protocols and baselines differ in another. this shift mattered for how
-evidence from industrial hydrogenation reactors was generalized because local conditions can
-change which processes generate rate enhancement, which is why replication matters.
+Pigments must also be chosen with chemistry in mind. Some pigments tolerate the alkaline
+environment of wet lime; others do not. Organic dyes and certain blues can degrade or shift
+color. Artists therefore favored mineral pigments such as ochres for reds and yellows, green
+earth for muted greens, and carbon black for deep shadows. The famous blue of some
+Renaissance ceilings, made from lapis lazuli, posed a problem because ultramarine could be
+altered by the plaster’s alkalinity. To preserve its brilliance, artists sometimes applied
+it a secco—on dry plaster—using a binder such as egg or glue. The result could be visually
+striking yet mechanically more fragile, because the pigment sat on the surface rather than
+being locked into the carbonate matrix.
 
-Rarely has it been the case that the debate became empirically productive rather than merely
-rhetorical, at least before the field adopted tests that manipulate or stratify support
-interactions. by comparing cases in which DFT surface modeling constrains alternatives,
-researchers could ask which predictions survive out of sample, which forces analysts to
-admit that is why the passage emphasizes comparative design over isolated exemplars. Despite
-the fact that a single case can be dramatic, the author does not deny the value of striking
-examples, but warns against treating them as representative. In this sense, platinum-
-catalyzed reaction pathways is best treated as a conditional inference rather than as a mere
-label.
+This difference matters to conservators. A buon fresco layer can survive centuries of
+humidity swings, while a secco addition can flake when salts migrate through the wall and
+crystallize near the surface. Salt crystallization exerts pressure in pores, pushing
+particles apart. Similarly, water infiltration can dissolve and redeposit minerals, leaving
+efflorescence—white blooms—that obscure colors. [B] Even when pigments remain intact, the
+wall can change under them, as if the painting were sitting on a slowly evolving geological
+substrate.
 
-Only by analysts began combining DFT surface modeling with cross-site comparisons was the
-field forced to accept that claims about heterogeneous catalysis on platinum surfaces
-stopped relying on a single figure and started relying on falsifiable predictions. the goal
-was to break degeneracies in which rate enhancement could be explained in more than one way
-largely because confounders like support interactions often co-vary with the driver. as the
-author notes, transparency about priors became an empirical issue rather than a stylistic
-choice; this, in turn, changes whether two analyses are actually comparable. In this sense,
-metal-surface catalytic conversion is best treated as a conditional inference rather than as
-a mere label.
+Restoration therefore requires diagnosis. Conservators may use raking light to reveal raised
+cracks, microscopy to examine plaster layers, and carefully controlled cleaning to remove
+soot without stripping original pigment. Decisions are ethical as well as technical. Over-
+cleaning can erase a painter’s subtle shading, while under-cleaning can leave the image dull
+and unreadable. Some restorations aim for visual unity; others prefer to leave losses
+visible, preserving the record of damage rather than simulating wholeness. Each approach
+implies a philosophy of what it means for a wall painting to “be” the artwork: the original
+surface, the accumulated history, or a curated compromise.
 
-In the end, the central disagreement can be stated more precisely: the passage concludes
-that the most informative evidence is often the evidence that forces competing assumptions
-into the open. by insisting that claims about heterogeneous catalysis on platinum surfaces
-be conditional on stated priors, it turns disagreement into a tool for discovery; this, in
-turn, clarifies why the same record can yield multiple stories without implying that any
-story is arbitrary. Despite the fact that the temptation to treat a tidy plot as a
-definitive answer is strong, the result is a framework in which rate enhancement is
-interpreted through explicit boundary conditions rather than through habit.
+Fresco’s constraints also influenced style. Because blending must be done quickly on wet
+plaster, fresco painters often used bold forms and clear tonal zones. Fine details could be
+added later a secco, but those additions risked decay. In this way, technique and aesthetics
+intertwined. A fresco’s apparent simplicity can be an artifact of chemical deadlines, not of
+limited imagination. [C]
+
+Thus, a fresco is not merely pigment on stone; it is pigment becoming stone. [D] Its
+endurance rests on the moment when a wet wall turns into carbonate rock and traps color
+inside a crystal framework—an outcome that depends on the artist’s ability to work at the
+speed of chemistry.
+
 
 Questions
 ---------
 
-1. [Inference] Which of the following can be inferred from the passage?
-   A. A convincing explanation should make distinct predictions under shared protocols, especially when catalyst deactivation can mimic rate enhancement.
-   B. The argument is that boundary conditions matter only for older studies, not for modern measurements using temperature-programmed desorption.
-   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving temperature-programmed desorption.
-   D. The passage claims that the best strategy is to average away catalyst deactivation, since variability is merely a measurement error.
+1. [Factual] According to the passage, what chemical process helps make buon fresco durable?
+   A. carbonation that forms calcium carbonate and embeds pigment in the plaster matrix
+   B. evaporation that turns pigments into crystals on the surface
+   C. oxidation that burns soot away from the wall
+   D. polymerization of synthetic resins in modern paint
 
-2. [Rhetorical Purpose] By bringing up competing viewpoints, the author is trying to:
-   A. The passage implies that laboratory single-crystal studies is chosen to avoid bias, so comparisons across settings are unnecessary.
-   B. The discussion suggests that adsorbate coverage effects is the phenomenon itself, so controlling for it would remove the effect of interest.
-   C. motivate clearer assumptions and stronger tests, such as comparing cases where DFT surface modeling constrains adsorbate coverage effects
-   D. The author argues that DFT surface modeling should be replaced by an unmodeled trend line because assumptions distort evidence.
+2. [Vocabulary] The word “giornate” in the passage most nearly refers to:
+   A. sections of fresh plaster intended to be painted in a single day
+   B. a mineral used to create ultramarine blue
+   C. salts that crystallize on wall surfaces
+   D. a cleaning technique using raking light
 
-3. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage claims that platinum-catalyzed reaction pathways is settled because poisoning by CO uniquely identifies the mechanism. It argues that support interactions is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using DFT surface modeling are unnecessary.
-   B. The passage examines heterogeneous catalysis on platinum surfaces and argues that poisoning by CO is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how support interactions can shift the baseline, especially when evidence is drawn from industrial hydrogenation reactors. Finally, it maintains that tests combining DFT surface modeling with boundary-condition checks are required to make claims about surface-mediated catalysis on pt robust.
-   C. The passage argues that metal-surface catalytic conversion cannot be studied empirically because confounders like support interactions make data meaningless. It recommends replacing measurement with intuition and rejecting DFT surface modeling as unreliable. It concludes that debate persists because evidence never constrains theory.
-   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats DFT surface modeling as a historical curiosity and does not discuss poisoning by CO or support interactions. It ends without any methodological implication.
-
-4. [Reference] In the passage, the word **it** in the sentence below refers to:
-   Sentence: In surface-science experiments, it becomes plausible that researchers have treated rate enhancement as the decisive sign of heterogeneous catalysis on platinum surfaces.
-   A. facet dependence alone, treated as the sole cause
-   B. selectivity shifts specifically, taken as an unambiguous measurement
-   C. the idea being discussed in the surrounding sentences
-   D. surface microscopy as a device rather than as an analytic approach
-
-5. [Vocabulary] In the passage, the word **subtle** in the sentence below is closest in meaning to:
-   Sentence: [B] That point is not rhetorical; it controls which prediction follows.
-   A. irrelevant to heterogeneous catalysis on platinum surfaces, serving only as background detail
-   B. complete and final, so no further checks like microkinetic modeling are needed
-   C. slight
-   D. unavoidable and uncontrollable because support interactions dominates all evidence
-
-6. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. poisoning by CO
-   B. in situ spectroscopy
-   C. Heterogeneous Catalysis on Platinum Surfaces
-   D. a recipe for bread fermentation
-
-7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Incompatible cases should be ignored to keep an explanation based on temperature-programmed desorption simple.
-   B. Some summaries seem consistent because they mix incompatible cases, not because selectivity shifts uniquely identifies one mechanism.
-   C. Summaries are always reliable because averaging eliminates facet dependence.
-   D. Aggregation guarantees that the same mechanism operates in automotive catalytic converters and everywhere else.
-
-8. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | in situ spectroscopy | Depends on modeling priors |
-   | Signal | rate enhancement | May be sensitive to preprocessing choices |
-   | Confounder | facet dependence | Can mimic the target feature |
-   Blank: The limitation for 'Confounder' is ________.
-   A. It makes support interactions irrelevant.
-   B. It proves rate enhancement is unique.
-   C. Depends on modeling priors
-   D. Can mimic the target feature
-
-9. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: The argument also suggests that disagreement can be productive, since it forces boundary conditions to be stated rather than assumed.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: Once the surface loses its wet sheen, pigment can no longer merge into the setting layer in the same way.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-10. [Factual Information] The passage indicates that model assumptions is important mainly because:
-   A. Since structure-sensitive activity is observed in electrochemical interfaces, it must generalize to every setting, regardless of boundary conditions.
-   B. it prevents structure-sensitive activity from being treated as a self-interpreting fingerprint and forces tests that control support interactions
-   C. Because structure-sensitive activity appears, the mechanism must be unique, so support interactions can be ignored as irrelevant noise.
-   D. Because support interactions co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
+4. [Inference] What can be inferred about why a secco additions are often more fragile than buon fresco layers?
+   A. They rely on binders on a dry surface rather than being incorporated into the carbonate matrix
+   B. They contain no pigment particles
+   C. They prevent salts from migrating through the wall
+   D. They are painted only in caves without moisture
+
+5. [Rhetorical Purpose] Why does the author discuss salt crystallization and efflorescence?
+   A. To show how physical and chemical changes in walls can damage or obscure fresco surfaces over time
+   B. To argue that frescoes cannot be restored ethically
+   C. To claim that pigments are always chemically unstable in lime
+   D. To suggest that humidity has no effect on murals
+
+6. [Negative Factual] All of the following are mentioned as tools or methods used by conservators EXCEPT:
+   A. raking light
+   B. microscopy of plaster layers
+   C. carefully controlled cleaning
+   D. GPS receivers tracking plate motion
+
+7. [Reference] In the passage, “this difference” refers to the distinction between:
+   A. pigment embedded by buon fresco versus pigment applied on dry plaster a secco
+   B. arriccio and intonaco being identical layers
+   C. ochres and carbon black being synthetic
+   D. humidity and temperature having the same effect
+
+8. [Organization] How is the passage primarily organized?
+   A. It explains the chemistry and workflow of buon fresco, contrasts it with a secco additions, then connects material differences to conservation challenges and stylistic consequences
+   B. It narrates a single artist’s biography
+   C. It lists pigments by price only
+   D. It argues that wall paintings are always temporary
+
+9. [Paraphrase] Which option best restates “fresco is as much scheduling as artistry”?
+   A. Because plaster sets on a chemical timetable, painters must plan composition and work pace around drying
+   B. Fresco painters schedule visits to museums after finishing
+   C. Artistry is irrelevant to fresco because walls paint themselves
+   D. Scheduling matters only for modern acrylic murals
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Fresco painting is identical to oil painting on canvas, so wall chemistry is irrelevant.
+   B. The passage explains that buon fresco embeds pigments into wet lime plaster through carbonation, describes how giornate and alkaline chemistry shape pigment choice and workflow, and shows why these material differences matter for conservation, restoration ethics, and the visual style of wall paintings.
+   C. Ultramarine is always used in buon fresco because it is stable in wet lime.
+   D. Conservators restore frescoes by repainting them completely to remove evidence of damage.
 
 
 Answer Key
 ----------
 1: A
-2: C
-3: B
-4: C
-5: C
+2: A
+3: A
+4: A
+5: A
 6: D
-7: B
-8: D
+7: A
+8: A
 9: A
 10: B

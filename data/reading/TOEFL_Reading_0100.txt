@@ -1,158 +1,142 @@
-Passage 0100: Residential Segregation and the Persistence of Neighborhood Inequality (Sociology)
-================================================================================================
-(Word count: 747)
+Passage 0100: Urban Heat Islands, Cool Roofs, and the Physics of City Warmth (Environmental Science)
+====================================================================================================
+(Word count: 612)
 
-Against that intuitive story, the analysis suggests researchers have treated disparate
-exposure to pollution as the decisive sign of residential segregation and the persistence of
-neighborhood inequality. Even if quasi-experimental policy evaluation can make the pattern
-look unusually sharp, the passage argues that such confidence is conditional and must be
-earned by specifying assumptions. the resulting debate is less about data collection than
-about what the data are evidence for; this, in turn, forces analysts to articulate boundary
-conditions rather than rely on familiar narratives.
+Cities often run warmer than their surrounding countryside, especially at night. This “urban
+heat island” is not a metaphor; it is a measurable temperature difference created by how
+built surfaces absorb, store, and release energy. Concrete, asphalt, and dark roofs have low
+albedo, meaning they reflect little sunlight and instead convert more solar radiation into
+heat. Vegetation, by contrast, cools through shade and through evapotranspiration, the
+process by which water evaporating from leaves removes latent heat from the surface. When
+vegetation is replaced by impermeable, dark materials, the city’s surface energy balance
+shifts toward warming.
 
-Only after the field adopted tests that manipulate or stratify path dependence from
-historical redlining did the earlier interpretation begin to look fragile, so the debate
-became empirically productive rather than merely rhetorical. by comparing cases in which
-quasi-experimental policy evaluation constrains alternatives, researchers could ask which
-predictions survive out of sample, something that is why the passage emphasizes comparative
-design over isolated exemplars. Even though a single case can be dramatic, the author does
-not deny the value of striking examples, but warns against treating them as representative.
-In this sense, spatial stratification in cities is best treated as a conditional inference
-rather than as a mere label.
+Geometry amplifies the effect. In dense neighborhoods, buildings form street canyons that
+trap radiation. Sunlight can bounce between walls and pavement rather than escaping back to
+the sky, and at night the longwave radiation emitted by surfaces can be absorbed and re-
+emitted within the canyon, slowing cooling. Wind is also modified. Tall buildings can reduce
+ventilation, limiting convective heat loss and trapping vehicle exhaust and warm air. [A]
+The same structures that create economic density can therefore create thermal density.
 
-Only through the field adopted tests that manipulate or stratify path dependence from
-historical redlining could one reasonably claim that the debate became empirically
-productive rather than merely rhetorical. [A] The author uses the example to separate
-detection from interpretation. by comparing cases in which quasi-experimental policy
-evaluation constrains alternatives, researchers could ask which predictions survive out of
-sample, which forces analysts to admit that is why the passage emphasizes comparative design
-over isolated exemplars. [B] The author treats this as a clue rather than as a nuisance.
-Granted that a single case can be dramatic, the author does not deny the value of striking
-examples, but warns against treating them as representative. [C] The author shifts from
-narrative to diagnosis, focusing on what the data cannot rule out. [D] This reasoning
-matters because it changes what counts as a decisive test.
+Human activity adds heat directly. Air conditioners move heat from indoors to outdoors,
+concentrating it in the street-level air. Cars, buses, and industrial equipment release
+waste heat as fuel is converted to motion. In winter climates, heating systems add
+additional energy to the urban atmosphere. While this anthropogenic heat is often smaller
+than solar input during the day, it can be significant at night and during heat waves, when
+electricity demand spikes and cooling systems work hardest.
 
-Only when analysts began combining quasi-experimental policy evaluation with cross-site
-comparisons did claims about residential segregation and the persistence of neighborhood
-inequality stopped relying on a single figure and started relying on falsifiable
-predictions. the goal was to break degeneracies in which disparate exposure to pollution
-could be explained in more than one way in part because confounders like path dependence
-from historical redlining often co-vary with the driver. as the author notes, transparency
-about priors became an empirical issue rather than a stylistic choice, which is precisely
-why changes whether two analyses are actually comparable. In this sense, segregation-driven
-inequality across neighborhoods is best treated as a conditional inference rather than as a
-mere label.
+The consequences are not only uncomfortable; they are physiological and economic. Higher
+nighttime temperatures reduce the body’s ability to recover from daytime heat stress,
+increasing heat-related illness risk. Electricity consumption rises as cooling demand
+increases, which can overload grids and raise emissions if electricity is generated from
+fossil fuels. Heat can also worsen air quality by accelerating chemical reactions that form
+ground-level ozone. Thus, the heat island is both a local climate issue and a public health
+issue.
 
-What matters most is methodological humility, which is why the passage presents as the
-lesson of residential segregation and the persistence of neighborhood inequality: inference
-is constrained by what competing models would also predict. Provided that one wishes to move
-from description to explanation, then the same observation—disparate exposure to
-pollution—must be paired with tests that change the conditions under which it appears.
-Whereas popular summaries treat disparate exposure to pollution as an endpoint may be
-convenient, the passage treats it as a starting point for sharper experimental or
-observational contrasts is scientifically revealing.
+Mitigation strategies target causes. “Cool roofs” use reflective coatings or light-colored
+materials to increase albedo, reducing heat absorption. Green roofs add vegetation, which
+cools through evapotranspiration and provides insulation. Street trees and parks introduce
+shade and can reduce surface temperatures dramatically, though they require water and
+maintenance. Permeable pavements can increase evaporative cooling by allowing water to
+infiltrate, and urban design that improves airflow can enhance convective heat removal. [B]
+These interventions differ in cost and in where they work best, because a shaded residential
+street and an industrial rooftop present different thermal problems.
 
-In replication attempts, the analysis suggests the apparent consensus fractured when similar
-protocols were applied in settings unlike rapidly growing Sun Belt regions. the same summary
-statistic could be reproduced while the underlying mechanisms differed because path
-dependence from historical redlining shifted the baseline in different directions across
-sites. Rather than treating disparate exposure to pollution as a self-sufficient conclusion,
-the passage emphasizes that the author therefore separates detection from interpretation. In
-this sense, persistent neighborhood-level disparities is best treated as a conditional
-inference rather than as a mere label.
+Trade-offs also matter. Reflective surfaces can reduce cooling demand in summer but, in cold
+climates, they can slightly increase heating demand in winter. Trees cool but can also trap
+pollutants in stagnant conditions if ventilation is poor, and some species emit biogenic
+volatile organic compounds that can contribute to ozone under certain conditions.
+Nevertheless, the broad pattern is clear: reducing absorbed solar energy and increasing
+evaporative and convective losses lowers urban temperatures.
 
-In the end, the passage argues that the passage concludes that the most informative evidence
-is often the evidence that forces competing assumptions into the open. by insisting that
-claims about residential segregation and the persistence of neighborhood inequality be
-conditional on stated priors, it turns disagreement into a tool for discovery; this, in
-turn, clarifies why the same record can yield multiple stories without implying that any
-story is arbitrary. Despite the fact that the temptation to treat a tidy plot as a
-definitive answer is strong, the result is a framework in which disparate exposure to
-pollution is interpreted through explicit boundary conditions rather than through habit.
+Urban heat islands remind us that climate is shaped by materials and design as well as by
+latitude. [C] A city can become hotter because of choices that are mundane—roof color,
+pavement type, tree cover—and those choices can be revised. [D] The challenge is to deploy
+solutions at scale while accounting for local climate, water availability, and equity, since
+the hottest neighborhoods are often those with the least shade and the fewest resources to
+adapt.
+
+In practice, the best interventions blend surfaces, shade, and water management, because
+cities are mosaics, not uniform slabs.
+
+In practice, the best interventions blend surfaces, shade, and water management, because
+cities are mosaics, not uniform slabs.
+
 
 Questions
 ---------
 
-1. [Factual Information] According to the passage, why does the author emphasize boundary conditions?
-   A. Because credit market discrimination co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
-   B. it prevents school-quality gradients from being treated as a self-interpreting fingerprint and forces tests that control credit market discrimination
-   C. The passage implies that quasi-experimental policy evaluation directly measures causes, meaning confounding from credit market discrimination is impossible.
-   D. The author suggests that disagreement disappears once school-quality gradients is detected, making model assumptions unnecessary.
+1. [Factual] According to the passage, what is one major reason cities are warmer than surrounding rural areas?
+   A. dark, low-albedo surfaces absorb more solar radiation and store heat
+   B. cities contain more basalt columns that generate heat
+   C. urban areas receive more starlight during transits
+   D. tree rings in cities are narrower, releasing energy
 
-2. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about residential segregation and the persistence of neighborhood inequality be conditional on stated priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Incompatible cases should be ignored to keep an explanation based on audit studies in housing markets simple.
-   B. Summaries are always reliable because averaging eliminates informational asymmetries in housing search.
-   C. Aggregation guarantees that the same mechanism operates in post-industrial cities and everywhere else.
-   D. Some summaries seem consistent because they mix incompatible cases, not because mobility constraints across space uniquely identifies one mechanism.
+2. [Vocabulary] The word “albedo” in the passage is closest in meaning to:
+   A. the reflectivity of a surface to sunlight
+   B. the moisture content of lime plaster
+   C. the speed of money circulation
+   D. the tendency of cones to open after fire
 
-3. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. Residential Segregation and the Persistence of Neighborhood Inequality
-   B. school-quality gradients
-   C. a recipe for bread fermentation
-   D. longitudinal panel data
-
-4. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | spatial autocorrelation analysis | Can introduce systematic bias |
-   | Signal | disparate exposure to pollution | Can be contaminated by background variability |
-   | Confounder | informational asymmetries in housing search | Co-varies with the driver of interest |
-   Blank: The limitation for 'Method' is ________.
-   A. It replaces longitudinal panel data with intuition.
-   B. Can introduce systematic bias
-   C. Can be contaminated by background variability
-   D. It proves school-quality gradients is unique.
-
-5. [Rhetorical Purpose] In referring to a contrasting interpretation, the author intends to:
-   A. motivate clearer assumptions and stronger tests, such as comparing cases where quasi-experimental policy evaluation constrains zoning rules and land-use regulation
-   B. The author argues that quasi-experimental policy evaluation should be replaced by an unmodeled trend line because assumptions distort evidence.
-   C. The passage treats wealth accumulation gaps as a confounder and zoning rules and land-use regulation as the diagnostic signal that identifies the mechanism.
-   D. The discussion suggests that zoning rules and land-use regulation is the phenomenon itself, so controlling for it would remove the effect of interest.
-
-6. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: The argument also suggests that disagreement can be productive, since it forces boundary conditions to be stated rather than assumed.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: As a result, the nighttime city can cool more slowly even after the sun has set.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-7. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [D] This reasoning matters because it changes what counts as a decisive test.
-   A. the idea being discussed in the surrounding sentences
-   B. zoning rules and land-use regulation alone, treated as the sole cause
-   C. mobility constraints across space specifically, taken as an unambiguous measurement
-   D. quasi-experimental policy evaluation as a device rather than as an analytic approach
+4. [Inference] What can be inferred about why heat islands can increase health risks during heat waves?
+   A. Warmer nights prevent physiological recovery from daytime heat, increasing cumulative stress on the body
+   B. Cities eliminate all humidity, causing dehydration instantly
+   C. Heat islands reduce ozone formation by cooling chemical reactions
+   D. Anthropogenic heat occurs only in winter and cannot matter in summer
 
-8. [Vocabulary] In the passage, the word **preliminary** in the sentence below is closest in meaning to:
-   Sentence: What matters most is methodological humility, which is why the passage presents as the lesson of residential segregation and the persistence of neighborhood inequality: inference is constrained by what competing models would also predict.
-   A. unavoidable and uncontrollable because path dependence from historical redlining dominates all evidence
-   B. irrelevant to residential segregation and the persistence of neighborhood inequality, serving only as background detail
-   C. complete and final, so no further checks like quasi-experimental policy evaluation are needed
-   D. early
+5. [Rhetorical Purpose] Why does the author mention that the hottest neighborhoods often have the least shade?
+   A. To highlight equity concerns and show that heat exposure is unevenly distributed within cities
+   B. To argue that shade is irrelevant because roofs dominate all temperatures
+   C. To claim that parks increase ozone in every case
+   D. To suggest that cool roofs are impossible to install
 
-9. [Inference] The passage suggests which of the following?
-   A. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving longitudinal panel data.
-   B. A convincing explanation should make distinct predictions under shared protocols, especially when zoning rules and land-use regulation can mimic mobility constraints across space.
-   C. The author treats post-industrial cities as a special case and argues that no broader inference about residential segregation and the persistence of neighborhood inequality is possible.
-   D. The passage claims that the best strategy is to average away zoning rules and land-use regulation, since variability is merely a measurement error.
+6. [Negative Factual] All of the following mitigation strategies are mentioned EXCEPT:
+   A. cool roofs
+   B. green roofs
+   C. permeable pavements
+   D. plasmid curing through antibiotics
 
-10. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage claims that segregation-driven inequality across neighborhoods is settled because mobility constraints across space uniquely identifies the mechanism. It argues that informational asymmetries in housing search is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using longitudinal panel data are unnecessary.
-   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats longitudinal panel data as a historical curiosity and does not discuss mobility constraints across space or informational asymmetries in housing search. It ends without any methodological implication.
-   C. The passage argues that persistent neighborhood-level disparities cannot be studied empirically because confounders like informational asymmetries in housing search make data meaningless. It recommends replacing measurement with intuition and rejecting longitudinal panel data as unreliable. It concludes that debate persists because evidence never constrains theory.
-   D. The passage examines residential segregation and the persistence of neighborhood inequality and argues that mobility constraints across space is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how informational asymmetries in housing search can shift the baseline, especially when evidence is drawn from rapidly growing Sun Belt regions. Finally, it maintains that tests combining longitudinal panel data with boundary-condition checks are required to make claims about spatial stratification in cities robust.
+7. [Reference] In the passage, “these interventions” refers to:
+   A. mitigation measures such as reflective roofs, vegetation, permeable surfaces, and airflow improvements
+   B. the printing of new banknotes during inflation
+   C. the insertion of pigment into wet plaster
+   D. the growth of kelp under urchin grazing
+
+8. [Organization] How is the passage primarily organized?
+   A. It explains physical causes of urban warming, adds the role of human heat emissions, describes consequences, then evaluates mitigation options and trade-offs
+   B. It presents only a list of city temperatures without mechanisms
+   C. It argues that urban heat islands are imaginary
+   D. It focuses solely on winter heating and ignores summer
+
+9. [Paraphrase] Which option best restates the idea that climate is shaped by materials and design?
+   A. Urban temperature depends on surface properties and urban form, so changing roofs, vegetation, and airflow can change local climate
+   B. Latitude alone determines city temperatures, so design changes do nothing
+   C. Only the number of cars matters; roofs and trees are irrelevant
+   D. Heat islands occur only because cities are closer to the sun
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Urban heat islands are described as unavoidable because albedo cannot be changed.
+   B. The passage explains urban heat islands as temperature increases caused by low-albedo materials, reduced vegetation and evapotranspiration, and urban geometry that traps radiation and limits ventilation; it notes contributions from waste heat and outlines health and energy consequences, then discusses mitigation strategies such as cool roofs, green infrastructure, and permeable surfaces while emphasizing trade-offs and equity in implementation.
+   C. Heat islands are said to be beneficial because they always lower electricity demand.
+   D. The passage claims that street canyons cool faster because they reflect sunlight outward.
 
 
 Answer Key
 ----------
-1: B
-2: D
-3: C
-4: B
+1: A
+2: A
+3: A
+4: A
 5: A
-6: C
+6: D
 7: A
-8: D
-9: B
-10: D
+8: A
+9: A
+10: B

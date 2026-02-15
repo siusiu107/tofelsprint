@@ -1,0 +1,139 @@
+Passage 0001: Lyman‑alpha Signatures of Exoplanet Atmospheric Escape (Astronomy)
+================================================================================
+(Word count: 688)
+
+When astronomers say that a planet is “losing its atmosphere,” they do not mean that gas
+simply drifts away like smoke. Escape, on the scale of a planet, begins with energy.
+Ultraviolet radiation from a star heats the upper atmosphere, and if that heating is strong
+enough, the highest layers expand until they are no longer bound tightly to the planet. The
+process is most dramatic for close-in planets whose gravity is modest and whose stars flare
+frequently, because each flare delivers a pulse of energy that can briefly inflate the
+atmosphere like a balloon.
+
+The most direct evidence for escape comes from hydrogen, the lightest element, which is
+easier to lift out of a gravitational well than heavier molecules. During a transit,
+hydrogen in the upper atmosphere can absorb starlight at the Lyman‑alpha wavelength,
+producing an extra dip beyond what the planet’s solid body would cause. Yet a dip in
+Lyman‑alpha is not a simple “hydrogen present” stamp. The line can be reshaped by the star’s
+own activity, and it can be partly erased by interstellar hydrogen between the star and
+Earth. Accordingly, the observer must read not only the depth of absorption but also its
+timing: does it appear mainly during transit, or does it linger before and after, implying a
+trailing tail of gas?
+
+Two physical pictures compete for what that tail looks like. In a thermal picture, heating
+drives a roughly symmetric outflow that accelerates as pressure falls with altitude,
+producing a broad, slow wind. In a radiation‑pressure picture, stellar photons push hydrogen
+atoms, so the escaping gas is swept into a comet‑like tail that can extend far behind the
+planet. [A] If the tail is real, absorption should persist after the planet’s disk has
+finished crossing the star, because the gas continues to block light even when the planet
+itself no longer does. [B] If, instead, the line’s depth changes mainly with stellar
+variability, the “tail” might be a mirage produced by a star whose emission fluctuates on
+the same timescale as a transit. [C]
+
+A case that forced astronomers to separate these explanations involved a hot Neptune
+observed over several visits. In one visit, the Lyman‑alpha dip began slightly before the
+optical transit and lasted long after, while in another visit, the early absorption vanished
+but the late absorption remained. That asymmetry is hard to produce with a perfectly
+symmetric thermal wind, because thermal expansion does not naturally create leading
+absorption without some additional force. However, the same asymmetry is also difficult to
+attribute to stellar flickering alone, since the late absorption repeated at nearly the same
+orbital phase even when the star’s overall ultraviolet brightness differed. The result
+pushed researchers toward a hybrid view in which thermal heating launches gas upward, while
+radiation pressure and stellar wind shape where that gas travels.
+
+Once gas escapes, it does not merely thin the upper atmosphere; it can change the planet’s
+chemistry over time. If hydrogen is removed preferentially, heavier molecules become
+relatively more abundant, and the mean molecular weight can rise, altering scale heights and
+making future spectral features harder to detect. Furthermore, if the escaping wind
+interacts with ionized particles from the star, it can form a bow shock that redirects
+energy and influences where ions are created. [D] Thus, atmospheric escape is not a single
+event but a continuing interaction between radiation, gravity, and plasma, one that can
+sculpt the atmosphere’s long‑term composition.
+
+Because escape operates through specific forces, it yields testable expectations. A
+radiation‑pressure tail should align differently when stellar wind conditions change,
+whereas a purely thermal wind should respond mainly to heating. If absorption grows during
+stellar flares and then fades on a predictable timescale, it hints that energy injection is
+driving the outflow. If, instead, absorption repeats at the same orbital phase across
+stellar states, geometry is likely controlling what we see. In that way, the Lyman‑alpha
+line becomes more than a detection; it becomes a means of tracing how a planet’s atmosphere
+is being reshaped, atom by atom, by its star.
+
+
+Questions
+---------
+
+1. [Inference] What can be inferred from the passage about absorption that persists after optical transit has ended?
+   A. It can be consistent with a trailing cloud of escaping gas that continues to block starlight
+   B. It proves that interstellar hydrogen has disappeared entirely
+   C. It indicates that the planet’s gravity has increased since the previous orbit
+   D. It shows that Lyman‑alpha absorption cannot be measured during transit
+
+2. [Vocabulary] The word “mirage” in the passage is closest in meaning to:
+   A. a misleading appearance
+   B. a dense cloud
+   C. a permanent feature
+   D. a chemical compound
+
+3. [Rhetorical Purpose] Why does the author mention that interstellar hydrogen can erase part of the line?
+   A. To show that a Lyman‑alpha dip must be interpreted cautiously rather than as a simple label
+   B. To argue that interstellar space contains no hydrogen at all
+   C. To claim that optical transits are always unreliable
+   D. To suggest that only heavier molecules can escape from planets
+
+4. [Negative Factual] All of the following are described as influences on the observed Lyman‑alpha signal EXCEPT:
+   A. stellar activity
+   B. interstellar absorption along the line of sight
+   C. the timing of absorption relative to transit
+   D. the planet’s continental drift
+
+5. [Sentence Insert] The following sentence can be inserted at one of the four positions [A]-[D]. Where does it belong?
+   Sentence to insert: In that case, the strongest absorption would be expected to trail the planet rather than to sit evenly around it.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
+
+6. [Factual] According to the passage, why is hydrogen a common tracer of atmospheric escape?
+   A. Because hydrogen blocks all wavelengths equally
+   B. Because it is the lightest element and is easier to remove from a planet’s gravity
+   C. Because hydrogen is produced only by interstellar clouds
+   D. Because hydrogen cannot interact with stellar winds
+
+7. [Reference] In the sentence “That asymmetry is hard to produce…,” the word “asymmetry” refers to:
+   A. differences between optical and infrared transit depths
+   B. the unequal presence of early versus late Lyman‑alpha absorption across visits
+   C. the planet’s non-spherical shape
+   D. the unequal brightness of the star’s hemispheres
+
+8. [Organization] How does the author organize the passage’s central explanation?
+   A. By describing the measurement challenge, presenting two models, and then using an observational case to motivate a combined view
+   B. By listing unrelated facts and ending without a conclusion
+   C. By providing a historical timeline without discussing physical forces
+   D. By focusing only on chemistry and avoiding observations
+
+9. [Paraphrase] Which option best restates the idea that escape can alter future spectra?
+   A. Preferential loss of light gases can shift composition and make later features less pronounced
+   B. Escape stops all chemical reactions in the atmosphere
+   C. Escape guarantees that heavier molecules are removed first
+   D. Escape increases the planet’s radius at every wavelength forever
+
+10. [Summary] Which option best summarizes the passage?
+   A. The passage argues that Lyman‑alpha absorption is too contaminated to be useful, so escape cannot be studied.
+   B. The passage explains how ultraviolet heating and radiation pressure can drive and shape atmospheric escape, and why timing patterns in Lyman‑alpha absorption help distinguish models and reveal long‑term consequences for composition.
+   C. The passage claims that thermal winds are the only possible form of escape and are always symmetric.
+   D. The passage focuses on how planets gain atmospheres from interstellar hydrogen during transits.
+
+
+Answer Key
+----------
+1: A
+2: A
+3: A
+4: D
+5: A
+6: B
+7: B
+8: A
+9: A
+10: B

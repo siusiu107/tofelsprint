@@ -1,147 +1,138 @@
-Passage 0022: The Great Migration and Northern Urban Transformation (History)
-=============================================================================
-(Word count: 652)
+Passage 0022: Radiocarbon Calibration, Curve Wiggles, and Hidden Carbon Sources (Archaeology)
+=============================================================================================
+(Word count: 656)
 
-In comparative migration studies, one sees why researchers have treated political
-realignment patterns as the decisive sign of the great migration and northern urban
-transformation. Despite the fact that housing record reconstruction can make the pattern
-look unusually sharp, the passage argues that such confidence is conditional and must be
-earned by specifying assumptions. the resulting debate is less about data collection than
-about what the data are evidence for, a move that forces analysts to articulate boundary
-conditions rather than rely on familiar narratives.
+Radiocarbon dating is often introduced as a straightforward clock: measure how much
+carbon‑14 remains in an organic sample, compare it with a known decay rate, and compute how
+long ago the organism died. The method is powerful because it converts an invisible isotope
+into a quantitative estimate of time. Yet the clock is not perfectly uniform, because the
+atmosphere has not contained the same proportion of carbon‑14 in every year. Solar activity,
+Earth’s magnetic field, and carbon cycling between ocean and air all influence how much
+carbon‑14 is produced and how much is available to plants and animals. As a result, a
+radiocarbon “age” must be translated—calibrated—into a calendar age.
 
-To be sure, the first model can fit one dataset extremely well, yet the passage insists that
-uniqueness is precisely what must be shown, not assumed. [A] The author uses the example to
-separate detection from interpretation. it highlights how wartime industry demand can shift
-baselines, altering whether political realignment patterns is even comparable across cases;
-this, in turn, means that a good fit is not the same as a good explanation. [B] The passage
-emphasizes boundary conditions instead of treating them as afterthoughts. If wartime
-industry demand is changed while the nominal driver remains constant is granted, one should
-expect different outcomes when conditions are perturbed. [C] This reasoning matters because
-it changes what counts as a decisive test. [D] The author treats this as a clue rather than
-as a nuisance. In this sense, african american internal migration is best treated as a
-conditional inference rather than as a mere label.
+Calibration works because some archives record time independently. Tree rings are the best
+known. A tree that adds one ring per year can be cross‑dated with others, producing long
+sequences that extend thousands of years. If a piece of wood contains a particular ring, and
+that ring’s calendar year is known, the carbon‑14 content of that ring becomes a data point:
+it reveals the atmospheric carbon‑14 level for that year. By building many such points,
+scientists construct a calibration curve that maps radiocarbon ages onto calendar ages.
 
-Only through the field adopted tests that manipulate or stratify wartime industry demand
-could one reasonably claim that the debate became empirically productive rather than merely
-rhetorical. by comparing cases in which housing record reconstruction constrains
-alternatives, researchers could ask which predictions survive out of sample, an outcome that
-is why the passage emphasizes comparative design over isolated exemplars. Although a single
-case can be dramatic, the author does not deny the value of striking examples, but warns
-against treating them as representative.
+The curve is not smooth. It contains “wiggles,” intervals in which carbon‑14 levels rose or
+fell relatively quickly. These wiggles can complicate dating because a single radiocarbon
+measurement may intersect the curve in more than one place, yielding multiple possible
+calendar ranges. [A] In effect, the sample’s isotope content may be consistent with two
+separate historical windows, and without additional information the method cannot choose
+between them. Archaeologists therefore pair radiocarbon data with context: stratigraphy,
+artifact styles, or other dates that narrow the plausible range.
 
-Not the obvious explanation but methodological humility is what the passage presents as the
-lesson of the great migration and northern urban transformation: inference is constrained by
-what competing models would also predict. Provided that one wishes to move from description
-to explanation, then the same observation—political realignment patterns—must be paired with
-tests that change the conditions under which it appears. Whereas popular summaries treat
-political realignment patterns as an endpoint, the passage treats it as a starting point for
-sharper experimental or observational contrasts. In this sense, south-to-north population
-movement is best treated as a conditional inference rather than as a mere label.
+Paradoxically, wiggles can also help. In wiggle‑matching, researchers date a sequence of
+closely spaced rings from the same timber and compare the pattern of measured radiocarbon
+values with the pattern on the curve. A distinctive up‑down signature can anchor the timber
+to a specific calendar interval more tightly than a single date could. This is especially
+useful for wooden structures, where many adjacent rings are available, and for periods in
+which the curve’s wiggles are pronounced.
 
-Only through analysts began combining housing record reconstruction with cross-site
-comparisons could one reasonably claim that claims about the great migration and northern
-urban transformation stopped relying on a single figure and started relying on falsifiable
-predictions. the goal was to break degeneracies in which political realignment patterns
-could be explained in more than one way in part because confounders like wartime industry
-demand often co-vary with the driver. as the author notes, transparency about priors became
-an empirical issue rather than a stylistic choice, which is precisely why changes whether
-two analyses are actually comparable. In this sense, twentieth-century black migration flows
-is best treated as a conditional inference rather than as a mere label.
+Another complication is the reservoir effect. Marine organisms can appear “older” than they
+are because the ocean mixes surface carbon with deeper water that has been isolated from the
+atmosphere for centuries. If a human diet included large amounts of marine food, the carbon
+in the person’s bones can inherit this offset, making the individual’s radiocarbon age too
+old unless corrected. Lakes can produce similar effects when dissolved ancient carbon enters
+the system. [B] The mechanism is again causal: what matters is not the organism’s true
+calendar age but the carbon source that fed its body.
 
-In the end, the central disagreement can be stated more precisely: the passage concludes
-that the most informative evidence is often the evidence that forces competing assumptions
-into the open. by insisting that claims about the great migration and northern urban
-transformation be conditional on stated priors, it turns disagreement into a tool for
-discovery, an outcome that clarifies why the same record can yield multiple stories without
-implying that any story is arbitrary. Admittedly, the temptation to treat a tidy plot as a
-definitive answer is strong; nevertheless, the result is a framework in which political
-realignment patterns is interpreted through explicit boundary conditions rather than through
-habit.
+Calibration has reshaped archaeological arguments by tightening chronologies and by
+revealing that some apparent sequences were compressed. In a site with multiple building
+phases, calibrated ranges can show whether two phases were separated by decades or by
+centuries. When combined with Bayesian models that incorporate stratigraphic ordering,
+calibration can produce probability distributions that reflect both measurement uncertainty
+and contextual constraints. This does not turn archaeology into pure mathematics; it
+formalizes what archaeologists already do when they ask whether one layer must be older than
+another.
+
+The calibrated date, then, is best seen as a constrained estimate rather than as a single
+perfect year. [C] It is an argument built from decay physics, atmospheric history, and site
+context. When those components align, radiocarbon dating can place human activity onto an
+absolute timeline with remarkable precision. When they conflict, the conflict itself can
+expose hidden complexities—mixed deposits, old wood reused in later buildings, or diets that
+drew carbon from unexpected reservoirs. [D] In that way, calibration does not merely correct
+radiocarbon; it makes time visible as a layered record of both nature and human behavior.
+
 
 Questions
 ---------
 
-1. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. a recipe for bread fermentation
-   B. housing record reconstruction
-   C. The Great Migration and Northern Urban Transformation
-   D. political realignment patterns
+1. [Rhetorical Purpose] Why does the author emphasize that atmospheric carbon‑14 levels changed over time?
+   A. To explain why radiocarbon ages require calibration to become calendar ages
+   B. To argue that decay rates are unknown
+   C. To claim that tree rings cannot be dated
+   D. To suggest that marine foods contain no carbon
 
-2. [Vocabulary] In the passage, the word **ambiguous** in the sentence below is closest in meaning to:
-   Sentence: Whereas popular summaries treat political realignment patterns as an endpoint, the passage treats it as a starting point for sharper experimental or observational contrasts.
-   A. unavoidable and uncontrollable because housing covenants and policy constraints dominates all evidence
-   B. irrelevant to the great migration and northern urban transformation, serving only as background detail
-   C. unclear
-   D. complete and final, so no further checks like housing record reconstruction are needed
+2. [Vocabulary] The word “wiggles” in the passage refers to:
+   A. rapid fluctuations in the calibration curve
+   B. errors caused by broken lab equipment
+   C. rings added twice per year
+   D. sediments sliding downhill
 
-3. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: In other words, the disagreement is not about whether the data exist, but about what the data are evidence for.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: This is why two archaeologists can report the same radiocarbon measurement yet propose different calendar interpretations.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-4. [Rhetorical Purpose] In referring to a contrasting interpretation, the author intends to:
-   A. The passage implies that Harlem is chosen to avoid bias, so comparisons across settings are unnecessary.
-   B. The author argues that oral history synthesis should be replaced by an unmodeled trend line because assumptions distort evidence.
-   C. The author suggests that the key synonym 'African American internal migration' refers to a different field altogether, not to the great migration and northern urban transformation.
-   D. motivate clearer assumptions and stronger tests, such as comparing cases where oral history synthesis constrains push–pull dynamics
+4. [Factual] According to the passage, how do tree rings support calibration?
+   A. They provide independently dated yearly records whose carbon‑14 content reveals past atmospheric levels
+   B. They speed up carbon decay in wood
+   C. They erase reservoir effects in marine shells
+   D. They guarantee a smooth calibration curve with no fluctuations
 
-5. [Factual Information] The passage indicates that replication across contexts is important mainly because:
-   A. Because political realignment patterns appears, the mechanism must be unique, so racial violence and intimidation can be ignored as irrelevant noise.
-   B. The discussion indicates that replication is redundant if housing record reconstruction produces a tight fit on one dataset.
-   C. The passage implies that housing record reconstruction directly measures causes, meaning confounding from racial violence and intimidation is impossible.
-   D. it prevents political realignment patterns from being treated as a self-interpreting fingerprint and forces tests that control racial violence and intimidation
+5. [Inference] What can be inferred about why wiggle‑matching can outperform a single radiocarbon date?
+   A. A sequence of adjacent rings can match a distinctive fluctuation pattern, anchoring the timber to a narrower interval
+   B. Multiple measurements always eliminate lab uncertainty entirely
+   C. Wiggle‑matching changes the decay rate to fit the curve
+   D. A single date is useless whenever wood is present
 
-6. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about the great migration and northern urban transformation be conditional on stated priors, it turns disagreement into a tool for discovery, an outcome that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Aggregation guarantees that the same mechanism operates in Chicago and everywhere else.
-   B. Incompatible cases should be ignored to keep an explanation based on labor market inference from wage series simple.
-   C. Some summaries seem consistent because they mix incompatible cases, not because shifts in industrial labor demand uniquely identifies one mechanism.
-   D. Summaries are always reliable because averaging eliminates wartime industry demand.
+6. [Negative Factual] All of the following are mentioned as causes of dating offsets EXCEPT:
+   A. marine reservoir effects
+   B. lake systems with ancient dissolved carbon
+   C. reused old wood in later structures
+   D. planetary rings changing isotope ratios
 
-7. [Inference] The passage suggests which of the following?
-   A. A convincing explanation should make distinct predictions under shared protocols, especially when housing covenants and policy constraints can mimic segregation and redlining signatures.
-   B. The author treats Harlem as a special case and argues that no broader inference about the great migration and northern urban transformation is possible.
-   C. The passage claims that the best strategy is to average away housing covenants and policy constraints, since variability is merely a measurement error.
-   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving newspaper archive research.
+7. [Reference] In the passage, “this offset” refers to:
+   A. the tendency for marine-derived carbon to make radiocarbon ages appear too old
+   B. the distance between trees in a forest
+   C. the number of wiggles in the curve
+   D. the thickness of an artifact layer
 
-8. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | labor market inference from wage series | Depends on modeling priors |
-   | Signal | political realignment patterns | May be sensitive to preprocessing choices |
-   | Confounder | racial violence and intimidation | Shifts the baseline |
-   Blank: The limitation for 'Method' is ________.
-   A. It proves changes in neighborhood composition is unique.
-   B. Depends on modeling priors
-   C. It replaces census microdata analysis with intuition.
-   D. Shifts the baseline
+8. [Organization] How is the passage organized?
+   A. It introduces the radiocarbon clock, explains calibration via independent archives, then discusses wiggles and reservoir effects before describing how calibrated chronologies shape interpretation
+   B. It lists excavation tools only
+   C. It narrates a single shipwreck without discussing time
+   D. It focuses solely on Bayesian statistics without explaining carbon
 
-9. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [C] This reasoning matters because it changes what counts as a decisive test.
-   A. political realignment patterns specifically, taken as an unambiguous measurement
-   B. the idea being discussed in the surrounding sentences
-   C. housing covenants and policy constraints alone, treated as the sole cause
-   D. newspaper archive research as a device rather than as an analytic approach
+9. [Paraphrase] Which option best restates the idea that a calibrated date is “a constrained estimate”?
+   A. It is a probabilistic time range shaped by measurement, atmospheric history, and archaeological context
+   B. It is a single exact year guaranteed by decay physics alone
+   C. It is an opinion unrelated to evidence
+   D. It is a number chosen to fit artifact styles
 
-10. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage argues that twentieth-century black migration flows cannot be studied empirically because confounders like housing covenants and policy constraints make data meaningless. It recommends replacing measurement with intuition and rejecting census microdata analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
-   B. The passage examines the great migration and northern urban transformation and argues that segregation and redlining signatures is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how housing covenants and policy constraints can shift the baseline, especially when evidence is drawn from Detroit. Finally, it maintains that tests combining census microdata analysis with boundary-condition checks are required to make claims about african american internal migration robust.
-   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats census microdata analysis as a historical curiosity and does not discuss segregation and redlining signatures or housing covenants and policy constraints. It ends without any methodological implication.
-   D. The passage claims that south-to-north population movement is settled because segregation and redlining signatures uniquely identifies the mechanism. It argues that housing covenants and policy constraints is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using census microdata analysis are unnecessary.
+10. [Summary] Which statement best summarizes the passage?
+   A. Radiocarbon dating yields exact calendar years without correction because the atmosphere never changes.
+   B. The passage explains that radiocarbon ages must be calibrated because past carbon‑14 levels varied, that curve fluctuations can both complicate and aid dating through wiggle‑matching, and that reservoir effects and context-sensitive models influence how archaeological chronologies are built.
+   C. Tree rings are unreliable because they do not record carbon‑14.
+   D. Reservoir effects occur only in deserts and have no archaeological relevance.
 
 
 Answer Key
 ----------
 1: A
-2: C
-3: D
-4: D
-5: D
-6: C
+2: A
+3: A
+4: A
+5: A
+6: D
 7: A
-8: B
-9: B
+8: A
+9: A
 10: B

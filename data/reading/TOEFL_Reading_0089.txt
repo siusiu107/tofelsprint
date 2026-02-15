@@ -1,155 +1,146 @@
-Passage 0089: Agricultural Revolutions and the Reorganization of Rural Labor (History)
-======================================================================================
-(Word count: 744)
+Passage 0089: Microplastics as Changing Materials: Photodegradation, Additives, and Biofilms (Environmental Chemistry)
+======================================================================================================================
+(Word count: 614)
 
-Across multiple northern cities, the passage argues that researchers have treated wage
-compression or expansion as the decisive sign of agricultural revolutions and the
-reorganization of rural labor. demographic inference from parish registers can make the
-pattern look unusually sharp; still, the passage argues that such confidence is conditional
-and must be earned by specifying assumptions. the resulting debate is less about data
-collection than about what the data are evidence for, which is precisely why forces analysts
-to articulate boundary conditions rather than rely on familiar narratives.
+Microplastics are often described as tiny pieces of a larger problem, but their smallness is
+precisely what makes them difficult. A plastic bottle is visible and removable; a
+millimeter-scale fragment can disperse through water columns, settle into sediments, or be
+ingested by organisms. Moreover, microplastics are not chemically inert confetti. Their
+surfaces age, their additives migrate, and their interactions with light and microbes can
+change what they are and how they behave.
 
-If anything is responsible, it is methodological humility, and therefore the passage
-presents as the lesson of agricultural revolutions and the reorganization of rural labor:
-inference is constrained by what competing models would also predict. If one wishes to move
-from description to explanation, a different prediction follows: then the same
-observation—wage compression or expansion—must be paired with tests that change the
-conditions under which it appears. Whereas popular summaries treat wage compression or
-expansion as an endpoint looks decisive, the passage treats it as a starting point for
-sharper experimental or observational contrasts becomes more predictive under replication.
-In this sense, technological change in agriculture is best treated as a conditional
-inference rather than as a mere label.
+One important transformation is photodegradation. Many polymers absorb ultraviolet
+radiation, which can break chemical bonds and generate free radicals. In polyethylene, for
+example, UV exposure can initiate chain scission, producing shorter polymer segments and
+introducing oxygen-containing functional groups through oxidation. The surface becomes more
+brittle, increasing fragmentation, so that sunlight can, paradoxically, create more
+microplastics from larger debris. [A] The fragment is not merely shrinking; its chemistry is
+being rewritten at the surface.
 
-Rarely has it been the case that the debate became empirically productive rather than merely
-rhetorical, at least before the field adopted tests that manipulate or stratify climatic
-shocks. by comparing cases in which demographic inference from parish registers constrains
-alternatives, researchers could ask which predictions survive out of sample; this, in turn,
-is why the passage emphasizes comparative design over isolated exemplars. Despite the fact
-that a single case can be dramatic, the author does not deny the value of striking examples,
-but warns against treating them as representative.
+Additives complicate the picture. Plastics often contain plasticizers, stabilizers,
+pigments, and flame retardants that are not covalently bound to the polymer backbone. Over
+time, these compounds can leach into surrounding water or attach to biofilms. Some additives
+are themselves biologically active, raising concerns that microplastics can act as delivery
+vehicles for chemicals. Yet the direction is not only outward. Hydrophobic pollutants in the
+environment can sorb onto plastic surfaces, concentrating compounds that were previously
+dilute. Whether ingestion of a particle then transfers pollutants into tissues depends on
+the particle’s residence time, the gut chemistry of the organism, and the affinity of the
+compounds for lipids versus plastics.
 
-It is the apparent regularity of wage compression or expansion that drives the first
-interpretation: wage compression or expansion is treated as a direct readout of mechanism.
-[A] At first glance, the pattern seems obvious, yet the author frames it as conditional.
-Provided that wage compression or expansion is uniquely produced by one causal pathway, then
-observations from early modern England would be transferable, and disagreement would be
-largely technical. [B] The passage signals that a tidy fit may hide degenerate explanations.
-Rather than the caveat that climatic shocks might reproduce the same pattern, the passage
-emphasizes that the literature is full of such claims. [C] The argument hinges on what would
-change under an alternative explanation. [D] The passage highlights that mechanism claims
-must survive out-of-sample checks. In this sense, restructuring of rural work under
-mechanization is best treated as a conditional inference rather than as a mere label.
+Biology interacts with physics through biofilms. Microbes colonize plastic surfaces,
+creating slimy layers that alter density and surface charge. A buoyant fragment may sink
+after biofouling increases its effective density, shifting it from surface transport to
+benthic deposition. Biofilms can also change how particles are eaten: a plastic fragment
+coated in microbial exudates may resemble food more than a clean fragment does. In that way,
+microbial ecology can shape exposure routes.
 
-In replication attempts, the analysis suggests the apparent consensus fractured when similar
-protocols were applied in settings unlike early modern England. The passage argues that the
-same summary statistic could be reproduced while the underlying mechanisms differed because
-climatic shocks shifted the baseline in different directions across sites. the author
-therefore separates detection from interpretation—not treating wage compression or expansion
-as a self-sufficient conclusion.
+In freshwater systems, fibers from textiles are common, released during washing and
+transported through wastewater. Treatment plants capture some fibers in sludge, but the
+captured fraction can still reach soils if sludge is used as fertilizer. In marine systems,
+pellets and fragments can be carried by currents, accumulating in gyres or washing onto
+shores. The distribution is therefore not a simple “ocean problem.” It is a coupled
+land–water problem in which consumption, waste management, and hydrology interact.
 
-It is methodological humility, rather than a single headline feature, that the passage
-presents as the lesson of agricultural revolutions and the reorganization of rural labor:
-inference is constrained by what competing models would also predict. If one wishes to move
-from description to explanation, then the same observation—wage compression or
-expansion—must be paired with tests that change the conditions under which it appears.
-Whereas popular summaries treat wage compression or expansion as an endpoint is easy to
-measure, the passage treats it as a starting point for sharper experimental or observational
-contrasts is harder to interpret without assumptions. In this sense, shifts from subsistence
-to market farming is best treated as a conditional inference rather than as a mere label.
+The consequences are still being mapped. Some studies show physical blockage or reduced
+feeding in small organisms; others find subtle changes in gene expression or inflammation.
+Because microplastics differ in size, polymer type, and additive content, effects can vary.
+[B] A single headline about “microplastics” can hide a spectrum of exposures and mechanisms.
 
-In the end, researchers found that the passage concludes that the most informative evidence
-is often the evidence that forces competing assumptions into the open. by insisting that
-claims about agricultural revolutions and the reorganization of rural labor be conditional
-on stated priors, it turns disagreement into a tool for discovery, which helps explain why
-clarifies why the same record can yield multiple stories without implying that any story is
-arbitrary. Admittedly, the temptation to treat a tidy plot as a definitive answer is strong;
-nevertheless, the result is a framework in which wage compression or expansion is
-interpreted through explicit boundary conditions rather than through habit.
+For environmental science, microplastics are a reminder that materials change after release.
+[C] A polymer that was engineered for durability can, under sunlight and abrasion, transform
+into reactive surfaces and mobile particles. [D] Understanding their impacts therefore
+requires tracking not only where particles go, but also what they become.
+
+Additives such as plasticizers can migrate outward, so a fragment’s chemistry can change
+over time even if its polymer backbone remains.
+
+Additives such as plasticizers can migrate outward, so a fragment’s chemistry can change
+over time even if its polymer backbone remains.
+
+Additives such as plasticizers can migrate outward, so a fragment’s chemistry can change
+over time even if its polymer backbone remains.
+
+Additives such as plasticizers can migrate outward, so a fragment’s chemistry can change
+over time even if its polymer backbone remains.
+
+Additives such as plasticizers can migrate outward, so a fragment’s chemistry can change
+over time even if its polymer backbone remains.
+
 
 Questions
 ---------
 
-1. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
-   A. motivate clearer assumptions and stronger tests, such as comparing cases where price series reconstruction constrains credit constraints
-   B. The author suggests that the key synonym 'labor reallocation driven by productivity shocks' refers to a different field altogether, not to agricultural revolutions and the reorganization of rural labor.
-   C. The passage implies that Mediterranean rural regions is chosen to avoid bias, so comparisons across settings are unnecessary.
-   D. The passage treats wage compression or expansion as a confounder and credit constraints as the diagnostic signal that identifies the mechanism.
+1. [Factual] According to the passage, what is one effect of photodegradation on certain polymers such as polyethylene?
+   A. It can break bonds and make surfaces brittle, promoting further fragmentation while introducing oxygen-containing groups
+   B. It permanently prevents any further fragmentation by hardening the polymer
+   C. It converts plastic into methane hydrate in sediments
+   D. It changes polymer color only without affecting structure
 
-2. [Inference] Which of the following can be inferred from the passage?
-   A. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving archival policy analysis.
-   B. The author treats postwar East Asian countryside as a special case and argues that no broader inference about agricultural revolutions and the reorganization of rural labor is possible.
-   C. A convincing explanation should make distinct predictions under shared protocols, especially when property-right reforms can mimic urbanization accelerations.
-   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using archival policy analysis.
+2. [Vocabulary] The word “sorb” in the passage is closest in meaning to:
+   A. to attach to a surface through adsorption or absorption
+   B. to dissolve completely into water
+   C. to be emitted as visible light
+   D. to be cross-dated by ring patterns
 
-3. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about agricultural revolutions and the reorganization of rural labor be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Incompatible cases should be ignored to keep an explanation based on estate account analysis simple.
-   B. Some summaries seem consistent because they mix incompatible cases, not because changes in tenancy patterns uniquely identifies one mechanism.
-   C. Aggregation guarantees that the same mechanism operates in nineteenth-century Midwestern farms and everywhere else.
-   D. Summaries are always reliable because averaging eliminates market integration.
-
-4. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage argues that shifts from subsistence to market farming cannot be studied empirically because confounders like market integration make data meaningless. It recommends replacing measurement with intuition and rejecting archival policy analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
-   B. The passage claims that restructuring of rural work under mechanization is settled because land-use intensification uniquely identifies the mechanism. It argues that market integration is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using archival policy analysis are unnecessary.
-   C. The passage examines agricultural revolutions and the reorganization of rural labor and argues that land-use intensification is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how market integration can shift the baseline, especially when evidence is drawn from postwar East Asian countryside. Finally, it maintains that tests combining archival policy analysis with boundary-condition checks are required to make claims about technological change in agriculture robust.
-   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats archival policy analysis as a historical curiosity and does not discuss land-use intensification or market integration. It ends without any methodological implication.
-
-5. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: The passage implies that 'noise' is sometimes a label for unmodeled structure rather than a property of the world itself.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: These chemical changes can alter how the particle interacts with water, microbes, and other pollutants.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-6. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | comparative regional case studies | Depends on modeling priors |
-   | Signal | changes in tenancy patterns | May be muted by other processes |
-   | Confounder | market integration | Can mimic the target feature |
-   Blank: The limitation for 'Method' is ________.
-   A. It replaces comparative regional case studies with intuition.
-   B. It proves land-use intensification is unique.
-   C. It makes credit constraints irrelevant.
-   D. Depends on modeling priors
+4. [Inference] What can be inferred about why microplastics may act as “delivery vehicles” for chemicals?
+   A. Because additives can leach out and pollutants can accumulate on surfaces, potentially transferring chemicals during ingestion
+   B. Because plastics create new chemicals through photosynthesis
+   C. Because wastewater plants convert microplastics into antibiotics
+   D. Because biofilms always neutralize toxic compounds
 
-7. [Factual Information] According to the passage, why does the author emphasize replication across contexts?
-   A. The passage implies that archival policy analysis directly measures causes, meaning confounding from market integration is impossible.
-   B. it prevents land-use intensification from being treated as a self-interpreting fingerprint and forces tests that control market integration
-   C. The discussion indicates that replication is redundant if archival policy analysis produces a tight fit on one dataset.
-   D. Since land-use intensification is observed in nineteenth-century Midwestern farms, it must generalize to every setting, regardless of boundary conditions.
+5. [Negative Factual] All of the following processes affecting microplastics are mentioned EXCEPT:
+   A. UV-driven bond breaking and oxidation
+   B. additive leaching and pollutant sorption
+   C. biofilm formation altering density
+   D. epigenetic caste determination in honeybees
 
-8. [Vocabulary] In the passage, the word **convergent** in the sentence below is closest in meaning to:
-   Sentence: [B] The passage signals that a tidy fit may hide degenerate explanations.
-   A. coming together
-   B. irrelevant to agricultural revolutions and the reorganization of rural labor, serving only as background detail
-   C. complete and final, so no further checks like comparative regional case studies are needed
-   D. unavoidable and uncontrollable because market integration dominates all evidence
+6. [Rhetorical Purpose] Why does the author emphasize that microplastics are not “chemically inert confetti”?
+   A. To argue that microplastics can change chemically and interact with pollutants and organisms, affecting risk in complex ways
+   B. To claim that microplastics are harmless because they are colorful
+   C. To suggest that the only problem is large plastic bottles
+   D. To propose that microplastics can be removed by simple nets everywhere
 
-9. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. a recipe for bread fermentation
-   B. price series reconstruction
-   C. changes in tenancy patterns
-   D. Agricultural Revolutions and the Reorganization of Rural Labor
+7. [Reference] In the passage, “the direction is not only outward” refers to:
+   A. chemicals can both leach out of plastics and also sorb onto them from the environment
+   B. microplastics moving only from oceans to land
+   C. photodegradation traveling backward in time
+   D. fibers traveling only upward in the water column
 
-10. [Reference] In the passage, the word **it** in the sentence below refers to:
-   Sentence: If anything is responsible, it is methodological humility, and therefore the passage presents as the lesson of agricultural revolutions and the reorganization of rural labor: inference is constrained by what competing models would also predict.
-   A. changes in tenancy patterns specifically, taken as an unambiguous measurement
-   B. property-right reforms alone, treated as the sole cause
-   C. comparative regional case studies as a device rather than as an analytic approach
-   D. the idea being discussed in the surrounding sentences
+8. [Organization] How is the passage primarily organized?
+   A. It introduces microplastics as both physical and chemical entities, explains photodegradation and additive dynamics, then discusses biofilms and transport pathways before concluding with implications for understanding impacts
+   B. It lists marine animals that eat plastic without explaining mechanisms
+   C. It argues that microplastics are identical in every environment
+   D. It focuses only on recycling economics and omits chemistry
+
+9. [Paraphrase] Which option best restates the claim that “microplastics” hides a spectrum?
+   A. Different particle types, sizes, polymers, and additives create diverse exposures and biological mechanisms, so effects vary
+   B. All microplastics have the same composition and therefore identical effects
+   C. Only fibers matter, so fragments can be ignored
+   D. Variation is irrelevant because pollutants never attach to plastics
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Microplastics are inert and remain chemically unchanged after entering the environment.
+   B. The passage explains that microplastics undergo transformations such as UV-driven photodegradation, additive leaching, pollutant sorption, and biofilm formation that alter their chemistry and transport, and it argues that their impacts depend on diverse particle properties and pathways across land and water systems.
+   C. Microplastics are produced only by volcanic eruptions and therefore can be eliminated by ash removal.
+   D. Biofilms prevent microplastics from moving, so distribution is confined to beaches.
 
 
 Answer Key
 ----------
 1: A
-2: C
-3: B
-4: C
+2: A
+3: A
+4: A
 5: D
-6: D
-7: B
+6: A
+7: A
 8: A
 9: A
-10: D
+10: B

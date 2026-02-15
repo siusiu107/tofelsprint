@@ -1,156 +1,139 @@
-Passage 0023: Heterogeneous Catalysis on Platinum Surfaces (Chemistry)
-======================================================================
-(Word count: 720)
+Passage 0023: Network Effects, Standards Rivalry, and Coordination in Markets (Economics)
+=========================================================================================
+(Word count: 657)
 
-In operando measurement campaigns, researchers have treated structure-sensitive activity as
-the decisive sign of heterogeneous catalysis on platinum surfaces. While it is true that
-temperature-programmed desorption can make the pattern look unusually sharp, the passage
-argues that such confidence is conditional and must be earned by specifying assumptions. the
-resulting debate is less about data collection than about what the data are evidence for, an
-outcome that forces analysts to articulate boundary conditions rather than rely on familiar
-narratives.
+Some products become more valuable the more people use them. A telephone is the classic
+example: a single phone is a paperweight, but a network of phones enables communication.
+Digital platforms often share this property, which economists call a network effect. The
+effect can be direct, as with messaging systems where each new user expands the set of
+people one can reach, or indirect, as with operating systems where more users attract more
+software developers, and more software attracts more users. Because value can rise with
+adoption, markets with strong network effects can behave differently from markets where each
+buyer’s value is independent.
 
-Only after analysts began combining temperature-programmed desorption with cross-site
-comparisons did the earlier interpretation begin to look fragile, so claims about
-heterogeneous catalysis on platinum surfaces stopped relying on a single figure and started
-relying on falsifiable predictions. the goal was to break degeneracies in which structure-
-sensitive activity could be explained in more than one way because confounders like support
-interactions often co-vary with the driver, which is why replication matters. as the author
-notes, transparency about priors became an empirical issue rather than a stylistic choice,
-which forces analysts to admit that changes whether two analyses are actually comparable. In
-this sense, surface-mediated catalysis on pt is best treated as a conditional inference
-rather than as a mere label.
+One consequence is the possibility of “tipping.” If two incompatible standards compete—two
+video formats, two payment systems—early adoption can snowball. A small lead can become a
+large lead if people choose the standard they expect others to choose. Expectations become
+causal forces. [A] When buyers fear being stranded with an unpopular format, they may join
+the growing standard even if they prefer the rival on technical grounds, because
+compatibility becomes more important than isolated performance.
 
-Working with sparse records and limited controls on support interactions, the author treats
-the complication as diagnostic, so many early studies framed heterogeneous catalysis on
-platinum surfaces as a single-mechanism phenomenon. Whereas those studies emphasized
-structure-sensitive activity as a signature may be convenient, later work asked whether the
-same signature survives when protocols and baselines differ is scientifically revealing.
-this shift mattered for how evidence from electrochemical interfaces was generalized largely
-because local conditions can change which processes generate structure-sensitive activity.
+This does not mean that the technically superior standard always loses, or always wins. The
+outcome depends on the size of the network effect and on switching costs. If it is easy to
+move—if files can be converted or devices can interoperate— then users can chase quality. If
+switching is expensive, then people become cautious, and the market can lock into an early
+winner. Firms understand this, which is why they subsidize early adoption with discounts or
+free services: they are purchasing a user base that will later make the product valuable to
+the next wave of users.
 
-Using temperature-programmed desorption under stable conditions, the passage suggests one
-frequently cited case from electrochemical interfaces appeared to support the direct-readout
-view. Though the original fit looked visually decisive, later, however, reanalysis showed
-that small shifts in support interactions altered the baseline enough to mute or mimic
-structure-sensitive activity. the passage treats this episode as diagnostic, a move that
-illustrates why boundary conditions must be specified before generalization is attempted. In
-this sense, platinum-catalyzed reaction pathways is best treated as a conditional inference
-rather than as a mere label.
+Complementary goods amplify the process. A game console with more players attracts more game
+studios, which increases the console’s appeal, which brings in more players. The loop is not
+mystical; it is a chain of incentives. Developers follow audiences because audiences pay,
+and audiences follow catalogs because catalogs entertain. Yet feedback can also stall. If a
+platform has many users but its tools for developers are poor, the catalog may remain thin,
+weakening adoption. [B] In that case, the platform’s installed base is not enough; the
+ecosystem must be cultivated.
 
-What matters most is methodological humility, which is why the passage presents as the
-lesson of heterogeneous catalysis on platinum surfaces: inference is constrained by what
-competing models would also predict. [A] The passage frames uncertainty as an ingredient of
-inference rather than as an embarrassment. Were one wishes to move from description to
-explanation to fail, then the same observation—structure-sensitive activity—must be paired
-with tests that change the conditions under which it appears. [B] The author suggests that
-the same evidence can support multiple stories when priors differ. Whereas popular summaries
-treat structure-sensitive activity as an endpoint invites a tidy story, the passage treats
-it as a starting point for sharper experimental or observational contrasts forces boundary
-conditions to be stated. [C] The discussion treats exceptions as informative, not as errors
-to be discarded. [D] The passage returns to this point to clarify what counts as evidence.
+Network effects also create strategic dilemmas. A dominant platform may be tempted to
+restrict interoperability to protect its lead, but doing so can provoke regulators or can
+encourage rivals to form alliances around open standards. Meanwhile, a newcomer can choose
+between compatibility and differentiation. Compatibility offers an easier sales pitch—“it
+works with what you already have”—but it can also trap the newcomer into competing on thin
+margins. Differentiation can attract niche users, yet niches can be too small to trigger a
+self-sustaining growth loop.
 
-Only through the field adopted tests that manipulate or stratify support interactions could
-one reasonably claim that the debate became empirically productive rather than merely
-rhetorical. by comparing cases in which temperature-programmed desorption constrains
-alternatives, researchers could ask which predictions survive out of sample; this, in turn,
-is why the passage emphasizes comparative design over isolated exemplars. Even though a
-single case can be dramatic, the author does not deny the value of striking examples, but
-warns against treating them as representative. In this sense, metal-surface catalytic
-conversion is best treated as a conditional inference rather than as a mere label.
+Importantly, the existence of network effects does not abolish consumer agency; it reshapes
+it. A user still makes a choice, but the choice is partly about other users’ choices. The
+market becomes social. This social character can make adoption look irrational in hindsight.
+A format may win not because it was best, but because coordination was easier on it than on
+its rival, perhaps due to a corporate partnership or a timely distribution channel. [C] The
+“winner” can then use its installed base to reinforce its position through default settings,
+bundled services, and contracts that raise switching costs further.
 
-In the end, the passage concludes that the most informative evidence is often the evidence
-that forces competing assumptions into the open. by insisting that claims about
-heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns
-disagreement into a tool for discovery, a move that clarifies why the same record can yield
-multiple stories without implying that any story is arbitrary. Despite the fact that the
-temptation to treat a tidy plot as a definitive answer is strong, the result is a framework
-in which structure-sensitive activity is interpreted through explicit boundary conditions
-rather than through habit.
+Nevertheless, network-dominated markets can change abruptly when a new technology alters
+interoperability or when user preferences shift toward openness. The rise of web-based
+applications, for example, reduced dependence on a single local operating system by moving
+software into browsers. Similarly, standards that enable cross-platform messaging can weaken
+the power of any one platform by lowering the cost of leaving. [D] The lesson is not that
+networks determine destiny, but that they structure the terrain on which competition occurs.
+In a market where value is partly made by users themselves, winning is as much about
+building coordination as about building features.
+
 
 Questions
 ---------
 
-1. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | surface microscopy | Samples only part of the system |
-   | Signal | rate enhancement | Can vary across epochs |
-   | Confounder | adsorbate coverage effects | Changes the apparent slope |
-   Blank: The limitation for 'Confounder' is ________.
-   A. It makes support interactions irrelevant.
-   B. It replaces microkinetic modeling with intuition.
-   C. Changes the apparent slope
-   D. Samples only part of the system
+1. [Factual] According to the passage, what is a direct network effect?
+   A. A situation where each additional user increases value by expanding who can be reached
+   B. A situation where value falls as adoption grows
+   C. A rule that prevents any standard from gaining users
+   D. A process where switching costs vanish automatically
 
-2. [Inference] The passage suggests which of the following?
-   A. The author treats automotive catalytic converters as a special case and argues that no broader inference about heterogeneous catalysis on platinum surfaces is possible.
-   B. The passage claims that the best strategy is to average away catalyst deactivation, since variability is merely a measurement error.
-   C. A convincing explanation should make distinct predictions under shared protocols, especially when catalyst deactivation can mimic selectivity shifts.
-   D. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving surface microscopy.
+2. [Vocabulary] The word “tipping” in the passage is closest in meaning to:
+   A. a rapid move toward one dominant standard
+   B. a stable balance where all standards remain equal
+   C. a legal ban on platforms
+   D. an improvement in technical performance
 
-3. [Reference] In the passage, the word **it** in the sentence below refers to:
-   Sentence: While it is true that temperature-programmed desorption can make the pattern look unusually sharp, the passage argues that such confidence is conditional and must be earned by specifying assumptions.
-   A. support interactions alone, treated as the sole cause
-   B. poisoning by CO specifically, taken as an unambiguous measurement
-   C. surface microscopy as a device rather than as an analytic approach
-   D. the idea being discussed in the surrounding sentences
-
-4. [Vocabulary] In the passage, the word **convergent** in the sentence below is closest in meaning to:
-   Sentence: Whereas popular summaries treat structure-sensitive activity as an endpoint invites a tidy story, the passage treats it as a starting point for sharper experimental or observational contrasts forces boundary conditions to be stated.
-   A. complete and final, so no further checks like surface microscopy are needed
-   B. coming together
-   C. unavoidable and uncontrollable because support interactions dominates all evidence
-   D. irrelevant to heterogeneous catalysis on platinum surfaces, serving only as background detail
-
-5. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage argues that metal-surface catalytic conversion cannot be studied empirically because confounders like adsorbate coverage effects make data meaningless. It recommends replacing measurement with intuition and rejecting surface microscopy as unreliable. It concludes that debate persists because evidence never constrains theory.
-   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats surface microscopy as a historical curiosity and does not discuss rate enhancement or adsorbate coverage effects. It ends without any methodological implication.
-   C. The passage claims that platinum-catalyzed reaction pathways is settled because rate enhancement uniquely identifies the mechanism. It argues that adsorbate coverage effects is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using surface microscopy are unnecessary.
-   D. The passage examines heterogeneous catalysis on platinum surfaces and argues that rate enhancement is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how adsorbate coverage effects can shift the baseline, especially when evidence is drawn from laboratory single-crystal studies. Finally, it maintains that tests combining surface microscopy with boundary-condition checks are required to make claims about surface-mediated catalysis on pt robust.
-
-6. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. surface microscopy
-   B. the author’s favorite color
-   C. poisoning by CO
-   D. Heterogeneous Catalysis on Platinum Surfaces
-
-7. [Rhetorical Purpose] Why does the passage juxtapose two accounts of the phenomenon?
-   A. The passage treats structure-sensitive activity as a confounder and adsorbate coverage effects as the diagnostic signal that identifies the mechanism.
-   B. The author argues that microkinetic modeling should be replaced by an unmodeled trend line because assumptions distort evidence.
-   C. The author suggests that the key synonym 'surface-mediated catalysis on Pt' refers to a different field altogether, not to heterogeneous catalysis on platinum surfaces.
-   D. motivate clearer assumptions and stronger tests, such as comparing cases where microkinetic modeling constrains adsorbate coverage effects
-
-8. [Factual Information] According to the passage, why does the author emphasize instrument calibration?
-   A. it prevents rate enhancement from being treated as a self-interpreting fingerprint and forces tests that control facet dependence
-   B. Because rate enhancement appears, the mechanism must be unique, so facet dependence can be ignored as irrelevant noise.
-   C. Because facet dependence co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
-   D. The passage implies that temperature-programmed desorption directly measures causes, meaning confounding from facet dependence is impossible.
-
-9. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: The author emphasizes that a clean-looking curve can still encode hidden choices, especially when preprocessing is treated as neutral.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: Once coordination begins, compatibility can outweigh features that matter only to solitary users.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-10. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns disagreement into a tool for discovery, a move that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Summaries are always reliable because averaging eliminates support interactions.
-   B. Aggregation guarantees that the same mechanism operates in automotive catalytic converters and everywhere else.
-   C. Some summaries seem consistent because they mix incompatible cases, not because selectivity shifts uniquely identifies one mechanism.
-   D. Incompatible cases should be ignored to keep an explanation based on DFT surface modeling simple.
+4. [Inference] What can be inferred about why firms may subsidize early adoption?
+   A. They aim to build a user base that increases the product’s value for later users through network effects
+   B. They want to reduce interoperability permanently
+   C. They expect network effects to disappear when adoption grows
+   D. They believe switching costs have no influence on markets
+
+5. [Negative Factual] All of the following are mentioned as factors shaping standards competition EXCEPT:
+   A. switching costs
+   B. interoperability or conversion ease
+   C. complementary goods like software catalogs
+   D. the carbon‑14 content of tree rings
+
+6. [Rhetorical Purpose] Why does the author describe developer tools that are poor despite many users?
+   A. To show that an installed base alone may not create a thriving ecosystem if complements do not grow
+   B. To argue that developers never respond to audiences
+   C. To claim that consoles cannot have network effects
+   D. To suggest that feedback loops are mystical rather than incentive-driven
+
+7. [Reference] In the passage, “the loop” refers to:
+   A. the incentive cycle in which users attract developers and developers attract users
+   B. a legal loophole in regulation
+   C. a cable loop inside a device
+   D. a conversion algorithm for file formats
+
+8. [Organization] How is the passage primarily organized?
+   A. It defines network effects, explains tipping and lock-in, then discusses complements, strategic dilemmas, and conditions under which dominance can weaken
+   B. It lists product prices without causal links
+   C. It focuses on antitrust law only
+   D. It narrates a single company’s history without general concepts
+
+9. [Paraphrase] Which option best restates “the market becomes social”?
+   A. A consumer’s payoff depends partly on what other consumers adopt, so expectations shape choices
+   B. Markets are controlled only by friendships and not by prices
+   C. Individuals stop making choices when networks exist
+   D. Social behavior eliminates the need for coordination
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Network effects mean that technical quality never matters and only the first entrant can win.
+   B. The passage explains that network effects raise product value with adoption, enabling tipping and lock-in during standards competition, while highlighting the roles of switching costs, complementary goods, strategic behavior, and technological changes that can reduce dominance by lowering the cost of leaving.
+   C. Network effects occur only with telephones and not with digital platforms.
+   D. Interoperability always strengthens dominant firms by increasing switching costs.
 
 
 Answer Key
 ----------
-1: C
-2: C
-3: D
-4: B
+1: A
+2: A
+3: A
+4: A
 5: D
-6: B
-7: D
+6: A
+7: A
 8: A
-9: B
-10: C
+9: A
+10: B

@@ -1,146 +1,142 @@
-Passage 0097: Retrieval-Induced Forgetting in Memory Experiments (Psychology)
-=============================================================================
-(Word count: 627)
+Passage 0097: Sea Otters, Urchin Barrens, and Kelp Forest Cascades (Ecology)
+============================================================================
+(Word count: 606)
 
-In classic laboratory tasks, one sees why researchers have treated strategy shifts over
-trials as the decisive sign of retrieval-induced forgetting in memory experiments. While it
-is true that fMRI pattern analysis can make the pattern look unusually sharp, the passage
-argues that such confidence is conditional and must be earned by specifying assumptions. the
-resulting debate is less about data collection than about what the data are evidence for,
-which forces analysts to articulate boundary conditions rather than rely on familiar
-narratives.
+Kelp forests can look like underwater jungles: tall fronds rise toward the surface,
+filtering light and creating habitat for fish, invertebrates, and marine mammals. Yet the
+presence of kelp is not determined solely by water temperature and nutrients. In many
+nearshore ecosystems, kelp depends on a chain of biological interactions in which predators,
+herbivores, and plants are linked across trophic levels. A famous illustration involves sea
+otters, sea urchins, and kelp along the North Pacific rim.
 
-Not the obvious explanation but the apparent regularity of strategy shifts over trials is
-what drives the first interpretation: strategy shifts over trials is treated as a direct
-readout of mechanism. [A] That point is not rhetorical; it controls which prediction
-follows. If strategy shifts over trials is uniquely produced by one causal pathway, then
-observations from laboratory paradigms would be transferable, and disagreement would be
-largely technical. [B] The discussion treats exceptions as informative, not as errors to be
-discarded. Rather than the caveat that encoding strength heterogeneity might reproduce the
-same pattern, the passage emphasizes that the literature is full of such claims. [C] The
-author uses the example to separate detection from interpretation. [D] This point forces the
-reader to consider how confounders enter the pipeline. In this sense, practice-driven
-suppression of competing memories is best treated as a conditional inference rather than as
-a mere label.
+Sea urchins graze on kelp, especially on holdfasts and young shoots. When urchin populations
+are low or are kept in check, kelp can grow rapidly, forming dense canopies. When urchins
+become abundant, they can strip kelp from the seafloor, converting forests into “urchin
+barrens,” rocky landscapes dominated by spines and sparse algae. The transition can be
+abrupt, because once kelp is removed, urchins may persist by eating drift algae and by
+surviving at low metabolic rates, preventing kelp from reestablishing. [A] The system can
+therefore exhibit alternative stable states: a kelp-dominated state and an urchin-dominated
+state.
 
-Only after the field adopted tests that manipulate or stratify encoding strength
-heterogeneity did the earlier interpretation begin to look fragile, so the debate became
-empirically productive rather than merely rhetorical. by comparing cases in which fMRI
-pattern analysis constrains alternatives, researchers could ask which predictions survive
-out of sample, which is why the passage emphasizes comparative design over isolated
-exemplars. a single case can be dramatic; still, the author does not deny the value of
-striking examples, but warns against treating them as representative.
+Sea otters are important because they eat urchins, and their predation can shift the
+balance. Where otters are present, urchin size and density often decline, and kelp cover
+increases. Where otters are absent—whether due to historical fur hunting, predation by
+killer whales in some regions, or other pressures—urchins can expand, and kelp can retreat.
+This pattern is sometimes described as a trophic cascade, in which changes at the top
+propagate downward. Yet the cascade is not a simple domino line. Otters do not eat urchins
+uniformly; they may prefer large urchins, which can change size distributions, and they may
+switch prey depending on availability. [B] The predator’s behavior is part of the ecology.
 
-It is methodological humility that the passage presents as the lesson of retrieval-induced
-forgetting in memory experiments: inference is constrained by what competing models would
-also predict. Provided that one wishes to move from description to explanation, then the
-same observation—strategy shifts over trials—must be paired with tests that change the
-conditions under which it appears. Whereas popular summaries treat strategy shifts over
-trials as an endpoint, the passage treats it as a starting point for sharper experimental or
-observational contrasts. In this sense, retrieval-based inhibition is best treated as a
-conditional inference rather than as a mere label.
+Physical conditions also modulate the cascade. Storms can tear kelp from the substrate,
+creating gaps and drift algae that feed urchins. Warm-water events can reduce kelp growth,
+making it easier for grazing to outrun regrowth. Conversely, high nutrient upwelling can
+boost kelp, allowing forests to recover even under grazing pressure. In some places, kelp
+species differ in resilience, and urchin species differ in feeding intensity, producing
+regional variations in how “otter-driven” the system appears.
 
-It is methodological humility that the passage presents as the lesson of retrieval-induced
-forgetting in memory experiments: inference is constrained by what competing models would
-also predict. If one wishes to move from description to explanation holds, then the same
-observation—strategy shifts over trials—must be paired with tests that change the conditions
-under which it appears. Whereas popular summaries treat strategy shifts over trials as an
-endpoint, the passage treats it as a starting point for sharper experimental or
-observational contrasts. In this sense, selective recall causing forgetting is best treated
-as a conditional inference rather than as a mere label.
+The cascade has consequences beyond kelp abundance. Kelp forests dampen waves and can reduce
+coastal erosion by absorbing energy, while their structure provides nurseries for fish.
+Carbon cycling is affected as well: kelp fixes carbon rapidly, and some of that organic
+matter is exported to deeper waters. Urchin barrens, by contrast, support different
+assemblages and often lower structural complexity. [C] Thus, a shift in predator presence
+can reverberate through ecosystem services that people notice, even if they never see an
+otter underwater.
 
-In the end, the central disagreement can be stated more precisely: the passage concludes
-that the most informative evidence is often the evidence that forces competing assumptions
-into the open. by insisting that claims about retrieval-induced forgetting in memory
-experiments be conditional on stated priors, it turns disagreement into a tool for
-discovery, which clarifies why the same record can yield multiple stories without implying
-that any story is arbitrary. the temptation to treat a tidy plot as a definitive answer is
-strong; still, the result is a framework in which strategy shifts over trials is interpreted
-through explicit boundary conditions rather than through habit.
+Because humans have reintroduced otters in some regions and protected them in others, the
+system has become a living experiment in recovery. Yet recovery can be slow, especially
+where urchin barrens have persisted long enough to alter local conditions. In some
+management contexts, divers remove urchins or promote urchin fisheries to help kelp return,
+highlighting that cascades can be influenced by interventions at multiple levels.
+
+Sea otters and kelp therefore exemplify how cause and effect can be ecological rather than
+mechanical. [D] A predator does not “create” a forest directly, but by altering herbivore
+pressure, it changes whether a plant can build the architecture that, in turn, shelters an
+entire community.
+
+As kelp returns, fish nurseries expand, and the forest-like structure can dampen waves,
+subtly reshaping nearshore habitats.
+
+As kelp returns, fish nurseries expand, and the forest-like structure can dampen waves,
+subtly reshaping nearshore habitats.
+
+As kelp returns, fish nurseries expand, and the forest-like structure can dampen waves,
+subtly reshaping nearshore habitats.
+
 
 Questions
 ---------
 
-1. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about retrieval-induced forgetting in memory experiments be conditional on stated priors, it turns disagreement into a tool for discovery, which clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Summaries are always reliable because averaging eliminates inhibitory control differences.
-   B. Incompatible cases should be ignored to keep an explanation based on process-dissociation procedures simple.
-   C. Aggregation guarantees that the same mechanism operates in laboratory paradigms and everywhere else.
-   D. Some summaries seem consistent because they mix incompatible cases, not because metacognitive illusions uniquely identifies one mechanism.
+1. [Factual] According to the passage, what can cause a kelp forest to shift into an “urchin barren”?
+   A. high densities of sea urchins that graze kelp faster than it can regrow
+   B. the carbonation of wet lime plaster
+   C. a currency reform introducing the Rentenmark
+   D. the propagation of fractures in cooling basalt
 
-2. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: In other words, the disagreement is not about whether the data exist, but about what the data are evidence for.
+2. [Vocabulary] The phrase “alternative stable states” in the passage refers to:
+   A. different persistent ecosystem configurations, such as kelp dominance versus urchin dominance
+   B. two tuning systems used in music
+   C. a choice between star cues and swell cues for navigation
+   D. two methods of painting on wet plaster
+
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: Because barrens can persist, simply reducing urchins briefly may not guarantee immediate kelp recovery.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-3. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [D] This point forces the reader to consider how confounders enter the pipeline.
-   A. test expectancy effects alone, treated as the sole cause
-   B. fMRI pattern analysis as a device rather than as an analytic approach
-   C. reduced recall of unpracticed items specifically, taken as an unambiguous measurement
-   D. the idea being discussed in the surrounding sentences
+4. [Inference] What can be inferred about why the author says the cascade is “not a simple domino line”?
+   A. Because predator preferences, prey switching, and physical conditions can alter how strongly predation affects kelp
+   B. Because otters never eat urchins in any region
+   C. Because storms always eliminate kelp regardless of grazing
+   D. Because kelp can grow without sunlight
 
-4. [Inference] The passage suggests which of the following?
-   A. The author treats cross-cultural replications as a special case and argues that no broader inference about retrieval-induced forgetting in memory experiments is possible.
-   B. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving recognition tests.
-   C. A convincing explanation should make distinct predictions under shared protocols, especially when inhibitory control differences can mimic strategy shifts over trials.
-   D. The passage claims that the best strategy is to average away inhibitory control differences, since variability is merely a measurement error.
+5. [Rhetorical Purpose] Why does the author mention wave damping and fish nurseries?
+   A. To show that kelp forests influence ecosystem services and coastal environments, making cascades relevant to humans
+   B. To argue that otters are primarily important for painting materials
+   C. To claim that urchin barrens increase habitat complexity
+   D. To suggest that nutrient upwelling is irrelevant to kelp growth
 
-5. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. fMRI pattern analysis
-   B. a recipe for bread fermentation
-   C. Retrieval-Induced Forgetting in Memory Experiments
-   D. metacognitive illusions
+6. [Negative Factual] All of the following are mentioned as factors that can modulate the cascade EXCEPT:
+   A. storms
+   B. warm-water events
+   C. nutrient upwelling
+   D. plasmid exchange among bacteria
 
-6. [Vocabulary] In the passage, the word **approximate** in the sentence below is closest in meaning to:
-   Sentence: In this sense, practice-driven suppression of competing memories is best treated as a conditional inference rather than as a mere label.
-   A. complete and final, so no further checks like paired-associate tasks are needed
-   B. unavoidable and uncontrollable because inhibitory control differences dominates all evidence
-   C. rough
-   D. irrelevant to retrieval-induced forgetting in memory experiments, serving only as background detail
+7. [Reference] In the passage, “the predator’s behavior” refers to:
+   A. otters’ prey preferences and switching, which influence urchin populations and thus kelp dynamics
+   B. urchins’ ability to crystallize salts on walls
+   C. kelp’s ability to print banknotes
+   D. stars rising at fixed azimuths
 
-7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | fMRI pattern analysis | May not generalize across contexts |
-   | Signal | context-dependent effects | May be muted by other processes |
-   | Confounder | inhibitory control differences | Co-varies with the driver of interest |
-   Blank: The limitation for 'Signal' is ________.
-   A. May be muted by other processes
-   B. It proves reduced recall of unpracticed items is unique.
-   C. May not generalize across contexts
-   D. It replaces paired-associate tasks with intuition.
+8. [Organization] How is the passage primarily organized?
+   A. It describes the kelp–urchin interaction, introduces otter predation and trophic cascades, then explains modifying physical factors and broader consequences before noting management implications
+   B. It lists marine species without explaining interactions
+   C. It argues that predators have no effect on ecosystems
+   D. It focuses only on the chemistry of seawater and ignores organisms
 
-8. [Rhetorical Purpose] The author’s discussion of an alternative hypothesis serves mainly to:
-   A. The passage treats reduced recall of unpracticed items as a confounder and stress modulation of recall as the diagnostic signal that identifies the mechanism.
-   B. The discussion suggests that stress modulation of recall is the phenomenon itself, so controlling for it would remove the effect of interest.
-   C. motivate clearer assumptions and stronger tests, such as comparing cases where recognition tests constrains stress modulation of recall
-   D. The passage implies that classroom study settings is chosen to avoid bias, so comparisons across settings are unnecessary.
+9. [Paraphrase] Which option best restates the passage’s main point about otters and kelp?
+   A. By reducing urchin grazing pressure, otters can indirectly allow kelp forests to persist, which then supports wider ecological communities
+   B. Otters directly photosynthesize to create kelp tissue
+   C. Urchins build kelp forests by carrying spores to rocks
+   D. Kelp abundance is controlled only by banknote circulation
 
-9. [Factual Information] The passage indicates that confounder control is important mainly because:
-   A. it prevents strategy shifts over trials from being treated as a self-interpreting fingerprint and forces tests that control inhibitory control differences
-   B. Because inhibitory control differences co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
-   C. The passage implies that pre-registered replication directly measures causes, meaning confounding from inhibitory control differences is impossible.
-   D. Since strategy shifts over trials is observed in classroom study settings, it must generalize to every setting, regardless of boundary conditions.
-
-10. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage examines retrieval-induced forgetting in memory experiments and argues that strategy shifts over trials is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how test expectancy effects can shift the baseline, especially when evidence is drawn from clinical populations. Finally, it maintains that tests combining recognition tests with boundary-condition checks are required to make claims about practice-driven suppression of competing memories robust.
-   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats recognition tests as a historical curiosity and does not discuss strategy shifts over trials or test expectancy effects. It ends without any methodological implication.
-   C. The passage claims that retrieval-based inhibition is settled because strategy shifts over trials uniquely identifies the mechanism. It argues that test expectancy effects is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using recognition tests are unnecessary.
-   D. The passage argues that selective recall causing forgetting cannot be studied empirically because confounders like test expectancy effects make data meaningless. It recommends replacing measurement with intuition and rejecting recognition tests as unreliable. It concludes that debate persists because evidence never constrains theory.
+10. [Summary] Which statement best summarizes the passage?
+   A. The passage argues that kelp forests depend only on temperature and cannot be influenced by animals.
+   B. The passage explains how kelp forests can collapse into urchin barrens when grazing pressure is high, and it describes sea otters as predators whose consumption of urchins can trigger trophic cascades that favor kelp; it emphasizes that the strength of the cascade varies with predator behavior and physical conditions and that the shift affects habitat structure and services such as wave damping and fish nurseries.
+   C. The passage claims that urchins are harmless because they eat only drift algae.
+   D. Sea otters are described as irrelevant because they never interact with urchins.
 
 
 Answer Key
 ----------
-1: D
-2: C
-3: D
-4: C
-5: B
-6: C
+1: A
+2: A
+3: A
+4: A
+5: A
+6: D
 7: A
-8: C
+8: A
 9: A
-10: A
+10: B

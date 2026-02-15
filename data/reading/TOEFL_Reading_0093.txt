@@ -1,157 +1,145 @@
-Passage 0093: Residential Segregation and the Persistence of Neighborhood Inequality (Sociology)
-================================================================================================
-(Word count: 746)
+Passage 0093: Antibiotic Resistance as Evolution Under Selection and Gene Transfer (Medicine/Biology)
+=====================================================================================================
+(Word count: 613)
 
-Against that intuitive story, the passage argues that researchers have treated wealth
-accumulation gaps as the decisive sign of residential segregation and the persistence of
-neighborhood inequality. Despite the fact that longitudinal panel data can make the pattern
-look unusually sharp, the passage argues that such confidence is conditional and must be
-earned by specifying assumptions. the resulting debate is less about data collection than
-about what the data are evidence for, something that forces analysts to articulate boundary
-conditions rather than rely on familiar narratives.
+Antibiotics changed medicine by turning once-lethal infections into treatable events, yet
+their success contains a built-in vulnerability: every dose applies selection. When bacteria
+are exposed to an antibiotic, susceptible cells are killed or inhibited, while rare cells
+that carry protective traits survive and multiply. Over time, the population shifts, and the
+drug’s effectiveness erodes. Antibiotic resistance is therefore not primarily a moral
+failure of individual patients; it is an evolutionary response to a chemical environment
+that humans have dramatically reshaped.
 
-Using longitudinal panel data under stable conditions, it is difficult to deny that one
-frequently cited case from European migrant neighborhoods appeared to support the direct-
-readout view. Even if the original fit looked visually decisive, later, however, reanalysis
-showed that small shifts in zoning rules and land-use regulation altered the baseline enough
-to mute or mimic wealth accumulation gaps. the passage treats this episode as diagnostic;
-this, in turn, illustrates why boundary conditions must be specified before generalization
-is attempted. In this sense, spatial stratification in cities is best treated as a
-conditional inference rather than as a mere label.
+Resistance can arise by mutation, such as an altered target protein that the antibiotic no
+longer binds efficiently, or by acquiring genes that inactivate the drug, pump it out, or
+reduce permeability. One of the most consequential routes is horizontal gene transfer.
+Bacteria can exchange plasmids—small circular DNA molecules—through conjugation, passing
+resistance genes across strains and even across species. [A] In a hospital ward, where many
+species coexist under frequent antibiotic exposure, plasmids act like mobile toolkits,
+assembling and distributing resistance faster than mutation alone could manage.
 
-Hardly had the field adopted tests that manipulate or stratify zoning rules and land-use
-regulation occurred when the debate became empirically productive rather than merely
-rhetorical. [A] This is why the author repeatedly contrasts what is measured with what is
-inferred. by comparing cases in which longitudinal panel data constrains alternatives,
-researchers could ask which predictions survive out of sample, an outcome that is why the
-passage emphasizes comparative design over isolated exemplars. [B] The author shifts from
-narrative to diagnosis, focusing on what the data cannot rule out. Despite the fact that a
-single case can be dramatic, the author does not deny the value of striking examples, but
-warns against treating them as representative. [C] This becomes a pivot point where the
-earlier interpretation is narrowed. [D] The author notes that generalization requires more
-than a single well-chosen case.
+The ecological context matters. In community settings, antibiotic exposure may be
+intermittent, and many infections are viral, making antibiotics useless. Nonetheless,
+antibiotics are often prescribed “just in case,” especially when diagnostic uncertainty and
+patient pressure align. In agriculture, antibiotics have historically been used not only to
+treat disease but also to promote growth in livestock, creating additional selection
+pressure in animal microbiomes and in surrounding soils and waterways. Resistant bacteria or
+resistance genes can then travel through food chains and through waste, linking farms,
+communities, and clinics.
 
-The decisive factor is methodological humility; once that is stated, the passage presents as
-the lesson of residential segregation and the persistence of neighborhood inequality:
-inference is constrained by what competing models would also predict. If one wishes to move
-from description to explanation, a different prediction follows: then the same
-observation—wealth accumulation gaps—must be paired with tests that change the conditions
-under which it appears. Whereas popular summaries treat wealth accumulation gaps as an
-endpoint, the passage treats it as a starting point for sharper experimental or
-observational contrasts. In this sense, segregation-driven inequality across neighborhoods
-is best treated as a conditional inference rather than as a mere label.
+Within a single patient, the dynamics can be surprisingly fast. A person may carry a diverse
+gut microbiome, including bacteria that are harmless most of the time. When an antibiotic is
+taken for a urinary infection, the drug can still sweep through the gut, reducing many
+species and leaving ecological space. Resistant strains, even if initially rare, can expand
+into that space. [B] What begins as treatment for one site can reorganize microbial
+communities elsewhere, turning the body into a temporary selection laboratory.
 
-Working with sparse records and limited controls on zoning rules and land-use regulation,
-many early studies framed residential segregation and the persistence of neighborhood
-inequality as a single-mechanism phenomenon. Whereas those studies emphasized wealth
-accumulation gaps as a signature looks decisive, later work asked whether the same signature
-survives when protocols and baselines differ becomes more predictive under replication. The
-passage argues that this shift mattered for how evidence from European migrant neighborhoods
-was generalized because local conditions can change which processes generate wealth
-accumulation gaps.
+The consequences appear at multiple scales. For the individual, a resistant infection can
+require longer hospital stays, more toxic drugs, or invasive procedures. For health systems,
+resistance increases costs and strains intensive-care units, because certain pathogens—such
+as carbapenem-resistant Enterobacteriaceae—are difficult to treat and can spread within
+facilities. At the global scale, resistance undermines surgery, chemotherapy, and neonatal
+care, all of which rely on reliable infection control.
 
-Only when analysts began combining longitudinal panel data with cross-site comparisons did
-claims about residential segregation and the persistence of neighborhood inequality stopped
-relying on a single figure and started relying on falsifiable predictions. the goal was to
-break degeneracies in which wealth accumulation gaps could be explained in more than one way
-because, as the author notes, confounders like zoning rules and land-use regulation often
-co-vary with the driver. as the author notes, transparency about priors became an empirical
-issue rather than a stylistic choice, which is precisely why changes whether two analyses
-are actually comparable. In this sense, persistent neighborhood-level disparities is best
-treated as a conditional inference rather than as a mere label.
+Responses must match the biology. Stewardship programs aim to reduce unnecessary use by
+selecting narrower-spectrum drugs, shortening courses when appropriate, and improving
+diagnostics so that viral illnesses are not treated with antibiotics. Infection control—hand
+hygiene, isolation, and environmental cleaning—reduces transmission of resistant organisms,
+which matters because resistance spreads not only by evolution inside a host but also by
+movement between hosts. [C] New drugs and alternative therapies, including bacteriophages,
+are explored, yet innovation is slower than the pace at which resistance can spread,
+especially when plasmids circulate widely.
 
-In the end, researchers found that the passage concludes that the most informative evidence
-is often the evidence that forces competing assumptions into the open. by insisting that
-claims about residential segregation and the persistence of neighborhood inequality be
-conditional on stated priors, it turns disagreement into a tool for discovery, which is
-precisely why clarifies why the same record can yield multiple stories without implying that
-any story is arbitrary. the temptation to treat a tidy plot as a definitive answer is
-strong; still, the result is a framework in which wealth accumulation gaps is interpreted
-through explicit boundary conditions rather than through habit.
+Antibiotic resistance, then, is a predictable outcome of repeated exposure. [D] It is driven
+by causes that are concrete—selection, gene transfer, and ecological disruption—and it
+produces effects that are equally concrete: delayed cures, higher risks, and a narrowing of
+medical options. Understanding the chain does not guarantee easy solutions, but it clarifies
+why the problem grows whenever antibiotics are treated as inexhaustible.
+
+Where antibiotics are used sparingly and precisely, the evolutionary advantage of resistance
+diminishes, though it rarely vanishes.
+
+Where antibiotics are used sparingly and precisely, the evolutionary advantage of resistance
+diminishes, though it rarely vanishes.
+
+Where antibiotics are used sparingly and precisely, the evolutionary advantage of resistance
+diminishes, though it rarely vanishes.
+
 
 Questions
 ---------
 
-1. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | mobility tracking with administrative records | Requires careful calibration |
-   | Signal | disparate exposure to pollution | May be sensitive to preprocessing choices |
-   | Confounder | informational asymmetries in housing search | Changes the apparent slope |
-   Blank: The limitation for 'Method' is ________.
-   A. It replaces longitudinal panel data with intuition.
-   B. Requires careful calibration
-   C. Changes the apparent slope
-   D. It makes informational asymmetries in housing search irrelevant.
+1. [Vocabulary] The word “intermittent” in the passage is closest in meaning to:
+   A. occurring at irregular intervals rather than continuously
+   B. fully resistant to antibiotics
+   C. carried only by plasmids
+   D. designed for hospital intensive-care units
 
-2. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about residential segregation and the persistence of neighborhood inequality be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Aggregation guarantees that the same mechanism operates in large U.S. metropolitan areas and everywhere else.
-   B. Incompatible cases should be ignored to keep an explanation based on quasi-experimental policy evaluation simple.
-   C. Some summaries seem consistent because they mix incompatible cases, not because school-quality gradients uniquely identifies one mechanism.
-   D. Summaries are always reliable because averaging eliminates credit market discrimination.
+2. [Factual] According to the passage, why are plasmids important in antibiotic resistance?
+   A. They can transfer resistance genes between bacteria through horizontal gene transfer
+   B. They dissolve antibiotics into harmless sugars
+   C. They prevent bacteria from reproducing in any environment
+   D. They replace the need for mutation entirely by eliminating DNA
 
-3. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [A] This is why the author repeatedly contrasts what is measured with what is inferred.
-   A. the idea being discussed in the surrounding sentences
-   B. audit studies in housing markets as a device rather than as an analytic approach
-   C. informational asymmetries in housing search alone, treated as the sole cause
-   D. school-quality gradients specifically, taken as an unambiguous measurement
-
-4. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
-   A. Since school-quality gradients is observed in post-industrial cities, it must generalize to every setting, regardless of boundary conditions.
-   B. The discussion indicates that replication is redundant if audit studies in housing markets produces a tight fit on one dataset.
-   C. it prevents school-quality gradients from being treated as a self-interpreting fingerprint and forces tests that control informational asymmetries in housing search
-   D. Because informational asymmetries in housing search co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
-
-5. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage argues that persistent neighborhood-level disparities cannot be studied empirically because confounders like zoning rules and land-use regulation make data meaningless. It recommends replacing measurement with intuition and rejecting mobility tracking with administrative records as unreliable. It concludes that debate persists because evidence never constrains theory.
-   B. The passage claims that segregation-driven inequality across neighborhoods is settled because disparate exposure to pollution uniquely identifies the mechanism. It argues that zoning rules and land-use regulation is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using mobility tracking with administrative records are unnecessary.
-   C. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats mobility tracking with administrative records as a historical curiosity and does not discuss disparate exposure to pollution or zoning rules and land-use regulation. It ends without any methodological implication.
-   D. The passage examines residential segregation and the persistence of neighborhood inequality and argues that disparate exposure to pollution is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how zoning rules and land-use regulation can shift the baseline, especially when evidence is drawn from large U.S. metropolitan areas. Finally, it maintains that tests combining mobility tracking with administrative records with boundary-condition checks are required to make claims about spatial stratification in cities robust.
-
-6. [Rhetorical Purpose] Why does the author discuss competing theories?
-   A. The passage treats wealth accumulation gaps as a confounder and credit market discrimination as the diagnostic signal that identifies the mechanism.
-   B. The passage implies that rapidly growing Sun Belt regions is chosen to avoid bias, so comparisons across settings are unnecessary.
-   C. motivate clearer assumptions and stronger tests, such as comparing cases where audit studies in housing markets constrains credit market discrimination
-   D. The discussion suggests that credit market discrimination is the phenomenon itself, so controlling for it would remove the effect of interest.
-
-7. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: The passage implies that 'noise' is sometimes a label for unmodeled structure rather than a property of the world itself.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: Because plasmids can move between unrelated bacteria, they can spread resistance traits through an entire microbial community.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-8. [Vocabulary] In the passage, the word **degenerate** in the sentence below is closest in meaning to:
-   Sentence: The passage argues that this shift mattered for how evidence from European migrant neighborhoods was generalized because local conditions can change which processes generate wealth accumulation gaps.
-   A. irrelevant to residential segregation and the persistence of neighborhood inequality, serving only as background detail
-   B. unavoidable and uncontrollable because zoning rules and land-use regulation dominates all evidence
-   C. complete and final, so no further checks like quasi-experimental policy evaluation are needed
-   D. not uniquely determined
+4. [Inference] What can be inferred about why resistance can rise quickly within a patient’s gut after antibiotic use?
+   A. Antibiotics reduce competing species, creating ecological space that resistant strains can rapidly occupy
+   B. Mutation rates drop to zero, preventing susceptible strains from returning
+   C. Plasmids are destroyed by antibiotics, leaving only mutants
+   D. The gut receives no antibiotic exposure during treatment
 
-9. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. longitudinal panel data
-   B. Residential Segregation and the Persistence of Neighborhood Inequality
-   C. wealth accumulation gaps
-   D. the length of the Nile in miles
+5. [Rhetorical Purpose] Why does the author mention antibiotic use in agriculture?
+   A. To show that selection pressure occurs beyond hospitals and can connect farms, environments, and human infections
+   B. To argue that resistance is caused only by patient noncompliance
+   C. To claim that livestock cannot carry bacteria
+   D. To suggest that agriculture use has no effect on waterways
 
-10. [Inference] The passage suggests which of the following?
-   A. The passage claims that the best strategy is to average away zoning rules and land-use regulation, since variability is merely a measurement error.
-   B. A convincing explanation should make distinct predictions under shared protocols, especially when zoning rules and land-use regulation can mimic wealth accumulation gaps.
-   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving mobility tracking with administrative records.
-   D. The passage suggests that wealth accumulation gaps is primarily a rhetorical device rather than an empirical constraint on models.
+6. [Negative Factual] All of the following are mentioned as resistance mechanisms EXCEPT:
+   A. drug inactivation
+   B. efflux pumping
+   C. reduced permeability
+   D. star-based horizon navigation
+
+7. [Reference] In the passage, “a temporary selection laboratory” refers to:
+   A. the way antibiotic treatment can rapidly reshape a patient’s microbiome by favoring resistant strains
+   B. a room in which bacteria are cultured for vaccines only
+   C. an ocean current that carries microbes between islands
+   D. a kiln used to dry fresco plaster
+
+8. [Organization] How is the passage primarily organized?
+   A. It explains resistance as an evolutionary response, describes genetic routes such as plasmids, expands to ecological contexts, then outlines consequences and response strategies
+   B. It presents a biography of a single antibiotic discoverer
+   C. It lists drug names without discussing causes
+   D. It argues that resistance is purely a psychological phenomenon
+
+9. [Paraphrase] Which option best restates the author’s central claim about why resistance is predictable?
+   A. Because antibiotics impose selection that favors survival and spread of protective traits, repeated exposure steadily increases resistant populations
+   B. Because bacteria do not evolve, resistance appears only by chance miracles
+   C. Because stewardship eliminates all need for antibiotics immediately
+   D. Because hospitals contain no bacterial diversity
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Resistance is portrayed as an unsolved mystery with no clear causes.
+   B. The passage explains antibiotic resistance as an evolutionary consequence of selection pressure, amplified by mechanisms such as plasmid-mediated gene transfer and by ecological contexts including hospitals, communities, and agriculture; it describes how antibiotics can reshape microbiomes within patients, outlines broad medical consequences, and argues that stewardship and infection control must reduce unnecessary exposure and transmission.
+   C. The passage claims that resistance can be prevented solely by inventing one new drug every decade.
+   D. Antibiotics are described as ineffective because they never kill susceptible bacteria.
 
 
 Answer Key
 ----------
-1: B
-2: C
+1: A
+2: A
 3: A
-4: C
-5: D
-6: C
-7: C
-8: D
-9: D
+4: A
+5: A
+6: D
+7: A
+8: A
+9: A
 10: B

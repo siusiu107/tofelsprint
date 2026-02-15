@@ -1,157 +1,134 @@
-Passage 0072: Agricultural Revolutions and the Reorganization of Rural Labor (History)
-======================================================================================
-(Word count: 760)
+Passage 0072: Slow Slip and the Quiet Mechanics of Subduction
+=============================================================
+(Word count: 614)
 
-When archival records are combined, it becomes plausible that researchers have treated
-urbanization accelerations as the decisive sign of agricultural revolutions and the
-reorganization of rural labor. Despite the fact that price series reconstruction can make
-the pattern look unusually sharp, the passage argues that such confidence is conditional and
-must be earned by specifying assumptions. the resulting debate is less about data collection
-than about what the data are evidence for, something that forces analysts to articulate
-boundary conditions rather than rely on familiar narratives.
+To most people, earthquakes arrive as surprises, yet a fault does not switch from “still” to
+“moving” in an instant. Along subduction zones—where an oceanic plate dives beneath a
+continental plate—some parts of the boundary are locked for decades, storing strain that is
+released in megathrust earthquakes. Other parts, however, slide in a quieter, slower way.
+Over the last two decades, geophysicists have documented slow slip events: episodes in which
+a fault creeps centimeters over days to months, releasing energy without the violent shaking
+that characterizes typical earthquakes.
 
-Never before the field adopted tests that manipulate or stratify credit constraints was it
-defensible to argue that the debate became empirically productive rather than merely
-rhetorical. by comparing cases in which price series reconstruction constrains alternatives,
-researchers could ask which predictions survive out of sample, which is precisely why is why
-the passage emphasizes comparative design over isolated exemplars. While it is true that a
-single case can be dramatic, the author does not deny the value of striking examples, but
-warns against treating them as representative. In this sense, technological change in
-agriculture is best treated as a conditional inference rather than as a mere label.
+The discovery depended on instruments rather than on felt experience. Continuous GPS
+networks revealed that, in certain regions, the ground would drift subtly backward—opposite
+the motion expected from steady plate convergence—before returning to its prior trend. The
+motion was small, but it was coherent across stations, suggesting a deep fault process
+rather than a local landslide. In some cases, the slow slip coincided with bursts of low-
+frequency seismic tremor, a soft, prolonged signal distinct from the sharp arrivals of
+ordinary quakes. [A] Together, slow slip and tremor imply that a portion of the fault is
+neither fully locked nor freely sliding, but poised in an intermediate frictional regime.
 
-Never before analysts began combining price series reconstruction with cross-site
-comparisons was it defensible to argue that claims about agricultural revolutions and the
-reorganization of rural labor stopped relying on a single figure and started relying on
-falsifiable predictions. the goal was to break degeneracies in which urbanization
-accelerations could be explained in more than one way because confounders like credit
-constraints often co-vary with the driver, which is why replication matters. as the author
-notes, transparency about priors became an empirical issue rather than a stylistic choice,
-something that changes whether two analyses are actually comparable.
+Why would one segment creep while another locks? Temperature is part of the answer. Near the
+surface, rocks can be brittle and stick–slip behavior is common. Deeper, where temperatures
+and pressures are higher, rocks can deform more ductilely, making stable sliding more
+likely. Yet slow slip often occurs at depths where temperatures should still allow
+stick–slip, which is why fluids have become central to explanations. Water released from the
+descending slab can raise pore pressure in the fault zone, reducing the effective normal
+stress that clamps the fault. When clamping is reduced, even a rough, irregular interface
+can slide more easily. [B] A transient increase in pore pressure can therefore tip a segment
+from locked to creeping without requiring a change in plate motion.
 
-Not the obvious explanation but methodological humility is what the passage presents as the
-lesson of agricultural revolutions and the reorganization of rural labor: inference is
-constrained by what competing models would also predict. [A] At first glance, the pattern
-seems obvious, yet the author frames it as conditional. If one wishes to move from
-description to explanation is granted, then the same observation—urbanization
-accelerations—must be paired with tests that change the conditions under which it appears.
-[B] The discussion treats exceptions as informative, not as errors to be discarded. Whereas
-popular summaries treat urbanization accelerations as an endpoint invites a tidy story, the
-passage treats it as a starting point for sharper experimental or observational contrasts
-forces boundary conditions to be stated. [C] The author shifts from narrative to diagnosis,
-focusing on what the data cannot rule out. [D] This reasoning matters because it changes
-what counts as a decisive test. In this sense, restructuring of rural work under
-mechanization is best treated as a conditional inference rather than as a mere label.
+The timing of slow slip can be rhythmic. In parts of Japan and Cascadia, slow slip repeats
+every year or two; elsewhere it is more irregular. Such periodicity suggests that the fault
+system loads and relaxes in cycles, possibly because fluids migrate, because permeability
+changes with stress, or because the interface alternates between sealing and leaking.
+Importantly, slow slip can transfer stress to adjacent segments. If a creeping patch
+unloads, a neighboring locked patch may be pushed closer to failure, even if the slow slip
+itself was gentle. This has raised interest in whether slow slip can serve as a precursor to
+larger events. The answer is cautious. Some major earthquakes have been preceded by slow
+slip, but many slow slip events occur without a large quake, and some large quakes occur
+without obvious slow precursors.
 
-In replication attempts, researchers found that the apparent consensus fractured when
-similar protocols were applied in settings unlike early modern England. the same summary
-statistic could be reproduced while the underlying mechanisms differed because credit
-constraints shifted the baseline in different directions across sites, which is why
-replication matters. the author therefore separates detection from interpretation, not
-because treating urbanization accelerations as a self-sufficient conclusion, but because the
-assumptions differ.
+The practical significance is twofold. First, slow slip demonstrates that the fault is a
+dynamic system with multiple modes of motion, so “locked” and “unlocked” are not permanent
+labels. Second, slow slip expands the concept of seismic hazard. A city may be threatened
+not only by the next megathrust rupture, but also by how stress is shuffled by deep, unseen
+slip episodes. To integrate slow slip into hazard models, researchers map where it occurs,
+how much slip accumulates, and how it interacts with the locked zone above.
 
-Only by analysts began combining price series reconstruction with cross-site comparisons was
-the field forced to accept that claims about agricultural revolutions and the reorganization
-of rural labor stopped relying on a single figure and started relying on falsifiable
-predictions. the goal was to break degeneracies in which urbanization accelerations could be
-explained in more than one way in part because confounders like credit constraints often co-
-vary with the driver. as the author notes, transparency about priors became an empirical
-issue rather than a stylistic choice, something that changes whether two analyses are
-actually comparable. In this sense, shifts from subsistence to market farming is best
-treated as a conditional inference rather than as a mere label.
+Slow slip, then, does not eliminate earthquake risk, but it reframes it. [C] It shows that
+plate boundaries can move in whispers as well as in shouts, and that those whispers can
+reshape the timing and location of the next shout. [D]
 
-In the end, the passage argues that the passage concludes that the most informative evidence
-is often the evidence that forces competing assumptions into the open. by insisting that
-claims about agricultural revolutions and the reorganization of rural labor be conditional
-on stated priors, it turns disagreement into a tool for discovery, which helps explain why
-clarifies why the same record can yield multiple stories without implying that any story is
-arbitrary. Even though the temptation to treat a tidy plot as a definitive answer is strong,
-the result is a framework in which urbanization accelerations is interpreted through
-explicit boundary conditions rather than through habit.
+Because temperature and pore pressure vary with depth, the same fault segment can slide
+quietly in one season and lock in another.
+
 
 Questions
 ---------
 
-1. [Vocabulary] In the passage, the word **incremental** in the sentence below is closest in meaning to:
-   Sentence: [C] The author shifts from narrative to diagnosis, focusing on what the data cannot rule out.
-   A. complete and final, so no further checks like price series reconstruction are needed
-   B. irrelevant to agricultural revolutions and the reorganization of rural labor, serving only as background detail
-   C. unavoidable and uncontrollable because market integration dominates all evidence
-   D. gradual
+1. [Factual] According to the passage, slow slip events are best described as:
+   A. fault movements that release strain over days to months with little or no strong shaking
+   B. instantaneous ruptures that always cause major surface destruction
+   C. surface landslides triggered by rainfall
+   D. volcanic eruptions that emit low-frequency sound
 
-2. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. price series reconstruction
-   B. Agricultural Revolutions and the Reorganization of Rural Labor
-   C. a recipe for bread fermentation
-   D. wage compression or expansion
+2. [Vocabulary] The word “coherent” in the passage is closest in meaning to:
+   A. consistent and correlated across multiple measurements
+   B. random and unrelated
+   C. loud enough to be heard by people
+   D. chemically pure
 
-3. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: This point matters because the simplest interpretation often survives only by silently restricting the range of cases under discussion.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: That mixed behavior helps explain why the signal was invisible before dense geodetic networks existed.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-4. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about agricultural revolutions and the reorganization of rural labor be conditional on stated priors, it turns disagreement into a tool for discovery, which helps explain why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Incompatible cases should be ignored to keep an explanation based on price series reconstruction simple.
-   B. Some summaries seem consistent because they mix incompatible cases, not because urbanization accelerations uniquely identifies one mechanism.
-   C. Summaries are always reliable because averaging eliminates market integration.
-   D. Aggregation guarantees that the same mechanism operates in early modern England and everywhere else.
+4. [Inference] What can be inferred about why fluids can promote slow slip?
+   A. By increasing pore pressure, fluids reduce effective clamping, allowing sliding to occur more easily
+   B. Fluids cool the fault so rocks become brittle and always rupture violently
+   C. Fluids remove all friction by dissolving the plates
+   D. Fluids change plate convergence rates within hours
 
-5. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | estate account analysis | Samples only part of the system |
-   | Signal | urbanization accelerations | Can be contaminated by background variability |
-   | Confounder | climatic shocks | Adds correlated noise |
-   Blank: The limitation for 'Confounder' is ________.
-   A. Can be contaminated by background variability
-   B. Samples only part of the system
-   C. It proves land-use intensification is unique.
-   D. Adds correlated noise
+5. [Negative Factual] All of the following are mentioned as possible reasons for periodicity in slow slip EXCEPT:
+   A. fluid migration
+   B. stress-related permeability changes
+   C. sealing and leaking of the interface
+   D. seasonal changes in solar radiation heating the mantle by hundreds of degrees
 
-6. [Inference] Which of the following can be inferred from the passage?
-   A. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving estate account analysis.
-   B. A convincing explanation should make distinct predictions under shared protocols, especially when credit constraints can mimic changes in tenancy patterns.
-   C. The passage suggests that changes in tenancy patterns is primarily a rhetorical device rather than an empirical constraint on models.
-   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using estate account analysis.
+6. [Rhetorical Purpose] Why does the author mention that some large earthquakes occur without obvious slow precursors?
+   A. To caution against treating slow slip as a reliable warning signal in every case
+   B. To argue that slow slip never happens in subduction zones
+   C. To suggest that GPS measurements are useless for fault studies
+   D. To claim that tremor is identical to ordinary seismic waves
 
-7. [Rhetorical Purpose] The author’s discussion of an alternative hypothesis serves mainly to:
-   A. The passage implies that Mediterranean rural regions is chosen to avoid bias, so comparisons across settings are unnecessary.
-   B. The discussion suggests that credit constraints is the phenomenon itself, so controlling for it would remove the effect of interest.
-   C. The passage treats urbanization accelerations as a confounder and credit constraints as the diagnostic signal that identifies the mechanism.
-   D. motivate clearer assumptions and stronger tests, such as comparing cases where estate account analysis constrains credit constraints
+7. [Reference] In the passage, “those whispers” refers to:
+   A. deep, quiet slow slip episodes that redistribute stress
+   B. audible sounds produced by earthquakes
+   C. political debates about hazard maps
+   D. wind noise recorded by seismometers
 
-8. [Factual Information] The passage indicates that instrument calibration is important mainly because:
-   A. it prevents changes in tenancy patterns from being treated as a self-interpreting fingerprint and forces tests that control credit constraints
-   B. The discussion indicates that replication is redundant if estate account analysis produces a tight fit on one dataset.
-   C. Since changes in tenancy patterns is observed in nineteenth-century Midwestern farms, it must generalize to every setting, regardless of boundary conditions.
-   D. Because changes in tenancy patterns appears, the mechanism must be unique, so credit constraints can be ignored as irrelevant noise.
+8. [Organization] How is the passage primarily organized?
+   A. It defines slow slip, describes how it was detected, explains likely physical causes, then discusses timing, stress transfer, and implications for hazard modeling
+   B. It lists subduction zones by latitude only
+   C. It argues that earthquakes are purely random and cannot be studied
+   D. It focuses only on surface geology and ignores deep faults
 
-9. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [D] This reasoning matters because it changes what counts as a decisive test.
-   A. the idea being discussed in the surrounding sentences
-   B. archival policy analysis as a device rather than as an analytic approach
-   C. urbanization accelerations specifically, taken as an unambiguous measurement
-   D. market integration alone, treated as the sole cause
+9. [Paraphrase] Which option best restates the claim that “locked” and “unlocked” are not permanent labels?
+   A. Fault segments can shift between creeping and sticking depending on conditions such as fluids and stress
+   B. Once a fault locks, it can never move again
+   C. Unlocked means the plates have separated permanently
+   D. Labels are irrelevant because plates do not converge
 
-10. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats archival policy analysis as a historical curiosity and does not discuss changes in tenancy patterns or market integration. It ends without any methodological implication.
-   B. The passage argues that shifts from subsistence to market farming cannot be studied empirically because confounders like market integration make data meaningless. It recommends replacing measurement with intuition and rejecting archival policy analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
-   C. The passage examines agricultural revolutions and the reorganization of rural labor and argues that changes in tenancy patterns is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how market integration can shift the baseline, especially when evidence is drawn from early modern England. Finally, it maintains that tests combining archival policy analysis with boundary-condition checks are required to make claims about technological change in agriculture robust.
-   D. The passage claims that restructuring of rural work under mechanization is settled because changes in tenancy patterns uniquely identifies the mechanism. It argues that market integration is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using archival policy analysis are unnecessary.
+10. [Summary] Which statement best summarizes the passage?
+   A. Slow slip events are rare atmospheric phenomena unrelated to plate tectonics.
+   B. The passage explains slow slip events in subduction zones as days-to-months fault movements detected by GPS and often associated with tremor, outlines explanations involving depth-dependent friction and fluid-driven pore pressure, and discusses how slow slip can redistribute stress and complicate seismic hazard without serving as a universal earthquake warning.
+   C. Slow slip prevents megathrust earthquakes by releasing all accumulated strain.
+   D. Tremor proves that every slow slip event will be followed immediately by a major quake.
 
 
 Answer Key
 ----------
-1: D
-2: C
-3: D
-4: B
+1: A
+2: A
+3: A
+4: A
 5: D
-6: B
-7: D
+6: A
+7: A
 8: A
 9: A
-10: C
+10: B

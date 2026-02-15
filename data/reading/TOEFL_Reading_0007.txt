@@ -1,156 +1,135 @@
-Passage 0007: The Great Migration and Northern Urban Transformation (History)
-=============================================================================
-(Word count: 731)
+Passage 0007: Why Bright LEDs Can Become Less Efficient at High Current (Physics)
+=================================================================================
+(Word count: 604)
 
-In comparative migration studies, the passage argues that researchers have treated political
-realignment patterns as the decisive sign of the great migration and northern urban
-transformation. housing record reconstruction can make the pattern look unusually sharp;
-still, the passage argues that such confidence is conditional and must be earned by
-specifying assumptions. the resulting debate is less about data collection than about what
-the data are evidence for; this, in turn, forces analysts to articulate boundary conditions
-rather than rely on familiar narratives.
+An LED looks deceptively simple: a small chip that glows when current passes through it. The
+glow, however, is the final step in a sequence that begins inside a semiconductor junction.
+When a p‑type region rich in holes meets an n‑type region rich in electrons, an applied
+voltage drives carriers toward the junction. If an electron recombines with a hole and
+releases its energy as a photon, light is produced. If it releases energy as heat, the
+device warms but does not brighten. The practical goal of LED design is therefore to bias
+recombination toward photons.
 
-Admittedly, the first model can fit one dataset extremely well; nevertheless, the passage
-insists that uniqueness is precisely what must be shown, not assumed. it highlights how
-push–pull dynamics can shift baselines, altering whether political realignment patterns is
-even comparable across cases, which is precisely why means that a good fit is not the same
-as a good explanation. Unless push–pull dynamics is changed while the nominal driver remains
-constant, one should expect different outcomes when conditions are perturbed cannot be
-claimed with confidence. In this sense, african american internal migration is best treated
-as a conditional inference rather than as a mere label.
+For many years, engineers were puzzled by a stubborn pattern called “efficiency droop.” At
+low to moderate current, an LED’s light output scales nearly linearly with current, and the
+fraction of recombinations producing photons can be high. As current density increases,
+however, the efficiency often falls even as more carriers are injected. The chip can become
+brighter overall, yet it becomes less efficient per unit of current. The pattern matters in
+applications that demand high brightness, because droop forces designers to use larger
+arrays or more power to reach the same light level.
 
-Working with sparse records and limited controls on push–pull dynamics, the author treats
-the complication as diagnostic, so many early studies framed the great migration and
-northern urban transformation as a single-mechanism phenomenon. Whereas those studies
-emphasized political realignment patterns as a signature invites a tidy story, later work
-asked whether the same signature survives when protocols and baselines differ forces
-boundary conditions to be stated. this shift mattered for how evidence from Philadelphia was
-generalized largely because local conditions can change which processes generate political
-realignment patterns.
+Several explanations competed. One account blamed heating: higher current raises
+temperature, and higher temperature increases nonradiative pathways. Another account focused
+on carrier leakage: carriers overflow the active region and recombine elsewhere without
+emitting useful photons. A third account emphasized Auger recombination, a process in which
+the energy of recombination is transferred to a third carrier rather than emitted as light.
+[A] Under strong injection, Auger events become more probable because carrier densities rise
+sharply, making three‑particle interactions less rare. [B] This mechanism predicts droop
+even when the device is kept cool. [C]
 
-Only after analysts began combining housing record reconstruction with cross-site
-comparisons did claims about the great migration and northern urban transformation stopped
-relying on a single figure and started relying on falsifiable predictions. the goal was to
-break degeneracies in which political realignment patterns could be explained in more than
-one way in part because confounders like push–pull dynamics often co-vary with the driver.
-as the author notes, transparency about priors became an empirical issue rather than a
-stylistic choice; this, in turn, changes whether two analyses are actually comparable. In
-this sense, south-to-north population movement is best treated as a conditional inference
-rather than as a mere label.
+A useful test comes from comparing devices under controlled temperature while varying
+current density. In one study, a gallium nitride LED was mounted on a heat sink and held
+near 25°C while current density was stepped from 5 to 40 A/cm². Light output rose steadily,
+but the external quantum efficiency peaked near 15 A/cm² and then declined by roughly 20
+percent by 40 A/cm². If heating were the dominant cause, holding temperature constant should
+largely prevent droop, yet droop persisted. At the same time, leakage signatures—such as
+unexpected emission from adjacent layers—were present but too small to explain the entire
+drop. The data therefore pointed toward a mixed explanation: Auger recombination and leakage
+both contribute, with their relative weights depending on the exact layer design and carrier
+confinement.
 
-Only when the field adopted tests that manipulate or stratify push–pull dynamics did the
-debate became empirically productive rather than merely rhetorical. by comparing cases in
-which housing record reconstruction constrains alternatives, researchers could ask which
-predictions survive out of sample, which forces analysts to admit that is why the passage
-emphasizes comparative design over isolated exemplars. a single case can be dramatic; still,
-the author does not deny the value of striking examples, but warns against treating them as
-representative.
+Design changes illustrate this dependence. When engineers increase the thickness of the
+active quantum wells or add a blocking layer that reduces electron overflow, droop can be
+reduced, though often at the cost of higher operating voltage. Conversely, if the active
+region is made too thick, carriers spread out, lowering radiative recombination rates and
+reintroducing inefficiency through a different route. [D] The device behaves less like a
+single “lamp” and more like a crowded intersection where routing matters: confine carriers
+too little and they leak; confine them too much and interactions that waste energy become
+frequent.
 
-If anything is responsible, it is methodological humility, and therefore the passage
-presents as the lesson of the great migration and northern urban transformation: inference
-is constrained by what competing models would also predict. [A] The passage returns to this
-point to clarify what counts as evidence. Unless one wishes to move from description to
-explanation, then the same observation—political realignment patterns—must be paired with
-tests that change the conditions under which it appears cannot be claimed with confidence.
-[B] The discussion makes clear that measurement choices can masquerade as mechanism. Whereas
-popular summaries treat political realignment patterns as an endpoint, the passage treats it
-as a starting point for sharper experimental or observational contrasts. [C] This reasoning
-matters because it changes what counts as a decisive test. [D] That point is not rhetorical;
-it controls which prediction follows. In this sense, twentieth-century black migration flows
-is best treated as a conditional inference rather than as a mere label.
+The lesson is not that droop has one villain, but that LED efficiency is governed by
+competing pathways whose importance shifts with carrier density. By separating what happens
+at low injection from what happens at high injection, engineers can match design choices to
+intended use: a display pixel may never reach current densities where Auger dominates, while
+a high‑power lamp might. The physics is microscopic, yet the consequence is visible to
+anyone who expects an LED to become ever more efficient simply by pushing more current
+through it.
 
-In the end, the passage concludes that the most informative evidence is often the evidence
-that forces competing assumptions into the open. by insisting that claims about the great
-migration and northern urban transformation be conditional on stated priors, it turns
-disagreement into a tool for discovery, something that clarifies why the same record can
-yield multiple stories without implying that any story is arbitrary. Admittedly, the
-temptation to treat a tidy plot as a definitive answer is strong; nevertheless, the result
-is a framework in which political realignment patterns is interpreted through explicit
-boundary conditions rather than through habit.
 
 Questions
 ---------
 
-1. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | labor market inference from wage series | Depends on modeling priors |
-   | Signal | political realignment patterns | May be sensitive to preprocessing choices |
-   | Confounder | racial violence and intimidation | Co-varies with the driver of interest |
-   Blank: The limitation for 'Confounder' is ________.
-   A. May be sensitive to preprocessing choices
-   B. Depends on modeling priors
-   C. Co-varies with the driver of interest
-   D. It makes push–pull dynamics irrelevant.
+1. [Factual] According to the passage, what is “efficiency droop”?
+   A. A decline in LED efficiency at high current density even as current continues to increase
+   B. A sudden failure of the p‑n junction at low voltage
+   C. A method for cooling LEDs by reducing current
+   D. An increase in photon production as temperature rises
 
-2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage argues that twentieth-century black migration flows cannot be studied empirically because confounders like racial violence and intimidation make data meaningless. It recommends replacing measurement with intuition and rejecting oral history synthesis as unreliable. It concludes that debate persists because evidence never constrains theory.
-   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats oral history synthesis as a historical curiosity and does not discuss political realignment patterns or racial violence and intimidation. It ends without any methodological implication.
-   C. The passage examines the great migration and northern urban transformation and argues that political realignment patterns is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how racial violence and intimidation can shift the baseline, especially when evidence is drawn from Chicago. Finally, it maintains that tests combining oral history synthesis with boundary-condition checks are required to make claims about african american internal migration robust.
-   D. The passage claims that south-to-north population movement is settled because political realignment patterns uniquely identifies the mechanism. It argues that racial violence and intimidation is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using oral history synthesis are unnecessary.
+2. [Vocabulary] The word “persisted” in the passage is closest in meaning to:
+   A. continued
+   B. vanished
+   C. melted
+   D. accelerated
 
-3. [Inference] The passage suggests which of the following?
-   A. The argument is that boundary conditions matter only for older studies, not for modern measurements using newspaper archive research.
-   B. The passage claims that the best strategy is to average away wartime industry demand, since variability is merely a measurement error.
-   C. The author treats Chicago as a special case and argues that no broader inference about the great migration and northern urban transformation is possible.
-   D. A convincing explanation should make distinct predictions under shared protocols, especially when wartime industry demand can mimic changes in neighborhood composition.
+3. [Inference] What can be inferred from the temperature-controlled test described in the passage?
+   A. Heating alone cannot explain droop because efficiency still declined when temperature was held near constant
+   B. Droop disappears completely once current density exceeds 40 A/cm²
+   C. Auger recombination cannot occur in gallium nitride LEDs
+   D. Leakage must be the only cause because temperature was controlled
 
-4. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about the great migration and northern urban transformation be conditional on stated priors, it turns disagreement into a tool for discovery, something that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Aggregation guarantees that the same mechanism operates in Detroit and everywhere else.
-   B. Some summaries seem consistent because they mix incompatible cases, not because segregation and redlining signatures uniquely identifies one mechanism.
-   C. Summaries are always reliable because averaging eliminates racial violence and intimidation.
-   D. Incompatible cases should be ignored to keep an explanation based on census microdata analysis simple.
-
-5. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. a list of Olympic medal counts
-   B. The Great Migration and Northern Urban Transformation
-   C. housing record reconstruction
-   D. changes in neighborhood composition
-
-6. [Factual Information] The passage indicates that boundary conditions is important mainly because:
-   A. Since changes in neighborhood composition is observed in Chicago, it must generalize to every setting, regardless of boundary conditions.
-   B. it prevents changes in neighborhood composition from being treated as a self-interpreting fingerprint and forces tests that control wartime industry demand
-   C. Because changes in neighborhood composition appears, the mechanism must be unique, so wartime industry demand can be ignored as irrelevant noise.
-   D. The passage implies that labor market inference from wage series directly measures causes, meaning confounding from wartime industry demand is impossible.
-
-7. [Rhetorical Purpose] What is the author’s main reason for mentioning an alternative model?
-   A. The passage treats political realignment patterns as a confounder and wartime industry demand as the diagnostic signal that identifies the mechanism.
-   B. motivate clearer assumptions and stronger tests, such as comparing cases where census microdata analysis constrains wartime industry demand
-   C. The passage implies that Chicago is chosen to avoid bias, so comparisons across settings are unnecessary.
-   D. The author argues that census microdata analysis should be replaced by an unmodeled trend line because assumptions distort evidence.
-
-8. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [C] This reasoning matters because it changes what counts as a decisive test.
-   A. housing covenants and policy constraints alone, treated as the sole cause
-   B. labor market inference from wage series as a device rather than as an analytic approach
-   C. segregation and redlining signatures specifically, taken as an unambiguous measurement
-   D. the idea being discussed in the surrounding sentences
-
-9. [Vocabulary] In the passage, the word **conditional** in the sentence below is closest in meaning to:
-   Sentence: housing record reconstruction can make the pattern look unusually sharp; still, the passage argues that such confidence is conditional and must be earned by specifying assumptions.
-   A. dependent on conditions
-   B. unavoidable and uncontrollable because push–pull dynamics dominates all evidence
-   C. irrelevant to the great migration and northern urban transformation, serving only as background detail
-   D. complete and final, so no further checks like housing record reconstruction are needed
-
-10. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: The argument also suggests that disagreement can be productive, since it forces boundary conditions to be stated rather than assumed.
+4. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: In other words, the probability of a wasteful three-body event grows as the junction becomes more densely populated.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
+5. [Rhetorical Purpose] Why does the author provide numerical values such as 15 A/cm² and 40 A/cm²?
+   A. To illustrate how droop is identified by a peak in efficiency followed by a measurable decline under higher injection
+   B. To claim that all LEDs operate at exactly the same current density
+   C. To show that heating is impossible in LEDs
+   D. To argue that efficiency droop occurs only at 25°C
+
+6. [Negative Factual] All of the following are discussed as possible contributors to droop EXCEPT:
+   A. nonradiative recombination
+   B. carrier leakage
+   C. Auger recombination
+   D. gravitational lensing effects on photons inside the chip
+
+7. [Reference] In the sentence “This mechanism predicts droop even when the device is kept cool,” “This mechanism” refers to:
+   A. heating-induced nonradiative pathways
+   B. Auger recombination at high carrier density
+   C. a change in the color of emitted light
+   D. the presence of a heat sink
+
+8. [Organization] How does the author organize the passage?
+   A. By defining the device process, presenting competing explanations for droop, then using a numerical test and design changes to evaluate them
+   B. By listing semiconductor materials without explaining droop
+   C. By describing only historical inventions of lighting
+   D. By focusing on artistic uses of LEDs rather than physics
+
+9. [Paraphrase] Which option best restates the comparison to a “crowded intersection”?
+   A. At high carrier density, how carriers are confined and routed determines whether they recombine usefully or waste energy
+   B. LEDs emit light because electrons travel faster than cars
+   C. Carrier confinement is irrelevant to efficiency
+   D. Heat sinks increase traffic inside an LED
+
+10. [Summary] Which statement best summarizes the passage?
+   A. LEDs become more efficient with increasing current because higher carrier density always increases photon emission.
+   B. The passage explains efficiency droop as a decline in per-current efficiency at high injection, evaluates competing causes using temperature-controlled tests and numerical evidence, and argues that multiple pathways such as Auger recombination and leakage can contribute depending on design.
+   C. Efficiency droop occurs only because LEDs cannot be cooled below room temperature.
+   D. Carrier leakage is the only possible explanation for droop, so quantum-well design is irrelevant.
+
 
 Answer Key
 ----------
-1: C
-2: C
-3: D
+1: A
+2: A
+3: A
 4: B
 5: A
-6: B
+6: D
 7: B
-8: D
+8: A
 9: A
 10: B

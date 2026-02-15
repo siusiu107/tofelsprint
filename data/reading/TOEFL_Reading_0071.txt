@@ -1,149 +1,137 @@
-Passage 0071: Agricultural Revolutions and the Reorganization of Rural Labor (History)
-======================================================================================
-(Word count: 643)
+Passage 0071: Mycorrhizae and the Hidden Phosphorus Economy
+===========================================================
+(Word count: 611)
 
-In twentieth-century urban histories, it becomes plausible that researchers have treated
-land-use intensification as the decisive sign of agricultural revolutions and the
-reorganization of rural labor. Although estate account analysis can make the pattern look
-unusually sharp, the passage argues that such confidence is conditional and must be earned
-by specifying assumptions. the resulting debate is less about data collection than about
-what the data are evidence for, an outcome that forces analysts to articulate boundary
-conditions rather than rely on familiar narratives.
+In many forests, a seedling’s first problem is not sunlight, but phosphorus. Although
+phosphorus is essential for DNA, membranes, and energy transfer, it moves slowly through
+soil because it binds to minerals and organic particles. A young root that grows into a
+patch of soil does not automatically “own” the phosphate there; it must compete with
+neighboring plants and microbes for a nutrient that is chemically present yet biologically
+hard to reach. For countless plant species, the solution is partnership.
 
-In replication attempts, one sees why the apparent consensus fractured when similar
-protocols were applied in settings unlike nineteenth-century Midwestern farms. [A] The
-passage highlights that mechanism claims must survive out-of-sample checks. The passage
-argues that the same summary statistic could be reproduced while the underlying mechanisms
-differed because property-right reforms shifted the baseline in different directions across
-sites. [B] The passage emphasizes boundary conditions instead of treating them as
-afterthoughts. the author therefore separates detection from interpretation, not because
-treating land-use intensification as a self-sufficient conclusion, but because the
-assumptions differ. [C] The passage frames uncertainty as an ingredient of inference rather
-than as an embarrassment. [D] The author treats this as a clue rather than as a nuisance. In
-this sense, technological change in agriculture is best treated as a conditional inference
-rather than as a mere label.
+Mycorrhizal fungi, whose name combines Greek words for “fungus” and “root,” form symbioses
+in which fungal threads extend the effective reach of a plant’s roots. The fungal hyphae are
+thinner than root hairs, so they can penetrate tiny pores that roots cannot enter. Because
+they explore a larger volume of soil, they encounter more phosphate ions, and because their
+chemistry can release enzymes and organic acids, they can free phosphorus from compounds
+that would otherwise remain locked. In exchange, the plant supplies the fungus with
+carbohydrates produced by photosynthesis. [A] This trade can look like a simple bargain, but
+it has consequences that ripple through whole ecosystems.
 
-The point is not X but methodological humility; in that framing, the passage presents as the
-lesson of agricultural revolutions and the reorganization of rural labor: inference is
-constrained by what competing models would also predict. If one wishes to move from
-description to explanation is granted, then the same observation—land-use
-intensification—must be paired with tests that change the conditions under which it appears.
-Whereas popular summaries treat land-use intensification as an endpoint in one account, the
-passage treats it as a starting point for sharper experimental or observational contrasts in
-another.
+Different mycorrhizal types shape the exchange differently. Arbuscular mycorrhizae, common
+in grasses and many tropical trees, form microscopic “arbuscules” inside root cells,
+creating a dense interface for nutrient transfer. Ectomycorrhizae, common in many temperate
+and boreal trees, wrap roots in a sheath and send hyphae between root cells rather than into
+them. The latter often produce enzymes that can access organic nitrogen and phosphorus,
+which can matter in cool soils where decomposition is slow. Thus, the identity of the fungal
+partner can shift what nutrients a plant can effectively exploit.
 
-What matters most is methodological humility, which is why the passage presents as the
-lesson of agricultural revolutions and the reorganization of rural labor: inference is
-constrained by what competing models would also predict. If one wishes to move from
-description to explanation, a different prediction follows: then the same observation—land-
-use intensification—must be paired with tests that change the conditions under which it
-appears. Whereas popular summaries treat land-use intensification as an endpoint is easy to
-measure, the passage treats it as a starting point for sharper experimental or observational
-contrasts is harder to interpret without assumptions. In this sense, restructuring of rural
-work under mechanization is best treated as a conditional inference rather than as a mere
-label.
+The partnership is also conditional. If soil phosphorus is plentiful, a plant may reduce its
+investment in the fungus, because carbohydrates are not free. Conversely, in phosphorus-poor
+soils, the same carbon payment can yield large returns. This is why experiments that add
+fertilizer sometimes show a decline in mycorrhizal colonization: the plant’s cost–benefit
+balance changes. Yet the balance is not only about nutrients. Mycorrhizal fungi can improve
+drought tolerance by increasing water uptake and can alter a plant’s vulnerability to
+pathogens by occupying root space or by priming defense responses. [B] A fungus that is
+nutritionally mediocre may still be valuable because it changes stress responses.
 
-It is the apparent regularity of land-use intensification, rather than a single headline
-feature, that drives the first interpretation: land-use intensification is treated as a
-direct readout of mechanism. Were land-use intensification is uniquely produced by one
-causal pathway to fail, then observations from nineteenth-century Midwestern farms would be
-transferable, and disagreement would be largely technical. the literature is full of such
-claims, not because the caveat that property-right reforms might reproduce the same pattern,
-but because the assumptions differ. In this sense, shifts from subsistence to market farming
-is best treated as a conditional inference rather than as a mere label.
+Because fungi connect multiple plants, mycorrhizae also complicate the idea of plants as
+isolated competitors. Hyphae can link roots into networks through which carbon and nutrients
+can move, sometimes from larger individuals to smaller ones. In seedling establishment, such
+networks can function like an ecological “startup grant,” allowing shaded seedlings to
+survive until a gap opens. However, networks can also transmit problems. Pathogens can
+spread along shared root zones, and parasitic plants can tap into networks indirectly.
+Moreover, not all fungi are equally generous. Some act more like brokers than helpers,
+drawing carbon while providing limited nutrients. Plants, therefore, are not passive; they
+can preferentially reward more cooperative fungi by allocating carbon to the most beneficial
+connections.
 
-In the end, one sees why the passage concludes that the most informative evidence is often
-the evidence that forces competing assumptions into the open. by insisting that claims about
-agricultural revolutions and the reorganization of rural labor be conditional on stated
-priors, it turns disagreement into a tool for discovery, a move that clarifies why the same
-record can yield multiple stories without implying that any story is arbitrary. the
-temptation to treat a tidy plot as a definitive answer is strong; still, the result is a
-framework in which land-use intensification is interpreted through explicit boundary
-conditions rather than through habit.
+The result is an underground economy whose currency is carbon and whose profits are measured
+in growth. When mycorrhizal composition shifts—because of logging, fire, pollution, or
+invasive species—plant communities can shift as well. Tree seedlings that depend on
+ectomycorrhizae may fail if the fungal community is disrupted, while plants less reliant on
+those partners may expand. [C] In that way, the forest’s visible structure can reflect an
+invisible fungal infrastructure.
+
+Mycorrhizae, then, are not decorative add-ons to roots. [D] They are causal agents that
+change what plants can access, how they cope with stress, and which species can recruit into
+the next generation.
+
 
 Questions
 ---------
 
-1. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage examines agricultural revolutions and the reorganization of rural labor and argues that urbanization accelerations is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how property-right reforms can shift the baseline, especially when evidence is drawn from nineteenth-century Midwestern farms. Finally, it maintains that tests combining archival policy analysis with boundary-condition checks are required to make claims about technological change in agriculture robust.
-   B. The passage argues that shifts from subsistence to market farming cannot be studied empirically because confounders like property-right reforms make data meaningless. It recommends replacing measurement with intuition and rejecting archival policy analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
-   C. The passage claims that restructuring of rural work under mechanization is settled because urbanization accelerations uniquely identifies the mechanism. It argues that property-right reforms is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using archival policy analysis are unnecessary.
-   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats archival policy analysis as a historical curiosity and does not discuss urbanization accelerations or property-right reforms. It ends without any methodological implication.
+1. [Vocabulary] In the passage, the word “sheath” is closest in meaning to:
+   A. a covering that surrounds and protects
+   B. a type of mineral that binds phosphate
+   C. a chemical used to fertilize soils
+   D. a gap in the forest canopy
 
-2. [Rhetorical Purpose] What is the author’s main reason for mentioning an alternative model?
-   A. The passage implies that postwar East Asian countryside is chosen to avoid bias, so comparisons across settings are unnecessary.
-   B. The discussion suggests that climatic shocks is the phenomenon itself, so controlling for it would remove the effect of interest.
-   C. The author suggests that the key synonym 'technological change in agriculture' refers to a different field altogether, not to agricultural revolutions and the reorganization of rural labor.
-   D. motivate clearer assumptions and stronger tests, such as comparing cases where archival policy analysis constrains climatic shocks
+2. [Factual] According to the passage, how do mycorrhizal hyphae help plants obtain phosphorus?
+   A. They explore soil pores roots cannot enter and can chemically help free phosphorus bound to particles
+   B. They manufacture phosphorus directly from carbon dioxide
+   C. They prevent phosphorus from binding to minerals by cooling the soil
+   D. They replace roots entirely so plants no longer need soil
 
-3. [Reference] In the passage, the word **it** in the sentence below refers to:
-   Sentence: In twentieth-century urban histories, it becomes plausible that researchers have treated land-use intensification as the decisive sign of agricultural revolutions and the reorganization of rural labor.
-   A. comparative regional case studies as a device rather than as an analytic approach
-   B. urbanization accelerations specifically, taken as an unambiguous measurement
-   C. the idea being discussed in the surrounding sentences
-   D. climatic shocks alone, treated as the sole cause
+3. [Inference] What can be inferred about why fertilization experiments may reduce mycorrhizal colonization?
+   A. When phosphorus becomes abundant, the plant gains less from paying carbohydrates to the fungus
+   B. Fertilizer kills all fungi by raising soil salinity to lethal levels
+   C. Plants stop photosynthesizing when nutrients increase
+   D. Fungi refuse to associate with plants in any temperate forest
 
-4. [Inference] Which of the following can be inferred from the passage?
-   A. A convincing explanation should make distinct predictions under shared protocols, especially when credit constraints can mimic changes in tenancy patterns.
-   B. The author treats nineteenth-century Midwestern farms as a special case and argues that no broader inference about agricultural revolutions and the reorganization of rural labor is possible.
-   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving demographic inference from parish registers.
-   D. The passage claims that the best strategy is to average away credit constraints, since variability is merely a measurement error.
-
-5. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: In other words, the disagreement is not about whether the data exist, but about what the data are evidence for.
+4. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: Because the fungal threads operate at a different scale from roots, they can turn a chemically scarce nutrient into a practical one.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-6. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. Agricultural Revolutions and the Reorganization of Rural Labor
-   B. the author’s favorite color
-   C. comparative regional case studies
-   D. land-use intensification
+5. [Negative Factual] All of the following benefits of mycorrhizae are mentioned EXCEPT:
+   A. improved drought tolerance
+   B. altered vulnerability to pathogens
+   C. expanded access to phosphorus
+   D. direct production of oxygen for roots
 
-7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about agricultural revolutions and the reorganization of rural labor be conditional on stated priors, it turns disagreement into a tool for discovery, a move that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Summaries are always reliable because averaging eliminates property-right reforms.
-   B. Some summaries seem consistent because they mix incompatible cases, not because urbanization accelerations uniquely identifies one mechanism.
-   C. Incompatible cases should be ignored to keep an explanation based on demographic inference from parish registers simple.
-   D. Aggregation guarantees that the same mechanism operates in Mediterranean rural regions and everywhere else.
+6. [Rhetorical Purpose] Why does the author contrast arbuscular and ectomycorrhizae?
+   A. To show that different fungal partnerships can change which nutrients are accessed and how exchange occurs
+   B. To argue that only one type of mycorrhiza exists worldwide
+   C. To claim that grasses never form symbioses
+   D. To explain why phosphate binds to minerals
 
-8. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | price series reconstruction | Requires careful calibration |
-   | Signal | wage compression or expansion | May be muted by other processes |
-   | Confounder | climatic shocks | Shifts the baseline |
-   Blank: The limitation for 'Confounder' is ________.
-   A. May be muted by other processes
-   B. It makes property-right reforms irrelevant.
-   C. It replaces estate account analysis with intuition.
-   D. Shifts the baseline
+7. [Reference] In the passage, “the currency” refers to:
+   A. carbon supplied by plants to fungi
+   B. phosphate minerals in soil
+   C. sunlight captured by leaves
+   D. water stored in hyphae
 
-9. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
-   A. Since urbanization accelerations is observed in nineteenth-century Midwestern farms, it must generalize to every setting, regardless of boundary conditions.
-   B. The discussion indicates that replication is redundant if estate account analysis produces a tight fit on one dataset.
-   C. it prevents urbanization accelerations from being treated as a self-interpreting fingerprint and forces tests that control market integration
-   D. The passage implies that estate account analysis directly measures causes, meaning confounding from market integration is impossible.
+8. [Organization] How is the passage primarily organized?
+   A. It introduces a nutrient limitation, explains the fungal partnership mechanism, distinguishes mycorrhizal types, discusses conditional costs and network effects, and ends with ecosystem consequences
+   B. It presents a chronology of every fungal species discovered
+   C. It focuses only on photosynthesis and ignores soils
+   D. It argues that plants do not compete for nutrients
 
-10. [Vocabulary] In the passage, the word **salient** in the sentence below is closest in meaning to:
-   Sentence: If one wishes to move from description to explanation, a different prediction follows: then the same observation—land-use intensification—must be paired with tests that change the conditions under which it appears.
-   A. important
-   B. complete and final, so no further checks like comparative regional case studies are needed
-   C. irrelevant to agricultural revolutions and the reorganization of rural labor, serving only as background detail
-   D. unavoidable and uncontrollable because climatic shocks dominates all evidence
+9. [Paraphrase] Which option best restates the idea that fungi can act like “brokers”?
+   A. Some fungi may take carbon while providing relatively little nutritional benefit, so plants must manage the relationship
+   B. Fungi sell phosphate on markets using money
+   C. Brokers refers to insects that pollinate fungi
+   D. Fungi prevent any nutrient exchange from occurring
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Mycorrhizae are cosmetic growths that appear only when soils are rich in phosphorus.
+   B. Mycorrhizal fungi form root partnerships that extend soil exploration and chemical access to phosphorus in exchange for plant carbon, with different mycorrhizal types offering different capabilities; because the relationship is conditional and can link plants into networks, changes in fungal communities can reshape seedling success and forest composition.
+   C. Plants obtain phosphorus primarily by manufacturing it from sugars.
+   D. Fertilizers always increase mycorrhizal colonization because plants reward fungi for extra nutrients.
 
 
 Answer Key
 ----------
 1: A
-2: D
-3: C
+2: A
+3: A
 4: A
 5: D
-6: B
-7: B
-8: D
-9: C
-10: A
+6: A
+7: A
+8: A
+9: A
+10: B

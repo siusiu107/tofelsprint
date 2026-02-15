@@ -1,156 +1,141 @@
-Passage 0082: The Great Migration and Northern Urban Transformation (History)
-=============================================================================
-(Word count: 746)
+Passage 0082: Honeybee Castes, Royal Jelly, and Epigenetic Pathways to Queens and Workers (Biology)
+===================================================================================================
+(Word count: 606)
 
-When archival records are combined, it becomes plausible that researchers have treated
-segregation and redlining signatures as the decisive sign of the great migration and
-northern urban transformation. Although housing record reconstruction can make the pattern
-look unusually sharp, the passage argues that such confidence is conditional and must be
-earned by specifying assumptions. the resulting debate is less about data collection than
-about what the data are evidence for, which helps explain why forces analysts to articulate
-boundary conditions rather than rely on familiar narratives.
+A honeybee colony presents an evolutionary puzzle that is also a developmental one: queens
+and workers share the same genome, yet they emerge as adults with radically different
+bodies, lifespans, and reproductive capacities. The queen can live for years and lay
+thousands of eggs, whereas workers typically live weeks and, despite doing nearly all
+foraging and nursing, do not reproduce. Because the genetic blueprint is shared, the
+divergence must be built by regulation—by when and how genes are turned on, and by how
+nutrition and hormones steer that regulation.
 
-Not until analysts began combining housing record reconstruction with cross-site comparisons
-did claims about the great migration and northern urban transformation stopped relying on a
-single figure and started relying on falsifiable predictions. the goal was to break
-degeneracies in which segregation and redlining signatures could be explained in more than
-one way because confounders like wartime industry demand often co-vary with the driver,
-which is why replication matters. as the author notes, transparency about priors became an
-empirical issue rather than a stylistic choice, which is precisely why changes whether two
-analyses are actually comparable. In this sense, african american internal migration is best
-treated as a conditional inference rather than as a mere label.
+The decisive fork begins in the larval diet. Larvae destined to become queens receive
+abundant royal jelly throughout early development, while worker-destined larvae receive
+royal jelly briefly and then shift to a diet containing more pollen and honey. The
+difference is not only caloric; it is biochemical. Royal jelly contains proteins such as
+royalactin and distinct fatty acids that influence signaling pathways. [A] Through these
+pathways, diet shapes hormone levels, especially juvenile hormone, which affects growth rate
+and organ development.
 
-The decisive factor is the apparent regularity of segregation and redlining signatures; once
-that is stated, drives the first interpretation: segregation and redlining signatures is
-treated as a direct readout of mechanism. [A] The author uses the example to separate
-detection from interpretation. Should segregation and redlining signatures is uniquely
-produced by one causal pathway be true, then observations from Harlem would be transferable,
-and disagreement would be largely technical. [B] This is presented not as a loophole, but as
-a disciplined way to avoid overclaiming. Not the caveat that wartime industry demand might
-reproduce the same pattern, but the literature is full of such claims. [C] The author
-suggests that the same evidence can support multiple stories when priors differ. [D] The
-author implies that replication is informative only when protocols are comparable.
+One of the most studied molecular levers in caste differentiation is DNA methylation. In
+many animals, methyl groups can be added to cytosine bases in DNA, often reducing gene
+expression by altering chromatin structure or by affecting transcription factor binding.
+Honeybees have an active methylation system, and experiments in which the DNA
+methyltransferase gene is knocked down can cause worker-destined larvae to develop queen-
+like traits. This result suggests that methylation patterns help lock in worker development,
+not by rewriting genes, but by changing which genetic instructions are accessible. [B] The
+genome is the same text, yet the colony edits which chapters are read.
 
-Not the obvious explanation but methodological humility is what the passage presents as the
-lesson of the great migration and northern urban transformation: inference is constrained by
-what competing models would also predict. Were one wishes to move from description to
-explanation to fail, then the same observation—segregation and redlining signatures—must be
-paired with tests that change the conditions under which it appears. Whereas popular
-summaries treat segregation and redlining signatures as an endpoint invites a tidy story,
-the passage treats it as a starting point for sharper experimental or observational
-contrasts forces boundary conditions to be stated. In this sense, south-to-north population
-movement is best treated as a conditional inference rather than as a mere label.
+Caste differences extend beyond ovaries. Queens have a larger abdomen, different pheromone-
+producing glands, and a distinct metabolic profile. Workers develop specialized structures
+for tasks, such as pollen baskets on their hind legs and glands that produce wax. Behavioral
+differences also arise. Workers transition through a sequence of roles—nurse, builder,
+guard, forager— and these shifts are accompanied by changes in gene expression in the brain.
+Nutrition and social cues, such as pheromones from the queen and brood, modulate these
+transitions, indicating that plasticity persists beyond larval development.
 
-Using housing record reconstruction under stable conditions, the argument reframes the issue
-so that one frequently cited case from Harlem appeared to support the direct-readout view.
-Although the original fit looked visually decisive, later, however, reanalysis showed that
-small shifts in wartime industry demand altered the baseline enough to mute or mimic
-segregation and redlining signatures. the passage treats this episode as diagnostic, which
-is precisely why illustrates why boundary conditions must be specified before generalization
-is attempted.
+Because the system is plastic, it also has vulnerabilities. Environmental contaminants that
+mimic hormones can disrupt developmental timing. Nutritional stress can skew caste ratios,
+especially when colonies are recovering from disease or habitat loss. Meanwhile, beekeepers
+sometimes exploit plasticity by rearing queens deliberately, selecting larvae and feeding
+them intensively. The practice illustrates that caste is not a mystical essence; it is a
+developmental trajectory that can be pushed, within limits, by inputs.
 
-Though the first model can fit one dataset extremely well, the passage insists that
-uniqueness is precisely what must be shown, not assumed. it highlights how wartime industry
-demand can shift baselines, altering whether segregation and redlining signatures is even
-comparable across cases, something that means that a good fit is not the same as a good
-explanation. Were wartime industry demand is changed while the nominal driver remains
-constant to fail, one should expect different outcomes when conditions are perturbed. In
-this sense, twentieth-century black migration flows is best treated as a conditional
-inference rather than as a mere label.
+For evolutionary biologists, the broader interest is how such plasticity can be stable. A
+colony benefits from producing reproductive queens only when needed, yet it benefits from
+producing many workers continuously. Selection therefore favors a system in which queen
+development is costly and conditional. Royal jelly becomes both nourishment and a
+gatekeeping signal: it indicates that the colony’s social and nutritional context can afford
+a queen. [C] In that way, a larval diet is not simply food; it is information about the
+colony.
 
-In the end, the central disagreement can be stated more precisely: the passage concludes
-that the most informative evidence is often the evidence that forces competing assumptions
-into the open. by insisting that claims about the great migration and northern urban
-transformation be conditional on stated priors, it turns disagreement into a tool for
-discovery, which forces analysts to admit that clarifies why the same record can yield
-multiple stories without implying that any story is arbitrary. Although the temptation to
-treat a tidy plot as a definitive answer is strong, the result is a framework in which
-segregation and redlining signatures is interpreted through explicit boundary conditions
-rather than through habit.
+Honeybee caste determination, then, is an example of how environment can sculpt phenotype
+without changing genotype. [D] It demonstrates that inheritance is not only about DNA
+sequence, but also about regulatory mechanisms—epigenetic marks, hormones, and social
+signals—that translate a shared genome into a division of labor.
+
+Intriguingly, the same larval genome can yield different adult bodies, which is why
+honeybees became a showcase for developmental plasticity.
+
+Intriguingly, the same larval genome can yield different adult bodies, which is why
+honeybees became a showcase for developmental plasticity.
+
 
 Questions
 ---------
 
-1. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: In short, the passage treats methodological humility as a strength, not as an admission of ignorance.
+1. [Vocabulary] The word “trajectory” in the passage is closest in meaning to:
+   A. a developmental path that unfolds over time
+   B. a container used to store honey
+   C. a genetic mutation in DNA sequence
+   D. a pheromone released only by workers
+
+2. [Factual] According to the passage, what early-life factor most directly initiates queen versus worker development?
+   A. differences in larval diet, including prolonged royal jelly feeding for queens
+   B. a random reshuffling of the genome in queen larvae
+   C. temperature differences created by winter storms
+   D. a change in tree-ring width during drought years
+
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: This is why nutrition can have long-lasting consequences even when the DNA sequence remains unchanged.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-2. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about the great migration and northern urban transformation be conditional on stated priors, it turns disagreement into a tool for discovery, which forces analysts to admit that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Aggregation guarantees that the same mechanism operates in Philadelphia and everywhere else.
-   B. Summaries are always reliable because averaging eliminates racial violence and intimidation.
-   C. Incompatible cases should be ignored to keep an explanation based on newspaper archive research simple.
-   D. Some summaries seem consistent because they mix incompatible cases, not because changes in neighborhood composition uniquely identifies one mechanism.
+4. [Inference] What can be inferred about why the author calls royal jelly a “gatekeeping signal”?
+   A. It helps ensure that queen development occurs mainly when the colony’s conditions can support the cost of producing a reproductive individual
+   B. It prevents workers from foraging outside the hive
+   C. It signals that the genome has been permanently rewritten
+   D. It indicates that methylation is irrelevant in honeybees
 
-3. [Rhetorical Purpose] By bringing up competing viewpoints, the author is trying to:
-   A. The passage implies that Detroit is chosen to avoid bias, so comparisons across settings are unnecessary.
-   B. motivate clearer assumptions and stronger tests, such as comparing cases where newspaper archive research constrains wartime industry demand
-   C. The author argues that newspaper archive research should be replaced by an unmodeled trend line because assumptions distort evidence.
-   D. The discussion suggests that wartime industry demand is the phenomenon itself, so controlling for it would remove the effect of interest.
+5. [Rhetorical Purpose] Why does the author discuss experiments that knock down a DNA methyltransferase gene?
+   A. To provide evidence that methylation patterns influence whether larvae develop worker- or queen-like traits
+   B. To argue that diet has no role in development
+   C. To show that queen bees are genetically unrelated to workers
+   D. To claim that epigenetics eliminates natural selection
 
-4. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [B] This is presented not as a loophole, but as a disciplined way to avoid overclaiming.
-   A. the idea being discussed in the surrounding sentences
-   B. housing covenants and policy constraints alone, treated as the sole cause
-   C. political realignment patterns specifically, taken as an unambiguous measurement
-   D. labor market inference from wage series as a device rather than as an analytic approach
+6. [Negative Factual] All of the following caste-related differences are mentioned EXCEPT:
+   A. ovary development and reproductive capacity
+   B. specialized structures such as pollen baskets in workers
+   C. differences in pheromone-producing glands
+   D. electrical stimulation that enhances sleep spindles
 
-5. [Factual Information] According to the passage, why does the author emphasize instrument calibration?
-   A. The passage implies that newspaper archive research directly measures causes, meaning confounding from housing covenants and policy constraints is impossible.
-   B. The author suggests that disagreement disappears once shifts in industrial labor demand is detected, making model assumptions unnecessary.
-   C. it prevents shifts in industrial labor demand from being treated as a self-interpreting fingerprint and forces tests that control housing covenants and policy constraints
-   D. Because shifts in industrial labor demand appears, the mechanism must be unique, so housing covenants and policy constraints can be ignored as irrelevant noise.
+7. [Reference] In the passage, “the same text” refers to:
+   A. the shared genome that can be expressed differently in queens and workers
+   B. a written contract specifying pigment use
+   C. a list of fishing permits in a quota market
+   D. a set of gravitational-wave templates
 
-6. [Inference] The passage suggests which of the following?
-   A. The author treats Chicago as a special case and argues that no broader inference about the great migration and northern urban transformation is possible.
-   B. The argument is that boundary conditions matter only for older studies, not for modern measurements using census microdata analysis.
-   C. A convincing explanation should make distinct predictions under shared protocols, especially when racial violence and intimidation can mimic shifts in industrial labor demand.
-   D. The passage claims that the best strategy is to average away racial violence and intimidation, since variability is merely a measurement error.
+8. [Organization] How is the passage primarily organized?
+   A. It explains a biological puzzle, describes nutritional triggers, introduces epigenetic mechanisms, then expands to anatomical and behavioral differences and concludes with evolutionary implications of plasticity
+   B. It lists honeybee species by geographic region
+   C. It focuses only on beekeeping equipment
+   D. It argues that all caste differences are caused by adult learning alone
 
-7. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats census microdata analysis as a historical curiosity and does not discuss political realignment patterns or push–pull dynamics. It ends without any methodological implication.
-   B. The passage examines the great migration and northern urban transformation and argues that political realignment patterns is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how push–pull dynamics can shift the baseline, especially when evidence is drawn from Detroit. Finally, it maintains that tests combining census microdata analysis with boundary-condition checks are required to make claims about african american internal migration robust.
-   C. The passage claims that south-to-north population movement is settled because political realignment patterns uniquely identifies the mechanism. It argues that push–pull dynamics is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using census microdata analysis are unnecessary.
-   D. The passage argues that twentieth-century black migration flows cannot be studied empirically because confounders like push–pull dynamics make data meaningless. It recommends replacing measurement with intuition and rejecting census microdata analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
+9. [Paraphrase] Which option best restates the claim that inheritance is not only about DNA sequence?
+   A. Regulatory systems such as epigenetic marks and hormones can alter gene expression, producing different phenotypes from the same genome
+   B. Only mutations matter, so environment cannot influence development
+   C. DNA methylation changes the genetic code itself in every cell
+   D. Social cues affect only adult behavior, not development
 
-8. [Vocabulary] In the passage, the word **tentative** in the sentence below is closest in meaning to:
-   Sentence: In this sense, twentieth-century black migration flows is best treated as a conditional inference rather than as a mere label.
-   A. complete and final, so no further checks like oral history synthesis are needed
-   B. unavoidable and uncontrollable because wartime industry demand dominates all evidence
-   C. irrelevant to the great migration and northern urban transformation, serving only as background detail
-   D. not certain
-
-9. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | housing record reconstruction | Requires careful calibration |
-   | Signal | political realignment patterns | Can vary across epochs |
-   | Confounder | wartime industry demand | Co-varies with the driver of interest |
-   Blank: The limitation for 'Method' is ________.
-   A. It proves shifts in industrial labor demand is unique.
-   B. It makes wartime industry demand irrelevant.
-   C. Requires careful calibration
-   D. It replaces housing record reconstruction with intuition.
-
-10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. a recipe for bread fermentation
-   B. shifts in industrial labor demand
-   C. newspaper archive research
-   D. The Great Migration and Northern Urban Transformation
+10. [Summary] Which statement best summarizes the passage?
+   A. Queens and workers differ because they have different genomes inherited from separate parents.
+   B. The passage explains how honeybee queens and workers, despite sharing a genome, develop different bodies and roles because larval nutrition alters hormonal signaling and epigenetic regulation such as DNA methylation; it notes anatomical and behavioral consequences and argues that caste plasticity is evolutionarily stabilized by making queen development conditional on colony context.
+   C. Royal jelly is described as nutritionally identical to pollen and therefore irrelevant to caste.
+   D. Worker roles are fixed at birth and never change with age or social cues.
 
 
 Answer Key
 ----------
-1: C
-2: D
+1: A
+2: A
 3: B
 4: A
-5: C
-6: C
-7: B
-8: D
-9: C
-10: A
+5: A
+6: D
+7: A
+8: A
+9: A
+10: B

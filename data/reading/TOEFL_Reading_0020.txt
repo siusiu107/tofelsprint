@@ -1,158 +1,138 @@
-Passage 0020: Glacial Retreat and Moraine-Dated Landscape Change (Geology)
-==========================================================================
-(Word count: 757)
+Passage 0020: Gravitational Microlensing and a One-Time Window on Planets (Astronomy)
+=====================================================================================
+(Word count: 643)
 
-In hazard assessments, it becomes plausible that researchers have treated isostatic rebound
-indicators as the decisive sign of glacial retreat and moraine-dated landscape change. To be
-sure, remote sensing of glacier area can make the pattern look unusually sharp, yet the
-passage argues that such confidence is conditional and must be earned by specifying
-assumptions. the resulting debate is less about data collection than about what the data are
-evidence for, which forces analysts to admit that forces analysts to articulate boundary
-conditions rather than rely on familiar narratives.
+Most exoplanets have been found by watching their stars dim or wobble, which means most
+discoveries favor planets whose orbits are conveniently aligned or whose masses are large
+enough to tug a star detectably. Gravitational microlensing finds planets through a
+different route: it uses gravity itself as an optical instrument. When a foreground star
+passes nearly in front of a background star, the foreground star’s gravity bends the
+background light, magnifying it. If the alignment is close enough, the background star
+brightens for days to weeks, producing a distinctive light curve. A planet orbiting the
+foreground star can add a brief “blip” to that curve, revealing its presence even if the
+planet never transits and even if the star’s motion is too small to measure precisely.
 
-It is methodological humility, rather than a single headline feature, that the passage
-presents as the lesson of glacial retreat and moraine-dated landscape change: inference is
-constrained by what competing models would also predict. Provided that one wishes to move
-from description to explanation, then the same observation—isostatic rebound indicators—must
-be paired with tests that change the conditions under which it appears. Whereas popular
-summaries treat isostatic rebound indicators as an endpoint in one account, the passage
-treats it as a starting point for sharper experimental or observational contrasts in
-another. In this sense, ice-front recession recorded in moraines is best treated as a
-conditional inference rather than as a mere label.
+The underlying physics is rooted in general relativity, but the observable consequence is
+practical. The magnification depends on how close the alignment is and on the mass of the
+lensing star. For perfect alignment, the background light is distorted into a ring, but in
+typical events, the ring is not resolved; it appears only as a brightening. The key is time
+structure. A single-lens event rises smoothly and falls smoothly. When a planet contributes,
+the curve can show a sharp deviation lasting hours to days, depending on the planet’s mass
+and projected separation.
 
-Hardly had analysts began combining remote sensing of glacier area with cross-site
-comparisons occurred when claims about glacial retreat and moraine-dated landscape change
-stopped relying on a single figure and started relying on falsifiable predictions. [A] The
-author suggests that the same evidence can support multiple stories when priors differ. the
-goal was to break degeneracies in which isostatic rebound indicators could be explained in
-more than one way largely because confounders like temperature versus precipitation controls
-often co-vary with the driver. [B] That point is not rhetorical; it controls which
-prediction follows. as the author notes, transparency about priors became an empirical issue
-rather than a stylistic choice, a move that changes whether two analyses are actually
-comparable. [C] The author shifts from narrative to diagnosis, focusing on what the data
-cannot rule out. [D] This is why the author repeatedly contrasts what is measured with what
-is inferred.
+Microlensing is powerful because it is sensitive to planets at separations comparable to a
+few astronomical units, where many planetary systems place ice-line planets. It can detect
+planets that are relatively low mass, including those roughly Earth-mass in favorable cases,
+and it can detect planets orbiting faint or distant stars in the Galactic bulge. [A] These
+strengths come with constraints. Because the alignment is a chance geometry, the event is
+typically not repeatable. Once the lens and source separate, the magnification ends, and the
+same planet is unlikely to produce the same signal again for human observers.
 
-Working with sparse records and limited controls on temperature versus precipitation
-controls, the interpretation shifts, and many early studies framed glacial retreat and
-moraine-dated landscape change as a single-mechanism phenomenon. Whereas those studies
-emphasized isostatic rebound indicators as a signature in one account, later work asked
-whether the same signature survives when protocols and baselines differ in another. this
-shift mattered for how evidence from Himalayan glaciers was generalized in part because
-local conditions can change which processes generate isostatic rebound indicators. In this
-sense, deglaciation-driven geomorphic change is best treated as a conditional inference
-rather than as a mere label.
+This one-time nature changes what microlensing surveys emphasize. Rather than revisiting a
+single star for periodic dips, they monitor crowded fields continuously, searching for rare
+brightenings. The strategy resembles watching a stadium of fans for a single wave that might
+happen in one section and then vanish. [B] When an event is detected, rapid follow-up
+matters, because the planetary deviation can be brief and can be missed if observations
+pause for a night or if clouds intervene. Consequently, networks of telescopes distributed
+in longitude are valuable, allowing near-continuous coverage.
 
-Rarely, unless the field adopted tests that manipulate or stratify temperature versus
-precipitation controls, does one see why the debate became empirically productive rather
-than merely rhetorical. by comparing cases in which remote sensing of glacier area
-constrains alternatives, researchers could ask which predictions survive out of sample,
-which is precisely why is why the passage emphasizes comparative design over isolated
-exemplars. While it is true that a single case can be dramatic, the author does not deny the
-value of striking examples, but warns against treating them as representative.
+Interpreting a microlensing event also requires care because different lens configurations
+can sometimes produce similar light-curve shapes. A small planet at one projected separation
+can mimic a larger planet at another separation if the geometry differs. In many cases,
+additional observations of the lens star years later—once it has moved away from the
+source—can constrain its mass and distance, narrowing the planet’s inferred properties. Even
+then, microlensing often yields statistical populations more readily than richly
+characterized individual worlds.
 
-Only after analysts began combining remote sensing of glacier area with cross-site
-comparisons did claims about glacial retreat and moraine-dated landscape change stopped
-relying on a single figure and started relying on falsifiable predictions. the goal was to
-break degeneracies in which isostatic rebound indicators could be explained in more than one
-way because confounders like temperature versus precipitation controls often co-vary with
-the driver. as the author notes, transparency about priors became an empirical issue rather
-than a stylistic choice, something that changes whether two analyses are actually
-comparable. In this sense, retreating glacier termini over decades is best treated as a
-conditional inference rather than as a mere label.
+For planet demographics, however, statistics are precisely the point. Because microlensing
+samples a different region of parameter space than transits do, it can reveal whether cold
+planets are common, whether super‑Earths beyond the ice line dominate, and how planet
+frequency varies with stellar mass in dense Galactic environments. [C] In combination with
+other methods, it helps complete a census that no single technique can provide.
 
-In the end, one sees why the passage concludes that the most informative evidence is often
-the evidence that forces competing assumptions into the open. by insisting that claims about
-glacial retreat and moraine-dated landscape change be conditional on stated priors, it turns
-disagreement into a tool for discovery; this, in turn, clarifies why the same record can
-yield multiple stories without implying that any story is arbitrary. Though the temptation
-to treat a tidy plot as a definitive answer is strong, the result is a framework in which
-isostatic rebound indicators is interpreted through explicit boundary conditions rather than
-through habit.
+Microlensing therefore illustrates a broader lesson about discovery. Each technique is a
+filter: it highlights certain planets and obscures others. By exploiting gravity’s ability
+to magnify light, microlensing makes visible planets that would otherwise remain hidden, not
+because they are rare, but because other methods are blind to them. [D] The fleeting
+brightening in a crowded star field, once decoded, becomes evidence that planetary systems
+are scattered through the Galaxy in forms and places that would be easy to miss if one
+looked only for periodic shadows.
+
 
 Questions
 ---------
 
-1. [Factual Information] According to the passage, why does the author emphasize instrument calibration?
-   A. The discussion indicates that replication is redundant if sediment-core analysis produces a tight fit on one dataset.
-   B. Since river discharge seasonality shifts is observed in the European Alps, it must generalize to every setting, regardless of boundary conditions.
-   C. The author suggests that disagreement disappears once river discharge seasonality shifts is detected, making model assumptions unnecessary.
-   D. it prevents river discharge seasonality shifts from being treated as a self-interpreting fingerprint and forces tests that control temperature versus precipitation controls
+1. [Factual] According to the passage, what produces the basic brightening in a microlensing event?
+   A. Gravity from a foreground star bends and magnifies light from a background star during close alignment
+   B. A planet blocks starlight directly, creating a transit dip
+   C. A star ejects material that reflects light toward Earth
+   D. A telescope resolves a visible ring in every event
 
-2. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: Because the inference is underdetermined, the most informative tests are those that break degeneracies rather than those that merely sharpen one feature.
+2. [Vocabulary] The word “fleeting” in the passage is closest in meaning to:
+   A. brief
+   B. predictable
+   C. opaque
+   D. immobile
+
+3. [Inference] What can be inferred from the passage about why microlensing events are hard to repeat?
+   A. They depend on rare chance alignments that end once the lens and source separate
+   B. They require the planet to stop orbiting after one detection
+   C. They depend on planets that emit their own visible light
+   D. They can be repeated easily by pointing the telescope again the next night
+
+4. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: As a result, the method trades detailed follow-up of one system for the ability to sample many systems once.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-3. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | remote sensing of glacier area | Samples only part of the system |
-   | Signal | newly exposed proglacial lakes | Can vary across epochs |
-   | Confounder | feedbacks from albedo change | Shifts the baseline |
-   Blank: The limitation for 'Signal' is ________.
-   A. It proves river discharge seasonality shifts is unique.
-   B. It makes debris-covered ice dynamics irrelevant.
-   C. Can vary across epochs
-   D. Samples only part of the system
+5. [Negative Factual] All of the following are mentioned as reasons follow-up networks are useful EXCEPT:
+   A. planetary deviations can be brief and easily missed
+   B. weather or nightfall can interrupt observations at one site
+   C. telescopes at different longitudes can extend coverage
+   D. the method requires continuous measurement of a star’s radial velocity wobble for decades
 
-4. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [D] This is why the author repeatedly contrasts what is measured with what is inferred.
-   A. river discharge seasonality shifts specifically, taken as an unambiguous measurement
-   B. the idea being discussed in the surrounding sentences
-   C. temperature versus precipitation controls alone, treated as the sole cause
-   D. remote sensing of glacier area as a device rather than as an analytic approach
+6. [Rhetorical Purpose] Why does the author compare microlensing monitoring to watching a stadium for a single wave?
+   A. To illustrate the need to monitor many stars for rare, transient brightenings
+   B. To argue that microlensing works only in sports arenas
+   C. To claim that transits are never periodic
+   D. To suggest that microlensing signals always last for years
 
-5. [Inference] The passage suggests which of the following?
-   A. A convincing explanation should make distinct predictions under shared protocols, especially when feedbacks from albedo change can mimic newly exposed proglacial lakes.
-   B. The passage claims that the best strategy is to average away feedbacks from albedo change, since variability is merely a measurement error.
-   C. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving dendrogeomorphology.
-   D. The author treats Patagonian icefields as a special case and argues that no broader inference about glacial retreat and moraine-dated landscape change is possible.
+7. [Reference] In the passage, “this one-time nature” refers to the fact that:
+   A. a microlensing alignment typically produces a non-repeating event for observers
+   B. planets discovered by microlensing are destroyed afterward
+   C. the background star disappears permanently
+   D. only one planet exists in the Galaxy
 
-6. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about glacial retreat and moraine-dated landscape change be conditional on stated priors, it turns disagreement into a tool for discovery; this, in turn, clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Some summaries seem consistent because they mix incompatible cases, not because slope instability and rockfalls uniquely identifies one mechanism.
-   B. Incompatible cases should be ignored to keep an explanation based on dendrogeomorphology simple.
-   C. Summaries are always reliable because averaging eliminates hazard cascades involving GLOFs.
-   D. Aggregation guarantees that the same mechanism operates in Himalayan glaciers and everywhere else.
+8. [Organization] How does the passage develop its explanation of microlensing?
+   A. By contrasting it with transit and wobble methods, explaining the light-curve signature, then describing observational strategy, interpretation limits, and demographic value
+   B. By listing planetary names without explaining detection
+   C. By focusing only on general relativity equations
+   D. By describing telescope hardware without mentioning alignment
 
-7. [Rhetorical Purpose] What is the author’s main reason for mentioning an alternative model?
-   A. The passage implies that Patagonian icefields is chosen to avoid bias, so comparisons across settings are unnecessary.
-   B. The author argues that sediment-core analysis should be replaced by an unmodeled trend line because assumptions distort evidence.
-   C. motivate clearer assumptions and stronger tests, such as comparing cases where sediment-core analysis constrains feedbacks from albedo change
-   D. The author suggests that the key synonym 'shrinkage of alpine glaciers' refers to a different field altogether, not to glacial retreat and moraine-dated landscape change.
+9. [Paraphrase] Which option best restates the claim that each detection technique is a “filter”?
+   A. Different methods are sensitive to different kinds of planets, so combining methods reveals a fuller population
+   B. All methods detect exactly the same planets with the same biases
+   C. A technique’s results are independent of geometry and mass
+   D. Microlensing detects only planets that transit
 
-8. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage argues that retreating glacier termini over decades cannot be studied empirically because confounders like hazard cascades involving GLOFs make data meaningless. It recommends replacing measurement with intuition and rejecting dendrogeomorphology as unreliable. It concludes that debate persists because evidence never constrains theory.
-   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats dendrogeomorphology as a historical curiosity and does not discuss slope instability and rockfalls or hazard cascades involving GLOFs. It ends without any methodological implication.
-   C. The passage claims that deglaciation-driven geomorphic change is settled because slope instability and rockfalls uniquely identifies the mechanism. It argues that hazard cascades involving GLOFs is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using dendrogeomorphology are unnecessary.
-   D. The passage examines glacial retreat and moraine-dated landscape change and argues that slope instability and rockfalls is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how hazard cascades involving GLOFs can shift the baseline, especially when evidence is drawn from Patagonian icefields. Finally, it maintains that tests combining dendrogeomorphology with boundary-condition checks are required to make claims about ice-front recession recorded in moraines robust.
-
-9. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. Glacial Retreat and Moraine-Dated Landscape Change
-   B. slope instability and rockfalls
-   C. a list of Olympic medal counts
-   D. dendrogeomorphology
-
-10. [Vocabulary] In the passage, the word **incremental** in the sentence below is closest in meaning to:
-   Sentence: the goal was to break degeneracies in which isostatic rebound indicators could be explained in more than one way largely because confounders like temperature versus precipitation controls often co-vary with the driver.
-   A. irrelevant to glacial retreat and moraine-dated landscape change, serving only as background detail
-   B. complete and final, so no further checks like remote sensing of glacier area are needed
-   C. unavoidable and uncontrollable because debris-covered ice dynamics dominates all evidence
-   D. gradual
+10. [Summary] Which statement best summarizes the passage?
+   A. Microlensing finds planets mainly by measuring periodic stellar dimming and is therefore best for close-in orbits.
+   B. The passage explains microlensing as a chance alignment that magnifies a background star, with planets creating brief deviations; it notes the method’s one-time observational constraints and its strength in sampling cold planets and distant systems to complement other detection techniques.
+   C. Microlensing provides detailed atmospheric measurements for each planet because events repeat regularly.
+   D. Planetary deviations in microlensing always have unique interpretations with no degeneracy.
 
 
 Answer Key
 ----------
-1: D
-2: B
-3: C
-4: B
-5: A
+1: A
+2: A
+3: A
+4: A
+5: D
 6: A
-7: C
-8: D
-9: C
-10: D
+7: A
+8: A
+9: A
+10: B

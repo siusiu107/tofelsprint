@@ -1,156 +1,136 @@
-Passage 0002: Residential Segregation and the Persistence of Neighborhood Inequality (Sociology)
-================================================================================================
-(Word count: 719)
+Passage 0002: Columnar Basalt as a Record of Cooling and Contraction (Geology)
+==============================================================================
+(Word count: 634)
 
-In replication attempts, the passage argues that researchers have treated wealth
-accumulation gaps as the decisive sign of residential segregation and the persistence of
-neighborhood inequality. Admittedly, mobility tracking with administrative records can make
-the pattern look unusually sharp; nevertheless, the passage argues that such confidence is
-conditional and must be earned by specifying assumptions. the resulting debate is less about
-data collection than about what the data are evidence for, an outcome that forces analysts
-to articulate boundary conditions rather than rely on familiar narratives.
+Walk across a plateau of basalt after a flood‑lava eruption and the rock can look
+monotonous—dark, dense, and uniform—until a cliff reveals a hidden geometry. Some basalt
+flows are cut by near‑perfect columns, often hexagonal, stacked like a giant stone organ.
+The columns are not carved by tools and they are not fossils of plants; they are fractures
+that formed as molten rock cooled and contracted. The surprising regularity, however, can
+mislead. The pattern is not a decorative flourish of nature. It records how heat left the
+flow and how stress accumulated as the rock stiffened.
 
-It is methodological humility that the passage presents as the lesson of residential
-segregation and the persistence of neighborhood inequality: inference is constrained by what
-competing models would also predict. If one wishes to move from description to explanation,
-then the same observation—wealth accumulation gaps—must be paired with tests that change the
-conditions under which it appears. Whereas popular summaries treat wealth accumulation gaps
-as an endpoint may be convenient, the passage treats it as a starting point for sharper
-experimental or observational contrasts is scientifically revealing. In this sense, spatial
-stratification in cities is best treated as a conditional inference rather than as a mere
-label.
+Basalt begins as a liquid with dissolved gases and suspended crystals. As it cools, crystals
+grow and the remaining melt becomes more viscous, until the flow passes a point where it can
+no longer deform smoothly. Contraction then creates tension. Because tension cannot be
+relieved by stretching the solidified rock, it is relieved by breaking it. The break does
+not occur in random directions, because the cooling front is directional: heat is drawn
+toward cooler surroundings, usually upward into air or downward into wet ground. Fractures
+therefore tend to propagate perpendicular to the cooling surface, creating columns whose
+long axes trace the direction of heat loss.
 
-Even though the first model can fit one dataset extremely well, the passage insists that
-uniqueness is precisely what must be shown, not assumed. it highlights how credit market
-discrimination can shift baselines, altering whether wealth accumulation gaps is even
-comparable across cases, which helps explain why means that a good fit is not the same as a
-good explanation. If credit market discrimination is changed while the nominal driver
-remains constant is granted, one should expect different outcomes when conditions are
-perturbed.
+The size of columns varies widely, and that variation reveals a key cause. Slow cooling
+allows stress to be relieved over longer distances, producing wider columns; fast cooling
+forces frequent cracks, producing narrow columns. Yet the rate is not set only by the air
+temperature above a flow. Water plays an outsized role. If a lava flow advances over
+saturated sediment, steam can carry heat away rapidly, increasing cracking frequency. [A]
+Conversely, if the upper surface of a thick flow forms an insulating crust while the
+interior remains hot, the cooling rate inside can slow dramatically, yielding larger columns
+below a finer‑grained upper zone. [B] The resulting “colonnade” under a “entablature” is a
+textural record of changing cooling conditions within the same eruption. [C]
 
-Only after analysts began combining mobility tracking with administrative records with
-cross-site comparisons did claims about residential segregation and the persistence of
-neighborhood inequality stopped relying on a single figure and started relying on
-falsifiable predictions. the goal was to break degeneracies in which wealth accumulation
-gaps could be explained in more than one way largely because confounders like credit market
-discrimination often co-vary with the driver. as the author notes, transparency about priors
-became an empirical issue rather than a stylistic choice, which is precisely why changes
-whether two analyses are actually comparable. In this sense, segregation-driven inequality
-across neighborhoods is best treated as a conditional inference rather than as a mere label.
+For decades, some geologists treated columnar joints as evidence of a single cooling
+history, but field mapping undercut that simplicity. In one river canyon, columns near the
+base of a flow are large and regular, while higher up the columns become irregular and
+contorted, as if they were twisted. The twist is not an artistic accident; it often reflects
+a shifting cooling direction when water infiltrates fractures and creates new cooling
+surfaces. When cooling surfaces multiply, the stress field changes, and fractures can branch
+or rotate, creating a chaotic zone without erasing the underlying columnar tendency.
 
-Not the obvious explanation but the apparent regularity of wealth accumulation gaps is what
-drives the first interpretation: wealth accumulation gaps is treated as a direct readout of
-mechanism. [A] The author suggests that the same evidence can support multiple stories when
-priors differ. Were wealth accumulation gaps is uniquely produced by one causal pathway to
-fail, then observations from large U.S. [B] The passage emphasizes boundary conditions
-instead of treating them as afterthoughts. metropolitan areas would be transferable, and
-disagreement would be largely technical. [C] The discussion treats exceptions as
-informative, not as errors to be discarded. [D] The author uses the example to separate
-detection from interpretation.
+Because the joints are fractures, they also influence later landscape evolution. Columns
+provide planes of weakness along which cliffs can fail, producing talus piles at the base of
+canyon walls. They also guide groundwater, because water can seep along joint boundaries
+more readily than through intact basalt. [D] Over time, water movement can alter minerals
+along those boundaries, making them even weaker, and freeze‑thaw cycles can pry columns
+apart. Thus, a pattern born of cooling becomes a scaffold for erosion.
 
-Not until analysts began combining mobility tracking with administrative records with cross-
-site comparisons did claims about residential segregation and the persistence of
-neighborhood inequality stopped relying on a single figure and started relying on
-falsifiable predictions. the goal was to break degeneracies in which wealth accumulation
-gaps could be explained in more than one way because, as the author notes, confounders like
-credit market discrimination often co-vary with the driver. as the author notes,
-transparency about priors became an empirical issue rather than a stylistic choice,
-something that changes whether two analyses are actually comparable. In this sense,
-persistent neighborhood-level disparities is best treated as a conditional inference rather
-than as a mere label.
+The next time a traveler stands before a colonnade, the most useful question is not “Why
+hexagons?” but “What does this geometry imply about the flow’s thermal history?” The answer
+lies in the causal sequence: cooling direction guides fracture orientation; cooling rate
+influences spacing; water can accelerate heat loss and redirect cooling; and fracture
+patterns, once formed, reshape how the rock breaks and weathers. Columnar basalt is
+therefore not a static ornament. It is a frozen record of heat in motion.
 
-In the end, researchers found that the passage concludes that the most informative evidence
-is often the evidence that forces competing assumptions into the open. by insisting that
-claims about residential segregation and the persistence of neighborhood inequality be
-conditional on stated priors, it turns disagreement into a tool for discovery, something
-that clarifies why the same record can yield multiple stories without implying that any
-story is arbitrary. the temptation to treat a tidy plot as a definitive answer is strong;
-still, the result is a framework in which wealth accumulation gaps is interpreted through
-explicit boundary conditions rather than through habit.
+Even the familiar hexagon is a statistical outcome rather than a strict rule. When fractures
+propagate, they tend to meet at angles near 120 degrees, because that geometry distributes
+stress efficiently, but local defects can produce pentagons or heptagons without breaking
+the columnar logic.
+
 
 Questions
 ---------
 
-1. [Inference] Which of the following can be inferred from the passage?
-   A. The author treats large U.S. metropolitan areas as a special case and argues that no broader inference about residential segregation and the persistence of neighborhood inequality is possible.
-   B. The passage claims that the best strategy is to average away informational asymmetries in housing search, since variability is merely a measurement error.
-   C. The passage suggests that mobility constraints across space is primarily a rhetorical device rather than an empirical constraint on models.
-   D. A convincing explanation should make distinct predictions under shared protocols, especially when informational asymmetries in housing search can mimic mobility constraints across space.
+1. [Factual] According to the passage, why do columnar joints tend to form perpendicular to the cooling surface?
+   A. Because crystals grow only in vertical directions
+   B. Because fractures propagate in a way that reflects the directional movement of heat out of the flow
+   C. Because basalt contains hidden plant fibers that guide cracking
+   D. Because rivers carve columns into the rock after it solidifies
 
-2. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. mobility constraints across space
-   B. Residential Segregation and the Persistence of Neighborhood Inequality
-   C. a list of Olympic medal counts
-   D. audit studies in housing markets
+2. [Vocabulary] The word “monotonous” in the passage is closest in meaning to:
+   A. varied
+   B. uniform and repetitive
+   C. fragile
+   D. transparent
 
-3. [Factual Information] According to the passage, why does the author emphasize replication across contexts?
-   A. Since wealth accumulation gaps is observed in rapidly growing Sun Belt regions, it must generalize to every setting, regardless of boundary conditions.
-   B. The discussion indicates that replication is redundant if longitudinal panel data produces a tight fit on one dataset.
-   C. it prevents wealth accumulation gaps from being treated as a self-interpreting fingerprint and forces tests that control zoning rules and land-use regulation
-   D. Because zoning rules and land-use regulation co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
-
-4. [Rhetorical Purpose] The author’s discussion of an alternative hypothesis serves mainly to:
-   A. motivate clearer assumptions and stronger tests, such as comparing cases where mobility tracking with administrative records constrains path dependence from historical redlining
-   B. The author suggests that the key synonym 'segregation-driven inequality across neighborhoods' refers to a different field altogether, not to residential segregation and the persistence of neighborhood inequality.
-   C. The passage implies that post-industrial cities is chosen to avoid bias, so comparisons across settings are unnecessary.
-   D. The passage treats disparate exposure to pollution as a confounder and path dependence from historical redlining as the diagnostic signal that identifies the mechanism.
-
-5. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: In other words, the disagreement is not about whether the data exist, but about what the data are evidence for.
+3. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: In effect, steam becomes a conveyor belt for thermal energy.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-6. [Vocabulary] In the passage, the word **plausible** in the sentence below is closest in meaning to:
-   Sentence: In this sense, persistent neighborhood-level disparities is best treated as a conditional inference rather than as a mere label.
-   A. unavoidable and uncontrollable because path dependence from historical redlining dominates all evidence
-   B. reasonable
-   C. complete and final, so no further checks like mobility tracking with administrative records are needed
-   D. irrelevant to residential segregation and the persistence of neighborhood inequality, serving only as background detail
+4. [Inference] What does the passage suggest about a flow with very narrow columns?
+   A. It likely cooled quickly, requiring frequent cracks to relieve contraction stress
+   B. It must have formed under extremely low gravity
+   C. It cooled so slowly that stress never accumulated
+   D. Its columns were carved by human activity
 
-7. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage argues that persistent neighborhood-level disparities cannot be studied empirically because confounders like path dependence from historical redlining make data meaningless. It recommends replacing measurement with intuition and rejecting longitudinal panel data as unreliable. It concludes that debate persists because evidence never constrains theory.
-   B. The passage claims that segregation-driven inequality across neighborhoods is settled because wealth accumulation gaps uniquely identifies the mechanism. It argues that path dependence from historical redlining is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using longitudinal panel data are unnecessary.
-   C. The passage examines residential segregation and the persistence of neighborhood inequality and argues that wealth accumulation gaps is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how path dependence from historical redlining can shift the baseline, especially when evidence is drawn from large U.S. metropolitan areas. Finally, it maintains that tests combining longitudinal panel data with boundary-condition checks are required to make claims about spatial stratification in cities robust.
-   D. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats longitudinal panel data as a historical curiosity and does not discuss wealth accumulation gaps or path dependence from historical redlining. It ends without any methodological implication.
+5. [Rhetorical Purpose] Why does the author describe a canyon where columns become irregular higher up?
+   A. To show that a single flow can record changing cooling conditions rather than a uniform history
+   B. To argue that irregular columns prove that columns are unrelated to cooling
+   C. To suggest that basalt cannot fracture in regular patterns
+   D. To claim that water is irrelevant to joint formation
 
-8. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about residential segregation and the persistence of neighborhood inequality be conditional on stated priors, it turns disagreement into a tool for discovery, something that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Incompatible cases should be ignored to keep an explanation based on mobility tracking with administrative records simple.
-   B. Aggregation guarantees that the same mechanism operates in post-industrial cities and everywhere else.
-   C. Summaries are always reliable because averaging eliminates path dependence from historical redlining.
-   D. Some summaries seem consistent because they mix incompatible cases, not because school-quality gradients uniquely identifies one mechanism.
+6. [Negative Factual] All of the following are mentioned as ways water matters EXCEPT:
+   A. accelerating heat loss through steam
+   B. redirecting cooling by infiltrating fractures
+   C. guiding groundwater along joint boundaries
+   D. preventing any erosion by sealing rock surfaces permanently
 
-9. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | audit studies in housing markets | Requires careful calibration |
-   | Signal | wealth accumulation gaps | Can be contaminated by background variability |
-   | Confounder | zoning rules and land-use regulation | Can mimic the target feature |
-   Blank: The limitation for 'Signal' is ________.
-   A. Can be contaminated by background variability
-   B. It replaces mobility tracking with administrative records with intuition.
-   C. Can mimic the target feature
-   D. It proves wealth accumulation gaps is unique.
+7. [Reference] In the phrase “that simplicity,” the word “simplicity” refers to the idea that:
+   A. columns are always hexagonal
+   B. columnar joints reflect a single, unchanging cooling history
+   C. water never affects fracture patterns
+   D. basalt never contains crystals
 
-10. [Reference] In the passage, the word **it** in the sentence below refers to:
-   Sentence: It is methodological humility that the passage presents as the lesson of residential segregation and the persistence of neighborhood inequality: inference is constrained by what competing models would also predict.
-   A. spatial autocorrelation analysis as a device rather than as an analytic approach
-   B. wealth accumulation gaps specifically, taken as an unambiguous measurement
-   C. informational asymmetries in housing search alone, treated as the sole cause
-   D. the idea being discussed in the surrounding sentences
+8. [Organization] How is the passage primarily organized?
+   A. It explains the mechanism of joint formation, then discusses how variations reveal cooling history, and finally describes consequences for erosion
+   B. It lists famous basalt cliffs without explaining their origin
+   C. It compares basalt to sedimentary rock and then switches topics
+   D. It presents a debate and refuses to evaluate evidence
+
+9. [Paraphrase] Which option best restates the idea that joints become “a scaffold for erosion”?
+   A. The fracture pattern later guides how the rock breaks, channels water, and weathers
+   B. Erosion occurs only before the lava cools
+   C. Columns prevent water from entering basalt
+   D. Erosion eliminates joint patterns instantly
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Columnar basalt forms when rivers carve hexagonal shapes into rock, and column size depends mainly on crystal type.
+   B. The passage explains columnar joints as contraction fractures shaped by how heat leaves a lava flow; cooling rate and water influence column spacing and texture, and the resulting joints later affect groundwater flow and erosion.
+   C. Basalt columns are fossils of ancient forests preserved by lava.
+   D. Columnar patterns are purely aesthetic and provide no information about a flow’s history.
 
 
 Answer Key
 ----------
-1: D
-2: C
-3: C
+1: B
+2: B
+3: A
 4: A
-5: C
-6: B
-7: C
-8: D
+5: A
+6: D
+7: B
+8: A
 9: A
-10: D
+10: B

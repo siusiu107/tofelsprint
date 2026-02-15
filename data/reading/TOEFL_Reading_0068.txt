@@ -1,161 +1,148 @@
-Passage 0068: Stellar Contamination in Transit Spectroscopy (Astronomy)
-=======================================================================
-(Word count: 762)
+Passage 0068: Antibiotic Stewardship and the Evolutionary Arithmetic of Resistance (Medicine/Microbiology)
+==========================================================================================================
+(Word count: 603)
 
-From an observational standpoint, researchers have treated time-variable spectral baselines
-as the decisive sign of stellar contamination in transit spectroscopy. Admittedly, multi-
-epoch transit campaigns can make the pattern look unusually sharp; nevertheless, the passage
-argues that such confidence is conditional and must be earned by specifying assumptions. the
-resulting debate is less about data collection than about what the data are evidence for, an
-outcome that forces analysts to articulate boundary conditions rather than rely on familiar
-narratives.
+Antibiotics are among the most powerful tools in medicine, yet their power is undermined by
+the evolutionary logic of resistance. When an antibiotic is used, susceptible bacteria are
+inhibited or killed, while rare variants with protective mutations or acquired resistance
+genes survive and multiply. Over time, the drug that once worked reliably becomes less
+effective, and infections that were routine become dangerous. Antibiotic stewardship—the
+coordinated effort to use antibiotics wisely—emerged as a response to this predictable, yet
+still alarming, outcome.
 
-It is methodological humility that the passage presents as the lesson of stellar
-contamination in transit spectroscopy: inference is constrained by what competing models
-would also predict. If one wishes to move from description to explanation, then the same
-observation—time-variable spectral baselines—must be paired with tests that change the
-conditions under which it appears. Whereas popular summaries treat time-variable spectral
-baselines as an endpoint, the passage treats it as a starting point for sharper experimental
-or observational contrasts. In this sense, unocculted spot/facula bias in transit data is
-best treated as a conditional inference rather than as a mere label.
+Stewardship begins with the recognition that “more” is not always better. Broad-spectrum
+antibiotics can cover many organisms, which is useful when a clinician does not yet know
+what pathogen is responsible. Yet broad coverage also applies selective pressure to a wide
+swath of bacteria, including harmless commensals in the gut. Those commensals can become a
+reservoir of resistance genes that later transfer to pathogens. Moreover, disrupting the
+microbiome can allow opportunistic infections such as Clostridioides difficile to flourish,
+producing severe diarrhea and colitis. [A] Thus, an antibiotic can cure one problem while
+creating ecological openings for another.
 
-Not the obvious explanation but the apparent regularity of time-variable spectral baselines
-is what drives the first interpretation: time-variable spectral baselines is treated as a
-direct readout of mechanism. If time-variable spectral baselines is uniquely produced by one
-causal pathway is granted, then observations from M-dwarf systems with repeated transits
-would be transferable, and disagreement would be largely technical. Not the caveat that
-instrument drift across visits might reproduce the same pattern, but the literature is full
-of such claims.
+A central stewardship strategy is de-escalation. A patient with suspected sepsis may receive
+empiric broad-spectrum therapy immediately, because delay can be lethal; however, once
+cultures and sensitivities return, clinicians can narrow therapy to a more targeted drug or
+stop antibiotics if infection is not confirmed. This requires infrastructure: timely lab
+processing, clear communication, and decision support. Rapid diagnostic tests—PCR panels,
+mass spectrometry identification, and biomarkers such as procalcitonin—can shorten
+uncertainty windows, making narrowing decisions easier. [B] The faster uncertainty
+collapses, the less time broad selection pressures operate.
 
-Only when the field adopted tests that manipulate or stratify instrument drift across visits
-did the debate became empirically productive rather than merely rhetorical. [A] This point
-forces the reader to consider how confounders enter the pipeline. by comparing cases in
-which multi-epoch transit campaigns constrains alternatives, researchers could ask which
-predictions survive out of sample, which is why the passage emphasizes comparative design
-over isolated exemplars. [B] The author implies that replication is informative only when
-protocols are comparable. Even though a single case can be dramatic, the author does not
-deny the value of striking examples, but warns against treating them as representative. [C]
-The author uses the example to separate detection from interpretation. [D] The discussion
-treats exceptions as informative, not as errors to be discarded.
+Duration is another leverage point. For many infections, evidence now supports shorter
+courses than were historically common. A shorter course can reduce selection pressure and
+adverse effects without compromising cure, but clinicians and patients can be uneasy,
+interpreting “shorter” as “riskier.” Stewardship programs therefore combine guidelines with
+feedback and education, showing local outcome data and emphasizing that unnecessary days of
+antibiotics are not neutral; they are evolutionary training sessions for bacteria.
 
-In replication attempts, the apparent consensus fractured when similar protocols were
-applied in settings unlike M-dwarf systems with repeated transits. the same summary
-statistic could be reproduced while the underlying mechanisms differed because instrument
-drift across visits shifted the baseline in different directions across sites, which is why
-replication matters. the author therefore separates detection from interpretation, not
-because treating time-variable spectral baselines as a self-sufficient conclusion, but
-because the assumptions differ. In this sense, activity-driven spectral distortion is best
-treated as a conditional inference rather than as a mere label.
+Hospitals often implement stewardship through teams that review prescriptions, offer
+recommendations, and track resistance patterns. In some settings, certain high-risk
+antibiotics require approval from an infectious disease specialist, or automatic stop orders
+trigger reassessment. Such measures can reduce inappropriate prescribing, yet they must be
+designed carefully to avoid delaying life-saving therapy. Stewardship is therefore not a
+simple restriction; it is an attempt to align speed with precision—treat early, then adjust
+quickly.
 
-It is methodological humility, rather than a single headline feature, that the passage
-presents as the lesson of stellar contamination in transit spectroscopy: inference is
-constrained by what competing models would also predict. If one wishes to move from
-description to explanation is granted, then the same observation—time-variable spectral
-baselines—must be paired with tests that change the conditions under which it appears.
-Whereas popular summaries treat time-variable spectral baselines as an endpoint, the passage
-treats it as a starting point for sharper experimental or observational contrasts.
+Resistance also spreads beyond hospitals. Antibiotics used in outpatient clinics, dentistry,
+and agriculture contribute to the overall selective environment. International travel moves
+resistant strains across borders. Wastewater can contain antibiotic residues and resistant
+bacteria, linking human practice to environmental microbiology. The problem is thus
+distributed, which is why stewardship is framed as a collective responsibility rather than
+as an individual virtue.
 
-In replication attempts, the analysis suggests the apparent consensus fractured when similar
-protocols were applied in settings unlike M-dwarf systems with repeated transits. the same
-summary statistic could be reproduced while the underlying mechanisms differed because
-instrument drift across visits shifted the baseline in different directions across sites,
-which is why replication matters. Not treating time-variable spectral baselines as a self-
-sufficient conclusion, but the author therefore separates detection from interpretation. In
-this sense, photospheric contamination of transmission spectra is best treated as a
-conditional inference rather than as a mere label.
+Ultimately, stewardship asks medicine to think ecologically. [C] It treats antibiotics as
+shared resources whose effectiveness depends on restraint and on rapid learning. [D] When
+clinicians prescribe with an eye to both the patient in front of them and the microbial
+population that will exist next month, they practice a form of care that is simultaneously
+immediate and intergenerational.
 
-In the end, one sees why the passage concludes that the most informative evidence is often
-the evidence that forces competing assumptions into the open. by insisting that claims about
-stellar contamination in transit spectroscopy be conditional on stated priors, it turns
-disagreement into a tool for discovery, an outcome that clarifies why the same record can
-yield multiple stories without implying that any story is arbitrary. Admittedly, the
-temptation to treat a tidy plot as a definitive answer is strong; nevertheless, the result
-is a framework in which time-variable spectral baselines is interpreted through explicit
-boundary conditions rather than through habit.
+Stewardship teams often rely on rapid diagnostics precisely because delay encourages
+empirical broad-spectrum prescribing that later proves unnecessary.
+
+Stewardship teams often rely on rapid diagnostics precisely because delay encourages
+empirical broad-spectrum prescribing that later proves unnecessary.
+
+Stewardship teams often rely on rapid diagnostics precisely because delay encourages
+empirical broad-spectrum prescribing that later proves unnecessary.
+
+Stewardship teams often rely on rapid diagnostics precisely because delay encourages
+empirical broad-spectrum prescribing that later proves unnecessary.
+
 
 Questions
 ---------
 
-1. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. apparent slopes mimicking Rayleigh scattering
-   B. the length of the Nile in miles
-   C. simultaneous photometric monitoring
-   D. Stellar Contamination in Transit Spectroscopy
+1. [Inference] What can be inferred about why broad-spectrum antibiotics can increase future resistance even when they help the current patient?
+   A. They apply selection pressure to many bacteria, including commensals that can become reservoirs of resistance genes
+   B. They permanently eliminate all bacteria, preventing evolution
+   C. They improve the microbiome’s diversity so resistance cannot spread
+   D. They work only against viruses, forcing bacteria to mutate
 
-2. [Rhetorical Purpose] What is the author’s main reason for mentioning an alternative model?
-   A. The passage implies that bright nearby planet hosts is chosen to avoid bias, so comparisons across settings are unnecessary.
-   B. The author argues that spot–facular forward modeling should be replaced by an unmodeled trend line because assumptions distort evidence.
-   C. motivate clearer assumptions and stronger tests, such as comparing cases where spot–facular forward modeling constrains starspot temperature contrasts
-   D. The discussion suggests that starspot temperature contrasts is the phenomenon itself, so controlling for it would remove the effect of interest.
+2. [Factual] According to the passage, what is “de-escalation” in antibiotic use?
+   A. Narrowing or stopping therapy once culture or diagnostic information reduces uncertainty
+   B. Using the strongest antibiotic for the longest possible time
+   C. Avoiding any antibiotics even in suspected sepsis
+   D. Replacing antibiotics with vaccines after symptoms resolve
 
-3. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about stellar contamination in transit spectroscopy be conditional on stated priors, it turns disagreement into a tool for discovery, an outcome that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Aggregation guarantees that the same mechanism operates in bright nearby planet hosts and everywhere else.
-   B. Summaries are always reliable because averaging eliminates starspot temperature contrasts.
-   C. Incompatible cases should be ignored to keep an explanation based on multi-epoch transit campaigns simple.
-   D. Some summaries seem consistent because they mix incompatible cases, not because time-variable spectral baselines uniquely identifies one mechanism.
+3. [Vocabulary] The word “reservoir” in the passage is closest in meaning to:
+   A. a source or store from which something can spread
+   B. a hospital intensive care unit
+   C. a laboratory culture dish
+   D. a chemical buffer that stores oxygen
 
-4. [Factual Information] The passage indicates that model assumptions is important mainly because:
-   A. Because spurious molecular detections appears, the mechanism must be unique, so instrument drift across visits can be ignored as irrelevant noise.
-   B. it prevents spurious molecular detections from being treated as a self-interpreting fingerprint and forces tests that control instrument drift across visits
-   C. Because instrument drift across visits co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
-   D. Since spurious molecular detections is observed in active K-dwarf host stars, it must generalize to every setting, regardless of boundary conditions.
-
-5. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | simultaneous photometric monitoring | Depends on modeling priors |
-   | Signal | spurious molecular detections | Can be degenerate with another effect |
-   | Confounder | limb-darkening model mismatch | Adds correlated noise |
-   Blank: The limitation for 'Confounder' is ________.
-   A. Adds correlated noise
-   B. Depends on modeling priors
-   C. It makes facula coverage fractions irrelevant.
-   D. It replaces multi-epoch transit campaigns with intuition.
-
-6. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [A] This point forces the reader to consider how confounders enter the pipeline.
-   A. multi-epoch transit campaigns as a device rather than as an analytic approach
-   B. facula coverage fractions alone, treated as the sole cause
-   C. the idea being discussed in the surrounding sentences
-   D. apparent slopes mimicking Rayleigh scattering specifically, taken as an unambiguous measurement
-
-7. [Vocabulary] In the passage, the word **preliminary** in the sentence below is closest in meaning to:
-   Sentence: Not treating time-variable spectral baselines as a self-sufficient conclusion, but the author therefore separates detection from interpretation.
-   A. irrelevant to stellar contamination in transit spectroscopy, serving only as background detail
-   B. complete and final, so no further checks like chromatic transit analysis are needed
-   C. unavoidable and uncontrollable because instrument drift across visits dominates all evidence
-   D. early
-
-8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: The argument also suggests that disagreement can be productive, since it forces boundary conditions to be stated rather than assumed.
+4. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: In that sense, stewardship is as much about managing uncertainty as it is about choosing drugs.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-9. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage argues that photospheric contamination of transmission spectra cannot be studied empirically because confounders like facula coverage fractions make data meaningless. It recommends replacing measurement with intuition and rejecting spot–facular forward modeling as unreliable. It concludes that debate persists because evidence never constrains theory.
-   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats spot–facular forward modeling as a historical curiosity and does not discuss time-variable spectral baselines or facula coverage fractions. It ends without any methodological implication.
-   C. The passage claims that activity-driven spectral distortion is settled because time-variable spectral baselines uniquely identifies the mechanism. It argues that facula coverage fractions is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using spot–facular forward modeling are unnecessary.
-   D. The passage examines stellar contamination in transit spectroscopy and argues that time-variable spectral baselines is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how facula coverage fractions can shift the baseline, especially when evidence is drawn from M-dwarf systems with repeated transits. Finally, it maintains that tests combining spot–facular forward modeling with boundary-condition checks are required to make claims about unocculted spot/facula bias in transit data robust.
+5. [Negative Factual] All of the following are mentioned as contexts contributing to resistance EXCEPT:
+   A. outpatient clinics and dentistry
+   B. agriculture and travel
+   C. wastewater containing residues
+   D. mining and processing lapis lazuli for pigment
 
-10. [Inference] The passage suggests which of the following?
-   A. A convincing explanation should make distinct predictions under shared protocols, especially when limb-darkening model mismatch can mimic apparent slopes mimicking Rayleigh scattering.
-   B. The passage claims that the best strategy is to average away limb-darkening model mismatch, since variability is merely a measurement error.
-   C. The passage suggests that apparent slopes mimicking Rayleigh scattering is primarily a rhetorical device rather than an empirical constraint on models.
-   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using multi-epoch transit campaigns.
+6. [Rhetorical Purpose] Why does the author mention Clostridioides difficile in the context of antibiotics?
+   A. To provide an example of how microbiome disruption can create opportunities for harmful infections
+   B. To argue that C. difficile is cured only by longer antibiotic courses
+   C. To show that antibiotics do not affect gut bacteria
+   D. To claim that all diarrhea is viral and unrelated to antibiotics
+
+7. [Reference] In the passage, “such measures” refers to:
+   A. hospital stewardship interventions like review teams, approvals, and stop orders
+   B. using oxygen-storage materials to buffer exhaust
+   C. auditory stimulation to enhance sleep rhythms
+   D. removing sea urchins from kelp forests
+
+8. [Organization] How is the passage primarily organized?
+   A. It introduces resistance logic, explains why broad-spectrum use has costs, then presents stewardship tools such as de-escalation, rapid diagnostics, and shorter durations, before expanding to system-wide spread and concluding with an ecological framing
+   B. It lists antibiotics alphabetically with no discussion of use
+   C. It argues that resistance can be solved solely by inventing new drugs
+   D. It focuses on hospital architecture rather than prescribing
+
+9. [Paraphrase] Which option best restates the claim that antibiotics are “shared resources”?
+   A. Because resistance affects future patients, preserving antibiotic effectiveness requires collective restraint and wise use today
+   B. Antibiotics are physically stored in public warehouses for anyone to take
+   C. Shared resources means every antibiotic treats every infection equally
+   D. Resistance is individual and cannot spread, so sharing is irrelevant
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Antibiotic stewardship argues that clinicians should delay treatment until every test is complete.
+   B. The passage explains antibiotic stewardship as an effort to slow resistance by reducing unnecessary broad selection pressure through strategies such as rapid diagnostics, de-escalation, and shorter durations, while acknowledging the need for timely treatment and the wider spread of resistance beyond hospitals, framing antibiotics as resources managed best with ecological awareness.
+   C. Resistance arises only from agricultural use, so hospital stewardship is unnecessary.
+   D. Broad-spectrum antibiotics never disrupt the microbiome, so concerns about C. difficile are misplaced.
 
 
 Answer Key
 ----------
-1: B
-2: C
-3: D
+1: A
+2: A
+3: A
 4: B
-5: A
-6: C
-7: D
-8: C
-9: D
-10: A
+5: D
+6: A
+7: A
+8: A
+9: A
+10: B

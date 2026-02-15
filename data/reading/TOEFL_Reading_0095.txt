@@ -1,155 +1,143 @@
-Passage 0095: Heterogeneous Catalysis on Platinum Surfaces (Chemistry)
-======================================================================
-(Word count: 707)
+Passage 0095: Transmission Spectroscopy and What Exoplanet Atmospheres Reveal (Astronomy)
+=========================================================================================
+(Word count: 614)
 
-When catalysts are benchmarked across labs, the analysis suggests researchers have treated
-selectivity shifts as the decisive sign of heterogeneous catalysis on platinum surfaces.
-Granted that temperature-programmed desorption can make the pattern look unusually sharp,
-the passage argues that such confidence is conditional and must be earned by specifying
-assumptions. the resulting debate is less about data collection than about what the data are
-evidence for, which helps explain why forces analysts to articulate boundary conditions
-rather than rely on familiar narratives.
+A planet that cannot be imaged can still leave a fingerprint. When an exoplanet passes in
+front of its star, the star’s brightness dips by an amount set largely by geometry: the
+planet blocks a fraction of the stellar disk. Yet the dip is not identical at every
+wavelength. If the planet has an atmosphere, then at wavelengths where atmospheric gases
+absorb strongly, the planet appears slightly larger because the starlight is blocked higher
+up. Measuring that wavelength-dependent transit depth produces a transmission spectrum, and
+from that spectrum astronomers attempt to identify molecules and to infer temperature and
+composition.
 
-Seldom, prior to the field adopted tests that manipulate or stratify support interactions,
-did investigators concede that the debate became empirically productive rather than merely
-rhetorical. by comparing cases in which temperature-programmed desorption constrains
-alternatives, researchers could ask which predictions survive out of sample, a move that is
-why the passage emphasizes comparative design over isolated exemplars. Although a single
-case can be dramatic, the author does not deny the value of striking examples, but warns
-against treating them as representative. In this sense, surface-mediated catalysis on pt is
-best treated as a conditional inference rather than as a mere label.
+The underlying cause is the altitude at which the atmosphere becomes opaque along the slant
+path of the starlight. An atmosphere with a large scale height—one that is hot and composed
+of light molecules—extends farther, so absorption features can be larger. Conversely, a
+cooler atmosphere or one dominated by heavier molecules produces smaller features. [A] Even
+before naming any molecule, the shape of a spectrum can therefore hint at physical
+conditions by indicating how “puffed up” the atmosphere is.
 
-The decisive factor is the apparent regularity of selectivity shifts; once that is stated,
-drives the first interpretation: selectivity shifts is treated as a direct readout of
-mechanism. If selectivity shifts is uniquely produced by one causal pathway, a different
-prediction follows: then observations from industrial hydrogenation reactors would be
-transferable, and disagreement would be largely technical. So the literature is full of such
-claims, and so, too, does the evidence undermine the caveat that support interactions might
-reproduce the same pattern.
+Specific molecules create characteristic patterns. Water vapor imprints broad bands in the
+near-infrared; sodium and potassium produce narrower features in the visible for certain hot
+planets; carbon dioxide and methane have their own bands at other wavelengths. Yet the
+measurement is demanding, because the signal is small: the difference between an absorbing
+and a transparent wavelength can correspond to only a few parts per million in stellar flux
+for a small planet. Instrument stability, detector systematics, and stellar variability can
+all masquerade as atmospheric structure, so observers often repeat transits and compare with
+reference stars or with instrumental models.
 
-In replication attempts, one sees why the apparent consensus fractured when similar
-protocols were applied in settings unlike industrial hydrogenation reactors. [A] The
-argument hinges on what would change under an alternative explanation. The passage argues
-that the same summary statistic could be reproduced while the underlying mechanisms differed
-because support interactions shifted the baseline in different directions across sites. [B]
-The passage returns to this point to clarify what counts as evidence. the author therefore
-separates detection from interpretation, not because treating selectivity shifts as a self-
-sufficient conclusion, but because the assumptions differ. [C] The discussion treats
-exceptions as informative, not as errors to be discarded. [D] This point forces the reader
-to consider how confounders enter the pipeline. In this sense, platinum-catalyzed reaction
-pathways is best treated as a conditional inference rather than as a mere label.
+A second complication arises from aerosols and condensate clouds, which can mute spectral
+features. If high-altitude particles scatter light broadly, the atmosphere can become opaque
+at similar altitudes across many wavelengths, flattening the spectrum. In such a case, a
+featureless spectrum does not mean “no atmosphere”; it can mean “an atmosphere whose
+absorption is hidden.” [B] The same data can thus be consistent with multiple physical
+pictures, and interpretation becomes a contest among explanations that fit both physics and
+observation.
 
-The point is not X but methodological humility; in that framing, the passage presents as the
-lesson of heterogeneous catalysis on platinum surfaces: inference is constrained by what
-competing models would also predict. Should one wishes to move from description to
-explanation be true, then the same observation—selectivity shifts—must be paired with tests
-that change the conditions under which it appears. Whereas popular summaries treat
-selectivity shifts as an endpoint looks decisive, the passage treats it as a starting point
-for sharper experimental or observational contrasts becomes more predictive under
-replication.
+To decide among possibilities, researchers combine information. They may use eclipse
+spectra, measured when the planet passes behind the star, to sample the planet’s thermal
+emission, or phase curves to track brightness changes through the orbit. They also
+incorporate stellar properties, because an active star with spots can alter the apparent
+transit depth in a wavelength-dependent way. If a planet crosses a dark stellar spot, the
+transit looks deeper; if unocculted spots exist elsewhere, the star’s baseline spectrum
+changes. Correcting for these effects requires careful modeling and, often, additional
+observations of the star itself.
 
-If anything is responsible, it is methodological humility, and therefore the passage
-presents as the lesson of heterogeneous catalysis on platinum surfaces: inference is
-constrained by what competing models would also predict. If one wishes to move from
-description to explanation is granted, then the same observation—selectivity shifts—must be
-paired with tests that change the conditions under which it appears. Whereas popular
-summaries treat selectivity shifts as an endpoint in one account, the passage treats it as a
-starting point for sharper experimental or observational contrasts in another. In this
-sense, metal-surface catalytic conversion is best treated as a conditional inference rather
-than as a mere label.
+Despite these challenges, the payoff is conceptual as well as catalog-like. Atmospheres
+provide clues about formation. A planet with a hydrogen-rich envelope may have accreted gas
+early and avoided complete loss, whereas a dense, metal-rich atmosphere can indicate
+different histories of outgassing and erosion. Over time, ultraviolet radiation can strip
+atmospheres, especially for close-in planets, and chemistry can be driven out of equilibrium
+by photolysis and vertical mixing. [C] In that way, the spectrum is a snapshot of an
+atmosphere that has been sculpted by gravity, radiation, and chemistry.
 
-In the end, one sees why the passage concludes that the most informative evidence is often
-the evidence that forces competing assumptions into the open. by insisting that claims about
-heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns
-disagreement into a tool for discovery, which is precisely why clarifies why the same record
-can yield multiple stories without implying that any story is arbitrary. Although the
-temptation to treat a tidy plot as a definitive answer is strong, the result is a framework
-in which selectivity shifts is interpreted through explicit boundary conditions rather than
-through habit.
+Transmission spectroscopy therefore turns a geometric transit into a chemical inquiry. [D]
+By watching starlight filter through alien air, astronomers link tiny, wavelength-dependent
+dips to molecules, temperatures, and planetary histories that would otherwise remain
+invisible.
+
+Even so, repeated transits can accumulate signal, turning many faint shadows into a spectrum
+with interpretable structure.
+
+Even so, repeated transits can accumulate signal, turning many faint shadows into a spectrum
+with interpretable structure.
+
 
 Questions
 ---------
 
-1. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | surface microscopy | Depends on modeling priors |
-   | Signal | rate enhancement | Can be contaminated by background variability |
-   | Confounder | adsorbate coverage effects | Can mimic the target feature |
-   Blank: The limitation for 'Signal' is ________.
-   A. Can be contaminated by background variability
-   B. It proves structure-sensitive activity is unique.
-   C. Depends on modeling priors
-   D. It replaces surface microscopy with intuition.
-
-2. [Rhetorical Purpose] The author introduces rival explanations chiefly to:
-   A. motivate clearer assumptions and stronger tests, such as comparing cases where surface microscopy constrains catalyst deactivation
-   B. The author argues that surface microscopy should be replaced by an unmodeled trend line because assumptions distort evidence.
-   C. The passage implies that industrial hydrogenation reactors is chosen to avoid bias, so comparisons across settings are unnecessary.
-   D. The passage treats structure-sensitive activity as a confounder and catalyst deactivation as the diagnostic signal that identifies the mechanism.
-
-3. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats DFT surface modeling as a historical curiosity and does not discuss structure-sensitive activity or catalyst deactivation. It ends without any methodological implication.
-   B. The passage claims that platinum-catalyzed reaction pathways is settled because structure-sensitive activity uniquely identifies the mechanism. It argues that catalyst deactivation is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using DFT surface modeling are unnecessary.
-   C. The passage argues that metal-surface catalytic conversion cannot be studied empirically because confounders like catalyst deactivation make data meaningless. It recommends replacing measurement with intuition and rejecting DFT surface modeling as unreliable. It concludes that debate persists because evidence never constrains theory.
-   D. The passage examines heterogeneous catalysis on platinum surfaces and argues that structure-sensitive activity is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how catalyst deactivation can shift the baseline, especially when evidence is drawn from electrochemical interfaces. Finally, it maintains that tests combining DFT surface modeling with boundary-condition checks are required to make claims about surface-mediated catalysis on pt robust.
-
-4. [Inference] The passage suggests which of the following?
-   A. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving temperature-programmed desorption.
-   B. The passage claims that the best strategy is to average away adsorbate coverage effects, since variability is merely a measurement error.
-   C. A convincing explanation should make distinct predictions under shared protocols, especially when adsorbate coverage effects can mimic rate enhancement.
-   D. The passage suggests that rate enhancement is primarily a rhetorical device rather than an empirical constraint on models.
-
-5. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: This point matters because the simplest interpretation often survives only by silently restricting the range of cases under discussion.
+1. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: Because the starlight grazes the limb, the relevant path length is long, making even trace absorbers potentially detectable.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-6. [Factual Information] The passage indicates that replication across contexts is important mainly because:
-   A. Since rate enhancement is observed in electrochemical interfaces, it must generalize to every setting, regardless of boundary conditions.
-   B. The author suggests that disagreement disappears once rate enhancement is detected, making model assumptions unnecessary.
-   C. Because rate enhancement appears, the mechanism must be unique, so catalyst deactivation can be ignored as irrelevant noise.
-   D. it prevents rate enhancement from being treated as a self-interpreting fingerprint and forces tests that control catalyst deactivation
+2. [Vocabulary] The word “opaque” in the passage is closest in meaning to:
+   A. not allowing light to pass through effectively
+   B. perfectly reflective like a mirror
+   C. moving rapidly across an orbit
+   D. caused by economic consolidation
 
-7. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about heterogeneous catalysis on platinum surfaces be conditional on stated priors, it turns disagreement into a tool for discovery, which is precisely why clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Incompatible cases should be ignored to keep an explanation based on DFT surface modeling simple.
-   B. Summaries are always reliable because averaging eliminates catalyst deactivation.
-   C. Some summaries seem consistent because they mix incompatible cases, not because rate enhancement uniquely identifies one mechanism.
-   D. Aggregation guarantees that the same mechanism operates in automotive catalytic converters and everywhere else.
+3. [Factual] According to the passage, why can a planet appear larger at certain wavelengths during a transit?
+   A. Because atmospheric gases absorb starlight so the effective blocking altitude is higher where absorption is strong
+   B. Because the planet physically expands and contracts each orbit
+   C. Because the star becomes smaller at red wavelengths
+   D. Because aerosols create extra gravity that pulls the atmosphere inward
 
-8. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [D] This point forces the reader to consider how confounders enter the pipeline.
-   A. DFT surface modeling as a device rather than as an analytic approach
-   B. the idea being discussed in the surrounding sentences
-   C. selectivity shifts specifically, taken as an unambiguous measurement
-   D. adsorbate coverage effects alone, treated as the sole cause
+4. [Inference] What can be inferred about why a “featureless” transmission spectrum does not necessarily mean an atmosphere is absent?
+   A. High-altitude particles can flatten features by making the atmosphere similarly opaque across wavelengths
+   B. Starlight cannot pass through any atmosphere ever
+   C. Water vapor produces no absorption bands in any case
+   D. Planets without atmospheres always show deep spectral lines
 
-9. [Vocabulary] In the passage, the word **persistent** in the sentence below is closest in meaning to:
-   Sentence: So the literature is full of such claims, and so, too, does the evidence undermine the caveat that support interactions might reproduce the same pattern.
-   A. complete and final, so no further checks like DFT surface modeling are needed
-   B. lasting
-   C. unavoidable and uncontrollable because adsorbate coverage effects dominates all evidence
-   D. irrelevant to heterogeneous catalysis on platinum surfaces, serving only as background detail
+5. [Rhetorical Purpose] Why does the author discuss stellar spots and activity?
+   A. To show that stellar variability can mimic wavelength-dependent transit signals and must be accounted for
+   B. To argue that stars contain the same molecules as planets
+   C. To claim that transmission spectra require imaging planets directly
+   D. To suggest that reference stars are unnecessary for calibration
 
-10. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. Heterogeneous Catalysis on Platinum Surfaces
-   B. in situ spectroscopy
-   C. rate enhancement
-   D. the length of the Nile in miles
+6. [Negative Factual] All of the following are mentioned as observational challenges EXCEPT:
+   A. detector systematics
+   B. instrument stability
+   C. stellar variability
+   D. salt efflorescence on plaster walls
+
+7. [Reference] In the passage, “the payoff” refers to:
+   A. learning about planetary composition and formation history by interpreting atmospheric spectra
+   B. catching more fish by adjusting quotas
+   C. reducing pain through placebo rituals
+   D. growing thicker basalt columns by slowing cooling
+
+8. [Organization] How is the passage primarily organized?
+   A. It explains how transmission spectra arise, then describes molecular signatures and key complications such as systematics and aerosols, and concludes with why atmospheres inform formation and evolution
+   B. It provides a chronological list of every exoplanet discovered
+   C. It argues that transits cannot reveal anything about atmospheres
+   D. It focuses only on telescope mirror polishing
+
+9. [Paraphrase] Which option best restates the role of scale height in the passage?
+   A. A hotter, lighter atmosphere extends higher and can produce larger spectral features because opacity changes occur over greater altitude ranges
+   B. Scale height refers to the star’s radius and does not affect spectra
+   C. Heavier molecules always increase feature size by making air denser
+   D. Scale height matters only for planets that are directly imaged
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Transmission spectroscopy is described as impossible because transit depth never varies with wavelength.
+   B. The passage explains that during a transit, an exoplanet’s atmosphere can cause wavelength-dependent changes in the planet’s apparent size, producing a transmission spectrum with molecular absorption patterns; it emphasizes the small signal and the need to manage instrumental and stellar systematics, notes that aerosols can flatten features and create interpretive ambiguity, and argues that atmospheric measurements can reveal physical conditions and formation histories shaped by radiation and chemistry.
+   C. Atmospheric spectra are said to be determined only by ocean swells and bird behavior.
+   D. Aerosols are claimed to always produce deeper spectral lines that uniquely identify methane.
 
 
 Answer Key
 ----------
 1: A
 2: A
-3: D
-4: C
-5: C
+3: A
+4: A
+5: A
 6: D
-7: C
-8: B
-9: B
-10: D
+7: A
+8: A
+9: A
+10: B

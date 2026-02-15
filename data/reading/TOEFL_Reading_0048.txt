@@ -1,153 +1,139 @@
-Passage 0048: Retrieval-Induced Forgetting in Memory Experiments (Psychology)
-=============================================================================
-(Word count: 792)
+Passage 0048: Lexical Tone and How Pitch Becomes Meaning in Tonal Languages (Linguistics)
+=========================================================================================
+(Word count: 612)
 
-Despite seemingly clear effect sizes, researchers found that researchers have treated
-metacognitive illusions as the decisive sign of retrieval-induced forgetting in memory
-experiments. Even though recognition tests can make the pattern look unusually sharp, the
-passage argues that such confidence is conditional and must be earned by specifying
-assumptions. the resulting debate is less about data collection than about what the data are
-evidence for; this, in turn, forces analysts to articulate boundary conditions rather than
-rely on familiar narratives. Never before the field adopted tests that manipulate or
-stratify encoding strength heterogeneity was it defensible to argue that the debate became
-empirically productive rather than merely rhetorical. by comparing cases in which
-recognition tests constrains alternatives, researchers could ask which predictions survive
-out of sample, something that is why the passage emphasizes comparative design over isolated
-exemplars. a single case can be dramatic; still, the author does not deny the value of
-striking examples, but warns against treating them as representative. In this sense,
-practice-driven suppression of competing memories is best treated as a conditional inference
-rather than as a mere label. Seldom, prior to analysts began combining recognition tests
-with cross-site comparisons, did investigators concede that claims about retrieval-induced
-forgetting in memory experiments stopped relying on a single figure and started relying on
-falsifiable predictions. [A] The discussion treats exceptions as informative, not as errors
-to be discarded. the goal was to break degeneracies in which metacognitive illusions could
-be explained in more than one way because confounders like encoding strength heterogeneity
-often co-vary with the driver, which is why replication matters. [B] The author uses the
-detour to show why a different metric would lead to a different conclusion. as the author
-notes, transparency about priors became an empirical issue rather than a stylistic choice;
-this, in turn, changes whether two analyses are actually comparable. [C] The author treats
-this as a clue rather than as a nuisance. [D] This becomes a pivot point where the earlier
-interpretation is narrowed. Working with sparse records and limited controls on encoding
-strength heterogeneity, the passage suggests many early studies framed retrieval-induced
-forgetting in memory experiments as a single-mechanism phenomenon. Whereas those studies
-emphasized metacognitive illusions as a signature invites a tidy story, later work asked
-whether the same signature survives when protocols and baselines differ forces boundary
-conditions to be stated. this shift mattered for how evidence from classroom study settings
-was generalized largely because local conditions can change which processes generate
-metacognitive illusions. The decisive factor is methodological humility; once that is
-stated, the passage presents as the lesson of retrieval-induced forgetting in memory
-experiments: inference is constrained by what competing models would also predict. If one
-wishes to move from description to explanation, a different prediction follows: then the
-same observation—metacognitive illusions—must be paired with tests that change the
-conditions under which it appears. Whereas popular summaries treat metacognitive illusions
-as an endpoint invites a tidy story, the passage treats it as a starting point for sharper
-experimental or observational contrasts forces boundary conditions to be stated. In this
-sense, retrieval-based inhibition is best treated as a conditional inference rather than as
-a mere label. Rarely has it been the case that claims about retrieval-induced forgetting in
-memory experiments stopped relying on a single figure and started relying on falsifiable
-predictions, at least before analysts began combining recognition tests with cross-site
-comparisons. the goal was to break degeneracies in which metacognitive illusions could be
-explained in more than one way largely because confounders like encoding strength
-heterogeneity often co-vary with the driver. as the author notes, transparency about priors
-became an empirical issue rather than a stylistic choice, which forces analysts to admit
-that changes whether two analyses are actually comparable. Using recognition tests under
-stable conditions, it is difficult to deny that one frequently cited case from classroom
-study settings appeared to support the direct-readout view. While it is true that the
-original fit looked visually decisive, later, however, reanalysis showed that small shifts
-in encoding strength heterogeneity altered the baseline enough to mute or mimic
-metacognitive illusions. the passage treats this episode as diagnostic, a move that
-illustrates why boundary conditions must be specified before generalization is attempted. In
-this sense, selective recall causing forgetting is best treated as a conditional inference
-rather than as a mere label. In the end, the passage concludes that the most informative
-evidence is often the evidence that forces competing assumptions into the open. by insisting
-that claims about retrieval-induced forgetting in memory experiments be conditional on
-stated priors, it turns disagreement into a tool for discovery, which forces analysts to
-admit that clarifies why the same record can yield multiple stories without implying that
-any story is arbitrary.
+In English, pitch helps signal emotion and emphasis, but it rarely changes the dictionary
+meaning of a word. In many tonal languages, by contrast, pitch contour is lexical: the same
+sequence of consonants and vowels can mean different things depending on whether the voice
+rises, falls, or stays level. Mandarin Chinese is a well-known case, with tones that can
+distinguish words such as “mother,” “hemp,” “horse,” and “to scold” in a single syllable.
+For speakers who grow up with a tonal language, pitch is not merely musical decoration; it
+is part of the word itself.
+
+How do listeners learn to treat pitch as linguistic rather than as emotional? Developmental
+evidence suggests that infants start broadly sensitive to acoustic contrasts and then tune
+perception to the categories emphasized by their environment. In tonal contexts, caregivers
+produce consistent pitch patterns, and infants learn that certain pitch shapes predict word
+identity. Over time, the brain may form categorical boundaries: a rising contour in one
+range is heard as “the same tone,” even if its exact frequency differs across speakers. [A]
+This categorical perception is efficient because it reduces continuous acoustic variation
+into discrete units that can be combined into words and phrases.
+
+Neuroscientific studies show that tonal processing engages both general auditory regions and
+language-specific networks. Pitch is first encoded in the auditory brainstem and cortex as a
+physical property, but lexical interpretation requires linking that property to stored word
+forms. For native tonal speakers, left-hemisphere language areas can show strong tone
+responses, consistent with the idea that tone has been integrated into the phonological
+system. For non-tonal speakers, tone may be processed more as melody, with greater
+involvement of right-hemisphere regions associated with music. The same sound can therefore
+be routed differently depending on linguistic experience.
+
+Learning a tonal language as an adult can be difficult, yet not impossible. Training studies
+suggest that explicit feedback and high variability input—hearing tones from many speakers,
+at many speeds—can help learners avoid tying a tone category to one speaker’s pitch range.
+Some methods pair tones with visual cues, such as arrows that trace contour, to make the
+abstract dimension more salient. Still, learners often confuse tones that share similar
+shapes, especially in rapid speech where coarticulation and intonation interact. [B] The
+challenge is that speech contains multiple pitch layers at once: a word-level tone rides on
+top of a sentence-level intonation pattern.
+
+Tone also interacts with music. Some research finds that musical training can aid tone
+learning, perhaps because musicians have practiced fine pitch discrimination. Yet the
+relationship is not straightforward. Music emphasizes relative pitch intervals, while tone
+perception often requires attention to contour and to a speaker’s pitch register. A singer
+can match a melody accurately and still misclassify lexical tones if categories are not
+learned. Conversely, tonal speakers may show advantages in certain musical tasks, though
+cultural exposure complicates interpretation.
+
+Tone languages remind us that “hearing” speech is not just acoustics. It is categorization
+guided by social and linguistic expectations. A pitch rise may sound like a question in one
+language and like a different word in another. [C] In that way, tone illustrates how the
+brain converts a physical signal into meaning by learning which dimensions matter. [D]
+
+That is why tonal perception is a bridge topic: it sits between acoustics, language
+learning, and the social environments in which children hear speech.
+
+That is why tonal perception is a bridge topic: it sits between acoustics, language
+learning, and the social environments in which children hear speech.
+
+That is why tonal perception is a bridge topic: it sits between acoustics, language
+learning, and the social environments in which children hear speech.
+
 
 Questions
 ---------
 
-1. [Inference] Which of the following can be inferred from the passage?
-   A. The author implies that the mechanism can be decided by vocabulary choices, not by tests involving pre-registered replication.
-   B. The author treats clinical populations as a special case and argues that no broader inference about retrieval-induced forgetting in memory experiments is possible.
-   C. A convincing explanation should make distinct predictions under shared protocols, especially when test expectancy effects can mimic context-dependent effects.
-   D. The argument is that boundary conditions matter only for older studies, not for modern measurements using pre-registered replication.
+1. [Vocabulary] The word “lexical” in the passage is closest in meaning to:
+   A. related to word meaning
+   B. related to muscle movement
+   C. related to weather patterns
+   D. related to chemical reactions
 
-2. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
-   A. pre-registered replication
-   B. a list of Olympic medal counts
-   C. context-dependent effects
-   D. Retrieval-Induced Forgetting in Memory Experiments
+2. [Factual] According to the passage, what is one reason categorical perception of tone is efficient?
+   A. It reduces continuous pitch variation into discrete units useful for building words and phrases
+   B. It prevents infants from hearing any pitch differences
+   C. It eliminates sentence-level intonation entirely
+   D. It makes all speakers use identical pitch frequencies
 
-3. [Sentence Simplification] Which of the following best expresses the essential information in the highlighted sentence below?
-   Sentence: by insisting that claims about retrieval-induced forgetting in memory experiments be conditional on stated priors, it turns disagreement into a tool for discovery, which forces analysts to admit that clarifies why the same record can yield multiple stories without implying that any story is arbitrary.
-   A. Aggregation guarantees that the same mechanism operates in cross-cultural replications and everywhere else.
-   B. Some summaries seem consistent because they mix incompatible cases, not because context-dependent effects uniquely identifies one mechanism.
-   C. Summaries are always reliable because averaging eliminates stress modulation of recall.
-   D. Incompatible cases should be ignored to keep an explanation based on process-dissociation procedures simple.
+3. [Inference] What can be inferred about why adult learners benefit from hearing tones from many speakers?
+   A. It helps them generalize tone categories beyond one speaker’s pitch range
+   B. It removes the need to learn vocabulary
+   C. It guarantees that intonation disappears from speech
+   D. It makes tones physically louder and easier to detect
 
-4. [Reference] In the passage, the word **This** in the sentence below refers to:
-   Sentence: [D] This becomes a pivot point where the earlier interpretation is narrowed.
-   A. the idea being discussed in the surrounding sentences
-   B. stress modulation of recall alone, treated as the sole cause
-   C. metacognitive illusions specifically, taken as an unambiguous measurement
-   D. fMRI pattern analysis as a device rather than as an analytic approach
-
-5. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
-   A. The passage claims that retrieval-based inhibition is settled because strategy shifts over trials uniquely identifies the mechanism. It argues that inhibitory control differences is merely noise and should be ignored. It concludes that a single measurement is sufficient, so further tests using fMRI pattern analysis are unnecessary.
-   B. The passage is mainly a chronological biography of researchers rather than an argument about evidence. It treats fMRI pattern analysis as a historical curiosity and does not discuss strategy shifts over trials or inhibitory control differences. It ends without any methodological implication.
-   C. The passage examines retrieval-induced forgetting in memory experiments and argues that strategy shifts over trials is not self-interpreting unless assumptions are stated explicitly. It contrasts interpretations by emphasizing how inhibitory control differences can shift the baseline, especially when evidence is drawn from laboratory paradigms. Finally, it maintains that tests combining fMRI pattern analysis with boundary-condition checks are required to make claims about practice-driven suppression of competing memories robust.
-   D. The passage argues that selective recall causing forgetting cannot be studied empirically because confounders like inhibitory control differences make data meaningless. It recommends replacing measurement with intuition and rejecting fMRI pattern analysis as unreliable. It concludes that debate persists because evidence never constrains theory.
-
-6. [Vocabulary] In the passage, the word **tentative** in the sentence below is closest in meaning to:
-   Sentence: [C] The author treats this as a clue rather than as a nuisance.
-   A. unavoidable and uncontrollable because stress modulation of recall dominates all evidence
-   B. complete and final, so no further checks like fMRI pattern analysis are needed
-   C. irrelevant to retrieval-induced forgetting in memory experiments, serving only as background detail
-   D. not certain
-
-7. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
-   Sentence to insert: In other words, the disagreement is not about whether the data exist, but about what the data are evidence for.
+4. [Sentence Insert] Where would the following sentence best fit?
+   Sentence to insert: Without such grouping, every speaker’s voice would sound like a new and unrelated set of tones.
    A. [A]
    B. [B]
    C. [C]
    D. [D]
 
-8. [Factual Information] The passage indicates that instrument calibration is important mainly because:
-   A. it prevents strategy shifts over trials from being treated as a self-interpreting fingerprint and forces tests that control inhibitory control differences
-   B. Because inhibitory control differences co-varies with the driver, the passage treats it as proof of mechanism rather than as a confounder.
-   C. The author suggests that disagreement disappears once strategy shifts over trials is detected, making model assumptions unnecessary.
-   D. The discussion indicates that replication is redundant if fMRI pattern analysis produces a tight fit on one dataset.
+5. [Negative Factual] All of the following are mentioned as issues that can complicate tone perception EXCEPT:
+   A. rapid speech with coarticulation
+   B. sentence-level intonation overlapping with word-level tone
+   C. differences in speakers’ pitch ranges
+   D. carbonation of lime plaster trapping pigment
 
-9. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
-   Table:
-   | Category | Role in inference | Typical limitation |
-   | Method | paired-associate tasks | Can introduce systematic bias |
-   | Signal | reduced recall of unpracticed items | Can vary across epochs |
-   | Confounder | test expectancy effects | Can mimic the target feature |
-   Blank: The limitation for 'Method' is ________.
-   A. It proves strategy shifts over trials is unique.
-   B. Can introduce systematic bias
-   C. It replaces paired-associate tasks with intuition.
-   D. Can mimic the target feature
+6. [Rhetorical Purpose] Why does the author compare tone processing in tonal versus non-tonal speakers?
+   A. To show that linguistic experience can change which neural networks interpret the same pitch signal
+   B. To argue that tonal speakers do not perceive music
+   C. To claim that pitch is irrelevant to language
+   D. To suggest that right-hemisphere regions cannot process sound
 
-10. [Rhetorical Purpose] The author’s discussion of an alternative hypothesis serves mainly to:
-   A. The author argues that recognition tests should be replaced by an unmodeled trend line because assumptions distort evidence.
-   B. The passage treats reduced recall of unpracticed items as a confounder and stress modulation of recall as the diagnostic signal that identifies the mechanism.
-   C. The author suggests that the key synonym 'selective recall causing forgetting' refers to a different field altogether, not to retrieval-induced forgetting in memory experiments.
-   D. motivate clearer assumptions and stronger tests, such as comparing cases where recognition tests constrains stress modulation of recall
+7. [Reference] In the passage, “the same sound” refers to:
+   A. a pitch contour that can be routed as language or as melody depending on experience
+   B. a consonant cluster that cannot be spoken
+   C. a musical instrument that changes shape
+   D. a written character on a page
+
+8. [Organization] How is the passage primarily organized?
+   A. It defines lexical tone, explains developmental tuning and categorical perception, discusses neural routing and adult learning, then examines interactions with intonation and music
+   B. It lists Mandarin vocabulary items only
+   C. It argues that tone is purely emotional and not linguistic
+   D. It focuses only on musical theory without language
+
+9. [Paraphrase] Which option best restates the claim that speech perception is “categorization guided by expectations”?
+   A. Listeners learn which acoustic dimensions carry meaning in their language and interpret sounds through those learned categories
+   B. People hear identical sounds regardless of culture
+   C. Expectations change only the loudness of speech
+   D. Categorization is irrelevant to understanding words
+
+10. [Summary] Which statement best summarizes the passage?
+   A. Tone languages use pitch only for emotion, so words never change meaning with contour.
+   B. The passage explains that in tonal languages pitch contour distinguishes word meaning, describes how infants and adults learn tone categories, shows that neural processing depends on linguistic experience, and discusses why tone learning is challenged by intonation and aided only partially by musical skill.
+   C. Adult learners cannot acquire tone categories under any conditions.
+   D. Musical training guarantees perfect tone perception in every language.
 
 
 Answer Key
 ----------
-1: C
-2: B
-3: B
+1: A
+2: A
+3: A
 4: A
-5: C
-6: D
-7: D
+5: D
+6: A
+7: A
 8: A
-9: B
-10: D
+9: A
+10: B
