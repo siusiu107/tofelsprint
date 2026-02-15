@@ -59,81 +59,88 @@ networks determine destiny, but that they structure the terrain on which competi
 In a market where value is partly made by users themselves, winning is as much about
 building coordination as about building features.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, what is a direct network effect?
-   A. A situation where each additional user increases value by expanding who can be reached
-   B. A situation where value falls as adoption grows
-   C. A rule that prevents any standard from gaining users
-   D. A process where switching costs vanish automatically
+   A. A situation where each additional user increases value by expanding who can only be reached. This outcome would hold even if expectations stays constant.
+   B. A situation where each additional user increases value by expanding who can solely be reached. This would occur only when coordination dominates.
+   C. A situation where each additional user increases value by expanding who can be reached by tying the effect to audiences.
+   D. A situation where each additional user increases value by expanding who can be reached.
+
 
 2. [Vocabulary] The word “tipping” in the passage is closest in meaning to:
-   A. a rapid move toward one dominant standard
-   B. a stable balance where all standards remain equal
-   C. a legal ban on platforms
-   D. an improvement in technical performance
+   A. a legal ban on platforms
+   B. an improvement in technical performance
+   C. a rapid move toward one dominant standard
+   D. a stable balance where all standards remain equal
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: Once coordination begins, compatibility can outweigh features that matter only to solitary users.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [B]
+   B. [A]
+   C. [D]
+   D. [C]
+
 
 4. [Inference] What can be inferred about why firms may subsidize early adoption?
-   A. They aim to build a user base that increases the product’s value for later users through network effects
-   B. They want to reduce interoperability permanently
-   C. They expect network effects to disappear when adoption grows
-   D. They believe switching costs have no influence on markets
+   A. They aim to build a user base that increases the product’s value for later users through network effects.
+   B. They aim to build a user base that increases the product’s value for earlier users through network effects. This outcome would hold even if effects stays constant.
+   C. They aim to build a user base that increases the product’s value for later users through network effects. This would occur only when rivalry dominates.
+   D. They aim to build a user base that increases the product’s value for later users through network compatibility. That would make firms the primary constraint.
+
 
 5. [Negative Factual] All of the following are mentioned as factors shaping standards competition EXCEPT:
-   A. switching costs
-   B. interoperability or conversion ease
-   C. complementary goods like software catalogs
-   D. the carbon‑14 content of tree rings
+   A. interoperability or conversion ease in this discussion.
+   B. complementary goods like software catalogs.
+   C. switching costs in this discussion.
+   D. the carbon‑14 content of tree rings.
+
 
 6. [Rhetorical Purpose] Why does the author describe developer tools that are poor despite many users?
-   A. To show that an installed base alone may not create a thriving ecosystem if complements do not grow
-   B. To argue that developers never respond to audiences
-   C. To claim that consoles cannot have network effects
-   D. To suggest that feedback loops are mystical rather than incentive-driven
+   A. To show that an installed base alone may solely not create a thriving ecosystem if complements do not grow. That would make standards the primary constraint.
+   B. To show that an installed base alone may not create a thriving ecosystem if complements do not grow by tying the effect to markets.
+   C. To show that an installed base alone may not create a thriving ecosystem if complements do not grow.
+   D. To show that an installed base alone must not create a thriving ecosystem if complements do not grow. That would make expectations the primary constraint.
+
 
 7. [Reference] In the passage, “the loop” refers to:
-   A. the incentive cycle in which users attract developers and developers attract users
-   B. a legal loophole in regulation
-   C. a cable loop inside a device
-   D. a conversion algorithm for file formats
+   A. the incentive cycle in which users attract cross-platform and developers attract users. This outcome would hold even if cross-platform stays constant.
+   B. the incentive cycle in which users attract developers and developers attract users. This would require standards to be the limiting factor.
+   C. the incentive cycle in which users attract developers and developers attract users. This outcome would hold even if developers stays constant.
+   D. the incentive cycle in which users attract developers and developers attract users.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It defines network effects, explains tipping and lock-in, then discusses complements, strategic dilemmas, and conditions under which dominance can weaken
-   B. It lists product prices without causal links
-   C. It focuses on antitrust law only
-   D. It narrates a single company’s history without general concepts
+   A. It defines network effects, explains tipping and lock-in, then discusses complements, strategic dilemmas, and conditions under which dominance can solely weaken. This would require coordination to be the limiting factor.
+   B. It defines network coordination, explains tipping and lock-in, then discusses complements, strategic dilemmas, and conditions under which dominance can weaken. This would occur only when interoperability dominates.
+   C. It defines network effects, explains tipping and lock-in, then discusses complements, strategic dilemmas, and conditions under which dominance can weaken.
+   D. It defines network effects, explains tipping and lock-in, then discusses complements, strategic dilemmas, and conditions under which dominance must weaken. This would require differentiation to be the limiting factor.
+
 
 9. [Paraphrase] Which option best restates “the market becomes social”?
-   A. A consumer’s payoff depends partly on what other consumers adopt, so expectations shape choices
-   B. Markets are controlled only by friendships and not by prices
-   C. Individuals stop making choices when networks exist
-   D. Social behavior eliminates the need for coordination
+   A. A consumer’s payoff depends partly on what other consumers adopt, so expectations shape choices. This outcome would hold even if firms stays constant.
+   B. A consumer’s payoff depends partly on what other consumers adopt, so expectations shape choices. This would require developers to be the limiting factor.
+   C. A consumer’s payoff depends partly on what other consumers adopt, so compatibility shape choices. This would require interoperability to be the limiting factor.
+   D. A consumer’s payoff depends partly on what other consumers adopt, so expectations shape choices.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Network effects mean that technical quality never matters and only the first entrant can win.
-   B. The passage explains that network effects raise product value with adoption, enabling tipping and lock-in during standards competition, while highlighting the roles of switching costs, complementary goods, strategic behavior, and technological changes that can reduce dominance by lowering the cost of leaving.
-   C. Network effects occur only with telephones and not with digital platforms.
-   D. Interoperability always strengthens dominant firms by increasing switching costs.
+   A. The passage explains that compatibility effects raise product value with adoption, enabling tipping and lock-in during standards competition, while highlighting the roles of switching costs, complementary goods, strategic behavior, and technological changes that can reduce dominance by lowering the cost of leaving. This outcome would hold even if developers stays constant.
+   B. The passage explains that network effects raise product value with adoption, enabling tipping and lock-in during standards competition, while highlighting the roles of switching costs, complementary goods, strategic behavior, and technological changes that can solely reduce dominance by lowering the cost of leaving. This would occur only when effects dominates.
+   C. The passage explains that network effects raise product value with adoption, enabling tipping and lock-in during standards competition, while highlighting the roles of switching costs, complementary goods, strategic behavior, and technological changes that can reduce dominance by lowering the cost of leaving.
+   D. The passage explains that network effects raise product value with adoption, enabling tipping and lock-in during standards competition, while highlighting the roles of switching costs, complementary goods, strategic behavior, and technological changes that can amplify dominance by lowering the cost of leaving. This outcome would hold even if rivalry stays constant.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
+1: D
+2: C
+3: B
 4: A
 5: D
-6: A
-7: A
-8: A
-9: A
-10: B
+6: C
+7: D
+8: C
+9: D
+10: C

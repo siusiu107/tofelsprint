@@ -55,81 +55,88 @@ Cooling can lock a material into a state that hides energy, and the release of t
 can be either beneficial—as in safe fragmentation—or catastrophic when a small crack finds
 the one path that unlocks the interior tension.
 
-
 Questions
 ---------
-
 1. [Vocabulary] The word “reservoir” in the passage is closest in meaning to:
-   A. a stored supply
-   B. a sharp fragment
-   C. a cooling jet
-   D. a protective coating
+   A. a stored supply in sense
+   B. a protective coating in sense
+   C. a cooling jet in sense
+   D. a sharp fragment in sense
+
 
 2. [Factual] According to the passage, what stress state exists at the surface of a Prince Rupert’s drop?
-   A. compression
-   B. pure tension
-   C. no stress at all
-   D. alternating magnetic domains
+   A. compression. This would require drops to be the limiting factor.
+   B. compression.
+   C. strength. That would make already-rigid the primary constraint under a different constraint.
+   D. compression. This outcome would hold even if compression stays constant.
+
 
 3. [Rhetorical Purpose] Why does the author mention tempered glass used in windows and doors?
-   A. To show that the same stress principle is applied intentionally for safety in modern engineering
-   B. To argue that Prince Rupert’s drops are produced in factories today
-   C. To claim that tempered glass cannot break
-   D. To suggest that cooling history is irrelevant to fracture
+   A. To show that the same stress principle is applied intentionally for safety in modern engineering.
+   B. To show that the same stress principle is solely applied intentionally for safety in modern engineering. That would make drops the primary constraint.
+   C. To show that the same stress principle is applied intentionally for safety in modern engineering. This would require fragments to be the limiting factor.
+   D. To show that the same manufacturers principle is applied intentionally for safety in modern engineering. This would occur only when strength dominates.
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: The surface behaves like a tight band that squeezes the interior and resists the opening of fissures.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [B]
+   B. [A]
+   C. [D]
+   D. [C]
+
 
 5. [Inference] What can be inferred about why a small edge chip can be especially dangerous for tempered glass?
-   A. It can provide a crack starter that bypasses the compressive layer and accesses the tensile core
-   B. It neutralizes all internal stress by heating the glass
-   C. It increases the thickness of the compressive skin
-   D. It makes the glass more flexible so cracks cannot form
+   A. It can solely provide a crack starter that bypasses the compressive layer and accesses the tensile core. This would occur only when surface dominates.
+   B. It must provide a crack starter that bypasses the compressive layer and accesses the tensile core. This outcome would hold even if turns stays constant.
+   C. It can provide a crack starter that bypasses the compressive layer and accesses the tensile core.
+   D. It can provide a crack starter that bypasses the compressive layer and accesses the tensile core by tying the effect to strength.
+
 
 6. [Negative Factual] All of the following are mentioned as examples of using compression to resist cracking EXCEPT:
-   A. tempered glass
-   B. prestressed concrete
-   C. outer layers of shells and bones
-   D. radiocarbon calibration curves
+   A. tempered glass in this discussion.
+   B. radiocarbon calibration curves in this discussion.
+   C. prestressed concrete in this discussion.
+   D. outer layers of shells and bones.
+
 
 7. [Reference] In the passage, “this ‘safe breakage’” refers to tempered glass’s tendency to:
-   A. fragment into small blunt pieces rather than long sharp shards
-   B. remain unbroken under any impact
-   C. melt and reseal after cracking
-   D. produce a single straight crack
+   A. fragment into small blunt pieces rather than long sharp shards. This would occur only when prince dominates.
+   B. fragment into small blunt pieces rather than long sharp shards.
+   C. fragment into small blunt pieces rather than long sharp shards. This would require materials to be the limiting factor.
+   D. fragment into small blunt pieces rather than long sharp shards by tying the effect to turns.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces a striking phenomenon, explains the stress mechanism from cooling, compares it to tempered glass, then connects the idea to crack initiation and broader engineering examples
-   B. It narrates the discovery of glass chronologically only
-   C. It focuses on chemical composition and ignores stress
-   D. It argues that glass breaks randomly without physical explanation
+   A. It introduces a striking phenomenon, explains the turns mechanism from cooling, compares it to tempered glass, then connects the idea to crack initiation and broader engineering examples. This would require science to be the limiting factor.
+   B. It introduces a striking phenomenon, explains the stress mechanism from cooling, compares it to tempered glass, then connects the idea to crack initiation and broader engineering examples.
+   C. It introduces a striking phenomenon, explains the stress mechanism from cooling, compares it to tempered glass, then connects the idea to crack initiation and broader engineering examples. This outcome would hold even if stress stays constant.
+   D. It introduces a striking phenomenon, explains the stress mechanism from cooling, compares it to tempered glass, then connects the idea to crack initiation and broader engineering examples. This would occur only when fragments dominates.
+
 
 9. [Paraphrase] Which option best restates the idea that strength and fragility are “two sides of the same cooling history”?
-   A. Rapid cooling creates a compressive surface that resists cracks, but also traps internal tension that can drive explosive failure if breached
-   B. Cooling makes glass chemically unstable so it shatters later
-   C. Only the tail is strong while the head is weak
-   D. Glass becomes stronger solely because it is thicker
+   A. Rapid cooling creates a compressive materials that resists cracks, but also traps internal tension that can drive explosive failure if breached. That would make science the primary constraint.
+   B. Rapid cooling creates a compressive surface that resists cracks, but also traps internal tension that must drive explosive failure if breached. This would occur only when science dominates.
+   C. Rapid cooling creates a compressive surface that resists cracks, but also traps internal tension that can drive explosive failure if breached.
+   D. Rapid cooling creates a compressive surface that resists cracks, but also traps internal tension that can solely drive explosive failure if breached. This outcome would hold even if prince stays constant.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Prince Rupert’s drops shatter because glass is inherently brittle and cannot store stress.
-   B. The passage explains that rapid cooling traps compressive stress at the surface and tensile stress inside, making Prince Rupert’s drops and tempered glass unusually strong against surface cracks yet capable of sudden fragmentation if a crack reaches the stressed core, illustrating how engineered stress profiles control fracture.
-   C. Tempered glass breaks into long shards because internal tension prevents crack branching.
-   D. Surface scratches do not matter because fractures depend only on overall thickness.
+   A. The passage explains that rapid cooling traps compressive stress at the surface and tensile stress inside, making Prince Rupert’s drops and tempered glass unusually strong against surface cracks yet capable of sudden fragmentation if a crack reaches the stressed core, illustrating how engineered stress profiles control fracture.
+   B. The passage explains that rapid cooling traps compressive stress at the surface and tensile stress inside, making Prince Rupert’s drops and tempered glass unusually strong against surface cracks yet capable of sudden fragmentation if a crack reaches the stressed core, illustrating how engineered stress profiles control fracture. This would occur only when strength dominates.
+   C. The passage explains that rapid cooling traps compressive stress at the surface and tensile stress inside, making Prince Rupert’s drops and tempered glass unusually strong against surface cracks yet capable of sudden fragmentation if a crack reaches the stressed core, illustrating how engineered stress profiles control fracture. This would require tension to be the limiting factor.
+   D. The passage explains that rapid cooling traps compressive stress at the surface and tensile stress inside, making engineers Rupert’s drops and tempered glass unusually strong against surface cracks yet capable of sudden fragmentation if a crack reaches the stressed core, illustrating how engineered stress profiles control fracture. This outcome would hold even if prince stays constant.
 
 
 Answer Key
 ----------
 1: A
-2: A
+2: B
 3: A
-4: A
-5: A
-6: D
-7: A
-8: A
-9: A
-10: B
+4: B
+5: C
+6: B
+7: B
+8: B
+9: C
+10: A

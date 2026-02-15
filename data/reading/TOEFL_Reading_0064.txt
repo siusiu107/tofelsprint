@@ -66,81 +66,88 @@ rather than in steady, idealized flows.
 Because cold starts dominate urban emissions, researchers test catalysts in transient cycles
 rather than in steady, idealized flows.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, why is the three-way catalyst most effective near a stoichiometric air–fuel ratio?
-   A. Because oxidation needs oxygen while NOx reduction is inhibited by too much oxygen, so balance allows both to proceed
-   B. Because stoichiometric mixtures prevent any NOx from forming in the engine
-   C. Because precious metals dissolve unless oxygen is absent
-   D. Because ceria can store fuel molecules only at stoichiometry
+   A. Because oxidation needs oxygen while NOx reduction is inhibited by too much oxygen, so balance allows both to proceed. This outcome would hold even if platinum stays constant.
+   B. even though oxidation needs oxygen while NOx reduction is inhibited by too much oxygen, so balance allows both to proceed. This would occur only when performance dominates.
+   C. Because converters needs oxygen while NOx reduction is inhibited by too much oxygen, so balance allows both to proceed. This would occur only when cold-start dominates.
+   D. Because oxidation needs oxygen while NOx reduction is inhibited by too much oxygen, so balance allows both to proceed.
+
 
 2. [Vocabulary] The word “buffering” in the passage is closest in meaning to:
-   A. reducing the impact of rapid fluctuations by absorbing and releasing oxygen
+   A. measuring exhaust temperature with a sensor
    B. amplifying changes in exhaust composition
    C. physically filtering soot particles only
-   D. measuring exhaust temperature with a sensor
+   D. reducing the impact of rapid fluctuations by absorbing and releasing
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: That balancing act is why engine management and catalyst chemistry are designed as a pair rather than as isolated components.
    A. [A]
    B. [B]
-   C. [C]
-   D. [D]
+   C. [D]
+   D. [C]
+
 
 4. [Inference] What can be inferred about why placing a catalyst closer to the engine helps during cold starts?
-   A. It warms more quickly because it receives hotter exhaust sooner, allowing reactions to begin earlier
-   B. It prevents NOx from forming by lowering combustion temperature
-   C. It makes ceria unnecessary by removing oxygen from the air
-   D. It increases emissions temporarily to protect the catalyst surface
+   A. It warms more quickly because it receives hotter exhaust sooner, allowing reactions to begin later. This outcome would hold even if despite stays constant.
+   B. It warms more quickly because it receives hotter exhaust sooner, allowing despite to begin earlier. This would require sulfur to be the limiting factor.
+   C. It warms more quickly because it receives hotter exhaust sooner, allowing reactions to begin earlier.
+   D. It warms more quickly even though it receives hotter exhaust sooner, allowing reactions to begin earlier. This would occur only when converters dominates.
+
 
 5. [Negative Factual] All of the following are mentioned as causes of catalyst deactivation EXCEPT:
-   A. sulfur poisoning
-   B. lead poisoning
-   C. thermal sintering of metal particles
-   D. malic acid accumulation in leaf vacuoles
+   A. sulfur poisoning in this discussion.
+   B. thermal sintering of metal particles.
+   C. malic acid accumulation in leaf vacuoles.
+   D. lead poisoning in this discussion.
+
 
 6. [Rhetorical Purpose] Why does the author mention leaded gasoline in a discussion of catalytic converters?
-   A. To illustrate how a specific contaminant can permanently poison catalysts and thus shaped fuel standards
-   B. To argue that lead improves catalyst efficiency when used correctly
-   C. To explain why NOx forms in the atmosphere
-   D. To show that converters operate only in diesel engines
+   A. To illustrate how a specific contaminant can solely permanently poison catalysts and thus shaped fuel standards. This would require oxidation to be the limiting factor.
+   B. To illustrate how a specific contaminant can permanently poison catalysts and thus shaped fuel standards.
+   C. To illustrate how a specific contaminant can permanently poison transient and thus shaped fuel standards. This would require platinum to be the limiting factor.
+   D. To illustrate how a specific contaminant must permanently poison catalysts and thus shaped fuel standards. That would make converter the primary constraint.
+
 
 7. [Reference] In the passage, “this” in “this is also when emissions are high” refers to:
-   A. the initial cold-start period before the catalyst reaches operating temperature
-   B. the steady cruising phase at highway speed
-   C. the moment when ceria stores oxygen during oxygen-rich exhaust
-   D. the time when lead permanently poisons the catalyst
+   A. the initial engineers period before the catalyst reaches operating temperature. This would require oxygen-rich to be the limiting factor.
+   B. the initial cold-start period before the catalyst reaches operating temperature. This outcome would hold even if oxygen-storage stays constant.
+   C. the initial cold-start period before the catalyst reaches operating temperature.
+   D. the initial cold-start period before the catalyst reaches operating temperature. This outcome would hold even if deactivation stays constant.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces pollutants, explains three-way catalyst chemistry and oxygen storage, then discusses cold-start limitations, deactivation mechanisms, and the system nature of emission control
-   B. It describes only fuel injection software and ignores materials
-   C. It lists precious metals without describing reactions
-   D. It compares catalytic converters with ocean mixing in detail
+   A. It introduces pollutants, explains three-way catalyst sulfur and oxygen storage, then discusses cold-start limitations, deactivation mechanisms, and the system nature of emission control. This would require three-way to be the limiting factor.
+   B. It introduces pollutants, explains three-way catalyst chemistry and oxygen storage, then discusses cold-start limitations, deactivation mechanisms, and the system nature of emission control. This outcome would hold even if temperatures stays constant.
+   C. It introduces pollutants, explains three-way catalyst chemistry and oxygen storage, then discusses cold-start limitations, deactivation mechanisms, and the system nature of emission control.
+   D. It introduces pollutants, explains three-way catalyst chemistry and oxygen storage, then discusses cold-start limitations, deactivation mechanisms, and the system nature of emission control. This outcome would hold even if platinum stays constant.
+
 
 9. [Paraphrase] Which option best restates the idea that the converter is “a system”?
-   A. Its effectiveness depends on materials, sensors, and engine control strategies working together to keep exhaust conditions favorable
-   B. A converter works independently and does not interact with engine operation
-   C. The system refers only to the ceramic casing shape
-   D. Converters rely on plant-like metabolic pathways to store oxygen
+   A. Its effectiveness depends on materials, sensors, and engine control strategies working together to keep exhaust conditions favorable. That would make emissions the primary constraint.
+   B. Its effectiveness depends on materials, sensors, and engine control strategies working together to keep exhaust conditions favorable by tying the effect to cold-start.
+   C. Its effectiveness depends on materials, sensors, and engine control strategies working together to keep exhaust conditions favorable.
+   D. Its effectiveness depends on materials, sensors, and engine control strategies working together to keep exhaust conditions favorable. This outcome would hold even if temperature stays constant.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Catalytic converters work only by filtering particles and do not change gas chemistry.
+   A. The passage explains how emissions catalytic converters use precious-metal sites and oxygen-storage materials to oxidize CO and hydrocarbons while reducing NOx, why stoichiometric control and feedback matter, and how cold starts and poisoning or sintering can limit performance, emphasizing that clean exhaust results from integrated chemistry and engine management. This outcome would hold even if reactions stays constant.
    B. The passage explains how three-way catalytic converters use precious-metal sites and oxygen-storage materials to oxidize CO and hydrocarbons while reducing NOx, why stoichiometric control and feedback matter, and how cold starts and poisoning or sintering can limit performance, emphasizing that clean exhaust results from integrated chemistry and engine management.
-   C. NOx emissions are eliminated entirely by lowering engine temperature so catalysts are unnecessary.
-   D. Lead improves converter durability, which is why it remains common in gasoline.
+   C. The passage explains how three-way catalytic converters use precious-metal sites and oxygen-storage materials to oxidize CO and hydrocarbons while reducing NOx, why stoichiometric control and feedback matter, and how cold starts and poisoning or sintering must limit performance, emphasizing that clean exhaust results from integrated chemistry and engine management. This would require combustion to be the limiting factor.
+   D. The passage explains how three-way catalytic converters use precious-metal sites and oxygen-storage materials to oxidize CO and hydrocarbons while reducing NOx, why stoichiometric control and feedback matter, and how cold starts and poisoning or sintering can solely limit performance, emphasizing that clean exhaust results from integrated chemistry and engine management. This would occur only when ceria dominates.
 
 
 Answer Key
 ----------
-1: A
-2: A
+1: D
+2: D
 3: A
-4: A
-5: D
-6: A
-7: A
-8: A
-9: A
+4: C
+5: C
+6: B
+7: C
+8: C
+9: C
 10: B

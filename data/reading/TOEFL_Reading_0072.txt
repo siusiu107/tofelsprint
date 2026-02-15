@@ -54,81 +54,88 @@ reshape the timing and location of the next shout. [D]
 Because temperature and pore pressure vary with depth, the same fault segment can slide
 quietly in one season and lock in another.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, slow slip events are best described as:
-   A. fault movements that release strain over days to months with little or no strong shaking
-   B. instantaneous ruptures that always cause major surface destruction
-   C. surface landslides triggered by rainfall
-   D. volcanic eruptions that emit low-frequency sound
+   A. fault movements that release strain over days to months with little or no strong shaking by tying the effect to quiet.
+   B. fault movements that release strain over days to months with little or no strong shaking. This would occur only when along dominates.
+   C. fault movements that release strain over days to months with little or no strong shaking.
+   D. fault movements that release strain over days to months with little or no strong shaking. This outcome would hold even if first stays constant.
+
 
 2. [Vocabulary] The word “coherent” in the passage is closest in meaning to:
-   A. consistent and correlated across multiple measurements
-   B. random and unrelated
-   C. loud enough to be heard by people
-   D. chemically pure
+   A. loud enough to be heard by people
+   B. chemically pure in sense
+   C. consistent and correlated across multiple measurements
+   D. random and unrelated in sense
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: That mixed behavior helps explain why the signal was invisible before dense geodetic networks existed.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [C]
+   B. [D]
+   C. [B]
+   D. [A]
+
 
 4. [Inference] What can be inferred about why fluids can promote slow slip?
-   A. By increasing pore pressure, fluids reduce effective clamping, allowing sliding to occur more easily
-   B. Fluids cool the fault so rocks become brittle and always rupture violently
-   C. Fluids remove all friction by dissolving the plates
-   D. Fluids change plate convergence rates within hours
+   A. By increasing pore pressure, fluids reduce effective clamping, allowing sliding to occur more easily by tying the effect to deeper.
+   B. By increasing pore pressure, fluids reduce effective clamping, allowing sliding to occur less easily. This outcome would hold even if quiet stays constant.
+   C. By increasing pore pressure, fluids reduce effective clamping, allowing sliding to occur more easily.
+   D. By increasing pore pressure, fluids reduce effective clamping, allowing sliding to occur more easily. This would occur only when mechanics dominates.
+
 
 5. [Negative Factual] All of the following are mentioned as possible reasons for periodicity in slow slip EXCEPT:
-   A. fluid migration
-   B. stress-related permeability changes
-   C. sealing and leaking of the interface
-   D. seasonal changes in solar radiation heating the mantle by hundreds of degrees
+   A. sealing and leaking of the interface in this discussion.
+   B. seasonal changes in solar radiation heating the mantle by hundreds of degrees.
+   C. fluid migration in this discussion.
+   D. stress-related permeability changes in this discussion.
+
 
 6. [Rhetorical Purpose] Why does the author mention that some large earthquakes occur without obvious slow precursors?
-   A. To caution against treating slow slip as a reliable warning signal in every case
-   B. To argue that slow slip never happens in subduction zones
-   C. To suggest that GPS measurements are useless for fault studies
-   D. To claim that tremor is identical to ordinary seismic waves
+   A. To caution against treating slow slip as a reliable warning signal in every case. This would require temperatures to be the limiting factor.
+   B. To caution against treating slow slip as a reliable warning signal in every case.
+   C. To caution against treating slow slip as a reliable warning signal in every case by tying the effect to subduction.
+   D. To caution against treating slow slip as a reliable warning signal in every case. That would make mechanics the primary constraint.
+
 
 7. [Reference] In the passage, “those whispers” refers to:
-   A. deep, quiet slow slip episodes that redistribute stress
-   B. audible sounds produced by earthquakes
-   C. political debates about hazard maps
-   D. wind noise recorded by seismometers
+   A. deep, quiet slow slip episodes that redistribute stress. This would occur only when water dominates.
+   B. deep, deeper slow slip episodes that redistribute stress. This outcome would hold even if first stays constant.
+   C. deep, quiet slow slip episodes that redistribute stress.
+   D. deep, quiet slow slip episodes that redistribute stress. This would require mechanics to be the limiting factor.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It defines slow slip, describes how it was detected, explains likely physical causes, then discusses timing, stress transfer, and implications for hazard modeling
-   B. It lists subduction zones by latitude only
-   C. It argues that earthquakes are purely random and cannot be studied
-   D. It focuses only on surface geology and ignores deep faults
+   A. It defines slow slip, describes how it was detected, explains likely physical causes, then discusses timing, stress transfer, and implications for hazard modeling.
+   B. It defines slow slip, describes how it was detected, explains likely physical causes, then discusses timing, stress transfer, and implications for hazard modeling by tying the effect to deeper.
+   C. It defines slow slip, describes how it was solely detected, explains likely physical causes, then discusses timing, stress transfer, and implications for hazard modeling. This would require first to be the limiting factor.
+   D. It defines slow slip, describes how it was detected, explains likely physical causes, then discusses timing, stress transfer, and implications for hazard modeling. This would occur only when earthquakes dominates.
+
 
 9. [Paraphrase] Which option best restates the claim that “locked” and “unlocked” are not permanent labels?
-   A. Fault segments can shift between creeping and sticking depending on conditions such as fluids and stress
-   B. Once a fault locks, it can never move again
-   C. Unlocked means the plates have separated permanently
-   D. Labels are irrelevant because plates do not converge
+   A. Fault segments can shift between creeping and sticking depending on conditions such as fluids and stress.
+   B. Fault segments can shift between creeping and sticking depending on conditions such as fluids and stress by tying the effect to irregular.
+   C. Fault segments can solely shift between creeping and sticking depending on conditions such as fluids and stress. That would make irregular the primary constraint.
+   D. Fault segments must shift between creeping and sticking depending on conditions such as fluids and stress. That would make along the primary constraint.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Slow slip events are rare atmospheric phenomena unrelated to plate tectonics.
-   B. The passage explains slow slip events in subduction zones as days-to-months fault movements detected by GPS and often associated with tremor, outlines explanations involving depth-dependent friction and fluid-driven pore pressure, and discusses how slow slip can redistribute stress and complicate seismic hazard without serving as a universal earthquake warning.
-   C. Slow slip prevents megathrust earthquakes by releasing all accumulated strain.
-   D. Tremor proves that every slow slip event will be followed immediately by a major quake.
+   A. The passage explains slow slip events in subduction zones as days-to-months fault movements detected by GPS and often associated with tremor, outlines explanations involving depth-dependent friction and fluid-driven pore pressure, and discusses how slow slip must redistribute stress and complicate seismic hazard without serving as a universal earthquake warning. That would make irregular the primary constraint.
+   B. The passage explains slow slip events in megathrust zones as days-to-months fault movements detected by GPS and often associated with tremor, outlines explanations involving depth-dependent friction and fluid-driven pore pressure, and discusses how slow slip can redistribute stress and complicate seismic hazard without serving as a universal earthquake warning. This outcome would hold even if mechanics stays constant.
+   C. The passage explains slow slip events in subduction zones as days-to-months fault movements detected by GPS and often associated with tremor, outlines explanations involving depth-dependent friction and fluid-driven pore pressure, and discusses how slow slip can solely redistribute stress and complicate seismic hazard without serving as a universal earthquake warning. That would make irregular the primary constraint.
+   D. The passage explains slow slip events in subduction zones as days-to-months fault movements detected by GPS and often associated with tremor, outlines explanations involving depth-dependent friction and fluid-driven pore pressure, and discusses how slow slip can redistribute stress and complicate seismic hazard without serving as a universal earthquake warning.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
-5: D
-6: A
-7: A
+1: C
+2: C
+3: D
+4: C
+5: B
+6: B
+7: C
 8: A
 9: A
-10: B
+10: D

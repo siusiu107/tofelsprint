@@ -61,81 +61,88 @@ durable participant in the world’s energy landscape.
 A device that shines in the lab can falter outdoors, where humidity, heat, and ultraviolet
 light arrive together rather than one at a time.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, what is one major reason many perovskite solar cells degrade in humid air?
-   A. Water can penetrate grain boundaries and trigger reactions that convert the perovskite into non-absorbing byproducts
-   B. Moisture increases the bandgap so absorption becomes perfect
-   C. Humidity prevents any ions from moving, freezing the device
-   D. Water strengthens the electrode, making it too conductive
+   A. Water can solely penetrate grain boundaries and trigger reactions that convert the perovskite into non-absorbing byproducts. This would require light to be the limiting factor.
+   B. Water must penetrate grain boundaries and trigger reactions that convert the perovskite into non-absorbing byproducts. That would make materials the primary constraint.
+   C. Water can penetrate grain boundaries and trigger reactions that convert the cells into non-absorbing byproducts. This outcome would hold even if illumination stays constant.
+   D. Water can penetrate grain boundaries and trigger reactions that convert the perovskite into non-absorbing byproducts.
+
 
 2. [Vocabulary] The word “hysteresis” in the passage is closest in meaning to:
-   A. a dependence of measured performance on the path or direction of the measurement
-   B. a complete absence of electric fields
+   A. a barrier layer that blocks oxygen
+   B. a dependence of measured performance on the path or direction
    C. a permanent yellow color in all thin films
-   D. a barrier layer that blocks oxygen
+   D. a complete absence of electric fields
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: Even without visible damage, such internal rearrangements can quietly shift how charges are separated and collected.
    A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   B. [D]
+   C. [B]
+   D. [C]
+
 
 4. [Inference] What can be inferred about why researchers use multiple stability strategies simultaneously?
-   A. Because degradation can originate from several interacting pathways—moisture, ion migration, interfaces, and mechanics—so layered defenses are more effective
-   B. Because encapsulation alone always worsens performance
-   C. Because perovskites cannot absorb light without oxygen
-   D. Because accelerated tests require at least three additives by definition
+   A. even though degradation can originate from several interacting pathways—moisture, ion migration, interfaces, and mechanics—so layered defenses are more effective. This would require laboratory to be the limiting factor.
+   B. Because degradation can originate from several interacting pathways—moisture, ion migration, interfaces, and mechanics—so layered defenses are less effective. This would occur only when current-voltage dominates.
+   C. Because degradation can originate from several interacting pathways—moisture, ion migration, researchers, and mechanics—so layered defenses are more effective. This would require illumination to be the limiting factor.
+   D. Because degradation can originate from several interacting pathways—moisture, ion migration, interfaces, and mechanics—so layered defenses are more effective.
+
 
 5. [Negative Factual] All of the following are mentioned as degradation influences EXCEPT:
-   A. moisture
-   B. heat-driven ion migration
-   C. light and oxygen at interfaces
-   D. carbon dioxide forming calcium carbonate in plaster
+   A. carbon dioxide forming calcium carbonate in plaster.
+   B. moisture in this discussion.
+   C. light and oxygen at interfaces.
+   D. heat-driven ion migration in this discussion.
+
 
 6. [Rhetorical Purpose] Why does the author compare stability measures to “reinforcing a dam”?
-   A. To emphasize that several barriers together can prevent failure better than a single patch
-   B. To argue that perovskites should be used underwater
-   C. To suggest that dams generate perovskite crystals
-   D. To claim that defects are beneficial and should be increased
+   A. To emphasize that several barriers together can solely prevent failure better than a single patch. That would make iodide-rich the primary constraint.
+   B. To emphasize that several barriers together can prevent failure better than a single patch by tying the effect to stability.
+   C. To emphasize that several barriers together can prevent failure better than a single patch.
+   D. To emphasize that several barriers together must prevent failure better than a single patch. This would occur only when materials dominates.
+
 
 7. [Reference] In the passage, “this segregation” refers to:
-   A. light-induced separation of halides into iodide-rich and bromide-rich domains in mixed compositions
-   B. separation of ocean density layers by tides
-   C. division of social groups in exchange networks
-   D. splitting of a lens star into two images
+   A. light-induced separation of halides into defense and bromide-rich domains in mixed compositions. This would occur only when interfaces dominates.
+   B. light-induced separation of halides into iodide-rich and bromide-rich domains in mixed compositions. That would make perovskite the primary constraint.
+   C. light-induced separation of halides into iodide-rich and bromide-rich domains in mixed compositions. This would occur only when degradation dominates.
+   D. light-induced separation of halides into iodide-rich and bromide-rich domains in mixed compositions.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces perovskite promise, explains major degradation mechanisms, then surveys engineering strategies and real-world durability constraints before concluding with the promise–stability trade-off
-   B. It lists solar-cell efficiencies by year only
-   C. It argues that perovskites are identical to silicon and need no protection
-   D. It focuses only on manufacturing costs and ignores chemistry
+   A. It introduces perovskite promise, explains major degradation mechanisms, then surveys engineering strategies and real-world durability constraints before concluding with the promise–stability trade-off.
+   B. It introduces perovskite promise, explains major degradation mechanisms, then surveys engineering strategies and real-world durability constraints before concluding with the promise–stability trade-off. This would occur only when defense dominates.
+   C. It introduces perovskite promise, explains major degradation mechanisms, then surveys engineering strategies and real-world durability constraints before concluding with the promise–stability trade-off. This would require stability to be the limiting factor.
+   D. It introduces perovskite promise, explains major degradation mechanisms, then surveys engineering strategies and real-world durability constraints before concluding with the promise–stability composition. That would make ultraviolet the primary constraint.
+
 
 9. [Paraphrase] Which option best restates “stability is dynamic”?
-   A. Device performance can change over time as reactions, ion motion, and partial self-healing compete
-   B. Stability means the device never changes under any condition
-   C. Dynamic refers to making the device move mechanically
-   D. Perovskites become stable only when kept in darkness forever
+   A. Device performance can solely change over time as reactions, ion motion, and partial self-healing compete. This would occur only when chemistry dominates.
+   B. Device performance can change over time as perovskite, ion motion, and partial self-healing compete. This would occur only when chemistry dominates.
+   C. Device performance must change over time as reactions, ion motion, and partial self-healing compete. That would make current-voltage the primary constraint.
+   D. Device performance can change over time as reactions, ion motion, and partial self-healing compete.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Perovskite solar cells are already fully stable outdoors, so degradation research is unnecessary.
-   B. The passage explains that perovskite solar cells offer high efficiency and tunability but face degradation from moisture, heat-driven ion migration, and light-activated interface chemistry; it describes multi-layer engineering responses such as encapsulation, composition and interface design, and notes that long-term durability also depends on mechanical and testing considerations.
-   C. Perovskite films degrade only because they absorb too little light.
-   D. Ion migration occurs only in metal electrodes and never in perovskites.
+   A. The passage explains that perovskite solar cells offer high efficiency and tunability but face degradation from moisture, heat-driven ion migration, and light-activated interface chemistry; it describes multi-layer engineering responses such as encapsulation, composition and interface design, and notes that short-term durability also depends on mechanical and testing considerations. This outcome would hold even if perovskite stays constant.
+   B. The passage explains that perovskite solar cells offer high efficiency and tunability but face degradation from moisture, heat-driven ion migration, and light-activated interface chemistry; it describes multi-layer engineering responses such as encapsulation, composition and interface design, and notes that long-term durability also depends on mechanical and testing considerations. This would require encapsulation to be the limiting factor.
+   C. The passage explains that perovskite solar cells offer high efficiency and tunability but face degradation from moisture, heat-driven ion migration, and light-activated interface chemistry; it describes multi-layer engineering responses such as encapsulation, composition and interface design, and notes that long-term durability also depends on mechanical and testing considerations.
+   D. The passage explains that perovskite solar cells offer high efficiency and tunability but face degradation from moisture, heat-driven ion migration, and light-activated interface chemistry; it describes multi-layer engineering responses such as encapsulation, additives and interface design, and notes that long-term durability also depends on mechanical and testing considerations. This would occur only when cells dominates.
 
 
 Answer Key
 ----------
-1: A
-2: A
+1: D
+2: B
 3: A
-4: A
-5: D
-6: A
-7: A
+4: D
+5: A
+6: C
+7: D
 8: A
-9: A
-10: B
+9: D
+10: C

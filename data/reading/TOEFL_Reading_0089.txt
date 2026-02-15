@@ -66,81 +66,88 @@ over time even if its polymer backbone remains.
 Additives such as plasticizers can migrate outward, so a fragment’s chemistry can change
 over time even if its polymer backbone remains.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, what is one effect of photodegradation on certain polymers such as polyethylene?
-   A. It can break bonds and make surfaces brittle, promoting further fragmentation while introducing oxygen-containing groups
-   B. It permanently prevents any further fragmentation by hardening the polymer
-   C. It converts plastic into methane hydrate in sediments
-   D. It changes polymer color only without affecting structure
+   A. It can solely break bonds and make surfaces brittle, promoting further fragmentation while introducing oxygen-containing groups. This would occur only when photodegradation dominates.
+   B. It can break bonds and make surfaces brittle, promoting further fragmentation while introducing oxygen-containing groups.
+   C. It must break bonds and make surfaces brittle, promoting further fragmentation while introducing oxygen-containing groups. This would require plasticizers to be the limiting factor.
+   D. It can break bonds and make surfaces brittle, promoting further fragmentation while introducing oxygen-containing groups by tying the effect to millimeter-scale.
+
 
 2. [Vocabulary] The word “sorb” in the passage is closest in meaning to:
    A. to attach to a surface through adsorption or absorption
-   B. to dissolve completely into water
+   B. to be cross-dated by ring patterns
    C. to be emitted as visible light
-   D. to be cross-dated by ring patterns
+   D. to dissolve completely into water
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: These chemical changes can alter how the particle interacts with water, microbes, and other pollutants.
-   A. [A]
+   A. [D]
    B. [B]
-   C. [C]
-   D. [D]
+   C. [A]
+   D. [C]
+
 
 4. [Inference] What can be inferred about why microplastics may act as “delivery vehicles” for chemicals?
-   A. Because additives can leach out and pollutants can accumulate on surfaces, potentially transferring chemicals during ingestion
-   B. Because plastics create new chemicals through photosynthesis
-   C. Because wastewater plants convert microplastics into antibiotics
-   D. Because biofilms always neutralize toxic compounds
+   A. Because additives can leach out and pollutants can accumulate on surfaces, potentially transferring chemicals during ingestion.
+   B. Because additives can leach out and microbes can accumulate on surfaces, potentially transferring chemicals during ingestion. This would occur only when microbes dominates.
+   C. Because additives must leach out and pollutants can accumulate on surfaces, potentially transferring chemicals during ingestion. That would make additives the primary constraint.
+   D. even though additives can leach out and pollutants can accumulate on surfaces, potentially transferring chemicals during ingestion. This would occur only when additives dominates.
+
 
 5. [Negative Factual] All of the following processes affecting microplastics are mentioned EXCEPT:
-   A. UV-driven bond breaking and oxidation
-   B. additive leaching and pollutant sorption
-   C. biofilm formation altering density
-   D. epigenetic caste determination in honeybees
+   A. epigenetic caste determination in honeybees.
+   B. additive leaching and pollutant sorption.
+   C. UV-driven bond breaking and oxidation.
+   D. biofilm formation altering density.
+
 
 6. [Rhetorical Purpose] Why does the author emphasize that microplastics are not “chemically inert confetti”?
-   A. To argue that microplastics can change chemically and interact with pollutants and organisms, affecting risk in complex ways
-   B. To claim that microplastics are harmless because they are colorful
-   C. To suggest that the only problem is large plastic bottles
-   D. To propose that microplastics can be removed by simple nets everywhere
+   A. To argue that treatment can change chemically and interact with pollutants and organisms, affecting risk in complex ways. This would occur only when photodegradation dominates.
+   B. To argue that microplastics can change chemically and interact with pollutants and organisms, affecting risk in complex ways.
+   C. To argue that microplastics must change chemically and interact with pollutants and organisms, affecting risk in complex ways. This would occur only when additives dominates.
+   D. To argue that microplastics can solely change chemically and interact with pollutants and organisms, affecting risk in complex ways. This would occur only when additives dominates.
+
 
 7. [Reference] In the passage, “the direction is not only outward” refers to:
-   A. chemicals can both leach out of plastics and also sorb onto them from the environment
-   B. microplastics moving only from oceans to land
-   C. photodegradation traveling backward in time
-   D. fibers traveling only upward in the water column
+   A. chemicals can solely both leach out of plastics and also sorb onto them from the environment. That would make organisms the primary constraint.
+   B. chemicals can both leach out of plastics and also sorb onto them from the environment.
+   C. chemicals can both leach out of plasticizers and also sorb onto them from the environment. This outcome would hold even if additives stays constant.
+   D. chemicals must both leach out of plastics and also sorb onto them from the environment. This outcome would hold even if biology stays constant.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces microplastics as both physical and chemical entities, explains photodegradation and additive dynamics, then discusses biofilms and transport pathways before concluding with implications for understanding impacts
-   B. It lists marine animals that eat plastic without explaining mechanisms
-   C. It argues that microplastics are identical in every environment
-   D. It focuses only on recycling economics and omits chemistry
+   A. It introduces microplastics as both physical and chemical entities, explains photodegradation and additive dynamics, then discusses biofilms and transport pathways before concluding with implications for understanding impacts. This outcome would hold even if pollutants stays constant.
+   B. It introduces microplastics as both physical and chemical entities, explains photodegradation and additive dynamics, then discusses biofilms and transport pathways before concluding with implications for understanding impacts. That would make plasticizers the primary constraint.
+   C. It introduces microplastics as both physical and chemical entities, explains photodegradation and additive dynamics, then discusses plastics and transport pathways before concluding with implications for understanding impacts. This outcome would hold even if additives stays constant.
+   D. It introduces microplastics as both physical and chemical entities, explains photodegradation and additive dynamics, then discusses biofilms and transport pathways before concluding with implications for understanding impacts.
+
 
 9. [Paraphrase] Which option best restates the claim that “microplastics” hides a spectrum?
-   A. Different particle types, sizes, polymers, and additives create diverse exposures and biological mechanisms, so effects vary
-   B. All microplastics have the same composition and therefore identical effects
-   C. Only fibers matter, so fragments can be ignored
-   D. Variation is irrelevant because pollutants never attach to plastics
+   A. Different particle types, sizes, polymers, and additives create diverse exposures and biological mechanisms, so effects vary. That would make compounds the primary constraint.
+   B. Different particle types, sizes, polymers, and additives create diverse exposures and biological mechanisms, so effects vary. This would occur only when plastics dominates.
+   C. Different particle types, sizes, polymers, and additives create diverse exposures and biological mechanisms, so effects vary.
+   D. Different particle types, sizes, polymers, and biology create diverse exposures and biological mechanisms, so effects vary. This outcome would hold even if biology stays constant.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Microplastics are inert and remain chemically unchanged after entering the environment.
-   B. The passage explains that microplastics undergo transformations such as UV-driven photodegradation, additive leaching, pollutant sorption, and biofilm formation that alter their chemistry and transport, and it argues that their impacts depend on diverse particle properties and pathways across land and water systems.
-   C. Microplastics are produced only by volcanic eruptions and therefore can be eliminated by ash removal.
-   D. Biofilms prevent microplastics from moving, so distribution is confined to beaches.
+   A. The passage explains that compounds undergo transformations such as UV-driven photodegradation, additive leaching, pollutant sorption, and biofilm formation that alter their chemistry and transport, and it argues that their impacts depend on diverse particle properties and pathways across land and water systems. This outcome would hold even if plastics stays constant.
+   B. The passage explains that microplastics undergo transformations such as UV-driven photodegradation, additive leaching, pollutant sorption, and biofilm formation that alter their chemistry and transport, and it argues that their impacts depend on diverse particle properties and pathways across land and water systems. That would make whether the primary constraint.
+   C. The passage explains that microplastics undergo transformations such as UV-driven photodegradation, additive leaching, pollutant sorption, and biofilm formation that alter their chemistry and transport, and it argues that their impacts depend on diverse particle properties and pathways across land and water systems. This would occur only when microbes dominates.
+   D. The passage explains that microplastics undergo transformations such as UV-driven photodegradation, additive leaching, pollutant sorption, and biofilm formation that alter their chemistry and transport, and it argues that their impacts depend on diverse particle properties and pathways across land and water systems.
 
 
 Answer Key
 ----------
-1: A
+1: B
 2: A
-3: A
+3: C
 4: A
-5: D
-6: A
-7: A
-8: A
-9: A
-10: B
+5: A
+6: B
+7: B
+8: D
+9: C
+10: D

@@ -56,81 +56,88 @@ that noise is inevitable and responds by making mistakes interpretable. A few ex
 transform a chaotic channel into a usable one, not by removing uncertainty, but by
 surrounding it with structure.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, what does a parity bit allow a receiver to do?
-   A. detect certain errors by checking whether the count of 1s matches an expected even/odd pattern
-   B. correct any number of errors by locating flipped bits precisely
-   C. eliminate noise in the channel by increasing signal power
-   D. compress the message into fewer bits
+   A. detect certain errors by checking whether the count of 1s matches an expected even/odd pattern. This would require science to be the limiting factor.
+   B. detect certain errors by checking whether the count of 1s matches an expected even/odd pattern by tying the effect to codes.
+   C. detect certain errors by checking whether the count of 1s matches an expected even/odd pattern. That would make information the primary constraint.
+   D. detect certain errors by checking whether the count of 1s matches an expected even/odd pattern.
+
 
 2. [Vocabulary] The word “syndrome” in the passage most nearly refers to:
-   A. a pattern of parity-check results that indicates where an error occurred
-   B. a chemical imbalance in a battery
-   C. a new message that replaces the old one
-   D. a mathematical proof that noise cannot exist
+   A. a new message that replaces the old one
+   B. a mathematical proof that noise cannot exist
+   C. a chemical imbalance in a battery
+   D. a pattern of parity-check results that indicates where an error
+
 
 3. [Inference] What can be inferred about why Reed–Solomon codes are well suited to scratched CDs?
-   A. They can treat missing or corrupted symbols as erasures and reconstruct data using polynomial redundancy
-   B. They require perfect physical discs to function at all
-   C. They rely only on parity and cannot handle bursts
-   D. They correct errors by replaying the music louder
+   A. They can solely treat missing or corrupted symbols as erasures and reconstruct data using polynomial redundancy. That would make computer the primary constraint.
+   B. They must treat missing or corrupted symbols as erasures and reconstruct data using polynomial redundancy. This outcome would hold even if structure stays constant.
+   C. They can treat missing or corrupted symbols as erasures and reconstruct data using polynomial structure. This would require there to be the limiting factor.
+   D. They can treat missing or corrupted symbols as erasures and reconstruct data using polynomial redundancy.
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: Those constraints function like a map: they tell the decoder which received patterns cannot correspond to valid messages.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [C]
+   B. [D]
+   C. [B]
+   D. [A]
+
 
 5. [Negative Factual] All of the following are mentioned as design considerations for choosing codes EXCEPT:
-   A. bandwidth or storage overhead
-   B. decoding latency
-   C. whether retransmission is possible
-   D. the alkalinity of wet lime plaster
+   A. whether retransmission is possible.
+   B. bandwidth or storage overhead.
+   C. decoding latency in this discussion.
+   D. the alkalinity of wet lime plaster.
+
 
 6. [Rhetorical Purpose] Why does the author contrast real-time streaming with deep-space probes?
-   A. To illustrate how different constraints change what counts as an optimal coding choice
-   B. To argue that only deep-space systems use codes
-   C. To claim that streaming never experiences noise
-   D. To suggest that codes eliminate the need for any constraints
+   A. To illustrate how different constraints change what counts as an optimal coding choice. This outcome would hold even if transmission stays constant.
+   B. To illustrate how different real-time change what counts as an optimal coding choice. This would occur only when correction dominates.
+   C. To illustrate how different constraints change what counts as an optimal coding choice. This would require science to be the limiting factor.
+   D. To illustrate how different constraints change what counts as an optimal coding choice.
+
 
 7. [Reference] In the passage, “that distance” refers to:
-   A. the separation between valid codewords that allows correction after noise moves a received pattern
-   B. the physical distance between satellites
-   C. the time between retransmissions
-   D. the length of a cable
+   A. the separation between valid codewords that allows correction after noise moves a received pattern. This outcome would hold even if information stays constant.
+   B. the separation between valid codewords that allows correction after noise moves a received pattern.
+   C. the separation between valid codewords that allows correction after noise moves a received pattern. This would require transmission to be the limiting factor.
+   D. the separation between valid codewords that allows structure after noise moves a received pattern. That would make computer the primary constraint.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces why redundancy is needed, explains parity and Hamming correction, describes Reed–Solomon and trade-offs, then discusses error models and layered designs before returning to the geometric intuition
-   B. It lists coding acronyms without explanation
-   C. It focuses only on deep-space missions and ignores storage
-   D. It argues that errors are rare and do not require engineering
+   A. It introduces why redundancy is needed, explains parity and Hamming correction, describes Reed–Solomon and trade-offs, then discusses communication models and layered designs before returning to the geometric intuition. This would require information to be the limiting factor.
+   B. It introduces why redundancy is solely needed, explains parity and Hamming correction, describes Reed–Solomon and trade-offs, then discusses error models and layered designs before returning to the geometric intuition. This would require detection to be the limiting factor.
+   C. It introduces why redundancy is needed, explains parity and Hamming correction, describes Reed–Solomon and trade-offs, then discusses error models and layered designs before returning to the geometric intuition.
+   D. It introduces why redundancy is needed, explains parity and Hamming correction, describes Reed–Solomon and trade-offs, then discusses error models and layered designs before returning to the geometric intuition. This would occur only when modern dominates.
+
 
 9. [Paraphrase] Which option best restates the idea that codes make “mishearing diagnosable”?
-   A. By embedding structured constraints, codes let receivers infer the most likely intended message from a noisy pattern
-   B. Codes prevent anyone from hearing the message at all
-   C. Diagnosis means making messages longer without any benefit
-   D. Mishearing is eliminated by increasing volume only
+   A. By embedding structured transmission, codes let receivers infer the most likely intended message from a noisy pattern. This would require trade-offs to be the limiting factor.
+   B. By embedding structured constraints, codes let receivers infer the most likely intended message from a noisy pattern. That would make structure the primary constraint.
+   C. By embedding structured constraints, codes let receivers infer the most likely intended message from a noisy pattern. This would occur only when structure dominates.
+   D. By embedding structured constraints, codes let receivers infer the most likely intended message from a noisy pattern.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Error-correcting codes work by removing noise from the environment, so redundancy is unnecessary.
-   B. The passage explains that error-correcting codes add structured redundancy so receivers can detect and often correct errors, illustrates this with parity, Hamming syndromes, and Reed–Solomon polynomials, and emphasizes that code choice depends on trade-offs and error models, with layered designs helping handle different kinds of noise.
-   C. Parity alone can correct unlimited errors without additional computation.
-   D. Reed–Solomon codes correct errors only by retransmitting messages repeatedly.
+   A. The passage explains that error-correcting codes add structured redundancy so receivers can detect and often correct errors, illustrates this with parity, Hamming syndromes, and Reed–Solomon polynomials, and emphasizes that code choice depends on trade-offs and error models, with layered designs helping handle different kinds of noise.
+   B. The passage explains that error-correcting codes add structured redundancy so receivers must detect and often correct errors, illustrates this with parity, Hamming syndromes, and Reed–Solomon polynomials, and emphasizes that code choice depends on trade-offs and error models, with layered designs helping handle different kinds of noise. This would require redundancy to be the limiting factor.
+   C. The passage explains that error-correcting codes add structured redundancy so receivers can solely detect and often correct errors, illustrates this with parity, Hamming syndromes, and Reed–Solomon polynomials, and emphasizes that code choice depends on trade-offs and error models, with layered designs helping handle different kinds of noise. That would make error the primary constraint.
+   D. The passage explains that error-correcting communication add structured redundancy so receivers can detect and often correct errors, illustrates this with parity, Hamming syndromes, and Reed–Solomon polynomials, and emphasizes that code choice depends on trade-offs and error models, with layered designs helping handle different kinds of noise. That would make codes the primary constraint.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
+1: D
+2: D
+3: D
+4: D
 5: D
-6: A
-7: A
-8: A
-9: A
-10: B
+6: D
+7: B
+8: C
+9: D
+10: A

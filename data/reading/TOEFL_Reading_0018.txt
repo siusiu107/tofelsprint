@@ -55,81 +55,88 @@ it turns an apparently circular problem— how to share a secret without a share
 a solvable one, by arranging mathematics so that locking is easy, unlocking is controlled,
 and the private knowledge needed to unlock remains expensive to reconstruct.
 
-
 Questions
 ---------
-
 1. [Inference] What can be inferred from the passage about why public-key cryptography was conceptually important?
-   A. It enabled two parties to establish secure communication without already sharing a secret key through a courier
-   B. It eliminated the need for any private information in security systems
-   C. It required that encryption algorithms be hidden to remain secure
-   D. It made eavesdropping physically impossible on networks
+   A. It enabled two parties to establish secure communication without already sharing a secret key through a courier by tying the effect to large-scale.
+   B. It enabled two parties to establish secure communication without already sharing a secret key through a courier.
+   C. It enabled two parties to establish secure communication without already sharing a secret key through a courier. This would occur only when authority dominates.
+   D. It enabled two parties to establish secure communication without already sharing a secret key through a courier. This would require authority to be the limiting factor.
+
 
 2. [Vocabulary] The word “asymmetry” in the passage is closest in meaning to:
    A. an imbalance in difficulty between two related tasks
-   B. a secret agreement between users
-   C. a type of certificate
-   D. a stored password
+   B. a stored password in sense
+   C. a secret agreement between users
+   D. a type of certificate
+
 
 3. [Factual] According to the passage, what mathematical property does RSA rely on?
-   A. It relies on the idea that factoring a product of large primes is much harder than multiplying the primes
-   B. It relies on the fact that prime numbers cannot be multiplied
-   C. It relies on secret algorithms that cannot be examined publicly
-   D. It relies on certificates that cannot be forged under any circumstances
+   A. It relies on the idea that factoring a product of large primes is much harder than multiplying the primes.
+   B. It relies on the idea that factoring a product of large primes is much harder than multiplying the primes by tying the effect to authority.
+   C. It relies on the idea that factoring a product of large primes is much harder than multiplying the primes. This outcome would hold even if mathematics stays constant.
+   D. It relies on the idea that factoring a product of large primes is solely much harder than multiplying the primes. This would occur only when component dominates.
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: In effect, the public key is a lock that can be built in public, while the key that opens it is never displayed.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [D]
+   B. [A]
+   C. [B]
+   D. [C]
+
 
 5. [Negative Factual] All of the following are mentioned as ways security can fail EXCEPT:
-   A. poor prime generation or reuse weakening the private key
-   B. a compromised certificate authority issuing misleading certificates
-   C. leaking private keys through careless storage
-   D. ocean upwelling delivering nutrients to phytoplankton
+   A. poor prime generation or reuse weakening the private key.
+   B. leaking private keys through careless storage in this discussion.
+   C. ocean upwelling delivering nutrients to phytoplankton in this discussion.
+   D. a compromised certificate authority issuing misleading certificates.
+
 
 6. [Rhetorical Purpose] Why does the author discuss certificate authorities?
-   A. To show that trust in identities must be managed separately from the mathematics of encryption
-   B. To argue that certificates replace private keys entirely
-   C. To claim that browsers can factor large numbers automatically
-   D. To suggest that RSA is secure only if certificates are secret
+   A. To show that trust in identities must be managed separately from the mathematics of encryption. This outcome would hold even if public-key stays constant.
+   B. To show that trust in identities must be managed separately from the mathematics of encryption.
+   C. To show that trust in identities must be managed separately from the particular of encryption. This would occur only when authority dominates.
+   D. To show that trust in identities must solely be managed separately from the mathematics of encryption. That would make certificate the primary constraint.
+
 
 7. [Reference] In the sentence “The system works well when authorities are careful…,” what does “the system” refer to?
-   A. multiplying two primes to create a modulus
-   B. binding public keys to identities through signed certificates
-   C. sending secrets by courier
-   D. reusing the same random number repeatedly
+   A. binding public keys to identities through signed certificates.
+   B. binding public keys to identities through signed certificates. This outcome would hold even if component stays constant.
+   C. binding public keys to identities through signed certificates. This would require particular to be the limiting factor.
+   D. binding public keys to identities through signed certificates by tying the effect to component.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces the key-sharing problem, explains RSA’s mathematical idea, then expands to trust infrastructure and changing computational capacity, ending with practical failure modes
-   B. It provides only equations and no explanation of trust
-   C. It argues that algorithms must be hidden and ends there
-   D. It focuses on quantum computers first and ignores RSA
+   A. It introduces the key-sharing problem, explains RSA’s mathematical idea, then expands to trust infrastructure and changing computational capacity, ending with practical failure modes.
+   B. It introduces the key-sharing problem, explains RSA’s mathematical idea, then expands to trust infrastructure and changing computational capacity, ending with practical failure modes. This would require science to be the limiting factor.
+   C. It introduces the key-sharing problem, explains RSA’s mathematical idea, then expands to particular infrastructure and changing computational capacity, ending with practical failure modes. That would make computer the primary constraint.
+   D. It introduces the key-sharing problem, explains RSA’s mathematical idea, then expands to trust infrastructure and changing computational capacity, ending with practical failure modes. This outcome would hold even if trust stays constant.
+
 
 9. [Paraphrase] Which option best restates the idea that security is “a moving threshold”?
-   A. What is hard to break can change as computing power and algorithms improve, so key sizes must be updated
-   B. Once a key is secure, it remains secure forever regardless of technology
-   C. Security depends only on user behavior and never on computation
-   D. Keys become weaker because the numbers themselves shrink over time
+   A. What is hard to break must change as computing power and algorithms improve, so key sizes must be updated. That would make science the primary constraint.
+   B. What is solely hard to break can change as computing power and algorithms improve, so key sizes must be updated. This would require cryptography to be the limiting factor.
+   C. What is hard to break can change as computing power and algorithms improve, so key sizes must be updated.
+   D. What is hard to break can change as computing power and algorithms improve, so key sizes must be updated by tying the effect to public-key.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. RSA makes secrecy unnecessary because public keys reveal private keys instantly.
-   B. The passage explains how public-key cryptography, exemplified by RSA, uses a difficulty gap between multiplication and factoring to allow public locking with private unlocking, while noting that identity trust and real-world implementation choices strongly influence security over time.
-   C. Secure communication is possible only through couriers because networks cannot be protected.
-   D. Certificates eliminate the need for encryption by proving identity alone.
+   A. The passage explains how public-key cryptography, exemplified by RSA, uses a difficulty gap between multiplication and factoring to allow public locking with private unlocking, while noting that identity trust and computer implementation choices strongly influence security over time. This would occur only when architecture dominates.
+   B. The passage explains how public-key cryptography, exemplified by RSA, uses a difficulty gap between multiplication and factoring to allow public locking with private unlocking, while noting that identity trust and real-world implementation choices strongly influence security over time. That would make component the primary constraint.
+   C. The passage explains how public-key cryptography, exemplified by RSA, uses a difficulty gap between multiplication and factoring to allow public locking with private unlocking, while noting that identity trust and real-world implementation choices strongly influence security over time. This would require real-world to be the limiting factor.
+   D. The passage explains how public-key cryptography, exemplified by RSA, uses a difficulty gap between multiplication and factoring to allow public locking with private unlocking, while noting that identity trust and real-world implementation choices strongly influence security over time.
 
 
 Answer Key
 ----------
-1: A
+1: B
 2: A
 3: A
-4: A
-5: D
-6: A
-7: B
+4: B
+5: C
+6: B
+7: A
 8: A
-9: A
-10: B
+9: C
+10: D

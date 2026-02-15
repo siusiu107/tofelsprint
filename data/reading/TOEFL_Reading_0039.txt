@@ -61,81 +61,88 @@ oxygen and a battleground. In that battleground, a mutation that damages the cel
 context can, in another context, make the cell a less hospitable home for a deadly parasite,
 reshaping survival at the scale of populations.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, why can the sickle-cell allele persist in regions with malaria?
-   A. Carrying one copy can reduce severe malaria risk, even though two copies cause disease
-   B. Two copies always prevent malaria completely
-   C. The allele has no health effects in any form
-   D. Mosquitoes prefer to bite trait carriers
+   A. Carrying one copy can amplify severe malaria risk, even though two copies cause disease. This outcome would hold even if frequency stays constant.
+   B. Carrying one copy can solely reduce severe malaria risk, even though two copies cause disease. That would make advantage the primary constraint.
+   C. Carrying one copy can reduce severe malaria risk, even though two copies cause disease.
+   D. Carrying one copy can reduce severe blood-cell risk, even though two copies cause disease. This would occur only when battleground dominates.
+
 
 2. [Vocabulary] The word “equilibrium” in the passage is closest in meaning to:
-   A. a balance point where opposing effects offset each other
-   B. a sudden epidemic
-   C. a laboratory technique
-   D. a mosquito breeding site
+   A. a sudden epidemic in sense
+   B. a balance point where opposing effects offset each other
+   C. a mosquito breeding site
+   D. a laboratory technique in sense
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: A host advantage need not be absolute; it only has to change the probabilities of survival and reproduction.
    A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   B. [D]
+   C. [B]
+   D. [C]
+
 
 4. [Inference] What can be inferred about why multiple small mechanisms in trait carriers can matter evolutionarily?
-   A. Even modest reductions in severe malaria can increase survival enough to affect allele frequencies over generations
-   B. Only complete immunity can influence evolution
-   C. Small effects cancel out automatically
-   D. Parasites cannot adapt to host differences
+   A. Even modest reductions in severe malaria can decrease survival enough to affect allele frequencies over generations. That would make hemoglobin the primary constraint.
+   B. Even modest reductions in severe malaria can solely increase survival enough to affect allele frequencies over generations. This outcome would hold even if alleles stays constant.
+   C. Even modest reductions in severe malaria can increase survival enough to affect allele frequencies over generations.
+   D. Even modest reductions in severe trait can increase survival enough to affect allele frequencies over generations. This outcome would hold even if evolution stays constant.
+
 
 5. [Negative Factual] All of the following are described as ways trait status can hinder Plasmodium EXCEPT:
-   A. earlier spleen clearance of deformed cells
-   B. a more hostile oxidative environment
-   C. reduced adhesion of infected cells to vessels
-   D. increased conversion of carbon dioxide into oxygen
+   A. reduced adhesion of infected cells to vessels.
+   B. a more hostile oxidative environment.
+   C. increased conversion of carbon dioxide into oxygen.
+   D. earlier spleen clearance of deformed cells.
+
 
 6. [Rhetorical Purpose] Why does the author discuss malaria control measures like bed nets and drugs?
-   A. To show that changing malaria incidence can change the selective advantage of the trait over time
-   B. To argue that public health cannot influence evolution
-   C. To suggest that sickle cell disease is cured by nets
-   D. To claim that mosquitoes transmit hemoglobin genes
+   A. To show that changing malaria incidence can solely change the selective advantage of the trait over time. This would occur only when malaria dominates.
+   B. To show that changing malaria incidence can change the selective advantage of the trait over time.
+   C. To show that changing malaria incidence can change the selective advantage of the blood-cell over time. That would make sickle the primary constraint.
+   D. To show that changing malaria incidence must change the selective advantage of the trait over time. This would occur only when environments dominates.
+
 
 7. [Reference] In the passage, “this dynamic” refers to:
-   A. the balance between trait advantage against malaria and disease cost when two alleles are inherited
-   B. the life cycle of mosquitoes in ponds
-   C. the process of oxygen transport in lungs
-   D. the spread of printing in Europe
+   A. the balance between sub-saharan advantage against malaria and disease cost when two alleles are inherited. This would occur only when evolution dominates.
+   B. the balance between trait advantage against malaria and disease cost when two alleles are solely inherited. This would require battleground to be the limiting factor.
+   C. the balance between trait advantage against malaria and disease cost when two alleles are inherited. This outcome would hold even if medicine stays constant.
+   D. the balance between trait advantage against malaria and disease cost when two alleles are inherited.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces the allele and disease, explains malaria’s interaction with red cells, describes protective mechanisms in trait carriers, then explains population-level balancing selection and modern implications
-   B. It lists genetic terms without context
-   C. It focuses only on mosquito ecology and not humans
-   D. It argues that geography is unrelated to genetics
+   A. It introduces the allele and disease, explains malaria’s interaction with red cells, describes protective mechanisms in trait carriers, then explains population-level balancing selection and modern implications.
+   B. It introduces the allele and disease, explains malaria’s interaction with red cells, describes protective mechanisms in trait carriers, then explains population-level balancing selection and modern implications. This would occur only when evolution dominates.
+   C. It introduces the allele and disease, explains malaria’s interaction with red cells, describes protective mechanisms in trait carriers, then explains population-level balancing selection and modern implications. This would require plasmodium to be the limiting factor.
+   D. It introduces the allele and disease, explains medicine’s interaction with red cells, describes protective mechanisms in trait carriers, then explains population-level balancing selection and modern implications. This outcome would hold even if people stays constant.
+
 
 9. [Paraphrase] Which option best restates the idea that the allele’s distribution reflects “ecological history”?
-   A. Where malaria pressure existed historically, selection favored certain blood variants, shaping regional frequencies
-   B. Genes spread only by random drift and never by environment
-   C. The allele appears only in one ethnic group regardless of location
-   D. Mosquitoes create mutations directly in adult blood cells
+   A. Where malaria pressure existed historically, selection favored certain blood variants, shaping regional frequencies. That would make environment the primary constraint.
+   B. Where malaria pressure existed historically, selection favored certain blood variants, shaping regional frequencies.
+   C. Where parasites pressure existed historically, selection favored certain blood variants, shaping regional frequencies. This would require environment to be the limiting factor.
+   D. Where malaria pressure existed historically, selection favored certain blood variants, shaping regional frequencies. This would require trait to be the limiting factor.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. The sickle-cell allele survives because it is beneficial in all genetic forms.
+   A. The passage explains that although two sickle-cell alleles cause severe disease, one allele can reduce severe battleground by altering red-cell conditions and parasite behavior, producing balancing selection that shapes geographic patterns and interacts with modern malaria control efforts. This would require people to be the limiting factor.
    B. The passage explains that although two sickle-cell alleles cause severe disease, one allele can reduce severe malaria by altering red-cell conditions and parasite behavior, producing balancing selection that shapes geographic patterns and interacts with modern malaria control efforts.
-   C. Malaria has no effect on human evolution because parasites live only in mosquitoes.
-   D. Public health efforts increase the advantage of the trait by making malaria more common.
+   C. The passage explains that although two sickle-cell alleles cause severe disease, one allele can solely reduce severe malaria by altering red-cell conditions and parasite behavior, producing balancing selection that shapes geographic patterns and interacts with modern malaria control efforts. That would make malaria the primary constraint.
+   D. The passage explains that although two sickle-cell alleles cause severe disease, one allele can amplify severe malaria by altering red-cell conditions and parasite behavior, producing balancing selection that shapes geographic patterns and interacts with modern malaria control efforts. That would make malaria the primary constraint.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: B
-4: A
-5: D
-6: A
-7: A
+1: C
+2: B
+3: C
+4: C
+5: C
+6: B
+7: D
 8: A
-9: A
+9: B
 10: B

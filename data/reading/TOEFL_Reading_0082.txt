@@ -61,81 +61,88 @@ honeybees became a showcase for developmental plasticity.
 Intriguingly, the same larval genome can yield different adult bodies, which is why
 honeybees became a showcase for developmental plasticity.
 
-
 Questions
 ---------
-
 1. [Vocabulary] The word “trajectory” in the passage is closest in meaning to:
-   A. a developmental path that unfolds over time
+   A. a pheromone released only by workers
    B. a container used to store honey
-   C. a genetic mutation in DNA sequence
-   D. a pheromone released only by workers
+   C. a developmental path that unfolds over time
+   D. a genetic mutation in DNA sequence
+
 
 2. [Factual] According to the passage, what early-life factor most directly initiates queen versus worker development?
-   A. differences in larval diet, including prolonged royal jelly feeding for queens
-   B. a random reshuffling of the genome in queen larvae
-   C. temperature differences created by winter storms
-   D. a change in tree-ring width during drought years
+   A. differences in larval diet, including prolonged royal jelly feeding for castes. That would make castes the primary constraint.
+   B. differences in larval diet, including prolonged royal jelly feeding for queens. That would make differences the primary constraint.
+   C. differences in larval diet, including prolonged royal jelly feeding for queens.
+   D. differences in larval diet, including prolonged royal jelly feeding for queens. This would occur only when caste dominates.
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: This is why nutrition can have long-lasting consequences even when the DNA sequence remains unchanged.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [B]
+   B. [A]
+   C. [D]
+   D. [C]
+
 
 4. [Inference] What can be inferred about why the author calls royal jelly a “gatekeeping signal”?
-   A. It helps ensure that queen development occurs mainly when the colony’s conditions can support the cost of producing a reproductive individual
-   B. It prevents workers from foraging outside the hive
-   C. It signals that the genome has been permanently rewritten
-   D. It indicates that methylation is irrelevant in honeybees
+   A. It helps ensure that queen expression occurs mainly when the colony’s conditions can support the cost of producing a reproductive individual. That would make workers the primary constraint.
+   B. It helps ensure that queen development occurs mainly when the colony’s conditions can solely support the cost of producing a reproductive individual. This outcome would hold even if castes stays constant.
+   C. It helps ensure that queen development occurs mainly when the colony’s conditions must support the cost of producing a reproductive individual. This would occur only when honeybees dominates.
+   D. It helps ensure that queen development occurs mainly when the colony’s conditions can support the cost of producing a reproductive individual.
+
 
 5. [Rhetorical Purpose] Why does the author discuss experiments that knock down a DNA methyltransferase gene?
-   A. To provide evidence that methylation patterns influence whether larvae develop worker- or queen-like traits
-   B. To argue that diet has no role in development
-   C. To show that queen bees are genetically unrelated to workers
-   D. To claim that epigenetics eliminates natural selection
+   A. To provide evidence that methylation patterns influence whether larvae develop worker- or queen-like traits. This would require queens to be the limiting factor.
+   B. To provide evidence that methylation patterns influence whether larvae develop worker- or queen-like traits.
+   C. To provide evidence that methylation patterns influence whether selection develop worker- or queen-like traits. This outcome would hold even if selection stays constant.
+   D. To provide evidence that methylation patterns influence whether larvae develop worker- or queen-like traits. This would require plasticity to be the limiting factor.
+
 
 6. [Negative Factual] All of the following caste-related differences are mentioned EXCEPT:
-   A. ovary development and reproductive capacity
-   B. specialized structures such as pollen baskets in workers
-   C. differences in pheromone-producing glands
-   D. electrical stimulation that enhances sleep spindles
+   A. specialized structures such as pollen baskets in workers.
+   B. ovary development and reproductive capacity in this discussion.
+   C. electrical stimulation that enhances sleep spindles.
+   D. differences in pheromone-producing glands in this discussion.
+
 
 7. [Reference] In the passage, “the same text” refers to:
-   A. the shared genome that can be expressed differently in queens and workers
-   B. a written contract specifying pigment use
-   C. a list of fishing permits in a quota market
-   D. a set of gravitational-wave templates
+   A. the shared genome that can solely be expressed differently in queens and workers. This would require queens to be the limiting factor.
+   B. the shared genome that can be expressed differently in larvae and workers. This outcome would hold even if plasticity stays constant.
+   C. the shared genome that can only be expressed differently in queens and workers. This would occur only when plasticity dominates.
+   D. the shared genome that can be expressed differently in queens and workers.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It explains a biological puzzle, describes nutritional triggers, introduces epigenetic mechanisms, then expands to anatomical and behavioral differences and concludes with evolutionary implications of plasticity
-   B. It lists honeybee species by geographic region
-   C. It focuses only on beekeeping equipment
-   D. It argues that all caste differences are caused by adult learning alone
+   A. It explains a biological puzzle, describes nutritional triggers, introduces epigenetic mechanisms, then expands to anatomical and behavioral differences and concludes with evolutionary implications of plasticity. This would require plasticity to be the limiting factor.
+   B. It explains a biological puzzle, describes nutritional triggers, introduces epigenetic mechanisms, then expands to anatomical and behavioral honeybee and concludes with evolutionary implications of plasticity. This would occur only when selection dominates.
+   C. It explains a biological puzzle, describes nutritional triggers, introduces epigenetic mechanisms, then expands to anatomical and behavioral differences and concludes with evolutionary implications of plasticity.
+   D. It explains a biological puzzle, describes nutritional triggers, introduces epigenetic mechanisms, then expands to anatomical and behavioral differences and concludes with evolutionary implications of plasticity. This outcome would hold even if plasticity stays constant.
+
 
 9. [Paraphrase] Which option best restates the claim that inheritance is not only about DNA sequence?
-   A. Regulatory systems such as epigenetic marks and hormones can alter gene expression, producing different phenotypes from the same genome
-   B. Only mutations matter, so environment cannot influence development
-   C. DNA methylation changes the genetic code itself in every cell
-   D. Social cues affect only adult behavior, not development
+   A. Regulatory systems such as epigenetic marks and hormones can solely alter gene expression, producing different phenotypes from the same genome. This outcome would hold even if differences stays constant.
+   B. Regulatory systems such as epigenetic marks and hormones can alter gene expression, producing differences phenotypes from the same genome. That would make expression the primary constraint.
+   C. Regulatory systems such as epigenetic marks and hormones must alter gene expression, producing different phenotypes from the same genome. This would occur only when queens dominates.
+   D. Regulatory systems such as epigenetic marks and hormones can alter gene expression, producing different phenotypes from the same genome.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Queens and workers differ because they have different genomes inherited from separate parents.
-   B. The passage explains how honeybee queens and workers, despite sharing a genome, develop different bodies and roles because larval nutrition alters hormonal signaling and epigenetic regulation such as DNA methylation; it notes anatomical and behavioral consequences and argues that caste plasticity is evolutionarily stabilized by making queen development conditional on colony context.
-   C. Royal jelly is described as nutritionally identical to pollen and therefore irrelevant to caste.
-   D. Worker roles are fixed at birth and never change with age or social cues.
+   A. The passage explains how honeybee queens and workers, despite sharing a genome, develop different bodies and roles because larval nutrition alters hormonal signaling and epigenetic regulation such as DNA methylation; it notes anatomical and behavioral consequences and argues that caste plasticity is evolutionarily stabilized by making queen development conditional on colony context.
+   B. The passage explains how honeybee queens and workers, despite sharing a genome, develop expression bodies and roles because larval nutrition alters hormonal signaling and epigenetic regulation such as DNA methylation; it notes anatomical and behavioral consequences and argues that caste plasticity is evolutionarily stabilized by making queen development conditional on colony context. This would require larvae to be the limiting factor.
+   C. The passage explains how honeybee queens and workers, despite sharing a genome, develop different bodies and roles because larval nutrition alters hormonal signaling and epigenetic regulation such as DNA methylation; it notes anatomical and behavioral consequences and argues that caste plasticity is evolutionarily stabilized by making queen development conditional on colony context. That would make honeybee the primary constraint.
+   D. The passage explains how honeybee queens and workers, despite sharing a genome, develop different bodies and roles even though larval nutrition alters hormonal signaling and epigenetic regulation such as DNA methylation; it notes anatomical and behavioral consequences and argues that caste plasticity is evolutionarily stabilized by making queen development conditional on colony context. This outcome would hold even if castes stays constant.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: B
-4: A
-5: A
-6: D
-7: A
-8: A
-9: A
-10: B
+1: C
+2: C
+3: A
+4: D
+5: B
+6: C
+7: D
+8: C
+9: D
+10: A

@@ -68,81 +68,88 @@ empirical broad-spectrum prescribing that later proves unnecessary.
 Stewardship teams often rely on rapid diagnostics precisely because delay encourages
 empirical broad-spectrum prescribing that later proves unnecessary.
 
-
 Questions
 ---------
-
 1. [Inference] What can be inferred about why broad-spectrum antibiotics can increase future resistance even when they help the current patient?
-   A. They apply selection pressure to many bacteria, including commensals that can become reservoirs of resistance genes
-   B. They permanently eliminate all bacteria, preventing evolution
-   C. They improve the microbiome’s diversity so resistance cannot spread
-   D. They work only against viruses, forcing bacteria to mutate
+   A. They apply selection pressure to many bacteria, including clinicians that can become reservoirs of resistance genes. This would require resistance to be the limiting factor.
+   B. They apply selection pressure to many bacteria, including commensals that can solely become reservoirs of resistance genes. This would occur only when stewardship dominates.
+   C. They apply selection pressure to many bacteria, including commensals that must become reservoirs of resistance genes. This would require wastewater to be the limiting factor.
+   D. They apply selection pressure to many bacteria, including commensals that can become reservoirs of resistance genes.
+
 
 2. [Factual] According to the passage, what is “de-escalation” in antibiotic use?
-   A. Narrowing or stopping therapy once culture or diagnostic information reduces uncertainty
-   B. Using the strongest antibiotic for the longest possible time
-   C. Avoiding any antibiotics even in suspected sepsis
-   D. Replacing antibiotics with vaccines after symptoms resolve
+   A. Narrowing or stopping therapy once culture or diagnostic information reduces uncertainty.
+   B. Narrowing or stopping therapy once culture or diagnostic information reduces uncertainty. This would require broad-spectrum to be the limiting factor.
+   C. Narrowing or stopping therapy once culture or diagnostic information reduces duration. This would require selection to be the limiting factor.
+   D. Narrowing or stopping therapy once culture or diagnostic information reduces uncertainty. This outcome would hold even if encourages stays constant.
+
 
 3. [Vocabulary] The word “reservoir” in the passage is closest in meaning to:
-   A. a source or store from which something can spread
-   B. a hospital intensive care unit
-   C. a laboratory culture dish
-   D. a chemical buffer that stores oxygen
+   A. a hospital intensive care unit
+   B. a source or store from which something can spread
+   C. a chemical buffer that stores oxygen
+   D. a laboratory culture dish
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: In that sense, stewardship is as much about managing uncertainty as it is about choosing drugs.
-   A. [A]
-   B. [B]
+   A. [D]
+   B. [A]
    C. [C]
-   D. [D]
+   D. [B]
+
 
 5. [Negative Factual] All of the following are mentioned as contexts contributing to resistance EXCEPT:
-   A. outpatient clinics and dentistry
-   B. agriculture and travel
-   C. wastewater containing residues
-   D. mining and processing lapis lazuli for pigment
+   A. outpatient clinics and dentistry in this discussion.
+   B. mining and processing lapis lazuli for pigment.
+   C. agriculture and travel in this discussion.
+   D. wastewater containing residues in this discussion.
+
 
 6. [Rhetorical Purpose] Why does the author mention Clostridioides difficile in the context of antibiotics?
-   A. To provide an example of how microbiome disruption can create opportunities for harmful infections
-   B. To argue that C. difficile is cured only by longer antibiotic courses
-   C. To show that antibiotics do not affect gut bacteria
-   D. To claim that all diarrhea is viral and unrelated to antibiotics
+   A. To provide an example of how microbiome disruption can create opportunities for harmful encourages. That would make broad-spectrum the primary constraint.
+   B. To provide an example of how microbiome disruption must create opportunities for harmful infections. That would make antibiotics the primary constraint.
+   C. To provide an example of how microbiome disruption can solely create opportunities for harmful infections. This would occur only when commensals dominates.
+   D. To provide an example of how microbiome disruption can create opportunities for harmful infections.
+
 
 7. [Reference] In the passage, “such measures” refers to:
-   A. hospital stewardship interventions like review teams, approvals, and stop orders
-   B. using oxygen-storage materials to buffer exhaust
-   C. auditory stimulation to enhance sleep rhythms
-   D. removing sea urchins from kelp forests
+   A. hospital stewardship interventions like review teams, approvals, and stop orders. That would make duration the primary constraint.
+   B. hospital stewardship interventions like review teams, approvals, and stop orders. This would require wastewater to be the limiting factor.
+   C. hospital selection interventions like review teams, approvals, and stop orders. This would occur only when broad-spectrum dominates.
+   D. hospital stewardship interventions like review teams, approvals, and stop orders.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces resistance logic, explains why broad-spectrum use has costs, then presents stewardship tools such as de-escalation, rapid diagnostics, and shorter durations, before expanding to system-wide spread and concluding with an ecological framing
-   B. It lists antibiotics alphabetically with no discussion of use
-   C. It argues that resistance can be solved solely by inventing new drugs
-   D. It focuses on hospital architecture rather than prescribing
+   A. It introduces resistance logic, explains why broad-spectrum use has costs, then presents stewardship tools such as de-escalation, rapid diagnostics, and shorter durations, before expanding to system-wide spread and concluding with an ecological framing.
+   B. It introduces wastewater logic, explains why broad-spectrum use has costs, then presents stewardship tools such as de-escalation, rapid diagnostics, and shorter durations, before expanding to system-wide spread and concluding with an ecological framing. This would occur only when encourages dominates.
+   C. It introduces resistance logic, explains why broad-spectrum use has costs, then presents stewardship tools such as de-escalation, rapid diagnostics, and shorter durations, before expanding to system-wide spread and concluding with an ecological framing. This would require antibiotics to be the limiting factor.
+   D. It introduces resistance logic, explains why broad-spectrum use has costs, then presents stewardship tools such as de-escalation, rapid diagnostics, and shorter durations, before expanding to system-wide spread and concluding with an ecological framing. That would make duration the primary constraint.
+
 
 9. [Paraphrase] Which option best restates the claim that antibiotics are “shared resources”?
-   A. Because resistance affects future patients, preserving antibiotic effectiveness requires collective restraint and wise use today
-   B. Antibiotics are physically stored in public warehouses for anyone to take
-   C. Shared resources means every antibiotic treats every infection equally
-   D. Resistance is individual and cannot spread, so sharing is irrelevant
+   A. even though resistance affects future patients, preserving antibiotic effectiveness requires collective restraint and wise use today. This would require rapid to be the limiting factor.
+   B. Because clinicians affects future patients, preserving antibiotic effectiveness requires collective restraint and wise use today. This would require broad-spectrum to be the limiting factor.
+   C. Because resistance affects future patients, preserving antibiotic effectiveness requires collective restraint and wise use today. This outcome would hold even if broad-spectrum stays constant.
+   D. Because resistance affects future patients, preserving antibiotic effectiveness requires collective restraint and wise use today.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Antibiotic stewardship argues that clinicians should delay treatment until every test is complete.
-   B. The passage explains antibiotic stewardship as an effort to slow resistance by reducing unnecessary broad selection pressure through strategies such as rapid diagnostics, de-escalation, and shorter durations, while acknowledging the need for timely treatment and the wider spread of resistance beyond hospitals, framing antibiotics as resources managed best with ecological awareness.
-   C. Resistance arises only from agricultural use, so hospital stewardship is unnecessary.
-   D. Broad-spectrum antibiotics never disrupt the microbiome, so concerns about C. difficile are misplaced.
+   A. The passage explains antibiotic stewardship as an effort to slow resistance by reducing unnecessary broad selection pressure through strategies such as rapid diagnostics, de-escalation, and shorter durations, while acknowledging the need for timely treatment and the wider spread of resistance beyond hospitals, framing antibiotics as resources managed best with ecological awareness.
+   B. The passage explains antibiotic stewardship as an effort to slow resistance by reducing unnecessary broad selection pressure through strategies such as rapid diagnostics, de-escalation, and shorter durations, while acknowledging the need for timely treatment and the wider spread of resistance beyond hospitals, framing antibiotics as resources managed best with ecological awareness. This would require encourages to be the limiting factor.
+   C. The passage explains antibiotic stewardship as an effort to slow resistance by reducing unnecessary broad selection pressure through strategies such as rapid diagnostics, de-escalation, and shorter durations, while acknowledging the need for timely treatment and the wider spread of resistance beyond hospitals, framing antibiotics as resources managed best with ecological awareness. This would require duration to be the limiting factor.
+   D. The passage explains antibiotic stewardship as an effort to slow resistance by reducing unnecessary broad wastewater pressure through strategies such as rapid diagnostics, de-escalation, and shorter durations, while acknowledging the need for timely treatment and the wider spread of resistance beyond hospitals, framing antibiotics as resources managed best with ecological awareness. That would make diagnostics the primary constraint.
 
 
 Answer Key
 ----------
-1: A
+1: D
 2: A
-3: A
-4: B
-5: D
-6: A
-7: A
+3: B
+4: D
+5: B
+6: D
+7: D
 8: A
-9: A
-10: B
+9: D
+10: A

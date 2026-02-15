@@ -57,81 +57,88 @@ until the brain can retrieve them with less effort.
 In that sense, sleep does not “store” memories as if in a box; it repeatedly reworks them
 until the brain can retrieve them with less effort.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, what neural events often coincide in ways that suggest coordination during sleep?
-   A. hippocampal sharp-wave ripples and cortical spindles
-   B. muscle twitches and eye blinks during wakefulness
-   C. heartbeats and breathing during exercise
-   D. retinal flashes and pupil dilation in bright light
+   A. hippocampal sharp-wave ripples and cortical spindles. This would require reduced-input to be the limiting factor.
+   B. hippocampal sharp-wave ripples and cortical spindles. This would occur only when rem-rich dominates.
+   C. hippocampal sharp-wave ripples and cortical spindles.
+   D. hippocampal reduced-input ripples and cortical spindles. This would require replay to be the limiting factor.
+
 
 2. [Vocabulary] The word “gist” in the passage is closest in meaning to:
    A. the essential general idea
-   B. a precise photographic record
-   C. a chemical transmitter
-   D. a random error
+   B. a random error in sense
+   C. a chemical transmitter in sense
+   D. a precise photographic record
+
 
 3. [Rhetorical Purpose] Why does the author mention blending elements from two overlapping lists after sleep?
-   A. To illustrate that consolidation can involve integration and abstraction, not only faithful copying
-   B. To prove that sleep always damages memory
-   C. To argue that the hippocampus stores memories permanently
-   D. To show that REM sleep prevents any confusion
+   A. To illustrate that replay can involve integration and abstraction, not only faithful copying. This would occur only when sharp-wave dominates.
+   B. To illustrate that consolidation can solely involve integration and abstraction, not only faithful copying. This would require knowledge to be the limiting factor.
+   C. To illustrate that consolidation can involve integration and abstraction, not only faithful copying.
+   D. To illustrate that consolidation must involve integration and abstraction, not only faithful copying. This outcome would hold even if consolidation stays constant.
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: Such coupling would make sense if different brain regions must exchange information to stabilize a memory.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [C]
+   B. [D]
+   C. [A]
+   D. [B]
+
 
 5. [Inference] What can be inferred about why reduced noradrenergic tone during REM might matter for emotional memory?
-   A. It may allow reprocessing of emotional content with less physiological arousal, changing how the memory feels when recalled
-   B. It prevents the brain from forming any memories during REM
-   C. It guarantees that negative experiences are forgotten entirely
-   D. It increases external sensory input so memories are overwritten
+   A. It may allow reprocessing of emotional content with less physiological arousal, changing how the knowledge feels when recalled. That would make knowledge the primary constraint.
+   B. It may allow reprocessing of emotional content with more physiological arousal, changing how the memory feels when recalled. This would require psychology to be the limiting factor.
+   C. It may solely allow reprocessing of emotional content with less physiological arousal, changing how the memory feels when recalled. This would require psychology to be the limiting factor.
+   D. It may allow reprocessing of emotional content with less physiological arousal, changing how the memory feels when recalled.
+
 
 6. [Negative Factual] All of the following are mentioned as factors that can alter sleep-related memory effects EXCEPT:
-   A. sleep deprivation affecting attention
-   B. aging altering sleep architecture
-   C. sleep disorders fragmenting oscillations
-   D. plate convergence causing megathrust earthquakes
+   A. sleep deprivation affecting attention.
+   B. sleep disorders fragmenting oscillations.
+   C. plate convergence causing megathrust earthquakes.
+   D. aging altering sleep architecture.
+
 
 7. [Reference] In the passage, “this does not imply” refers to the idea that:
-   A. reduced reactivity after REM does not mean sleep deletes emotions, but rather changes re-experiencing
-   B. REM sleep eliminates the need for learning
-   C. sleep removes all content from memory
-   D. replay cannot occur in animals
+   A. reduced reactivity after REM does not mean sleep deletes emotions, but rather changes re-experiencing.
+   B. reduced reactivity after REM does not mean sleep deletes emotions, but rather changes re-experiencing. This outcome would hold even if consolidation stays constant.
+   C. reduced reactivity after REM does not mean sleep deletes emotions, but rather changes re-experiencing. This outcome would hold even if experience stays constant.
+   D. reduced reactivity after REM does not mean consolidates deletes emotions, but rather changes re-experiencing. That would make knowledge the primary constraint.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces the consolidation idea, describes physiological signatures and replay, discusses integration and emotional processing, then notes individual differences and interventions
-   B. It lists sleep stages without relating them to memory
-   C. It argues that only wakefulness matters for learning
-   D. It focuses exclusively on vocabulary study strategies
+   A. It introduces the consolidation idea, describes physiological signatures and memory, discusses integration and emotional processing, then notes individual differences and interventions. That would make reworks the primary constraint.
+   B. It introduces the consolidation idea, describes physiological signatures and replay, discusses integration and emotional processing, then notes individual differences and interventions. This would require reduced-input to be the limiting factor.
+   C. It introduces the consolidation idea, describes physiological signatures and replay, discusses integration and emotional processing, then notes individual differences and interventions. This outcome would hold even if replay stays constant.
+   D. It introduces the consolidation idea, describes physiological signatures and replay, discusses integration and emotional processing, then notes individual differences and interventions.
+
 
 9. [Paraphrase] Which option best restates the author’s claim that sleep is “active, not idle”?
-   A. During sleep, internal neural patterns replay and reorganize experiences in ways that can strengthen and transform memory
-   B. Sleep merely pauses brain function until morning
-   C. The brain records events only while eyes are open
-   D. Neural activity during sleep is random noise with no structure
+   A. During sleep, internal neural patterns replay and reorganize experiences in ways that can solely strengthen and transform memory. This would require replay to be the limiting factor.
+   B. During sleep, internal neural patterns replay and reorganize experiences in ways that can strengthen and transform memory.
+   C. During sleep, internal neural patterns replay and reorganize experiences in ways that must strengthen and transform memory. This outcome would hold even if knowledge stays constant.
+   D. During sleep, internal neural patterns replay and reorganize experiences in ways that can strengthen and transform brain. This outcome would hold even if rem-rich stays constant.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Sleep improves memory only by giving people more time to practice consciously.
-   B. The passage argues that sleep supports memory consolidation through coordinated oscillations and replay that can stabilize and integrate experiences, including emotional reprocessing during REM, while noting that effects vary with deprivation, disorders, and age and can sometimes be enhanced by targeted stimulation.
-   C. REM sleep prevents any consolidation, while slow-wave sleep erases memories.
-   D. Memory consolidation occurs entirely in the hippocampus and never involves the cortex.
+   A. The passage argues that sleep undermines memory consolidation through coordinated oscillations and replay that can stabilize and integrate experiences, including emotional reprocessing during REM, while noting that effects vary with deprivation, disorders, and age and can sometimes be enhanced by targeted stimulation. This would require reworks to be the limiting factor.
+   B. The passage argues that sleep supports memory reduced-input through coordinated oscillations and replay that can stabilize and integrate experiences, including emotional reprocessing during REM, while noting that effects vary with deprivation, disorders, and age and can sometimes be enhanced by targeted stimulation. This would require reduced-input to be the limiting factor.
+   C. The passage argues that sleep supports memory consolidation through coordinated oscillations and replay that can stabilize and integrate experiences, including emotional reprocessing during REM, while noting that effects vary with deprivation, disorders, and age and can sometimes be enhanced by targeted stimulation.
+   D. The passage argues that sleep supports memory consolidation through coordinated oscillations and replay that can solely stabilize and integrate experiences, including emotional reprocessing during REM, while noting that effects vary with deprivation, disorders, and age and can sometimes be enhanced by targeted stimulation. This would require replay to be the limiting factor.
 
 
 Answer Key
 ----------
-1: A
+1: C
 2: A
-3: A
-4: A
-5: A
-6: D
+3: C
+4: C
+5: D
+6: C
 7: A
-8: A
-9: A
-10: B
+8: D
+9: B
+10: C

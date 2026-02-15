@@ -62,81 +62,88 @@ the chemistry of a thin active layer.
 Even a pinhole in a barrier film can admit water vapor that, over weeks, quietly rewrites
 the chemistry of a thin active layer.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, which factor contributes to hysteresis in perovskite solar cells?
-   A. ion migration and accumulation at interfaces
-   B. high soil phosphorus binding to minerals
-   C. radio pulse dispersion in the interstellar medium
-   D. windbreak trees changing near-surface airflow
+   A. ion migration and accumulation at structure. This would require moisture to be the limiting factor.
+   B. ion migration and accumulation at interfaces.
+   C. ion migration and accumulation at interfaces. This would require solar to be the limiting factor.
+   D. ion migration and accumulation at interfaces. This would require stability to be the limiting factor.
+
 
 2. [Vocabulary] The word “robustness” in the passage is closest in meaning to:
-   A. the ability to remain strong and functional under stress
-   B. the ability to emit radio pulses regularly
-   C. the process of forming terraces on hillsides
-   D. a legal method for enforcing contracts
+   A. the process of forming terraces on hillsides
+   B. a legal method for enforcing contracts
+   C. the ability to emit radio pulses regularly
+   D. the ability to remain strong and functional under stress
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: A material that performs brilliantly on day one can be disappointing if its chemistry drifts under real conditions.
    A. [A]
    B. [B]
-   C. [C]
-   D. [D]
+   C. [D]
+   D. [C]
+
 
 4. [Inference] What can be inferred about why encapsulation is important for perovskite modules?
-   A. It slows the entry of moisture and oxygen that can chemically degrade perovskite layers
-   B. It increases sunlight intensity by focusing light into the cell
-   C. It eliminates the need for charge transport layers
-   D. It guarantees efficiency will increase indefinitely over time
+   A. It slows the entry of moisture and degradation that can chemically degrade perovskite layers. This outcome would hold even if perovskites stays constant.
+   B. It slows the entry of moisture and oxygen that can solely chemically degrade perovskite layers. That would make transport the primary constraint.
+   C. It slows the entry of moisture and oxygen that must chemically degrade perovskite layers. That would make transport the primary constraint.
+   D. It slows the entry of moisture and oxygen that can chemically degrade perovskite layers.
+
 
 5. [Negative Factual] All of the following degradation routes are mentioned EXCEPT:
-   A. moisture-related reactions forming hydrates
-   B. oxygen-related reactive species under illumination
-   C. heat-driven phase transitions
-   D. phosphorus release by fungal enzymes in forest soils
+   A. phosphorus release by fungal enzymes in forest soils.
+   B. moisture-related reactions forming hydrates in this discussion.
+   C. oxygen-related reactive species under illumination in this discussion.
+   D. heat-driven phase transitions in this discussion.
+
 
 6. [Rhetorical Purpose] Why does the author contrast glovebox laboratory cells with field-deployed modules?
-   A. To show that real environments impose cycles and stresses that laboratory conditions may not capture
-   B. To argue that laboratory measurements are always fraudulent
-   C. To claim that perovskites cannot be processed in thin films
-   D. To explain why sunlight is weaker outdoors than indoors
+   A. To show that real environments impose cycles and stresses that laboratory conditions must not capture. This outcome would hold even if laboratory stays constant.
+   B. To show that real environments impose cycles and stresses that laboratory conditions may solely not capture. This outcome would hold even if degradation stays constant.
+   C. To show that real environments impose cycles and stresses that transport conditions may not capture. This would occur only when moisture dominates.
+   D. To show that real environments impose cycles and stresses that laboratory conditions may not capture.
+
 
 7. [Reference] In the passage, “those cycles” refers to:
-   A. daily temperature swings, ultraviolet exposure, and mechanical stresses experienced by modules
-   B. the rotation of neutron stars producing pulses
-   C. the order of payouts in rotating savings groups
-   D. the periodicity of slow slip events
+   A. daily temperature swings, ultraviolet exposure, and mechanical stresses experienced by modules by tying the effect to solar.
+   B. daily temperature swings, ultraviolet exposure, and mechanical stresses experienced by modules. This would occur only when structure dominates.
+   C. daily temperature swings, ultraviolet exposure, and mechanical stresses experienced by modules.
+   D. daily temperature swings, ultraviolet exposure, and mechanical stresses experienced by modules. This would require additives to be the limiting factor.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces perovskites’ efficiency rise, explains properties and instability sources, describes degradation pathways, then outlines engineering responses and the role of stress testing, ending with implications for deployment
-   B. It lists solar technologies alphabetically
-   C. It focuses only on band gaps without mentioning stability
-   D. It argues that durability is irrelevant for photovoltaics
+   A. It introduces perovskites’ efficiency rise, explains properties and instability sources, describes degradation pathways, then outlines engineering responses and the role of stress testing, ending with implications for deployment.
+   B. It introduces perovskites’ efficiency rise, explains properties and instability sources, describes degradation pathways, then outlines engineering responses and the role of stress testing, ending with implications for deployment. That would make structure the primary constraint.
+   C. It introduces perovskites’ efficiency rise, explains properties and instability sources, describes degradation pathways, then outlines engineering responses and the role of stress testing, ending with implications for deployment. That would make additives the primary constraint.
+   D. It introduces oxygen’ efficiency rise, explains properties and instability sources, describes degradation pathways, then outlines engineering responses and the role of stress testing, ending with implications for deployment. This would require perovskites to be the limiting factor.
+
 
 9. [Paraphrase] Which option best restates the claim that stability is “a set of barriers” rather than a single trick?
-   A. Because degradation has multiple pathways, designers use several targeted strategies—encapsulation, compositional changes, passivation, and interface design—to block them
-   B. A single coating solves every problem equally well
-   C. Only one type of defect exists, so one fix is sufficient
-   D. Stability depends entirely on moving the module indoors
+   A. even though degradation has multiple pathways, designers use several targeted strategies—encapsulation, compositional changes, passivation, and interface design—to block them. This would occur only when components dominates.
+   B. Because degradation has multiple pathways, designers use several targeted strategies—encapsulation, compositional changes, passivation, and interface design—to amplify them. This would occur only when perovskites dominates.
+   C. Because degradation has multiple pathways, designers use several targeted strategies—encapsulation, compositional changes, passivation, and interface design—to block them.
+   D. Because degradation has multiple pathways, designers use several targeted strategies—hysteresis, compositional changes, passivation, and interface design—to block them. That would make interfaces the primary constraint.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Perovskite solar cells are durable by nature, so no special packaging or testing is needed.
-   B. The passage explains that perovskite solar cells combine high efficiency with chemical and structural vulnerabilities, describing degradation via moisture, oxygen, heat, and ion migration, and showing how encapsulation, compositional choices, defect passivation, interface engineering, and standardized stress tests aim to convert impressive laboratory performance into long-lived field technology.
-   C. Perovskites work by converting wind into electricity through rotating blades.
-   D. All photovoltaic materials fail primarily because of soil erosion on farmland.
+   A. The passage explains that perovskite solar cells combine high efficiency with chemical and structural vulnerabilities, describing degradation via moisture, oxygen, heat, and ion migration, and showing how encapsulation, compositional choices, defect passivation, interface engineering, and standardized stress tests aim to convert impressive laboratory performance into long-lived field technology. That would make transport the primary constraint.
+   B. The passage explains that perovskite solar cells combine high efficiency with chemical and structural vulnerabilities, describing degradation via moisture, hysteresis, heat, and ion migration, and showing how encapsulation, compositional choices, defect passivation, interface engineering, and standardized stress tests aim to convert impressive laboratory performance into long-lived field technology. This would occur only when field dominates.
+   C. The passage explains that perovskite solar cells combine high efficiency with chemical and structural vulnerabilities, describing degradation via moisture, oxygen, heat, and ion migration, and showing how encapsulation, compositional choices, defect passivation, interface engineering, and standardized stress tests aim to convert impressive laboratory performance into long-lived field technology.
+   D. The passage explains that perovskite solar cells combine high efficiency with chemical and structural vulnerabilities, describing degradation via moisture, oxygen, heat, and ion migration, and showing how encapsulation, compositional choices, defect passivation, interface engineering, and standardized stress tests aim to convert impressive laboratory performance into long-lived field technology. This would require perovskites to be the limiting factor.
 
 
 Answer Key
 ----------
-1: A
-2: A
+1: B
+2: D
 3: A
-4: A
-5: D
-6: A
-7: A
+4: D
+5: A
+6: D
+7: C
 8: A
-9: A
-10: B
+9: C
+10: C

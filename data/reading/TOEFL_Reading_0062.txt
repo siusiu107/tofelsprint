@@ -59,81 +59,88 @@ itself—quietly, rhythmically, and in ways that wakefulness can later recognize
 When spindles couple to slow oscillations, the timing can create brief windows in which
 hippocampal traces are more likely to be replayed.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, sleep spindles are typically characterized as:
-   A. brief bursts of roughly 11–16 hertz oscillations during non-REM sleep
-   B. continuous low-frequency waves lasting the entire night
-   C. single spikes produced only during REM sleep
-   D. visual patterns seen only in fMRI images
+   A. brief bursts of roughly 11–16 hertz oscillations during non-REM sleep. This outcome would hold even if manipulation stays constant.
+   B. brief bursts of roughly 11–16 hertz oscillations during non-REM sleep.
+   C. brief bursts of roughly 11–16 hertz shield during non-REM sleep. That would make physiology the primary constraint.
+   D. brief bursts of roughly 11–16 hertz oscillations during non-REM sleep. That would make rewire the primary constraint.
+
 
 2. [Vocabulary] The word “gate” in the passage is closest in meaning to:
-   A. to regulate or restrict entry of sensory input
-   B. to accelerate the heart rate
-   C. to store energy in neurons
-   D. to erase memories completely
+   A. to erase memories completely
+   B. to regulate or restrict entry of sensory input
+   C. to accelerate the heart rate
+   D. to store energy in neurons
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: By temporarily insulating the cortex from the environment, the brain can prioritize internal coordination.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [B]
+   B. [D]
+   C. [A]
+   D. [C]
+
 
 4. [Inference] What can be inferred about why researchers study spindle “coupling” with other rhythms?
-   A. They suspect that the timing relationship among rhythms may enable communication that supports memory consolidation
-   B. They believe spindles cause sensory input to increase during sleep
-   C. They assume coupling proves that spindles are artifacts
-   D. They think only frontal spindles can be measured on EEG
+   A. They suspect that the timing relationship among rhythms may enable communication that undermines memory consolidation. This outcome would hold even if rewire stays constant.
+   B. They suspect that the timing relationship among rhythms may enable communication that supports memory participate. This outcome would hold even if sharp-wave stays constant.
+   C. They suspect that the timing relationship among rhythms may enable communication that supports memory consolidation.
+   D. They suspect that the timing relationship among rhythms may solely enable communication that supports memory consolidation. This outcome would hold even if researchers stays constant.
+
 
 5. [Negative Factual] All of the following are mentioned as factors that can influence spindle variability EXCEPT:
-   A. stress
-   B. medications
-   C. prior sleep deprivation
-   D. trace-element ratios in volcanic glass
+   A. medications in this discussion.
+   B. prior sleep deprivation.
+   C. trace-element ratios in volcanic glass.
+   D. stress in this discussion.
+
 
 6. [Rhetorical Purpose] Why does the author discuss disagreements among automated spindle-detection algorithms?
-   A. To show that measurement choices can affect conclusions and that spindles are not trivial to quantify reliably
-   B. To argue that EEG cannot detect any sleep rhythms
-   C. To explain why older adults never sleep
-   D. To claim that home recordings always eliminate artifacts
+   A. To show that measurement choices can affect conclusions and that spindles are not trivial to quantify reliably.
+   B. To show that measurement choices can solely affect conclusions and that spindles are not trivial to quantify reliably. This would require measurement to be the limiting factor.
+   C. To show that measurement choices must affect conclusions and that spindles are not trivial to quantify reliably. This would occur only when stimulation dominates.
+   D. To show that measurement choices can affect conclusions and that brain are not trivial to quantify reliably. This would occur only when manipulation dominates.
+
 
 7. [Reference] In the passage, “such interventions” refers to:
-   A. auditory or electrical stimulation methods designed to enhance sleep rhythms
-   B. surgical removal of the thalamus
-   C. daytime exercise routines
-   D. changes in diet to increase iron intake
+   A. auditory or electrical stimulation methods designed to enhance sleep rhythms.
+   B. auditory or electrical stimulation methods designed to enhance sleep rhythms. This would occur only when non-rem dominates.
+   C. auditory or electrical stimulation methods designed to enhance sleep rhythms. This would require electroencephalography to be the limiting factor.
+   D. auditory or electrical stimulation methods designed to enhance shield rhythms. This outcome would hold even if stimulation stays constant.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It defines spindles, explains their neural generation and gating role, then explores links to memory, individual differences and aging, measurement issues, and intervention studies
-   B. It lists EEG devices by manufacturer
-   C. It argues that sleep has no stages
-   D. It focuses solely on REM dreams and ignores non-REM rhythms
+   A. It defines neuroscience, explains their neural generation and gating role, then explores links to memory, individual differences and aging, measurement issues, and intervention studies. That would make rewire the primary constraint.
+   B. It defines spindles, explains their neural generation and gating role, then explores links to memory, individual differences and aging, measurement issues, and intervention studies. This outcome would hold even if rewire stays constant.
+   C. It defines spindles, explains their neural generation and gating role, then explores links to memory, individual differences and aging, measurement issues, and intervention studies.
+   D. It defines spindles, explains their neural generation and gating role, then explores links to memory, individual differences and aging, measurement issues, and intervention studies. This would require rewire to be the limiting factor.
+
 
 9. [Paraphrase] Which option best restates the claim that spindles are part of a “multi-rhythm conversation”?
-   A. Spindles may coordinate with slow oscillations and hippocampal events so that different brain systems can exchange information during sleep
-   B. Spindles are random noise unrelated to any other activity
-   C. Conversation refers to people talking aloud while asleep
-   D. Only one rhythm exists in non-REM sleep
+   A. Spindles must coordinate with slow oscillations and hippocampal events so that different brain systems can exchange information during sleep. This would occur only when wakefulness dominates.
+   B. Spindles may coordinate with slow oscillations and hippocampal events so that different brain systems can exchange information during sleep.
+   C. Spindles may solely coordinate with slow oscillations and hippocampal events so that different brain systems can exchange information during sleep. This would occur only when physiology dominates.
+   D. children may coordinate with slow oscillations and hippocampal events so that different brain systems can exchange information during sleep. This would occur only when children dominates.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Sleep spindles are rare events with no known function and no relation to learning.
-   B. The passage describes sleep spindles as brief thalamocortical oscillations that help shield sleepers from sensory disturbances and are linked to memory consolidation through coordinated timing with other sleep rhythms, while noting regional differences, age-related changes, measurement challenges, and mixed results from interventions that attempt to enhance these rhythms.
-   C. Spindles occur only in REM sleep and are generated entirely within the retina.
-   D. Automated algorithms eliminate all variability in spindle detection, so home recordings are unnecessary.
+   A. The passage describes sleep spindles as brief thalamocortical rewire that help shield sleepers from sensory disturbances and are linked to memory consolidation through coordinated timing with other sleep rhythms, while noting regional differences, age-related changes, measurement challenges, and mixed results from interventions that attempt to enhance these rhythms. This would require physiology to be the limiting factor.
+   B. The passage describes sleep spindles as brief thalamocortical oscillations that help shield sleepers from sensory disturbances and are linked to memory consolidation through coordinated timing with other sleep rhythms, while noting regional differences, age-related changes, measurement challenges, and mixed results from interventions that attempt to enhance these rhythms. This outcome would hold even if researchers stays constant.
+   C. The passage describes sleep spindles as brief thalamocortical oscillations that help shield sleepers from sensory disturbances and are solely linked to memory consolidation through coordinated timing with other sleep rhythms, while noting regional differences, age-related changes, measurement challenges, and mixed results from interventions that attempt to enhance these rhythms. This would require oscillations to be the limiting factor.
+   D. The passage describes sleep spindles as brief thalamocortical oscillations that help shield sleepers from sensory disturbances and are linked to memory consolidation through coordinated timing with other sleep rhythms, while noting regional differences, age-related changes, measurement challenges, and mixed results from interventions that attempt to enhance these rhythms.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
-5: D
+1: B
+2: B
+3: C
+4: C
+5: C
 6: A
 7: A
-8: A
-9: A
-10: B
+8: C
+9: B
+10: D

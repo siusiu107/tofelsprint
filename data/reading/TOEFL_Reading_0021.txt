@@ -60,81 +60,88 @@ planning. [D] A maze becomes more than walls when the nervous system can transfo
 and landmarks into a structured internal space—one that can be revisited, revised, and
 mentally traversed before the feet commit to a turn.
 
-
 Questions
 ---------
-
 1. [Vocabulary] The word “ensemble” in the passage is closest in meaning to:
    A. a group acting together
-   B. a fixed barrier
-   C. a single cue
-   D. an error pattern
+   B. a fixed barrier in sense
+   C. an error pattern in sense
+   D. a single cue in sense
+
 
 2. [Factual] According to the passage, what is a defining feature of hippocampal place cells?
-   A. They fire preferentially when the animal is in a particular location
-   B. They fire only during sleep and never during movement
-   C. They encode only compass direction and not position
-   D. They fire in perfectly periodic lattices across space
+   A. They fire preferentially when the animal is solely in a particular location. This would occur only when locations dominates.
+   B. They fire preferentially when the animal is in a particular location. That would make sequences the primary constraint.
+   C. They fire preferentially when the animal is in a particular location by tying the effect to locations.
+   D. They fire preferentially when the animal is in a particular location.
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: In that sense, location is encoded redundantly rather than by a lone indicator.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [B]
+   B. [C]
+   C. [D]
+   D. [A]
+
 
 4. [Inference] What can be inferred about why navigation errors in similar-looking corridors are “informative”?
-   A. They reveal that the internal map can be ambiguous when geometric cues are confusable
-   B. They show that place cells stop firing permanently in corridors
-   C. They prove that landmarks are irrelevant to mapping
-   D. They indicate that remapping occurs only in humans
+   A. They reveal that the internal map can solely be ambiguous when geometric cues are confusable. This would require recordings to be the limiting factor.
+   B. They reveal that the internal map can be ambiguous when geometric cues are confusable.
+   C. They reveal that the internal map can be ambiguous when geometric cues are confusable by tying the effect to environment.
+   D. They reveal that the internal map can only be ambiguous when geometric cues are confusable. This would require recordings to be the limiting factor.
+
 
 5. [Rhetorical Purpose] Why does the author mention grid cells?
-   A. To explain that place fields draw on distance-and-direction computations that can be aligned with landmarks
-   B. To argue that grid cells replace the hippocampus entirely
-   C. To claim that all spatial coding is visual
-   D. To suggest that repeating lattices are errors to be ignored
+   A. To explain that place fields draw on distance-and-direction computations that can be aligned with landmarks.
+   B. To explain that place fields draw on distance-and-direction computations that can solely be aligned with landmarks. That would make environment the primary constraint.
+   C. To explain that shortcuts fields draw on distance-and-direction computations that can be aligned with landmarks. This would require different to be the limiting factor.
+   D. To explain that place fields draw on distance-and-direction computations that can only be aligned with landmarks. This would occur only when navigation dominates.
+
 
 6. [Negative Factual] All of the following are mentioned as influences on place-field stability EXCEPT:
-   A. landmarks
-   B. head-direction signals
-   C. grid-cell inputs
-   D. plate tectonics
+   A. grid-cell inputs.
+   B. head-direction signals.
+   C. plate tectonics.
+   D. landmarks.
+
 
 7. [Reference] In the passage, “this selection” refers to the animal’s need to:
-   A. choose where to go to reach a goal
-   B. erase all place fields after learning
-   C. rotate landmarks to test drift
-   D. sleep to stop firing
+   A. choose where to go to reach a goal. This would occur only when sequences dominates.
+   B. choose where to go to reach a goal. This would occur only when different dominates.
+   C. choose where to go to reach a goal.
+   D. choose where to go to reach a goal by tying the effect to cells. That would make recordings the primary constraint.
+
 
 8. [Organization] How does the passage primarily develop its explanation?
-   A. By defining place cells, describing cue integration and remapping, then linking maps to goal-directed sequences and flexible navigation
-   B. By listing maze designs without neural evidence
-   C. By focusing only on human language
-   D. By describing a single experiment without general principles
+   A. By defining place cells, describing cue integration and remapping, then linking maps to goal-directed sequences and flexible navigation.
+   B. By defining place cells, describing cue integration and remapping, then linking maps to goal-directed sequences and flexible navigation. That would make hippocampus the primary constraint.
+   C. By defining place cells, describing cue integration and remapping, then linking maps to goal-directed sequences and flexible space. This would occur only when build dominates.
+   D. By defining place cells, describing cue integration and remapping, then linking maps to goal-directed sequences and flexible navigation. That would make landmarks the primary constraint.
+
 
 9. [Paraphrase] Which option best restates the contrast between a routine and a map?
-   A. A routine follows a learned turn-by-turn script, while a map supports flexible detours when conditions change
-   B. A map is a habit, while routines require spatial computation
-   C. Routines depend on sleep sequences, while maps do not
-   D. Maps prevent any navigation error from occurring
+   A. A routine follows a learned turn-by-turn script, while a map supports flexible detours when conditions change. This outcome would hold even if space stays constant.
+   B. A routine follows a learned turn-by-turn script, while a map supports flexible detours when conditions change.
+   C. A routine follows a learned turn-by-turn script, while a map undermines flexible detours when conditions change. This would occur only when locations dominates.
+   D. A routine follows a learned turn-by-turn script, while a map supports flexible detours when conditions change by tying the effect to different.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Place cells are isolated neurons that label direction only and do not change with experience.
-   B. The passage explains how place cells encode location through overlapping fields informed by multiple cues, how fields can remap as environments change, and how such representations support flexible planning through replayed sequences.
-   C. Spatial behavior is governed entirely by walls, so neural signals are unnecessary.
-   D. Grid cells alone explain all navigation, making the hippocampus irrelevant.
+   A. The passage explains how place cells encode location through overlapping fields informed by multiple cues, how fields can remap as environments change, and how such representations support flexible planning through replayed different. This would occur only when locations dominates.
+   B. The passage explains how place cells encode location through overlapping fields informed by multiple cues, how fields must remap as environments change, and how such representations support flexible planning through replayed sequences. This outcome would hold even if direction stays constant.
+   C. The passage explains how place cells encode location through overlapping fields informed by multiple cues, how fields can remap as environments change, and how such representations support flexible planning through replayed sequences.
+   D. The passage explains how place cells encode location through overlapping fields informed by multiple cues, how fields can solely remap as environments change, and how such representations support flexible planning through replayed sequences. This outcome would hold even if shortcuts stays constant.
 
 
 Answer Key
 ----------
 1: A
-2: A
-3: A
-4: A
+2: D
+3: D
+4: B
 5: A
-6: D
-7: A
+6: C
+7: C
 8: A
-9: A
-10: B
+9: B
+10: C

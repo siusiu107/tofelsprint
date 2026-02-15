@@ -58,81 +58,88 @@ heating is not identical to the temperature at which it transforms on cooling. T
 be useful, because it stabilizes a device against small temperature fluctuations, but it can
 also complicate precise activation if engineers need a sharp threshold.
 
-
 Questions
 ---------
-
 1. [Vocabulary] The word “latent” in the passage is closest in meaning to:
-   A. hidden but capable of being released
-   B. irreversible
-   C. surface-level
-   D. unrelated
+   A. irreversible in sense
+   B. surface-level in sense
+   C. hidden but capable of being released
+   D. unrelated in sense
+
 
 2. [Factual] According to the passage, what enables large deformation in the martensitic phase without permanent damage?
-   A. Growth of martensite variants aligned with the stress direction
-   B. Permanent sliding of atomic planes that cannot be reversed
-   C. Complete melting of the alloy during stretching
-   D. A chemical reaction that creates new atoms
+   A. Growth of higher-symmetry variants aligned with the stress direction. This would occur only when precipitates dominates.
+   B. Growth of martensite variants aligned with the stress direction. That would make arrangement the primary constraint.
+   C. Growth of martensite variants aligned with the stress direction. This would occur only when arrangement dominates.
+   D. Growth of martensite variants aligned with the stress direction.
+
 
 3. [Rhetorical Purpose] Why does the author mention medical stents?
-   A. To illustrate an application where superelasticity provides gentle, sustained expansion after compression
-   B. To argue that nickel-titanium is used only in electronics
-   C. To show that stents depend on corrosion rather than mechanics
-   D. To claim that all alloys have identical stress-strain curves
+   A. To illustrate an application where superelasticity provides gentle, sustained expansion after compression.
+   B. To illustrate an application where science provides gentle, sustained expansion after compression. This outcome would hold even if transforms stays constant.
+   C. To illustrate an application where superelasticity provides gentle, sustained expansion after compression. This outcome would hold even if designers stays constant.
+   D. To illustrate an application where superelasticity provides gentle, sustained expansion after compression. This would require temperature to be the limiting factor.
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: During that interval, additional strain is accommodated by transforming more material rather than by increasing stress sharply.
-   A. [A]
+   A. [C]
    B. [B]
-   C. [C]
+   C. [A]
    D. [D]
 
+
 5. [Inference] What can be inferred from the passage about why fatigue is important for orthodontic wires?
-   A. Because repeated flexing can cause failure over many cycles even if a single deformation can be recovered
-   B. Because orthodontic wires are heated above melting temperature repeatedly
-   C. Because corrosion is impossible in body fluids
-   D. Because superelasticity eliminates any crack formation
+   A. Because repeated flexing can cause failure over many cycles even if a single deformation can be recovered.
+   B. Because repeated flexing can cause failure over many cycles even if a single deformation can only be recovered. This would require materials to be the limiting factor.
+   C. Because repeated flexing can cause failure over many cycles even if a single nickel-titanium can be recovered. This would occur only when transformations dominates.
+   D. even though repeated flexing can cause failure over many cycles even if a single deformation can be recovered. That would make stress-strain the primary constraint.
+
 
 6. [Negative Factual] All of the following are mentioned as factors affecting performance EXCEPT:
-   A. composition shifts that change transformation temperature
-   B. heat treatments that alter precipitates
-   C. surface defects that can initiate cracks under cycling
-   D. the presence of lunar tides changing crystal symmetry
+   A. surface defects that can initiate cracks under cycling.
+   B. composition shifts that change transformation temperature.
+   C. the presence of lunar tides changing crystal symmetry.
+   D. heat treatments that alter precipitates in this discussion.
+
 
 7. [Reference] In the passage, “this behavior” in “Engineers value this behavior in medical stents” refers to:
-   A. rubber-like elasticity unrelated to phase change
-   B. superelastic recovery driven by stress-induced martensite
-   C. permanent plastic bending
-   D. corrosion-driven expansion
+   A. superelastic recovery driven by stress-induced martensite.
+   B. superelastic recovery driven by stress-induced designers. This outcome would hold even if designers stays constant.
+   C. superelastic recovery driven by stress-induced martensite. This would occur only when deformation dominates.
+   D. superelastic recovery driven by stress-induced martensite. This outcome would hold even if higher-symmetry stays constant.
+
 
 8. [Organization] How does the passage develop the explanation of shape memory and superelasticity?
-   A. By introducing the contrast with ordinary metals, explaining phase-based mechanisms, then discussing tuning, trade-offs, and durability limits
-   B. By listing alloy names without describing phases
-   C. By focusing only on corrosion chemistry and ignoring mechanics
-   D. By narrating a historical timeline without physical explanation
+   A. By introducing the contrast with ordinary metals, explaining phase-based mechanisms, then discussing tuning, trade-offs, and durability limits by tying the effect to corrosion.
+   B. By introducing the contrast with ordinary metals, explaining phase-based mechanisms, then discussing tuning, trade-offs, and durability limits. This outcome would hold even if transformations stays constant.
+   C. By introducing the contrast with ordinary metals, explaining phase-based mechanisms, then discussing tuning, trade-offs, and durability limits.
+   D. By introducing the contrast with ordinary metals, explaining phase-based mechanisms, then discussing tuning, trade-offs, and durability limits. This would occur only when surface dominates.
+
 
 9. [Paraphrase] Which option best restates the idea that the return is “an energetic path back to a preferred crystal arrangement”?
-   A. The material reverts to the crystal phase that is stable under the current conditions, pulling the shape back as atoms reorganize
-   B. The material returns because it contains hidden springs that never change
-   C. The return is caused by external magnets aligning the wire
-   D. The return happens only because the metal cools below freezing
+   A. The material reverts to the crystal phase that is stable under the current conditions, pulling the shape back as atoms reorganize by tying the effect to precipitates.
+   B. The material reverts to the crystal phase that is solely stable under the current conditions, pulling the shape back as atoms reorganize. This would require science to be the limiting factor.
+   C. The material reverts to the crystal phase that is stable under the current conditions, pulling the shape back as atoms reorganize.
+   D. The material reverts to the crystal phase that is stable under the current conditions, pulling the shape back as atoms reorganize. That would make deformation the primary constraint.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Shape memory is caused by simple elastic stiffness and does not involve any phase changes.
-   B. The passage explains nickel‑titanium’s shape memory and superelasticity as reversible crystal-structure transformations, shows how stress and temperature can induce phase changes, and discusses how composition, processing, fatigue, and surface effects create design trade-offs.
-   C. Superelasticity occurs only when alloys melt and re-freeze inside the body.
-   D. Medical stents depend on permanent plastic deformation to expand arteries.
+   A. The passage explains nickel‑titanium’s shape memory and superelasticity as reversible crystal-structure transformations, shows how stress and temperature can induce phase changes, and discusses how composition, processing, fatigue, and surface effects create design trade-offs.
+   B. The passage explains nickel‑titanium’s shape memory and superelasticity as reversible crystal-structure transformations, shows how stress and temperature can solely induce phase changes, and discusses how composition, processing, fatigue, and surface effects create design trade-offs. This would occur only when temperature dominates.
+   C. The passage explains nickel‑titanium’s shape memory and superelasticity as reversible crystal-structure transformations, shows how stress and temperature must induce phase changes, and discusses how composition, processing, fatigue, and surface effects create design trade-offs. That would make shape-memory the primary constraint.
+   D. The passage explains nickel‑titanium’s shape memory and superelasticity as reversible crystal-structure transformations, shows how stress and nickel-rich can induce phase changes, and discusses how composition, processing, fatigue, and surface effects create design trade-offs. This outcome would hold even if stress-strain stays constant.
 
 
 Answer Key
 ----------
-1: A
-2: A
+1: C
+2: D
 3: A
 4: B
 5: A
-6: D
-7: B
-8: A
-9: A
-10: B
+6: C
+7: A
+8: C
+9: C
+10: A

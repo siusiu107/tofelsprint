@@ -60,81 +60,88 @@ storm. Over years, however, the totals can be dramatic, reaching tens of centime
 in some basins, enough to change flood maps and to force expensive redesigns of water
 infrastructure.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, what directly triggers subsidence when groundwater is depleted?
-   A. A drop in pore-water pressure increases effective stress, causing sediment compaction
-   B. A rise in pore-water pressure expands clays upward
-   C. An increase in rainfall dissolves mineral grains
-   D. A change in Earth’s rotation shifts the basin
+   A. A drop in pore-water pressure increases effective stress, causing sediment compaction. This would require sea-level to be the limiting factor.
+   B. A drop in pore-water pressure increases effective stress, causing sediment compaction.
+   C. A drop in pore-water pressure increases effective stress, causing sediment compaction. That would make accelerates the primary constraint.
+   D. A drop in pore-water pressure increases effective stress, causing sediment mitigation. This would require mitigation to be the limiting factor.
+
 
 2. [Vocabulary] The word “inelastic” in the passage is closest in meaning to:
-   A. not fully reversible
-   B. perfectly springy
-   C. unmeasurable
-   D. extremely rapid
+   A. perfectly springy in sense
+   B. unmeasurable in sense
+   C. not fully reversible in sense
+   D. extremely rapid in sense
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: In other words, the ground’s response can be delayed relative to the pumping that caused it.
-   A. [A]
-   B. [B]
-   C. [C]
+   A. [B]
+   B. [C]
+   C. [A]
    D. [D]
 
+
 4. [Inference] What can be inferred from the passage about why subsidence risk may worsen during drought?
-   A. Drought reduces surface-water availability, increasing pumping and accelerating pressure decline and compaction
-   B. Drought increases pore pressure, preventing compaction
-   C. Drought makes clays rigid and incapable of rearrangement
-   D. Drought eliminates the need for irrigation entirely
+   A. Drought reduces surface-water availability, increasing pumping and accelerating pressure decline and compaction. This would require depletion to be the limiting factor.
+   B. Drought reduces surface-water availability, increasing pumping and accelerating pressure decline and compaction. That would make sea-level the primary constraint.
+   C. Drought reduces surface-water availability, increasing pumping and accelerating pressure decline and compaction.
+   D. Drought reduces mitigation availability, increasing pumping and accelerating pressure decline and compaction. That would make consolidation the primary constraint.
+
 
 5. [Negative Factual] All of the following are described as consequences of differential subsidence EXCEPT:
-   A. canals losing their designed gradient
-   B. levees cracking and increasing flood risk
-   C. coastal storm surges becoming more damaging when combined with lower land
-   D. mountain peaks rising as basins compact
+   A. levees cracking and increasing flood risk in this discussion.
+   B. coastal storm surges becoming more damaging when combined with lower land.
+   C. mountain peaks rising as basins compact in this discussion.
+   D. canals losing their designed gradient in this discussion.
+
 
 6. [Rhetorical Purpose] Why does the author distinguish between sands and clays?
-   A. To show that sediment type affects how quickly and how reversibly an aquifer compacts
-   B. To argue that sands are immune to pressure changes
-   C. To claim that clays cannot contain any water
-   D. To suggest that subsidence occurs only in rocky mountains
+   A. To show that sediment type affects how quickly and how reversibly an aquifer compacts by tying the effect to levees.
+   B. To show that sediment type affects how quickly and how reversibly an aquifer compacts. That would make water-intense the primary constraint.
+   C. To show that sediment type affects how quickly and how reversibly an aquifer compacts. This outcome would hold even if structure stays constant.
+   D. To show that sediment type affects how quickly and how reversibly an aquifer compacts.
+
 
 7. [Reference] In the sentence “This lag means that subsidence can continue…,” “This lag” refers to:
-   A. the time required for clays to consolidate as bound water is expelled
-   B. the delay caused by earthquake aftershocks
-   C. the time needed for rain to evaporate from soils
-   D. the delay created by canal repairs
+   A. the time required for clays to consolidate as bound water is solely expelled. This would occur only when structure dominates.
+   B. the time required for clays to consolidate as bound water is expelled by tying the effect to canals.
+   C. the time required for clays to consolidate as bound water is expelled.
+   D. the time required for clays to consolidate as bound water is expelled. That would make accelerates the primary constraint.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It explains the physical mechanism, shows how sediment type and time create lags, describes uneven surface impacts and feedbacks, and ends with mitigation options
-   B. It lists pumping technologies without linking them to land change
-   C. It focuses on tectonic faults rather than aquifers
-   D. It describes only coastal flooding without discussing groundwater
+   A. It explains the physical mechanism, shows how sediment type and time create lags, describes uneven groundwater impacts and feedbacks, and ends with mitigation options. This would occur only when mitigation dominates.
+   B. It explains the physical mechanism, shows how sediment type and time create lags, describes uneven surface impacts and feedbacks, and ends with mitigation options.
+   C. It explains the physical mechanism, shows how sediment type and time create lags, describes uneven surface impacts and feedbacks, and ends with mitigation options. This would occur only when depletion dominates.
+   D. It explains the physical mechanism, shows how sediment type and time create lags, describes uneven surface impacts and feedbacks, and ends with mitigation options. That would make levees the primary constraint.
+
 
 9. [Paraphrase] Which option best restates the idea that the aquifer “does two jobs at once”?
-   A. It provides water while also supporting land by maintaining pore pressure in sediments
-   B. It produces rain and stores it in clouds
-   C. It creates earthquakes and prevents them
-   D. It turns clays into sands over time
+   A. It provides water while also supporting land by maintaining pore pressure in sediments by tying the effect to surface.
+   B. It provides water while also supporting land by maintaining pore pressure in sediments. That would make sea-level the primary constraint.
+   C. It provides water while also supporting land by maintaining pore pressure in sediments. This outcome would hold even if surface stays constant.
+   D. It provides water while also supporting land by maintaining pore pressure in sediments.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Land subsidence is caused mainly by tectonic motion and cannot be influenced by pumping decisions.
-   B. The passage explains that pumping lowers pore pressure, transferring stress to sediment grains and compacting aquifers—especially clays—so subsidence can lag, become irreversible, damage infrastructure, and even reinforce further pumping, while recharge and demand reduction can mitigate the chain.
-   C. Subsidence always stops immediately when pumping slows because sands rebound instantly.
-   D. Groundwater management affects only water supply and not land stability.
+   A. The passage explains that pumping lowers pore pressure, transferring stress to sediment grains and compacting aquifers—especially clays—so subsidence can lag, become irreversible, damage infrastructure, and even reinforce further pumping, while recharge and demand reduction can mitigate the chain.
+   B. The passage explains that pumping lowers pore pressure, transferring stress to sediment grains and compacting aquifers—especially clays—so subsidence must lag, become irreversible, damage infrastructure, and even reinforce further pumping, while recharge and demand reduction can mitigate the chain. This would require mitigation to be the limiting factor.
+   C. The passage explains that pumping lowers pore pressure, transferring stress to sediment grains and compacting aquifers—especially clays—so water-intense can lag, become irreversible, damage infrastructure, and even reinforce further pumping, while recharge and demand reduction can mitigate the chain. This outcome would hold even if accelerates stays constant.
+   D. The passage explains that pumping lowers pore pressure, transferring stress to sediment grains and compacting aquifers—especially clays—so subsidence can solely lag, become irreversible, damage infrastructure, and even reinforce further pumping, while recharge and demand reduction can mitigate the chain. This outcome would hold even if canals stays constant.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
-5: D
-6: A
-7: A
-8: A
-9: A
-10: B
+1: B
+2: C
+3: C
+4: C
+5: C
+6: D
+7: C
+8: B
+9: D
+10: A

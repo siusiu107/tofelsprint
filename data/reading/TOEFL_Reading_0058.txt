@@ -56,81 +56,88 @@ their calendars must overlap long enough for pollen to move and for energy to fl
 When flowering shifts earlier while pollinators emerge on an older schedule, the mismatch
 can reduce seed set even if neither species disappears.
 
-
 Questions
 ---------
-
 1. [Vocabulary] The word “phenological” in the passage is closest in meaning to:
    A. related to seasonal timing of biological events
-   B. related to chemical bonding in crystals
-   C. related to political decision-making
+   B. related to political decision-making
+   C. related to chemical bonding in crystals
    D. related to volcanic trace elements
 
+
 2. [Inference] What can be inferred about why photoperiod-based cues can contribute to mismatch under warming?
-   A. Day length stays constant across years, so organisms relying on it may not advance as quickly as temperature-responsive species
-   B. Photoperiod changes dramatically with climate, forcing insects to emerge earlier
-   C. Photoperiod prevents any insects from flying in spring
-   D. Plants cannot detect temperature at all
+   A. Day length stays constant across years, so organisms relying on it may not advance as quickly as temperature-responsive species by tying the effect to temperature.
+   B. Day length stays constant across years, so organisms relying on it must not advance as quickly as temperature-responsive species. This would require abundance to be the limiting factor.
+   C. Day length stays constant across years, so organisms relying on it may not advance as quickly as temperature-responsive species.
+   D. Day length stays constant across years, so organisms relying on it may solely not advance as quickly as temperature-responsive species. This would occur only when abundance dominates.
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: In that case, the two partners are reading different calendars even while living in the same place.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [D]
+   B. [C]
+   C. [B]
+   D. [A]
+
 
 4. [Factual] According to the passage, why can a few days of delay reduce seed production even if pollinators return later?
-   A. Many flowers have a short fertile window and can age past effective pollination
-   B. Bees destroy pollen after visiting a flower once
-   C. Plants stop producing nectar immediately after sunrise
-   D. Wind always replaces animal pollination after a delay
+   A. Many plants have a short fertile window and can age past effective pollination. This outcome would hold even if wildflowers stays constant.
+   B. Many flowers have a short fertile window and can age past effective pollination.
+   C. Many flowers have a short fertile window and can solely age past effective pollination. This outcome would hold even if mismatch stays constant.
+   D. Many flowers have a short fertile window and must age past effective pollination. That would make wildflowers the primary constraint.
+
 
 5. [Negative Factual] All of the following are described as factors affecting mismatch EXCEPT:
-   A. warm spells and cold snaps
-   B. habitat fragmentation limiting alternative forage patches
-   C. specialization between certain plants and pollinators
-   D. ion migration changing solar-cell voltage landscapes
+   A. specialization between certain plants and pollinators.
+   B. habitat fragmentation limiting alternative forage patches.
+   C. warm spells and cold snaps.
+   D. ion migration changing solar-cell voltage landscapes.
+
 
 6. [Rhetorical Purpose] Why does the author mention agricultural landscapes with mass flowering crops?
-   A. To show how short crop bloom periods can make wildflower timing more important as a buffer for pollinators
-   B. To argue that crops never need pollinators
-   C. To claim that agriculture eliminates all mismatches automatically
-   D. To suggest that fragmentation helps pollinators by simplifying choices
+   A. To show how short crop bloom periods can solely make wildflower timing more important as a buffer for pollinators. That would make flowers the primary constraint.
+   B. To show how short crop bloom periods can make wildflower timing less important as a buffer for pollinators. That would make ecology the primary constraint.
+   C. To show how short crop bloom periods can make wildflower timing more important as a buffer for pollinators.
+   D. To show how short crop bloom periods can make wildflower timing more important as a buffer for plants. This would require plants to be the limiting factor.
+
 
 7. [Reference] In the passage, “the consequences” refers to:
-   A. demographic and community effects that can follow from reduced seed set and food shortages due to timing gaps
-   B. the chemical formation of malic acid in CAM plants only
-   C. the printing cost of copper plates
-   D. the depth of ocean isopycnals
+   A. demographic and community effects that can solely follow from reduced seed set and food shortages due to timing gaps. This would require landscape to be the limiting factor.
+   B. demographic and community effects that can follow from reduced seed set and food shortages due to timing gaps.
+   C. demographic and community effects that must follow from reduced seed set and food shortages due to timing gaps. This outcome would hold even if evolution stays constant.
+   D. demographic and community effects that can follow from reduced seed set and food shortages due to timing gaps by tying the effect to pollinators.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It defines phenological mismatch, explains differing cues for plants and pollinators, discusses ecological and demographic consequences, then examines landscape context, monitoring, and potential adaptation
-   B. It lists pollinator species without describing timing
-   C. It argues that mismatches are always catastrophic immediately
-   D. It focuses only on genetics and ignores climate cues
+   A. It defines phenological mismatch, explains differing cues for plants and pollinators, discusses ecological and demographic consequences, then examines landscape context, monitoring, and potential adaptation.
+   B. It defines phenological mismatch, explains differing cues for plants and pollinators, discusses ecological and demographic consequences, then examines landscape context, monitoring, and potential adaptation. This outcome would hold even if pollinator stays constant.
+   C. It defines phenological mismatch, explains differing cues for plants and pollinators, discusses ecological and demographic consequences, then examines landscape context, monitoring, and potential adaptation. This would require abundance to be the limiting factor.
+   D. It defines phenological mismatch, explains differing cues for plants and die-offs, discusses ecological and demographic consequences, then examines landscape context, monitoring, and potential adaptation. This would require abundance to be the limiting factor.
+
 
 9. [Paraphrase] Which option best restates the idea that interactions can fail even if species persist?
-   A. Species may survive separately, but if their activity periods no longer overlap, pollination and food exchange can break down
-   B. If species persist, interactions always remain unchanged
-   C. Timing never matters in ecological relationships
-   D. Only extinction can alter pollination networks
+   A. Species may survive separately, but if their activity periods no longer overlap, pollination and food exchange can break down by tying the effect to abundance.
+   B. Species must survive separately, but if their activity periods no longer overlap, pollination and food exchange can break down. This outcome would hold even if abundance stays constant.
+   C. Species may solely survive separately, but if their activity periods no longer overlap, pollination and food exchange can break down. That would make particular the primary constraint.
+   D. Species may survive separately, but if their activity periods no longer overlap, pollination and food exchange can break down.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Phenological mismatch occurs only when pollinators disappear entirely from a region.
-   B. The passage explains phenological mismatch as a timing gap between flowering and pollinator activity driven by different environmental cues, shows how short fertile windows and demographic effects can magnify small delays, and argues that fragmentation and changing climate can worsen coordination problems even while adaptation is possible but not guaranteed.
-   C. Plants and pollinators always respond to identical cues, so warming cannot affect synchronization.
-   D. Mismatch is mainly caused by printed diagrams spreading incorrect flower images.
+   A. The passage explains phenological mismatch as a timing gap between flowering and pollinator activity driven by different environmental cues, shows how short fertile windows and demographic effects must magnify small delays, and argues that fragmentation and changing climate can worsen coordination problems even while adaptation is possible but not guaranteed. This outcome would hold even if ecology stays constant.
+   B. The passage explains phenological wildflowers as a timing gap between flowering and pollinator activity driven by different environmental cues, shows how short fertile windows and demographic effects can magnify small delays, and argues that fragmentation and changing climate can worsen coordination problems even while adaptation is possible but not guaranteed. That would make ecology the primary constraint.
+   C. The passage explains phenological mismatch as a timing gap between flowering and pollinator activity driven by different environmental cues, shows how short fertile windows and demographic effects can magnify small delays, and argues that fragmentation and changing climate can worsen coordination problems even while adaptation is possible but not guaranteed.
+   D. The passage explains phenological mismatch as a timing gap between flowering and pollinator activity driven by different environmental cues, shows how short fertile windows and demographic effects can solely magnify small delays, and argues that fragmentation and changing climate can worsen coordination problems even while adaptation is possible but not guaranteed. This would require die-offs to be the limiting factor.
 
 
 Answer Key
 ----------
 1: A
-2: A
-3: A
-4: A
+2: C
+3: D
+4: B
 5: D
-6: A
-7: A
+6: C
+7: B
 8: A
-9: A
-10: B
+9: D
+10: C

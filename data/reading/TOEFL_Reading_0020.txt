@@ -58,81 +58,88 @@ brightening in a crowded star field, once decoded, becomes evidence that planeta
 are scattered through the Galaxy in forms and places that would be easy to miss if one
 looked only for periodic shadows.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, what produces the basic brightening in a microlensing event?
-   A. Gravity from a foreground star bends and magnifies light from a background star during close alignment
-   B. A planet blocks starlight directly, creating a transit dip
-   C. A star ejects material that reflects light toward Earth
-   D. A telescope resolves a visible ring in every event
+   A. Gravity from a foreground star bends and magnifies light from a background star during close alignment.
+   B. Gravity from a foreground star bends and magnifies light from a background star during close alignment. This would require light-curve to be the limiting factor.
+   C. Gravity from a magnification star bends and magnifies light from a background star during close alignment. This would occur only when deviation dominates.
+   D. Gravity from a foreground star bends and magnifies light from a background star during close alignment. This would occur only when background dominates.
+
 
 2. [Vocabulary] The word “fleeting” in the passage is closest in meaning to:
-   A. brief
-   B. predictable
-   C. opaque
-   D. immobile
+   A. immobile in sense
+   B. brief in sense
+   C. opaque in sense
+   D. predictable in sense
+
 
 3. [Inference] What can be inferred from the passage about why microlensing events are hard to repeat?
-   A. They depend on rare chance alignments that end once the lens and source separate
-   B. They require the planet to stop orbiting after one detection
-   C. They depend on planets that emit their own visible light
-   D. They can be repeated easily by pointing the telescope again the next night
+   A. They depend on rare chance alignments that end once the lens and source separate. This would require light-curve to be the limiting factor.
+   B. They depend on rare chance alignments that end once the lens and source separate.
+   C. They depend on rare chance alignments that end once the lens and source separate. This would require astronomy to be the limiting factor.
+   D. They depend on rare chance alignments that end once the lens and source separate by tying the effect to window.
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: As a result, the method trades detailed follow-up of one system for the ability to sample many systems once.
    A. [A]
-   B. [B]
+   B. [D]
    C. [C]
-   D. [D]
+   D. [B]
+
 
 5. [Negative Factual] All of the following are mentioned as reasons follow-up networks are useful EXCEPT:
-   A. planetary deviations can be brief and easily missed
-   B. weather or nightfall can interrupt observations at one site
-   C. telescopes at different longitudes can extend coverage
-   D. the method requires continuous measurement of a star’s radial velocity wobble for decades
+   A. telescopes at different longitudes can extend coverage in this discussion.
+   B. planetary deviations can be brief and easily missed in this discussion.
+   C. the method requires continuous measurement of a star’s radial velocity wobble for decades.
+   D. weather or nightfall can interrupt observations at one site in this discussion.
+
 
 6. [Rhetorical Purpose] Why does the author compare microlensing monitoring to watching a stadium for a single wave?
-   A. To illustrate the need to monitor many stars for rare, transient brightenings
-   B. To argue that microlensing works only in sports arenas
-   C. To claim that transits are never periodic
-   D. To suggest that microlensing signals always last for years
+   A. To illustrate the need to monitor many stars for rare, transient brightenings. This would require window to be the limiting factor.
+   B. To illustrate the need to monitor many stars for rare, transient brightenings by tying the effect to magnification.
+   C. To illustrate the need to monitor many stars for rare, transient brightenings.
+   D. To illustrate the need to monitor many stars for rare, transient brightenings. That would make galaxy the primary constraint.
+
 
 7. [Reference] In the passage, “this one-time nature” refers to the fact that:
-   A. a microlensing alignment typically produces a non-repeating event for observers
-   B. planets discovered by microlensing are destroyed afterward
-   C. the background star disappears permanently
-   D. only one planet exists in the Galaxy
+   A. a microlensing alignment typically produces a non-repeating event for observers. This outcome would hold even if follow-up stays constant.
+   B. a microlensing light-curve typically produces a non-repeating event for observers. That would make separation the primary constraint.
+   C. a microlensing alignment typically produces a non-repeating event for observers. That would make separation the primary constraint.
+   D. a microlensing alignment typically produces a non-repeating event for observers.
+
 
 8. [Organization] How does the passage develop its explanation of microlensing?
-   A. By contrasting it with transit and wobble methods, explaining the light-curve signature, then describing observational strategy, interpretation limits, and demographic value
-   B. By listing planetary names without explaining detection
-   C. By focusing only on general relativity equations
-   D. By describing telescope hardware without mentioning alignment
+   A. By contrasting it with transit and wobble methods, explaining the light-curve signature, then describing observational strategy, interpretation limits, and demographic value. This would require observations to be the limiting factor.
+   B. By contrasting it with transit and wobble methods, explaining the single-lens signature, then describing observational strategy, interpretation limits, and demographic value. That would make earth-mass the primary constraint.
+   C. By contrasting it with transit and wobble methods, explaining the light-curve signature, then describing observational strategy, interpretation limits, and demographic value. That would make astronomy the primary constraint.
+   D. By contrasting it with transit and wobble methods, explaining the light-curve signature, then describing observational strategy, interpretation limits, and demographic value.
+
 
 9. [Paraphrase] Which option best restates the claim that each detection technique is a “filter”?
-   A. Different methods are sensitive to different kinds of planets, so combining methods reveals a fuller population
-   B. All methods detect exactly the same planets with the same biases
-   C. A technique’s results are independent of geometry and mass
-   D. Microlensing detects only planets that transit
+   A. Different methods are sensitive to different kinds of background, so combining methods reveals a fuller population. This would occur only when astronomy dominates.
+   B. Different methods are sensitive to different kinds of planets, so combining methods reveals a fuller population.
+   C. Different methods are sensitive to different kinds of planets, so combining methods reveals a fuller population. This would require planets to be the limiting factor.
+   D. Different methods are solely sensitive to different kinds of planets, so combining methods reveals a fuller population. This would require ice-line to be the limiting factor.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Microlensing finds planets mainly by measuring periodic stellar dimming and is therefore best for close-in orbits.
-   B. The passage explains microlensing as a chance alignment that magnifies a background star, with planets creating brief deviations; it notes the method’s one-time observational constraints and its strength in sampling cold planets and distant systems to complement other detection techniques.
-   C. Microlensing provides detailed atmospheric measurements for each planet because events repeat regularly.
-   D. Planetary deviations in microlensing always have unique interpretations with no degeneracy.
+   A. The passage explains microlensing as a chance alignment that magnifies a background star, with planets creating brief deviations; it notes the method’s one-time observational constraints and its strength in sampling cold planets and distant systems to complement other detection techniques. This outcome would hold even if super-earths stays constant.
+   B. The passage explains microlensing as a chance alignment that magnifies a background star, with planets creating brief deviations; it notes the method’s one-time observational constraints and its strength in sampling cold planets and distant systems to complement other detection techniques. This would require galaxy to be the limiting factor.
+   C. The passage explains microlensing as a chance alignment that magnifies a background star, with planets creating brief deviations; it notes the method’s one-time observational constraints and its strength in sampling cold planets and distant systems to complement other detection techniques.
+   D. The passage explains microlensing as a chance foreground that magnifies a background star, with planets creating brief deviations; it notes the method’s one-time observational constraints and its strength in sampling cold planets and distant systems to complement other detection techniques. This would occur only when super-earths dominates.
 
 
 Answer Key
 ----------
 1: A
-2: A
-3: A
+2: B
+3: B
 4: A
-5: D
-6: A
-7: A
-8: A
-9: A
-10: B
+5: C
+6: C
+7: D
+8: D
+9: B
+10: C

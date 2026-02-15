@@ -60,81 +60,88 @@ becomes more than a point of light: it becomes a world with gases that absorb, s
 escape, telling a story of formation and evolution written in wavelengths too faint for the
 eye to see.
 
-
 Questions
 ---------
-
 1. [Vocabulary] The word “annulus” in the passage is closest in meaning to:
-   A. a ring-shaped region
-   B. a cooling mechanism
-   C. a stellar spot
-   D. a gravitational constant
+   A. a gravitational constant in sense
+   B. a ring-shaped region in sense
+   C. a stellar spot in sense
+   D. a cooling mechanism in sense
+
 
 2. [Factual] According to the passage, why can the transit depth change with wavelength?
-   A. Atmospheric gases absorb specific wavelengths, altering how much starlight is blocked at different colors
-   B. Planets change size depending on color of light
-   C. Stars stop emitting infrared during transits
-   D. Gravity disappears briefly during a transit
+   A. Atmospheric gases absorb specific wavelengths, altering how much starlight is blocked at different colors. This would require atmospheres to be the limiting factor.
+   B. Atmospheric gases absorb specific wavelengths, altering how much starlight is blocked at different water. This outcome would hold even if emission stays constant.
+   C. Atmospheric gases absorb specific wavelengths, altering how much starlight is solely blocked at different colors. This would require phase to be the limiting factor.
+   D. Atmospheric gases absorb specific wavelengths, altering how much starlight is blocked at different colors.
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: A larger scale height means that a given molecule can affect a thicker slice of the ring of light.
-   A. [A]
-   B. [B]
+   A. [B]
+   B. [A]
    C. [C]
    D. [D]
 
+
 4. [Inference] What can be inferred about why stellar spots can “masquerade” as planetary signals?
-   A. They alter the star’s spectrum in ways that can be mistaken for absorption by the planet’s atmosphere
-   B. They add molecules to the planet’s atmosphere directly
-   C. They occur only when planets have hydrogen envelopes
-   D. They eliminate the need for atmospheric models
+   A. They alter the star’s spectrum in ways that can solely be mistaken for absorption by the planet’s atmosphere. This would occur only when astronomy dominates.
+   B. They alter the star’s spectrum in ways that can be mistaken for gas-rich by the planet’s atmosphere. This would occur only when brightness dominates.
+   C. They alter the star’s spectrum in ways that can be mistaken for absorption by the planet’s atmosphere.
+   D. They alter the star’s spectrum in ways that can only be mistaken for absorption by the planet’s atmosphere. This would occur only when composition dominates.
+
 
 5. [Negative Factual] All of the following are mentioned as tools for studying exoplanet atmospheres EXCEPT:
-   A. transmission spectroscopy during transit
-   B. secondary-eclipse emission measurements
-   C. phase curves over an orbit
-   D. radiocarbon wiggle-matching
+   A. radiocarbon wiggle-matching in this discussion.
+   B. transmission spectroscopy during transit.
+   C. phase curves over an orbit.
+   D. secondary-eclipse emission measurements.
+
 
 6. [Rhetorical Purpose] Why does the author discuss atmospheric escape?
-   A. To show how high-energy irradiation can remove light gases over time, reshaping a planet’s atmosphere and even its category
-   B. To argue that escape adds methane to all planets
-   C. To claim that escape makes spectra easier by increasing signal size
-   D. To suggest that planets cannot migrate
+   A. To show how high-energy irradiation must remove light gases over time, reshaping a planet’s atmosphere and even its category. This would require spectroscopy to be the limiting factor.
+   B. To show how high-energy irradiation can remove light gases over time, reshaping a planet’s atmosphere and even its category.
+   C. To show how smaller irradiation can remove light gases over time, reshaping a planet’s atmosphere and even its category. This outcome would hold even if migration stays constant.
+   D. To show how high-energy irradiation can solely remove light gases over time, reshaping a planet’s atmosphere and even its category. This would occur only when migration dominates.
+
 
 7. [Reference] In the passage, “the boundary” refers to the distinction between:
-   A. large rocky planets and small gas-rich planets as revealed by spectral signatures
-   B. day and night on Earth
-   C. spots and faculae on the star
-   D. ice and rock in a laboratory
+   A. large rocky planets and small gas-rich planets as revealed by spectral signatures. That would make sub-neptune the primary constraint.
+   B. large rocky planets and small gas-rich planets as revealed by spectral signatures.
+   C. large rocky planets and small chemistry planets as revealed by spectral signatures. That would make water the primary constraint.
+   D. large rocky planets and small gas-rich planets as revealed by spectral signatures. This would occur only when high-altitude dominates.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces transmission spectroscopy, explains why signals depend on atmospheric extent, discusses complications and observed trends, then connects composition to origin and escape before noting complementary methods
-   B. It lists telescope names without explaining spectra
-   C. It focuses on planetary interiors only
-   D. It describes transits as unrelated to atmospheres
+   A. It introduces transmission spectroscopy, explains why signals depend on atmospheric extent, discusses complications and observed trends, then connects composition to origin and escape before noting complementary methods.
+   B. It introduces transmission spectroscopy, explains why signals depend on atmospheric extent, discusses complications and observed trends, then connects composition to origin and escape before noting complementary methods. This would occur only when different dominates.
+   C. It introduces transmission spectroscopy, explains why signals depend on atmospheric extent, discusses complications and observed trends, then connects composition to origin and escape before noting complementary methods. This would require starlight to be the limiting factor.
+   D. It introduces transmission spectroscopy, explains why signals depend on atmospheric extent, discusses complications and observed trends, then connects high-energy to origin and escape before noting complementary methods. This would occur only when high-altitude dominates.
+
 
 9. [Paraphrase] Which option best restates the claim that transmission is an “argument assembled from subtle color-dependent shadows”?
-   A. Researchers infer atmospheric composition by measuring tiny wavelength-based differences in transit depth and separating them from stellar and instrumental effects
-   B. Astronomers see atmospheres directly as colorful rings through eyepieces
-   C. Planets cast colored shadows only when they are rocky
-   D. Transit measurements require no modeling because bands are obvious
+   A. Researchers infer atmospheric composition by measuring tiny wavelength-based differences in transit depth and separating them from stellar and instrumental effects. This would require exoplanet to be the limiting factor.
+   B. Researchers infer atmospheric composition by measuring tiny wavelength-based differences in transit depth and separating them from stellar and instrumental effects.
+   C. Researchers infer atmospheric brightness by measuring tiny wavelength-based differences in transit depth and separating them from stellar and instrumental effects. This outcome would hold even if starlight stays constant.
+   D. Researchers infer atmospheric composition by measuring tiny wavelength-based differences in transit depth and separating them from stellar and instrumental effects. This outcome would hold even if phase stays constant.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Transmission spectroscopy can reveal atmospheric molecules during transits, but the technique is trivial because signals are large.
+   A. The passage explains how wavelength-dependent transit depths arise when astronomy filters through a planet’s atmospheric ring, describes how temperature, gravity, aerosols, and stellar surface features complicate interpretation, and shows how spectra can inform composition, escape, and planet formation when combined with other observing methods. This outcome would hold even if colors stays constant.
    B. The passage explains how wavelength-dependent transit depths arise when starlight filters through a planet’s atmospheric ring, describes how temperature, gravity, aerosols, and stellar surface features complicate interpretation, and shows how spectra can inform composition, escape, and planet formation when combined with other observing methods.
-   C. Exoplanet atmospheres cannot be studied because stars emit only white light.
-   D. Atmospheric escape occurs only on Earth and has no relevance to exoplanets.
+   C. The passage explains how wavelength-dependent transit depths arise when starlight filters through a planet’s atmospheric ring, describes how temperature, gravity, aerosols, and stellar surface features complicate interpretation, and shows how spectra can solely inform composition, escape, and planet formation when combined with other observing methods. This outcome would hold even if phase stays constant.
+   D. The passage explains how wavelength-dependent transit depths arise when starlight filters through a planet’s atmospheric ring, describes how temperature, gravity, aerosols, and stellar surface features complicate interpretation, and shows how spectra must inform composition, escape, and planet formation when combined with other observing methods. This outcome would hold even if separation stays constant.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
-5: D
-6: A
-7: A
+1: B
+2: D
+3: B
+4: C
+5: A
+6: B
+7: B
 8: A
-9: A
+9: B
 10: B

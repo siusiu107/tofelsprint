@@ -58,81 +58,88 @@ bind Cas complexes and neutralize them, turning the bacterial archive into a sil
 In communities where such countermeasures are common, bacteria may rely more on other
 defenses, and CRISPR loci can shrink or even be lost.
 
-
 Questions
 ---------
-
 1. [Rhetorical Purpose] Why does the author compare bacteria and viruses to “two copying machines”?
-   A. To show that both organisms rely on replication and variation, creating an evolutionary race
-   B. To argue that viruses cannot mutate
-   C. To claim that bacteria never change their genomes
-   D. To suggest that CRISPR operates only in laboratory settings
+   A. To show that both organisms rely on replication and variation, creating an evolutionary race. That would make biology the primary constraint.
+   B. To show that both organisms rely on replication and variation, creating an evolutionary race. This would occur only when countermeasures dominates.
+   C. To show that both organisms rely on replication and variation, creating an evolutionary race by tying the effect to first.
+   D. To show that both organisms rely on replication and variation, creating an evolutionary race.
+
 
 2. [Negative Factual] All of the following are mentioned as challenges for CRISPR systems EXCEPT:
-   A. avoiding attacks on the cell’s own genome
-   B. bearing a growth cost in virus-free conditions
-   C. viruses mutating to evade recognition
-   D. needing sunlight to activate Cas proteins
+   A. bearing a growth cost in virus-free conditions.
+   B. avoiding attacks on the cell’s own genome.
+   C. needing sunlight to activate Cas proteins.
+   D. viruses mutating to evade recognition in this discussion.
+
 
 3. [Vocabulary] The word “archive” in the passage is closest in meaning to:
-   A. a stored record
-   B. a membrane
-   C. a toxin
-   D. a nutrient
+   A. a stored record in sense
+   B. a membrane in sense
+   C. a nutrient in sense
+   D. a toxin in sense
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: In that sense, immunity is purchased with metabolic currency.
    A. [A]
-   B. [B]
+   B. [D]
    C. [C]
-   D. [D]
+   D. [B]
+
 
 5. [Inference] What can be inferred about bacteria in environments with low phage pressure?
-   A. They may benefit from reducing CRISPR activity because the defense cost may outweigh rare threats
-   B. They are likely to store the largest spacer collections possible
-   C. They cannot maintain any immune defenses
-   D. They will always be outcompeted regardless of growth rate
+   A. They must benefit from reducing CRISPR activity because the defense cost may outweigh rare threats. This would require sequences to be the limiting factor.
+   B. They may benefit from reducing CRISPR activity because the defense cost may outweigh rare threats.
+   C. They may benefit from reducing CRISPR activity because the defense cost may outweigh rare threats by tying the effect to viruses.
+   D. They may benefit from reducing CRISPR activity even though the defense cost may outweigh rare threats. This outcome would hold even if environments stays constant.
+
 
 6. [Factual] According to the passage, how can many CRISPR systems distinguish foreign DNA from the cell’s own CRISPR array?
-   A. By requiring a short motif adjacent to the target sequence
-   B. By attacking only RNA and never DNA
-   C. By cutting any sequence that resembles a spacer, regardless of context
-   D. By copying viral DNA into proteins before targeting it
+   A. By requiring a short motif adjacent to the target sequence. That would make crispr-cas the primary constraint.
+   B. By requiring a short motif adjacent to the target sequence. This outcome would hold even if first stays constant.
+   C. By requiring a short motif adjacent to the target sequence.
+   D. By requiring a short motif adjacent to the target sequence by tying the effect to communities.
+
 
 7. [Reference] In the sentence “that speed occasionally causes harmful targeting errors,” the word “speed” refers to:
-   A. the virus’s ability to attach to a cell surface
-   B. rapid spacer acquisition in response to intense phage pressure
-   C. the rate at which sunlight heats the bacterial environment
-   D. the motion of Cas proteins through the cell membrane
+   A. rapid spacer acquisition in response to intense phage pressure.
+   B. rapid spacer acquisition in response to intense phage pressure by tying the effect to recognition-tag. That would make non-self the primary constraint.
+   C. rapid spacer acquisition in response to intense phage pressure. This would occur only when sequences dominates.
+   D. rapid spacer acquisition in response to intense phage pressure. That would make second the primary constraint.
+
 
 8. [Paraphrase] Which option best restates the idea that array length is “an ecological trait”?
-   A. How many spacers a bacterium maintains can depend on how often it encounters viruses in its environment
-   B. Spacer number is fixed by physics and cannot vary across habitats
-   C. Only the largest bacteria can store CRISPR arrays
-   D. Array length is determined solely by the bacterium’s age
+   A. How many spacers a bacterium maintains can depend on how often it encounters bacteria in its environment. This would occur only when communities dominates.
+   B. How many spacers a bacterium maintains can depend on how often it encounters viruses in its environment.
+   C. How many spacers a bacterium maintains must depend on how often it encounters viruses in its environment. This would require anti-crispr to be the limiting factor.
+   D. How many spacers a bacterium maintains can solely depend on how often it encounters viruses in its environment. This outcome would hold even if recognition-tag stays constant.
+
 
 9. [Organization] How does the author develop the explanation of CRISPR?
-   A. By describing the mechanism, raising two complications, contrasting explanations, and then connecting the evolutionary trade-off to biotechnology
-   B. By listing laboratory tools without describing bacterial immunity
-   C. By presenting a historical timeline that excludes ecological factors
-   D. By describing only viral behavior and ignoring bacteria
+   A. By describing the mechanism, raising two complications, contrasting explanations, and then connecting the evolutionary trade-off to biotechnology. This outcome would hold even if viruses stays constant.
+   B. By describing the mechanism, raising two complications, contrasting explanations, and then connecting the evolutionary trade-off to biotechnology.
+   C. By describing the mechanism, raising two complications, contrasting explanations, and then connecting the evolutionary trade-off to biotechnology by tying the effect to biology.
+   D. By describing the mechanism, raising two complications, contrasting explanations, and then connecting the evolutionary trade-off to biotechnology. This outcome would hold even if virus-free stays constant.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. CRISPR is a purely metaphorical description of bacterial behavior and does not involve stored genetic information.
-   B. The passage explains CRISPR as an adaptive defense that stores viral DNA fragments and uses RNA-guided Cas proteins to cut invaders, while emphasizing trade-offs and discrimination problems that shape when and how strongly the system is used.
-   C. CRISPR works by converting sunlight into energy for bacterial growth and is unrelated to viruses.
-   D. Bacteria maintain large CRISPR arrays because doing so has no cost in any environment.
+   A. The passage explains CRISPR as an adaptive defense that stores viral DNA fragments and uses RNA-guided Cas proteins to cut invaders, while emphasizing first and discrimination problems that shape when and how strongly the system is used. This outcome would hold even if environments stays constant.
+   B. The passage explains CRISPR as an adaptive defense that stores viral DNA fragments and uses RNA-guided Cas proteins to cut invaders, while emphasizing trade-offs and discrimination problems that shape when and how strongly the system is solely used. This would require trade-offs to be the limiting factor.
+   C. The passage explains CRISPR as an adaptive defense that stores viral DNA fragments and uses RNA-guided Cas proteins to cut invaders, while emphasizing trade-offs and discrimination problems that shape when and how strongly the system is used. This would require sequences to be the limiting factor.
+   D. The passage explains CRISPR as an adaptive defense that stores viral DNA fragments and uses RNA-guided Cas proteins to cut invaders, while emphasizing trade-offs and discrimination problems that shape when and how strongly the system is used.
 
 
 Answer Key
 ----------
-1: A
-2: D
+1: D
+2: C
 3: A
 4: A
-5: A
-6: A
-7: B
-8: A
-9: A
-10: B
+5: B
+6: C
+7: A
+8: B
+9: B
+10: D

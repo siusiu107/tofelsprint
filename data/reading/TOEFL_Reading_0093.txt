@@ -1,145 +1,159 @@
-Passage 0093: Antibiotic Resistance as Evolution Under Selection and Gene Transfer (Medicine/Biology)
-=====================================================================================================
-(Word count: 613)
+Passage 0093: Antibiotic Stewardship and the Ecology of Resistance (Medicine)
+=============================================================================
+(Word count: 615)
 
-Antibiotics changed medicine by turning once-lethal infections into treatable events, yet
-their success contains a built-in vulnerability: every dose applies selection. When bacteria
-are exposed to an antibiotic, susceptible cells are killed or inhibited, while rare cells
-that carry protective traits survive and multiply. Over time, the population shifts, and the
-drug’s effectiveness erodes. Antibiotic resistance is therefore not primarily a moral
-failure of individual patients; it is an evolutionary response to a chemical environment
-that humans have dramatically reshaped.
+Antibiotics are often celebrated as miracle drugs, yet their success carries an ecological
+price: bacteria evolve. When an antibiotic kills susceptible cells, resistant
+variants—whether preexisting or acquired—gain a relative advantage. This is not a moral
+failing of microbes; it is population genetics in a hospital gown. The practical question is
+how to treat patients effectively while reducing the selection pressure that accelerates
+resistance.
 
-Resistance can arise by mutation, such as an altered target protein that the antibiotic no
-longer binds efficiently, or by acquiring genes that inactivate the drug, pump it out, or
-reduce permeability. One of the most consequential routes is horizontal gene transfer.
-Bacteria can exchange plasmids—small circular DNA molecules—through conjugation, passing
-resistance genes across strains and even across species. [A] In a hospital ward, where many
-species coexist under frequent antibiotic exposure, plasmids act like mobile toolkits,
-assembling and distributing resistance faster than mutation alone could manage.
+Antibiotic stewardship programs emerged to address that tension. Their premise is
+straightforward: choose the right drug, at the right dose, for the right duration, and avoid
+unnecessary exposure. But the work is more complex than issuing a guideline. Clinicians face
+diagnostic uncertainty, especially early in illness, when symptoms overlap. A patient with
+fever and a cough could have a viral infection or bacterial pneumonia; waiting for cultures
+may take days. [A] In that interval, “just in case” prescribing can feel safer than
+restraint, even if the long-term costs are invisible.
 
-The ecological context matters. In community settings, antibiotic exposure may be
-intermittent, and many infections are viral, making antibiotics useless. Nonetheless,
-antibiotics are often prescribed “just in case,” especially when diagnostic uncertainty and
-patient pressure align. In agriculture, antibiotics have historically been used not only to
-treat disease but also to promote growth in livestock, creating additional selection
-pressure in animal microbiomes and in surrounding soils and waterways. Resistant bacteria or
-resistance genes can then travel through food chains and through waste, linking farms,
-communities, and clinics.
+Rapid diagnostics can shift this calculus. Polymerase chain reaction tests can identify
+pathogens quickly, and biomarkers such as procalcitonin can suggest whether bacterial
+infection is likely. Yet tests can mislead if sampling is poor or if colonizing bacteria are
+mistaken for causative agents. Moreover, the presence of a pathogen does not always imply
+disease; some organisms are carried harmlessly until conditions change. Stewardship
+therefore depends on interpretation, not merely technology.
 
-Within a single patient, the dynamics can be surprisingly fast. A person may carry a diverse
-gut microbiome, including bacteria that are harmless most of the time. When an antibiotic is
-taken for a urinary infection, the drug can still sweep through the gut, reducing many
-species and leaving ecological space. Resistant strains, even if initially rare, can expand
-into that space. [B] What begins as treatment for one site can reorganize microbial
-communities elsewhere, turning the body into a temporary selection laboratory.
+Hospitals also differ in their microbial ecology. In an intensive care unit, invasive
+devices and immunocompromised patients create opportunities for opportunistic pathogens, and
+broad-spectrum antibiotics can quickly alter community composition. In a community clinic,
+respiratory viruses may dominate, and antibiotics may offer little benefit. [B] A policy
+that is appropriate in one setting can be counterproductive in another, which is why local
+antibiograms—summaries of resistance patterns—matter.
 
-The consequences appear at multiple scales. For the individual, a resistant infection can
-require longer hospital stays, more toxic drugs, or invasive procedures. For health systems,
-resistance increases costs and strains intensive-care units, because certain pathogens—such
-as carbapenem-resistant Enterobacteriaceae—are difficult to treat and can spread within
-facilities. At the global scale, resistance undermines surgery, chemotherapy, and neonatal
-care, all of which rely on reliable infection control.
+Duration is another leverage point. For years, long antibiotic courses were common, partly
+from fear of relapse. Yet evidence in several infections suggests that shorter courses can
+be equally effective and reduce collateral damage to the microbiome. The microbiome is not a
+decorative concept; it is a functional community that can resist colonization by pathogens.
+When antibiotics disrupt it, opportunists such as Clostridioides difficile can flourish,
+causing severe diarrhea. Thus, “over-treatment” harms not only by selecting resistance but
+also by destabilizing protective ecology. [C]
 
-Responses must match the biology. Stewardship programs aim to reduce unnecessary use by
-selecting narrower-spectrum drugs, shortening courses when appropriate, and improving
-diagnostics so that viral illnesses are not treated with antibiotics. Infection control—hand
-hygiene, isolation, and environmental cleaning—reduces transmission of resistant organisms,
-which matters because resistance spreads not only by evolution inside a host but also by
-movement between hosts. [C] New drugs and alternative therapies, including bacteriophages,
-are explored, yet innovation is slower than the pace at which resistance can spread,
-especially when plasmids circulate widely.
+Stewardship programs often use audits and feedback: pharmacists or infectious-disease
+specialists review prescriptions and suggest de-escalation, switching from broad-spectrum to
+narrow-spectrum drugs once a pathogen is identified. Success depends on trust. If feedback
+is perceived as bureaucratic interference, clinicians may resist; if it is framed as
+collegial support, adoption rises. The goal is not to deny treatment but to align immediate
+care with evolutionary realism.
 
-Antibiotic resistance, then, is a predictable outcome of repeated exposure. [D] It is driven
-by causes that are concrete—selection, gene transfer, and ecological disruption—and it
-produces effects that are equally concrete: delayed cures, higher risks, and a narrowing of
-medical options. Understanding the chain does not guarantee easy solutions, but it clarifies
-why the problem grows whenever antibiotics are treated as inexhaustible.
+Resistance will not disappear, yet stewardship can slow its spread and preserve antibiotic
+usefulness. [D] By treating antibiotics as shared resources rather than private consumables,
+medicine acknowledges that microbial evolution is shaped by everyday decisions at the
+bedside.
 
-Where antibiotics are used sparingly and precisely, the evolutionary advantage of resistance
-diminishes, though it rarely vanishes.
+A stewardship program can succeed only if its rules are paired with feedback that clinicians
+regard as credible rather than punitive.
 
-Where antibiotics are used sparingly and precisely, the evolutionary advantage of resistance
-diminishes, though it rarely vanishes.
+Hospitals therefore invest in rapid diagnostics not only to treat faster but also to avoid
+treating blindly.
 
-Where antibiotics are used sparingly and precisely, the evolutionary advantage of resistance
-diminishes, though it rarely vanishes.
+A stewardship program can succeed only if its rules are paired with feedback that clinicians
+regard as credible rather than punitive.
 
+Hospitals therefore invest in rapid diagnostics not only to treat faster but also to avoid
+treating blindly.
+
+A stewardship program can succeed only if its rules are paired with feedback that clinicians
+regard as credible rather than punitive.
+
+Hospitals therefore invest in rapid diagnostics not only to treat faster but also to avoid
+treating blindly.
+
+A stewardship program can succeed only if its rules are paired with feedback that clinicians
+regard as credible rather than punitive.
 
 Questions
 ---------
-
-1. [Vocabulary] The word “intermittent” in the passage is closest in meaning to:
-   A. occurring at irregular intervals rather than continuously
-   B. fully resistant to antibiotics
-   C. carried only by plasmids
-   D. designed for hospital intensive-care units
-
-2. [Factual] According to the passage, why are plasmids important in antibiotic resistance?
-   A. They can transfer resistance genes between bacteria through horizontal gene transfer
-   B. They dissolve antibiotics into harmless sugars
-   C. They prevent bacteria from reproducing in any environment
-   D. They replace the need for mutation entirely by eliminating DNA
-
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Because plasmids can move between unrelated bacteria, they can spread resistance traits through an entire microbial community.
-   A. [A]
+1. [Sentence Insert] In which location would the following sentence best fit?
+   Sentence to insert: When uncertainty is high, clinicians often prescribe broadly, which can intensify selection for resistant bacteria.
+   A. [D]
    B. [B]
    C. [C]
-   D. [D]
+   D. [A]
 
-4. [Inference] What can be inferred about why resistance can rise quickly within a patient’s gut after antibiotic use?
-   A. Antibiotics reduce competing species, creating ecological space that resistant strains can rapidly occupy
-   B. Mutation rates drop to zero, preventing susceptible strains from returning
-   C. Plasmids are destroyed by antibiotics, leaving only mutants
-   D. The gut receives no antibiotic exposure during treatment
 
-5. [Rhetorical Purpose] Why does the author mention antibiotic use in agriculture?
-   A. To show that selection pressure occurs beyond hospitals and can connect farms, environments, and human infections
-   B. To argue that resistance is caused only by patient noncompliance
-   C. To claim that livestock cannot carry bacteria
-   D. To suggest that agriculture use has no effect on waterways
+2. [Vocabulary] In the passage, the word “de-escalation” is closest in meaning to:
+   A. to confuse the reader with unrelated details
+   B. switching from broader antibiotics to narrower ones once evidence allows
+   C. to store objects in a warehouse
+   D. to reverse a decision completely
 
-6. [Negative Factual] All of the following are mentioned as resistance mechanisms EXCEPT:
-   A. drug inactivation
-   B. efflux pumping
-   C. reduced permeability
-   D. star-based horizon navigation
 
-7. [Reference] In the passage, “a temporary selection laboratory” refers to:
-   A. the way antibiotic treatment can rapidly reshape a patient’s microbiome by favoring resistant strains
-   B. a room in which bacteria are cultured for vaccines only
-   C. an ocean current that carries microbes between islands
-   D. a kiln used to dry fresco plaster
+3. [Factual] According to the passage, which statement is supported?
+   A. antibiotic diagnostics plays a central role in the process described, interacting with resistance rather than acting alone. That would make ecology the primary constraint.
+   B. antibiotic stewardship plays a central role in the process described, interacting with resistance rather than acting alone.
+   C. antibiotic stewardship plays a central role in the process described, interacting with resistance rather than acting alone. That would make narrow-spectrum the primary constraint.
+   D. antibiotic stewardship plays a central role in the process described, interacting with resistance rather than acting alone. This would require pathogens to be the limiting factor.
 
-8. [Organization] How is the passage primarily organized?
-   A. It explains resistance as an evolutionary response, describes genetic routes such as plasmids, expands to ecological contexts, then outlines consequences and response strategies
-   B. It presents a biography of a single antibiotic discoverer
-   C. It lists drug names without discussing causes
-   D. It argues that resistance is purely a psychological phenomenon
 
-9. [Paraphrase] Which option best restates the author’s central claim about why resistance is predictable?
-   A. Because antibiotics impose selection that favors survival and spread of protective traits, repeated exposure steadily increases resistant populations
-   B. Because bacteria do not evolve, resistance appears only by chance miracles
-   C. Because stewardship eliminates all need for antibiotics immediately
-   D. Because hospitals contain no bacterial diversity
+4. [Negative Factual] All of the following are discussed in the passage EXCEPT:
+   A. a discussion of lapis lazuli extraction grades in Renaissance contracts.
+   B. how resistance modifies or mediates the central phenomenon.
+   C. limitations or trade-offs involving broad-spectrum drugs in this discussion.
+   D. the role of antibiotic stewardship in shaping outcomes.
+
+
+5. [Rhetorical Purpose] What is the primary function of the comparison to another interpretation?
+   A. to show that explaining antibiotic stewardship requires weighing evidence and recognizing limits of any single account. That would make de-escalation the primary constraint.
+   B. to show that explaining antibiotic infectious-disease requires weighing evidence and recognizing limits of any single account. That would make stewardship the primary constraint.
+   C. to show that explaining antibiotic stewardship requires weighing evidence and recognizing limits of any single account.
+   D. to show that explaining antibiotic stewardship requires weighing evidence and recognizing limits of any single account. That would make medicine the primary constraint.
+
+
+6. [Inference] Which inference is most strongly supported by the passage?
+   A. Changes in pathogens can shift the consequences of antibiotic stewardship, even when the underlying mechanism remains the same. This outcome would hold even if stewardship stays constant.
+   B. Changes in resistance must shift the consequences of antibiotic stewardship, even when the underlying mechanism remains the same. This would occur only when stewardship dominates.
+   C. Changes in resistance can shift the consequences of antibiotic stewardship, even when the underlying mechanism remains the same.
+   D. Changes in resistance can solely shift the consequences of antibiotic stewardship, even when the underlying mechanism remains the same. This outcome would hold even if infectious-disease stays constant.
+
+
+7. [Reference] In the passage, the phrase “the system” most nearly refers to:
+   A. the interconnected set of processes involving antibiotic stewardship, broad-spectrum, and related constraints described by the author. This outcome would hold even if medicine stays constant.
+   B. the interconnected set of processes involving antibiotic stewardship, resistance, and related constraints described by the author. This would occur only when clostridioides dominates.
+   C. the interconnected set of processes involving antibiotic stewardship, resistance, and related constraints described by the author. This would require rapid to be the limiting factor.
+   D. the interconnected set of processes involving antibiotic stewardship, resistance, and related constraints described by the author.
+
+
+8. [Organization] Which description best captures how the passage is organized?
+   A. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This outcome would hold even if stewardship stays constant.
+   B. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. That would make resistance the primary constraint.
+   C. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications.
+   D. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications by tying the effect to rapid.
+
+
+9. [Paraphrase] Which option best restates the author’s main point?
+   A. The passage argues that antibiotic stewardship is solely best understood through its interactions with resistance and broad-spectrum drugs, rather than through a one-cause story. That would make community the primary constraint.
+   B. The passage argues that antibiotic stewardship is best understood through its interactions with resistance and broad-spectrum drugs, rather than through a one-cause story.
+   C. The passage argues that antibiotic stewardship is best understood through its interactions with resistance and clostridioides drugs, rather than through a one-cause story. This outcome would hold even if duration stays constant.
+   D. The passage argues that antibiotic stewardship is best understood through its interactions with resistance and broad-spectrum drugs, rather than through a one-cause story. This outcome would hold even if ecology stays constant.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Resistance is portrayed as an unsolved mystery with no clear causes.
-   B. The passage explains antibiotic resistance as an evolutionary consequence of selection pressure, amplified by mechanisms such as plasmid-mediated gene transfer and by ecological contexts including hospitals, communities, and agriculture; it describes how antibiotics can reshape microbiomes within patients, outlines broad medical consequences, and argues that stewardship and infection control must reduce unnecessary exposure and transmission.
-   C. The passage claims that resistance can be prevented solely by inventing one new drug every decade.
-   D. Antibiotics are described as ineffective because they never kill susceptible bacteria.
+   A. The passage explains antibiotic stewardship by describing underlying mechanisms and showing how narrow-spectrum and broad-spectrum drugs shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would require hospitals to be the limiting factor.
+   B. The passage explains antibiotic stewardship by describing underlying mechanisms and showing how resistance and broad-spectrum drugs shape outcomes, emphasizing constraints and trade-offs rather than a uniform template.
+   C. The passage explains antibiotic stewardship by describing underlying mechanisms and showing how resistance and broad-spectrum drugs shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would occur only when medicine dominates.
+   D. The passage explains antibiotic stewardship by describing underlying mechanisms and showing how resistance and broad-spectrum drugs shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. That would make hospitals the primary constraint.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
+1: C
+2: B
+3: B
 4: A
-5: A
-6: D
-7: A
-8: A
-9: A
+5: C
+6: C
+7: D
+8: C
+9: B
 10: B

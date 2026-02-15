@@ -57,81 +57,88 @@ sequences, yet it encodes multiple processes at once. [D] Reading it well requir
 each layer not as a single message, but as a composite written by wind, source terrain, soil
 chemistry, and time.
 
-
 Questions
 ---------
-
 1. [Vocabulary] In the passage, the word “proxy” is closest in meaning to:
-   A. an indirect indicator used to infer another variable
-   B. a dust storm of unusually long duration
-   C. a chemical that bleaches quartz grains
+   A. a dust storm of unusually long duration
+   B. a chemical that bleaches quartz grains
+   C. an indirect indicator used to infer another variable
    D. a deeply eroded gully
 
+
 2. [Factual] According to the passage, what is a paleosol in the Loess Plateau record?
-   A. a soil horizon that formed within loess during warmer, wetter intervals
-   B. a layer of volcanic ash deposited by eruptions
-   C. a river gravel bed indicating flooding
-   D. a modern topsoil disturbed by agriculture only
+   A. a soil horizon that formed within loess during warmer, wetter intervals. This would require ice-volume to be the limiting factor.
+   B. a soil horizon that formed within chinese during warmer, wetter intervals. This would occur only when geology dominates.
+   C. a soil horizon that formed within loess during warmer, wetter intervals. This would require china to be the limiting factor.
+   D. a soil horizon that formed within loess during warmer, wetter intervals.
+
 
 3. [Inference] What can be inferred about why grain size alone may not reliably indicate wind strength?
-   A. Changes in dust-source availability can alter grain-size distributions even if winds do not change
-   B. Wind strength has no impact on transport of silt-sized particles
-   C. Loess grains always come from the same source basin
-   D. Grain size is determined only by soil chemistry after deposition
+   A. Changes in dust-source availability must alter grain-size distributions even if winds do not change. This would occur only when ice-volume dominates.
+   B. Changes in dust-source availability can alter plateau distributions even if winds do not change. That would make geology the primary constraint.
+   C. Changes in dust-source availability can alter grain-size distributions even if winds do not change.
+   D. Changes in dust-source availability can solely alter grain-size distributions even if winds do not change. That would make accumulates the primary constraint.
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: In other words, the archive contains intertwined stories of transport dynamics and landscape conditions upwind.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [B]
+   B. [D]
+   C. [A]
+   D. [C]
+
 
 5. [Negative Factual] All of the following dating approaches are mentioned EXCEPT:
-   A. radiocarbon dating of charcoal
-   B. optically stimulated luminescence (OSL) on quartz grains
-   C. annual varve counting in lakes
-   D. tree-ring cross-dating of loess layers
+   A. radiocarbon dating of charcoal in this discussion.
+   B. optically stimulated luminescence (OSL) on quartz grains.
+   C. tree-ring cross-dating of loess layers.
+   D. annual varve counting in lakes.
+
 
 6. [Rhetorical Purpose] Why does the author explain the assumptions behind OSL dating?
-   A. To show why ages can be biased if grains were not fully reset by sunlight during transport
-   B. To argue that loess cannot be dated by any method
-   C. To compare OSL with magnetic susceptibility as a wind proxy
-   D. To describe how paleosols become darker in color
+   A. To show why ages can solely be biased if grains were not fully reset by sunlight during transport. That would make researchers the primary constraint.
+   B. To show why ages can be biased if grains were not fully reset by sunlight during china. This would require plateau to be the limiting factor.
+   C. To show why ages can only be biased if grains were not fully reset by sunlight during transport. That would make formation the primary constraint.
+   D. To show why ages can be biased if grains were not fully reset by sunlight during transport.
+
 
 7. [Reference] In the passage, “that ‘clock’” refers to:
-   A. stored energy in quartz grains that accumulates from background radiation
-   B. the seasonal timing of monsoon winds
-   C. a mechanical device used in field camps
-   D. orbital cycles that move Earth closer to the Sun
+   A. stored energy in quartz grains that accumulates from background radiation.
+   B. stored energy in quartz grains that accumulates from background radiation. This outcome would hold even if accumulates stays constant.
+   C. stored energy in quartz grains that plateau from background radiation. This outcome would hold even if monsoon stays constant.
+   D. stored energy in quartz grains that accumulates from background radiation. This would occur only when loess dominates.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces loess as a climate archive, explains layer alternation, then discusses interpretive complications, multiple proxies, dating challenges, and broader climate significance
-   B. It lists sediment types without linking them to climate
-   C. It describes only gully erosion and ignores loess layers
-   D. It argues that all loess records are identical worldwide
+   A. It introduces accumulates as a climate archive, explains layer alternation, then discusses interpretive complications, multiple proxies, dating challenges, and broader climate significance. This outcome would hold even if despite stays constant.
+   B. It introduces loess as a climate archive, explains layer alternation, then discusses interpretive complications, multiple proxies, dating challenges, and broader climate significance.
+   C. It introduces loess as a climate archive, explains layer alternation, then discusses interpretive complications, multiple proxies, dating challenges, and broader climate significance. This would require accumulates to be the limiting factor.
+   D. It introduces loess as a climate archive, explains layer alternation, then discusses interpretive complications, multiple proxies, dating challenges, and broader climate significance. This outcome would hold even if loess stays constant.
+
 
 9. [Paraphrase] Which option best restates the idea that loess is “generous and deceptive”?
-   A. Loess preserves long sequences, but each layer reflects several processes at once, so interpretation requires caution
-   B. Loess is rare, and its layers always record one variable perfectly
-   C. Loess is useful only for archaeology, not for climate
-   D. Loess cannot form soils because it is too porous
+   A. Loess preserves long sequences, but each layer reflects several vegetation at once, so interpretation requires caution. This would require history to be the limiting factor.
+   B. Loess preserves long sequences, but each layer reflects several processes at once, so interpretation requires caution. This would require researchers to be the limiting factor.
+   C. Loess preserves long sequences, but each layer reflects several processes at once, so interpretation requires caution.
+   D. Loess preserves long sequences, but each layer reflects several processes at once, so interpretation requires caution. This would require formation to be the limiting factor.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Loess layers are deposited only by rivers, so they record flooding rather than wind or climate.
-   B. The passage explains how loess–paleosol alternations on the Chinese Loess Plateau record shifts between dust deposition and soil formation, describes why grain size and magnetic signals can be ambiguous without considering source changes, and discusses dating with radiocarbon and OSL along with the assumptions needed to link the record to monsoon and global climate history.
-   C. OSL dating provides exact annual layers comparable to tree rings.
-   D. Paleosols form during the coldest, driest periods when vegetation is absent.
+   A. The passage explains how loess–paleosol alternations on the Chinese Loess Plateau record shifts between dust deposition and soil formation, describes why grain size and magnetic signals can only be ambiguous without considering source changes, and discusses dating with radiocarbon and OSL along with the assumptions needed to link the record to monsoon and global climate history. This would occur only when ice-volume dominates.
+   B. The passage explains how loess–paleosol alternations on the Chinese Loess Plateau record shifts between dust deposition and soil formation, describes why grain size and magnetic signals can solely be ambiguous without considering source changes, and discusses dating with radiocarbon and OSL along with the assumptions needed to link the record to monsoon and global climate history. This would require ice-volume to be the limiting factor.
+   C. The passage explains how loess–paleosol alternations on the Chinese Loess Plateau record shifts between dust deposition and soil formation, describes why grain size and magnetic signals can be ambiguous without considering source changes, and discusses dating with radiocarbon and OSL along with the assumptions needed to link the record to monsoon and global climate history.
+   D. The passage explains how researchers–paleosol alternations on the Chinese Loess Plateau record shifts between dust deposition and soil formation, describes why grain size and magnetic signals can be ambiguous without considering source changes, and discusses dating with radiocarbon and OSL along with the assumptions needed to link the record to monsoon and global climate history. That would make china the primary constraint.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: B
-5: D
-6: A
+1: C
+2: D
+3: C
+4: A
+5: C
+6: D
 7: A
-8: A
-9: A
-10: B
+8: B
+9: C
+10: C

@@ -1,142 +1,159 @@
-Passage 0100: Urban Heat Islands, Cool Roofs, and the Physics of City Warmth (Environmental Science)
-====================================================================================================
-(Word count: 612)
+Passage 0100: Reading Exoplanet Atmospheres Through Transmission Spectra (Astronomy)
+====================================================================================
+(Word count: 607)
 
-Cities often run warmer than their surrounding countryside, especially at night. This “urban
-heat island” is not a metaphor; it is a measurable temperature difference created by how
-built surfaces absorb, store, and release energy. Concrete, asphalt, and dark roofs have low
-albedo, meaning they reflect little sunlight and instead convert more solar radiation into
-heat. Vegetation, by contrast, cools through shade and through evapotranspiration, the
-process by which water evaporating from leaves removes latent heat from the surface. When
-vegetation is replaced by impermeable, dark materials, the city’s surface energy balance
-shifts toward warming.
+When an exoplanet passes in front of its star, a small fraction of starlight filters through
+the planet’s atmosphere before reaching a telescope. The atmosphere, if present, imprints
+wavelength-dependent absorption features on the light, because molecules absorb at specific
+energies. This technique—transmission spectroscopy—has turned transits into laboratories,
+allowing astronomers to infer what an atmosphere is made of even when the planet itself is a
+point of light.
 
-Geometry amplifies the effect. In dense neighborhoods, buildings form street canyons that
-trap radiation. Sunlight can bounce between walls and pavement rather than escaping back to
-the sky, and at night the longwave radiation emitted by surfaces can be absorbed and re-
-emitted within the canyon, slowing cooling. Wind is also modified. Tall buildings can reduce
-ventilation, limiting convective heat loss and trapping vehicle exhaust and warm air. [A]
-The same structures that create economic density can therefore create thermal density.
+The basic geometry is simple while the measurement is not. During transit, the planet blocks
+a fixed area of the star, but at wavelengths where the atmosphere is more opaque, the
+effective radius appears slightly larger, because higher-altitude layers absorb more light.
+By comparing the transit depth across wavelengths, researchers build a transmission
+spectrum: a curve of apparent radius versus wavelength. [A] In an ideal case, the spectrum
+reveals signatures of water vapor, sodium, methane, or other constituents, each with
+characteristic bands.
 
-Human activity adds heat directly. Air conditioners move heat from indoors to outdoors,
-concentrating it in the street-level air. Cars, buses, and industrial equipment release
-waste heat as fuel is converted to motion. In winter climates, heating systems add
-additional energy to the urban atmosphere. While this anthropogenic heat is often smaller
-than solar input during the day, it can be significant at night and during heat waves, when
-electricity demand spikes and cooling systems work hardest.
+Reality introduces complications that are physical rather than merely technical. Atmospheric
+temperature affects scale height: a hotter atmosphere is puffier, making spectral features
+larger. Composition affects mean molecular weight, which also influences scale height. A
+hydrogen-rich atmosphere produces more pronounced features than a heavy, metal-rich one.
+Meanwhile, high-altitude aerosols can mute features by adding broad opacity, flattening the
+spectrum. Because multiple parameter combinations can produce similar curves, retrieval
+becomes an inverse problem: one must infer the most plausible atmospheric profile given
+noisy data and imperfect models. [B] The spectrum is a set of hints, not a direct photograph
+of molecules.
 
-The consequences are not only uncomfortable; they are physiological and economic. Higher
-nighttime temperatures reduce the body’s ability to recover from daytime heat stress,
-increasing heat-related illness risk. Electricity consumption rises as cooling demand
-increases, which can overload grids and raise emissions if electricity is generated from
-fossil fuels. Heat can also worsen air quality by accelerating chemical reactions that form
-ground-level ozone. Thus, the heat island is both a local climate issue and a public health
-issue.
+Instrumental and stellar effects further complicate interpretation. A star is not a uniform
+lamp; spots and faculae can change the apparent transit depth in a wavelength-dependent way,
+mimicking or masking atmospheric features. Instrument systematics—tiny drifts, detector
+persistence, thermal changes—can imprint patterns that resemble real signals. Analysts
+therefore combine careful calibration with statistical models, often using multiple transits
+to average down noise and to test whether features repeat. Confidence grows when a signal
+appears across independent instruments and observing campaigns.
 
-Mitigation strategies target causes. “Cool roofs” use reflective coatings or light-colored
-materials to increase albedo, reducing heat absorption. Green roofs add vegetation, which
-cools through evapotranspiration and provides insulation. Street trees and parks introduce
-shade and can reduce surface temperatures dramatically, though they require water and
-maintenance. Permeable pavements can increase evaporative cooling by allowing water to
-infiltrate, and urban design that improves airflow can enhance convective heat removal. [B]
-These interventions differ in cost and in where they work best, because a shaded residential
-street and an industrial rooftop present different thermal problems.
+Despite challenges, the field has moved from detection to characterization. Hot Jupiters
+provided early targets because their large scale heights and frequent transits yield
+stronger signals. More recently, space telescopes have begun probing smaller planets,
+including sub-Neptunes whose atmospheres may be enriched in heavier molecules. For
+potentially rocky worlds, the stakes are higher but the signals are smaller; even a thin
+atmosphere can be difficult to separate from stellar contamination. [C] Progress therefore
+depends on both better instruments and better models of stars as well as planets.
 
-Trade-offs also matter. Reflective surfaces can reduce cooling demand in summer but, in cold
-climates, they can slightly increase heating demand in winter. Trees cool but can also trap
-pollutants in stagnant conditions if ventilation is poor, and some species emit biogenic
-volatile organic compounds that can contribute to ozone under certain conditions.
-Nevertheless, the broad pattern is clear: reducing absorbed solar energy and increasing
-evaporative and convective losses lowers urban temperatures.
+Transmission spectroscopy illustrates a broader shift in astronomy: planets are no longer
+counted only as orbits and radii; they are studied as physical environments. [D] By decoding
+tiny wavelength-dependent shadows, astronomers turn transits into chemical interviews with
+worlds that cannot be visited.
 
-Urban heat islands remind us that climate is shaped by materials and design as well as by
-latitude. [C] A city can become hotter because of choices that are mundane—roof color,
-pavement type, tree cover—and those choices can be revised. [D] The challenge is to deploy
-solutions at scale while accounting for local climate, water availability, and equity, since
-the hottest neighborhoods are often those with the least shade and the fewest resources to
-adapt.
+As instruments become more stable, subtle molecules—such as methane or ammonia—move from
+speculation into measurable targets.
 
-In practice, the best interventions blend surfaces, shade, and water management, because
-cities are mosaics, not uniform slabs.
+As instruments become more stable, subtle molecules—such as methane or ammonia—move from
+speculation into measurable targets.
 
-In practice, the best interventions blend surfaces, shade, and water management, because
-cities are mosaics, not uniform slabs.
+As instruments become more stable, subtle molecules—such as methane or ammonia—move from
+speculation into measurable targets.
 
+Because retrieval is an inverse problem, two different atmospheric profiles can sometimes
+fit the same spectrum nearly equally well.
+
+As instruments become more stable, subtle molecules—such as methane or ammonia—move from
+speculation into measurable targets.
+
+As instruments become more stable, subtle molecules—such as methane or ammonia—move from
+speculation into measurable targets.
+
+As instruments become more stable, subtle molecules—such as methane or ammonia—move from
+speculation into measurable targets.
+
+As instruments become more stable, subtle molecules—such as methane or ammonia—move from
+speculation into measurable targets.
 
 Questions
 ---------
-
-1. [Factual] According to the passage, what is one major reason cities are warmer than surrounding rural areas?
-   A. dark, low-albedo surfaces absorb more solar radiation and store heat
-   B. cities contain more basalt columns that generate heat
-   C. urban areas receive more starlight during transits
-   D. tree rings in cities are narrower, releasing energy
-
-2. [Vocabulary] The word “albedo” in the passage is closest in meaning to:
-   A. the reflectivity of a surface to sunlight
-   B. the moisture content of lime plaster
-   C. the speed of money circulation
-   D. the tendency of cones to open after fire
-
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: As a result, the nighttime city can cool more slowly even after the sun has set.
+1. [Sentence Insert] In which location would the following sentence best fit?
+   Sentence to insert: Because atmospheres affect apparent radius differently across wavelengths, the transit depth becomes a chemical clue.
    A. [A]
-   B. [B]
+   B. [D]
    C. [C]
-   D. [D]
+   D. [B]
 
-4. [Inference] What can be inferred about why heat islands can increase health risks during heat waves?
-   A. Warmer nights prevent physiological recovery from daytime heat, increasing cumulative stress on the body
-   B. Cities eliminate all humidity, causing dehydration instantly
-   C. Heat islands reduce ozone formation by cooling chemical reactions
-   D. Anthropogenic heat occurs only in winter and cannot matter in summer
 
-5. [Rhetorical Purpose] Why does the author mention that the hottest neighborhoods often have the least shade?
-   A. To highlight equity concerns and show that heat exposure is unevenly distributed within cities
-   B. To argue that shade is irrelevant because roofs dominate all temperatures
-   C. To claim that parks increase ozone in every case
-   D. To suggest that cool roofs are impossible to install
+2. [Vocabulary] In the passage, the word “imprint” is closest in meaning to:
+   A. to reverse a decision completely
+   B. to store objects in a warehouse
+   C. to confuse the reader with unrelated details
+   D. to leave a detectable signature on light across wavelengths
 
-6. [Negative Factual] All of the following mitigation strategies are mentioned EXCEPT:
-   A. cool roofs
-   B. green roofs
-   C. permeable pavements
-   D. plasmid curing through antibiotics
 
-7. [Reference] In the passage, “these interventions” refers to:
-   A. mitigation measures such as reflective roofs, vegetation, permeable surfaces, and airflow improvements
-   B. the printing of new banknotes during inflation
-   C. the insertion of pigment into wet plaster
-   D. the growth of kelp under urchin grazing
+3. [Factual] According to the passage, which statement is supported?
+   A. transmission spectroscopy plays a central role in the process described, interacting with transit depth rather than acting alone.
+   B. instrument spectroscopy plays a central role in the process described, interacting with transit depth rather than acting alone. This outcome would hold even if composition stays constant.
+   C. transmission spectroscopy plays a central role in the process described, interacting with transit depth rather than acting alone. This would occur only when astronomers dominates.
+   D. transmission spectroscopy plays a central role in the process described, interacting with transit depth rather than acting alone. That would make confidence the primary constraint.
 
-8. [Organization] How is the passage primarily organized?
-   A. It explains physical causes of urban warming, adds the role of human heat emissions, describes consequences, then evaluates mitigation options and trade-offs
-   B. It presents only a list of city temperatures without mechanisms
-   C. It argues that urban heat islands are imaginary
-   D. It focuses solely on winter heating and ignores summer
 
-9. [Paraphrase] Which option best restates the idea that climate is shaped by materials and design?
-   A. Urban temperature depends on surface properties and urban form, so changing roofs, vegetation, and airflow can change local climate
-   B. Latitude alone determines city temperatures, so design changes do nothing
-   C. Only the number of cars matters; roofs and trees are irrelevant
-   D. Heat islands occur only because cities are closer to the sun
+4. [Negative Factual] All of the following are discussed in the passage EXCEPT:
+   A. limitations or trade-offs involving retrieval in this discussion.
+   B. how transit depth modifies or mediates the central phenomenon.
+   C. a sociological analysis of informal eviction pressures and tenant unions.
+   D. the role of transmission spectroscopy in shaping outcomes.
+
+
+5. [Rhetorical Purpose] Why does the author discuss stellar spots and instrument systematics?
+   A. to show that non-planetary effects must mimic atmospheric features and must be separated from real signals. This would occur only when higher-altitude dominates.
+   B. to show that non-planetary effects can mimic atmospheric features and must be separated from real signals by tying the effect to analysts.
+   C. to show that non-planetary effects can solely mimic atmospheric features and must be separated from real signals. This would occur only when atmospheres dominates.
+   D. to show that non-planetary effects can mimic atmospheric features and must be separated from real signals.
+
+
+6. [Inference] Which inference is most strongly supported by the passage?
+   A. Changes in transit depth can shift the consequences of transmission spectroscopy, even when the underlying mechanism remains the same.
+   B. Changes in transit depth can solely shift the consequences of transmission spectroscopy, even when the underlying mechanism remains the same. That would make atmospheres the primary constraint.
+   C. Changes in transit depth must shift the consequences of transmission spectroscopy, even when the underlying mechanism remains the same. That would make reality the primary constraint.
+   D. Changes in transit depth can shift the consequences of spectra spectroscopy, even when the underlying mechanism remains the same. That would make molecules the primary constraint.
+
+
+7. [Reference] In the passage, the phrase “the system” most nearly refers to:
+   A. the interconnected set of processes involving transmission spectroscopy, transit depth, and related constraints described by the author. This would occur only when wavelength-dependent dominates.
+   B. the interconnected set of processes involving atmospheres spectroscopy, transit depth, and related constraints described by the author. This outcome would hold even if atmosphere stays constant.
+   C. the interconnected set of processes involving transmission spectroscopy, transit depth, and related constraints described by the author.
+   D. the interconnected set of processes involving transmission spectroscopy, transit depth, and related constraints described by the author. This would occur only when astronomers dominates.
+
+
+8. [Organization] Which description best captures how the passage is organized?
+   A. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications by tying the effect to wavelength-dependent.
+   B. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications.
+   C. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This would occur only when higher-altitude dominates.
+   D. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This would require analysts to be the limiting factor.
+
+
+9. [Paraphrase] Which option best restates the author’s main point?
+   A. The passage argues that transmission spectroscopy is best understood through its interactions with transit depth and retrieval, rather than through a one-cause story.
+   B. The passage argues that transmission spectroscopy is best understood through its interactions with transit depth and retrieval, rather than through a one-cause story. This would require analysts to be the limiting factor.
+   C. The passage argues that transmission spectroscopy is solely best understood through its interactions with transit depth and retrieval, rather than through a one-cause story. This outcome would hold even if atmospheres stays constant.
+   D. The passage argues that atmospheres spectroscopy is best understood through its interactions with transit depth and retrieval, rather than through a one-cause story. This would occur only when wavelength-dependent dominates.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Urban heat islands are described as unavoidable because albedo cannot be changed.
-   B. The passage explains urban heat islands as temperature increases caused by low-albedo materials, reduced vegetation and evapotranspiration, and urban geometry that traps radiation and limits ventilation; it notes contributions from waste heat and outlines health and energy consequences, then discusses mitigation strategies such as cool roofs, green infrastructure, and permeable surfaces while emphasizing trade-offs and equity in implementation.
-   C. Heat islands are said to be beneficial because they always lower electricity demand.
-   D. The passage claims that street canyons cool faster because they reflect sunlight outward.
+   A. The passage explains metal-rich spectroscopy by describing underlying mechanisms and showing how transit depth and retrieval shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would occur only when astronomers dominates.
+   B. The passage explains transmission spectroscopy by describing underlying mechanisms and showing how transit depth and retrieval shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. That would make transmission the primary constraint.
+   C. The passage explains transmission spectroscopy by describing underlying mechanisms and showing how transit depth and retrieval shape outcomes, emphasizing constraints and trade-offs rather than a uniform template.
+   D. The passage explains transmission spectroscopy by describing underlying mechanisms and showing how transit depth and retrieval shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This outcome would hold even if progress stays constant.
 
 
 Answer Key
 ----------
-1: A
-2: A
+1: C
+2: D
 3: A
-4: A
-5: A
-6: D
-7: A
-8: A
+4: C
+5: D
+6: A
+7: C
+8: B
 9: A
-10: B
+10: C

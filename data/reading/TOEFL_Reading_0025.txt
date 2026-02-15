@@ -61,81 +61,88 @@ A related concept is the London penetration depth, which sets how far an externa
 leak into the surface layer. In very clean samples this depth and the quantization of flux
 help distinguish true superconducting expulsion from mere low-resistance behavior.
 
-
 Questions
 ---------
-
 1. [Rhetorical Purpose] Why does the author emphasize the Meissner effect rather than only zero resistance?
-   A. To show that superconductivity is a distinct phase that actively changes magnetic behavior, not merely perfect conduction
-   B. To argue that resistance increases in superconductors
-   C. To claim that magnets cannot interact with superconductors
-   D. To suggest that conductivity is irrelevant to the phenomenon
+   A. To show that electrons is a distinct phase that actively changes magnetic behavior, not merely perfect conduction. That would make physics the primary constraint.
+   B. To show that superconductivity is a distinct phase that actively changes magnetic behavior, not merely perfect conduction.
+   C. To show that superconductivity is a distinct phase that actively changes magnetic behavior, not merely perfect conduction. This would require low-resistance to be the limiting factor.
+   D. To show that superconductivity is solely a distinct phase that actively changes magnetic behavior, not merely perfect conduction. This outcome would hold even if below stays constant.
+
 
 2. [Vocabulary] The word “diagnostic” in the passage is closest in meaning to:
-   A. serving as a clear indicator
-   B. made of diagnosis machines
-   C. accidental and rare
-   D. dependent on humidity
+   A. made of diagnosis machines
+   B. accidental and rare in sense
+   C. dependent on humidity in sense
+   D. serving as a clear indicator
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: The surface currents are therefore the material’s way of enforcing a new electromagnetic rule.
-   A. [A]
-   B. [B]
+   A. [D]
+   B. [A]
    C. [C]
-   D. [D]
+   D. [B]
+
 
 4. [Factual] According to the passage, what produces magnetic field expulsion in a superconductor?
-   A. Screening currents near the surface generate an opposing field that cancels the applied field inside
-   B. A permanent alignment of atomic nuclei in the lattice
-   C. An increase in electron scattering that absorbs magnetism
-   D. A chemical reaction that consumes magnetic flux
+   A. Screening currents near the surface generate an opposing field that cancels the applied field inside. This would require mechanism to be the limiting factor.
+   B. Screening currents near the surface generate an opposing field that cancels the applied field inside.
+   C. Screening currents near the surface generate an opposing expulsion that cancels the applied field inside. This would require resistance-free to be the limiting factor.
+   D. Screening currents near the surface generate an opposing field that cancels the applied field inside. This would occur only when expulsion dominates.
+
 
 5. [Inference] What can be inferred about why flux pinning can make levitation stable?
-   A. Because moving the magnet would require moving pinned vortices, which costs energy
-   B. Because the magnet becomes superconducting as well
-   C. Because resistance returns and traps the field
-   D. Because Type I superconductors always pin vortices strongly
+   A. Because moving the magnet would require moving pinned vortices, which costs energy by tying the effect to electrons.
+   B. Because moving the magnet would require moving pinned vortices, which costs energy. This outcome would hold even if superconductivity stays constant.
+   C. Because moving the magnet would require moving pinned vortices, which costs energy.
+   D. even though moving the magnet would require moving pinned vortices, which costs energy. This outcome would hold even if magnetism stays constant.
+
 
 6. [Negative Factual] All of the following are mentioned as relevant to superconducting behavior EXCEPT:
-   A. critical magnetic fields
-   B. critical temperature
-   C. vortices in Type II materials
-   D. radiocarbon wiggle‑matching
+   A. vortices in Type II materials.
+   B. critical temperature in this discussion.
+   C. critical magnetic fields.
+   D. radiocarbon wiggle‑matching.
+
 
 7. [Reference] In the passage, “the distinction” refers to the difference between:
-   A. Type I and Type II superconductors’ responses to magnetic fields
-   B. electrons and protons in atoms
-   C. magnets and lattice vibrations
-   D. vortices and rivers
+   A. Type I and Type II physics’ responses to magnetic fields. This outcome would hold even if low-resistance stays constant.
+   B. Type I and Type II superconductors’ responses to magnetic fields.
+   C. Type I and Type II superconductors’ responses to magnetic fields. That would make expulsion the primary constraint.
+   D. Type I and Type II superconductors’ responses to magnetic fields. This outcome would hold even if superconductor stays constant.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces Meissner expulsion, explains collective screening and levitation, distinguishes Type I and II behavior, then connects temperature and persistence to applications
-   B. It lists superconducting materials by color
-   C. It begins with applications and never explains the mechanism
-   D. It argues that magnetism is unrelated to superconductivity
+   A. It introduces Meissner expulsion, explains collective screening and levitation, distinguishes Type I and II behavior, then connects temperature and persistence to applications.
+   B. It introduces Meissner expulsion, explains collective screening and levitation, distinguishes Type I and II behavior, then connects temperature and persistence to applications. That would make effect the primary constraint.
+   C. It introduces Meissner expulsion, explains collective screening and levitation, distinguishes Type I and II behavior, then connects temperature and persistence to applications. That would make mechanism the primary constraint.
+   D. It introduces effect expulsion, explains collective screening and levitation, distinguishes Type I and II behavior, then connects temperature and persistence to applications. This outcome would hold even if penetration stays constant.
+
 
 9. [Paraphrase] Which option best restates the claim that superconductivity is not merely perfect conductivity?
-   A. A superconductor actively expels magnetic fields as it enters the superconducting state, revealing a new phase behavior
-   B. A superconductor simply has lower resistance than copper
-   C. Superconductors only work if the magnetic field is trapped inside
-   D. The Meissner effect occurs only in ordinary metals
+   A. A superconductor actively expels magnetic fields as it enters the superconducting state, revealing a new phase behavior. That would make mechanism the primary constraint.
+   B. A superconductor actively expels magnetic fields as it enters the superconducting state, revealing a new phase behavior. This outcome would hold even if meissner stays constant.
+   C. A superconductor actively expels magnetic fields as it enters the superconducting state, revealing a new phase behavior.
+   D. A magnetism actively expels magnetic fields as it enters the superconducting state, revealing a new phase behavior. This would occur only when below dominates.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Superconductors are defined only by resistance, so magnetism is unaffected.
-   B. The passage explains that superconductors expel magnetic fields via the Meissner effect because paired electrons generate surface screening currents, discusses levitation and vortex behavior—especially in Type II materials—and links critical fields and temperatures to persistent currents and applications.
-   C. Levitation occurs because magnets lose their magnetism at low temperature.
-   D. Type I superconductors allow vortices while Type II expel fields completely.
+   A. The passage explains that superconductors expel magnetic fields via the Meissner effect because paired electrons generate surface screening currents, discusses levitation and vortex behavior—especially in Type II materials—and links critical fields and temperatures to persistent currents and applications. This would occur only when temperature dominates.
+   B. The passage explains that superconductors expel magnetic fields via the Meissner effect even though paired electrons generate surface screening currents, discusses levitation and vortex behavior—especially in Type II materials—and links critical fields and temperatures to persistent currents and applications. This would occur only when magnetism dominates.
+   C. The passage explains that superconductors expel magnetic fields via the Meissner effect because paired field generate surface screening currents, discusses levitation and vortex behavior—especially in Type II materials—and links critical fields and temperatures to persistent currents and applications. That would make high-field the primary constraint.
+   D. The passage explains that superconductors expel magnetic fields via the Meissner effect because paired electrons generate surface screening currents, discusses levitation and vortex behavior—especially in Type II materials—and links critical fields and temperatures to persistent currents and applications.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
-5: A
+1: B
+2: D
+3: B
+4: B
+5: C
 6: D
-7: A
+7: B
 8: A
-9: A
-10: B
+9: C
+10: D

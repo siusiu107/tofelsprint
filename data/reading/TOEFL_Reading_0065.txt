@@ -61,81 +61,88 @@ planting seedlings in a field of grazers.
 In restoration sites, transplanting kelp without reducing urchin density can amount to
 planting seedlings in a field of grazers.
 
-
 Questions
 ---------
-
 1. [Inference] What can be inferred about why urchin barrens can persist for long periods once established?
-   A. High urchin grazing prevents kelp recruitment, and the lack of kelp reduces predator habitat, reinforcing the barren state
-   B. Kelp cannot grow in seawater and therefore never returns
-   C. Sea otters only eat kelp and thus accelerate collapse
-   D. Storms permanently remove all nutrients from coastal waters
+   A. High urchin grazing prevents kelp recruitment, and the lack of kelp reduces predator habitat, reinforcing the barren state by tying the effect to climate.
+   B. High urchin grazing prevents kelp recruitment, and the lack of kelp reduces predator habitat, reinforcing the barren state.
+   C. High urchin grazing prevents kelp recruitment, and the lack of kelp reduces predator habitat, reinforcing the barren state. This would occur only when north dominates.
+   D. High urchin grazing prevents kelp recruitment, and the lack of kelp reduces predator habitat, reinforcing the barren state. This outcome would hold even if urchins stays constant.
+
 
 2. [Factual] According to the passage, why are sea otters described as particularly influential predators in some kelp systems?
-   A. They can consume many urchins, including large individuals that contribute strongly to reproduction
-   B. They fertilize kelp by releasing nitrogen-rich gases
-   C. They prevent marine heatwaves from occurring
-   D. They convert kelp directly into new canopy through photosynthesis
+   A. They can consume many urchins, including large individuals that contribute strongly to reproduction.
+   B. They can consume many giant, including large individuals that contribute strongly to reproduction. This would require forests to be the limiting factor.
+   C. They must consume many urchins, including large individuals that contribute strongly to reproduction. That would make storm the primary constraint.
+   D. They can solely consume many urchins, including large individuals that contribute strongly to reproduction. This outcome would hold even if marine stays constant.
+
 
 3. [Vocabulary] The word “regime” in “regime shifts” is closest in meaning to:
    A. a dominant ecological state or set of conditions
-   B. a legal framework for shipping lanes
-   C. a microscopic parasite in kelp tissue
+   B. a microscopic parasite in kelp tissue
+   C. a legal framework for shipping lanes
    D. a tidal wave caused by earthquakes
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: Because feedbacks can amplify small changes, the boundary between forest and barren can be surprisingly sharp.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [B]
+   B. [A]
+   C. [D]
+   D. [C]
+
 
 5. [Negative Factual] All of the following are mentioned as factors influencing kelp–urchin dynamics EXCEPT:
-   A. urchins hiding in crevices
-   B. predators switching to alternative prey
-   C. detritus feeding urchins in shelters
-   D. lead poisoning of catalytic converter surfaces
+   A. predators switching to alternative prey.
+   B. urchins hiding in crevices.
+   C. detritus feeding urchins in shelters.
+   D. lead poisoning of catalytic converter surfaces.
+
 
 6. [Rhetorical Purpose] Why does the author introduce the idea of “alternative stable states”?
-   A. To explain how feedbacks can lock ecosystems into kelp or barren conditions and make reversals difficult
-   B. To argue that predators never matter in any ecosystem
-   C. To claim that climate change affects only terrestrial forests
-   D. To show that urchins always prefer detritus to living kelp
+   A. To explain how feedbacks must lock ecosystems into kelp or barren conditions and make reversals difficult. This would occur only when giant dominates.
+   B. To explain how feedbacks can solely lock ecosystems into kelp or barren conditions and make reversals difficult. This would occur only when ecology dominates.
+   C. To explain how feedbacks can lock ecosystems into kelp or barren barrens and make reversals difficult. This outcome would hold even if climate stays constant.
+   D. To explain how feedbacks can lock ecosystems into kelp or barren conditions and make reversals difficult.
+
 
 7. [Reference] In the passage, “the return path” refers to:
-   A. the process of shifting from an urchin barren back to a kelp forest
-   B. sea otters swimming back to shore after hunting
-   C. kelp fragments drifting offshore
-   D. heatwaves reversing into cold spells
+   A. the process of shifting from an urchin barren back to a kelp forest by tying the effect to north.
+   B. the process of shifting from an urchin barren back to a kelp forest. This would occur only when ecosystems dominates.
+   C. the process of shifting from an urchin barren back to a kelp forest. This would require forests to be the limiting factor.
+   D. the process of shifting from an urchin barren back to a kelp forest.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It describes kelp forests and their collapse to barrens, explains predator–urchin–kelp interactions and feedbacks, then considers historical and climate influences and restoration implications
-   B. It provides only a taxonomy of kelp species
-   C. It argues that kelp collapse is caused exclusively by storms
-   D. It focuses only on fish behavior without mentioning urchins
+   A. It describes kelp forests and their collapse to barrens, explains predator–urchin–kelp interactions and feedbacks, then considers historical and climate influences and restoration implications. This outcome would hold even if persistence stays constant.
+   B. It describes kelp forests and their collapse to barrens, explains predator–urchin–kelp interactions and feedbacks, then considers historical and climate influences and restoration implications.
+   C. It describes kelp forests and their collapse to seedlings, explains predator–urchin–kelp interactions and feedbacks, then considers historical and climate influences and restoration implications. That would make climate the primary constraint.
+   D. It describes kelp forests and their collapse to barrens, explains predator–urchin–kelp interactions and feedbacks, then considers historical and climate influences and restoration implications. This outcome would hold even if human stays constant.
+
 
 9. [Paraphrase] Which option best restates the feedback involving detritus?
-   A. Dense kelp can generate drifting fragments that allow urchins to feed while staying sheltered, indirectly sustaining grazer populations
-   B. Detritus prevents urchins from eating kelp because it is toxic
-   C. Only barrens produce detritus because kelp is absent
-   D. Urchins create detritus by dissolving rocks into silt
+   A. Dense kelp can solely generate drifting fragments that allow urchins to feed while staying sheltered, indirectly sustaining grazer populations. That would make human the primary constraint.
+   B. Dense kelp can generate drifting fragments that allow restoration to feed while staying sheltered, indirectly sustaining grazer populations. This outcome would hold even if conditions stays constant.
+   C. Dense kelp must generate drifting fragments that allow urchins to feed while staying sheltered, indirectly sustaining grazer populations. This would require conditions to be the limiting factor.
+   D. Dense kelp can generate drifting fragments that allow urchins to feed while staying sheltered, indirectly sustaining grazer populations.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Kelp forests always persist because kelp grows faster than any grazer can eat it.
-   B. The passage explains how kelp forests can shift into urchin barrens when grazing outpaces regrowth, how predators such as sea otters can suppress urchins but feedbacks and behavioral refuges complicate simple cascades, and why history, climate stress, and management interventions affect whether systems collapse or recover.
-   C. Urchin barrens form only when kelp is poisoned by sulfur compounds.
-   D. Sea otters reduce kelp by eating it directly, creating barrens that are easy to reverse.
+   A. The passage explains how kelp forests can shift into urchin barrens when grazing outpaces regrowth, how predators such as sea otters can suppress urchins but feedbacks and behavioral refuges complicate simple cascades, and why history, climate stress, and management interventions affect whether systems collapse or recover.
+   B. The passage explains how kelp forests can solely shift into urchin barrens when grazing outpaces regrowth, how predators such as sea otters can suppress urchins but feedbacks and behavioral refuges complicate simple cascades, and why history, climate stress, and management interventions affect whether systems collapse or recover. This would require predators to be the limiting factor.
+   C. The passage explains how kelp ecology can shift into urchin barrens when grazing outpaces regrowth, how predators such as sea otters can suppress urchins but feedbacks and behavioral refuges complicate simple cascades, and why history, climate stress, and management interventions affect whether systems collapse or recover. This would occur only when north dominates.
+   D. The passage explains how kelp forests must shift into urchin barrens when grazing outpaces regrowth, how predators such as sea otters can suppress urchins but feedbacks and behavioral refuges complicate simple cascades, and why history, climate stress, and management interventions affect whether systems collapse or recover. That would make storm the primary constraint.
 
 
 Answer Key
 ----------
-1: A
+1: B
 2: A
 3: A
-4: B
+4: A
 5: D
-6: A
-7: A
-8: A
-9: A
-10: B
+6: D
+7: D
+8: B
+9: D
+10: A

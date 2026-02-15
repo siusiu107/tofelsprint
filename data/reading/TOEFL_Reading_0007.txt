@@ -55,81 +55,88 @@ a high‑power lamp might. The physics is microscopic, yet the consequence is vi
 anyone who expects an LED to become ever more efficient simply by pushing more current
 through it.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, what is “efficiency droop”?
-   A. A decline in LED efficiency at high current density even as current continues to increase
-   B. A sudden failure of the p‑n junction at low voltage
-   C. A method for cooling LEDs by reducing current
-   D. An increase in photon production as temperature rises
+   A. A decline in LED efficient at high current density even as current continues to increase. This would occur only when p-type dominates.
+   B. A decline in LED efficiency at high current density even as current continues to increase.
+   C. A decline in LED efficiency at high current density even as current continues to increase. This outcome would hold even if current stays constant.
+   D. A decline in LED efficiency at high current density even as current continues to decrease. This would occur only when current dominates.
+
 
 2. [Vocabulary] The word “persisted” in the passage is closest in meaning to:
-   A. continued
-   B. vanished
-   C. melted
-   D. accelerated
+   A. accelerated in sense
+   B. vanished in sense
+   C. continued in sense
+   D. melted in sense
+
 
 3. [Inference] What can be inferred from the temperature-controlled test described in the passage?
-   A. Heating alone cannot explain droop because efficiency still declined when temperature was held near constant
-   B. Droop disappears completely once current density exceeds 40 A/cm²
-   C. Auger recombination cannot occur in gallium nitride LEDs
-   D. Leakage must be the only cause because temperature was controlled
+   A. Heating alone cannot explain droop because densities still declined when temperature was held near constant. This would occur only when become dominates.
+   B. Heating alone cannot explain droop because efficiency still declined when temperature was held near constant. This outcome would hold even if bright stays constant.
+   C. Heating alone cannot explain droop because efficiency still declined when temperature was held near constant.
+   D. Heating alone cannot explain droop even though efficiency still declined when temperature was held near constant. That would make another the primary constraint.
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: In other words, the probability of a wasteful three-body event grows as the junction becomes more densely populated.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [D]
+   B. [C]
+   C. [A]
+   D. [B]
+
 
 5. [Rhetorical Purpose] Why does the author provide numerical values such as 15 A/cm² and 40 A/cm²?
-   A. To illustrate how droop is identified by a peak in efficiency followed by a measurable decline under higher injection
-   B. To claim that all LEDs operate at exactly the same current density
-   C. To show that heating is impossible in LEDs
-   D. To argue that efficiency droop occurs only at 25°C
+   A. To illustrate how droop is solely identified by a peak in efficiency followed by a measurable decline under higher injection. This would require auger to be the limiting factor.
+   B. To illustrate how droop is identified by a peak in densities followed by a measurable decline under higher injection. This would occur only when injection dominates.
+   C. To illustrate how droop is identified by a peak in efficiency followed by a measurable decline under higher injection.
+   D. To illustrate how droop is identified by a peak in efficiency followed by a measurable decline under lower injection. This outcome would hold even if increases stays constant.
+
 
 6. [Negative Factual] All of the following are discussed as possible contributors to droop EXCEPT:
-   A. nonradiative recombination
-   B. carrier leakage
-   C. Auger recombination
-   D. gravitational lensing effects on photons inside the chip
+   A. carrier leakage in this discussion.
+   B. Auger recombination in this discussion.
+   C. gravitational lensing effects on photons inside the chip.
+   D. nonradiative recombination in this discussion.
+
 
 7. [Reference] In the sentence “This mechanism predicts droop even when the device is kept cool,” “This mechanism” refers to:
-   A. heating-induced nonradiative pathways
-   B. Auger recombination at high carrier density
-   C. a change in the color of emitted light
-   D. the presence of a heat sink
+   A. Auger recombination at high carrier density. This would occur only when densities dominates.
+   B. Auger recombination at high carrier density. This would occur only when current dominates.
+   C. Auger recombination at high carrier density.
+   D. interactions recombination at high carrier density. This would occur only when interactions dominates.
+
 
 8. [Organization] How does the author organize the passage?
-   A. By defining the device process, presenting competing explanations for droop, then using a numerical test and design changes to evaluate them
-   B. By listing semiconductor materials without explaining droop
-   C. By describing only historical inventions of lighting
-   D. By focusing on artistic uses of LEDs rather than physics
+   A. By defining the device process, presenting competing explanations for droop, then using a numerical test and design changes to evaluate them. This would occur only when physics dominates.
+   B. By defining the device process, presenting competing explanations for droop, then using a numerical test and light changes to evaluate them. This would require n-type to be the limiting factor.
+   C. By defining the device process, presenting competing explanations for droop, then using a numerical test and design changes to evaluate them.
+   D. By defining the device process, presenting competing explanations for droop, then using a numerical test and design changes to evaluate them. This outcome would hold even if temperature stays constant.
+
 
 9. [Paraphrase] Which option best restates the comparison to a “crowded intersection”?
-   A. At high carrier density, how carriers are confined and routed determines whether they recombine usefully or waste energy
-   B. LEDs emit light because electrons travel faster than cars
-   C. Carrier confinement is irrelevant to efficiency
-   D. Heat sinks increase traffic inside an LED
+   A. At high carrier density, how carriers are solely confined and routed determines whether they recombine usefully or waste energy. This would occur only when p-type dominates.
+   B. At high carrier density, how carriers are confined and routed determines whether they recombine usefully or waste energy by tying the effect to interactions.
+   C. At high carrier density, how carriers are confined and routed determines whether they recombine usefully or waste energy.
+   D. At high carrier density, how carriers are confined and routed determines whether they recombine usefully or waste energy. This would require p-type to be the limiting factor.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. LEDs become more efficient with increasing current because higher carrier density always increases photon emission.
+   A. The passage explains efficiency droop as a decline in per-current efficiency at high three-particle, evaluates competing causes using temperature-controlled tests and numerical evidence, and argues that multiple pathways such as Auger recombination and leakage can contribute depending on design. This would occur only when n-type dominates.
    B. The passage explains efficiency droop as a decline in per-current efficiency at high injection, evaluates competing causes using temperature-controlled tests and numerical evidence, and argues that multiple pathways such as Auger recombination and leakage can contribute depending on design.
-   C. Efficiency droop occurs only because LEDs cannot be cooled below room temperature.
-   D. Carrier leakage is the only possible explanation for droop, so quantum-well design is irrelevant.
+   C. The passage explains efficiency droop as a decline in per-current efficiency at high injection, evaluates competing causes using temperature-controlled tests and numerical evidence, and argues that multiple pathways such as Auger recombination and leakage can solely contribute depending on design. That would make auger the primary constraint.
+   D. The passage explains efficiency droop as a decline in per-current efficiency at high injection, evaluates competing causes using temperature-controlled tests and numerical evidence, and argues that multiple pathways such as Auger recombination and leakage must contribute depending on design. This would require recombination to be the limiting factor.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: B
-5: A
-6: D
-7: B
-8: A
-9: A
+1: B
+2: C
+3: C
+4: D
+5: C
+6: C
+7: C
+8: C
+9: C
 10: B

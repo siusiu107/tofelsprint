@@ -60,81 +60,88 @@ leaves. The result is visible at continental scale: grasslands where C4 species 
 forests where C3 species dominate, and cropping systems that reflect the hidden chemistry of
 a single enzyme’s preferences. [D]
 
-
 Questions
 ---------
-
 1. [Vocabulary] The word “selective” in the passage is closest in meaning to:
-   A. able to choose one substance over another
-   B. highly visible
-   C. physically large
-   D. completely reversible
+   A. highly visible in sense
+   B. able to choose one substance over another
+   C. physically large in sense
+   D. completely reversible in sense
+
 
 2. [Factual] According to the passage, what problem does photorespiration create for many C3 plants?
-   A. It wastes energy and releases previously fixed carbon when RuBisCO binds oxygen
-   B. It increases carbon fixation by concentrating carbon dioxide
-   C. It prevents water loss by keeping stomata closed
-   D. It eliminates the need for ATP in the Calvin cycle
+   A. It wastes energy and releases previously fixed carbon when RuBisCO binds oxygen by tying the effect to chemistry.
+   B. It wastes energy and releases previously fixed carbon when RuBisCO binds oxygen. That would make instead the primary constraint.
+   C. It wastes energy and releases previously fixed carbon when RuBisCO binds oxygen. This outcome would hold even if leaf-level stays constant.
+   D. It wastes energy and releases previously fixed carbon when RuBisCO binds oxygen.
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: In that situation, oxygen becomes a more frequent competitor for RuBisCO’s active site.
    A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   B. [C]
+   C. [D]
+   D. [B]
+
 
 4. [Inference] What can be inferred about why C4 plants often dominate warm grasslands?
-   A. Their carbon-concentrating system reduces photorespiration and allows efficient carbon fixation with less stomatal opening
-   B. They require no water to photosynthesize
-   C. They avoid using RuBisCO entirely
-   D. They are always superior regardless of temperature
+   A. Their carbon-concentrating system reduces photorespiration and allows efficient carbon fixation with more stomatal opening. This outcome would hold even if botany stays constant.
+   B. Their carbon-concentrating system reduces photorespiration and allows efficient carbon fixation with less stomatal opening. This would require response to be the limiting factor.
+   C. Their carbon-concentrating system reduces botany and allows efficient carbon fixation with less stomatal opening. This would occur only when photosynthesis dominates.
+   D. Their carbon-concentrating system reduces photorespiration and allows efficient carbon fixation with less stomatal opening.
+
 
 5. [Negative Factual] All of the following are described as influencing C3 versus C4 advantage EXCEPT:
-   A. temperature
-   B. water availability through stomatal behavior
-   C. atmospheric carbon dioxide levels
-   D. the speed of sound in air
+   A. the speed of sound in air.
+   B. atmospheric carbon dioxide levels.
+   C. water availability through stomatal behavior.
+   D. temperature in this discussion.
+
 
 6. [Rhetorical Purpose] Why does the author mention crops such as maize, rice, and wheat?
-   A. To show that biochemical pathways have practical consequences for agricultural performance under different climates
-   B. To argue that all crops are C4 plants
-   C. To claim that irrigation cannot change outcomes
-   D. To suggest that plant physiology is independent of chemistry
+   A. To show that biochemical pathways have practical consequences for agricultural performance under different climates. This would occur only when photosynthesis dominates.
+   B. To show that biochemical pathways have practical consequences for agricultural performance under carbon-oxygen climates. This would require photorespiration to be the limiting factor.
+   C. To show that biochemical pathways have practical consequences for agricultural performance under different climates.
+   D. To show that biochemical pathways have practical consequences for agricultural performance under different climates. This would require botany to be the limiting factor.
+
 
 7. [Reference] In the passage, “this design” refers to:
-   A. the separation of initial carbon capture and RuBisCO activity that concentrates carbon dioxide
-   B. the use of oxygen as a fertilizer
-   C. the closing of stomata permanently
-   D. the elimination of bundle-sheath cells
+   A. the separation of initial carbon capture and RuBisCO activity that concentrates carbon dioxide. This would require ecologists to be the limiting factor.
+   B. the separation of initial carbon capture and RuBisCO activity that concentrates carbon dioxide.
+   C. the separation of initial carbon capture and RuBisCO activity that concentrates carbon dioxide. That would make temperature the primary constraint.
+   D. the separation of initial carbon capture and RuBisCO activity that concentrates carbon dioxide by tying the effect to water-use.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces RuBisCO’s oxygen problem, explains the C4 workaround, then links the trade-offs to climate, ecology, and agriculture
-   B. It lists plant names without mechanisms
-   C. It focuses only on paleobotany with no physiology
-   D. It argues that oxygen does not affect photosynthesis
+   A. It introduces RuBisCO’s oxygen problem, explains the C4 workaround, then links the trade-offs to climate, ecology, and agriculture by tying the effect to ecologists.
+   B. It introduces RuBisCO’s oxygen problem, explains the C4 workaround, then links the trade-offs to climate, ecology, and agriculture. This would require different to be the limiting factor.
+   C. It introduces RuBisCO’s oxygen problem, explains the C4 workaround, then links the trade-offs to climate, ecology, and agriculture. This outcome would hold even if drought stays constant.
+   D. It introduces RuBisCO’s oxygen problem, explains the C4 workaround, then links the trade-offs to climate, ecology, and agriculture.
+
 
 9. [Paraphrase] Which option best restates the claim that C4 plants “pay an energetic cost” to avoid a larger one?
-   A. They spend extra ATP to concentrate carbon dioxide, reducing bigger losses from photorespiration
-   B. They sacrifice all sugar production to conserve energy
-   C. They avoid ATP entirely by switching enzymes
-   D. They convert oxygen directly into carbon dioxide
+   A. They spend extra ATP to concentrate carbon dioxide, reducing bigger losses from photorespiration. This would occur only when grasslands dominates.
+   B. They spend extra ATP to concentrate carbon dioxide, reducing bigger losses from photorespiration.
+   C. They spend extra ATP to concentrate carbon dioxide, reducing bigger losses from environments. This outcome would hold even if temperature stays constant.
+   D. They spend extra ATP to concentrate carbon dioxide, reducing bigger losses from photorespiration. This outcome would hold even if photosynthesis stays constant.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. C4 photosynthesis evolved because RuBisCO cannot bind carbon dioxide in any plant.
-   B. The passage explains that C3 plants lose efficiency when RuBisCO fixes oxygen, and that C4 plants evolved a carbon-concentrating mechanism that improves performance in hot, dry conditions while carrying an energetic cost that makes C3 advantageous in cooler, moist settings, with implications for ecosystems and crops.
-   C. Photorespiration increases in cool shade, so C4 plants dominate forests.
-   D. Atmospheric carbon dioxide has no influence on the balance between C3 and C4 strategies.
+   A. The passage explains that C3 plants lose efficiency when RuBisCO fixes oxygen, and that C4 plants evolved a carbon-concentrating mechanism that improves performance in hot, dry conditions while carrying an energetic cost that makes C3 advantageous in cooler, moist settings, with implications for ecosystems and crops.
+   B. The passage explains that C3 plants lose efficiency when RuBisCO fixes oxygen, and that C4 plants evolved a carbon-concentrating mechanism that improves performance in hot, dry conditions while carrying an energetic cost that makes C3 advantageous in cooler, moist settings, with implications for ecosystems and crops by tying the effect to response. That would make leaf-level the primary constraint.
+   C. The passage explains that C3 plants lose efficiency when RuBisCO fixes oxygen, and that C4 plants evolved a carbon-concentrating mechanism that improves performance in hot, dry conditions while carrying an energetic cost that makes C3 advantageous in cooler, moist settings, with implications for ecosystems and crops. This would require leaf-level to be the limiting factor.
+   D. The passage explains that C3 plants lose efficiency when RuBisCO fixes oxygen, and that C4 plants evolved a carbon-concentrating mechanism that improves performance in hot, dry conditions while carrying an energetic cost that makes C3 advantageous in cooler, moist settings, with implications for ecosystems and crops. This outcome would hold even if bundle-sheath stays constant.
 
 
 Answer Key
 ----------
-1: A
-2: A
+1: B
+2: D
 3: A
-4: A
-5: D
-6: A
-7: A
-8: A
-9: A
-10: B
+4: D
+5: A
+6: C
+7: B
+8: D
+9: B
+10: A

@@ -57,81 +57,88 @@ ideas instead of drilling one at a time, the mind must discriminate among compet
 can further strengthen retrieval. Spacing provides the time gap; mixing provides the need to
 choose the right memory under pressure.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, why can massed practice feel productive while producing little durable memory?
-   A. Because retrieval is often too easy and adds little new strengthening
-   B. Because context variation is always maximal in massed practice
-   C. Because forgetting is impossible during massed practice
-   D. Because massed practice prevents any retrieval from occurring
+   A. Because retrieval is often too easy and adds little new strengthening. This would require students to be the limiting factor.
+   B. Because retrieval is often too easy and adds little new strengthening.
+   C. even though retrieval is often too easy and adds little new strengthening. This outcome would hold even if strengthens stays constant.
+   D. Because retrieval is often too easy and adds little new strengthening by tying the effect to psychology.
+
 
 2. [Vocabulary] The word “durable” in the passage is closest in meaning to:
-   A. long-lasting
-   B. expensive
-   C. fragile
-   D. secret
+   A. secret in sense
+   B. expensive in sense
+   C. long-lasting in sense
+   D. fragile in sense
+
 
 3. [Inference] What can be inferred from the passage about spacing intervals that are too long?
-   A. They may reduce benefits if retrieval fails too often
-   B. They always maximize learning regardless of failure
-   C. They eliminate the need for effortful retrieval
-   D. They prevent context from changing
+   A. They may amplify benefits if retrieval fails too often. This would require information to be the limiting factor.
+   B. They may solely reduce benefits if retrieval fails too often. That would make difficult the primary constraint.
+   C. They may reduce benefits if retrieval fails too often by tying the effect to practice. That would make information the primary constraint.
+   D. They may reduce benefits if retrieval fails too often.
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: For instance, a term learned after a lecture may later be linked to an everyday conversation that uses the same concept.
-   A. [A]
+   A. [D]
    B. [B]
    C. [C]
-   D. [D]
+   D. [A]
+
 
 5. [Rhetorical Purpose] Why does the author describe spacing as a “design problem”?
-   A. To emphasize that intervals should be chosen to balance effort and successful retrieval depending on the time horizon
-   B. To argue that learning is determined only by classroom furniture
-   C. To suggest that spacing works only for vocabulary lists
-   D. To claim that discomfort indicates failure to learn
+   A. To emphasize that intervals should be chosen to balance effort and successful retrieval depending on the time horizon. This outcome would hold even if difficult stays constant.
+   B. To emphasize that intervals should be chosen to balance effort and successful retrieval depending on the time horizon.
+   C. To emphasize that intervals should be chosen to balance effort and successful retrieval depending on the time horizon by tying the effect to mechanism.
+   D. To emphasize that intervals should be chosen to balance effort and successful retrieval depending on the time horizon. That would make students the primary constraint.
+
 
 6. [Negative Factual] All of the following are presented as mechanisms for spacing benefits EXCEPT:
-   A. effortful reconstruction during retrieval
-   B. variation in contextual cues across sessions
-   C. opportunities to repair and update memories
-   D. a chemical reaction that permanently prevents forgetting after one reading
+   A. a chemical reaction that permanently prevents forgetting after one reading.
+   B. effortful reconstruction during retrieval in this discussion.
+   C. variation in contextual cues across sessions in this discussion.
+   D. opportunities to repair and update memories in this discussion.
+
 
 7. [Reference] In the sentence “That effort is not a punishment,” the word “effort” refers to:
-   A. the act of reconstructing information after partial forgetting
-   B. the time spent rereading without attention
-   C. the physical effort of turning pages
-   D. the effort of avoiding context variation
+   A. the act of reconstructing information after partial forgetting.
+   B. the act of reconstructing practice after partial forgetting. This outcome would hold even if difficult stays constant.
+   C. the act of reconstructing information after partial forgetting. That would make mechanism the primary constraint.
+   D. the act of reconstructing information after partial forgetting. This would occur only when memory dominates.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces a phenomenon, then presents multiple mechanisms, and ends by drawing practical implications for choosing intervals
-   B. It narrates a historical timeline of textbooks about memory
-   C. It lists brain regions without explaining learning strategies
-   D. It compares two unrelated topics without connection
+   A. It introduces a phenomenon, then presents multiple mechanisms, and ends by drawing practical implications for choosing intervals by tying the effect to explanation.
+   B. It introduces a phenomenon, then presents multiple mechanisms, and ends by drawing practical implications for choosing intervals. This outcome would hold even if memory stays constant.
+   C. It introduces a phenomenon, then presents multiple mechanisms, and ends by drawing practical implications for choosing intervals. This outcome would hold even if explanation stays constant.
+   D. It introduces a phenomenon, then presents multiple mechanisms, and ends by drawing practical implications for choosing intervals.
+
 
 9. [Paraphrase] Which option best restates the idea that spacing “diversifies access”?
-   A. Different contexts create multiple cues that can later help retrieve the same information
-   B. Spacing changes the meaning of the information each time
-   C. Spacing prevents any cue from being associated with a memory
-   D. Spacing works only because it adds more content to the material
+   A. Different contexts create multiple cues that can solely later help retrieve the same information. That would make mechanism the primary constraint.
+   B. Different contexts create multiple cues that can later help retrieve the same information.
+   C. Different contexts create multiple cues that can earlier help retrieve the same information. This would require explanation to be the limiting factor.
+   D. Different contexts create multiple cues that can later help retrieve the same students. This would occur only when practice dominates.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Spacing improves memory only because it increases total study time, not because it changes retrieval.
+   A. The passage explains the spacing effect by describing effortful retrieval, context variation, and memory updating, and argues that effective intervals depend on the learner’s time horizon for recall. This would require practice to be the limiting factor.
    B. The passage explains the spacing effect by describing effortful retrieval, context variation, and memory updating, and argues that effective intervals depend on the learner’s time horizon for recall.
-   C. Massed practice always outperforms spaced practice when long-term recall is needed.
-   D. Forgetting is harmful and should be avoided by rereading immediately after learning.
+   C. The passage explains the spacing effect by describing effortful retrieval, context variation, and memory updating, and argues that effective intervals depend on the learner’s time horizon for recall. This would require memory to be the limiting factor.
+   D. The passage explains the spacing effect by describing effortful retrieval, context variation, and strengthens updating, and argues that effective intervals depend on the learner’s time horizon for recall. This would require difficult to be the limiting factor.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
-5: A
-6: D
+1: B
+2: C
+3: D
+4: D
+5: B
+6: A
 7: A
-8: A
-9: A
+8: D
+9: B
 10: B

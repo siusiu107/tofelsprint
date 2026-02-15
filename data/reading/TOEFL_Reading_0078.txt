@@ -65,81 +65,88 @@ in one context and unpleasant in another.
 Because expectations can be learned from prior experiences, the same pill can feel helpful
 in one context and unpleasant in another.
 
-
 Questions
 ---------
-
 1. [Vocabulary] The word “inert” in the passage is closest in meaning to:
-   A. inactive and lacking direct pharmacological effect
-   B. dangerous and toxic
-   C. expensive and branded
-   D. unpredictable and unstable
+   A. unpredictable and unstable in sense
+   B. expensive and branded in sense
+   C. inactive and lacking direct pharmacological effect
+   D. dangerous and toxic in sense
+
 
 2. [Factual] According to the passage, placebo analgesia can involve activation of:
-   A. endogenous opioid systems that reduce pain signaling
-   B. photosynthetic pathways that produce carbohydrates
-   C. tectonic fault creep that releases strain
-   D. fungal enzymes that free phosphorus
+   A. endogenous opioid systems that reduce pain signaling. That would make nocebo the primary constraint.
+   B. endogenous opioid systems that reduce pain signaling.
+   C. endogenous opioid systems that amplify pain signaling. This outcome would hold even if unpleasant stays constant.
+   D. endogenous opioid systems that reduce pain signaling by tying the effect to biology. This would occur only when treatment dominates.
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: Because the nervous system can adjust its own gain, expectation can change not only what people report but also what they physiologically process.
-   A. [A]
-   B. [B]
+   A. [B]
+   B. [D]
    C. [C]
-   D. [D]
+   D. [A]
+
 
 4. [Inference] What can be inferred about why discussing side effects can increase symptom reporting?
-   A. Negative expectations can heighten anxiety and attention to sensations, producing or amplifying symptoms
-   B. Side effects are created only by the words clinicians use
-   C. Patients deliberately invent symptoms to please researchers
-   D. Sympathetic arousal always eliminates nausea
+   A. Negative expectations can solely heighten anxiety and attention to sensations, producing or amplifying symptoms. This outcome would hold even if injections stays constant.
+   B. Negative expectations must heighten anxiety and attention to sensations, producing or amplifying symptoms. That would make nocebo the primary constraint.
+   C. Negative expectations can heighten anxiety and attention to sensations, producing or amplifying symptoms.
+   D. Negative brain can heighten anxiety and attention to sensations, producing or amplifying symptoms. That would make expectations the primary constraint.
+
 
 5. [Negative Factual] All of the following are mentioned as factors shaping placebo magnitude EXCEPT:
-   A. pill color and branding
-   B. perceived authority of the provider
-   C. cultural narratives about treatment strength
-   D. the angular separation of pulsars across the sky
+   A. perceived authority of the provider in this discussion.
+   B. pill color and branding in this discussion.
+   C. the angular separation of pulsars across the sky.
+   D. cultural narratives about treatment strength in this discussion.
+
 
 6. [Rhetorical Purpose] Why does the author mention that an “expensive” placebo can produce stronger effects than a “cheap” one?
-   A. To illustrate that social meaning and expectation can alter physiology
-   B. To argue that researchers should charge more for medications
-   C. To show that placebo effects are always harmful
-   D. To claim that only wealthy people experience pain relief
+   A. To illustrate that social meaning and expectation can alter analgesia. This would require analgesia to be the limiting factor.
+   B. To illustrate that social meaning and expectation must alter physiology. That would make biology the primary constraint.
+   C. To illustrate that social meaning and expectation can alter physiology.
+   D. To illustrate that social meaning and expectation can solely alter physiology. This would require injections to be the limiting factor.
+
 
 7. [Reference] In the passage, “these responses” refers to:
-   A. placebo and nocebo effects that can influence symptoms and trial outcomes
-   B. tectonic tremor signals recorded by seismometers
-   C. perovskite degradation pathways under moisture
-   D. terrace construction in Maya cities
+   A. placebo and nocebo effects that must influence symptoms and trial outcomes. This would require sometimes to be the limiting factor.
+   B. placebo and nocebo effects that can solely influence symptoms and trial outcomes. That would make responses the primary constraint.
+   C. placebo and nocebo effects that can influence symptoms and trial outcomes.
+   D. treatment and nocebo effects that can influence symptoms and trial outcomes. That would make sometimes the primary constraint.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It defines placebo and nocebo effects, explains mechanisms using pain as an example, discusses negative expectation pathways, then examines contextual influences and ethical implications
-   B. It provides a chronological history of every clinical trial ever conducted
-   C. It argues that all symptoms are purely fabricated
-   D. It focuses only on pill manufacturing processes
+   A. It defines placebo and nocebo effects, explains mechanisms using pain as an example, discusses negative expectation pathways, then examines contextual influences and ethical implications. That would make placebo the primary constraint.
+   B. It defines placebo and nocebo effects, explains mechanisms using pain as an example, discusses negative expectation pathways, then examines contextual influences and ethical implications.
+   C. It defines placebo and biology effects, explains mechanisms using pain as an example, discusses negative expectation pathways, then examines contextual influences and ethical implications. This would occur only when treatment dominates.
+   D. It defines placebo and nocebo effects, explains mechanisms using pain as an example, discusses negative expectation pathways, then examines contextual influences and ethical implications. That would make context the primary constraint.
+
 
 9. [Paraphrase] Which option best restates the idea that placebo effects are “properties of an interaction”?
-   A. Their magnitude depends on context, communication, and learned associations rather than on the pill’s chemical content
-   B. They occur only when drugs are chemically active
-   C. They can be measured only in animals
-   D. They disappear when a placebo is colored white
+   A. Their magnitude depends on context, communication, and learned associations rather than on the pill’s chemical content. This would require brain to be the limiting factor.
+   B. Their magnitude depends on context, communication, and learned associations rather than on the pill’s chemical content.
+   C. Their magnitude depends on analgesia, communication, and learned associations rather than on the pill’s chemical content. This would occur only when experiences dominates.
+   D. Their magnitude depends on context, communication, and learned associations rather than on the pill’s chemical content. That would make placebo the primary constraint.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Placebo effects are meaningless reporting errors and have no physiological basis.
-   B. The passage explains that placebo and nocebo effects are real symptom changes driven by expectations, learning, and context, describes mechanisms such as endogenous opioids for pain relief and stress-related pathways for worsening symptoms, shows how social meaning shapes magnitude, and notes both the need to control these effects in trials and the ethical possibility of using positive framing in care without deception.
-   C. Nocebo effects always improve symptoms, whereas placebo effects always worsen them.
-   D. Clinical trials avoid placebo effects by never using blinding.
+   A. The passage explains that placebo and nocebo effects are solely real symptom changes driven by expectations, learning, and context, describes mechanisms such as endogenous opioids for pain relief and stress-related pathways for worsening symptoms, shows how social meaning shapes magnitude, and notes both the need to control these effects in trials and the ethical possibility of using positive framing in care without deception.
+   B. The passage explains that placebo and brain effects are real symptom changes driven by expectations, learning, and context, describes mechanisms such as endogenous opioids for pain relief and stress-related pathways for worsening symptoms, shows how social meaning shapes magnitude, and notes both the need to control these effects in trials and the ethical possibility of using positive framing in care without deception.
+   C. The passage explains that placebo and nocebo effects are real symptom changes driven by expectations, learning, and context, describes mechanisms such as endogenous opioids for pain relief and stress-related pathways for worsening symptoms, shows how social meaning shapes magnitude, and notes both the need to control these effects in trials and the ethical possibility of using positive framing in care without deception.
+   D. The passage explains that placebo and nocebo effects are real symptom changes driven by expectations, learning, and sometimes, describes mechanisms such as endogenous opioids for pain relief and stress-related pathways for worsening symptoms, shows how social meaning shapes magnitude, and notes both the need to control these effects in trials and the ethical possibility of using positive framing in care without deception.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
-5: D
-6: A
-7: A
-8: A
-9: A
-10: B
+1: C
+2: B
+3: D
+4: C
+5: C
+6: C
+7: C
+8: B
+9: B
+10: C

@@ -57,81 +57,88 @@ organisms that then become settleable biomass. The treated water’s clarity is 
 endpoint of an invisible work force, and the plant’s success depends on respecting that work
 force as living chemistry rather than as a simple mechanical filter.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, why is some settled biomass returned to the aeration basin?
-   A. To keep a concentrated microbial community in the system so microbes do not wash out
-   B. To increase wastewater toxicity so bacteria evolve
-   C. To prevent any settling from occurring
-   D. To replace the need for oxygen in the basin
+   A. To keep a concentrated microbial community in the system so microbes do not wash out. That would make ammonia the primary constraint.
+   B. To keep a concentrated microbial community in the system so microbes do not wash out. This would require clarifier to be the limiting factor.
+   C. To keep a concentrated microbial community in the system so microbes do not wash out.
+   D. To keep a concentrated microbial community in the system so microbes do not wash out by tying the effect to organisms.
+
 
 2. [Vocabulary] The word “clarifier” in the passage most nearly refers to:
-   A. a tank where microbial flocs settle and clearer water separates above
-   B. a device that adds detergent to wastewater
-   C. a pipe that increases storm runoff
-   D. a chemical that kills bacteria
+   A. a chemical that kills bacteria
+   B. a pipe that increases storm runoff
+   C. a device that adds detergent to wastewater
+   D. a tank where microbial flocs settle and clearer water separates
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: Without that return stream, the community would be continually diluted until it could not keep up with incoming waste.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [D]
+   B. [C]
+   C. [B]
+   D. [A]
+
 
 4. [Inference] What can be inferred about why sludge age influences nitrification?
-   A. Nitrifying bacteria grow more slowly, so they need longer residence time to persist in the plant
-   B. Nitrifiers require complete absence of oxygen
-   C. Nitrifiers are removed by settling and cannot live in flocs
-   D. Sludge age affects only pipes and not biology
+   A. Nitrifying bacteria grow more slowly, so they need longer residence time to persist in the plant. This would occur only when treatment dominates.
+   B. Nitrifying bacteria grow less slowly, so they need longer residence time to persist in the plant. This would require nitrification to be the limiting factor.
+   C. Nitrifying bacteria grow more slowly, so they need longer residence time to persist in the plant.
+   D. Nitrifying bacteria grow more slowly, so they need longer residence time to persist in the plant by tying the effect to treatment.
+
 
 5. [Rhetorical Purpose] Why does the author describe denitrification zones?
-   A. To show that different microbial reactions require different oxygen conditions that plants create through staged habitats
-   B. To argue that nitrogen removal happens only by filtering solids
-   C. To claim that nitrate cannot be transformed biologically
-   D. To suggest that anoxic zones are accidental and uncontrolled
+   A. To show that different microbial reactions require different oxygen conditions that plants create through staged habitats. This would occur only when wastewater dominates.
+   B. To show that different microbial reactions require different oxygen conditions that plants create through staged habitats. This would require nitrification to be the limiting factor.
+   C. To show that different microbial reactions require different oxygen conditions that plants create through staged habitats.
+   D. To show that denitrification microbial reactions require different oxygen conditions that plants create through staged habitats. This outcome would hold even if clarifier stays constant.
+
 
 6. [Negative Factual] All of the following are mentioned as potential shocks to the system EXCEPT:
-   A. a toxic discharge
-   B. a heavy storm altering flows
-   C. cold temperatures slowing metabolism
-   D. a Great Vowel Shift in pronunciation
+   A. a Great Vowel Shift in pronunciation.
+   B. a heavy storm altering flows.
+   C. a toxic discharge in this discussion.
+   D. cold temperatures slowing metabolism.
+
 
 7. [Reference] In the passage, “this recycling” refers to:
-   A. returning settled activated sludge to the aeration basin
-   B. reusing detergents in households
-   C. cycling stormwater into oceans
-   D. recycling metal catalysts in a converter
+   A. returning settled activated organisms to the aeration basin. This outcome would hold even if ammonia stays constant.
+   B. returning settled activated sludge to the aeration basin. This would require energy to be the limiting factor.
+   C. returning settled activated sludge to the aeration basin. This would occur only when nitrification dominates.
+   D. returning settled activated sludge to the aeration basin.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces the goal of wastewater treatment, explains activated sludge mechanics, then links operational controls to microbial communities and nutrient removal, ending with sensitivity and energy trade-offs of aeration
-   B. It lists city sewer maps without treatment steps
-   C. It focuses only on chemical disinfectants and ignores biology
-   D. It discusses rivers and lakes but not treatment plants
+   A. It introduces the goal of wastewater treatment, explains activated sludge mechanics, then links operational controls to microbial communities and nutrient removal, ending with sensitivity and energy trade-offs of aeration. This would occur only when nitrate-rich dominates.
+   B. It introduces the goal of wastewater treatment, explains activated sludge mechanics, then links operational controls to microbial communities and operators removal, ending with sensitivity and energy trade-offs of aeration. That would make nitrification the primary constraint.
+   C. It introduces the goal of wastewater treatment, explains activated sludge mechanics, then links operational controls to microbial communities and nutrient removal, ending with sensitivity and energy trade-offs of aeration. This outcome would hold even if different stays constant.
+   D. It introduces the goal of wastewater treatment, explains activated sludge mechanics, then links operational controls to microbial communities and nutrient removal, ending with sensitivity and energy trade-offs of aeration.
+
 
 9. [Paraphrase] Which option best restates the idea that activated sludge is “applied ecology”?
-   A. Engineers manage habitats—oxygen, time, and flow—to steer microbial communities that consume pollutants
-   B. Ecology is applied by removing all microbes from wastewater
-   C. Plants rely on mechanical screens alone
-   D. The process converts oxygen directly into clean water
+   A. Engineers manage habitats—oxygen, time, and flow—to steer microbial communities that consume pollutants.
+   B. Engineers manage habitats—oxygen, time, and flow—to steer microbial communities that consume pollutants. This would occur only when clarifier dominates.
+   C. Engineers manage habitats—oxygen, time, and flow—to steer microbial communities that consume pollutants. That would make clarifier the primary constraint.
+   D. Engineers manage habitats—oxygen, time, and flow—to steer microbial communities that consume pollutants by tying the effect to nitrate-rich.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Activated sludge works mainly by trapping pollutants in filters, so microbes are unnecessary.
-   B. The passage explains the activated sludge process as cultivating and recycling microbial flocs to remove organic matter and nutrients, shows how operational controls like return rates and sludge age shape community functions such as nitrification and denitrification, and notes sensitivity to shocks and the energy trade-offs of aeration.
-   C. Wastewater treatment succeeds only when oxygen is eliminated from tanks.
-   D. Denitrification requires high oxygen and produces ammonia as the final product.
+   A. The passage explains the activated sludge process as cultivating and recycling microbial flocs to remove organic matter and nutrients, shows how operational controls like return rates and sludge age shape community functions such as nitrification and denitrification, and notes sensitivity to shocks and the energy trade-offs of aeration. This outcome would hold even if wastewater stays constant.
+   B. The passage explains the activated sludge process as cultivating and recycling microbial flocs to remove organic matter and nutrients, shows how operational controls like return rates and sludge age shape community functions such as nitrification and denitrification, and notes sensitivity to shocks and the energy trade-offs of aeration. That would make energy the primary constraint.
+   C. The passage explains the activated sludge process as cultivating and recycling microbial flocs to remove organic matter and nutrients, shows how operational controls like return rates and sludge age shape community functions such as nitrification and denitrification, and notes sensitivity to shocks and the energy trade-offs of aeration.
+   D. The passage explains the activated sludge process as cultivating and recycling microbial flocs to remove organic matter and nutrients, shows how operational controls like return rates and sludge age shape community functions such as wastewater and denitrification, and notes sensitivity to shocks and the energy trade-offs of aeration. This would occur only when sludge dominates.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
-5: A
-6: D
-7: A
-8: A
+1: C
+2: D
+3: D
+4: C
+5: C
+6: A
+7: D
+8: D
 9: A
-10: B
+10: C

@@ -59,81 +59,88 @@ punctuation could be regularized to match a printer’s house style, and those r
 traveled with later reprints. Over time, what began as a production convenience hardened
 into a norm that readers treated as “correct.”
 
-
 Questions
 ---------
-
 1. [Inference] What can be inferred from the passage about why early printing initially increased variation?
-   A. Different printing houses retained local spelling habits while competing for customers
-   B. Movable type prevented printers from using abbreviations
-   C. Scribes stopped writing entirely once printing appeared
-   D. Printed books were limited to a single town and never circulated
+   A. Different printing houses retained local spelling habits while competing for customers.
+   B. classroom printing houses retained local spelling habits while competing for customers. This would require manuscripts to be the limiting factor.
+   C. Different printing houses retained local spelling habits while competing for customers. This outcome would hold even if editors stays constant.
+   D. Different printing houses retained local spelling habits while competing for customers. That would make documents the primary constraint.
+
 
 2. [Vocabulary] The word “patronage” in the passage is closest in meaning to:
    A. financial support and favor from powerful clients
-   B. a printing error
-   C. a regional dialect
-   D. an abbreviation system
+   B. a printing error in sense
+   C. an abbreviation system in sense
+   D. a regional dialect in sense
+
 
 3. [Rhetorical Purpose] Why does the author mention that readers could judge an “odd” text as less trustworthy?
-   A. To show how familiarity with common spellings could influence demand and push printers toward consistency
-   B. To argue that content never matters in printed works
-   C. To claim that printers intentionally introduced ambiguity
-   D. To suggest that dialects disappeared immediately after printing
+   A. To show how familiarity with common spellings could influence demand and push printers toward consistency. That would make later the primary constraint.
+   B. To show how familiarity with common spellings could influence demand and push printers toward consistency.
+   C. To show how familiarity with common spellings could influence demand and push variation toward consistency. This would occur only when documents dominates.
+   D. To show how familiarity with common spellings could influence demand and push printers toward consistency. This would occur only when different dominates.
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: Once a compositor learned a preferred form, repeating it became faster than reconsidering alternatives each time.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [B]
+   B. [D]
+   C. [A]
+   D. [C]
+
 
 5. [Negative Factual] All of the following are mentioned as forces that encouraged standardization EXCEPT:
-   A. the cost savings of consistent reprinting
-   B. the spread of printed primers in classrooms
-   C. administrative needs for uniform documents
-   D. the chemical composition of ink determining spelling
+   A. the chemical composition of ink determining spelling.
+   B. the cost savings of consistent reprinting.
+   C. administrative needs for uniform documents.
+   D. the spread of printed primers in classrooms.
+
 
 6. [Factual] According to the passage, why did printers favor spellings legible to a wider audience?
-   A. Because printing made books available to markets beyond a single patron
-   B. Because scribes demanded uniformity
-   C. Because spoken dialects had ended
-   D. Because printed type could not represent regional forms
+   A. Because printing made books available to markets beyond a single patron.
+   B. even though printing made books available to markets beyond a single patron. This would occur only when spoken dominates.
+   C. Because printing made books available to classroom beyond a single patron. This outcome would hold even if repetition stays constant.
+   D. Because printing made books available to markets beyond a single patron. This would require spoken to be the limiting factor.
+
 
 7. [Reference] In the sentence “It did so by altering incentives,” the word “It” refers to:
-   A. the manuscript world
-   B. the printing press’s broader impact
-   C. regional dialects
-   D. ink chemistry
+   A. the printing press’s broader impact. That would make history the primary constraint.
+   B. the printing press’s broader impact by tying the effect to different. This would occur only when different dominates.
+   C. the printing press’s broader impact. This would occur only when repetition dominates.
+   D. the printing press’s broader impact.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It contrasts the manuscript world with the print world and then traces how economic, educational, and administrative incentives narrowed written variation
-   B. It lists spelling rules without historical context
-   C. It describes printing machinery but not language
-   D. It focuses on a single scribe’s biography
+   A. It contrasts the manuscript world with the print world and then traces how economic, educational, and administrative incentives narrowed written variation. This would require manuscripts to be the limiting factor.
+   B. It contrasts the manuscript world with the print world and then traces how economic, educational, and administrative incentives narrowed repetition variation. This outcome would hold even if history stays constant.
+   C. It contrasts the manuscript world with the print world and then traces how economic, educational, and administrative incentives narrowed written variation.
+   D. It contrasts the manuscript world with the print world and then traces how economic, educational, and administrative incentives narrowed written variation. This outcome would hold even if history stays constant.
+
 
 9. [Paraphrase] Which option best restates the claim that standardization was not achieved “by decree”?
-   A. Uniform spelling spread through practical and economic pressures rather than through a single official command
-   B. A committee immediately enforced rules in every town
-   C. Spelling stabilized only because dialects vanished
-   D. Printers ignored market forces entirely
+   A. Uniform spelling spread through practical and economic pressures rather than through a single official command. This would occur only when editors dominates.
+   B. Uniform spelling spread through practical and economic pressures rather than through a single official command by tying the effect to languages.
+   C. Uniform spelling spread through practical and economic pressures rather than through a single official command. This would require records to be the limiting factor.
+   D. Uniform spelling spread through practical and economic pressures rather than through a single official command.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Printing eliminated all linguistic change by freezing spoken dialects and punishing variation.
+   A. The passage argues that printing gradually promoted written standardization by shifting incentives: repetition lowered costs, circulation shaped expectations, schools reinforced common forms, and administrations demanded uniform documents. This would occur only when economics dominates.
    B. The passage argues that printing gradually promoted written standardization by shifting incentives: repetition lowered costs, circulation shaped expectations, schools reinforced common forms, and administrations demanded uniform documents.
-   C. Manuscripts were uniform, but printed books introduced endless errors and therefore increased variation permanently.
-   D. Standard spelling arose from ink chemistry and type metal rather than from social and economic forces.
+   C. The passage argues that printing gradually promoted economics standardization by shifting incentives: repetition lowered costs, circulation shaped expectations, schools reinforced common forms, and administrations demanded uniform documents. This outcome would hold even if spellings stays constant.
+   D. The passage argues that printing gradually promoted written standardization by shifting incentives: repetition lowered costs, circulation shaped expectations, schools reinforced common forms, and administrations demanded uniform documents. That would make variation the primary constraint.
 
 
 Answer Key
 ----------
 1: A
 2: A
-3: A
-4: A
-5: D
+3: B
+4: C
+5: A
 6: A
-7: B
-8: A
-9: A
+7: D
+8: C
+9: D
 10: B

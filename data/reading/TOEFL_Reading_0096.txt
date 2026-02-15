@@ -1,146 +1,153 @@
-Passage 0096: Weimar Hyperinflation and How Expectations Accelerate Currency Collapse (Economic History)
-========================================================================================================
-(Word count: 614)
+Passage 0096: Catalytic Converters and the Chemistry of Cleaner Exhaust (Chemical Engineering)
+==============================================================================================
+(Word count: 606)
 
-Hyperinflation is often remembered through photographs: children stacking banknotes like
-toys, workers paid twice a day, prices written in chalk and then crossed out an hour later.
-Germany’s hyperinflation of 1921–1923, which culminated in a catastrophic collapse of the
-mark, did not arise from one reckless decision. It emerged from a chain of fiscal stress,
-political constraint, and monetary responses that fed back on expectations until the
-currency lost its role as a stable unit of account.
+A modern car is, in chemical terms, a moving reactor whose byproducts must be managed.
+Gasoline combustion ideally yields carbon dioxide and water, yet real engines produce carbon
+monoxide, unburned hydrocarbons, and nitrogen oxides. These pollutants harm health and
+contribute to smog. The catalytic converter, installed in the exhaust system, is designed to
+transform those molecules into less harmful forms before they leave the tailpipe.
 
-After World War I, the German state faced heavy costs: demobilization, social programs to
-ease unrest, and, crucially, reparations payments demanded by the Allies. Tax revenues were
-insufficient, and political willingness to raise taxes sharply was limited. The government
-therefore financed deficits partly by borrowing and partly by relying on the Reichsbank to
-expand the money supply. [A] As more marks were created, the purchasing power of each mark
-tended to fall, particularly when goods were scarce and when international confidence was
-fragile.
+The core of a converter is a ceramic or metallic substrate shaped like a honeycomb. Its many
+channels maximize surface area while allowing gas to flow. The substrate is coated with a
+“washcoat,” often alumina, that holds precious-metal catalysts such as platinum, palladium,
+and rhodium. [A] As hot exhaust passes over these surfaces, molecules adsorb, react, and
+desorb, so that chemistry occurs without the catalyst being consumed.
 
-Reparations complicated the exchange rate. Because payments had to be made in foreign
-currency or in goods, the government needed foreign exchange. When the mark depreciated,
-importing became more expensive, which raised domestic prices for imported inputs and food,
-and those higher prices fed into wage demands. A spiral began: workers sought higher nominal
-wages; firms raised prices to cover wages; and the state printed more money to meet
-obligations. The public, observing the pace of depreciation, tried to spend marks quickly on
-anything tangible, increasing velocity and amplifying price rises. [B] Money became
-something to get rid of rather than to hold.
+A three-way catalytic converter performs three tasks when the engine operates near
+stoichiometric air–fuel ratios. First, it oxidizes carbon monoxide to carbon dioxide.
+Second, it oxidizes unburned hydrocarbons to carbon dioxide and water. Third, it reduces
+nitrogen oxides to nitrogen. These reactions compete for oxygen, which is why oxygen sensing
+and engine control are integral to the system. If the mixture is too lean, excess oxygen
+hinders NOx reduction; if too rich, oxidation reactions slow. To buffer fluctuations,
+converters often use cerium oxide in the washcoat, which can store and release oxygen by
+shifting between oxidation states. [B] The buffer does not eliminate the need for control,
+but it widens the window in which all three reactions can proceed.
 
-The crisis accelerated in 1923 when French and Belgian troops occupied the Ruhr after
-Germany fell behind on payments. The German government responded with “passive resistance,”
-encouraging workers to strike and promising to pay their wages anyway. Financing that policy
-required yet more printing, while industrial output fell, shrinking the real goods
-available. The imbalance between money and goods widened dramatically. In such a context,
-even a modest additional shock could trigger a disproportionate price jump, because
-expectations had already shifted: merchants set prices anticipating tomorrow’s depreciation,
-not today’s costs.
+Converter performance is sensitive to temperature. Below a certain “light-off” temperature,
+reactions are too slow, and emissions pass through untreated; after light-off, efficiency
+rises sharply. Cold starts are therefore critical emission moments, which is why some
+designs place catalysts closer to the engine or use electrically heated catalysts.
+Overheating, however, can sinter catalyst particles, reducing active surface area, and
+contaminants such as sulfur or lead can poison catalysts by occupying sites. Thus,
+durability depends on both materials and fuel quality.
 
-Stabilization came through a mixture of institutional change and credibility. The government
-introduced the Rentenmark, a new unit backed not by gold but by claims on industrial and
-agricultural assets, and it limited issuance sharply. Fiscal reforms improved tax
-collection, and the end of passive resistance reduced the need for emergency financing.
-International negotiations, including the Dawes Plan, restructured reparations and
-facilitated loans, easing foreign exchange pressure. [C] Crucially, people came to believe
-that the new regime would not print without limit, and that belief itself reduced the rush
-to spend.
+Regulation has pushed converters to improve, yet improvement is constrained by cost and
+supply. Precious metals are expensive, and their markets can be volatile. Engineers
+therefore seek formulations that use less metal while maintaining activity, and they tailor
+catalyst distributions along the converter length to match concentration gradients of
+pollutants. Meanwhile, diagnostics monitor converter function, because a failing catalyst
+can quietly raise emissions. [C] The device is expected to work invisibly, which means its
+failure is often noticed only by sensors and regulations, not by drivers.
 
-The episode illustrates that hyperinflation is as much about confidence as about arithmetic.
-Printing money in a stable state can raise prices, but it does not automatically destroy a
-currency. Destruction occurs when people expect continued loss and act accordingly, turning
-expectation into behavior and behavior into accelerated depreciation. [D] Germany’s case,
-though extreme, therefore remains a warning about how quickly the social function of money
-can unravel when fiscal strain and political constraint collide.
+Catalytic converters demonstrate how environmental policy can become embodied in material
+design. [D] They are chemical factories in miniature, relying on surfaces, oxygen
+management, and temperature to convert the chaos of combustion into a cleaner exhaust
+stream.
 
-Once price expectations stabilized, shopkeepers could again post numbers without rewriting
-them at noon and again at dusk.
+In practice, engineers balance efficiency against cost, because a catalyst that is perfect
+in the lab may be fragile on the road.
 
-Once price expectations stabilized, shopkeepers could again post numbers without rewriting
-them at noon and again at dusk.
+A well-functioning system is therefore not only a material but also a set of maintenance
+expectations embedded in policy and behavior.
 
-Once price expectations stabilized, shopkeepers could again post numbers without rewriting
-them at noon and again at dusk.
+In practice, engineers balance efficiency against cost, because a catalyst that is perfect
+in the lab may be fragile on the road.
 
-Once price expectations stabilized, shopkeepers could again post numbers without rewriting
-them at noon and again at dusk.
+A well-functioning system is therefore not only a material but also a set of maintenance
+expectations embedded in policy and behavior.
 
-Once price expectations stabilized, shopkeepers could again post numbers without rewriting
-them at noon and again at dusk.
+In practice, engineers balance efficiency against cost, because a catalyst that is perfect
+in the lab may be fragile on the road.
 
+In practice, engineers balance efficiency against cost, because a catalyst that is perfect
+in the lab may be fragile on the road.
+
+A well-functioning system is therefore not only a material but also a set of maintenance
+expectations embedded in policy and behavior.
 
 Questions
 ---------
+1. [Sentence Insert] In which location would the following sentence best fit?
+   Sentence to insert: Once the catalyst reaches light-off temperature, conversion efficiency rises sharply and emissions fall.
+   A. [C]
+   B. [A]
+   C. [D]
+   D. [B]
 
-1. [Vocabulary] The word “velocity” in the passage is closest in meaning to:
-   A. the rate at which money circulates as people spend it
-   B. the speed of troops moving into the Ruhr
-   C. the growth rate of basalt columns
-   D. the chemical conversion of lime into carbonate
 
-2. [Factual] According to the passage, which event in 1923 intensified the inflationary crisis by reducing output while spending continued?
-   A. the Ruhr occupation and Germany’s policy of paying for passive resistance
-   B. the opening of new gold mines in Bavaria
-   C. a sudden discovery of exoplanet water vapor
-   D. the nationwide adoption of prescribed burning
+2. [Vocabulary] In the passage, the word “adsorb” is closest in meaning to:
+   A. to bind to a surface so that a reaction can
+   B. to confuse the reader with unrelated details
+   C. to store objects in a warehouse
+   D. to reverse a decision completely
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In effect, fiscal weakness pushed the state toward monetary expansion when other options were politically painful.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
 
-4. [Inference] What can be inferred about why introducing the Rentenmark helped stabilize prices?
-   A. It changed expectations by credibly limiting issuance and signaling a new monetary regime that would not print without bound
-   B. It immediately increased the supply of consumer goods in the Ruhr
-   C. It eliminated the need for taxes because assets could be eaten
-   D. It worked only because foreign currencies were outlawed
+3. [Factual] According to the passage, which statement is supported?
+   A. catalytic converter plays a central role in the process described, interacting with nitrogen oxides rather than acting alone. This outcome would hold even if maintenance stays constant.
+   B. catalytic converter plays a central role in the process described, interacting with nitrogen oxides rather than acting alone.
+   C. catalytic converter plays a central role in the process described, interacting with nitrogen oxides rather than acting alone. That would make cleaner the primary constraint.
+   D. catalytic three-way plays a central role in the process described, interacting with nitrogen oxides rather than acting alone. This would require below to be the limiting factor.
 
-5. [Rhetorical Purpose] Why does the author say money became “something to get rid of”?
-   A. To illustrate how expected depreciation increased spending speed, which further accelerated price increases
-   B. To argue that banknotes physically decayed in humid air
-   C. To claim that coins were outlawed by the Allies
-   D. To suggest that workers refused wages as a moral protest
 
-6. [Negative Factual] All of the following are mentioned as contributors to stabilization EXCEPT:
-   A. limiting issuance of the new currency
-   B. improved tax collection
-   C. international reparations restructuring and loans
-   D. honeybee royal jelly feeding schedules
+4. [Negative Factual] All of the following are discussed in the passage EXCEPT:
+   A. the role of catalytic converter in shaping outcomes.
+   B. how nitrogen oxides modifies or mediates the central phenomenon.
+   C. limitations or trade-offs involving cerium oxide in this discussion.
+   D. an ethnographic account of star-house navigation in the Pacific.
 
-7. [Reference] In the passage, “a chain of fiscal stress, political constraint, and monetary responses” refers to:
-   A. interacting pressures that led deficits to be financed by money creation and expectations to spiral
-   B. a navigation method combining stars and swells
-   C. a chemical sequence converting plaster to pigment
-   D. the exchange of plasmids between bacteria
 
-8. [Organization] How is the passage primarily organized?
-   A. It explains postwar fiscal pressures, describes feedbacks that accelerated inflation, then details the 1923 Ruhr shock and concludes with the institutional and credibility-based steps that stabilized the currency
-   B. It lists banknote denominations without discussing causes
-   C. It argues that hyperinflation is caused only by greed
-   D. It compares Germany’s case to fresco restoration techniques
+5. [Rhetorical Purpose] Why does the author describe oxygen storage in cerium oxide?
+   A. to explain how the converter buffers air–fuel fluctuations so oxidation and NOx reduction must both proceed. That would make temperature the primary constraint.
+   B. to explain how the converter buffers air–fuel fluctuations so oxidation and NOx reduction can solely both proceed. This would occur only when substrate dominates.
+   C. to explain how the converter buffers air–fuel fluctuations so oxidation and NOx reduction can both proceed.
+   D. to explain how the expectations buffers air–fuel fluctuations so oxidation and NOx reduction can both proceed. That would make below the primary constraint.
 
-9. [Paraphrase] Which option best restates the passage’s lesson about hyperinflation?
-   A. Currency collapse occurs when fiscal strain and money creation shift expectations so that people spend rapidly, accelerating depreciation
-   B. Any increase in money supply automatically produces hyperinflation in all countries
-   C. Hyperinflation is primarily a consequence of volcanic eruptions
-   D. Stabilization requires only printing even more money
+
+6. [Inference] Which inference is most strongly supported by the passage?
+   A. Changes in nitrogen oxides can solely shift the consequences of catalytic converter, even when the underlying mechanism remains the same. That would make converter the primary constraint.
+   B. Changes in nitrogen oxides can shift the consequences of catalytic converter, even when the underlying mechanism remains the same.
+   C. Changes in nitrogen oxides must shift the consequences of catalytic converter, even when the underlying mechanism remains the same. This would require maintenance to be the limiting factor.
+   D. Changes in nitrogen oxides can shift the consequences of catalytic expectations, even when the underlying mechanism remains the same. This outcome would hold even if catalysts stays constant.
+
+
+7. [Reference] In the passage, the phrase “the system” most nearly refers to:
+   A. the interconnected set of processes involving catalytic temperature, nitrogen oxides, and related constraints described by the author. That would make third the primary constraint.
+   B. the interconnected set of processes involving catalytic converter, nitrogen oxides, and related constraints described by the author.
+   C. the interconnected set of processes involving catalytic converter, nitrogen oxides, and related constraints described by the author. This would require third to be the limiting factor.
+   D. the interconnected set of processes involving catalytic converter, nitrogen oxides, and related constraints described by the author. This would require catalysts to be the limiting factor.
+
+
+8. [Organization] Which description best captures how the passage is organized?
+   A. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications by tying the effect to light-off.
+   B. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications.
+   C. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This would require combustion to be the limiting factor.
+   D. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This would require temperature to be the limiting factor.
+
+
+9. [Paraphrase] Which option best restates the author’s main point?
+   A. The passage argues that catalytic converter is best understood through its interactions with nitrogen oxides and cerium oxide, rather than through a one-cause story. This outcome would hold even if maintenance stays constant.
+   B. The passage argues that catalytic converter is best understood through its interactions with nitrogen oxides and cerium oxide, rather than through a one-cause story.
+   C. The passage argues that catalytic engineers is best understood through its interactions with nitrogen oxides and cerium oxide, rather than through a one-cause story. This would require third to be the limiting factor.
+   D. The passage argues that catalytic converter is solely best understood through its interactions with nitrogen oxides and cerium oxide, rather than through a one-cause story. That would make regulation the primary constraint.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. The passage claims German hyperinflation was caused solely by counterfeiters and could not be stopped.
-   B. The passage describes Weimar Germany’s hyperinflation as an escalating interaction of postwar fiscal burdens, reparations pressures, political limits on taxation, and money creation that shifted public expectations and spending behavior; it highlights the Ruhr occupation and passive resistance as accelerants and explains stabilization through the Rentenmark, fiscal reforms, and restored credibility supported by international restructuring.
-   C. The passage argues that exchange rates played no role because Germany was economically isolated.
-   D. Stabilization is said to have occurred when workers refused to accept any wages at all.
+   A. The passage explains catalytic substrate by describing underlying mechanisms and showing how nitrogen oxides and cerium oxide shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would require gasoline to be the limiting factor.
+   B. The passage explains catalytic converter by describing underlying mechanisms and showing how nitrogen oxides and cerium oxide shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. That would make hydrocarbons the primary constraint.
+   C. The passage explains catalytic converter by describing underlying mechanisms and showing how nitrogen oxides and cerium oxide shape outcomes, emphasizing constraints and trade-offs rather than a uniform template.
+   D. The passage explains catalytic converter by describing underlying mechanisms and showing how nitrogen oxides and cerium oxide shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This outcome would hold even if expectations stays constant.
 
 
 Answer Key
 ----------
 1: A
 2: A
-3: A
-4: A
-5: A
-6: D
-7: A
-8: A
-9: A
-10: B
+3: B
+4: D
+5: C
+6: B
+7: B
+8: B
+9: B
+10: C

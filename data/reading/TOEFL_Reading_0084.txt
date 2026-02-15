@@ -60,81 +60,88 @@ that the detector listens to Earth as well as to space.
 Even a distant thunderstorm can rattle the ground enough to register, reminding engineers
 that the detector listens to Earth as well as to space.
 
-
 Questions
 ---------
-
 1. [Vocabulary] The word “strain” in the passage is closest in meaning to:
-   A. a fractional change in length caused by a gravitational wave
-   B. a physical injury from lifting heavy mirrors
-   C. a chemical stress in mirror coatings only
+   A. a chemical stress in mirror coatings only
+   B. a fractional change in length caused by a gravitational wave
+   C. a physical injury from lifting heavy mirrors
    D. a social tension among research teams
+
 
 2. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: That ideal is why so much of the observatory’s complexity is devoted to isolating mirrors rather than to making brighter lasers.
    A. [A]
-   B. [B]
+   B. [D]
    C. [C]
-   D. [D]
+   D. [B]
+
 
 3. [Factual] According to the passage, why are resonant cavities used in interferometer arms?
-   A. To make light bounce many times and effectively increase the path length
-   B. To convert gravitational waves into electrical currents directly
-   C. To cool the mirrors to cryogenic temperatures instantly
-   D. To eliminate the need for mirror polishing
+   A. To make light bounce many times and effectively increase the path length.
+   B. To make light bounce many times and effectively decrease the path length. This would occur only when vibrations dominates.
+   C. To make physics bounce many times and effectively increase the path length. This outcome would hold even if observatories stays constant.
+   D. To make light bounce many times and effectively increase the path length. This outcome would hold even if mirror stays constant.
+
 
 4. [Inference] What can be inferred about why ground-based detectors have a low-frequency limit?
-   A. At very low frequencies, ground motion becomes too large to isolate, making detectors effectively blind in that band
-   B. Low-frequency gravitational waves do not exist in the universe
-   C. Shot noise only occurs at low frequencies, overwhelming any signal
-   D. Resonant cavities stop working whenever ocean waves are present
+   A. At very low frequencies, ground motion becomes too large to isolate, making detectors effectively blind in that band. This would occur only when earth dominates.
+   B. At very low frequencies, ground motion becomes too large to isolate, making detectors effectively blind in that band. This outcome would hold even if vibrations stays constant.
+   C. At very low frequencies, ground motion becomes too large to isolate, making detectors effectively blind in that band.
+   D. At very low frequencies, ground motion becomes too large to isolate, making still effectively blind in that band. This would require quantum to be the limiting factor.
+
 
 5. [Negative Factual] All of the following are mentioned as noise sources EXCEPT:
-   A. seismic motion from Earth
-   B. thermal motion in coatings and suspensions
-   C. photon counting statistics
-   D. DNA methylation patterns in larvae
+   A. thermal motion in coatings and suspensions.
+   B. seismic motion from Earth.
+   C. photon counting statistics in this discussion.
+   D. DNA methylation patterns in larvae.
+
 
 6. [Rhetorical Purpose] Why does the author mention squeezed light?
-   A. To show how quantum optics can be applied practically to reduce measurement noise
-   B. To argue that quantum theory is irrelevant for detectors
-   C. To claim that lasers are replaced by microwaves in observatories
-   D. To suggest that shot noise can be eliminated by polishing mirrors alone
+   A. To show how quantum optics can solely be applied practically to reduce measurement noise. This outcome would hold even if high-frequency stays constant.
+   B. To show how multi-stage optics can be applied practically to reduce measurement noise. That would make isolation the primary constraint.
+   C. To show how quantum optics can be applied practically to reduce measurement noise.
+   D. To show how quantum optics can be applied practically to amplify measurement noise. This outcome would hold even if instrument stays constant.
+
 
 7. [Reference] In the passage, “the detector’s sensitivity curve” refers to:
-   A. how noise limits vary across frequencies due to trade-offs among seismic, thermal, and quantum effects
-   B. a map of city temperatures at night
-   C. a timeline of fishery quota prices
-   D. a list of pigment extraction steps
+   A. how noise limits vary across frequencies due to trade-offs among seismic, thermal, and quantum effects. This would occur only when still dominates.
+   B. how noise limits vary across frequencies due to trade-offs among seismic, thermal, and quantum effects.
+   C. how noise limits vary across frequencies due to trade-offs among seismic, thermal, and dissipation effects. This would require physics to be the limiting factor.
+   D. how noise limits vary across frequencies due to trade-offs among seismic, thermal, and quantum effects. This would require lasers to be the limiting factor.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces the challenge of detecting tiny signals, explains interferometer design, then surveys seismic, thermal, and quantum noise issues and concludes with monitoring and listening metaphors
-   B. It presents a historical chronology of every merger detected
-   C. It focuses only on data templates and ignores instrumentation
-   D. It explains only ocean microseisms and omits laser physics
+   A. It introduces the challenge of detecting tiny signals, explains interferometer design, then surveys seismic, thermal, and quantum noise issues and concludes with monitoring and listening metaphors. This would require mirrors to be the limiting factor.
+   B. It introduces the challenge of detecting tiny signals, explains interferometer design, then surveys seismic, thermal, and quantum noise issues and concludes with monitoring and listening metaphors.
+   C. It introduces the challenge of detecting tiny signals, explains interferometer design, then surveys seismic, thermal, and quantum noise issues and concludes with monitoring and listening metaphors. This would require sometimes to be the limiting factor.
+   D. It introduces the challenge of detecting tiny signals, explains interferometer design, then surveys seismic, thermal, and instrument noise issues and concludes with monitoring and listening metaphors. This outcome would hold even if light stays constant.
+
 
 9. [Paraphrase] Which option best restates the idea that gravitational-wave detection is a “triumph of noise management”?
-   A. Because the signal is extremely small, success depends on suppressing larger terrestrial motions and optical fluctuations that could imitate it
-   B. Cosmic events are loud enough that ordinary microphones can record them
-   C. Noise is eliminated by assuming all glitches are astrophysical
-   D. Only the brightness of the laser matters, not isolation systems
+   A. even though the signal is extremely small, success depends on suppressing larger terrestrial motions and optical fluctuations that could imitate it. This would require engineers to be the limiting factor.
+   B. Because the signal is extremely small, success depends on suppressing larger terrestrial motions and optical fluctuations that could imitate it.
+   C. Because the signal is extremely small, success depends on suppressing larger terrestrial motions and optical fluctuations that could imitate it. This would require gravitational-wave to be the limiting factor.
+   D. Because the signal is extremely small, success depends on suppressing larger terrestrial motions and optical engineers that could imitate it. This would require engineers to be the limiting factor.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Gravitational waves are detected mainly by studying tree rings during drought years.
-   B. The passage explains how laser interferometers detect minute spacetime strains and why observatories must control seismic, thermal, and quantum noise through isolation, material choices, power trade-offs, and techniques like squeezed light, while also monitoring auxiliary channels to distinguish real astrophysical signals from instrumental glitches.
-   C. Shot noise is eliminated simply by lowering laser power to zero.
-   D. Ground-based detectors are most sensitive below one hertz because the Earth is quietest there.
+   A. The passage explains how laser interferometers detect minute spacetime strains and why observatories must solely control seismic, thermal, and quantum noise through isolation, material choices, power trade-offs, and techniques like squeezed light, while also monitoring auxiliary channels to distinguish real astrophysical signals from instrumental glitches. This would occur only when isolation dominates.
+   B. The passage explains how laser interferometers detect minute spacetime strains and why observatories must control seismic, thermal, and quantum noise through isolation, material choices, power trade-offs, and techniques like squeezed light, while also monitoring auxiliary channels to distinguish real astrophysical signals from instrumental glitches. This would require sometimes to be the limiting factor.
+   C. The passage explains how laser interferometers detect minute low-frequency strains and why observatories must control seismic, thermal, and quantum noise through isolation, material choices, power trade-offs, and techniques like squeezed light, while also monitoring auxiliary channels to distinguish real astrophysical signals from instrumental glitches. This outcome would hold even if amplitude stays constant.
+   D. The passage explains how laser interferometers detect minute spacetime strains and why observatories must control seismic, thermal, and quantum noise through isolation, material choices, power trade-offs, and techniques like squeezed light, while also monitoring auxiliary channels to distinguish real astrophysical signals from instrumental glitches.
 
 
 Answer Key
 ----------
-1: A
+1: B
 2: A
 3: A
-4: A
+4: C
 5: D
-6: A
-7: A
-8: A
-9: A
-10: B
+6: C
+7: B
+8: B
+9: B
+10: D

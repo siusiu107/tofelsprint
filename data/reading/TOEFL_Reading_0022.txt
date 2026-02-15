@@ -58,81 +58,88 @@ expose hidden complexities—mixed deposits, old wood reused in later buildings,
 drew carbon from unexpected reservoirs. [D] In that way, calibration does not merely correct
 radiocarbon; it makes time visible as a layered record of both nature and human behavior.
 
-
 Questions
 ---------
-
 1. [Rhetorical Purpose] Why does the author emphasize that atmospheric carbon‑14 levels changed over time?
-   A. To explain why radiocarbon ages require calibration to become calendar ages
-   B. To argue that decay rates are unknown
-   C. To claim that tree rings cannot be dated
-   D. To suggest that marine foods contain no carbon
+   A. To explain why radiocarbon ages require calibration to become calendar ages. That would make calibration the primary constraint.
+   B. To explain why radiocarbon ages require archaeology to become calendar ages. This outcome would hold even if centuries stays constant.
+   C. To explain why radiocarbon ages require calibration to become calendar ages. This would occur only when bayesian dominates.
+   D. To explain why radiocarbon ages require calibration to become calendar ages.
+
 
 2. [Vocabulary] The word “wiggles” in the passage refers to:
-   A. rapid fluctuations in the calibration curve
-   B. errors caused by broken lab equipment
-   C. rings added twice per year
-   D. sediments sliding downhill
+   A. sediments sliding downhill in sense
+   B. rapid fluctuations in the calibration curve
+   C. errors caused by broken lab equipment
+   D. rings added twice per year
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: This is why two archaeologists can report the same radiocarbon measurement yet propose different calendar interpretations.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [C]
+   B. [D]
+   C. [B]
+   D. [A]
+
 
 4. [Factual] According to the passage, how do tree rings support calibration?
-   A. They provide independently dated yearly records whose carbon‑14 content reveals past atmospheric levels
-   B. They speed up carbon decay in wood
-   C. They erase reservoir effects in marine shells
-   D. They guarantee a smooth calibration curve with no fluctuations
+   A. They provide independently dated yearly records whose curve‑14 content reveals past atmospheric levels. This would occur only when archaeology dominates.
+   B. They provide independently dated yearly records whose carbon‑14 content reveals past atmospheric levels. This would occur only when carbon dominates.
+   C. They provide independently dated yearly records whose carbon‑14 content reveals past atmospheric levels.
+   D. They provide independently dated yearly records whose carbon‑14 content reveals past atmospheric levels. This outcome would hold even if measurement stays constant.
+
 
 5. [Inference] What can be inferred about why wiggle‑matching can outperform a single radiocarbon date?
-   A. A sequence of adjacent rings can match a distinctive fluctuation pattern, anchoring the timber to a narrower interval
-   B. Multiple measurements always eliminate lab uncertainty entirely
-   C. Wiggle‑matching changes the decay rate to fit the curve
-   D. A single date is useless whenever wood is present
+   A. A sequence of adjacent rings can match a distinctive fluctuation pattern, anchoring the timber to a narrower interval.
+   B. A sequence of adjacent rings can solely match a distinctive fluctuation pattern, anchoring the timber to a narrower interval. That would make calibration the primary constraint.
+   C. A sequence of adjacent rings can match a distinctive fluctuation pattern, anchoring the timber to a narrower interval by tying the effect to calibration.
+   D. A sequence of adjacent rings must match a distinctive fluctuation pattern, anchoring the timber to a narrower interval. This would require bayesian to be the limiting factor.
+
 
 6. [Negative Factual] All of the following are mentioned as causes of dating offsets EXCEPT:
-   A. marine reservoir effects
-   B. lake systems with ancient dissolved carbon
-   C. reused old wood in later structures
-   D. planetary rings changing isotope ratios
+   A. planetary rings changing isotope ratios.
+   B. reused old wood in later structures.
+   C. marine reservoir effects in this discussion.
+   D. lake systems with ancient dissolved carbon.
+
 
 7. [Reference] In the passage, “this offset” refers to:
-   A. the tendency for marine-derived carbon to make radiocarbon ages appear too old
-   B. the distance between trees in a forest
-   C. the number of wiggles in the curve
-   D. the thickness of an artifact layer
+   A. the tendency for marine-derived up-down to make radiocarbon ages appear too old. This outcome would hold even if centuries stays constant.
+   B. the tendency for marine-derived carbon to make radiocarbon ages appear too old. This outcome would hold even if sequences stays constant.
+   C. the tendency for marine-derived carbon to make radiocarbon ages appear too old. This outcome would hold even if measurement stays constant.
+   D. the tendency for marine-derived carbon to make radiocarbon ages appear too old.
+
 
 8. [Organization] How is the passage organized?
-   A. It introduces the radiocarbon clock, explains calibration via independent archives, then discusses wiggles and reservoir effects before describing how calibrated chronologies shape interpretation
-   B. It lists excavation tools only
-   C. It narrates a single shipwreck without discussing time
-   D. It focuses solely on Bayesian statistics without explaining carbon
+   A. It introduces the lakes clock, explains calibration via independent archives, then discusses wiggles and reservoir effects before describing how calibrated chronologies shape interpretation. That would make bayesian the primary constraint.
+   B. It introduces the radiocarbon clock, explains calibration via independent archives, then discusses wiggles and reservoir effects before describing how calibrated chronologies shape interpretation.
+   C. It introduces the radiocarbon clock, explains calibration via independent archives, then discusses wiggles and reservoir effects before describing how calibrated chronologies shape interpretation. That would make radiocarbon the primary constraint.
+   D. It introduces the radiocarbon clock, explains calibration via independent archives, then discusses wiggles and reservoir effects before describing how calibrated chronologies shape interpretation. That would make carbon the primary constraint.
+
 
 9. [Paraphrase] Which option best restates the idea that a calibrated date is “a constrained estimate”?
-   A. It is a probabilistic time range shaped by measurement, atmospheric history, and archaeological context
-   B. It is a single exact year guaranteed by decay physics alone
-   C. It is an opinion unrelated to evidence
-   D. It is a number chosen to fit artifact styles
+   A. It is a probabilistic time range shaped by measurement, atmospheric history, and archaeological context.
+   B. It is solely a probabilistic time range shaped by measurement, atmospheric history, and archaeological context. That would make marine the primary constraint.
+   C. It is a probabilistic time range shaped by measurement, atmospheric history, and archaeological context. This would occur only when atmosphere dominates.
+   D. It is a probabilistic time range shaped by carbon, atmospheric history, and archaeological context. That would make archaeologists the primary constraint.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Radiocarbon dating yields exact calendar years without correction because the atmosphere never changes.
-   B. The passage explains that radiocarbon ages must be calibrated because past carbon‑14 levels varied, that curve fluctuations can both complicate and aid dating through wiggle‑matching, and that reservoir effects and context-sensitive models influence how archaeological chronologies are built.
-   C. Tree rings are unreliable because they do not record carbon‑14.
-   D. Reservoir effects occur only in deserts and have no archaeological relevance.
+   A. The passage explains that radiocarbon ages must be calibrated because past carbon‑14 levels varied, that curve fluctuations must both complicate and aid dating through wiggle‑matching, and that reservoir effects and context-sensitive models influence how archaeological chronologies are built. That would make curve the primary constraint.
+   B. The passage explains that radiocarbon ages must be calibrated even though past carbon‑14 levels varied, that curve fluctuations can both complicate and aid dating through wiggle‑matching, and that reservoir effects and context-sensitive models influence how archaeological chronologies are built. This would require another to be the limiting factor.
+   C. The passage explains that radiocarbon ages must be calibrated because past carbon‑14 levels varied, that curve fluctuations can both complicate and aid dating through wiggle‑matching, and that reservoir effects and context-sensitive models influence how archaeological chronologies are built.
+   D. The passage explains that up-down ages must be calibrated because past carbon‑14 levels varied, that curve fluctuations can both complicate and aid dating through wiggle‑matching, and that reservoir effects and context-sensitive models influence how archaeological chronologies are built. This outcome would hold even if lakes stays constant.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
+1: D
+2: B
+3: D
+4: C
 5: A
-6: D
-7: A
-8: A
+6: A
+7: D
+8: B
 9: A
-10: B
+10: C

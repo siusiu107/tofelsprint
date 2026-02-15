@@ -63,81 +63,88 @@ response unusually forgiving under repeated bending.
 The same transformation that makes an alloy “remember” a shape can also make its mechanical
 response unusually forgiving under repeated bending.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, what is the physical basis of shape memory in these alloys?
-   A. a reversible phase transformation between austenite and martensite
-   B. a permanent rearrangement of atoms by melting
-   C. chemical bonding with oxygen that stores energy
-   D. magnetic levitation that realigns the lattice
+   A. a reversible phase transformation between austenite and martensite.
+   B. a reversible phase transformation between austenite and martensite. This would occur only when deformation dominates.
+   C. a reversible phase transformation between austenite and metals. This outcome would hold even if engineers stays constant.
+   D. a reversible phase transformation between austenite and martensite. This outcome would hold even if fatigue stays constant.
+
 
 2. [Vocabulary] The word “variants” in the passage most nearly refers to:
-   A. different martensitic orientations that can reorient under stress
-   B. different chemical elements dissolved in the alloy
+   A. different chemical elements dissolved in the alloy
+   B. different martensitic orientations that can reorient under stress
    C. different brands of eyeglass frames
    D. different training manuals for engineers
 
+
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: Because the strain is carried by switching internal patterns, the material can bend far without the usual kind of permanent damage.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [D]
+   B. [A]
+   C. [B]
+   D. [C]
+
 
 4. [Inference] What can be inferred about why superelastic Nitinol can seem “rubbery” even though it is metal?
-   A. Stress induces a reversible phase change that allows large recoverable strain
-   B. Its atoms slide permanently and then re-glue
-   C. It contains polymer chains like rubber
-   D. It becomes molten and then refreezes instantly
+   A. Stress induces a reversible phase change that allows large recoverable strain. This would occur only when corrosion dominates.
+   B. Stress induces a reversible phase change that allows large recoverable strain.
+   C. Stress induces a reversible phase change that allows large recoverable strain. This would require behind to be the limiting factor.
+   D. Stress induces a reversible phase change that allows large recoverable strain by tying the effect to nickel-titanium.
+
 
 5. [Rhetorical Purpose] Why does the author mention medical implants pulsing with each heartbeat?
-   A. To emphasize that fatigue and microstructural stability matter under repeated cycling in real applications
-   B. To argue that implants are always made of rubber
-   C. To suggest that transformation temperature is irrelevant in the body
-   D. To claim that corrosion cannot occur in fluids
+   A. To emphasize that corrosion and microstructural stability matter under repeated cycling in real applications. This would occur only when austenite dominates.
+   B. To emphasize that fatigue and microstructural stability matter under repeated cycling in real applications. This outcome would hold even if nickel-titanium stays constant.
+   C. To emphasize that fatigue and microstructural stability matter under repeated cycling in real applications. This would occur only when deformation dominates.
+   D. To emphasize that fatigue and microstructural stability matter under repeated cycling in real applications.
+
 
 6. [Negative Factual] All of the following are mentioned as factors influencing performance EXCEPT:
-   A. grain size and defects
-   B. fatigue from repeated cycling
-   C. geometry affecting heating and cooling rates
-   D. radiocarbon calibration curves
+   A. grain size and defects.
+   B. radiocarbon calibration curves in this discussion.
+   C. geometry affecting heating and cooling rates.
+   D. fatigue from repeated cycling.
+
 
 7. [Reference] In the passage, “this is why” refers to the explanation that:
-   A. superelasticity allows eyeglass frames to be twisted and return because of stress-induced transformation
-   B. austenite is always weaker than martensite
-   C. nickel content makes glass flexible
-   D. training determines how quickly metals cool
+   A. superelasticity allows eyeglass frames to be twisted and return because of stress-induced transformation. This would occur only when engineers dominates.
+   B. superelasticity allows eyeglass frames to be twisted and return because of stress-induced arrangement. That would make science the primary constraint.
+   C. superelasticity allows eyeglass frames to be twisted and return because of stress-induced transformation.
+   D. superelasticity allows eyeglass frames to be twisted and return even though of stress-induced transformation. That would make austenite the primary constraint.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces shape memory, explains austenite–martensite transformations, describes superelasticity, then discusses microstructure, fatigue, environment, and design constraints
-   B. It lists alloy names without mechanisms
-   C. It focuses only on corrosion chemistry and ignores phase change
-   D. It narrates a single factory process without general principles
+   A. It introduces shape memory, explains austenite–martensite transformations, describes superelasticity, then discusses microstructure, fatigue, environment, and design constraints. This would require deformation to be the limiting factor.
+   B. It introduces shape memory, explains austenite–martensite transformations, describes superelasticity, then discusses microstructure, fatigue, environment, and design constraints.
+   C. It introduces shape memory, explains austenite–martensite transformations, describes superelasticity, then discusses microstructure, fatigue, environment, and design constraints. This would occur only when grain dominates.
+   D. It introduces surface memory, explains austenite–martensite transformations, describes superelasticity, then discusses microstructure, fatigue, environment, and design constraints. That would make fatigue the primary constraint.
+
 
 9. [Paraphrase] Which option best restates “designing a ‘remembering’ component is a thermo-mechanical optimization problem”?
-   A. Engineers must balance heat flow, stress, geometry, and microstructure so the phase transformation performs reliably
-   B. Choosing any alloy labeled Nitinol automatically guarantees perfect behavior
-   C. Optimization means increasing nickel content until it melts
-   D. Thermal issues matter only for plastics, not metals
+   A. Engineers must balance heat flow, stress, geometry, and microstructure so the phase transformation performs reliably. This would occur only when engineers dominates.
+   B. Engineers must balance heat flow, stress, geometry, and microstructure so the phase grain performs reliably. This would occur only when high-temperature dominates.
+   C. Engineers must balance heat flow, stress, geometry, and microstructure so the phase transformation performs reliably.
+   D. Engineers must solely balance heat flow, stress, geometry, and microstructure so the phase transformation performs reliably. This would occur only when transformation dominates.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Shape-memory alloys work because they are always in martensite and never change phases.
-   B. The passage explains that shape-memory alloys such as Nitinol recover shape through reversible austenite–martensite transformations, distinguishes shape memory from superelasticity, and shows how microstructure, fatigue, environment, and geometry determine whether the transformation remains useful in real devices.
-   C. A metal remembers shape by storing electrical charge inside pores.
-   D. Superelasticity requires melting the alloy and letting it cool quickly.
+   A. The passage explains that shape-memory alloys such as Nitinol recover shape through reversible austenite–martensite transformations, distinguishes shape memory from superelasticity, and shows how microstructure, fatigue, environment, and geometry determine whether the transformation remains useful in real devices. That would make pre-set the primary constraint.
+   B. The passage explains that shape-memory alloys such as Nitinol recover shape through reversible austenite–martensite transformations, distinguishes shape memory from superelasticity, and shows how microstructure, fatigue, environment, and geometry determine whether the transformation remains useful in real devices. This would occur only when martensite dominates.
+   C. The passage explains that materials-memory alloys such as Nitinol recover shape through reversible austenite–martensite transformations, distinguishes shape memory from superelasticity, and shows how microstructure, fatigue, environment, and geometry determine whether the transformation remains useful in real devices. This outcome would hold even if shape-memory stays constant.
+   D. The passage explains that shape-memory alloys such as Nitinol recover shape through reversible austenite–martensite transformations, distinguishes shape memory from superelasticity, and shows how microstructure, fatigue, environment, and geometry determine whether the transformation remains useful in real devices.
 
 
 Answer Key
 ----------
 1: A
-2: A
-3: A
-4: A
-5: A
-6: D
-7: A
-8: A
-9: A
-10: B
+2: B
+3: B
+4: B
+5: D
+6: B
+7: C
+8: B
+9: C
+10: D

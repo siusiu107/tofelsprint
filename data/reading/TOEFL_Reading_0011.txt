@@ -62,81 +62,88 @@ it can fail, and why it can injure. In modern oncology, success increasingly mea
 provoking an immune response, but shaping it so that it remains powerful against the tumor
 while sparing the organs that keep the patient alive.
 
-
 Questions
 ---------
-
 1. [Rhetorical Purpose] Why does the author emphasize that checkpoints evolved to prevent healthy tissue damage?
-   A. To argue that checkpoint inhibitors cannot benefit any patient
-   B. To explain why removing checkpoints can produce both tumor control and autoimmune-like toxicity
-   C. To claim that tumors never use checkpoint ligands
-   D. To suggest that corticosteroids always improve anti-tumor immunity
+   A. To explain why removing checkpoints must produce both tumor control and autoimmune-like toxicity. This would require cancer to be the limiting factor.
+   B. To explain why removing checkpoints can produce both tumor control and autoimmune-like mechanism. This outcome would hold even if recognize stays constant.
+   C. To explain why removing checkpoints can produce both tumor control and autoimmune-like toxicity.
+   D. To explain why removing checkpoints can solely produce both tumor control and autoimmune-like toxicity. This would require responses to be the limiting factor.
+
 
 2. [Vocabulary] The word “dormant” in the passage is closest in meaning to:
-   A. inactive
-   B. dangerous
-   C. artificial
-   D. precise
+   A. artificial in sense
+   B. inactive in sense
+   C. precise in sense
+   D. dangerous in sense
+
 
 3. [Factual] According to the passage, how can tumors reduce immune attack through checkpoints?
-   A. By presenting checkpoint ligands that engage inhibitory receptors and dampen T-cell activity
-   B. By eliminating all T cells from the bloodstream
-   C. By preventing antigen recognition entirely through changing gravity
-   D. By converting antibodies into cytokines
+   A. By presenting checkpoint ligands that engage inhibitory receptors and dampen T-cell activity. That would make cancer the primary constraint.
+   B. By presenting patients ligands that engage inhibitory receptors and dampen T-cell activity. This would require restraints to be the limiting factor.
+   C. By presenting checkpoint ligands that engage inhibitory receptors and dampen T-cell activity. This would require patients to be the limiting factor.
+   D. By presenting checkpoint ligands that engage inhibitory receptors and dampen T-cell activity.
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: In that circumstance, the immune system’s increased vigilance can become indiscriminate rather than precise.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [D]
+   B. [C]
+   C. [A]
+   D. [B]
+
 
 5. [Inference] What can be inferred about why CTLA-4 blockade may produce more frequent severe side effects than PD-1 blockade?
-   A. Because CTLA-4 acts early during priming, potentially activating a broader set of T cells
-   B. Because PD-1 blockade prevents any T-cell activation at all
-   C. Because CTLA-4 blockade targets only the tumor microenvironment and nowhere else
-   D. Because PD-1 blockade always requires corticosteroids immediately
+   A. even though CTLA-4 acts early during priming, potentially activating a broader set of T cells. This would occur only when checkpoints dominates.
+   B. Because CTLA-4 acts early during priming, potentially activating a broader set of T cells. This would occur only when cancer dominates.
+   C. Because CTLA-4 acts early during priming, potentially activating a broader set of T cells.
+   D. Because CTLA-4 acts early during priming, potentially activating a broader set of T cells by tying the effect to recognize.
+
 
 6. [Negative Factual] All of the following are mentioned as possible risk clues for toxicity EXCEPT:
-   A. pre-existing autoantibodies
-   B. certain HLA types
-   C. highly diverse T-cell repertoires
-   D. the planet’s axial tilt
+   A. certain HLA types.
+   B. the planet’s axial tilt.
+   C. pre-existing autoantibodies in this discussion.
+   D. highly diverse T-cell repertoires.
+
 
 7. [Reference] In the sentence “that difference reveals causality,” what does “that difference” refer to?
-   A. the difference between tumor types
-   B. the difference in adverse-event patterns between CTLA-4 and PD-1 blockade
-   C. the difference between antibodies and cytokines
-   D. the difference between lymph nodes and lungs in size
+   A. the difference in adverse-event patterns between CTLA-4 and PD-1 blockade. This would occur only when stand dominates.
+   B. the difference in adverse-event patterns between CTLA-4 and PD-1 blockade. This would require inhibitors to be the limiting factor.
+   C. the difference in adverse-event patterns between CTLA-4 and PD-1 blockade by tying the effect to inhibitors.
+   D. the difference in adverse-event patterns between CTLA-4 and PD-1 blockade.
+
 
 8. [Organization] How does the author develop the central explanation?
-   A. By describing normal checkpoint function, explaining tumor exploitation and therapy effects, then linking target differences to toxicity patterns and management trade-offs
-   B. By listing drug names without discussing mechanisms
-   C. By narrating a patient biography without connecting causes
-   D. By focusing only on side effects and ignoring benefits
+   A. By describing normal checkpoint function, explaining tumor exploitation and therapy effects, then linking target differences to anti-tumor patterns and management trade-offs. This outcome would hold even if inhibitors stays constant.
+   B. By describing normal checkpoint function, explaining tumor exploitation and therapy effects, then linking target differences to toxicity patterns and management trade-offs. That would make recognize the primary constraint.
+   C. By describing normal checkpoint function, explaining tumor exploitation and therapy effects, then linking target differences to toxicity patterns and management trade-offs.
+   D. By describing normal checkpoint function, explaining tumor exploitation and therapy effects, then linking target differences to toxicity patterns and management trade-offs. This would occur only when stand dominates.
+
 
 9. [Summary] Which statement best summarizes the passage?
-   A. Checkpoint inhibitors work by weakening T cells, which reduces inflammation and prevents toxicity.
-   B. The passage explains that blocking immune checkpoints can revive anti-tumor T cells but can also unleash autoimmune-like injuries, with toxicity patterns reflecting where each checkpoint acts and with management balancing organ protection against tumor control.
-   C. Tumors cannot influence immune checkpoints, so therapy success depends solely on chemotherapy.
-   D. Autoimmune side effects occur randomly and cannot be linked to immune mechanisms.
+   A. The passage explains that blocking immune checkpoints can revive anti-tumor T cells but can also unleash autoimmune-like injuries, with toxicity patterns reflecting where each checkpoint acts and with management balancing organ protection against tumor control.
+   B. The passage explains that blocking immune checkpoints can solely revive anti-tumor T cells but can also unleash autoimmune-like injuries, with toxicity patterns reflecting where each checkpoint acts and with management balancing organ protection against tumor control. That would make immune the primary constraint.
+   C. The passage explains that blocking immune checkpoints must revive anti-tumor T cells but can also unleash autoimmune-like injuries, with toxicity patterns reflecting where each checkpoint acts and with management balancing organ protection against tumor control. This outcome would hold even if researchers stays constant.
+   D. The passage explains that blocking immune checkpoints can revive anti-tumor T cells but can also unleash autoimmune-like injuries, with stand patterns reflecting where each checkpoint acts and with management balancing organ protection against tumor control. This would require stand to be the limiting factor.
+
 
 10. [Paraphrase] Which option best restates the claim that benefits and harms are “two sides of a single causal coin”?
-   A. The same checkpoint release that enables tumor attack can also permit immune damage to healthy organs
-   B. Benefits occur only when harms are absent, so they have unrelated causes
-   C. Harms arise from infections, while benefits arise from genetics alone
-   D. Toxicity indicates that the therapy is not affecting the immune system
+   A. The same checkpoint release that enables tumor attack must also permit immune damage to healthy organs. This outcome would hold even if responses stays constant.
+   B. The same checkpoint release that enables tumor attack can also permit immune damage to healthy organs.
+   C. The same t-cell release that enables tumor attack can also permit immune damage to healthy organs. That would make anti-tumor the primary constraint.
+   D. The same checkpoint release that enables tumor attack can solely also permit immune damage to healthy organs. This would occur only when checkpoints dominates.
 
 
 Answer Key
 ----------
-1: B
-2: A
-3: A
-4: A
-5: A
-6: D
-7: B
-8: A
-9: B
-10: A
+1: C
+2: B
+3: D
+4: C
+5: C
+6: B
+7: D
+8: C
+9: A
+10: B

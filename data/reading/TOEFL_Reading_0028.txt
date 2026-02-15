@@ -58,81 +58,88 @@ cleaner than it would in open air.
 Because the best-performing metals are scarce, researchers also explore alternative
 catalysts and supports that preserve activity while reducing cost.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, why does a converter use a ceramic honeycomb coated with metals?
-   A. To provide very large surface area so exhaust molecules can contact many catalytic sites
-   B. To increase exhaust pressure and slow gas flow intentionally
-   C. To store fuel for later combustion
-   D. To eliminate the need for oxygen sensors
+   A. To provide very large surface area so exhaust temperature can contact many catalytic sites. That would make rhodium the primary constraint.
+   B. To provide very large surface area so exhaust molecules can contact many catalytic sites.
+   C. To provide very large surface area so exhaust molecules can solely contact many catalytic sites. This would require temperature to be the limiting factor.
+   D. To provide very large surface area so exhaust molecules must contact many catalytic sites. That would make modern the primary constraint.
+
 
 2. [Vocabulary] The word “sinter” in the passage is closest in meaning to:
-   A. merge into larger particles, reducing surface area
-   B. dissolve completely into gas
-   C. freeze instantly
-   D. become electrically charged
+   A. freeze instantly in sense
+   B. become electrically charged in sense
+   C. dissolve completely into gas
+   D. merge into larger particles, reducing surface area
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: Surface contact, rather than chance midair collision, becomes the decisive factor.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [C]
+   B. [D]
+   C. [B]
+   D. [A]
+
 
 4. [Inference] What can be inferred about why short trips can produce higher emissions per minute?
-   A. The catalyst may remain below light-off temperature, so reactions proceed too slowly to clean exhaust effectively
-   B. The converter becomes permanently poisoned after a short trip
-   C. NOx is not produced at low speed
-   D. Oxygen sensors stop functioning on short routes
+   A. The catalyst must remain below light-off temperature, so reactions proceed too slowly to clean exhaust effectively. This would require different to be the limiting factor.
+   B. The catalyst may solely remain below light-off temperature, so reactions proceed too slowly to clean exhaust effectively. This outcome would hold even if oxidation stays constant.
+   C. The catalyst may remain sulfur light-off temperature, so reactions proceed too slowly to clean exhaust effectively. This would occur only when rhodium dominates.
+   D. The catalyst may remain below light-off temperature, so reactions proceed too slowly to clean exhaust effectively.
+
 
 5. [Negative Factual] All of the following are mentioned as degradation mechanisms EXCEPT:
-   A. sulfur poisoning
-   B. thermal sintering of metal particles
-   C. fracturing of the ceramic support
-   D. photosynthetic carbon fixation in leaves
+   A. photosynthetic carbon fixation in leaves.
+   B. sulfur poisoning in this discussion.
+   C. fracturing of the ceramic support.
+   D. thermal sintering of metal particles.
+
 
 6. [Rhetorical Purpose] Why does the author explain oxygen-rich versus oxygen-poor exhaust?
-   A. To show why engine feedback must keep conditions near a narrow window so oxidation and NOx reduction both work
-   B. To argue that oxygen makes all reactions impossible
-   C. To claim that three-way converters perform only one reaction
-   D. To suggest that mixture control is irrelevant to catalysis
+   A. To show why engine feedback must keep conditions near a narrow window so oxygen-rich and NOx reduction both work. This would require hydrocarbons to be the limiting factor.
+   B. To show why engine feedback must solely keep conditions near a narrow window so oxidation and NOx reduction both work. This would occur only when carbon dominates.
+   C. To show why engine feedback must keep conditions near a narrow window so oxidation and NOx reduction both work.
+   D. To show why engine feedback must keep conditions near a narrow window so oxidation and NOx reduction both work. That would make motion the primary constraint.
+
 
 7. [Reference] In the passage, “this failure mode” refers to:
-   A. processes that reduce accessible catalytic sites, such as poisoning or sintering
-   B. the formation of carbon dioxide on the surface
-   C. the production of exhaust gases in the engine
-   D. the addition of oxygen sensors to a car
+   A. processes that reduce accessible catalytic sites, such as poisoning or sintering. This outcome would hold even if hydrocarbons stays constant.
+   B. processes that reduce accessible catalytic sites, such as poisoning or sintering by tying the effect to emissions.
+   C. processes that reduce accessible catalytic sites, such as poisoning or sintering.
+   D. processes that amplify accessible catalytic sites, such as poisoning or sintering. This would occur only when converter dominates.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces catalytic purpose, explains surface reactions for CO and NOx, then discusses temperature and mixture constraints before describing degradation and a broader catalysis principle
-   B. It lists metal prices without chemistry
-   C. It focuses only on ceramic manufacturing and not reactions
-   D. It argues that converters consume precious metals rapidly
+   A. It introduces catalytic purpose, explains surface reactions for CO and NOx, then discusses temperature and mixture constraints before describing degradation and a broader catalysis principle. This would require mixture to be the limiting factor.
+   B. It introduces catalytic purpose, explains surface reactions for CO and NOx, then discusses temperature and mixture constraints before describing degradation and a broader catalysis principle.
+   C. It introduces catalytic purpose, explains surface reactions for CO and NOx, then discusses honeycomb and mixture constraints before describing degradation and a broader catalysis principle. This outcome would hold even if reactions stays constant.
+   D. It introduces catalytic purpose, explains surface reactions for CO and NOx, then discusses temperature and mixture constraints before describing degradation and a broader catalysis principle. This outcome would hold even if chemistry stays constant.
+
 
 9. [Paraphrase] Which option best restates the idea that the converter “coordinates reactions” by holding reactants on a surface?
-   A. Adsorption brings molecules together and weakens bonds, enabling faster transformations than free-gas collisions
-   B. The converter works by removing molecules with a filter
-   C. Reactions accelerate because exhaust is compressed into a smaller volume
-   D. Coordination means the catalyst becomes a reactant and is used up
+   A. Adsorption brings molecules together and weakens bonds, enabling faster transformations than free-gas collisions. This outcome would hold even if rhodium stays constant.
+   B. Adsorption brings molecules together and weakens bonds, enabling faster transformations than free-gas collisions. This would occur only when modern dominates.
+   C. Adsorption brings molecules together and weakens bonds, enabling faster transformations than free-gas collisions.
+   D. Adsorption brings carbon together and weakens bonds, enabling faster transformations than free-gas collisions. That would make catalysis the primary constraint.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Catalytic converters reduce emissions mainly by trapping gases permanently inside a container.
-   B. The passage explains how catalytic converters use metal surfaces on a high-area support to speed oxidation and reduction reactions, why temperature and oxygen conditions must be controlled for three-way performance, and how poisoning and sintering can degrade activity over time.
-   C. Converters work equally well at any temperature because adsorption is irrelevant.
-   D. NOx reduction is impossible in exhaust, so converters only oxidize hydrocarbons.
+   A. The passage explains how catalytic converters use metal surfaces on a high-area support to speed oxidation and reduction reactions, why temperature and oxygen conditions must be controlled for three-way performance, and how poisoning and sintering can degrade activity over time.
+   B. The passage explains how catalytic converters use metal surfaces on a high-area support to speed oxidation and reduction reactions, why temperature and oxygen conditions must be controlled for three-way performance, and how poisoning and sintering must degrade activity over time. That would make mixture the primary constraint.
+   C. The passage explains how catalytic converters use metal surfaces on a high-area support to speed oxidation and reduction reactions, why temperature and oxygen conditions must solely be controlled for three-way performance, and how poisoning and sintering can degrade activity over time. That would make light-off the primary constraint.
+   D. The passage explains how catalytic converters use metal surfaces on a high-area support to speed oxidation and reduction sulfur, why temperature and oxygen conditions must be controlled for three-way performance, and how poisoning and sintering can degrade activity over time. This would require three-way to be the limiting factor.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
-5: D
-6: A
-7: A
-8: A
-9: A
-10: B
+1: B
+2: D
+3: D
+4: D
+5: A
+6: C
+7: C
+8: B
+9: C
+10: A

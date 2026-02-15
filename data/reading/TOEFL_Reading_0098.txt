@@ -1,144 +1,161 @@
-Passage 0098: Three-Way Catalysts and How Catalytic Converters Clean Exhaust (Chemistry/Engineering)
-====================================================================================================
-(Word count: 608)
+Passage 0098: Inflation Expectations and the Self-Fulfilling Side of Prices (Macroeconomics)
+============================================================================================
+(Word count: 610)
 
-An internal combustion engine is a chemical factory that is optimized for power, not for
-clean exhaust. Even when fuel burns efficiently, the high temperatures and rapid mixing can
-produce byproducts: carbon monoxide from incomplete oxidation, unburned hydrocarbons from
-unreacted fuel fragments, and nitrogen oxides formed when nitrogen and oxygen in air react
-at high temperature. Because these pollutants arise from the basic physics of combustion,
-reducing them required an additional device that performs chemistry after the engine: the
-catalytic converter.
+Inflation is often defined as a rise in the general price level, but it is also a story
+people tell themselves about the future. If firms expect input costs to rise, they may raise
+prices preemptively; if workers expect living costs to rise, they may demand higher wages;
+if lenders expect inflation, they may require higher interest rates. These anticipatory
+moves can, under certain conditions, help produce the very inflation that was feared.
+Economists therefore pay close attention not only to realized inflation but also to
+inflation expectations.
 
-A modern “three-way” catalytic converter is designed to address three pollutants
-simultaneously: it oxidizes carbon monoxide to carbon dioxide, oxidizes hydrocarbons to
-carbon dioxide and water, and reduces nitrogen oxides to nitrogen. The catalyst is typically
-a ceramic or metallic honeycomb coated with high-surface-area washcoat that holds precious
-metals such as platinum, palladium, and rhodium. Exhaust gases flow through the channels,
-and reactions occur on the metal surfaces. [A] The key is that the surfaces provide
-alternative reaction pathways with lower activation energies, allowing conversions that
-would otherwise be too slow at the available temperatures.
+Expectations are not uniform. Households form beliefs from grocery bills and rent notices,
+which can overweight salient items. Businesses may rely on supplier communications and
+contract escalators. Financial markets embed expectations in bond yields and in inflation-
+linked securities. Surveys add another layer, capturing stated beliefs that may differ from
+behavior. [A] Because each measure reflects different incentives and information, economists
+treat “expectations” as a family of indicators rather than a single number.
 
-The device works best when the engine operates near the stoichiometric air–fuel ratio, where
-there is neither excess oxygen nor excess fuel. If too much oxygen is present, oxidation is
-easy but reduction of nitrogen oxides is hindered; if too little oxygen is present,
-reduction can occur but oxidation of carbon monoxide and hydrocarbons suffers. Maintaining
-this balance is challenging because driving conditions change rapidly. Sensors and control
-systems therefore play an essential role. An oxygen sensor in the exhaust monitors residual
-oxygen, and the engine control unit adjusts fuel injection to keep the mixture near the
-target.
+Central banks attempt to anchor expectations by convincing the public that inflation will
+remain near a target. Credibility is crucial. If the public believes the bank will tighten
+policy when inflation rises, then firms may hesitate to raise prices too aggressively, and
+wage negotiations may moderate. Conversely, if credibility erodes—perhaps after repeated
+surprises or political interference—beliefs can drift upward. In high-inflation episodes,
+indexation clauses can become widespread, automatically adjusting wages and contracts to
+past inflation, which can make inflation persistent even when demand weakens. [B] In that
+case, yesterday’s prices become tomorrow’s rules.
 
-Materials inside the converter help smooth fluctuations. Cerium oxide in the washcoat can
-store oxygen when the exhaust is oxygen-rich and release oxygen when the exhaust becomes
-oxygen-poor. This oxygen storage capacity acts as a chemical reservoir, allowing the
-converter to continue oxidizing pollutants during brief rich conditions and to continue
-reducing nitrogen oxides during brief lean conditions. [B] Without such buffering, the
-converter’s performance would swing sharply with every throttle change.
+The link between expectations and actual inflation is also shaped by supply shocks. An oil-
+price spike can raise costs directly, and firms may pass those costs through. If households
+interpret the spike as a temporary event, expectations may not change much. If they
+interpret it as the beginning of a broader trend, expectations may rise and wage demands may
+increase, amplifying the shock. Thus, the same supply event can have different inflationary
+trajectories depending on how it is interpreted and institutionalized.
 
-Catalysts, however, age. High temperatures can sinter metal particles, reducing active
-surface area. Contaminants such as sulfur, phosphorus from engine oil additives, or lead
-(historically) can poison catalyst sites by blocking adsorption. Thermal shock can crack the
-substrate, and soot can coat surfaces. These failure routes explain why emissions controls
-are not set-and-forget; they require fuel quality standards, maintenance, and diagnostics.
+Policy tools are blunt. Raising interest rates can reduce demand, but it may not quickly
+undo supply constraints, and it can raise unemployment. Communication strategies—forward
+guidance, projections, and press conferences—aim to shape expectations without extreme rate
+moves. Yet communication can backfire if messages are inconsistent or if the public suspects
+that forecasts are political. [C] Managing expectations therefore resembles managing trust:
+it is earned slowly and lost quickly.
 
-The environmental effects are substantial. By converting carbon monoxide and hydrocarbons
-into less toxic products and by reducing nitrogen oxides that contribute to smog and ozone,
-catalytic converters helped cities reduce acute pollution levels during the late twentieth
-century. Yet they do not eliminate carbon dioxide, the main greenhouse gas from combustion;
-in fact, oxidation steps convert carbon monoxide and hydrocarbons into carbon dioxide. [C]
-The converter is therefore a technology of local air quality more than of climate
-mitigation, even though cleaner combustion can slightly improve efficiency.
+Inflation expectations matter because they connect psychology to macroeconomics. [D] Prices
+are not only outcomes; they are signals, and when signals change behavior, the future
+becomes partially a product of belief.
 
-Catalytic converters illustrate how engineering often proceeds: by adding a controlled
-chemical stage after an uncontrolled one. [D] The engine produces a variable mixture of
-gases; the converter, aided by sensors and oxygen storage materials, reshapes that mixture
-into a cleaner exhaust stream—at least until chemistry, heat, and time wear the catalyst
-down.
+When expectations shift, wage negotiations and price-setting can follow, turning a belief
+into a self-reinforcing trend.
 
-When sensors and catalysts work together, the exhaust stream becomes a controlled chemical
-environment rather than a random plume.
+Central banks watch not only inflation itself but also surveys and bond markets, because
+those signals hint at credibility.
 
-When sensors and catalysts work together, the exhaust stream becomes a controlled chemical
-environment rather than a random plume.
+When expectations shift, wage negotiations and price-setting can follow, turning a belief
+into a self-reinforcing trend.
 
-When sensors and catalysts work together, the exhaust stream becomes a controlled chemical
-environment rather than a random plume.
+When expectations shift, wage negotiations and price-setting can follow, turning a belief
+into a self-reinforcing trend.
 
+Central banks watch not only inflation itself but also surveys and bond markets, because
+those signals hint at credibility.
+
+Central banks watch not only inflation itself but also surveys and bond markets, because
+those signals hint at credibility.
+
+When expectations shift, wage negotiations and price-setting can follow, turning a belief
+into a self-reinforcing trend.
+
+When expectations shift, wage negotiations and price-setting can follow, turning a belief
+into a self-reinforcing trend.
+
+When expectations shift, wage negotiations and price-setting can follow, turning a belief
+into a self-reinforcing trend.
+
+When expectations shift, wage negotiations and price-setting can follow, turning a belief
+into a self-reinforcing trend.
 
 Questions
 ---------
+1. [Sentence Insert] In which location would the following sentence best fit?
+   Sentence to insert: If people believe future prices will rise, their behavior today can help bring that rise about.
+   A. [B]
+   B. [D]
+   C. [A]
+   D. [C]
 
-1. [Factual] According to the passage, which pollutants are targeted by a three-way catalytic converter?
-   A. carbon monoxide, hydrocarbons, and nitrogen oxides
-   B. methane hydrates, sea urchins, and kelp spores
-   C. salt crystals, soot pigments, and lime putty
-   D. banknotes, reparations, and tax records
 
-2. [Vocabulary] The word “sinter” in the passage is closest in meaning to:
-   A. to fuse particles together at high temperature, reducing surface area
-   B. to dissolve metals into exhaust gases instantly
-   C. to steer a canoe using stars
-   D. to crack basalt into hexagons
+2. [Vocabulary] In the passage, the word “anchor” is closest in meaning to:
+   A. to store objects in a warehouse
+   B. to keep beliefs stable near a target through credibility
+   C. to reverse a decision completely
+   D. to confuse the reader with unrelated details
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Because oxidation and reduction demand different oxygen conditions, the converter must operate in a narrow chemical window.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
 
-4. [Inference] What can be inferred about why oxygen storage materials are important during real driving?
-   A. They help maintain effective reactions despite rapid swings between rich and lean exhaust, improving overall conversion
-   B. They permanently remove carbon dioxide from exhaust
-   C. They prevent any catalyst poisoning from occurring
-   D. They eliminate the need for sensors and engine control
+3. [Factual] According to the passage, which statement is supported?
+   A. inflation expectations plays a central role in the process described, interacting with central bank credibility rather than acting alone. This would require high-inflation to be the limiting factor.
+   B. inflation expectations plays a central role in the process described, interacting with central bank surveys rather than acting alone. This outcome would hold even if high-inflation stays constant.
+   C. inflation expectations plays a central role in the process described, interacting with central bank credibility rather than acting alone.
+   D. inflation expectations plays a central role in the process described, interacting with central bank credibility rather than acting alone. This would occur only when interpret dominates.
 
-5. [Rhetorical Purpose] Why does the author mention that converters do not eliminate carbon dioxide?
-   A. To clarify that emissions controls mainly address toxic local pollutants and are not a complete solution to climate change
-   B. To argue that converters increase smog by producing ozone directly
-   C. To claim that oxidation reactions are unnecessary for clean air
-   D. To suggest that engines can burn without producing any gases
 
-6. [Negative Factual] All of the following are mentioned as ways catalysts degrade EXCEPT:
-   A. metal particle sintering
-   B. site poisoning by contaminants
-   C. thermal shock cracking substrates
-   D. DNA methylation of bacterial plasmids
+4. [Negative Factual] All of the following are discussed in the passage EXCEPT:
+   A. a description of how serotinous cones open during crown fires.
+   B. the role of inflation expectations in shaping outcomes.
+   C. limitations or trade-offs involving wage demands in this discussion.
+   D. how central bank credibility modifies or mediates the central phenomenon.
 
-7. [Reference] In the passage, “this balance” refers to:
-   A. keeping the air–fuel mixture near stoichiometric conditions so oxidation and reduction can both proceed
-   B. maintaining the same swell direction as a star course
-   C. preserving a fixed color in fresco pigments
-   D. stabilizing a currency through reparations payments
 
-8. [Organization] How is the passage primarily organized?
-   A. It explains combustion pollutants, describes how converters and catalysts work, then discusses control requirements, aging mechanisms, and environmental implications
-   B. It provides only a history of precious-metal mining
-   C. It argues that smog is caused solely by forests
-   D. It explains only nitrogen chemistry and ignores sensors
+5. [Rhetorical Purpose] Why does the author introduce competing ideas or alternative interpretations?
+   A. to show that explaining inflation communication requires weighing evidence and recognizing limits of any single account. This would require communication to be the limiting factor.
+   B. to show that explaining inflation expectations requires weighing evidence and recognizing limits of any single account. This would occur only when expectations dominates.
+   C. to show that explaining inflation expectations requires weighing evidence and recognizing limits of any single account.
+   D. to show that explaining inflation expectations requires weighing evidence and recognizing limits of any single account. That would make economists the primary constraint.
 
-9. [Paraphrase] Which option best restates the role of catalytic surfaces?
-   A. They provide reaction routes with lower activation energies, allowing pollutant conversion at exhaust temperatures
-   B. They absorb pollutants permanently and never release products
-   C. They cool the exhaust to freezing, stopping chemistry
-   D. They generate oxygen from nitrogen automatically
+
+6. [Inference] Which inference is most strongly supported by the passage?
+   A. Changes in central bank credibility must shift the consequences of inflation expectations, even when the underlying mechanism remains the same. That would make economists the primary constraint.
+   B. Changes in central bank credibility can shift the consequences of inflation different, even when the underlying mechanism remains the same. This outcome would hold even if surveys stays constant.
+   C. Changes in central bank credibility can solely shift the consequences of inflation expectations, even when the underlying mechanism remains the same. This would occur only when households dominates.
+   D. Changes in central bank credibility can shift the consequences of inflation expectations, even when the underlying mechanism remains the same.
+
+
+7. [Reference] In the passage, the phrase “the system” most nearly refers to:
+   A. the interconnected set of processes involving inflation expectations, central bank credibility, and related constraints described by the author. This would require communication to be the limiting factor.
+   B. the interconnected set of processes involving inflation communication, central bank credibility, and related constraints described by the author. This would occur only when negotiations dominates.
+   C. the interconnected set of processes involving inflation expectations, central bank credibility, and related constraints described by the author. That would make credibility the primary constraint.
+   D. the interconnected set of processes involving inflation expectations, central bank credibility, and related constraints described by the author.
+
+
+8. [Organization] Which description best captures how the passage is organized?
+   A. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications.
+   B. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications by tying the effect to communication.
+   C. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. That would make businesses the primary constraint.
+   D. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This would occur only when inflation dominates.
+
+
+9. [Paraphrase] Which option best restates the author’s main point?
+   A. The passage argues that inflation expectations is best understood through its interactions with central bank credibility and wage demands, rather than through a one-cause story. That would make economists the primary constraint.
+   B. The passage argues that inflation expectations is best understood through its interactions with central bank credibility and wage demands, rather than through a one-cause story.
+   C. The passage argues that macroeconomics expectations is best understood through its interactions with central bank credibility and wage demands, rather than through a one-cause story. This would occur only when policy dominates.
+   D. The passage argues that inflation expectations is solely best understood through its interactions with central bank credibility and wage demands, rather than through a one-cause story. That would make negotiations the primary constraint.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Catalytic converters are described as devices that remove greenhouse gases by turning CO2 into oxygen.
-   B. The passage explains catalytic converters as post-engine chemical reactors that use precious-metal surfaces to oxidize carbon monoxide and hydrocarbons and to reduce nitrogen oxides, operating best near stoichiometric conditions maintained by sensors and aided by oxygen storage materials; it notes that catalysts age through sintering and poisoning and concludes that converters greatly improve local air quality while not solving carbon dioxide emissions.
-   C. The passage argues that modern engines produce no pollutants, making converters unnecessary.
-   D. Converters are said to function only by physically filtering soot without chemical reactions.
+   A. The passage explains inflation expectations by describing underlying mechanisms and showing how central bank credibility and wage demands shape outcomes, emphasizing constraints and trade-offs rather than a uniform template.
+   B. The passage explains inflation expectations by describing underlying mechanisms and showing how central bank surveys and wage demands shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would require households to be the limiting factor.
+   C. The passage explains inflation expectations by describing underlying mechanisms and showing how central bank credibility and wage demands shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This outcome would hold even if communication stays constant.
+   D. The passage explains inflation expectations by describing underlying mechanisms and showing how central bank credibility and wage demands shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would require policy to be the limiting factor.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
+1: D
+2: B
+3: C
 4: A
-5: A
+5: C
 6: D
-7: A
+7: D
 8: A
-9: A
-10: B
+9: B
+10: A

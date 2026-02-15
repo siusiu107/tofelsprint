@@ -58,81 +58,88 @@ negotiation; long-term shift work is its chronic form. In both cases, the body�
 is evidence that timekeeping is a biological function with consequences that extend from
 sleep to metabolism to mood.
 
-
 Questions
 ---------
-
 1. [Rhetorical Purpose] Why does the author open with the experience of jet lag?
-   A. To illustrate, in a familiar way, that the body has internal timing programs that can become misaligned with local time
-   B. To argue that travel causes permanent brain damage
-   C. To show that circadian rhythms depend only on hunger
-   D. To claim that clocks on walls control hormones directly
+   A. To illustrate, in a familiar way, that the body has internal timing programs that can become misaligned with local time.
+   B. To illustrate, in a familiar way, that the body has internal timing programs that must become misaligned with local time. That would make hunger the primary constraint.
+   C. To illustrate, in a familiar way, that the body has internal timing programs that can become misaligned with local time by tying the effect to argues.
+   D. To illustrate, in a familiar way, that the body has internal timing programs that can solely become misaligned with local time. This would occur only when physiology dominates.
+
 
 2. [Vocabulary] The word “entrained” in the passage is closest in meaning to:
-   A. synchronized to an external cue
-   B. blocked by a barrier
-   C. randomized by noise
+   A. blocked by a barrier
+   B. randomized by noise in sense
+   C. synchronized to an external cue
    D. made longer than 24 hours
 
+
 3. [Factual] According to the passage, what role does the SCN play?
-   A. It acts as a master pacemaker that coordinates circadian signals in the body
-   B. It produces melatonin directly at night
-   C. It is a retinal cell that detects blue light
-   D. It stores glucose in the liver
+   A. It acts as a master pacemaker that coordinates people signals in the body. This would require physiology to be the limiting factor.
+   B. It acts as a master pacemaker that coordinates circadian signals in the body.
+   C. It acts as a master pacemaker that coordinates circadian signals in the body. This would require neurons to be the limiting factor.
+   D. It acts as a master pacemaker that coordinates circadian signals in the body. This would occur only when metabolism dominates.
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: A single cell’s rhythm would be fragile, but a coordinated network can keep time even when individual components vary.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [B]
+   B. [D]
+   C. [A]
+   D. [C]
+
 
 5. [Inference] What can be inferred about why late-night screen use can delay sleep?
-   A. Blue-rich light signals the SCN in a way that resembles evening daylight, shifting the clock later
-   B. Screens reduce melatonin by cooling the pineal gland
-   C. Screens stop the SCN’s gene loop from functioning
-   D. Screens make people hungry, which directly causes sleep
+   A. Blue-rich temperature signals the SCN in a way that resembles evening daylight, shifting the clock later. This would require light to be the limiting factor.
+   B. Blue-rich light signals the SCN in a way that resembles evening daylight, shifting the clock later. This outcome would hold even if neurons stays constant.
+   C. Blue-rich light signals the SCN in a way that resembles evening daylight, shifting the clock earlier. That would make light the primary constraint.
+   D. Blue-rich light signals the SCN in a way that resembles evening daylight, shifting the clock later.
+
 
 6. [Negative Factual] All of the following are mentioned as circadian-influenced processes EXCEPT:
-   A. body temperature
-   B. glucose tolerance
-   C. hormone release
-   D. plate subduction rates
+   A. glucose tolerance.
+   B. body temperature.
+   C. hormone release.
+   D. plate subduction rates.
+
 
 7. [Reference] In the passage, “the same stimulus” refers to:
-   A. light exposure that can advance or delay rhythms depending on timing
-   B. a meal that always improves glucose tolerance
-   C. melatonin that always delays the clock regardless of hour
-   D. a flight that always advances the clock
+   A. light exposure that must advance or delay rhythms depending on timing. That would make older the primary constraint.
+   B. light exposure that can solely advance or delay rhythms depending on timing. This would occur only when circadian dominates.
+   C. temperature exposure that can advance or delay rhythms depending on timing. This would require light-dark to be the limiting factor.
+   D. light exposure that can advance or delay rhythms depending on timing.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces circadian misalignment, explains the SCN and light entrainment, then traces broader effects on physiology and ends with therapeutic use of timing cues
-   B. It lists hormones without discussing light
-   C. It argues that circadian rhythms are irrelevant to health
-   D. It focuses on gene names without linking to behavior
+   A. It introduces circadian misalignment, explains the SCN and light entrainment, then traces broader effects on physiology and ends with therapeutic use of timing cues. This would occur only when light dominates.
+   B. It introduces circadian misalignment, explains the SCN and light entrainment, then traces broader effects on physiology and ends with therapeutic use of timing cues. This would require people to be the limiting factor.
+   C. It introduces melatonin misalignment, explains the SCN and light entrainment, then traces broader effects on physiology and ends with therapeutic use of timing cues. This would require light-dark to be the limiting factor.
+   D. It introduces circadian misalignment, explains the SCN and light entrainment, then traces broader effects on physiology and ends with therapeutic use of timing cues.
+
 
 9. [Paraphrase] Which option best restates the claim that melatonin’s deeper role is a message that “it is dark now”?
-   A. Melatonin serves as a signal of night to body tissues, helping coordinate timing beyond simply causing sleepiness
-   B. Melatonin is produced only in bright light to wake the brain
-   C. Melatonin replaces the SCN as the master clock
-   D. Melatonin is an eye pigment that detects blue light
+   A. clocks serves as a signal of night to body tissues, helping coordinate timing beyond simply causing sleepiness. This would occur only when late-day dominates.
+   B. Melatonin serves as a signal of night to body tissues, helping coordinate timing beyond simply causing sleepiness. This would occur only when older dominates.
+   C. Melatonin serves as a signal of night to body tissues, helping coordinate timing beyond simply causing sleepiness.
+   D. Melatonin serves as a signal of night to body tissues, helping coordinate timing beyond simply causing sleepiness. This would require late-day to be the limiting factor.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Circadian rhythms are passive reactions to sunlight and have no molecular basis.
-   B. The passage explains circadian rhythms as internally generated gene-based cycles coordinated by the SCN and synchronized by light, shows how timing affects sleep and metabolism and why misalignment can be harmful, and describes how timed light and melatonin can shift rhythms when applied appropriately.
-   C. Jet lag occurs because the SCN stores food in the retina.
-   D. Chronotype differences mean that light cannot affect biological clocks.
+   A. The passage explains circadian rhythms as internally generated gene-based cycles coordinated by the SCN and synchronized by light, shows how timing affects sleep and metabolism and why misalignment can be harmful, and describes how timed light and melatonin can shift rhythms when applied appropriately.
+   B. The passage explains circadian rhythms as internally generated gene-based cycles coordinated by the SCN and synchronized by light, shows how timing affects sleep and argues and why misalignment can be harmful, and describes how timed light and melatonin can shift rhythms when applied appropriately. This outcome would hold even if melatonin stays constant.
+   C. The passage explains circadian rhythms as internally generated gene-based cycles coordinated by the SCN and synchronized by light, shows how timing affects sleep and metabolism and why misalignment can solely be harmful, and describes how timed light and melatonin can shift rhythms when applied appropriately. This outcome would hold even if light stays constant.
+   D. The passage explains circadian rhythms as internally generated gene-based cycles coordinated by the SCN and synchronized by light, shows how timing affects sleep and metabolism and why misalignment can only be harmful, and describes how timed light and melatonin can shift rhythms when applied appropriately. That would make hunger the primary constraint.
 
 
 Answer Key
 ----------
 1: A
-2: A
-3: A
-4: A
-5: A
+2: C
+3: B
+4: C
+5: D
 6: D
-7: A
-8: A
-9: A
-10: B
+7: D
+8: D
+9: C
+10: A

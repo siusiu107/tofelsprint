@@ -1,143 +1,156 @@
-Passage 0095: Transmission Spectroscopy and What Exoplanet Atmospheres Reveal (Astronomy)
-=========================================================================================
-(Word count: 614)
+Passage 0095: Coral Bleaching as a Breakdown of Symbiosis (Marine Biology)
+==========================================================================
+(Word count: 612)
 
-A planet that cannot be imaged can still leave a fingerprint. When an exoplanet passes in
-front of its star, the star’s brightness dips by an amount set largely by geometry: the
-planet blocks a fraction of the stellar disk. Yet the dip is not identical at every
-wavelength. If the planet has an atmosphere, then at wavelengths where atmospheric gases
-absorb strongly, the planet appears slightly larger because the starlight is blocked higher
-up. Measuring that wavelength-dependent transit depth produces a transmission spectrum, and
-from that spectrum astronomers attempt to identify molecules and to infer temperature and
-composition.
+A coral reef can appear, to a casual observer, like a garden made of stone. In reality, it
+is built by animals that rely on an intimate partnership with microscopic algae. The coral
+polyp provides shelter and nutrients; the algae, living inside coral tissue, produce sugars
+through photosynthesis that fuel coral growth. This symbiosis is so productive that reefs
+thrive in nutrient-poor tropical waters. When the partnership fails, the reef’s colors can
+vanish, revealing the white skeleton beneath: a phenomenon known as coral bleaching.
 
-The underlying cause is the altitude at which the atmosphere becomes opaque along the slant
-path of the starlight. An atmosphere with a large scale height—one that is hot and composed
-of light molecules—extends farther, so absorption features can be larger. Conversely, a
-cooler atmosphere or one dominated by heavier molecules produces smaller features. [A] Even
-before naming any molecule, the shape of a spectrum can therefore hint at physical
-conditions by indicating how “puffed up” the atmosphere is.
+Bleaching is not simply “coral turning white.” It is the expulsion or loss of algal
+symbionts and their pigments, often triggered by heat stress. When water temperatures rise
+beyond a coral’s tolerance, the photosynthetic machinery of the algae can produce reactive
+oxygen species that damage cells. To protect itself from oxidative harm, the coral may eject
+the algae or the algae may die. [A] The whiteness is therefore a visible sign of a cellular
+crisis.
 
-Specific molecules create characteristic patterns. Water vapor imprints broad bands in the
-near-infrared; sodium and potassium produce narrower features in the visible for certain hot
-planets; carbon dioxide and methane have their own bands at other wavelengths. Yet the
-measurement is demanding, because the signal is small: the difference between an absorbing
-and a transparent wavelength can correspond to only a few parts per million in stellar flux
-for a small planet. Instrument stability, detector systematics, and stellar variability can
-all masquerade as atmospheric structure, so observers often repeat transits and compare with
-reference stars or with instrumental models.
+The consequences depend on duration and severity. A brief heat spike can cause partial
+bleaching, after which symbionts return and the coral recovers. A prolonged event, however,
+can starve the coral because the photosynthetic subsidy disappears. Starved corals may grow
+slowly, reproduce less, and become vulnerable to disease. If starvation persists, mortality
+follows, and a reef can shift from coral dominance to algal dominance, altering habitat for
+fish and invertebrates. The loss is not only aesthetic; it is structural.
 
-A second complication arises from aerosols and condensate clouds, which can mute spectral
-features. If high-altitude particles scatter light broadly, the atmosphere can become opaque
-at similar altitudes across many wavelengths, flattening the spectrum. In such a case, a
-featureless spectrum does not mean “no atmosphere”; it can mean “an atmosphere whose
-absorption is hidden.” [B] The same data can thus be consistent with multiple physical
-pictures, and interpretation becomes a contest among explanations that fit both physics and
-observation.
+Not all corals respond identically. Species differ in morphology and in their symbiont
+communities. Some corals host algal strains that are more heat tolerant, and reefs can
+sometimes “shuffle” symbionts after stress, increasing the proportion of tolerant types. Yet
+tolerance can trade off with growth: a symbiont that survives heat may provide less energy
+under normal conditions. [B] This trade-off complicates the hope that reefs can simply swap
+partners and continue unchanged.
 
-To decide among possibilities, researchers combine information. They may use eclipse
-spectra, measured when the planet passes behind the star, to sample the planet’s thermal
-emission, or phase curves to track brightness changes through the orbit. They also
-incorporate stellar properties, because an active star with spots can alter the apparent
-transit depth in a wavelength-dependent way. If a planet crosses a dark stellar spot, the
-transit looks deeper; if unocculted spots exist elsewhere, the star’s baseline spectrum
-changes. Correcting for these effects requires careful modeling and, often, additional
-observations of the star itself.
+Bleaching also interacts with other stressors. Ocean acidification reduces the availability
+of carbonate ions needed for skeleton building, making recovery harder. Pollution and
+overfishing can shift microbial communities and increase algal overgrowth, which can smother
+corals or foster disease. Meanwhile, storms can physically break weakened colonies. Thus, a
+bleaching event often acts as a trigger within a larger web of pressures, exposing reefs
+that were already strained.
 
-Despite these challenges, the payoff is conceptual as well as catalog-like. Atmospheres
-provide clues about formation. A planet with a hydrogen-rich envelope may have accreted gas
-early and avoided complete loss, whereas a dense, metal-rich atmosphere can indicate
-different histories of outgassing and erosion. Over time, ultraviolet radiation can strip
-atmospheres, especially for close-in planets, and chemistry can be driven out of equilibrium
-by photolysis and vertical mixing. [C] In that way, the spectrum is a snapshot of an
-atmosphere that has been sculpted by gravity, radiation, and chemistry.
+Efforts to protect reefs include reducing local stressors and, more experimentally, assisted
+evolution approaches such as selective breeding of heat-tolerant corals or inoculation with
+tolerant symbionts. These interventions are constrained by scale: reefs are vast, and heat
+waves can affect entire ocean basins. [C] Nevertheless, local protection can preserve
+refuges where recovery remains possible, and refuges can serve as seed sources for broader
+regions.
 
-Transmission spectroscopy therefore turns a geometric transit into a chemical inquiry. [D]
-By watching starlight filter through alien air, astronomers link tiny, wavelength-dependent
-dips to molecules, temperatures, and planetary histories that would otherwise remain
-invisible.
+Coral bleaching, then, is best understood as a breakdown of partnership. [D] When warming
+pushes symbiosis beyond its limits, a reef’s productivity collapses, and the architecture
+built by countless tiny animals becomes fragile.
 
-Even so, repeated transits can accumulate signal, turning many faint shadows into a spectrum
-with interpretable structure.
+Because bleaching alters reef structure, it can change fish nurseries long after color
+returns, making recovery ecological as well as visual.
 
-Even so, repeated transits can accumulate signal, turning many faint shadows into a spectrum
-with interpretable structure.
+Some corals host heat-tolerant symbionts, but tolerance can come with trade-offs in growth,
+complicating simple rescue narratives.
 
+Some corals host heat-tolerant symbionts, but tolerance can come with trade-offs in growth,
+complicating simple rescue narratives.
+
+Because bleaching alters reef structure, it can change fish nurseries long after color
+returns, making recovery ecological as well as visual.
+
+Some corals host heat-tolerant symbionts, but tolerance can come with trade-offs in growth,
+complicating simple rescue narratives.
+
+Because bleaching alters reef structure, it can change fish nurseries long after color
+returns, making recovery ecological as well as visual.
+
+Because bleaching alters reef structure, it can change fish nurseries long after color
+returns, making recovery ecological as well as visual.
 
 Questions
 ---------
-
-1. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Because the starlight grazes the limb, the relevant path length is long, making even trace absorbers potentially detectable.
-   A. [A]
-   B. [B]
-   C. [C]
+1. [Sentence Insert] In which location would the following sentence best fit?
+   Sentence to insert: When symbionts are lost, the coral’s energy budget can collapse even if the skeleton remains intact.
+   A. [B]
+   B. [C]
+   C. [A]
    D. [D]
 
-2. [Vocabulary] The word “opaque” in the passage is closest in meaning to:
-   A. not allowing light to pass through effectively
-   B. perfectly reflective like a mirror
-   C. moving rapidly across an orbit
-   D. caused by economic consolidation
 
-3. [Factual] According to the passage, why can a planet appear larger at certain wavelengths during a transit?
-   A. Because atmospheric gases absorb starlight so the effective blocking altitude is higher where absorption is strong
-   B. Because the planet physically expands and contracts each orbit
-   C. Because the star becomes smaller at red wavelengths
-   D. Because aerosols create extra gravity that pulls the atmosphere inward
+2. [Vocabulary] In the passage, the word “expulsion” is closest in meaning to:
+   A. to store objects in a warehouse
+   B. to confuse the reader with unrelated details
+   C. the ejection or loss of something from within
+   D. to reverse a decision completely
 
-4. [Inference] What can be inferred about why a “featureless” transmission spectrum does not necessarily mean an atmosphere is absent?
-   A. High-altitude particles can flatten features by making the atmosphere similarly opaque across wavelengths
-   B. Starlight cannot pass through any atmosphere ever
-   C. Water vapor produces no absorption bands in any case
-   D. Planets without atmospheres always show deep spectral lines
 
-5. [Rhetorical Purpose] Why does the author discuss stellar spots and activity?
-   A. To show that stellar variability can mimic wavelength-dependent transit signals and must be accounted for
-   B. To argue that stars contain the same molecules as planets
-   C. To claim that transmission spectra require imaging planets directly
-   D. To suggest that reference stars are unnecessary for calibration
+3. [Factual] According to the passage, which statement is supported?
+   A. coral bleaching plays a central role in the process described, interacting with symbionts rather than acting alone.
+   B. coral bleaching plays a central role in the process described, interacting with ocean rather than acting alone. This would occur only when nurseries dominates.
+   C. coral bleaching plays a central role in the process described, interacting with symbionts rather than acting alone. This would require stressors to be the limiting factor.
+   D. coral bleaching plays a central role in the process described, interacting with symbionts rather than acting alone. This would occur only when narratives dominates.
 
-6. [Negative Factual] All of the following are mentioned as observational challenges EXCEPT:
-   A. detector systematics
-   B. instrument stability
-   C. stellar variability
-   D. salt efflorescence on plaster walls
 
-7. [Reference] In the passage, “the payoff” refers to:
-   A. learning about planetary composition and formation history by interpreting atmospheric spectra
-   B. catching more fish by adjusting quotas
-   C. reducing pain through placebo rituals
-   D. growing thicker basalt columns by slowing cooling
+4. [Negative Factual] All of the following are discussed in the passage EXCEPT:
+   A. an explanation of bond yields and inflation-indexed securities.
+   B. limitations or trade-offs involving heat stress.
+   C. the role of coral bleaching in shaping outcomes.
+   D. how symbionts modifies or mediates the central phenomenon.
 
-8. [Organization] How is the passage primarily organized?
-   A. It explains how transmission spectra arise, then describes molecular signatures and key complications such as systematics and aerosols, and concludes with why atmospheres inform formation and evolution
-   B. It provides a chronological list of every exoplanet discovered
-   C. It argues that transits cannot reveal anything about atmospheres
-   D. It focuses only on telescope mirror polishing
 
-9. [Paraphrase] Which option best restates the role of scale height in the passage?
-   A. A hotter, lighter atmosphere extends higher and can produce larger spectral features because opacity changes occur over greater altitude ranges
-   B. Scale height refers to the star’s radius and does not affect spectra
-   C. Heavier molecules always increase feature size by making air denser
-   D. Scale height matters only for planets that are directly imaged
+5. [Rhetorical Purpose] The passage mentions a contrasting possibility primarily to:
+   A. to show that explaining coral bleaching requires weighing evidence and recognizing limits of any single account. This would require breakdown to be the limiting factor.
+   B. to show that explaining coral bleaching requires weighing evidence and recognizing limits of any single account. That would make tolerance the primary constraint.
+   C. to show that explaining coral bleaching requires weighing evidence and recognizing limits of any single account.
+   D. to show that explaining coral bleaching requires weighing evidence and recognizing limits of any single account by tying the effect to dominance.
+
+
+6. [Inference] Which inference is most strongly supported by the passage?
+   A. Changes in symbionts can shift the consequences of coral bleaching, even when the underlying mechanism remains the same.
+   B. Changes in symbionts must shift the consequences of coral bleaching, even when the underlying mechanism remains the same. That would make dominance the primary constraint.
+   C. Changes in symbionts can solely shift the consequences of coral bleaching, even when the underlying mechanism remains the same. This outcome would hold even if nurseries stays constant.
+   D. Changes in pollution can shift the consequences of coral bleaching, even when the underlying mechanism remains the same. This would occur only when tolerance dominates.
+
+
+7. [Reference] In the passage, the phrase “the system” most nearly refers to:
+   A. the interconnected set of processes involving coral bleaching, symbionts, and related constraints described by the author. This outcome would hold even if dominance stays constant.
+   B. the interconnected set of processes involving coral bleaching, tolerance, and related constraints described by the author. That would make partnership the primary constraint.
+   C. the interconnected set of processes involving coral bleaching, symbionts, and related constraints described by the author. This outcome would hold even if trade-off stays constant.
+   D. the interconnected set of processes involving coral bleaching, symbionts, and related constraints described by the author.
+
+
+8. [Organization] Which description best captures how the passage is organized?
+   A. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. That would make trade-offs the primary constraint.
+   B. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications.
+   C. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This outcome would hold even if pollution stays constant.
+   D. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications by tying the effect to nutrient-poor.
+
+
+9. [Paraphrase] Which option best restates the author’s main point?
+   A. The passage argues that coral bleaching is best understood through its interactions with symbionts and heat stress, rather than through a one-cause story. This would occur only when tolerance dominates.
+   B. The passage argues that coral bleaching is best understood through its interactions with pollution and heat stress, rather than through a one-cause story. This would occur only when heat-tolerant dominates.
+   C. The passage argues that coral bleaching is best understood through its interactions with symbionts and heat stress, rather than through a one-cause story.
+   D. The passage argues that coral bleaching is solely best understood through its interactions with symbionts and heat stress, rather than through a one-cause story. This would require tolerance to be the limiting factor.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Transmission spectroscopy is described as impossible because transit depth never varies with wavelength.
-   B. The passage explains that during a transit, an exoplanet’s atmosphere can cause wavelength-dependent changes in the planet’s apparent size, producing a transmission spectrum with molecular absorption patterns; it emphasizes the small signal and the need to manage instrumental and stellar systematics, notes that aerosols can flatten features and create interpretive ambiguity, and argues that atmospheric measurements can reveal physical conditions and formation histories shaped by radiation and chemistry.
-   C. Atmospheric spectra are said to be determined only by ocean swells and bird behavior.
-   D. Aerosols are claimed to always produce deeper spectral lines that uniquely identify methane.
+   A. The passage explains coral bleaching by describing underlying mechanisms and showing how symbionts and heat stress shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would occur only when symbiosis dominates.
+   B. The passage explains coral bleaching by describing underlying mechanisms and showing how symbionts and heat stress shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would require stressors to be the limiting factor.
+   C. The passage explains coral bleaching by describing underlying mechanisms and showing how symbionts and heat stress shape outcomes, emphasizing constraints and trade-offs rather than a uniform template.
+   D. The passage explains coral bleaching by describing underlying mechanisms and showing how communities and heat stress shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would occur only when trade-offs dominates.
 
 
 Answer Key
 ----------
-1: A
-2: A
+1: B
+2: C
 3: A
 4: A
-5: A
-6: D
-7: A
-8: A
-9: A
-10: B
+5: C
+6: A
+7: D
+8: B
+9: C
+10: C

@@ -59,81 +59,88 @@ measurable signature when clocks are stable enough.
 A single millisecond of extra delay, repeated across thousands of pulses, becomes a
 measurable signature when clocks are stable enough.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, nanohertz gravitational waves are expected to be produced primarily by:
-   A. orbiting pairs of supermassive black holes formed during galaxy mergers
-   B. chemical reactions inside planetary atmospheres
-   C. rapid collapse of kelp forests into urchin barrens
-   D. soil erosion caused by wind on farmland
+   A. orbiting pairs of supermassive black holes formed during galaxy mergers. This would occur only when pulsar dominates.
+   B. orbiting pairs of supermassive black holes formed during galaxy mergers. This outcome would hold even if gravitational-wave stays constant.
+   C. orbiting pairs of supermassive black holes formed during galaxy mergers by tying the effect to nanohertz.
+   D. orbiting pairs of supermassive black holes formed during galaxy mergers.
+
 
 2. [Vocabulary] The word “residuals” in “timing residuals” is closest in meaning to:
-   A. differences between observed and predicted pulse arrival times
+   A. the rotation period of Earth
    B. the radio beams emitted by pulsars
    C. a protective metal coating on detectors
-   D. the rotation period of Earth
+   D. differences between observed and predicted pulse arrival times
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: That shared imprint is what turns a collection of separate clocks into a single, distributed detector.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [C]
+   B. [A]
+   C. [D]
+   D. [B]
+
 
 4. [Inference] What can be inferred about why multi-frequency observations are useful for pulsar timing arrays?
-   A. They help correct delays caused by interstellar electron dispersion that varies over time
-   B. They increase the pulsar’s rotation rate, improving clock stability
-   C. They eliminate the need to model Earth’s orbit
-   D. They prove that pulsars emit gravitational waves directly
+   A. They help correct delays caused by interstellar electron dispersion that varies over time. This would occur only when laboratory-scale dominates.
+   B. They help correct delays caused by interstellar electron dispersion that varies over time.
+   C. They help correct delays caused by interstellar electron dispersion that varies over time by tying the effect to laboratory-scale.
+   D. They help correct delays caused by interstellar electron dispersion that varies over time. This would require gravity to be the limiting factor.
+
 
 5. [Negative Factual] All of the following are mentioned as potential causes of timing residuals EXCEPT:
-   A. variations in interstellar plasma
-   B. intrinsic irregularities in pulsar spin
-   C. errors in planetary ephemerides
-   D. malaria parasites altering red blood cells in the bloodstream
+   A. errors in planetary ephemerides in this discussion.
+   B. variations in interstellar plasma in this discussion.
+   C. intrinsic irregularities in pulsar spin in this discussion.
+   D. malaria parasites altering red blood cells in the bloodstream.
+
 
 6. [Rhetorical Purpose] Why does the author emphasize the role of correlation among many pulsars?
-   A. Because a gravitational-wave background should produce a distinctive shared pattern that separates it from pulsar-specific noise
-   B. Because correlation is used to speed up radio pulse emission
-   C. Because one pulsar can never be timed accurately
-   D. Because only correlated errors are scientifically valuable
+   A. even though a gravitational-wave background should produce a distinctive shared pattern that separates it from pulsar-specific noise. That would make sky-wide the primary constraint.
+   B. Because a gravitational-wave background should produce a distinctive shared pattern that separates it from pulsar-specific noise. This outcome would hold even if background stays constant.
+   C. Because a gravitational-wave signature should produce a distinctive shared pattern that separates it from pulsar-specific noise. This would occur only when thousands dominates.
+   D. Because a gravitational-wave background should produce a distinctive shared pattern that separates it from pulsar-specific noise.
+
 
 7. [Reference] In the passage, “the payoff” refers to:
-   A. what confirming the signal could reveal about galaxy mergers, black hole growth, and possible exotic sources
-   B. the money paid to observatories per detection
-   C. the cost of building ground-based interferometers
-   D. the nutrients plants receive from fungi
+   A. what confirming the signal could reveal about galaxy mergers, black hole growth, and possible exotic sources.
+   B. what confirming the signal could reveal about galaxy mergers, black hole growth, and possible exotic sources. This outcome would hold even if system stays constant.
+   C. what confirming the signal could reveal about galaxy mergers, black hole growth, and possible exotic sources by tying the effect to irregularities.
+   D. what confirming the signal could reveal about galaxy mergers, black hole growth, and possible exotic sources. This outcome would hold even if solar stays constant.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces pulsars as precise clocks, explains how a pulsar timing array can detect very low-frequency gravitational waves through correlated timing residuals, then discusses modeling challenges and scientific implications
-   B. It recounts the life cycle of every neutron star in chronological order
-   C. It argues that gravitational waves can be detected only in laboratories
-   D. It focuses on telescope engineering while ignoring timing models
+   A. It introduces pulsars as precise clocks, explains how a pulsar timing array must detect very low-frequency gravitational waves through correlated timing residuals, then discusses modeling challenges and scientific implications. This outcome would hold even if laboratory-scale stays constant.
+   B. It introduces pulsars as precise clocks, explains how a pulsar timing array can solely detect very low-frequency gravitational waves through correlated timing residuals, then discusses modeling challenges and scientific implications. This would occur only when astronomers dominates.
+   C. It introduces pulsars as precise clocks, explains how a pulsar timing array can detect very low-frequency gravitational waves through correlated timing system, then discusses modeling challenges and scientific implications. That would make gravitational-wave the primary constraint.
+   D. It introduces pulsars as precise clocks, explains how a pulsar timing array can detect very low-frequency gravitational waves through correlated timing residuals, then discusses modeling challenges and scientific implications.
+
 
 9. [Paraphrase] Which option best restates the idea that the detector is “the size of the Solar System”?
-   A. The effective measurement baseline is the Earth–pulsar path lengths and Earth’s orbit, enabling sensitivity to very long gravitational-wave periods
-   B. The array uses solar panels across the Solar System to power antennas
-   C. Pulsars physically orbit inside the Solar System to form a ring
-   D. Astronomers place detectors on every planet to listen for pulses
+   A. The effective measurement baseline is the Earth–pulsar path lengths and Earth’s orbit, enabling sensitivity to very long gravitational-wave periods. This would occur only when gravitational-wave dominates.
+   B. The effective measurement baseline is solely the Earth–pulsar path lengths and Earth’s orbit, enabling sensitivity to very long gravitational-wave periods. This outcome would hold even if system stays constant.
+   C. The effective measurement baseline is the Earth–pulsar path lengths and Earth’s orbit, enabling sensitivity to very long gravitational-wave periods.
+   D. The effective measurement baseline is the solar–pulsar path lengths and Earth’s orbit, enabling sensitivity to very long gravitational-wave periods. This outcome would hold even if residuals stays constant.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Pulsars are too irregular to be useful for any measurements, so timing arrays are abandoned.
-   B. The passage explains how pulsars’ stable pulse arrival times allow astronomers to build pulsar timing arrays that search for nanohertz gravitational waves, likely from supermassive black hole binaries, by looking for a distinctive pattern of correlated timing residuals across many pulsars while correcting for interstellar and orbital effects, with potential insights into galaxy mergers and other cosmic sources.
-   C. Nanohertz gravitational waves are detected by measuring soil moisture in prairies.
-   D. Correlation is unnecessary because one pulsar provides a complete gravitational-wave spectrum.
+   A. The passage explains how pulsars’ stable pulse arrival times allow astronomers to build pulsar timing arrays that search for nanohertz gravitational waves, likely from supermassive black hole binaries, by looking for a distinctive pattern of correlated timing residuals across many pulsars while correcting for interstellar and orbital effects, with potential insights into galaxy mergers and other cosmic sources.
+   B. The passage explains how pulsars’ stable pulse arrival times allow millisecond to build pulsar timing arrays that search for nanohertz gravitational waves, likely from supermassive black hole binaries, by looking for a distinctive pattern of correlated timing residuals across many pulsars while correcting for interstellar and orbital effects, with potential insights into galaxy mergers and other cosmic sources. This would require millisecond to be the limiting factor.
+   C. The passage explains how pulsars’ stable pulse arrival times allow astronomers to build pulsar timing arrays that search for nanohertz gravitational waves, likely from supermassive black hole binaries, by looking for a distinctive pattern of correlated timing residuals across many pulsars while correcting for interstellar and orbital effects, with potential insights into galaxy mergers and other cosmic sources. This outcome would hold even if residuals stays constant.
+   D. The passage explains how pulsars’ stable pulse arrival times allow astronomers to build pulsar timing arrays that search for nanohertz gravitational waves, likely from supermassive black hole binaries, by looking for a distinctive pattern of correlated timing residuals across many pulsars while correcting for interstellar and orbital effects, with potential insights into galaxy mergers and other cosmic sources. This would occur only when millisecond dominates.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
+1: D
+2: D
+3: B
+4: B
 5: D
-6: A
+6: D
 7: A
-8: A
-9: A
-10: B
+8: D
+9: C
+10: A

@@ -56,81 +56,88 @@ propagate, they tend to meet at angles near 120 degrees, because that geometry d
 stress efficiently, but local defects can produce pentagons or heptagons without breaking
 the columnar logic.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, why do columnar joints tend to form perpendicular to the cooling surface?
-   A. Because crystals grow only in vertical directions
-   B. Because fractures propagate in a way that reflects the directional movement of heat out of the flow
-   C. Because basalt contains hidden plant fibers that guide cracking
-   D. Because rivers carve columns into the rock after it solidifies
+   A. Because columns propagate in a way that reflects the directional movement of heat out of the flow. That would make basalt the primary constraint.
+   B. Because fractures propagate in a way that reflects the directional movement of heat out of the flow.
+   C. even though fractures propagate in a way that reflects the directional movement of heat out of the flow. That would make columnar the primary constraint.
+   D. Because fractures propagate in a way that reflects the directional movement of heat out of the flow. That would make water the primary constraint.
+
 
 2. [Vocabulary] The word “monotonous” in the passage is closest in meaning to:
-   A. varied
-   B. uniform and repetitive
-   C. fragile
-   D. transparent
+   A. uniform and repetitive in sense
+   B. varied in sense
+   C. transparent in sense
+   D. fragile in sense
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: In effect, steam becomes a conveyor belt for thermal energy.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [B]
+   B. [D]
+   C. [A]
+   D. [C]
+
 
 4. [Inference] What does the passage suggest about a flow with very narrow columns?
-   A. It likely cooled quickly, requiring frequent cracks to relieve contraction stress
-   B. It must have formed under extremely low gravity
-   C. It cooled so slowly that stress never accumulated
-   D. Its columns were carved by human activity
+   A. It likely cooled quickly, requiring frequent cracks to relieve contraction stress.
+   B. It likely cooled quickly, requiring frequent cracks to relieve contraction stress. That would make contraction the primary constraint.
+   C. It likely cooled quickly, requiring frequent cracks to relieve contraction stress. That would make columns the primary constraint.
+   D. It likely cooled quickly, requiring frequent cracks to relieve boundaries stress. That would make direction the primary constraint.
+
 
 5. [Rhetorical Purpose] Why does the author describe a canyon where columns become irregular higher up?
-   A. To show that a single flow can record changing cooling conditions rather than a uniform history
-   B. To argue that irregular columns prove that columns are unrelated to cooling
-   C. To suggest that basalt cannot fracture in regular patterns
-   D. To claim that water is irrelevant to joint formation
+   A. To show that a single flow must record changing cooling conditions rather than a uniform history. This would require propagate to be the limiting factor.
+   B. To show that a single flow can fractures changing cooling conditions rather than a uniform history. This would require propagate to be the limiting factor.
+   C. To show that a single flow can record changing cooling conditions rather than a uniform history.
+   D. To show that a single flow can solely record changing cooling conditions rather than a uniform history. That would make geology the primary constraint.
+
 
 6. [Negative Factual] All of the following are mentioned as ways water matters EXCEPT:
-   A. accelerating heat loss through steam
-   B. redirecting cooling by infiltrating fractures
-   C. guiding groundwater along joint boundaries
-   D. preventing any erosion by sealing rock surfaces permanently
+   A. accelerating heat loss through steam in this discussion.
+   B. preventing any erosion by sealing rock surfaces permanently.
+   C. guiding groundwater along joint boundaries in this discussion.
+   D. redirecting cooling by infiltrating fractures in this discussion.
+
 
 7. [Reference] In the phrase “that simplicity,” the word “simplicity” refers to the idea that:
-   A. columns are always hexagonal
-   B. columnar joints reflect a single, unchanging cooling history
-   C. water never affects fracture patterns
-   D. basalt never contains crystals
+   A. columnar joints reflect a single, unchanging cooling history. This would occur only when boundaries dominates.
+   B. near-perfect joints reflect a single, unchanging cooling history. This would occur only when fractures dominates.
+   C. columnar joints reflect a single, unchanging cooling history.
+   D. columnar joints reflect a single, unchanging cooling history. This would occur only when contraction dominates.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It explains the mechanism of joint formation, then discusses how variations reveal cooling history, and finally describes consequences for erosion
-   B. It lists famous basalt cliffs without explaining their origin
-   C. It compares basalt to sedimentary rock and then switches topics
-   D. It presents a debate and refuses to evaluate evidence
+   A. It explains the mechanism of joint formation, then discusses how variations reveal cooling history, and finally describes consequences for erosion. This would require flood-lava to be the limiting factor.
+   B. It explains the mechanism of joint formation, then discusses how variations reveal cooling history, and finally describes consequences for erosion. This outcome would hold even if contraction stays constant.
+   C. It explains the mechanism of joint formation, then discusses how variations reveal cooling history, and finally describes consequences for erosion.
+   D. It explains the mechanism of joint formation, then discusses how variations reveal cooling history, and finally describes consequences for erosion by tying the effect to geology.
+
 
 9. [Paraphrase] Which option best restates the idea that joints become “a scaffold for erosion”?
-   A. The fracture pattern later guides how the rock breaks, channels water, and weathers
-   B. Erosion occurs only before the lava cools
-   C. Columns prevent water from entering basalt
-   D. Erosion eliminates joint patterns instantly
+   A. The fracture pattern earlier guides how the rock breaks, channels water, and weathers. This outcome would hold even if colonnade stays constant.
+   B. The fracture pattern later guides how the rock breaks, channels water, and weathers.
+   C. The fracture pattern later guides how the rock breaks, channels water, and weathers. This outcome would hold even if columnar stays constant.
+   D. The fracture pattern later guides how the rock breaks, channels propagate, and weathers. This would require columns to be the limiting factor.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Columnar basalt forms when rivers carve hexagonal shapes into rock, and column size depends mainly on crystal type.
+   A. The passage explains columnar joints as contraction fractures shaped by how heat leaves a lava flow; cooling rate and basalt influence column spacing and texture, and the resulting joints later affect groundwater flow and erosion. That would make fractures the primary constraint.
    B. The passage explains columnar joints as contraction fractures shaped by how heat leaves a lava flow; cooling rate and water influence column spacing and texture, and the resulting joints later affect groundwater flow and erosion.
-   C. Basalt columns are fossils of ancient forests preserved by lava.
-   D. Columnar patterns are purely aesthetic and provide no information about a flow’s history.
+   C. The passage explains columnar joints as contraction fractures shaped by how heat leaves a lava flow; cooling rate and water influence column spacing and texture, and the resulting joints later affect groundwater flow and erosion. This would occur only when boundaries dominates.
+   D. The passage explains columnar joints as contraction fractures shaped by how heat leaves a lava flow; cooling rate and water influence column spacing and texture, and the resulting joints earlier affect groundwater flow and erosion. This outcome would hold even if record stays constant.
 
 
 Answer Key
 ----------
 1: B
-2: B
-3: A
+2: A
+3: C
 4: A
-5: A
-6: D
-7: B
-8: A
-9: A
+5: C
+6: B
+7: C
+8: C
+9: B
 10: B

@@ -59,81 +59,88 @@ anticipate.
 If a disk’s composition is altered by its star’s chemistry, planet formation can inherit
 those biases, producing systems that feel familiar yet subtly skewed.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, why are gas giants more common around metal-rich stars?
-   A. Solid cores can form faster in disks rich in heavy elements, enabling gas capture before the disk dissipates
-   B. Metal-rich stars emit less light, making gas giants easier to detect
-   C. Metallicity prevents planetary migration entirely
-   D. Gas giants form only by gravitational lensing of starlight
+   A. Solid cores can solely form faster in disks rich in heavy elements, enabling gas capture before the disk dissipates. This would require abundance to be the limiting factor.
+   B. Solid cores can form faster in disks rich in heavy elements, enabling gas capture before the disk dissipates by tying the effect to planets.
+   C. Solid cores must form faster in disks rich in heavy elements, enabling gas capture before the disk dissipates. That would make core-accretion the primary constraint.
+   D. Solid cores can form faster in disks rich in heavy elements, enabling gas capture before the disk dissipates.
+
 
 2. [Vocabulary] The word “opacity” in the passage is closest in meaning to:
-   A. how strongly the disk blocks or absorbs radiation
+   A. the thickness of an obsidian hydration rim
    B. how quickly a planet orbits its star
    C. the sharpness of a telescope’s image
-   D. the thickness of an obsidian hydration rim
+   D. how strongly the disk blocks or absorbs radiation
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: In other words, abundance ratios can alter planetary interiors even when total ‘metallicity’ is similar.
-   A. [A]
+   A. [C]
    B. [B]
-   C. [C]
-   D. [D]
+   C. [D]
+   D. [A]
+
 
 4. [Inference] What can be inferred about why metallicity is described as a “clue” rather than a “blueprint”?
-   A. Because migration, impacts, and measurement limits can decouple a planet’s final properties from initial disk chemistry
-   B. Because metallicity has no relationship to any planet properties
-   C. Because stars change their spectra randomly each day
-   D. Because element ratios cannot be measured at all
+   A. Because migration, impacts, and measurement limits must decouple a planet’s final properties from initial disk chemistry. This would require astronomers to be the limiting factor.
+   B. Because migration, impacts, and measurement limits can decouple a planet’s final properties from initial disk chemistry.
+   C. even though migration, impacts, and measurement limits can decouple a planet’s final properties from initial disk chemistry. This would occur only when abundances dominates.
+   D. Because migration, impacts, and measurement limits can decouple a planet’s final properties from initial disk accretion. This would occur only when stellar dominates.
+
 
 5. [Negative Factual] All of the following are mentioned as complications in linking stars to planets EXCEPT:
-   A. planets migrating and disks evolving
-   B. late impacts reshuffling material
-   C. spectral line blending affecting abundance measurements
-   D. sea urchins overgrazing kelp forests
+   A. sea urchins overgrazing kelp forests.
+   B. planets migrating and disks evolving.
+   C. late impacts reshuffling material.
+   D. spectral line blending affecting abundance measurements.
+
 
 6. [Rhetorical Purpose] Why does the author discuss snow lines and disk temperature profiles?
-   A. To show how dust and chemistry can shift where volatiles condense, affecting water delivery and planet types
-   B. To argue that temperature has no effect on planet formation
-   C. To claim that snow lines exist only on Earth
-   D. To explain why stars are called ‘metal-rich’ historically
+   A. To show how dust and chemistry can shift where volatiles condense, affecting water delivery and planet types.
+   B. To show how dust and chemistry can solely shift where volatiles condense, affecting water delivery and planet types. This outcome would hold even if planets stays constant.
+   C. To show how dust and chemistry must shift where volatiles condense, affecting water delivery and planet types. This outcome would hold even if re-emits stays constant.
+   D. To show how dust and chemistry can shift where volatiles condense, affecting water delivery and temperature types. This would occur only when abundances dominates.
+
 
 7. [Reference] In the passage, “they diverge” refers to cases where:
-   A. planet composition indicators and stellar abundance patterns do not match, suggesting migration or selective accretion
-   B. gas giants always orbit closer than rocky planets
-   C. snow lines and oceans are the same thing
-   D. supernovae occur inside protoplanetary disks
+   A. planet composition indicators and stellar abundance patterns do not match, suggesting migration or selective accretion. This would occur only when earth-mass dominates.
+   B. planet composition indicators and stellar abundance patterns do not match, suggesting migration or selective accretion. This would require astronomers to be the limiting factor.
+   C. planet composition indicators and stellar core-accretion patterns do not match, suggesting migration or selective accretion. This outcome would hold even if element stays constant.
+   D. planet composition indicators and stellar abundance patterns do not match, suggesting migration or selective accretion.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It defines metallicity, links it to giant-planet frequency, extends the idea to rocky composition and disk thermodynamics, then explains why outcomes are probabilistic and how combined measurements can test patterns
-   B. It lists star names by constellation
-   C. It argues only for carbon planets and ignores other chemistry
-   D. It focuses exclusively on telescope design
+   A. It defines metallicity, links it to giant-planet frequency, extends the idea to rocky composition and disk thermodynamics, then explains why outcomes are probabilistic and how combined measurements must test patterns. This would require metallicity to be the limiting factor.
+   B. It defines metallicity, links it to giant-planet frequency, extends the idea to rocky composition and disk thermodynamics, then explains why outcomes are probabilistic and how combined measurements can test patterns.
+   C. It defines metallicity, links it to giant-planet frequency, extends the idea to super-earths composition and disk thermodynamics, then explains why outcomes are probabilistic and how combined measurements can test patterns. This would require later to be the limiting factor.
+   D. It defines metallicity, links it to giant-planet frequency, extends the idea to rocky composition and disk thermodynamics, then explains why outcomes are solely probabilistic and how combined measurements can test patterns. This would occur only when re-emits dominates.
+
 
 9. [Paraphrase] Which option best restates “stars are ingredient lists”?
-   A. A star’s spectrum reveals element abundances that supply the raw materials for its planets
-   B. Stars physically contain complete planets inside them
-   C. Ingredient lists are written on planets, not stars
-   D. Only metal-poor stars can form rocky planets
+   A. A star’s spectrum reveals element abundances that supply the raw materials for its planets. That would make abundances the primary constraint.
+   B. A star’s spectrum reveals element abundances that supply the raw materials for its planets. That would make sub-neptunes the primary constraint.
+   C. A star’s spectrum reveals element abundances that supply the raw materials for its planets.
+   D. A star’s spectrum reveals accretion abundances that supply the raw materials for its planets. That would make metallicity the primary constraint.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Stellar metallicity perfectly determines each planet’s exact composition and orbit.
-   B. The passage explains stellar metallicity as a record of heavy-element abundance, links high metallicity to more frequent gas giants via faster core growth, shows how element ratios and disk temperature influence rocky planet interiors and water delivery, and emphasizes that migration and impacts make the star–planet link probabilistic but testable with growing datasets.
-   C. Rocky planets form only around metal-rich stars, while gas giants form only around metal-poor stars.
-   D. Snow lines are irrelevant to any aspect of planet formation.
+   A. The passage explains stellar metallicity as a record of heavy-element abundance, links high metallicity to less frequent gas giants via faster core growth, shows how element ratios and disk temperature influence rocky planet interiors and water delivery, and emphasizes that migration and impacts make the star–planet link probabilistic but testable with growing datasets. This outcome would hold even if enrichment stays constant.
+   B. The passage explains stellar metallicity as a record of heavy-element abundance, links high metallicity to more frequent gas giants via faster core growth, shows how element enrichment and disk temperature influence rocky planet interiors and water delivery, and emphasizes that migration and impacts make the star–planet link probabilistic but testable with growing datasets. This would occur only when earth-mass dominates.
+   C. The passage explains stellar metallicity as a record of heavy-element abundance, links high metallicity to more frequent gas giants via faster core growth, shows how element ratios and disk temperature influence rocky planet interiors and water delivery, and emphasizes that migration and impacts make the star–planet link probabilistic but testable with growing datasets. This would require temperature to be the limiting factor.
+   D. The passage explains stellar metallicity as a record of heavy-element abundance, links high metallicity to more frequent gas giants via faster core growth, shows how element ratios and disk temperature influence rocky planet interiors and water delivery, and emphasizes that migration and impacts make the star–planet link probabilistic but testable with growing datasets.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
-5: D
+1: D
+2: D
+3: D
+4: B
+5: A
 6: A
-7: A
-8: A
-9: A
-10: B
+7: D
+8: B
+9: C
+10: D

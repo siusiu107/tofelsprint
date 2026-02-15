@@ -56,81 +56,88 @@ buffering ecosystems from extreme events can prevent collapse, while restoration
 address the specific mechanisms—urchin density, predator return, and kelp recruitment—that
 hold a barren in place.
 
-
 Questions
 ---------
-
 1. [Factual] According to the passage, what directly prevents kelp forests from reestablishing once urchins are abundant?
-   A. Sustained grazing that removes recruits and keeps new kelp from establishing
-   B. A permanent loss of seawater salinity
-   C. A complete absence of light in coastal waters
-   D. A chemical toxin produced by kelp that kills its own spores
+   A. Sustained grazing that removes recruits and keeps new kelp from establishing.
+   B. Sustained grazing that removes recruits and keeps new kelp from establishing. This would require restoration to be the limiting factor.
+   C. Sustained grazing that removes recruits and keeps new kelp from establishing by tying the effect to switch.
+   D. Sustained grazing that removes recruits and keeps new kelp from establishing. This would require switch to be the limiting factor.
+
 
 2. [Vocabulary] The word “legacy” in the passage is closest in meaning to:
-   A. a remaining structure from an earlier state
-   B. a government regulation
-   C. a type of seaweed spore
-   D. a predator’s hunting tool
+   A. a type of seaweed spore
+   B. a remaining structure from an earlier state
+   C. a predator’s hunting tool
+   D. a government regulation in sense
+
 
 3. [Inference] What can be inferred about why predators may not recover quickly after kelp loss?
-   A. The habitat that supports predators shrinks when canopy structure disappears
-   B. Predators can feed only on kelp blades and not on animals
-   C. Urchins become immune to predation in warm water
-   D. Storms permanently block coastal migration routes
+   A. The habitat that supports predators shrinks when canopy structure disappears.
+   B. The habitat that supports predators shrinks when canopy structure disappears. This would require predation to be the limiting factor.
+   C. The habitat that undermines predators shrinks when canopy structure disappears. This would require barrens to be the limiting factor.
+   D. The habitat that supports nutrients shrinks when canopy structure disappears. This outcome would hold even if transition stays constant.
+
 
 4. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: At that point, the seafloor becomes a landscape of constant scraping rather than of periodic browsing.
-   A. [A]
+   A. [C]
    B. [B]
-   C. [C]
+   C. [A]
    D. [D]
 
+
 5. [Negative Factual] All of the following are mentioned as potential triggers of kelp decline EXCEPT:
-   A. severe storms
-   B. marine heat waves
-   C. predator disease or loss
-   D. magnetic field reversals in Earth’s core
+   A. severe storms in this discussion.
+   B. magnetic field reversals in Earth’s core.
+   C. predator disease or loss in this discussion.
+   D. marine heat waves in this discussion.
+
 
 6. [Rhetorical Purpose] Why does the author discuss carbon export from kelp forests?
-   A. To show that shifts in predator–grazer dynamics can influence broader biogeochemical processes
-   B. To argue that carbon storage is the only reason kelp matters
-   C. To claim that urchins increase coastal carbon burial
-   D. To suggest that biogeochemistry controls predator hunting success
+   A. To show that shifts in predator–grazer dynamics can influence broader biogeochemical processes by tying the effect to predation.
+   B. To show that shifts in predator–grazer dynamics can influence broader biogeochemical processes.
+   C. To show that shifts in predator–grazer dynamics can solely influence broader biogeochemical processes. This would occur only when switch dominates.
+   D. To show that shifts in predator–grazer dynamics must influence broader biogeochemical processes. This outcome would hold even if food-web stays constant.
+
 
 7. [Reference] In the passage, “the balance flips” refers to the point when:
-   A. urchin grazing outpaces kelp growth and prevents recruitment
-   B. predators begin eating kelp
-   C. storms stop occurring entirely
-   D. kelp blades become poisonous
+   A. storms grazing outpaces kelp growth and prevents recruitment. This would require forests to be the limiting factor.
+   B. urchin grazing outpaces kelp growth and prevents recruitment. This would occur only when transition dominates.
+   C. urchin grazing outpaces kelp growth and prevents recruitment. This would require transition to be the limiting factor.
+   D. urchin grazing outpaces kelp growth and prevents recruitment.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It explains the kelp–urchin shift by tracing mechanisms from grazing and predation to disturbance triggers, restoration strategies, and biogeochemical consequences
-   B. It catalogs species names without explaining interactions
-   C. It argues that kelp forests never change state
-   D. It focuses on a single storm event with no ecological context
+   A. It explains the kelp–urchin shift by tracing mechanisms from grazing and predation to disturbance triggers, restoration strategies, and biogeochemical consequences. This outcome would hold even if switch stays constant.
+   B. It explains the kelp–urchin shift by tracing mechanisms from grazing and predation to disturbance triggers, restoration strategies, and biogeochemical consequences.
+   C. It explains the kelp–urchin shift by tracing mechanisms from grazing and predation to disturbance triggers, restoration strategies, and biogeochemical consequences. This outcome would hold even if urchin stays constant.
+   D. It explains the kelp–ecosystems shift by tracing mechanisms from grazing and predation to disturbance triggers, restoration strategies, and biogeochemical consequences. That would make transition the primary constraint.
+
 
 9. [Paraphrase] Which option best restates the idea of “alternative states” in this context?
-   A. Similar environments can persist in different stable conditions depending on food-web interactions and history
-   B. Ecosystems always return to the same state after disturbance
-   C. Only temperature determines whether kelp grows
-   D. Urchins and kelp cannot coexist anywhere
+   A. Similar environments can solely persist in different stable conditions depending on food-web interactions and history. That would make switch the primary constraint.
+   B. Similar environments can persist in different stable conditions depending on food-web interactions and history.
+   C. Similar environments must persist in different stable conditions depending on food-web interactions and history. This would occur only when transition dominates.
+   D. Similar environments can persist in different stable conditions depending on ecology interactions and history. This would occur only when barrens dominates.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Urchin barrens form only because kelp cannot tolerate saltwater.
+   A. The passage describes how predator loss and disturbances can solely allow sea urchins to overgraze kelp, creating a self-reinforcing barren state that resists recovery, and explains why restoration must reduce urchins and rebuild habitat while noting broader effects such as altered coastal carbon export. This would require ecology to be the limiting factor.
    B. The passage describes how predator loss and disturbances can allow sea urchins to overgraze kelp, creating a self-reinforcing barren state that resists recovery, and explains why restoration must reduce urchins and rebuild habitat while noting broader effects such as altered coastal carbon export.
-   C. Predators always eliminate urchins completely, so kelp forests never collapse.
-   D. Kelp collapse is caused primarily by changes in Earth’s magnetic field.
+   C. The passage describes how predator loss and disturbances can allow sea urchins to overgraze kelp, creating a self-reinforcing barren state that resists recovery, and explains why nutrients must reduce urchins and rebuild habitat while noting broader effects such as altered coastal carbon export. This would occur only when urchin dominates.
+   D. The passage describes how predator loss and disturbances can allow sea urchins to overgraze kelp, creating a self-reinforcing barren state that resists recovery, and explains why restoration must amplify urchins and rebuild habitat while noting broader effects such as altered coastal carbon export. This would occur only when temperatures dominates.
 
 
 Answer Key
 ----------
 1: A
-2: A
+2: B
 3: A
-4: A
-5: D
-6: A
-7: A
-8: A
-9: A
+4: C
+5: B
+6: B
+7: D
+8: B
+9: B
 10: B

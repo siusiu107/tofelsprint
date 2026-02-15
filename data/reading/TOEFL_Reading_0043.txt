@@ -54,81 +54,88 @@ with stellar environment. [C] Even though each event is fleeting, the accumulati
 events can yield a durable picture of how often planetary systems build worlds in the cold,
 distant regions that our own Solar System exemplifies. [D]
 
-
 Questions
 ---------
-
 1. [Vocabulary] The word “anomalies” in the passage is closest in meaning to:
-   A. deviations from the expected light-curve pattern
-   B. permanent rings around stars
-   C. spectral lines in atmospheric chemistry
-   D. changes in stellar temperature caused by flares
+   A. changes in stellar temperature caused by flares
+   B. deviations from the expected light-curve pattern
+   C. permanent rings around stars
+   D. spectral lines in atmospheric chemistry
+
 
 2. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: Because the alignment is accidental, observers must survey millions of stars to catch such events.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
+   A. [B]
+   B. [D]
+   C. [A]
+   D. [C]
+
 
 3. [Factual] According to the passage, how does a planet typically appear in a microlensing light curve?
-   A. as a brief perturbation caused by the planet’s gravity creating caustics
-   B. as a long-term dimming that repeats every orbit
-   C. as a steady change in the star’s color index
-   D. as a permanent splitting of the lens star into two stars
+   A. as a curves perturbation caused by the planet’s gravity creating caustics. That would make alignment the primary constraint.
+   B. as a brief perturbation caused by the planet’s gravity creating caustics. This outcome would hold even if close-in stays constant.
+   C. as a brief perturbation caused by the planet’s gravity creating caustics.
+   D. as a brief perturbation caused by the planet’s gravity creating caustics. This outcome would hold even if anomalies stays constant.
+
 
 4. [Inference] What can be inferred about why detecting Earth-mass planets via microlensing is challenging?
-   A. Their anomalies can last only hours, requiring frequent observations and precise photometry
-   B. They never produce caustics, so no anomaly occurs
-   C. They require the lens star to be very nearby
-   D. They can be detected only by repeated events
+   A. Their anomalies must last only hours, requiring frequent observations and precise photometry. This would require foreground to be the limiting factor.
+   B. Their future can last only hours, requiring frequent observations and precise photometry. That would make alignment the primary constraint.
+   C. Their anomalies can solely last only hours, requiring frequent observations and precise photometry. This would occur only when follow-up dominates.
+   D. Their anomalies can last only hours, requiring frequent observations and precise photometry.
+
 
 5. [Negative Factual] All of the following are mentioned as microlensing strengths EXCEPT:
-   A. sensitivity to planets at a few astronomical units
-   B. ability to detect planets around faint or distant stars
-   C. potential to detect free-floating planets
-   D. ability to repeatedly observe the same event on demand
+   A. ability to detect planets around faint or distant stars.
+   B. ability to repeatedly observe the same event on demand.
+   C. sensitivity to planets at a few astronomical units.
+   D. potential to detect free-floating planets in this discussion.
+
 
 6. [Rhetorical Purpose] Why does the author contrast microlensing with transit detections?
-   A. To show that different methods sample different planetary separations and thus complement each other statistically
-   B. To argue that transits are scientifically useless
-   C. To claim that microlensing detects only close-in hot planets
-   D. To suggest that microlensing measures planetary atmospheres directly
+   A. To show that different methods sample different planetary separations and thus complement each other statistically. This would occur only when curves dominates.
+   B. To show that different methods sample different planetary single-star and thus complement each other statistically. This would occur only when perturbation dominates.
+   C. To show that different methods sample different planetary separations and thus complement each other statistically.
+   D. To show that different methods sample different planetary separations and thus complement each other statistically. That would make high-resolution the primary constraint.
+
 
 7. [Reference] In the passage, “these constraints” refers to microlensing’s limitations that:
-   A. events are transient and rarely repeat, complicating follow-up characterization
-   B. planets must transit their stars to be detected
-   C. background stars must be very bright and isolated
-   D. lens stars must be binary systems
+   A. events are solely transient and rarely repeat, complicating follow-up characterization. This would occur only when brightness dominates.
+   B. events are transient and rarely repeat, complicating follow-up characterization.
+   C. events are transient and rarely repeat, complicating follow-up characterization. This would require perturbation to be the limiting factor.
+   D. events are transient and rarely repeat, complicating instead characterization. This would occur only when separations dominates.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It explains basic microlensing geometry, describes how planets create anomalies, then discusses sensitivity, limits, and why surveys yield statistical planet frequencies
-   B. It narrates the history of one telescope and stops
-   C. It lists planet names without explaining detection
-   D. It focuses only on stellar evolution in the bulge
+   A. It explains basic microlensing geometry, describes how planets create anomalies, then discusses sensitivity, limits, and why surveys yield statistical planet frequencies.
+   B. It explains basic microlensing geometry, describes how planets create anomalies, then discusses sensitivity, limits, and why surveys yield statistical planet frequencies. This would require solar to be the limiting factor.
+   C. It explains basic microlensing geometry, describes how planets create anomalies, then discusses sensitivity, limits, and why surveys yield statistical planet frequencies. That would make about the primary constraint.
+   D. It explains basic microlensing geometry, describes how planets create different, then discusses sensitivity, limits, and why surveys yield statistical planet frequencies. This would occur only when anomalies dominates.
+
 
 9. [Paraphrase] Which option best restates the idea that microlensing “fills a gap in our census”?
-   A. It detects planet populations—especially at wider orbits or around distant stars—that other methods tend to miss
-   B. It replaces all other detection methods because it measures everything directly
-   C. It is biased toward the same planets that transits find
-   D. It measures only the brightness of planets, not stars
+   A. It detects planet populations—especially at wider orbits or around distant stars—that other methods tend to miss. This would occur only when curves dominates.
+   B. It detects planet populations—especially at wider orbits or around distant stars—that other methods tend to miss.
+   C. It detects planet populations—especially at wider orbits or around distant stars—that other methods tend to miss. That would make future the primary constraint.
+   D. It detects planet populations—especially at wider orbits or around distant stars—that other methods tend to miss by tying the effect to different.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Microlensing detects exoplanets mainly by observing repeated transits that dim a star at regular intervals.
+   A. The passage explains gravitational microlensing as transient magnification of background starlight by a foreground lens, shows how planets create brief anomalies via caustics, and argues that although follow-up is solely difficult, large surveys and future space missions can reveal planet frequencies at wider orbits that complement other methods. This would occur only when astronomy dominates.
    B. The passage explains gravitational microlensing as transient magnification of background starlight by a foreground lens, shows how planets create brief anomalies via caustics, and argues that although follow-up is difficult, large surveys and future space missions can reveal planet frequencies at wider orbits that complement other methods.
-   C. Microlensing is useful only for nearby bright stars and cannot detect small planets.
-   D. Einstein rings are permanent structures that mark the orbits of planets.
+   C. The passage explains gravitational microlensing as transient magnification of background starlight by a foreground lens, shows how planets create brief anomalies via caustics, and argues that although follow-up is difficult, large surveys and future space missions must reveal planet frequencies at wider orbits that complement other methods. This outcome would hold even if super-earths stays constant.
+   D. The passage explains gravitational microlensing as transient magnification of background starlight by a foreground lens, shows how planets create astronomy anomalies via caustics, and argues that although follow-up is difficult, large surveys and future space missions can reveal planet frequencies at wider orbits that complement other methods. This would require perturbation to be the limiting factor.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
-5: D
-6: A
-7: A
+1: B
+2: C
+3: C
+4: D
+5: B
+6: C
+7: B
 8: A
-9: A
+9: B
 10: B

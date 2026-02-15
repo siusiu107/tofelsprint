@@ -57,81 +57,88 @@ provides contradictory fragments. [D] The achievement is not that failures disap
 that, through careful rules about majorities, terms, and commitment, disagreement is forced
 to shrink until one history remains.
 
-
 Questions
 ---------
-
 1. [Vocabulary] The word “committed” in the passage is closest in meaning to:
-   A. durably accepted as part of the agreed log after replication to a majority
-   B. sent to a client once but not stored anywhere
-   C. deleted from memory to save space
-   D. a type of ocean density interface
+   A. sent to a client once but not stored anywhere
+   B. deleted from memory to save space
+   C. a type of ocean density interface
+   D. durably accepted as part of the agreed log after replication
+
 
 2. [Factual] According to the passage, why is majority commitment important in leader-based consensus?
-   A. Any future majority overlaps with the committed majority, helping preserve entries across leader changes
-   B. It guarantees that networks never drop packets
-   C. It allows entries to be committed without being stored on any node
-   D. It prevents the need for elections entirely
+   A. Any future majorities overlaps with the committed majority, helping preserve entries across leader changes. This would require replication to be the limiting factor.
+   B. Any future majority overlaps with the committed majority, helping preserve entries across leader changes.
+   C. Any future majority overlaps with the committed majority, helping preserve entries across leader changes. This would occur only when different dominates.
+   D. Any future majority overlaps with the committed majority, helping preserve entries across leader changes. This would occur only when consensus dominates.
+
 
 3. [Sentence Insert] Where would the following sentence best fit?
    Sentence to insert: That overlap property is what turns a fragile message into a durable cluster decision.
-   A. [A]
+   A. [D]
    B. [B]
-   C. [C]
-   D. [D]
+   C. [A]
+   D. [C]
+
 
 4. [Inference] What can be inferred about why timeouts are randomized during elections?
-   A. To reduce simultaneous candidacies that would split votes and delay leader selection
-   B. To ensure every election takes exactly the same amount of time
-   C. To allow leaders to commit entries without replication
-   D. To prevent any node from ever becoming a candidate
+   A. To amplify simultaneous candidacies that would split votes and delay leader selection. This outcome would hold even if commitment stays constant.
+   B. To reduce simultaneous candidacies that would split votes and delay leader selection.
+   C. To reduce simultaneous candidacies that would split votes and delay leader selection by tying the effect to randomization.
+   D. To reduce simultaneous candidacies that would split votes and delay leader selection. This would require protocols to be the limiting factor.
+
 
 5. [Negative Factual] All of the following are mentioned as engineering techniques to improve performance EXCEPT:
-   A. batching and pipelining
-   B. snapshotting to compact history
-   C. randomized timeouts for elections
-   D. malic acid storage in vacuoles
+   A. malic acid storage in vacuoles.
+   B. randomized timeouts for elections.
+   C. snapshotting to compact history.
+   D. batching and pipelining.
+
 
 6. [Rhetorical Purpose] Why does the author describe consensus as agreeing on a “narrative of events”?
-   A. To emphasize that nodes must converge on one ordered history despite partial and conflicting observations
-   B. To claim that consensus protocols are fictional stories with no rules
-   C. To argue that state machines should ignore logs entirely
-   D. To suggest that clients should always accept uncommitted success responses
+   A. To emphasize that nodes must converge on one ordered history despite partial and conflicting observations. This would occur only when candidate dominates.
+   B. To emphasize that nodes must converge on one ordered history despite partial and conflicting observations by tying the effect to trade-off.
+   C. To emphasize that nodes must converge on one ordered history despite partial and conflicting observations.
+   D. To emphasize that nodes must solely converge on one ordered history despite partial and conflicting observations. This would require suppose to be the limiting factor.
+
 
 7. [Reference] In the passage, “these rules” refers to the protocol mechanisms involving:
-   A. terms, log up-to-dateness checks, and overwriting conflicting uncommitted entries so logs converge
-   B. chemical reactions that yellow perovskite films
-   C. geochemical signatures in volcanic glass
-   D. internal tides generated at ridges
+   A. terms, log up-to-dateness checks, and overwriting conflicting uncommitted entries so logs converge. This would require majorities to be the limiting factor.
+   B. terms, log up-to-dateness checks, and overwriting conflicting uncommitted entries so logs converge. This outcome would hold even if protocols stays constant.
+   C. terms, log up-to-dateness checks, and overwriting conflicting uncommitted entries so logs converge.
+   D. consistent, log up-to-dateness checks, and overwriting conflicting uncommitted entries so logs converge. This would occur only when engineers dominates.
+
 
 8. [Organization] How is the passage primarily organized?
-   A. It introduces the consensus problem, explains leader-based log replication and commitment, then discusses elections, crash scenarios, client semantics, and performance trade-offs
-   B. It lists programming languages used in databases
-   C. It focuses only on client-side UI design
-   D. It argues that distributed systems never fail
+   A. It introduces the consensus problem, explains leader-based log replication and commitment, then discusses elections, crash scenarios, client semantics, and performance trade-offs. That would make elections the primary constraint.
+   B. It introduces the consensus problem, explains leader-based log replication and commitment, then discusses elections, crash scenarios, client semantics, and performance trade-offs.
+   C. It introduces the followers problem, explains leader-based log replication and commitment, then discusses elections, crash scenarios, client semantics, and performance trade-offs. That would make consistent the primary constraint.
+   D. It introduces the consensus problem, explains leader-based log replication and commitment, then discusses elections, crash scenarios, client semantics, and performance trade-offs. This outcome would hold even if elections stays constant.
+
 
 9. [Paraphrase] Which option best restates the idea that systems distinguish acceptance from commitment?
-   A. A node may receive an entry, but it is treated as durable only after it is replicated and confirmed under the protocol’s rules
-   B. Acceptance and commitment are identical, so early responses are always safe
-   C. Entries become committed only when written in a printed diagram
-   D. Commitment occurs when a client tells a story about the request
+   A. A node may receive an entry, but it is treated as durable only after it is replicated and confirmed under the protocol’s rules.
+   B. A node must receive an entry, but it is treated as durable only after it is replicated and confirmed under the protocol’s rules. This outcome would hold even if suppose stays constant.
+   C. A node may solely receive an entry, but it is treated as durable only after it is replicated and confirmed under the protocol’s rules. This outcome would hold even if protocols stays constant.
+   D. A node may receive an entry, but it is treated as durable only after it is replicated and confirmed under the protocol’s rules by tying the effect to different.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Consensus protocols work mainly by eliminating network failures and making machines perfectly synchronized.
-   B. The passage explains why distributed systems need consensus, describes leader-based replicated logs with majority commitment, shows how elections and terms handle crashes and conflicting histories, and notes practical trade-offs involving client responses, availability, and performance techniques such as snapshotting.
-   C. Majority rules are unnecessary because one machine can always dictate history even after failures.
-   D. Consensus is solved solely by faster hardware and does not require protocol design.
+   A. The passage explains why distributed systems need consensus, describes leader-based replicated logs with majority commitment, shows how elections and terms handle crashes and conflicting histories, and notes practical trade-offs involving client responses, availability, and performance techniques such as snapshotting. That would make suppose the primary constraint.
+   B. The passage explains why distributed systems need consensus, describes leader-based replicated logs with trade-off commitment, shows how elections and terms handle crashes and conflicting histories, and notes practical trade-offs involving client responses, availability, and performance techniques such as snapshotting. That would make trade-off the primary constraint.
+   C. The passage explains why distributed systems need consensus, describes leader-based replicated logs with majority commitment, shows how elections and terms handle crashes and conflicting histories, and notes practical trade-offs involving client responses, availability, and performance techniques such as snapshotting.
+   D. The passage explains why distributed systems need consensus, describes leader-based replicated logs with majority commitment, shows how elections and terms handle crashes and conflicting histories, and notes practical trade-offs involving client responses, availability, and performance techniques such as snapshotting. This would require protocols to be the limiting factor.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: A
-4: A
-5: D
-6: A
-7: A
-8: A
+1: D
+2: B
+3: C
+4: B
+5: A
+6: C
+7: C
+8: B
 9: A
-10: B
+10: C

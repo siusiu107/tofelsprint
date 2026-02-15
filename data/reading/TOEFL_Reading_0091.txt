@@ -1,139 +1,149 @@
-Passage 0091: Columnar Basalt and the Geometry of Cooling Fractures (Geology)
+Passage 0091: Basalt Weathering and the Long-Term Carbon Cycle (Geochemistry)
 =============================================================================
-(Word count: 642)
+(Word count: 610)
 
-Walk along a cliff made of basalt, and you may find the rock broken into a honeycomb of
-tall, polygonal columns, as if a mason had stacked stone prisms with mathematical patience.
-Giant’s Causeway in Northern Ireland and Devil’s Postpile in California are famous examples,
-yet similar columns appear wherever basaltic lava cools under the right circumstances. The
-pattern is not carved by chisels; it is written by contraction, because molten rock shrinks
-as it loses heat and, when it cannot shrink smoothly, it fractures.
+If atmospheric carbon dioxide is the currency of climate, then silicate weathering is one of
+the planet’s slowest banks. When rainwater absorbs CO₂, it becomes weakly acidic, and when
+that water reacts with silicate minerals, it consumes CO₂ and produces dissolved ions that
+rivers transport to the sea. Over long spans, some of those ions become carbonates, locking
+carbon into rock. This pathway does not act like a thermostat that reacts instantly; rather,
+it is a patient feedback that has helped stabilize climate over millions of years.
 
-Basalt begins as a fluid melt, often erupted in thick flows or pooled in lava lakes. At the
-top and bottom of a flow, cooling is rapid because the lava is in contact with air or with
-wet ground, and chilled margins can form quickly. In the interior, cooling is slower, and
-the temperature gradient persists for months or even years. As the interior drops through
-the solidification range, crystals grow, and the newly solid rock begins to contract. [A] If
-the contraction were perfectly uniform, the rock would simply become slightly smaller;
-however, because the solid interior is constrained by surrounding material, tensile stresses
-accumulate.
+Basalt, a volcanic rock rich in calcium and magnesium silicates, weathers faster than many
+granites. Its minerals tend to be reactive, and fresh basalt often has abundant fractures
+that admit water. [A] For this reason, geochemists have examined basaltic terrains—from
+Iceland to the Deccan Traps—as natural laboratories for carbon consumption. The chemistry is
+often summarized with equations, yet the outcome is visible in streams whose dissolved loads
+rise after storms and in soils whose clays record altered minerals.
 
-Once tensile stress exceeds the tensile strength of the rock, cracks nucleate. These cracks
-tend to form a network that, at first, is irregular, but it evolves toward a more even
-spacing because closely spaced cracks relieve stress efficiently and reduce the need for
-additional cracks. The result is a pattern that statistically favors hexagons, not because
-nature “prefers” six, but because hexagons tile a plane with minimal perimeter for a given
-area, distributing stress in a nearly even way. Pentagons and heptagons occur as well, and
-the columns are rarely perfect; the underlying logic is energetic economy rather than
-geometric idealism. [B] What looks like a design is, in fact, a compromise between competing
-stress fields.
+Weathering, however, is not governed by chemistry alone. Temperature, rainfall, and the
+amount of exposed surface area matter, but so do biology and erosion. Plant roots exude
+organic acids, microbes alter redox conditions, and growing forests can increase CO₂ in
+soils through respiration, which intensifies the acidity of percolating water. At the same
+time, if erosion is too slow, reactive minerals become coated with secondary clays that
+block further reaction; if erosion is too fast, fresh rock is exposed, yet soils may be too
+thin to sustain the biological accelerators. [B] Thus, the most carbon-consuming landscapes
+are not always the wettest or the hottest; they are often those in which chemical reaction
+and physical renewal are well matched.
 
-The cracks do not stop at the surface. As cooling continues, the fracture network propagates
-downward, producing columns whose long axes are roughly perpendicular to the cooling
-surface. That orientation is why columns can point upward in one outcrop but sideways in
-another: they align with the direction of greatest heat loss. In a lava lake that cools from
-the top, columns can grow downward; in a thin dike that cools from its walls, columns can
-grow inward from both sides, meeting in a central seam. The term “columnar jointing”
-emphasizes that these are joints—fractures without major displacement—rather than faults.
+This coupling becomes especially interesting when tectonics enters the story. Mountain
+building can increase erosion and expose fresh minerals, potentially raising weathering
+rates and drawing down CO₂. Yet uplift also changes rainfall patterns, and the result can
+vary by region. In some basins, intense monsoon rains enhance runoff and transport; in
+others, rain shadows limit water, slowing reaction despite newly exposed rock. Geological
+processes supply the raw material, but climate and ecology decide how quickly the material
+is spent.
 
-Cooling rate influences column size. Where cooling is slow, stress accumulates over a larger
-distance before cracking becomes energetically favorable, producing thicker columns; where
-cooling is fast, cracks form more closely spaced, producing thinner columns. Geologists
-therefore read columns as fossilized cooling histories, even though the relationship is not
-a simple ruler: the same column width can reflect different combinations of flow thickness,
-water content, and thermal conductivity. [C] Still, the general trend remains visible in
-basalt that cooled beneath water, where rapid quenching often yields dense sets of narrow
-columns.
+Because weathering is slow, scientists debate what it can do in the near term. Proposals for
+“enhanced weathering” imagine crushing basalt and spreading it on fields or coastlines to
+speed reaction and remove CO₂. The concept borrows from natural processes, but scaling is
+difficult. Crushing requires energy, transport emits CO₂, and the chemical benefits depend
+on how rapidly particles dissolve and how the resulting alkalinity is managed in waterways.
+[C] Even if the chemistry is favorable, social and logistical constraints can determine
+whether the practice is meaningful rather than symbolic.
 
-Columns also preserve clues about post-cooling processes. Some show curved “entablature”
-zones where cooling conditions changed, perhaps because water flooded the flow or because
-the flow surface broke and altered heat loss. Others display joint surfaces with striations
-that record incremental crack advance, a stop-and-start process rather than a single snap.
-Even the flat, step-like surfaces between segments of a column—called colonnades—can
-indicate episodic cooling and fracture propagation. The rock, in other words, carries a
-record not only of eruption but also of the thermal conversation between lava and its
-environment.
+Basalt weathering therefore illustrates a larger point about Earth’s carbon cycle: some of
+the most consequential controls operate quietly, through reactions that are individually
+small but cumulatively immense. [D] Understanding them requires following carbon from air to
+rain, from soil to stream, and from ocean chemistry into stone.
 
-Columnar basalt therefore offers a lesson in cause and consequence. [D] Heat loss drives
-contraction; contraction drives fracture; fracture organizes itself into quasi-regular
-polygons; and, long after the lava has cooled, the resulting architecture turns an ancient
-thermal event into a landscape that looks improbably engineered.
+Because weathering is slow, the relevant question is not whether it works in a year but
+whether it can matter across millennia.
 
+In river deltas, some dissolved ions are buried as carbonates, which quietly turns a
+chemical reaction into a geological archive.
+
+Because weathering is slow, the relevant question is not whether it works in a year but
+whether it can matter across millennia.
+
+Because weathering is slow, the relevant question is not whether it works in a year but
+whether it can matter across millennia.
+
+In river deltas, some dissolved ions are buried as carbonates, which quietly turns a
+chemical reaction into a geological archive.
 
 Questions
 ---------
+1. [Sentence Insert] In which location would the following sentence best fit?
+   Sentence to insert: In many catchments, the fastest reactions occur where fresh mineral surfaces and acidic soil waters meet.
+   A. [D]
+   B. [A]
+   C. [B]
+   D. [C]
 
-1. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Because cracks relieve stress most effectively when they are spaced relatively evenly, the network tends to “self-correct” as it grows.
-   A. [A]
-   B. [B]
-   C. [C]
-   D. [D]
 
-2. [Vocabulary] The word “nucleate” in the passage is closest in meaning to:
-   A. to begin forming at a small site
-   B. to dissolve into liquid again
-   C. to move sideways in large blocks
-   D. to become chemically inert
+2. [Vocabulary] In the passage, the word “feedback” is closest in meaning to:
+   A. to reverse a decision completely
+   B. to confuse the reader with unrelated details
+   C. a process in which a change influences the system
+   D. to store objects in a warehouse
 
-3. [Factual] According to the passage, what directly causes the fractures that create columnar jointing?
-   A. tensile stresses created as solidifying basalt contracts during cooling
-   B. erosion by wind carving polygons into soft rock
-   C. chemical reactions between basalt and plant roots
-   D. violent fault movement that displaces columns meters apart
 
-4. [Inference] What can be inferred about why hexagons are common but not exclusive in columnar basalt?
-   A. Hexagons distribute stress efficiently in a tiling pattern, but local conditions and evolving crack growth also produce other polygons
-   B. Hexagons are the only shape that can form in any cooling lava
-   C. Pentagons occur only when basalt is reheated to melt
-   D. Heptagons are carved later by human tools
+3. [Factual] According to the passage, which statement is supported?
+   A. basalt weathering plays a central role in the process described, interacting with carbonate formation rather than acting alone.
+   B. basalt weathering plays a central role in the process described, interacting with carbonate formation rather than acting alone. This would occur only when deccan dominates.
+   C. basalt weathering plays a central role in the process described, interacting with carbonate formation rather than acting alone. This outcome would hold even if transport stays constant.
+   D. processes weathering plays a central role in the process described, interacting with carbonate formation rather than acting alone. This outcome would hold even if basalt stays constant.
 
-5. [Rhetorical Purpose] Why does the author mention outcrops where columns point sideways rather than upward?
-   A. To show that column orientation follows the direction of heat loss rather than a fixed “upward” rule
-   B. To argue that basalt always cools from the bottom first
-   C. To suggest that erosion rotates columns after they form
-   D. To claim that sideways columns indicate a different rock type
 
-6. [Negative Factual] All of the following factors are mentioned as affecting column size or interpretation EXCEPT:
-   A. cooling rate
-   B. flow thickness
-   C. water content
-   D. the size of pollen baskets on insect legs
+4. [Negative Factual] All of the following are discussed in the passage EXCEPT:
+   A. how carbonate formation modifies or mediates the central phenomenon.
+   B. limitations or trade-offs involving river alkalinity in this discussion.
+   C. the role of basalt weathering in shaping outcomes.
+   D. a description of how piano tuning affects musical transposition.
 
-7. [Reference] In the passage, “a compromise between competing stress fields” refers to:
-   A. the imperfect polygon network that emerges as fractures organize to relieve tensile stress efficiently
-   B. a negotiated policy between fishing firms
-   C. a choice between equal temperament and historical tuning
-   D. a shift from slavery to freedom in law
 
-8. [Organization] How is the passage primarily organized?
-   A. It introduces the visual phenomenon, explains thermal contraction and crack formation, then discusses polygon patterns, orientation, and what variations reveal about cooling history
-   B. It lists famous basalt cliffs without explaining formation
-   C. It argues that polygons are carved entirely by erosion
-   D. It describes only chemical weathering and omits cooling
+5. [Rhetorical Purpose] What is the author’s main reason for discussing an alternative account?
+   A. to show that explaining geochemistry weathering requires weighing evidence and recognizing limits of any single account. This outcome would hold even if transport stays constant.
+   B. to show that explaining basalt weathering requires weighing evidence and recognizing limits of any single account.
+   C. to show that explaining basalt weathering requires weighing evidence and recognizing limits of any single account. This outcome would hold even if plant stays constant.
+   D. to show that explaining basalt weathering requires weighing evidence and recognizing limits of any single account. This would require proposals to be the limiting factor.
 
-9. [Paraphrase] Which option best restates the author’s main causal chain?
-   A. As basalt cools it contracts, the resulting tensile stress triggers fractures, and those fractures evolve into organized polygonal columns that record cooling conditions
-   B. Basalt expands as it cools, causing smooth shrinking without cracks
-   C. Columns form when rivers cut basalt into equal slices
-   D. Columns are built by microorganisms that tile rock surfaces
+
+6. [Inference] Which inference is most strongly supported by the passage?
+   A. Changes in carbonate formation can shift the consequences of temperature weathering, even when the underlying mechanism remains the same. This would require processes to be the limiting factor.
+   B. Changes in carbonate formation must shift the consequences of basalt weathering, even when the underlying mechanism remains the same. This would require proposals to be the limiting factor.
+   C. Changes in carbonate formation can shift the consequences of basalt weathering, even when the underlying mechanism remains the same.
+   D. Changes in carbonate formation can solely shift the consequences of basalt weathering, even when the underlying mechanism remains the same. This would occur only when basalt dominates.
+
+
+7. [Reference] In the passage, the phrase “the system” most nearly refers to:
+   A. the interconnected set of processes involving basalt weathering, carbonate formation, and related constraints described by the author.
+   B. the interconnected set of processes involving proposals weathering, carbonate formation, and related constraints described by the author. This would occur only when basalt dominates.
+   C. the interconnected set of processes involving basalt weathering, carbonate formation, and related constraints described by the author. This would occur only when temperature dominates.
+   D. the interconnected set of processes involving basalt weathering, carbonate formation, and related constraints described by the author. That would make transport the primary constraint.
+
+
+8. [Organization] Which description best captures how the passage is organized?
+   A. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications.
+   B. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. That would make cycle the primary constraint.
+   C. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This would occur only when iceland dominates.
+   D. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications by tying the effect to carbon.
+
+
+9. [Paraphrase] Which option best restates the author’s main point?
+   A. The passage argues that basalt weathering is best understood through its interactions with carbonate formation and river alkalinity, rather than through a one-cause story. That would make geochemistry the primary constraint.
+   B. The passage argues that basalt weathering is solely best understood through its interactions with carbonate formation and river alkalinity, rather than through a one-cause story. This outcome would hold even if temperature stays constant.
+   C. The passage argues that basalt weathering is best understood through its interactions with carbonate formation and river alkalinity, rather than through a one-cause story.
+   D. The passage argues that temperature weathering is best understood through its interactions with carbonate formation and river alkalinity, rather than through a one-cause story. That would make chemistry the primary constraint.
+
 
 10. [Summary] Which statement best summarizes the passage?
-   A. Columnar basalt is produced when erosion carves perfect hexagons into already solid rock.
-   B. The passage explains columnar basalt as a fracture architecture created when cooling lava contracts, accumulates tensile stress, and forms crack networks that evolve toward roughly even spacing and polygonal tiling; it notes that column orientation reflects heat-loss direction and that column size and internal zones preserve information about cooling rates and changing environmental conditions.
-   C. Polygonal columns form only in granite because basalt cannot fracture.
-   D. Hexagons are common because basalt crystals grow only in six-sided shapes.
+   A. The passage explains basalt weathering by describing underlying mechanisms and showing how carbonate formation and river alkalinity shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would occur only when mountain dominates.
+   B. The passage explains millennia weathering by describing underlying mechanisms and showing how carbonate formation and river alkalinity shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would occur only when basalt dominates.
+   C. The passage explains basalt weathering by describing underlying mechanisms and showing how carbonate formation and river alkalinity shape outcomes, emphasizing constraints and trade-offs rather than a uniform template.
+   D. The passage explains basalt weathering by describing underlying mechanisms and showing how carbonate formation and river alkalinity shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would occur only when geochemistry dominates.
 
 
 Answer Key
 ----------
-1: B
-2: A
+1: D
+2: C
 3: A
-4: A
-5: A
-6: D
+4: D
+5: B
+6: C
 7: A
 8: A
-9: A
-10: B
+9: C
+10: C
