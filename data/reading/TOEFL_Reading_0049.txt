@@ -60,86 +60,87 @@ in which a few interactions can reorganize many others.
 
 Questions
 ---------
-1. [Vocabulary] The word “outsized” in the passage is closest in meaning to:
-   A. biologically irrelevant in sense
-   B. carefully measured in sense
-   C. temporarily delayed in sense
-   D. disproportionately large in sense
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: The term does not imply that every ecosystem behaves like a simple domino line, but it highlights that certain interactions have outsized influence because they sit at key points in food webs.
+   A. strong and reliable, as used to describe how the claim holds across predator
+   B. finished and beyond revision, which would rule out further evaluation of predator
+   C. sensitive and easily disrupted, despite references to interactions and predators
+   D. durable in a purely physical sense, even though the passage treats it as evidence-related
 
-2. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: The predator’s influence, then, can be expressed through the architecture of the ecosystem, not only through prey bodies.
-   A. [C]
-   B. [A]
-   C. [D]
-   D. [B]
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains chain by linking interactions to predators, and it shows why predator changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage presents predators as a uniquely identifying mechanism and claims that once interactions is observed, competing explanations for chain collapse. It treats predator as minor noise and suggests that a single measurement is sufficient for a final conclusion, especially regarding chain.
+   C. The passage concedes that interactions is often incomplete and concludes that chain cannot be studied in any meaningful way, since predator overwhelms comparisons. It recommends replacing tests of predators with intuition because evidence cannot discriminate among accounts.
+   D. The passage surveys chain but treats the discussion mainly as a narrative about who proposed predators first, with interactions serving as anecdotal color. It therefore treats predator as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that predator mattered mostly for early studies, whereas modern work makes interactions effectively self-interpreting. This would mean that tests of predators no longer need cross-case comparisons to explain chain, for the phenomenon at issue, under the stated assumptions.
+   B. A persuasive account can safely average away differences in predator, because variation there functions mainly as random measurement noise. On this view, a single strong instance of interactions is enough to validate predators for chain.
+   C. A persuasive account would predict how chain should change if predator is altered, instead of assuming that interactions has a single meaning. This implies that models tied to predators must be tested across comparable cases rather than in one favorable setting.
+   D. The passage treats interactions primarily as a rhetorical flourish and suggests that debates over predators are largely stylistic, not empirical. As a result, predictions about chain are portrayed as optional rather than as a core requirement.
 
-3. [Factual] According to the passage, what happens in kelp systems when sea otters are removed?
-   A. Sea urchins increase and can overgraze kelp, creating barren areas by tying the effect to ecosystem.
-   B. Sea urchins increase and can overgraze kelp, creating barren areas.
-   C. Sea urchins increase and can solely overgraze kelp, creating barren areas. That would make sometimes the primary constraint.
-   D. Sea urchins decrease and can overgraze kelp, creating barren areas. This would require influence to be the limiting factor.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of archival bias as a factor influencing interactions
+   B. discussion of predators as a factor influencing interactions
+   C. discussion of chain as a factor influencing interactions, especially regarding species.
+   D. discussion of predator as a factor influencing interactions
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: The term does not imply that every ecosystem behaves like a simple domino line, but it highlights that certain interactions have outsized influence because they sit at key points in food webs.
+   A. The term does not imply that every ecosystem behaves like a simple domino line. It reverses the opposite claim while removing extra detail.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding species, especially regarding cascades.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. The term does not imply that every ecosystem behaves like a simple domino line. It keeps the main claim while removing extra detail.
 
-4. [Inference] What can be inferred about why ecologists call some cascades “contingent”?
-   A. Their strength depends on local context such as habitat structure, human interference, and prey adaptation. This outcome would hold even if ecosystems stays constant.
-   B. Their strength depends on local context such as habitat structure, human interference, and prey adaptation. This would require human to be the limiting factor.
-   C. Their strength depends on local context such as habitat vegetation, human interference, and prey adaptation. This would require mid-level to be the limiting factor.
-   D. Their strength depends on local context such as habitat structure, human interference, and prey adaptation.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents predators from being treated as self-evident and forces tests that hold predator constant while examining interactions.
+   B. Because once interactions fits one dataset, replication becomes redundant, and predator can be ignored without changing conclusions about chain.
+   C. Because the presence of predators guarantees the correct mechanism, so remaining differences in predator are merely stylistic noise.
+   D. Because interactions directly measures causes, confounding cannot occur, and cross-case checks add little to understanding chain.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | interactions | Can vary across settings |
+   | Confounder | predator | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It proves predators is unique in every case, so generalization is automatic
+   D. It can vary across settings, even when the mechanism is unchanged
 
-5. [Negative Factual] All of the following are mentioned as reasons cascades can be hard to interpret EXCEPT:
-   A. human infrastructure altering interactions.
-   B. multiple drivers like climate and hunting.
-   C. Einstein ring geometry in gravitational lensing.
-   D. difficulty measuring behavioral fear effects.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that chain should be read alongside predator, because interactions alone does not settle what predators means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This chain reaction is known as a trophic cascade.
+   A. the preceding claim about how interactions is interpreted in relation to predators
+   B. the preceding claim that predator alone explains the outcome of chain
+   C. the preceding claim that interactions is included only for rhetorical style, not analysis
+   D. the preceding claim that chain functions as a direct measurement of predators
 
-6. [Rhetorical Purpose] Why does the author discuss mesopredator release?
-   A. To show that removing apex predators must indirectly harm species via increases in mid-level predators. That would make complexity the primary constraint.
-   B. To show that removing apex sometimes can indirectly harm species via increases in mid-level predators. This outcome would hold even if sometimes stays constant.
-   C. To show that removing apex predators can solely indirectly harm species via increases in mid-level predators. This outcome would hold even if mid-level stays constant.
-   D. To show that removing apex predators can indirectly harm species via increases in mid-level predators.
-
-
-7. [Reference] In the passage, “these qualifications” refers to:
-   A. the complexities and context-dependence that make cascades variable and patchy.
-   B. the complexities and context-dependence that make cascades variable and patchy. This would require vegetation to be the limiting factor.
-   C. the complexities and context-dependence that make structure variable and patchy. This outcome would hold even if influence stays constant.
-   D. the complexities and context-dependence that make cascades variable and patchy. This would occur only when restoration dominates.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It defines trophic cascades, presents marine and terrestrial examples, adds network complications like mesopredator release, then explains why context matters and why cascades matter for management.
-   B. It defines trophic complexity, presents marine and terrestrial examples, adds network complications like mesopredator release, then explains why context matters and why cascades matter for management. That would make cascades the primary constraint.
-   C. It defines trophic cascades, presents marine and terrestrial examples, adds network complications like mesopredator release, then explains why context matters and why cascades matter for management. This would occur only when vegetation dominates.
-   D. It defines trophic cascades, presents marine and terrestrial examples, adds network complications like mesopredator release, then explains why context matters and why cascades matter for management. This would require critics to be the limiting factor.
-
-
-9. [Paraphrase] Which option best restates the claim that predators can matter through behavior as well as mortality?
-   A. Even if predators do not kill many prey, the risk of predation can change prey foraging locations and thus plant growth.
-   B. Even if predators do not kill many prey, the risk of predation can solely change prey foraging locations and thus plant growth. This outcome would hold even if human stays constant.
-   C. Even if predators do not kill many prey, the risk of predation must change prey foraging locations and thus plant growth. This would require three-step to be the limiting factor.
-   D. Even if ecology do not kill many prey, the risk of predation can change prey foraging locations and thus plant growth. This outcome would hold even if understood stays constant.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains trophic cascades as indirect effects in food webs, illustrates them with kelp–urchin–otter and wolf–elk vegetation dynamics, shows how network features like mesopredator release and context make cascades variable, and argues that managing ecosystems may require protecting key interactions, not only species counts.
-   B. The passage explains trophic cascades as indirect effects in food webs, illustrates them with kelp–urchin–otter and wolf–elk vegetation dynamics, shows how network features like mesopredator release and context make cascades variable, and argues that managing ecosystems must require protecting key interactions, not only species counts. This would require cascades to be the limiting factor.
-   C. The passage explains trophic cascades as indirect effects in food webs, illustrates them with kelp–urchin–otter and wolf–elk vegetation dynamics, shows how network features like mesopredator release and context make cascades variable, and argues that managing predators may require protecting key interactions, not only species counts. This outcome would hold even if predators stays constant.
-   D. The passage explains trophic cascades as indirect effects in food webs, illustrates them with kelp–urchin–otter and wolf–elk vegetation dynamics, shows how network features like mesopredator release and context make cascades variable, and argues that managing ecosystems may solely require protecting key interactions, not only species counts. That would make influence the primary constraint.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of interactions lead to different conclusions about chain.
+   B. to claim that one interpretation uniquely diagnoses predators, so debate over interactions is unnecessary noise, especially regarding interactions.
+   C. to argue that assumptions always distort evidence, so analysis of interactions and predators should be abandoned altogether.
+   D. to show that the term chain belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding cascades.
 
 
 Answer Key
 ----------
-1: D
-2: B
-3: B
-4: D
-5: C
-6: D
-7: A
-8: A
+1: A
+2: A
+3: C
+4: A
+5: D
+6: A
+7: D
+8: C
 9: A
 10: A

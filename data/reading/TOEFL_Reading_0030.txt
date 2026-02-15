@@ -59,86 +59,87 @@ force as living chemistry rather than as a simple mechanical filter.
 
 Questions
 ---------
-1. [Factual] According to the passage, why is some settled biomass returned to the aeration basin?
-   A. To keep a concentrated microbial community in the system so microbes do not wash out. That would make ammonia the primary constraint.
-   B. To keep a concentrated microbial community in the system so microbes do not wash out. This would require clarifier to be the limiting factor.
-   C. To keep a concentrated microbial community in the system so microbes do not wash out.
-   D. To keep a concentrated microbial community in the system so microbes do not wash out by tying the effect to organisms.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: The treated water’s clarity is the visible endpoint of an invisible work force, and the plant’s success depends on respecting that work force as living chemistry rather than as a simple mechanical filter.
+   A. finished and beyond revision, which would rule out further evaluation of water
+   B. strong and reliable, as used to describe how the claim holds across water
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. sensitive and easily disrupted, despite references to sludge and microbes
 
-2. [Vocabulary] The word “clarifier” in the passage most nearly refers to:
-   A. a chemical that kills bacteria
-   B. a pipe that increases storm runoff
-   C. a device that adds detergent to wastewater
-   D. a tank where microbial flocs settle and clearer water separates
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that sludge is often incomplete and concludes that oxygen cannot be studied in any meaningful way, since water overwhelms comparisons. It recommends replacing tests of microbes with intuition because evidence cannot discriminate among accounts, within the passage’s scope.
+   B. The passage explains oxygen by linking sludge to microbes, and it shows why water changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage presents microbes as a uniquely identifying mechanism and claims that once sludge is observed, competing explanations for oxygen collapse. It treats water as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage surveys oxygen but treats the discussion mainly as a narrative about who proposed microbes first, with sludge serving as anecdotal color. It therefore treats water as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in water, because variation there functions mainly as random measurement noise. On this view, a single strong instance of sludge is enough to validate microbes for oxygen, especially regarding microbes, especially regarding bacteria.
+   B. A persuasive account would predict how oxygen should change if water is altered, instead of assuming that sludge has a single meaning. This implies that models tied to microbes must be tested across comparable cases rather than in one favorable setting.
+   C. The passage treats sludge primarily as a rhetorical flourish and suggests that debates over microbes are largely stylistic, not empirical. As a result, predictions about oxygen are portrayed as optional rather than as a core requirement.
+   D. The passage implies that water mattered mostly for early studies, whereas modern work makes sludge effectively self-interpreting. This would mean that tests of microbes no longer need cross-case comparisons to explain oxygen, especially regarding sludge.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Without that return stream, the community would be continually diluted until it could not keep up with incoming waste.
-   A. [D]
-   B. [C]
-   C. [B]
-   D. [A]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of microbes as a factor influencing sludge
+   B. discussion of calibration drift as a factor influencing sludge
+   C. discussion of oxygen as a factor influencing sludge, in the context of the passage.
+   D. discussion of water as a factor influencing sludge
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: The treated water’s clarity is the visible endpoint of an invisible work force, and the plant’s success depends on respecting that work force as living chemistry rather than as a simple mechanical filter.
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding microbes, in the setting discussed.
+   B. The treated water’s clarity is the visible endpoint of an invisible work force. It keeps the main claim while removing extra detail.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. The treated water’s clarity is the visible endpoint of an invisible work force. It reverses the opposite claim while removing extra detail.
 
-4. [Inference] What can be inferred about why sludge age influences nitrification?
-   A. Nitrifying bacteria grow more slowly, so they need longer residence time to persist in the plant. This would occur only when treatment dominates.
-   B. Nitrifying bacteria grow less slowly, so they need longer residence time to persist in the plant. This would require nitrification to be the limiting factor.
-   C. Nitrifying bacteria grow more slowly, so they need longer residence time to persist in the plant.
-   D. Nitrifying bacteria grow more slowly, so they need longer residence time to persist in the plant by tying the effect to treatment.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of microbes guarantees the correct mechanism, so remaining differences in water are merely stylistic noise.
+   B. Because sludge directly measures causes, confounding cannot occur, and cross-case checks add little to understanding oxygen.
+   C. Because once sludge fits one dataset, replication becomes redundant, and water can be ignored without changing conclusions about oxygen.
+   D. Because comparability prevents microbes from being treated as self-evident and forces tests that hold water constant while examining sludge.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | sludge | Can vary across settings |
+   | Confounder | water | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It proves microbes is unique in every case, so generalization is automatic
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It co-varies with the driver of interest, which makes isolation difficult
 
-5. [Rhetorical Purpose] Why does the author describe denitrification zones?
-   A. To show that different microbial reactions require different oxygen conditions that plants create through staged habitats. This would occur only when wastewater dominates.
-   B. To show that different microbial reactions require different oxygen conditions that plants create through staged habitats. This would require nitrification to be the limiting factor.
-   C. To show that different microbial reactions require different oxygen conditions that plants create through staged habitats.
-   D. To show that denitrification microbial reactions require different oxygen conditions that plants create through staged habitats. This outcome would hold even if clarifier stays constant.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that oxygen should be read alongside water, because sludge alone does not settle what microbes means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This recycling is essential for stability.
+   A. the preceding claim about how sludge is interpreted in relation to microbes
+   B. the preceding claim that water alone explains the outcome of oxygen
+   C. the preceding claim that sludge is included only for rhetorical style, not analysis
+   D. the preceding claim that oxygen functions as a direct measurement of microbes
 
-6. [Negative Factual] All of the following are mentioned as potential shocks to the system EXCEPT:
-   A. a Great Vowel Shift in pronunciation.
-   B. a heavy storm altering flows.
-   C. a toxic discharge in this discussion.
-   D. cold temperatures slowing metabolism.
-
-
-7. [Reference] In the passage, “this recycling” refers to:
-   A. returning settled activated organisms to the aeration basin. This outcome would hold even if ammonia stays constant.
-   B. returning settled activated sludge to the aeration basin. This would require energy to be the limiting factor.
-   C. returning settled activated sludge to the aeration basin. This would occur only when nitrification dominates.
-   D. returning settled activated sludge to the aeration basin.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces the goal of wastewater treatment, explains activated sludge mechanics, then links operational controls to microbial communities and nutrient removal, ending with sensitivity and energy trade-offs of aeration. This would occur only when nitrate-rich dominates.
-   B. It introduces the goal of wastewater treatment, explains activated sludge mechanics, then links operational controls to microbial communities and operators removal, ending with sensitivity and energy trade-offs of aeration. That would make nitrification the primary constraint.
-   C. It introduces the goal of wastewater treatment, explains activated sludge mechanics, then links operational controls to microbial communities and nutrient removal, ending with sensitivity and energy trade-offs of aeration. This outcome would hold even if different stays constant.
-   D. It introduces the goal of wastewater treatment, explains activated sludge mechanics, then links operational controls to microbial communities and nutrient removal, ending with sensitivity and energy trade-offs of aeration.
-
-
-9. [Paraphrase] Which option best restates the idea that activated sludge is “applied ecology”?
-   A. Engineers manage habitats—oxygen, time, and flow—to steer microbial communities that consume pollutants.
-   B. Engineers manage habitats—oxygen, time, and flow—to steer microbial communities that consume pollutants. This would occur only when clarifier dominates.
-   C. Engineers manage habitats—oxygen, time, and flow—to steer microbial communities that consume pollutants. That would make clarifier the primary constraint.
-   D. Engineers manage habitats—oxygen, time, and flow—to steer microbial communities that consume pollutants by tying the effect to nitrate-rich.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains the activated sludge process as cultivating and recycling microbial flocs to remove organic matter and nutrients, shows how operational controls like return rates and sludge age shape community functions such as nitrification and denitrification, and notes sensitivity to shocks and the energy trade-offs of aeration. This outcome would hold even if wastewater stays constant.
-   B. The passage explains the activated sludge process as cultivating and recycling microbial flocs to remove organic matter and nutrients, shows how operational controls like return rates and sludge age shape community functions such as nitrification and denitrification, and notes sensitivity to shocks and the energy trade-offs of aeration. That would make energy the primary constraint.
-   C. The passage explains the activated sludge process as cultivating and recycling microbial flocs to remove organic matter and nutrients, shows how operational controls like return rates and sludge age shape community functions such as nitrification and denitrification, and notes sensitivity to shocks and the energy trade-offs of aeration.
-   D. The passage explains the activated sludge process as cultivating and recycling microbial flocs to remove organic matter and nutrients, shows how operational controls like return rates and sludge age shape community functions such as wastewater and denitrification, and notes sensitivity to shocks and the energy trade-offs of aeration. This would occur only when sludge dominates.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of sludge lead to different conclusions about oxygen.
+   B. to claim that one interpretation uniquely diagnoses microbes, so debate over sludge is unnecessary noise, under the stated assumptions.
+   C. to argue that assumptions always distort evidence, so analysis of sludge and microbes should be abandoned altogether, especially regarding sludge.
+   D. to show that the term oxygen belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
-1: C
-2: D
-3: D
-4: C
-5: C
-6: A
-7: D
+1: B
+2: B
+3: B
+4: B
+5: B
+6: D
+7: C
 8: D
 9: A
-10: C
+10: A

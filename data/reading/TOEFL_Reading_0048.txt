@@ -61,86 +61,87 @@ learning, and the social environments in which children hear speech.
 
 Questions
 ---------
-1. [Vocabulary] The word “lexical” in the passage is closest in meaning to:
-   A. related to weather patterns
-   B. related to muscle movement
-   C. related to chemical reactions
-   D. related to word meaning
 
+1. [Vocabulary] In the passage, the word "salient" in the sentence below is closest in meaning to:
+   Sentence: Some methods pair tones with visual cues, such as arrows that trace contour, to make the abstract dimension more salient.
+   A. fully resolved and closed to debate, which would rule out further evaluation of speakers
+   B. most noticeable or important, as used to describe how the claim holds across speakers
+   C. subtle and easy to miss, even though the passage treats it as evidence-related
+   D. peripheral to the author’s point, despite references to tonal and language
 
-2. [Factual] According to the passage, what is one reason categorical perception of tone is efficient?
-   A. It reduces continuous different variation into discrete units useful for building words and phrases. This would occur only when environments dominates.
-   B. It reduces continuous pitch variation into discrete units useful for building words and phrases. This outcome would hold even if different stays constant.
-   C. It reduces continuous pitch variation into discrete units useful for building words and phrases.
-   D. It reduces continuous pitch variation into discrete units useful for building words and phrases. This outcome would hold even if interpretation stays constant.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys pitch but treats the discussion mainly as a narrative about who proposed language first, with tonal serving as anecdotal color. It therefore treats speakers as a historical footnote rather than as something that shapes interpretation.
+   B. The passage explains pitch by linking tonal to language, and it shows why speakers changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage concedes that tonal is often incomplete and concludes that pitch cannot be studied in any meaningful way, since speakers overwhelms comparisons. It recommends replacing tests of language with intuition because evidence cannot discriminate among accounts, for the phenomenon at issue.
+   D. The passage presents language as a uniquely identifying mechanism and claims that once tonal is observed, competing explanations for pitch collapse. It treats speakers as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that speakers mattered mostly for early studies, whereas modern work makes tonal effectively self-interpreting. This would mean that tests of language no longer need cross-case comparisons to explain pitch, especially regarding learning, especially regarding language, for the main claim of the text.
+   B. A persuasive account would predict how pitch should change if speakers is altered, instead of assuming that tonal has a single meaning. This implies that models tied to language must be tested across comparable cases rather than in one favorable setting.
+   C. The passage treats tonal primarily as a rhetorical flourish and suggests that debates over language are largely stylistic, not empirical. As a result, predictions about pitch are portrayed as optional rather than as a core requirement.
+   D. A persuasive account can safely average away differences in speakers, because variation there functions mainly as random measurement noise. On this view, a single strong instance of tonal is enough to validate language for pitch.
 
-3. [Inference] What can be inferred about why adult learners benefit from hearing tones from many speakers?
-   A. It helps them generalize tone categories beyond one speaker’s pitch range.
-   B. It helps them generalize tone categories beyond one speaker’s consistent range. This would occur only when categories dominates.
-   C. It helps them generalize tone categories beyond one speaker’s pitch range. That would make word-level the primary constraint.
-   D. It helps them generalize tone categories beyond one speaker’s pitch range. This outcome would hold even if categories stays constant.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of pitch as a factor influencing tonal
+   B. discussion of language as a factor influencing tonal
+   C. discussion of radiocarbon reservoir effects as a factor influencing tonal
+   D. discussion of speakers as a factor influencing tonal, especially regarding speakers.
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Training studies suggest that explicit feedback and high variability input—hearing tones from many speakers, at many speeds—can help learners avoid tying a tone category to one speaker’s pitch range.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   B. Training studies suggest that explicit feedback and high variability input—hearing tones from many speakers. It keeps the main claim while removing extra detail.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding tonal, especially regarding language.
+   D. Training studies suggest that explicit feedback and high variability input—hearing tones from many speakers. It reverses the opposite claim while removing extra detail.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Without such grouping, every speaker’s voice would sound like a new and unrelated set of tones.
-   A. [B]
-   B. [D]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of language guarantees the correct mechanism, so remaining differences in speakers are merely stylistic noise.
+   B. Because comparability prevents language from being treated as self-evident and forces tests that hold speakers constant while examining tonal.
+   C. Because once tonal fits one dataset, replication becomes redundant, and speakers can be ignored without changing conclusions about pitch.
+   D. Because tonal directly measures causes, confounding cannot occur, and cross-case checks add little to understanding pitch.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | tonal | Can vary across settings |
+   | Confounder | speakers | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It proves language is unique in every case, so generalization is automatic
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that pitch should be read alongside speakers, because tonal alone does not settle what language means.
+   A. [A]
+   B. [B]
    C. [C]
-   D. [A]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: [A] This categorical perception is efficient because it reduces continuous acoustic variation into discrete units that can be combined into words and phrases.
+   A. the preceding claim that pitch functions as a direct measurement of language
+   B. the preceding claim that tonal is included only for rhetorical style, not analysis
+   C. the preceding claim about how tonal is interpreted in relation to language
+   D. the preceding claim that speakers alone explains the outcome of pitch
 
-5. [Negative Factual] All of the following are mentioned as issues that can complicate tone perception EXCEPT:
-   A. sentence-level intonation overlapping with word-level tone.
-   B. rapid speech with coarticulation.
-   C. carbonation of lime plaster trapping pigment.
-   D. differences in speakers’ pitch ranges.
-
-
-6. [Rhetorical Purpose] Why does the author compare tone processing in tonal versus non-tonal speakers?
-   A. To show that linguistic experience can change which neural networks interpret the same pitch signal.
-   B. To show that linguistic experience can change which neural networks interpret the same english signal. That would make perception the primary constraint.
-   C. To show that linguistic experience must change which neural networks interpret the same pitch signal. This would require languages to be the limiting factor.
-   D. To show that linguistic experience can solely change which neural networks interpret the same pitch signal. This outcome would hold even if english stays constant.
-
-
-7. [Reference] In the passage, “the same sound” refers to:
-   A. a pitch contour that can solely be routed as language or as melody depending on experience. This would require mandarin to be the limiting factor.
-   B. a pitch contour that can be routed as language or as melody depending on experience.
-   C. a pitch contour that can only be routed as language or as melody depending on experience. This outcome would hold even if becomes stays constant.
-   D. a sentence-level contour that can be routed as language or as melody depending on experience. That would make categories the primary constraint.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It defines lexical tone, explains developmental tuning and categorical perception, discusses neural routing and adult learning, then examines interactions with intonation and music. That would make word-level the primary constraint.
-   B. It defines lexical tone, explains developmental tuning and categorical consistent, discusses neural routing and adult learning, then examines interactions with intonation and music. This would occur only when word-level dominates.
-   C. It defines lexical tone, explains developmental tuning and categorical perception, discusses neural routing and adult learning, then examines interactions with intonation and music.
-   D. It defines lexical tone, explains developmental tuning and categorical perception, discusses neural routing and adult learning, then examines interactions with intonation and music. This would occur only when becomes dominates.
-
-
-9. [Paraphrase] Which option best restates the claim that speech perception is “categorization guided by expectations”?
-   A. Listeners learn which acoustic dimensions carry meaning in their language and interpret sounds through those learned categories. This would occur only when linguistics dominates.
-   B. Listeners learn which acoustic dimensions carry meaning in their language and interpret sounds through those learned categories. That would make english the primary constraint.
-   C. Listeners learn which acoustic dimensions carry meaning in their language and interpret sounds through those learned categories.
-   D. Listeners learn which acoustic dimensions carry meaning in their language and interpret sounds through those learned interpretation. This outcome would hold even if different stays constant.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that in tonal languages pitch contour distinguishes word meaning, describes how infants and adults learn tone categories, shows that neural processing depends on linguistic experience, and discusses why tone learning is challenged by intonation and aided only partially by musical skill. This outcome would hold even if right-hemisphere stays constant.
-   B. The passage explains that in tonal languages pitch contour distinguishes word meaning, describes how infants and adults learn tone left-hemisphere, shows that neural processing depends on linguistic experience, and discusses why tone learning is challenged by intonation and aided only partially by musical skill. This outcome would hold even if interpretation stays constant.
-   C. The passage explains that in tonal languages pitch contour distinguishes word meaning, describes how infants and adults learn tone categories, shows that neural processing depends on linguistic experience, and discusses why tone learning is challenged by intonation and aided only partially by musical skill.
-   D. The passage explains that in tonal languages pitch contour distinguishes word meaning, describes how infants and adults learn tone categories, shows that neural processing depends on linguistic experience, and discusses why tone learning is solely challenged by intonation and aided only partially by musical skill. That would make consistent the primary constraint.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term pitch belongs to an unrelated field and is therefore outside the passage’s scope.
+   B. to argue that assumptions always distort evidence, so analysis of tonal and language should be abandoned altogether, especially regarding speakers.
+   C. to motivate clearer assumptions and stronger tests by showing why different readings of tonal lead to different conclusions about pitch.
+   D. to claim that one interpretation uniquely diagnoses language, so debate over tonal is unnecessary noise, in the setting discussed.
 
 
 Answer Key
 ----------
-1: D
-2: C
-3: A
-4: D
-5: C
-6: A
-7: B
+1: B
+2: B
+3: B
+4: C
+5: B
+6: B
+7: C
 8: C
 9: C
 10: C

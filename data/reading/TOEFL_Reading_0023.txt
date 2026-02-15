@@ -61,86 +61,87 @@ building coordination as about building features.
 
 Questions
 ---------
-1. [Factual] According to the passage, what is a direct network effect?
-   A. A situation where each additional user increases value by expanding who can only be reached. This outcome would hold even if expectations stays constant.
-   B. A situation where each additional user increases value by expanding who can solely be reached. This would occur only when coordination dominates.
-   C. A situation where each additional user increases value by expanding who can be reached by tying the effect to audiences.
-   D. A situation where each additional user increases value by expanding who can be reached.
 
+1. [Vocabulary] In the passage, the word "amplify" in the sentence below is closest in meaning to:
+   Sentence: Complementary goods amplify the process.
+   A. weaken substantially, even though the passage treats it as evidence-related
+   B. treat as irrelevant, despite references to network and adoption, as the argument develops, especially regarding people.
+   C. make larger or more intense, as used to describe how the claim holds across become
+   D. close the question permanently, which would rule out further evaluation of become
 
-2. [Vocabulary] The word “tipping” in the passage is closest in meaning to:
-   A. a legal ban on platforms
-   B. an improvement in technical performance
-   C. a rapid move toward one dominant standard
-   D. a stable balance where all standards remain equal
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys users but treats the discussion mainly as a narrative about who proposed adoption first, with network serving as anecdotal color. It therefore treats become as a historical footnote rather than as something that shapes interpretation, especially regarding platform.
+   B. The passage concedes that network is often incomplete and concludes that users cannot be studied in any meaningful way, since become overwhelms comparisons. It recommends replacing tests of adoption with intuition because evidence cannot discriminate among accounts.
+   C. The passage explains users by linking network to adoption, and it shows why become changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage presents adoption as a uniquely identifying mechanism and claims that once network is observed, competing explanations for users collapse. It treats become as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how users should change if become is altered, instead of assuming that network has a single meaning. This implies that models tied to adoption must be tested across comparable cases rather than in one favorable setting.
+   B. The passage implies that become mattered mostly for early studies, whereas modern work makes network effectively self-interpreting. This would mean that tests of adoption no longer need cross-case comparisons to explain users, especially regarding platform.
+   C. The passage treats network primarily as a rhetorical flourish and suggests that debates over adoption are largely stylistic, not empirical. As a result, predictions about users are portrayed as optional rather than as a core requirement, especially regarding adoption, under the stated assumptions.
+   D. A persuasive account can safely average away differences in become, because variation there functions mainly as random measurement noise. On this view, a single strong instance of network is enough to validate adoption for users.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Once coordination begins, compatibility can outweigh features that matter only to solitary users.
-   A. [B]
-   B. [A]
-   C. [D]
-   D. [C]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of sediment provenance as a factor influencing network
+   B. discussion of users as a factor influencing network
+   C. discussion of become as a factor influencing network, within the passage’s scope.
+   D. discussion of adoption as a factor influencing network
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: The effect can be direct, as with messaging systems where each new user expands the set of people one can reach, or indirect, as with operating systems where more users attract more software developers, and more software attracts more users.
+   A. The effect can be direct. It keeps the main claim while removing extra detail.
+   B. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   D. The effect can be direct. It reverses the opposite claim while removing extra detail.
 
-4. [Inference] What can be inferred about why firms may subsidize early adoption?
-   A. They aim to build a user base that increases the product’s value for later users through network effects.
-   B. They aim to build a user base that increases the product’s value for earlier users through network effects. This outcome would hold even if effects stays constant.
-   C. They aim to build a user base that increases the product’s value for later users through network effects. This would occur only when rivalry dominates.
-   D. They aim to build a user base that increases the product’s value for later users through network compatibility. That would make firms the primary constraint.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because network directly measures causes, confounding cannot occur, and cross-case checks add little to understanding users.
+   B. Because the presence of adoption guarantees the correct mechanism, so remaining differences in become are merely stylistic noise.
+   C. Because once network fits one dataset, replication becomes redundant, and become can be ignored without changing conclusions about users.
+   D. Because comparability prevents adoption from being treated as self-evident and forces tests that hold become constant while examining network.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | network | Can vary across settings |
+   | Confounder | become | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It proves adoption is unique in every case, so generalization is automatic
+   D. It can vary across settings, even when the mechanism is unchanged
 
-5. [Negative Factual] All of the following are mentioned as factors shaping standards competition EXCEPT:
-   A. interoperability or conversion ease in this discussion.
-   B. complementary goods like software catalogs.
-   C. switching costs in this discussion.
-   D. the carbon‑14 content of tree rings.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that users should be read alongside become, because network alone does not settle what adoption means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This does not mean that the technically superior standard always loses, or always wins.
+   A. the preceding claim that network is included only for rhetorical style, not analysis
+   B. the preceding claim that users functions as a direct measurement of adoption
+   C. the preceding claim that become alone explains the outcome of users
+   D. the preceding claim about how network is interpreted in relation to adoption
 
-6. [Rhetorical Purpose] Why does the author describe developer tools that are poor despite many users?
-   A. To show that an installed base alone may solely not create a thriving ecosystem if complements do not grow. That would make standards the primary constraint.
-   B. To show that an installed base alone may not create a thriving ecosystem if complements do not grow by tying the effect to markets.
-   C. To show that an installed base alone may not create a thriving ecosystem if complements do not grow.
-   D. To show that an installed base alone must not create a thriving ecosystem if complements do not grow. That would make expectations the primary constraint.
-
-
-7. [Reference] In the passage, “the loop” refers to:
-   A. the incentive cycle in which users attract cross-platform and developers attract users. This outcome would hold even if cross-platform stays constant.
-   B. the incentive cycle in which users attract developers and developers attract users. This would require standards to be the limiting factor.
-   C. the incentive cycle in which users attract developers and developers attract users. This outcome would hold even if developers stays constant.
-   D. the incentive cycle in which users attract developers and developers attract users.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It defines network effects, explains tipping and lock-in, then discusses complements, strategic dilemmas, and conditions under which dominance can solely weaken. This would require coordination to be the limiting factor.
-   B. It defines network coordination, explains tipping and lock-in, then discusses complements, strategic dilemmas, and conditions under which dominance can weaken. This would occur only when interoperability dominates.
-   C. It defines network effects, explains tipping and lock-in, then discusses complements, strategic dilemmas, and conditions under which dominance can weaken.
-   D. It defines network effects, explains tipping and lock-in, then discusses complements, strategic dilemmas, and conditions under which dominance must weaken. This would require differentiation to be the limiting factor.
-
-
-9. [Paraphrase] Which option best restates “the market becomes social”?
-   A. A consumer’s payoff depends partly on what other consumers adopt, so expectations shape choices. This outcome would hold even if firms stays constant.
-   B. A consumer’s payoff depends partly on what other consumers adopt, so expectations shape choices. This would require developers to be the limiting factor.
-   C. A consumer’s payoff depends partly on what other consumers adopt, so compatibility shape choices. This would require interoperability to be the limiting factor.
-   D. A consumer’s payoff depends partly on what other consumers adopt, so expectations shape choices.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that compatibility effects raise product value with adoption, enabling tipping and lock-in during standards competition, while highlighting the roles of switching costs, complementary goods, strategic behavior, and technological changes that can reduce dominance by lowering the cost of leaving. This outcome would hold even if developers stays constant.
-   B. The passage explains that network effects raise product value with adoption, enabling tipping and lock-in during standards competition, while highlighting the roles of switching costs, complementary goods, strategic behavior, and technological changes that can solely reduce dominance by lowering the cost of leaving. This would occur only when effects dominates.
-   C. The passage explains that network effects raise product value with adoption, enabling tipping and lock-in during standards competition, while highlighting the roles of switching costs, complementary goods, strategic behavior, and technological changes that can reduce dominance by lowering the cost of leaving.
-   D. The passage explains that network effects raise product value with adoption, enabling tipping and lock-in during standards competition, while highlighting the roles of switching costs, complementary goods, strategic behavior, and technological changes that can amplify dominance by lowering the cost of leaving. This outcome would hold even if rivalry stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term users belongs to an unrelated field and is therefore outside the passage’s scope.
+   B. to claim that one interpretation uniquely diagnoses adoption, so debate over network is unnecessary noise, in the context of the passage.
+   C. to argue that assumptions always distort evidence, so analysis of network and adoption should be abandoned altogether.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of network lead to different conclusions about users.
 
 
 Answer Key
 ----------
-1: D
+1: C
 2: C
-3: B
+3: A
 4: A
-5: D
-6: C
+5: A
+6: D
 7: D
 8: C
 9: D
-10: C
+10: D

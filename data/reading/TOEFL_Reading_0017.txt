@@ -62,86 +62,87 @@ composition there, meaning that a “recovered” valley can coincide with a cha
 
 Questions
 ---------
-1. [Rhetorical Purpose] Why does the author warn that the term “trophic cascade” can invite oversimplification?
-   A. To emphasize that cascades depend on linked mechanisms and context rather than a single automatic switch.
-   B. To emphasize that cascades depend on linked mechanisms and context rather than a single automatic switch. This would occur only when climate dominates.
-   C. To emphasize that vegetation depend on linked mechanisms and context rather than a single automatic switch. This outcome would hold even if questions stays constant.
-   D. To emphasize that cascades depend on linked mechanisms and context rather than a single automatic switch. This would occur only when questions dominates.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: When browsing pressure drops—either because elk numbers decline, because elk spend less time in vulnerable areas, or because harsh winters interact with predation— young shoots can survive long enough to grow above the reach of constant browsing.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. finished and beyond revision, which would rule out further evaluation of predators
+   C. strong and reliable, as used to describe how the claim holds across predators
+   D. sensitive and easily disrupted, despite references to change and wolves
 
-2. [Vocabulary] The word “conditional” in the passage is closest in meaning to:
-   A. invisible in sense
-   B. irrelevant in sense
-   C. permanent in sense
-   D. dependent on specific circumstances
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains browsing by linking change to wolves, and it shows why predators changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage presents wolves as a uniquely identifying mechanism and claims that once change is observed, competing explanations for browsing collapse. It treats predators as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   C. The passage surveys browsing but treats the discussion mainly as a narrative about who proposed wolves first, with change serving as anecdotal color. It therefore treats predators as a historical footnote rather than as something that shapes interpretation, for the main claim of the text.
+   D. The passage concedes that change is often incomplete and concludes that browsing cannot be studied in any meaningful way, since predators overwhelms comparisons. It recommends replacing tests of wolves with intuition because evidence cannot discriminate among accounts.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in predators, because variation there functions mainly as random measurement noise. On this view, a single strong instance of change is enough to validate wolves for browsing, as the argument develops, especially regarding wolves.
+   B. The passage treats change primarily as a rhetorical flourish and suggests that debates over wolves are largely stylistic, not empirical. As a result, predictions about browsing are portrayed as optional rather than as a core requirement.
+   C. A persuasive account would predict how browsing should change if predators is altered, instead of assuming that change has a single meaning. This implies that models tied to wolves must be tested across comparable cases rather than in one favorable setting.
+   D. The passage implies that predators mattered mostly for early studies, whereas modern work makes change effectively self-interpreting. This would mean that tests of wolves no longer need cross-case comparisons to explain browsing, in the setting discussed.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: The change is as much about fear as it is about appetite.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of wolves as a factor influencing change
+   B. discussion of browsing as a factor influencing change, especially regarding predators.
+   C. discussion of instrument dead time as a factor influencing change
+   D. discussion of predators as a factor influencing change
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: When browsing pressure drops—either because elk numbers decline, because elk spend less time in vulnerable areas, or because harsh winters interact with predation— young shoots can survive long enough to grow above the reach of constant browsing.
+   A. When browsing pressure drops—either because elk numbers decline. It reverses the opposite claim while removing extra detail.
+   B. When browsing pressure drops—either because elk numbers decline. It keeps the main claim while removing extra detail.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of wolves guarantees the correct mechanism, so remaining differences in predators are merely stylistic noise.
+   B. Because comparability prevents wolves from being treated as self-evident and forces tests that hold predators constant while examining change.
+   C. Because once change fits one dataset, replication becomes redundant, and predators can be ignored without changing conclusions about browsing.
+   D. Because change directly measures causes, confounding cannot occur, and cross-case checks add little to understanding browsing.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | change | Can vary across settings |
+   | Confounder | predators | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It proves wolves is unique in every case, so generalization is automatic
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that browsing should be read alongside predators, because change alone does not settle what wolves means.
    A. [A]
-   B. [C]
-   C. [B]
+   B. [B]
+   C. [C]
    D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This propagation is sometimes called a trophic cascade, but the phrase can invite oversimplification, as if one species toggles an ecosystem like a switch.
+   A. the preceding claim that change is included only for rhetorical style, not analysis
+   B. the preceding claim that browsing functions as a direct measurement of wolves
+   C. the preceding claim about how change is interpreted in relation to wolves
+   D. the preceding claim that predators alone explains the outcome of browsing
 
-4. [Factual] According to the passage, how can predators influence where browsing occurs even if elk numbers do not change dramatically?
-   A. By altering elk movement and habitat use, shifting browsing pressure spatially. This would occur only when influence dominates.
-   B. By altering elk movement and habitat use, shifting browsing pressure spatially. This outcome would hold even if riverbanks stays constant.
-   C. By altering elk movement and habitat use, shifting browsing pressure spatially.
-   D. By altering elk movement and habitat use, shifting browsing pressure spatially by tying the effect to ungulates.
-
-
-5. [Inference] What can be inferred about why a plant height threshold matters for willow recovery?
-   A. Once stems grow beyond frequent browsing height, plant growth must outpace herbivory and structural change can accelerate. This would occur only when vegetation dominates.
-   B. Once stems grow beyond frequent browsing height, plant growth can outpace herbivory and structural change can accelerate by tying the effect to riverbanks.
-   C. Once stems grow beyond frequent browsing height, plant growth can solely outpace herbivory and structural change can accelerate. This would require ungulates to be the limiting factor.
-   D. Once stems grow beyond frequent browsing height, plant growth can outpace herbivory and structural change can accelerate.
-
-
-6. [Negative Factual] All of the following are mentioned as factors that can complicate cascades EXCEPT:
-   A. climate variation such as dry or wet years.
-   B. human hunting in this discussion.
-   C. prey switching to other browse species.
-   D. the alignment of exoplanet orbital planes.
-
-
-7. [Reference] In the passage, “those wetlands” refers to wetlands created by:
-   A. beaver dams built after willow recovery. This would require willows to be the limiting factor.
-   B. beaver dams built after willow recovery. That would make consider the primary constraint.
-   C. difference dams built after willow recovery. That would make influence the primary constraint.
-   D. beaver dams built after willow recovery.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It explains behavioral and numerical pathways from riverbanks to plants, then traces consequences through beavers and rivers, and finally discusses why outcomes vary with context. This would require sometimes to be the limiting factor.
-   B. It explains behavioral and numerical pathways from predators to plants, then traces consequences through beavers and rivers, and finally discusses why outcomes vary with context.
-   C. It explains behavioral and numerical pathways from predators to plants, then traces consequences through beavers and rivers, and finally discusses why outcomes vary with context. This would occur only when beaver dominates.
-   D. It explains behavioral and numerical pathways from predators to plants, then traces consequences through beavers and rivers, and finally discusses why outcomes vary with context. This outcome would hold even if questions stays constant.
-
-
-9. [Paraphrase] Which option best restates the idea that predators can “open a door” but context determines how far change goes?
-   A. questions can reduce browsing pressure, but plant recovery still depends on moisture, habitat, and other interacting forces. This would occur only when context-dependent dominates.
-   B. Predators can reduce browsing pressure, but plant recovery still depends on moisture, habitat, and other interacting forces.
-   C. Predators can solely reduce browsing pressure, but plant recovery still depends on moisture, habitat, and other interacting forces. This outcome would hold even if ecology stays constant.
-   D. Predators can amplify browsing pressure, but plant recovery still depends on moisture, habitat, and other interacting forces. This would require context-dependent to be the limiting factor.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains trophic cascades as linked mechanisms in which predators affect prey behavior and numbers, altering browsing and allowing vegetation and species like beavers to change landscapes, while emphasizing that outcomes vary with climate, hunting, and other contextual factors.
-   B. The passage explains trophic cascades as linked mechanisms in which predators affect prey behavior and numbers, altering browsing and allowing vegetation and species like beavers to change landscapes, while emphasizing that outcomes vary with climate, hunting, and other contextual factors. This would require without to be the limiting factor.
-   C. The passage explains trophic cascades as linked mechanisms in which predators affect prey behavior and numbers, altering browsing and allowing without and species like beavers to change landscapes, while emphasizing that outcomes vary with climate, hunting, and other contextual factors. This would occur only when predators dominates.
-   D. The passage explains trophic cascades as linked mechanisms in which predators affect prey behavior and numbers, altering browsing and allowing vegetation and species like beavers to change landscapes, while emphasizing that outcomes vary with climate, hunting, and other contextual factors. This would occur only when predators dominates.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of change lead to different conclusions about browsing.
+   B. to claim that one interpretation uniquely diagnoses wolves, so debate over change is unnecessary noise, in the setting discussed, especially regarding predators.
+   C. to argue that assumptions always distort evidence, so analysis of change and wolves should be abandoned altogether.
+   D. to show that the term browsing belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
-1: A
-2: D
-3: A
+1: C
+2: A
+3: C
 4: C
-5: D
-6: D
-7: D
-8: B
-9: B
+5: B
+6: B
+7: C
+8: D
+9: C
 10: A

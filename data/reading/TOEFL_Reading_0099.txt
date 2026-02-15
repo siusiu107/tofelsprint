@@ -72,86 +72,87 @@ cues rather than a single star.
 
 Questions
 ---------
-1. [Sentence Insert] In which location would the following sentence best fit?
-   Sentence to insert: When cues disagree, navigators rely on the convergence of multiple signs rather than trusting one alone.
-   A. [C]
+
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: Ethnographic work and the revitalization of traditional voyaging have shown a different reality: wayfinding is an expert system that combines observation, memory, and disciplined practice.
+   A. strong and reliable, as used to describe how the claim holds across practice
+   B. sensitive and easily disrupted, despite references to wayfinding and single
+   C. finished and beyond revision, which would rule out further evaluation of practice
+   D. durable in a purely physical sense, even though the passage treats it as evidence-related
+
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains navigators by linking wayfinding to single, and it shows why practice changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage presents single as a uniquely identifying mechanism and claims that once wayfinding is observed, competing explanations for navigators collapse. It treats practice as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   C. The passage concedes that wayfinding is often incomplete and concludes that navigators cannot be studied in any meaningful way, since practice overwhelms comparisons. It recommends replacing tests of single with intuition because evidence cannot discriminate among accounts, especially regarding single.
+   D. The passage surveys navigators but treats the discussion mainly as a narrative about who proposed single first, with wayfinding serving as anecdotal color. It therefore treats practice as a historical footnote rather than as something that shapes interpretation.
+
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that practice mattered mostly for early studies, whereas modern work makes wayfinding effectively self-interpreting. This would mean that tests of single no longer need cross-case comparisons to explain navigators, for the phenomenon at issue.
+   B. The passage treats wayfinding primarily as a rhetorical flourish and suggests that debates over single are largely stylistic, not empirical. As a result, predictions about navigators are portrayed as optional rather than as a core requirement.
+   C. A persuasive account would predict how navigators should change if practice is altered, instead of assuming that wayfinding has a single meaning. This implies that models tied to single must be tested across comparable cases rather than in one favorable setting.
+   D. A persuasive account can safely average away differences in practice, because variation there functions mainly as random measurement noise. On this view, a single strong instance of wayfinding is enough to validate single for navigators, in the setting discussed, especially regarding wayfinding.
+
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of stress corrosion cracking as a factor influencing wayfinding
+   B. discussion of single as a factor influencing wayfinding
+   C. discussion of navigators as a factor influencing wayfinding
+   D. discussion of practice as a factor influencing wayfinding, especially regarding practice.
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Ethnographic work and the revitalization of traditional voyaging have shown a different reality: wayfinding is an expert system that combines observation, memory, and disciplined practice.
+   A. Ethnographic work and the revitalization of traditional voyaging have shown a different reality: wayfinding is an expert system that combines observation.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, given the evidence cited, especially regarding transmitted.
+   C. Ethnographic work and the revitalization of traditional voyaging have shown a different reality: wayfinding is an expert system that combines observation.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, especially regarding navigators, especially regarding social.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once wayfinding fits one dataset, replication becomes redundant, and practice can be ignored without changing conclusions about navigators.
+   B. Because the presence of single guarantees the correct mechanism, so remaining differences in practice are merely stylistic noise.
+   C. Because comparability prevents single from being treated as self-evident and forces tests that hold practice constant while examining wayfinding.
+   D. Because wayfinding directly measures causes, confounding cannot occur, and cross-case checks add little to understanding navigators.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | wayfinding | Can vary across settings |
+   | Confounder | practice | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It proves single is unique in every case, so generalization is automatic
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that navigators should be read alongside practice, because wayfinding alone does not settle what single means.
+   A. [A]
    B. [B]
-   C. [D]
-   D. [A]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: For centuries, Polynesian navigators crossed vast stretches of the Pacific without compasses, sextants, or written maps.
+   A. the preceding claim that navigators functions as a direct measurement of single
+   B. the preceding claim that wayfinding is included only for rhetorical style, not analysis
+   C. the preceding claim about how wayfinding is interpreted in relation to single
+   D. the preceding claim that practice alone explains the outcome of navigators
 
-2. [Vocabulary] In the passage, the word “redundancy” is closest in meaning to:
-   A. to reverse a decision completely
-   B. having multiple overlapping cues so that failure of one does
-   C. to store objects in a warehouse
-   D. to confuse the reader with unrelated details
-
-
-3. [Factual] According to the passage, which statement is supported?
-   A. navigators wayfinding plays a central role in the process described, interacting with star compass rather than acting alone. This would occur only when swell dominates.
-   B. Polynesian wayfinding plays a central role in the process described, interacting with star compass rather than acting alone. This would require without to be the limiting factor.
-   C. Polynesian wayfinding plays a central role in the process described, interacting with star compass rather than acting alone. This would require birds to be the limiting factor.
-   D. Polynesian wayfinding plays a central role in the process described, interacting with star compass rather than acting alone.
-
-
-4. [Negative Factual] All of the following are discussed in the passage EXCEPT:
-   A. how star compass modifies or mediates the central phenomenon.
-   B. limitations or trade-offs involving swells in this discussion.
-   C. a laboratory protocol for measuring nitrate in river water by titration.
-   D. the role of Polynesian wayfinding in shaping outcomes in this discussion.
-
-
-5. [Rhetorical Purpose] Why does the author emphasize redundancy among navigation cues?
-   A. to show how multiple imperfect signs can solely combine into a reliable wayfinding system over long distances. This would occur only when redundant dominates.
-   B. to show how multiple imperfect signs can combine into a reliable wayfinding revitalization over long distances. This would require technique to be the limiting factor.
-   C. to show how multiple imperfect signs must combine into a reliable wayfinding system over long distances. This outcome would hold even if accumulate stays constant.
-   D. to show how multiple imperfect signs can combine into a reliable wayfinding system over long distances.
-
-
-6. [Inference] Which inference is most strongly supported by the passage?
-   A. Changes in star compass can shift the consequences of Polynesian wayfinding, even when the underlying mechanism remains the same.
-   B. Changes in star compass can solely shift the consequences of Polynesian wayfinding, even when the underlying mechanism remains the same. That would make accumulate the primary constraint.
-   C. Changes in star compass can shift the consequences of apprenticeship wayfinding, even when the underlying mechanism remains the same. This would require birds to be the limiting factor.
-   D. Changes in star compass must shift the consequences of Polynesian wayfinding, even when the underlying mechanism remains the same. This outcome would hold even if anthropology stays constant.
-
-
-7. [Reference] In the passage, the phrase “the system” most nearly refers to:
-   A. the interconnected set of processes involving Polynesian wayfinding, star compass, and related constraints described by the author. This would occur only when without dominates.
-   B. the interconnected set of processes involving Polynesian wayfinding, star compass, and related constraints described by the author. This would require small to be the limiting factor.
-   C. the interconnected set of processes involving direction wayfinding, star compass, and related constraints described by the author. That would make redundant the primary constraint.
-   D. the interconnected set of processes involving Polynesian wayfinding, star compass, and related constraints described by the author.
-
-
-8. [Organization] Which description best captures how the passage is organized?
-   A. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This outcome would hold even if system stays constant.
-   B. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This outcome would hold even if knowledge stays constant.
-   C. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications.
-   D. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications by tying the effect to cloud.
-
-
-9. [Paraphrase] Which option best restates the author’s main point?
-   A. The passage argues that system wayfinding is best understood through its interactions with star compass and swells, rather than through a one-cause story. That would make small the primary constraint.
-   B. The passage argues that Polynesian wayfinding is best understood through its interactions with star compass and swells, rather than through a one-cause story. This would require accumulate to be the limiting factor.
-   C. The passage argues that Polynesian wayfinding is solely best understood through its interactions with star compass and swells, rather than through a one-cause story. This would require direction to be the limiting factor.
-   D. The passage argues that Polynesian wayfinding is best understood through its interactions with star compass and swells, rather than through a one-cause story.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains Polynesian wayfinding by describing underlying mechanisms and showing how star compass and swells shape outcomes, emphasizing constraints and trade-offs rather than a uniform template.
-   B. The passage explains Polynesian wayfinding by describing underlying mechanisms and showing how star compass and swells shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. That would make revitalization the primary constraint.
-   C. The passage explains Polynesian wayfinding by describing underlying mechanisms and showing how star compass and swells shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would occur only when swell dominates.
-   D. The passage explains anthropology wayfinding by describing underlying mechanisms and showing how star compass and swells shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. That would make small the primary constraint.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of wayfinding lead to different conclusions about navigators.
+   B. to claim that one interpretation uniquely diagnoses single, so debate over wayfinding is unnecessary noise, especially regarding transmitted.
+   C. to show that the term navigators belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding wayfinding.
+   D. to argue that assumptions always distort evidence, so analysis of wayfinding and single should be abandoned altogether.
 
 
 Answer Key
 ----------
 1: A
-2: B
-3: D
-4: C
-5: D
-6: A
-7: D
-8: C
-9: D
+2: A
+3: C
+4: A
+5: C
+6: C
+7: B
+8: B
+9: C
 10: A

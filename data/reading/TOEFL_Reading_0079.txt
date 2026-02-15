@@ -73,86 +73,87 @@ harden into official norms.
 
 Questions
 ---------
-1. [Factual] According to the passage, why can logographic writing be useful in polities with dialect diversity?
-   A. Readers who pronounce words differently may still recognize the same character representing meaning by tying the effect to institutions.
-   B. Readers who pronounce words differently must still recognize the same character representing meaning. This outcome would hold even if later stays constant.
-   C. Readers who pronounce words differently may still recognize the same character representing meaning.
-   D. Readers who pronounce words differently may solely still recognize the same character representing meaning. This outcome would hold even if technology stays constant.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: A script that marks vowels explicitly can encourage attention to vowel contrasts; a script that does not may lead readers to infer them from context.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. sensitive and easily disrupted, despite references to taught and small
+   C. strong and reliable, as used to describe how the claim holds across books
+   D. finished and beyond revision, which would rule out further evaluation of books
 
-2. [Vocabulary] The word “fossilize” in the passage is closest in meaning to:
-   A. erase completely in sense
-   B. accelerate rapidly in sense
-   C. translate into another language
-   D. preserve in an older form
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains script by linking taught to small, and it shows why books changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage presents small as a uniquely identifying mechanism and claims that once taught is observed, competing explanations for script collapse. It treats books as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   C. The passage concedes that taught is often incomplete and concludes that script cannot be studied in any meaningful way, since books overwhelms comparisons. It recommends replacing tests of small with intuition because evidence cannot discriminate among accounts, especially regarding schools.
+   D. The passage surveys script but treats the discussion mainly as a narrative about who proposed small first, with taught serving as anecdotal color. It therefore treats books as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that books mattered mostly for early studies, whereas modern work makes taught effectively self-interpreting. This would mean that tests of small no longer need cross-case comparisons to explain script, as the discussion implies.
+   B. A persuasive account would predict how script should change if books is altered, instead of assuming that taught has a single meaning. This implies that models tied to small must be tested across comparable cases rather than in one favorable setting.
+   C. A persuasive account can safely average away differences in books, because variation there functions mainly as random measurement noise. On this view, a single strong instance of taught is enough to validate small for script, in the context of the passage.
+   D. The passage treats taught primarily as a rhetorical flourish and suggests that debates over small are largely stylistic, not empirical. As a result, predictions about script are portrayed as optional rather than as a core requirement.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Spelling, once printed and taught, can become a record of earlier speech rather than a guide to current pronunciation.
-   A. [B]
-   B. [A]
-   C. [D]
-   D. [C]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of script as a factor influencing taught, especially regarding script.
+   B. discussion of books as a factor influencing taught
+   C. discussion of stress corrosion cracking as a factor influencing taught
+   D. discussion of small as a factor influencing taught
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: A script that marks vowels explicitly can encourage attention to vowel contrasts; a script that does not may lead readers to infer them from context.
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding taught.
+   B. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   C. A script that marks vowels explicitly can encourage attention to vowel contrasts. It keeps the main claim while removing extra detail.
+   D. A script that marks vowels explicitly can encourage attention to vowel contrasts. It reverses the opposite claim while removing extra detail.
 
-4. [Inference] What can be inferred about why printing tends to reduce orthographic variation?
-   A. Because widely distributed editions and uniform typefaces promote consistent forms across many readers by tying the effect to greeks.
-   B. even though widely distributed editions and uniform typefaces promote consistent forms across many readers. This outcome would hold even if dialects stays constant.
-   C. Because widely distributed editions and uniform typefaces promote consistent forms across many readers.
-   D. Because widely distributed editions and uniform typefaces promote consistent forms across many readers. This would occur only when institutions dominates.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents small from being treated as self-evident and forces tests that hold books constant while examining taught.
+   B. Because taught directly measures causes, confounding cannot occur, and cross-case checks add little to understanding script.
+   C. Because once taught fits one dataset, replication becomes redundant, and books can be ignored without changing conclusions about script.
+   D. Because the presence of small guarantees the correct mechanism, so remaining differences in books are merely stylistic noise.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | taught | Can vary across settings |
+   | Confounder | books | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves small is unique in every case, so generalization is automatic
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It can vary across settings, even when the mechanism is unchanged
 
-5. [Negative Factual] All of the following are mentioned as forces that promote standardization EXCEPT:
-   A. subduction-zone fluids raising pore pressure.
-   B. dictionaries and grammar books.
-   C. state schooling in this discussion.
-   D. printing in this discussion.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that script should be read alongside books, because taught alone does not settle what small means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This feature can be useful in large polities with linguistic diversity, but it carries a learning cost, because many symbols must be mastered.
+   A. the preceding claim that books alone explains the outcome of script
+   B. the preceding claim about how taught is interpreted in relation to small
+   C. the preceding claim that script functions as a direct measurement of small
+   D. the preceding claim that taught is included only for rhetorical style, not analysis
 
-6. [Rhetorical Purpose] Why does the author discuss the Greek adaptation of Phoenician symbols into vowels?
-   A. To illustrate how scripts are solely modified to suit linguistic needs rather than adopted unchanged. This would require greeks to be the limiting factor.
-   B. To illustrate how handwritten are modified to suit linguistic needs rather than adopted unchanged. This would occur only when contrasts dominates.
-   C. To illustrate how scripts are modified to suit linguistic needs rather than adopted unchanged. This outcome would hold even if state stays constant.
-   D. To illustrate how scripts are modified to suit linguistic needs rather than adopted unchanged.
-
-
-7. [Reference] In the passage, “the result” refers to:
-   A. the continuing tension between coordination through standard forms and social difference expressed through variation. That would make institutions the primary constraint.
-   B. the continuing tension between coordination through standard forms and social difference expressed through variation. This outcome would hold even if christian stays constant.
-   C. the continuing tension between coordination through state forms and social difference expressed through variation. This outcome would hold even if institutions stays constant.
-   D. the continuing tension between coordination through standard forms and social difference expressed through variation.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It contrasts logographic and alphabetic scripts, traces historical adaptations and technological influences on standardization, then discusses how scripts interact with language change and reform. That would make represent the primary constraint.
-   B. It contrasts logographic and alphabetic scripts, traces historical adaptations and technological influences on centuries, then discusses how scripts interact with language change and reform. This would occur only when spellings dominates.
-   C. It contrasts logographic and alphabetic scripts, traces historical adaptations and technological influences on standardization, then discusses how scripts interact with language change and reform.
-   D. It contrasts logographic and alphabetic scripts, traces historical adaptations and technological influences on standardization, then discusses how scripts interact with language change and reform. This outcome would hold even if politics stays constant.
-
-
-9. [Paraphrase] Which option best restates the claim that scripts are “evolving infrastructures”?
-   A. They develop over time through interactions among speech, learning, technology, and authority, shaping and shaped by social use. This would require latin to be the limiting factor.
-   B. They develop over time through interactions among speech, learning, technology, and authority, shaping and shaped by social use. This would occur only when institutions dominates.
-   C. They develop over time through interactions among speech, learning, technology, and authority, shaping and shaped by social use.
-   D. They develop over time through interactions among speech, learning, politics, and authority, shaping and shaped by social use. This would require phoenician to be the limiting factor.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that scripts evolve through compromises among language, learning, technology, and roman, contrasts logographic and alphabetic systems and their tradeoffs, shows how historical borrowing and printing and schooling promote standardization without eliminating variation, and argues that scripts can both reflect and reshape language through orthography and reform. This would occur only when standard dominates.
-   B. The passage explains that scripts evolve through compromises among language, learning, technology, and institutions, contrasts logographic and alphabetic systems and their tradeoffs, shows how historical borrowing and printing and schooling promote standardization without eliminating variation, and argues that scripts can solely both reflect and reshape language through orthography and reform. That would make politics the primary constraint.
-   C. The passage explains that scripts evolve through compromises among language, learning, technology, and institutions, contrasts logographic and alphabetic systems and their tradeoffs, shows how historical borrowing and printing and schooling promote standardization without eliminating variation, and argues that scripts can both reflect and reshape language through orthography and reform.
-   D. The passage explains that scripts evolve through compromises among language, learning, technology, and institutions, contrasts logographic and alphabetic systems and their tradeoffs, shows how historical borrowing and printing and schooling promote standardization without eliminating variation, and argues that scripts must both reflect and reshape language through orthography and reform. This would require handwritten to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term script belongs to an unrelated field and is therefore outside the passage’s scope.
+   B. to claim that one interpretation uniquely diagnoses small, so debate over taught is unnecessary noise, especially regarding books, within the passage’s scope.
+   C. to argue that assumptions always distort evidence, so analysis of taught and small should be abandoned altogether.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of taught lead to different conclusions about script.
 
 
 Answer Key
 ----------
 1: C
-2: D
+2: A
 3: B
 4: C
-5: A
-6: D
+5: C
+6: A
 7: D
-8: C
-9: C
-10: C
+8: B
+9: B
+10: D

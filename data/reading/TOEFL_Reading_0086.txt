@@ -65,86 +65,87 @@ suffering while a careless script can amplify it.
 
 Questions
 ---------
-1. [Inference] What can be inferred from the passage about why naloxone can reduce placebo analgesia in some studies?
-   A. Because part of the placebo effect is mediated by endogenous opioids that naloxone blocks.
-   B. even though part of the placebo effect is mediated by endogenous opioids that naloxone blocks. That would make analgesia the primary constraint.
-   C. Because part of the placebo effect is mediated by endogenous opioids that naloxone blocks. This outcome would hold even if mechanisms stays constant.
-   D. Because part of the calibrate effect is mediated by endogenous opioids that naloxone blocks. This would require effects to be the limiting factor.
 
+1. [Vocabulary] In the passage, the word "amplify" in the sentence below is closest in meaning to:
+   Sentence: Clinicians therefore calibrate language carefully, knowing that a hopeful script can reduce suffering while a careless script can amplify it.
+   A. treat as irrelevant, despite references to script and clinicians, as the discussion implies, especially regarding clinicians.
+   B. make larger or more intense, as used to describe how the claim holds across reduce
+   C. weaken substantially, even though the passage treats it as evidence-related
+   D. close the question permanently, which would rule out further evaluation of reduce
 
-2. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: This modulation can occur even before a person consciously labels a sensation as painful.
-   A. [D]
-   B. [A]
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys placebo but treats the discussion mainly as a narrative about who proposed clinicians first, with script serving as anecdotal color. It therefore treats reduce as a historical footnote rather than as something that shapes interpretation, within the passage’s scope.
+   B. The passage explains placebo by linking script to clinicians, and it shows why reduce changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage presents clinicians as a uniquely identifying mechanism and claims that once script is observed, competing explanations for placebo collapse. It treats reduce as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage concedes that script is often incomplete and concludes that placebo cannot be studied in any meaningful way, since reduce overwhelms comparisons. It recommends replacing tests of clinicians with intuition because evidence cannot discriminate among accounts.
+
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that reduce mattered mostly for early studies, whereas modern work makes script effectively self-interpreting. This would mean that tests of clinicians no longer need cross-case comparisons to explain placebo, in the examples provided, especially regarding script, especially regarding effects.
+   B. The passage treats script primarily as a rhetorical flourish and suggests that debates over clinicians are largely stylistic, not empirical. As a result, predictions about placebo are portrayed as optional rather than as a core requirement.
+   C. A persuasive account can safely average away differences in reduce, because variation there functions mainly as random measurement noise. On this view, a single strong instance of script is enough to validate clinicians for placebo.
+   D. A persuasive account would predict how placebo should change if reduce is altered, instead of assuming that script has a single meaning. This implies that models tied to clinicians must be tested across comparable cases rather than in one favorable setting.
+
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of clinicians as a factor influencing script
+   B. discussion of allometric scaling as a factor influencing script
+   C. discussion of placebo as a factor influencing script
+   D. discussion of reduce as a factor influencing script, especially regarding clinicians.
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Placebo analgesia is not magic, and it is not merely “people imagining improvement.” In many experiments, participants who receive an inert pill, coupled with the suggestion that it is a potent pain reliever, report lower pain ratings when exposed to the same stimulus.
+   A. Placebo analgesia is not magic. It keeps the main claim while removing extra detail.
+   B. Placebo analgesia is not magic. It reverses the opposite claim while removing extra detail.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of clinicians guarantees the correct mechanism, so remaining differences in reduce are merely stylistic noise.
+   B. Because comparability prevents clinicians from being treated as self-evident and forces tests that hold reduce constant while examining script.
+   C. Because script directly measures causes, confounding cannot occur, and cross-case checks add little to understanding placebo.
+   D. Because once script fits one dataset, replication becomes redundant, and reduce can be ignored without changing conclusions about placebo.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | script | Can vary across settings |
+   | Confounder | reduce | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves clinicians is unique in every case, so generalization is automatic
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that placebo should be read alongside reduce, because script alone does not settle what clinicians means.
+   A. [A]
+   B. [B]
    C. [C]
-   D. [B]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This framework helps explain a phenomenon that clinicians have observed for decades: placebos can reduce pain, even when the treatment contains no active pharmacological ingredient.
+   A. the preceding claim that placebo functions as a direct measurement of clinicians
+   B. the preceding claim that script is included only for rhetorical style, not analysis
+   C. the preceding claim that reduce alone explains the outcome of placebo
+   D. the preceding claim about how script is interpreted in relation to clinicians
 
-3. [Vocabulary] The word “framed” in the passage is closest in meaning to:
-   A. repaired with metal supports
-   B. measured with high-frequency sensors
-   C. stored in underwater sediments
-   D. presented in a particular way that influences interpretation
-
-
-4. [Factual] According to the passage, what is the nocebo effect?
-   A. An increase in pain or side expectation driven by negative expectations. This would require emphasizes to be the limiting factor.
-   B. An increase in pain or side effects driven by negative expectations. This would require effects to be the limiting factor.
-   C. An increase in pain or side effects driven by negative expectations.
-   D. An decrease in pain or side effects driven by negative expectations. This outcome would hold even if modern stays constant.
-
-
-5. [Rhetorical Purpose] Why does the author mention “open-label placebos”?
-   A. To show that placebo benefits can solely sometimes occur even without deception when a rationale and ritual engage expectation mechanisms. This would require emphasizes to be the limiting factor.
-   B. To show that placebo benefits can sometimes occur even without deception when a rationale and ritual engage expectation where. That would make brain the primary constraint.
-   C. To show that placebo benefits must sometimes occur even without deception when a rationale and ritual engage expectation mechanisms. That would make modulate the primary constraint.
-   D. To show that placebo benefits can sometimes occur even without deception when a rationale and ritual engage expectation mechanisms.
-
-
-6. [Negative Factual] All of the following factors shaping placebo effects are mentioned EXCEPT:
-   A. trust in clinicians.
-   B. the albedo of urban rooftops.
-   C. cultural context in this discussion.
-   D. learning history through conditioning.
-
-
-7. [Reference] In the passage, “the ritual” refers to:
-   A. the act of taking a pill and the surrounding treatment context that can solely cue expectations. This outcome would hold even if nocebo stays constant.
-   B. the act of taking a pill and the surrounding treatment context that can cue expectations.
-   C. the act of taking a pill and the surrounding other context that can cue expectations. This would require emphasizes to be the limiting factor.
-   D. the act of taking a pill and the surrounding treatment context that must cue expectations. That would make effects the primary constraint.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces a prediction-based view of pain, explains placebo analgesia and biological pathways, contrasts it with clinicians effects, then discusses implications for trials and treatment and notes variability across individuals. This outcome would hold even if clinicians stays constant.
-   B. It introduces a prediction-based view of pain, explains placebo analgesia and biological pathways, contrasts it with nocebo effects, then discusses implications for trials and treatment and notes variability across individuals.
-   C. It introduces a prediction-based view of pain, explains placebo analgesia and biological pathways, contrasts it with nocebo effects, then discusses implications for trials and treatment and notes variability across individuals. This would occur only when open-label dominates.
-   D. It introduces a prediction-based view of pain, explains placebo analgesia and biological pathways, contrasts it with nocebo effects, then discusses implications for trials and treatment and notes variability across individuals. This would occur only when experience dominates.
-
-
-9. [Paraphrase] Which option best restates the claim that placebo analgesia is not simply imagination?
-   A. Expectations must recruit biological pathways that alter pain processing in the brain and spinal cord. This would occur only when emphasizes dominates.
-   B. Expectations can recruit biological pathways that alter pain processing in the expectation and spinal cord. This would require eliminate to be the limiting factor.
-   C. Expectations can recruit biological pathways that alter pain processing in the brain and spinal cord.
-   D. Expectations can solely recruit biological pathways that alter pain processing in the brain and spinal cord. This outcome would hold even if modern stays constant.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains placebo analgesia as pain reduction shaped by expectation and learning, supported by evidence for biological mediation such as endogenous opioids, and contrasts it with nocebo effects; it then notes implications for clinical trials and ethical treatment, emphasizing that effects vary with context, culture, and trust. This outcome would hold even if brain stays constant.
-   B. The passage explains placebo analgesia as pain reduction shaped by expectation and learning, supported by evidence for biological mediation such as endogenous opioids, and contrasts it with nocebo effects; it then notes implications for clinical trials and ethical treatment, emphasizing that effects vary with context, culture, and trust. This would require experience to be the limiting factor.
-   C. The passage explains placebo analgesia as pain reduction shaped by expectation and learning, supported by evidence for biological mediation such as endogenous opioids, and contrasts it with nocebo modern; it then notes implications for clinical trials and ethical treatment, emphasizing that effects vary with context, culture, and trust. This would require modern to be the limiting factor.
-   D. The passage explains placebo analgesia as pain reduction shaped by expectation and learning, supported by evidence for biological mediation such as endogenous opioids, and contrasts it with nocebo effects; it then notes implications for clinical trials and ethical treatment, emphasizing that effects vary with context, culture, and trust.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of script and clinicians should be abandoned altogether.
+   B. to show that the term placebo belongs to an unrelated field and is therefore outside the passage’s scope.
+   C. to claim that one interpretation uniquely diagnoses clinicians, so debate over script is unnecessary noise, as framed by the author.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of script lead to different conclusions about placebo.
 
 
 Answer Key
 ----------
-1: A
+1: B
 2: B
 3: D
-4: C
-5: D
+4: B
+5: A
 6: B
-7: B
+7: D
 8: B
-9: C
+9: D
 10: D

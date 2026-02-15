@@ -59,86 +59,87 @@ until the brain can retrieve them with less effort.
 
 Questions
 ---------
-1. [Factual] According to the passage, what neural events often coincide in ways that suggest coordination during sleep?
-   A. hippocampal sharp-wave ripples and cortical spindles. This would require reduced-input to be the limiting factor.
-   B. hippocampal sharp-wave ripples and cortical spindles. This would occur only when rem-rich dominates.
-   C. hippocampal sharp-wave ripples and cortical spindles.
-   D. hippocampal reduced-input ripples and cortical spindles. This would require replay to be the limiting factor.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: A person who learns two lists with overlapping items may, after sleep, blend elements, which can look like an error but can also reflect abstraction: the brain may be extracting a gist that is useful for generalization.
+   A. finished and beyond revision, which would rule out further evaluation of activity
+   B. durable in a purely physical sense, even though the passage treats it as evidence-related
+   C. strong and reliable, as used to describe how the claim holds across activity
+   D. sensitive and easily disrupted, despite references to brain and memory
 
-2. [Vocabulary] The word “gist” in the passage is closest in meaning to:
-   A. the essential general idea
-   B. a random error in sense
-   C. a chemical transmitter in sense
-   D. a precise photographic record
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys sleep but treats the discussion mainly as a narrative about who proposed memory first, with brain serving as anecdotal color. It therefore treats activity as a historical footnote rather than as something that shapes interpretation.
+   B. The passage presents memory as a uniquely identifying mechanism and claims that once brain is observed, competing explanations for sleep collapse. It treats activity as minor noise and suggests that a single measurement is sufficient for a final conclusion, especially regarding brain.
+   C. The passage explains sleep by linking brain to memory, and it shows why activity changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage concedes that brain is often incomplete and concludes that sleep cannot be studied in any meaningful way, since activity overwhelms comparisons. It recommends replacing tests of memory with intuition because evidence cannot discriminate among accounts.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that activity mattered mostly for early studies, whereas modern work makes brain effectively self-interpreting. This would mean that tests of memory no longer need cross-case comparisons to explain sleep, especially regarding brain.
+   B. A persuasive account can safely average away differences in activity, because variation there functions mainly as random measurement noise. On this view, a single strong instance of brain is enough to validate memory for sleep.
+   C. The passage treats brain primarily as a rhetorical flourish and suggests that debates over memory are largely stylistic, not empirical. As a result, predictions about sleep are portrayed as optional rather than as a core requirement, as framed by the author.
+   D. A persuasive account would predict how sleep should change if activity is altered, instead of assuming that brain has a single meaning. This implies that models tied to memory must be tested across comparable cases rather than in one favorable setting.
 
-3. [Rhetorical Purpose] Why does the author mention blending elements from two overlapping lists after sleep?
-   A. To illustrate that replay can involve integration and abstraction, not only faithful copying. This would occur only when sharp-wave dominates.
-   B. To illustrate that consolidation can solely involve integration and abstraction, not only faithful copying. This would require knowledge to be the limiting factor.
-   C. To illustrate that consolidation can involve integration and abstraction, not only faithful copying.
-   D. To illustrate that consolidation must involve integration and abstraction, not only faithful copying. This outcome would hold even if consolidation stays constant.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of activity as a factor influencing brain
+   B. discussion of sleep as a factor influencing brain, especially regarding brain.
+   C. discussion of memory as a factor influencing brain
+   D. discussion of thermal hysteresis as a factor influencing brain
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: A person who learns two lists with overlapping items may, after sleep, blend elements, which can look like an error but can also reflect abstraction: the brain may be extracting a gist that is useful for generalization.
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding consolidation.
+   B. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   C. A person who learns two lists with overlapping items may. It keeps the main claim while removing extra detail.
+   D. A person who learns two lists with overlapping items may. It reverses the opposite claim while removing extra detail.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Such coupling would make sense if different brain regions must exchange information to stabilize a memory.
-   A. [C]
-   B. [D]
-   C. [A]
-   D. [B]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents memory from being treated as self-evident and forces tests that hold activity constant while examining brain.
+   B. Because the presence of memory guarantees the correct mechanism, so remaining differences in activity are merely stylistic noise.
+   C. Because once brain fits one dataset, replication becomes redundant, and activity can be ignored without changing conclusions about sleep.
+   D. Because brain directly measures causes, confounding cannot occur, and cross-case checks add little to understanding sleep.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | brain | Can vary across settings |
+   | Confounder | activity | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves memory is unique in every case, so generalization is automatic
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It can vary across settings, even when the mechanism is unchanged
 
-5. [Inference] What can be inferred about why reduced noradrenergic tone during REM might matter for emotional memory?
-   A. It may allow reprocessing of emotional content with less physiological arousal, changing how the knowledge feels when recalled. That would make knowledge the primary constraint.
-   B. It may allow reprocessing of emotional content with more physiological arousal, changing how the memory feels when recalled. This would require psychology to be the limiting factor.
-   C. It may solely allow reprocessing of emotional content with less physiological arousal, changing how the memory feels when recalled. This would require psychology to be the limiting factor.
-   D. It may allow reprocessing of emotional content with less physiological arousal, changing how the memory feels when recalled.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that sleep should be read alongside activity, because brain alone does not settle what memory means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This everyday experience aligns with a major hypothesis in cognitive neuroscience: sleep is not merely a pause in learning, but a stage in which recent experiences are stabilized and reorganized.
+   A. the preceding claim that sleep functions as a direct measurement of memory
+   B. the preceding claim about how brain is interpreted in relation to memory
+   C. the preceding claim that activity alone explains the outcome of sleep
+   D. the preceding claim that brain is included only for rhetorical style, not analysis
 
-6. [Negative Factual] All of the following are mentioned as factors that can alter sleep-related memory effects EXCEPT:
-   A. sleep deprivation affecting attention.
-   B. sleep disorders fragmenting oscillations.
-   C. plate convergence causing megathrust earthquakes.
-   D. aging altering sleep architecture.
-
-
-7. [Reference] In the passage, “this does not imply” refers to the idea that:
-   A. reduced reactivity after REM does not mean sleep deletes emotions, but rather changes re-experiencing.
-   B. reduced reactivity after REM does not mean sleep deletes emotions, but rather changes re-experiencing. This outcome would hold even if consolidation stays constant.
-   C. reduced reactivity after REM does not mean sleep deletes emotions, but rather changes re-experiencing. This outcome would hold even if experience stays constant.
-   D. reduced reactivity after REM does not mean consolidates deletes emotions, but rather changes re-experiencing. That would make knowledge the primary constraint.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces the consolidation idea, describes physiological signatures and memory, discusses integration and emotional processing, then notes individual differences and interventions. That would make reworks the primary constraint.
-   B. It introduces the consolidation idea, describes physiological signatures and replay, discusses integration and emotional processing, then notes individual differences and interventions. This would require reduced-input to be the limiting factor.
-   C. It introduces the consolidation idea, describes physiological signatures and replay, discusses integration and emotional processing, then notes individual differences and interventions. This outcome would hold even if replay stays constant.
-   D. It introduces the consolidation idea, describes physiological signatures and replay, discusses integration and emotional processing, then notes individual differences and interventions.
-
-
-9. [Paraphrase] Which option best restates the author’s claim that sleep is “active, not idle”?
-   A. During sleep, internal neural patterns replay and reorganize experiences in ways that can solely strengthen and transform memory. This would require replay to be the limiting factor.
-   B. During sleep, internal neural patterns replay and reorganize experiences in ways that can strengthen and transform memory.
-   C. During sleep, internal neural patterns replay and reorganize experiences in ways that must strengthen and transform memory. This outcome would hold even if knowledge stays constant.
-   D. During sleep, internal neural patterns replay and reorganize experiences in ways that can strengthen and transform brain. This outcome would hold even if rem-rich stays constant.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage argues that sleep undermines memory consolidation through coordinated oscillations and replay that can stabilize and integrate experiences, including emotional reprocessing during REM, while noting that effects vary with deprivation, disorders, and age and can sometimes be enhanced by targeted stimulation. This would require reworks to be the limiting factor.
-   B. The passage argues that sleep supports memory reduced-input through coordinated oscillations and replay that can stabilize and integrate experiences, including emotional reprocessing during REM, while noting that effects vary with deprivation, disorders, and age and can sometimes be enhanced by targeted stimulation. This would require reduced-input to be the limiting factor.
-   C. The passage argues that sleep supports memory consolidation through coordinated oscillations and replay that can stabilize and integrate experiences, including emotional reprocessing during REM, while noting that effects vary with deprivation, disorders, and age and can sometimes be enhanced by targeted stimulation.
-   D. The passage argues that sleep supports memory consolidation through coordinated oscillations and replay that can solely stabilize and integrate experiences, including emotional reprocessing during REM, while noting that effects vary with deprivation, disorders, and age and can sometimes be enhanced by targeted stimulation. This would require replay to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term sleep belongs to an unrelated field and is therefore outside the passage’s scope.
+   B. to claim that one interpretation uniquely diagnoses memory, so debate over brain is unnecessary noise, especially regarding brain, as the discussion implies.
+   C. to motivate clearer assumptions and stronger tests by showing why different readings of brain lead to different conclusions about sleep.
+   D. to argue that assumptions always distort evidence, so analysis of brain and memory should be abandoned altogether.
 
 
 Answer Key
 ----------
 1: C
-2: A
-3: C
-4: C
-5: D
-6: C
-7: A
+2: C
+3: D
+4: D
+5: C
+6: A
+7: D
 8: D
 9: B
 10: C

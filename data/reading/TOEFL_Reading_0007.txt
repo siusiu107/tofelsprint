@@ -57,86 +57,87 @@ through it.
 
 Questions
 ---------
-1. [Factual] According to the passage, what is “efficiency droop”?
-   A. A decline in LED efficient at high current density even as current continues to increase. This would occur only when p-type dominates.
-   B. A decline in LED efficiency at high current density even as current continues to increase.
-   C. A decline in LED efficiency at high current density even as current continues to increase. This outcome would hold even if current stays constant.
-   D. A decline in LED efficiency at high current density even as current continues to decrease. This would occur only when current dominates.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: For many years, engineers were puzzled by a stubborn pattern called “efficiency droop.” At low to moderate current, an LED’s light output scales nearly linearly with current, and the fraction of recombinations producing photons can be high.
+   A. finished and beyond revision, which would rule out further evaluation of light
+   B. strong and reliable, as used to describe how the claim holds across light
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. sensitive and easily disrupted, despite references to droop and carriers
 
-2. [Vocabulary] The word “persisted” in the passage is closest in meaning to:
-   A. accelerated in sense
-   B. vanished in sense
-   C. continued in sense
-   D. melted in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that droop is often incomplete and concludes that current cannot be studied in any meaningful way, since light overwhelms comparisons. It recommends replacing tests of carriers with intuition because evidence cannot discriminate among accounts, especially regarding recombination.
+   B. The passage explains current by linking droop to carriers, and it shows why light changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage surveys current but treats the discussion mainly as a narrative about who proposed carriers first, with droop serving as anecdotal color. It therefore treats light as a historical footnote rather than as something that shapes interpretation.
+   D. The passage presents carriers as a uniquely identifying mechanism and claims that once droop is observed, competing explanations for current collapse. It treats light as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats droop primarily as a rhetorical flourish and suggests that debates over carriers are largely stylistic, not empirical. As a result, predictions about current are portrayed as optional rather than as a core requirement.
+   B. The passage implies that light mattered mostly for early studies, whereas modern work makes droop effectively self-interpreting. This would mean that tests of carriers no longer need cross-case comparisons to explain current, as the discussion implies, especially regarding recombination, as the discussion implies.
+   C. A persuasive account can safely average away differences in light, because variation there functions mainly as random measurement noise. On this view, a single strong instance of droop is enough to validate carriers for current.
+   D. A persuasive account would predict how current should change if light is altered, instead of assuming that droop has a single meaning. This implies that models tied to carriers must be tested across comparable cases rather than in one favorable setting.
 
-3. [Inference] What can be inferred from the temperature-controlled test described in the passage?
-   A. Heating alone cannot explain droop because densities still declined when temperature was held near constant. This would occur only when become dominates.
-   B. Heating alone cannot explain droop because efficiency still declined when temperature was held near constant. This outcome would hold even if bright stays constant.
-   C. Heating alone cannot explain droop because efficiency still declined when temperature was held near constant.
-   D. Heating alone cannot explain droop even though efficiency still declined when temperature was held near constant. That would make another the primary constraint.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of light as a factor influencing droop
+   B. discussion of carriers as a factor influencing droop, especially regarding recombination.
+   C. discussion of thermal hysteresis as a factor influencing droop
+   D. discussion of current as a factor influencing droop
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: For many years, engineers were puzzled by a stubborn pattern called “efficiency droop.” At low to moderate current, an LED’s light output scales nearly linearly with current, and the fraction of recombinations producing photons can be high.
+   A. For many years. It keeps the main claim while removing extra detail.
+   B. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   C. For many years. It reverses the opposite claim while removing extra detail.
+   D. It keeps the details but drops the main relationship, so the key connection becomes unclear.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In other words, the probability of a wasteful three-body event grows as the junction becomes more densely populated.
-   A. [D]
-   B. [C]
-   C. [A]
-   D. [B]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once droop fits one dataset, replication becomes redundant, and light can be ignored without changing conclusions about current.
+   B. Because droop directly measures causes, confounding cannot occur, and cross-case checks add little to understanding current.
+   C. Because the presence of carriers guarantees the correct mechanism, so remaining differences in light are merely stylistic noise.
+   D. Because comparability prevents carriers from being treated as self-evident and forces tests that hold light constant while examining droop.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | droop | Can vary across settings |
+   | Confounder | light | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It proves carriers is unique in every case, so generalization is automatic
 
-5. [Rhetorical Purpose] Why does the author provide numerical values such as 15 A/cm² and 40 A/cm²?
-   A. To illustrate how droop is solely identified by a peak in efficiency followed by a measurable decline under higher injection. This would require auger to be the limiting factor.
-   B. To illustrate how droop is identified by a peak in densities followed by a measurable decline under higher injection. This would occur only when injection dominates.
-   C. To illustrate how droop is identified by a peak in efficiency followed by a measurable decline under higher injection.
-   D. To illustrate how droop is identified by a peak in efficiency followed by a measurable decline under lower injection. This outcome would hold even if increases stays constant.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that current should be read alongside light, because droop alone does not settle what carriers means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: [B] This mechanism predicts droop even when the device is kept cool.
+   A. the preceding claim that current functions as a direct measurement of carriers
+   B. the preceding claim about how droop is interpreted in relation to carriers
+   C. the preceding claim that light alone explains the outcome of current
+   D. the preceding claim that droop is included only for rhetorical style, not analysis
 
-6. [Negative Factual] All of the following are discussed as possible contributors to droop EXCEPT:
-   A. carrier leakage in this discussion.
-   B. Auger recombination in this discussion.
-   C. gravitational lensing effects on photons inside the chip.
-   D. nonradiative recombination in this discussion.
-
-
-7. [Reference] In the sentence “This mechanism predicts droop even when the device is kept cool,” “This mechanism” refers to:
-   A. Auger recombination at high carrier density. This would occur only when densities dominates.
-   B. Auger recombination at high carrier density. This would occur only when current dominates.
-   C. Auger recombination at high carrier density.
-   D. interactions recombination at high carrier density. This would occur only when interactions dominates.
-
-
-8. [Organization] How does the author organize the passage?
-   A. By defining the device process, presenting competing explanations for droop, then using a numerical test and design changes to evaluate them. This would occur only when physics dominates.
-   B. By defining the device process, presenting competing explanations for droop, then using a numerical test and light changes to evaluate them. This would require n-type to be the limiting factor.
-   C. By defining the device process, presenting competing explanations for droop, then using a numerical test and design changes to evaluate them.
-   D. By defining the device process, presenting competing explanations for droop, then using a numerical test and design changes to evaluate them. This outcome would hold even if temperature stays constant.
-
-
-9. [Paraphrase] Which option best restates the comparison to a “crowded intersection”?
-   A. At high carrier density, how carriers are solely confined and routed determines whether they recombine usefully or waste energy. This would occur only when p-type dominates.
-   B. At high carrier density, how carriers are confined and routed determines whether they recombine usefully or waste energy by tying the effect to interactions.
-   C. At high carrier density, how carriers are confined and routed determines whether they recombine usefully or waste energy.
-   D. At high carrier density, how carriers are confined and routed determines whether they recombine usefully or waste energy. This would require p-type to be the limiting factor.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains efficiency droop as a decline in per-current efficiency at high three-particle, evaluates competing causes using temperature-controlled tests and numerical evidence, and argues that multiple pathways such as Auger recombination and leakage can contribute depending on design. This would occur only when n-type dominates.
-   B. The passage explains efficiency droop as a decline in per-current efficiency at high injection, evaluates competing causes using temperature-controlled tests and numerical evidence, and argues that multiple pathways such as Auger recombination and leakage can contribute depending on design.
-   C. The passage explains efficiency droop as a decline in per-current efficiency at high injection, evaluates competing causes using temperature-controlled tests and numerical evidence, and argues that multiple pathways such as Auger recombination and leakage can solely contribute depending on design. That would make auger the primary constraint.
-   D. The passage explains efficiency droop as a decline in per-current efficiency at high injection, evaluates competing causes using temperature-controlled tests and numerical evidence, and argues that multiple pathways such as Auger recombination and leakage must contribute depending on design. This would require recombination to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of droop and carriers should be abandoned altogether.
+   B. to show that the term current belongs to an unrelated field and is therefore outside the passage’s scope, given the evidence cited.
+   C. to motivate clearer assumptions and stronger tests by showing why different readings of droop lead to different conclusions about current.
+   D. to claim that one interpretation uniquely diagnoses carriers, so debate over droop is unnecessary noise, especially regarding carriers.
 
 
 Answer Key
 ----------
 1: B
-2: C
-3: C
-4: D
-5: C
-6: C
-7: C
-8: C
-9: C
-10: B
+2: B
+3: D
+4: C
+5: A
+6: D
+7: A
+8: A
+9: B
+10: C

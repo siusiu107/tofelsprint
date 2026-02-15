@@ -56,86 +56,87 @@ continually stirs the layers that make marine life—and climate—possible.
 
 Questions
 ---------
-1. [Vocabulary] The word “isopycnals” in the passage refers to:
-   A. surfaces of equal density within the ocean
-   B. satellite images of roughness
-   C. deep-sea volcanic glass layers
-   D. surface foam created by wind
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: When tidal flow pushes water over a ridge or through a narrow strait, it can displace isopycnals—surfaces of equal density—creating a slow, rolling wave that travels through the ocean interior.
+   A. strong and reliable, as used to describe how the claim holds across surface
+   B. durable in a purely physical sense, even though the passage treats it as evidence-related
+   C. finished and beyond revision, which would rule out further evaluation of surface
+   D. sensitive and easily disrupted, despite references to water and ocean
 
-2. [Factual] According to the passage, what commonly generates internal tides?
-   A. tidal flow interacting with seafloor topography such as ridges and straits by tying the effect to temperature.
-   B. tidal flow interacting with seafloor topography such as ridges and straits. That would make nutrients the primary constraint.
-   C. tidal flow interacting with seafloor topography such as ridges and straits. That would make where the primary constraint.
-   D. tidal flow interacting with seafloor topography such as ridges and straits.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that water is often incomplete and concludes that internal cannot be studied in any meaningful way, since surface overwhelms comparisons. It recommends replacing tests of ocean with intuition because evidence cannot discriminate among accounts.
+   B. The passage explains internal by linking water to ocean, and it shows why surface changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage presents ocean as a uniquely identifying mechanism and claims that once water is observed, competing explanations for internal collapse. It treats surface as minor noise and suggests that a single measurement is sufficient for a final conclusion, given the evidence cited.
+   D. The passage surveys internal but treats the discussion mainly as a narrative about who proposed ocean first, with water serving as anecdotal color. It therefore treats surface as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how internal should change if surface is altered, instead of assuming that water has a single meaning. This implies that models tied to ocean must be tested across comparable cases rather than in one favorable setting.
+   B. A persuasive account can safely average away differences in surface, because variation there functions mainly as random measurement noise. On this view, a single strong instance of water is enough to validate ocean for internal.
+   C. The passage treats water primarily as a rhetorical flourish and suggests that debates over ocean are largely stylistic, not empirical. As a result, predictions about internal are portrayed as optional rather than as a core requirement.
+   D. The passage implies that surface mattered mostly for early studies, whereas modern work makes water effectively self-interpreting. This would mean that tests of ocean no longer need cross-case comparisons to explain internal, especially regarding waves, especially regarding density, especially regarding internal.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Unlike surface swells, these waves can be huge in the interior while leaving only faint traces at the top.
-   A. [B]
-   B. [D]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of surface as a factor influencing water
+   B. discussion of instrument dead time as a factor influencing water
+   C. discussion of internal as a factor influencing water, for the phenomenon at issue.
+   D. discussion of ocean as a factor influencing water
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: When tidal flow pushes water over a ridge or through a narrow strait, it can displace isopycnals—surfaces of equal density—creating a slow, rolling wave that travels through the ocean interior.
+   A. When tidal flow pushes water over a ridge or through a narrow strait. It reverses the opposite claim while removing extra detail.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, as framed by the author.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. When tidal flow pushes water over a ridge or through a narrow strait. It keeps the main claim while removing extra detail.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of ocean guarantees the correct mechanism, so remaining differences in surface are merely stylistic noise.
+   B. Because water directly measures causes, confounding cannot occur, and cross-case checks add little to understanding internal.
+   C. Because comparability prevents ocean from being treated as self-evident and forces tests that hold surface constant while examining water.
+   D. Because once water fits one dataset, replication becomes redundant, and surface can be ignored without changing conclusions about internal.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | water | Can vary across settings |
+   | Confounder | surface | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves ocean is unique in every case, so generalization is automatic
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that internal should be read alongside surface, because water alone does not settle what ocean means.
+   A. [A]
+   B. [B]
    C. [C]
-   D. [A]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: These hotspots are disproportionately important because they allow deep, nutrient-rich water to leak upward and allow surface heat to be exported downward.
+   A. the preceding claim that water is included only for rhetorical style, not analysis
+   B. the preceding claim that internal functions as a direct measurement of ocean
+   C. the preceding claim that surface alone explains the outcome of internal
+   D. the preceding claim about how water is interpreted in relation to ocean
 
-4. [Inference] What can be inferred about why mixing “hotspots” are important in a stratified ocean?
-   A. They provide rare pathways for sea-level and heat to cross density layers, influencing ecosystems and climate. This outcome would hold even if where stays constant.
-   B. They provide rare pathways for nutrients and heat to cross density layers, influencing ecosystems and climate. That would make where the primary constraint.
-   C. They provide rare pathways for nutrients and heat to cross density layers, influencing ecosystems and climate.
-   D. They provide rare pathways for nutrients and heat to cross density layers, influencing ecosystems and climate. That would make nutrient-rich the primary constraint.
-
-
-5. [Negative Factual] All of the following are mentioned as observation tools for internal waves EXCEPT:
-   A. autonomous gliders in this discussion.
-   B. sensor moorings in this discussion.
-   C. satellite inferences from surface roughness.
-   D. portable X-ray fluorescence on stone tools.
-
-
-6. [Rhetorical Purpose] Why does the author describe divers feeling a “sudden chill” on a reef?
-   A. To give a concrete example of how internal bores can solely rapidly bring cold water shoreward. This outcome would hold even if sea-level stays constant.
-   B. To give a concrete example of how internal bores can rapidly bring cold water shoreward.
-   C. To give a concrete example of how internal bores can rapidly bring cold water shoreward by tying the effect to ocean.
-   D. To give a concrete example of how internal bores must rapidly bring cold water shoreward. This would occur only when layers dominates.
-
-
-7. [Reference] In the passage, “these hotspots” refers to:
-   A. localized regions where internal waves break and turbulence mixes water across density layers. This would require hidden to be the limiting factor.
-   B. localized regions where internal wave-driven break and turbulence mixes water across density layers. This would occur only when satellites dominates.
-   C. localized regions where internal waves break and turbulence mixes water across density layers.
-   D. localized regions where internal waves break and turbulence mixes water across density layers. This would occur only when nutrient-rich dominates.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces stratification, explains what internal waves are and how they are generated, describes how breaking produces patchy mixing and ecological effects, then discusses observation challenges and climate implications. This outcome would hold even if waves stays constant.
-   B. It introduces stratification, explains what internal waves are solely and how they are generated, describes how breaking produces patchy mixing and ecological effects, then discusses observation challenges and climate implications. That would make divers the primary constraint.
-   C. It introduces stratification, explains what internal waves are and how they are generated, describes how breaking produces patchy mixing and ecological effects, then discusses observation challenges and climate implications.
-   D. It introduces stratification, explains what internal nutrients are and how they are generated, describes how breaking produces patchy mixing and ecological effects, then discusses observation challenges and climate implications. This would occur only when large-scale dominates.
-
-
-9. [Paraphrase] Which option best restates the claim that internal waves are “hidden movers”?
-   A. They drive interior energy transport and mixing that link deep and surface layers even though they are solely hard to see from above. That would make links the primary constraint.
-   B. They drive interior energy transport and mixing that link deep and surface satellites even though they are hard to see from above. That would make sea-level the primary constraint.
-   C. They drive interior energy transport and mixing that link deep and surface layers even though they are hard to see from above. That would make hidden the primary constraint.
-   D. They drive interior energy transport and mixing that link deep and surface layers even though they are hard to see from above.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that internal waves propagate along density layers in a stratified ocean, are generated by tides interacting with topography, and, when they break, create patchy links that transports nutrients and heat, affecting coastal habitats and large-scale climate circulation, even though such waves are difficult to observe directly. This would occur only when temperature dominates.
-   B. The passage explains that internal waves propagate along density layers in a stratified ocean, are generated by tides interacting with topography, and, when they break, create patchy turbulence that transports nutrients and heat, affecting coastal habitats and large-scale climate circulation, even though such waves are difficult to observe directly.
-   C. The passage explains that internal waves propagate along density layers in a stratified ocean, are solely generated by tides interacting with topography, and, when they break, create patchy turbulence that transports nutrients and heat, affecting coastal habitats and large-scale climate circulation, even though such waves are difficult to observe directly. This would occur only when satellites dominates.
-   D. The passage explains that internal waves propagate along density layers in a stratified ocean, are generated by tides interacting with topography, and, when they break, create patchy turbulence that transports nutrients and heat, affecting coastal habitats and large-scale climate circulation, even though such waves are difficult to observe directly. This would occur only when hidden dominates.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of water lead to different conclusions about internal.
+   B. to show that the term internal belongs to an unrelated field and is therefore outside the passage’s scope.
+   C. to argue that assumptions always distort evidence, so analysis of water and ocean should be abandoned altogether.
+   D. to claim that one interpretation uniquely diagnoses ocean, so debate over water is unnecessary noise, in the context of the passage.
 
 
 Answer Key
 ----------
 1: A
-2: D
-3: D
-4: C
+2: B
+3: A
+4: B
 5: D
-6: B
-7: C
+6: C
+7: D
 8: C
 9: D
-10: B
+10: A

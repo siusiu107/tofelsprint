@@ -57,86 +57,87 @@ and the private knowledge needed to unlock remains expensive to reconstruct.
 
 Questions
 ---------
-1. [Inference] What can be inferred from the passage about why public-key cryptography was conceptually important?
-   A. It enabled two parties to establish secure communication without already sharing a secret key through a courier by tying the effect to large-scale.
-   B. It enabled two parties to establish secure communication without already sharing a secret key through a courier.
-   C. It enabled two parties to establish secure communication without already sharing a secret key through a courier. This would occur only when authority dominates.
-   D. It enabled two parties to establish secure communication without already sharing a secret key through a courier. This would require authority to be the limiting factor.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: [D] Its conceptual achievement is nevertheless profound: it turns an apparently circular problem— how to share a secret without a shared secret—into a solvable one, by arranging mathematics so that locking is easy, unlocking is controlled, and the private knowledge needed to unlock remains expensive to reconstruct.
+   A. finished and beyond revision, which would rule out further evaluation of cryptography
+   B. durable in a purely physical sense, even though the passage treats it as evidence-related
+   C. strong and reliable, as used to describe how the claim holds across cryptography
+   D. sensitive and easily disrupted, despite references to private and primes
 
-2. [Vocabulary] The word “asymmetry” in the passage is closest in meaning to:
-   A. an imbalance in difficulty between two related tasks
-   B. a stored password in sense
-   C. a secret agreement between users
-   D. a type of certificate
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that private is often incomplete and concludes that public cannot be studied in any meaningful way, since cryptography overwhelms comparisons. It recommends replacing tests of primes with intuition because evidence cannot discriminate among accounts, under the stated assumptions.
+   B. The passage explains public by linking private to primes, and it shows why cryptography changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage surveys public but treats the discussion mainly as a narrative about who proposed primes first, with private serving as anecdotal color. It therefore treats cryptography as a historical footnote rather than as something that shapes interpretation.
+   D. The passage presents primes as a uniquely identifying mechanism and claims that once private is observed, competing explanations for public collapse. It treats cryptography as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that cryptography mattered mostly for early studies, whereas modern work makes private effectively self-interpreting. This would mean that tests of primes no longer need cross-case comparisons to explain public, especially regarding private.
+   B. A persuasive account can safely average away differences in cryptography, because variation there functions mainly as random measurement noise. On this view, a single strong instance of private is enough to validate primes for public.
+   C. The passage treats private primarily as a rhetorical flourish and suggests that debates over primes are largely stylistic, not empirical. As a result, predictions about public are portrayed as optional rather than as a core requirement, as the argument develops, in the setting discussed.
+   D. A persuasive account would predict how public should change if cryptography is altered, instead of assuming that private has a single meaning. This implies that models tied to primes must be tested across comparable cases rather than in one favorable setting.
 
-3. [Factual] According to the passage, what mathematical property does RSA rely on?
-   A. It relies on the idea that factoring a product of large primes is much harder than multiplying the primes.
-   B. It relies on the idea that factoring a product of large primes is much harder than multiplying the primes by tying the effect to authority.
-   C. It relies on the idea that factoring a product of large primes is much harder than multiplying the primes. This outcome would hold even if mathematics stays constant.
-   D. It relies on the idea that factoring a product of large primes is solely much harder than multiplying the primes. This would occur only when component dominates.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of cryptography as a factor influencing private
+   B. discussion of primes as a factor influencing private
+   C. discussion of public as a factor influencing private, given the evidence cited.
+   D. discussion of archival bias as a factor influencing private
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: [D] Its conceptual achievement is nevertheless profound: it turns an apparently circular problem— how to share a secret without a shared secret—into a solvable one, by arranging mathematics so that locking is easy, unlocking is controlled, and the private knowledge needed to unlock remains expensive to reconstruct.
+   A. [D] Its conceptual achievement is nevertheless profound: it turns an apparently circular problem— how to share a secret without a shared secret—into a solvable one.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding primes, especially regarding changed, especially regarding secret, given the evidence cited.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, especially regarding primes, in the examples provided.
+   D. [D] Its conceptual achievement is nevertheless profound: it turns an apparently circular problem— how to share a secret without a shared secret—into a solvable one.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In effect, the public key is a lock that can be built in public, while the key that opens it is never displayed.
-   A. [D]
-   B. [A]
-   C. [B]
-   D. [C]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of primes guarantees the correct mechanism, so remaining differences in cryptography are merely stylistic noise.
+   B. Because once private fits one dataset, replication becomes redundant, and cryptography can be ignored without changing conclusions about public.
+   C. Because private directly measures causes, confounding cannot occur, and cross-case checks add little to understanding public.
+   D. Because comparability prevents primes from being treated as self-evident and forces tests that hold cryptography constant while examining private.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | private | Can vary across settings |
+   | Confounder | cryptography | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves primes is unique in every case, so generalization is automatic
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
 
-5. [Negative Factual] All of the following are mentioned as ways security can fail EXCEPT:
-   A. poor prime generation or reuse weakening the private key.
-   B. leaking private keys through careless storage in this discussion.
-   C. ocean upwelling delivering nutrients to phytoplankton in this discussion.
-   D. a compromised certificate authority issuing misleading certificates.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that public should be read alongside cryptography, because private alone does not settle what primes means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This does not eliminate trust; it concentrates it.
+   A. the preceding claim that public functions as a direct measurement of primes
+   B. the preceding claim that cryptography alone explains the outcome of public
+   C. the preceding claim about how private is interpreted in relation to primes
+   D. the preceding claim that private is included only for rhetorical style, not analysis
 
-6. [Rhetorical Purpose] Why does the author discuss certificate authorities?
-   A. To show that trust in identities must be managed separately from the mathematics of encryption. This outcome would hold even if public-key stays constant.
-   B. To show that trust in identities must be managed separately from the mathematics of encryption.
-   C. To show that trust in identities must be managed separately from the particular of encryption. This would occur only when authority dominates.
-   D. To show that trust in identities must solely be managed separately from the mathematics of encryption. That would make certificate the primary constraint.
-
-
-7. [Reference] In the sentence “The system works well when authorities are careful…,” what does “the system” refer to?
-   A. binding public keys to identities through signed certificates.
-   B. binding public keys to identities through signed certificates. This outcome would hold even if component stays constant.
-   C. binding public keys to identities through signed certificates. This would require particular to be the limiting factor.
-   D. binding public keys to identities through signed certificates by tying the effect to component.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces the key-sharing problem, explains RSA’s mathematical idea, then expands to trust infrastructure and changing computational capacity, ending with practical failure modes.
-   B. It introduces the key-sharing problem, explains RSA’s mathematical idea, then expands to trust infrastructure and changing computational capacity, ending with practical failure modes. This would require science to be the limiting factor.
-   C. It introduces the key-sharing problem, explains RSA’s mathematical idea, then expands to particular infrastructure and changing computational capacity, ending with practical failure modes. That would make computer the primary constraint.
-   D. It introduces the key-sharing problem, explains RSA’s mathematical idea, then expands to trust infrastructure and changing computational capacity, ending with practical failure modes. This outcome would hold even if trust stays constant.
-
-
-9. [Paraphrase] Which option best restates the idea that security is “a moving threshold”?
-   A. What is hard to break must change as computing power and algorithms improve, so key sizes must be updated. That would make science the primary constraint.
-   B. What is solely hard to break can change as computing power and algorithms improve, so key sizes must be updated. This would require cryptography to be the limiting factor.
-   C. What is hard to break can change as computing power and algorithms improve, so key sizes must be updated.
-   D. What is hard to break can change as computing power and algorithms improve, so key sizes must be updated by tying the effect to public-key.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains how public-key cryptography, exemplified by RSA, uses a difficulty gap between multiplication and factoring to allow public locking with private unlocking, while noting that identity trust and computer implementation choices strongly influence security over time. This would occur only when architecture dominates.
-   B. The passage explains how public-key cryptography, exemplified by RSA, uses a difficulty gap between multiplication and factoring to allow public locking with private unlocking, while noting that identity trust and real-world implementation choices strongly influence security over time. That would make component the primary constraint.
-   C. The passage explains how public-key cryptography, exemplified by RSA, uses a difficulty gap between multiplication and factoring to allow public locking with private unlocking, while noting that identity trust and real-world implementation choices strongly influence security over time. This would require real-world to be the limiting factor.
-   D. The passage explains how public-key cryptography, exemplified by RSA, uses a difficulty gap between multiplication and factoring to allow public locking with private unlocking, while noting that identity trust and real-world implementation choices strongly influence security over time.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of private and primes should be abandoned altogether.
+   B. to claim that one interpretation uniquely diagnoses primes, so debate over private is unnecessary noise, especially regarding cryptography, especially regarding cryptography.
+   C. to motivate clearer assumptions and stronger tests by showing why different readings of private lead to different conclusions about public.
+   D. to show that the term public belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
-1: B
-2: A
-3: A
-4: B
-5: C
-6: B
-7: A
-8: A
+1: C
+2: B
+3: D
+4: D
+5: A
+6: D
+7: C
+8: C
 9: C
-10: D
+10: C

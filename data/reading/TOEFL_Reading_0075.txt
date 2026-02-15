@@ -60,86 +60,87 @@ a practical accounting tool.
 
 Questions
 ---------
-1. [Factual] According to the passage, what happens at each ROSCA meeting?
-   A. risks contribute a fixed amount and the pooled sum is given to one member. This would require contributions to be the limiting factor.
-   B. Participants contribute a fixed amount and the pooled sum is solely given to one member. This would require reputation to be the limiting factor.
-   C. Participants contribute a fixed amount and the pooled sum is given to one member. This outcome would hold even if risks stays constant.
-   D. Participants contribute a fixed amount and the pooled sum is given to one member.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: A member who receives the pot early is effectively receiving an interest-free loan repaid through later contributions; a member who receives late is effectively saving, depositing contributions until the payout.
+   A. strong and reliable, as used to describe how the claim holds across members
+   B. durable in a purely physical sense, even though the passage treats it as evidence-related
+   C. sensitive and easily disrupted, despite references to contributions and saving
+   D. finished and beyond revision, which would rule out further evaluation of members
 
-2. [Vocabulary] The word “collateral” in the first paragraph is closest in meaning to:
-   A. property or assets pledged to secure a loan
-   B. a type of lottery ticket
-   C. a schedule of meeting times
-   D. a public reputation record
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage presents saving as a uniquely identifying mechanism and claims that once contributions is observed, competing explanations for roscas collapse. It treats members as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   B. The passage surveys roscas but treats the discussion mainly as a narrative about who proposed saving first, with contributions serving as anecdotal color. It therefore treats members as a historical footnote rather than as something that shapes interpretation.
+   C. The passage concedes that contributions is often incomplete and concludes that roscas cannot be studied in any meaningful way, since members overwhelms comparisons. It recommends replacing tests of saving with intuition because evidence cannot discriminate among accounts, especially regarding member.
+   D. The passage explains roscas by linking contributions to saving, and it shows why members changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats contributions primarily as a rhetorical flourish and suggests that debates over saving are largely stylistic, not empirical. As a result, predictions about roscas are portrayed as optional rather than as a core requirement.
+   B. A persuasive account can safely average away differences in members, because variation there functions mainly as random measurement noise. On this view, a single strong instance of contributions is enough to validate saving for roscas.
+   C. The passage implies that members mattered mostly for early studies, whereas modern work makes contributions effectively self-interpreting. This would mean that tests of saving no longer need cross-case comparisons to explain roscas, for the main claim of the text, given the evidence cited.
+   D. A persuasive account would predict how roscas should change if members is altered, instead of assuming that contributions has a single meaning. This implies that models tied to saving must be tested across comparable cases rather than in one favorable setting.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Because the pot is large relative to any single contribution, the timing of receipt matters as much as the total amount.
-   A. [B]
-   B. [A]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of saving as a factor influencing contributions, as the discussion implies.
+   B. discussion of members as a factor influencing contributions
+   C. discussion of roscas as a factor influencing contributions
+   D. discussion of allometric scaling as a factor influencing contributions
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: A member who receives the pot early is effectively receiving an interest-free loan repaid through later contributions; a member who receives late is effectively saving, depositing contributions until the payout.
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding members, especially regarding credit.
+   B. A member who receives the pot early is effectively receiving an interest-free loan repaid through later contributions. It reverses the opposite claim while removing extra detail.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, as framed by the author.
+   D. A member who receives the pot early is effectively receiving an interest-free loan repaid through later contributions. It keeps the main claim while removing extra detail.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of saving guarantees the correct mechanism, so remaining differences in members are merely stylistic noise.
+   B. Because once contributions fits one dataset, replication becomes redundant, and members can be ignored without changing conclusions about roscas.
+   C. Because contributions directly measures causes, confounding cannot occur, and cross-case checks add little to understanding roscas.
+   D. Because comparability prevents saving from being treated as self-evident and forces tests that hold members constant while examining contributions.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | contributions | Can vary across settings |
+   | Confounder | members | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It proves saving is unique in every case, so generalization is automatic
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that roscas should be read alongside members, because contributions alone does not settle what saving means.
+   A. [A]
+   B. [B]
    C. [C]
    D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This is why ROSCAs can operate with minimal paperwork.
+   A. the preceding claim about how contributions is interpreted in relation to saving
+   B. the preceding claim that contributions is included only for rhetorical style, not analysis
+   C. the preceding claim that roscas functions as a direct measurement of saving
+   D. the preceding claim that members alone explains the outcome of roscas
 
-4. [Inference] What can be inferred about why ROSCAs may struggle in highly anonymous urban environments?
-   A. If participants lack overlapping social ties, reputational enforcement becomes weaker. This would occur only when enforcement dominates.
-   B. If insurance lack overlapping social ties, reputational enforcement becomes weaker. That would make risks the primary constraint.
-   C. If participants lack overlapping social ties, reputational enforcement becomes weaker. That would make savings the primary constraint.
-   D. If participants lack overlapping social ties, reputational enforcement becomes weaker.
-
-
-5. [Negative Factual] All of the following ROSCA variations are mentioned EXCEPT:
-   A. lottery-based or negotiated payout order in this discussion.
-   B. measuring pulse arrival times to detect gravitational waves.
-   C. bidding for the pot by accepting a smaller payout.
-   D. requiring guarantors for new members in this discussion.
-
-
-6. [Rhetorical Purpose] Why does the author describe ROSCAs as relying on different “enforcement technologies”?
-   A. To emphasize that social pressure and reputation can solely substitute for formal legal enforcement mechanisms. This would require groups to be the limiting factor.
-   B. To emphasize that social pressure and reputation must substitute for formal legal enforcement mechanisms. This outcome would hold even if people stays constant.
-   C. To emphasize that social pressure and reputation can substitute for formal legal enforcement others. That would make others the primary constraint.
-   D. To emphasize that social pressure and reputation can substitute for formal legal enforcement mechanisms.
-
-
-7. [Reference] In the passage, “this strength” refers to:
-   A. the visibility of contributions and reputational pressure created by regular meetings. This outcome would hold even if groups stays constant.
-   B. the visibility of contributions and reputational pressure created by regular meetings.
-   C. the visibility of savings and reputational pressure created by regular meetings. This would require interest-free to be the limiting factor.
-   D. the visibility of contributions and reputational pressure created by regular meetings. This outcome would hold even if interest-free stays constant.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces the problem of limited bank access, explains the basic ROSCA mechanism, discusses enforcement through social ties, surveys variations and psychological benefits, and ends with risks and broader implications. This would occur only when reputation dominates.
-   B. It introduces the problem of limited bank access, explains the basic ROSCA mechanism, discusses enforcement through social ties, surveys variations and psychological benefits, and ends with participants and broader implications. This would occur only when communities dominates.
-   C. It introduces the problem of limited bank access, explains the basic ROSCA mechanism, discusses enforcement through social ties, surveys variations and psychological benefits, and ends with risks and broader implications. That would make communities the primary constraint.
-   D. It introduces the problem of limited bank access, explains the basic ROSCA mechanism, discusses enforcement through social ties, surveys variations and psychological benefits, and ends with risks and broader implications.
-
-
-9. [Paraphrase] Which option best restates the claim that a ROSCA can act as both saving and credit?
-   A. Receiving the pot early functions like borrowing repaid later, whereas receiving late resembles accumulating savings before a payout. This would occur only when participants dominates.
-   B. Receiving the pot early functions like borrowing repaid later, whereas receiving late resembles accumulating savings before a payout.
-   C. Receiving the pot early functions like borrowing repaid earlier, whereas receiving late resembles accumulating savings before a payout. This outcome would hold even if groups stays constant.
-   D. Receiving the pot early functions like borrowing repaid later, whereas receiving late resembles accumulating insurance before a payout. This would occur only when enforcement dominates.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains ROSCAs as community-based rotating funds in which members contribute regularly and take turns receiving a lump sum, showing how visibility and risks enforce payments, how different payout rules adapt the mechanism to needs, and how ROSCAs provide commitment and credit while remaining vulnerable to default and shared economic shocks. That would make others the primary constraint.
-   B. The passage explains ROSCAs as community-based rotating funds in which members contribute regularly and take turns receiving a lump sum, showing how visibility and reputation enforce payments, how different payout rules adapt the mechanism to needs, and how ROSCAs provide commitment and credit while remaining vulnerable to default and shared economic shocks. This would occur only when people dominates.
-   C. The passage explains ROSCAs as community-based rotating funds in which members contribute regularly and take turns receiving a lump sum, showing how visibility and reputation enforce payments, how different payout rules adapt the mechanism to needs, and how ROSCAs provide commitment and credit while remaining vulnerable to default and shared economic shocks. This would require groups to be the limiting factor.
-   D. The passage explains ROSCAs as community-based rotating funds in which members contribute regularly and take turns receiving a lump sum, showing how visibility and reputation enforce payments, how different payout rules adapt the mechanism to needs, and how ROSCAs provide commitment and credit while remaining vulnerable to default and shared economic shocks.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of contributions and saving should be abandoned altogether.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of contributions lead to different conclusions about roscas.
+   C. to show that the term roscas belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding members.
+   D. to claim that one interpretation uniquely diagnoses saving, so debate over contributions is unnecessary noise, in the examples provided.
 
 
 Answer Key
 ----------
-1: D
-2: A
-3: B
+1: A
+2: D
+3: D
 4: D
-5: B
+5: D
 6: D
-7: B
-8: D
-9: B
-10: D
+7: D
+8: B
+9: A
+10: B

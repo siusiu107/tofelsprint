@@ -59,86 +59,87 @@ choose the right memory under pressure.
 
 Questions
 ---------
-1. [Factual] According to the passage, why can massed practice feel productive while producing little durable memory?
-   A. Because retrieval is often too easy and adds little new strengthening. This would require students to be the limiting factor.
-   B. Because retrieval is often too easy and adds little new strengthening.
-   C. even though retrieval is often too easy and adds little new strengthening. This outcome would hold even if strengthens stays constant.
-   D. Because retrieval is often too easy and adds little new strengthening by tying the effect to psychology.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: The effect is robust across ages and materials, but it is not magic.
+   A. strong and reliable, as used to describe how the claim holds across learner
+   B. finished and beyond revision, which would rule out further evaluation of learner
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. sensitive and easily disrupted, despite references to memory and spacing
 
-2. [Vocabulary] The word “durable” in the passage is closest in meaning to:
-   A. secret in sense
-   B. expensive in sense
-   C. long-lasting in sense
-   D. fragile in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys retrieval but treats the discussion mainly as a narrative about who proposed spacing first, with memory serving as anecdotal color. It therefore treats learner as a historical footnote rather than as something that shapes interpretation, for the main claim of the text.
+   B. The passage explains retrieval by linking memory to spacing, and it shows why learner changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage presents spacing as a uniquely identifying mechanism and claims that once memory is observed, competing explanations for retrieval collapse. It treats learner as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage concedes that memory is often incomplete and concludes that retrieval cannot be studied in any meaningful way, since learner overwhelms comparisons. It recommends replacing tests of spacing with intuition because evidence cannot discriminate among accounts.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how retrieval should change if learner is altered, instead of assuming that memory has a single meaning. This implies that models tied to spacing must be tested across comparable cases rather than in one favorable setting.
+   B. A persuasive account can safely average away differences in learner, because variation there functions mainly as random measurement noise. On this view, a single strong instance of memory is enough to validate spacing for retrieval.
+   C. The passage implies that learner mattered mostly for early studies, whereas modern work makes memory effectively self-interpreting. This would mean that tests of spacing no longer need cross-case comparisons to explain retrieval, especially regarding spacing.
+   D. The passage treats memory primarily as a rhetorical flourish and suggests that debates over spacing are largely stylistic, not empirical. As a result, predictions about retrieval are portrayed as optional rather than as a core requirement, especially regarding learning, under the stated assumptions.
 
-3. [Inference] What can be inferred from the passage about spacing intervals that are too long?
-   A. They may amplify benefits if retrieval fails too often. This would require information to be the limiting factor.
-   B. They may solely reduce benefits if retrieval fails too often. That would make difficult the primary constraint.
-   C. They may reduce benefits if retrieval fails too often by tying the effect to practice. That would make information the primary constraint.
-   D. They may reduce benefits if retrieval fails too often.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of learner as a factor influencing memory
+   B. discussion of spacing as a factor influencing memory, as framed by the author.
+   C. discussion of stress corrosion cracking as a factor influencing memory
+   D. discussion of retrieval as a factor influencing memory
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: When a learner retrieves an answer incorrectly and then immediately sees the correct one, the correction can become tightly linked to the moment of struggle, reducing the chance that the same error will recur.
+   A. When a learner retrieves an answer incorrectly and then immediately sees the correct one. It reverses the opposite claim while removing extra detail.
+   B. When a learner retrieves an answer incorrectly and then immediately sees the correct one. It keeps the main claim while removing extra detail.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding learner, especially regarding learner.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: For instance, a term learned after a lecture may later be linked to an everyday conversation that uses the same concept.
-   A. [D]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents spacing from being treated as self-evident and forces tests that hold learner constant while examining memory.
+   B. Because once memory fits one dataset, replication becomes redundant, and learner can be ignored without changing conclusions about retrieval.
+   C. Because the presence of spacing guarantees the correct mechanism, so remaining differences in learner are merely stylistic noise.
+   D. Because memory directly measures causes, confounding cannot occur, and cross-case checks add little to understanding retrieval.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | memory | Can vary across settings |
+   | Confounder | learner | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It proves spacing is unique in every case, so generalization is automatic
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It co-varies with the driver of interest, which makes isolation difficult
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that retrieval should be read alongside learner, because memory alone does not settle what spacing means.
+   A. [A]
    B. [B]
    C. [C]
-   D. [A]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This contrast is captured by the spacing effect: learning events separated in time are remembered better than the same events massed together.
+   A. the preceding claim that learner alone explains the outcome of retrieval
+   B. the preceding claim that memory is included only for rhetorical style, not analysis
+   C. the preceding claim about how memory is interpreted in relation to spacing
+   D. the preceding claim that retrieval functions as a direct measurement of spacing
 
-5. [Rhetorical Purpose] Why does the author describe spacing as a “design problem”?
-   A. To emphasize that intervals should be chosen to balance effort and successful retrieval depending on the time horizon. This outcome would hold even if difficult stays constant.
-   B. To emphasize that intervals should be chosen to balance effort and successful retrieval depending on the time horizon.
-   C. To emphasize that intervals should be chosen to balance effort and successful retrieval depending on the time horizon by tying the effect to mechanism.
-   D. To emphasize that intervals should be chosen to balance effort and successful retrieval depending on the time horizon. That would make students the primary constraint.
-
-
-6. [Negative Factual] All of the following are presented as mechanisms for spacing benefits EXCEPT:
-   A. a chemical reaction that permanently prevents forgetting after one reading.
-   B. effortful reconstruction during retrieval in this discussion.
-   C. variation in contextual cues across sessions in this discussion.
-   D. opportunities to repair and update memories in this discussion.
-
-
-7. [Reference] In the sentence “That effort is not a punishment,” the word “effort” refers to:
-   A. the act of reconstructing information after partial forgetting.
-   B. the act of reconstructing practice after partial forgetting. This outcome would hold even if difficult stays constant.
-   C. the act of reconstructing information after partial forgetting. That would make mechanism the primary constraint.
-   D. the act of reconstructing information after partial forgetting. This would occur only when memory dominates.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces a phenomenon, then presents multiple mechanisms, and ends by drawing practical implications for choosing intervals by tying the effect to explanation.
-   B. It introduces a phenomenon, then presents multiple mechanisms, and ends by drawing practical implications for choosing intervals. This outcome would hold even if memory stays constant.
-   C. It introduces a phenomenon, then presents multiple mechanisms, and ends by drawing practical implications for choosing intervals. This outcome would hold even if explanation stays constant.
-   D. It introduces a phenomenon, then presents multiple mechanisms, and ends by drawing practical implications for choosing intervals.
-
-
-9. [Paraphrase] Which option best restates the idea that spacing “diversifies access”?
-   A. Different contexts create multiple cues that can solely later help retrieve the same information. That would make mechanism the primary constraint.
-   B. Different contexts create multiple cues that can later help retrieve the same information.
-   C. Different contexts create multiple cues that can earlier help retrieve the same information. This would require explanation to be the limiting factor.
-   D. Different contexts create multiple cues that can later help retrieve the same students. This would occur only when practice dominates.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains the spacing effect by describing effortful retrieval, context variation, and memory updating, and argues that effective intervals depend on the learner’s time horizon for recall. This would require practice to be the limiting factor.
-   B. The passage explains the spacing effect by describing effortful retrieval, context variation, and memory updating, and argues that effective intervals depend on the learner’s time horizon for recall.
-   C. The passage explains the spacing effect by describing effortful retrieval, context variation, and memory updating, and argues that effective intervals depend on the learner’s time horizon for recall. This would require memory to be the limiting factor.
-   D. The passage explains the spacing effect by describing effortful retrieval, context variation, and strengthens updating, and argues that effective intervals depend on the learner’s time horizon for recall. This would require difficult to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term retrieval belongs to an unrelated field and is therefore outside the passage’s scope.
+   B. to claim that one interpretation uniquely diagnoses spacing, so debate over memory is unnecessary noise, for the phenomenon at issue.
+   C. to argue that assumptions always distort evidence, so analysis of memory and spacing should be abandoned altogether.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of memory lead to different conclusions about retrieval.
 
 
 Answer Key
 ----------
-1: B
-2: C
-3: D
-4: D
+1: A
+2: B
+3: A
+4: C
 5: B
 6: A
 7: A
-8: D
-9: B
-10: B
+8: C
+9: C
+10: D

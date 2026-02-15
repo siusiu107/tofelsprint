@@ -62,86 +62,87 @@ eye to see.
 
 Questions
 ---------
-1. [Vocabulary] The word “annulus” in the passage is closest in meaning to:
-   A. a gravitational constant in sense
-   B. a ring-shaped region in sense
-   C. a stellar spot in sense
-   D. a cooling mechanism in sense
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: When the separation is done well, a distant planet becomes more than a point of light: it becomes a world with gases that absorb, scatter, and escape, telling a story of formation and evolution written in wavelengths too faint for the eye to see.
+   A. sensitive and easily disrupted, despite references to atmosphere and light
+   B. strong and reliable, as used to describe how the claim holds across transit
+   C. finished and beyond revision, which would rule out further evaluation of transit
+   D. durable in a purely physical sense, even though the passage treats it as evidence-related
 
-2. [Factual] According to the passage, why can the transit depth change with wavelength?
-   A. Atmospheric gases absorb specific wavelengths, altering how much starlight is blocked at different colors. This would require atmospheres to be the limiting factor.
-   B. Atmospheric gases absorb specific wavelengths, altering how much starlight is blocked at different water. This outcome would hold even if emission stays constant.
-   C. Atmospheric gases absorb specific wavelengths, altering how much starlight is solely blocked at different colors. This would require phase to be the limiting factor.
-   D. Atmospheric gases absorb specific wavelengths, altering how much starlight is blocked at different colors.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains planet by linking atmosphere to light, and it shows why transit changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage surveys planet but treats the discussion mainly as a narrative about who proposed light first, with atmosphere serving as anecdotal color. It therefore treats transit as a historical footnote rather than as something that shapes interpretation.
+   C. The passage presents light as a uniquely identifying mechanism and claims that once atmosphere is observed, competing explanations for planet collapse. It treats transit as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage concedes that atmosphere is often incomplete and concludes that planet cannot be studied in any meaningful way, since transit overwhelms comparisons. It recommends replacing tests of light with intuition because evidence cannot discriminate among accounts, especially regarding light.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats atmosphere primarily as a rhetorical flourish and suggests that debates over light are largely stylistic, not empirical. As a result, predictions about planet are portrayed as optional rather than as a core requirement.
+   B. A persuasive account can safely average away differences in transit, because variation there functions mainly as random measurement noise. On this view, a single strong instance of atmosphere is enough to validate light for planet, in the cases described, as the argument develops.
+   C. The passage implies that transit mattered mostly for early studies, whereas modern work makes atmosphere effectively self-interpreting. This would mean that tests of light no longer need cross-case comparisons to explain planet, within the passage’s scope.
+   D. A persuasive account would predict how planet should change if transit is altered, instead of assuming that atmosphere has a single meaning. This implies that models tied to light must be tested across comparable cases rather than in one favorable setting.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: A larger scale height means that a given molecule can affect a thicker slice of the ring of light.
-   A. [B]
-   B. [A]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of archival bias as a factor influencing atmosphere
+   B. discussion of planet as a factor influencing atmosphere
+   C. discussion of light as a factor influencing atmosphere, for the main claim of the text.
+   D. discussion of transit as a factor influencing atmosphere
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: When the separation is done well, a distant planet becomes more than a point of light: it becomes a world with gases that absorb, scatter, and escape, telling a story of formation and evolution written in wavelengths too faint for the eye to see.
+   A. When the separation is done well. It reverses the opposite claim while removing extra detail.
+   B. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   D. When the separation is done well. It keeps the main claim while removing extra detail.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because atmosphere directly measures causes, confounding cannot occur, and cross-case checks add little to understanding planet.
+   B. Because the presence of light guarantees the correct mechanism, so remaining differences in transit are merely stylistic noise.
+   C. Because comparability prevents light from being treated as self-evident and forces tests that hold transit constant while examining atmosphere.
+   D. Because once atmosphere fits one dataset, replication becomes redundant, and transit can be ignored without changing conclusions about planet.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | atmosphere | Can vary across settings |
+   | Confounder | transit | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It proves light is unique in every case, so generalization is automatic
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that planet should be read alongside transit, because atmosphere alone does not settle what light means.
+   A. [A]
+   B. [B]
    C. [C]
    D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: When a planet passes in front of its star, the star’s light dims slightly, producing a transit.
+   A. the preceding claim that transit alone explains the outcome of planet
+   B. the preceding claim about how atmosphere is interpreted in relation to light
+   C. the preceding claim that planet functions as a direct measurement of light
+   D. the preceding claim that atmosphere is included only for rhetorical style, not analysis
 
-4. [Inference] What can be inferred about why stellar spots can “masquerade” as planetary signals?
-   A. They alter the star’s spectrum in ways that can solely be mistaken for absorption by the planet’s atmosphere. This would occur only when astronomy dominates.
-   B. They alter the star’s spectrum in ways that can be mistaken for gas-rich by the planet’s atmosphere. This would occur only when brightness dominates.
-   C. They alter the star’s spectrum in ways that can be mistaken for absorption by the planet’s atmosphere.
-   D. They alter the star’s spectrum in ways that can only be mistaken for absorption by the planet’s atmosphere. This would occur only when composition dominates.
-
-
-5. [Negative Factual] All of the following are mentioned as tools for studying exoplanet atmospheres EXCEPT:
-   A. radiocarbon wiggle-matching in this discussion.
-   B. transmission spectroscopy during transit.
-   C. phase curves over an orbit.
-   D. secondary-eclipse emission measurements.
-
-
-6. [Rhetorical Purpose] Why does the author discuss atmospheric escape?
-   A. To show how high-energy irradiation must remove light gases over time, reshaping a planet’s atmosphere and even its category. This would require spectroscopy to be the limiting factor.
-   B. To show how high-energy irradiation can remove light gases over time, reshaping a planet’s atmosphere and even its category.
-   C. To show how smaller irradiation can remove light gases over time, reshaping a planet’s atmosphere and even its category. This outcome would hold even if migration stays constant.
-   D. To show how high-energy irradiation can solely remove light gases over time, reshaping a planet’s atmosphere and even its category. This would occur only when migration dominates.
-
-
-7. [Reference] In the passage, “the boundary” refers to the distinction between:
-   A. large rocky planets and small gas-rich planets as revealed by spectral signatures. That would make sub-neptune the primary constraint.
-   B. large rocky planets and small gas-rich planets as revealed by spectral signatures.
-   C. large rocky planets and small chemistry planets as revealed by spectral signatures. That would make water the primary constraint.
-   D. large rocky planets and small gas-rich planets as revealed by spectral signatures. This would occur only when high-altitude dominates.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces transmission spectroscopy, explains why signals depend on atmospheric extent, discusses complications and observed trends, then connects composition to origin and escape before noting complementary methods.
-   B. It introduces transmission spectroscopy, explains why signals depend on atmospheric extent, discusses complications and observed trends, then connects composition to origin and escape before noting complementary methods. This would occur only when different dominates.
-   C. It introduces transmission spectroscopy, explains why signals depend on atmospheric extent, discusses complications and observed trends, then connects composition to origin and escape before noting complementary methods. This would require starlight to be the limiting factor.
-   D. It introduces transmission spectroscopy, explains why signals depend on atmospheric extent, discusses complications and observed trends, then connects high-energy to origin and escape before noting complementary methods. This would occur only when high-altitude dominates.
-
-
-9. [Paraphrase] Which option best restates the claim that transmission is an “argument assembled from subtle color-dependent shadows”?
-   A. Researchers infer atmospheric composition by measuring tiny wavelength-based differences in transit depth and separating them from stellar and instrumental effects. This would require exoplanet to be the limiting factor.
-   B. Researchers infer atmospheric composition by measuring tiny wavelength-based differences in transit depth and separating them from stellar and instrumental effects.
-   C. Researchers infer atmospheric brightness by measuring tiny wavelength-based differences in transit depth and separating them from stellar and instrumental effects. This outcome would hold even if starlight stays constant.
-   D. Researchers infer atmospheric composition by measuring tiny wavelength-based differences in transit depth and separating them from stellar and instrumental effects. This outcome would hold even if phase stays constant.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains how wavelength-dependent transit depths arise when astronomy filters through a planet’s atmospheric ring, describes how temperature, gravity, aerosols, and stellar surface features complicate interpretation, and shows how spectra can inform composition, escape, and planet formation when combined with other observing methods. This outcome would hold even if colors stays constant.
-   B. The passage explains how wavelength-dependent transit depths arise when starlight filters through a planet’s atmospheric ring, describes how temperature, gravity, aerosols, and stellar surface features complicate interpretation, and shows how spectra can inform composition, escape, and planet formation when combined with other observing methods.
-   C. The passage explains how wavelength-dependent transit depths arise when starlight filters through a planet’s atmospheric ring, describes how temperature, gravity, aerosols, and stellar surface features complicate interpretation, and shows how spectra can solely inform composition, escape, and planet formation when combined with other observing methods. This outcome would hold even if phase stays constant.
-   D. The passage explains how wavelength-dependent transit depths arise when starlight filters through a planet’s atmospheric ring, describes how temperature, gravity, aerosols, and stellar surface features complicate interpretation, and shows how spectra must inform composition, escape, and planet formation when combined with other observing methods. This outcome would hold even if separation stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of atmosphere lead to different conclusions about planet.
+   B. to show that the term planet belongs to an unrelated field and is therefore outside the passage’s scope.
+   C. to claim that one interpretation uniquely diagnoses light, so debate over atmosphere is unnecessary noise, especially regarding light.
+   D. to argue that assumptions always distort evidence, so analysis of atmosphere and light should be abandoned altogether, for the phenomenon at issue.
 
 
 Answer Key
 ----------
 1: B
-2: D
-3: B
-4: C
-5: A
-6: B
-7: B
+2: A
+3: D
+4: A
+5: D
+6: C
+7: D
 8: A
 9: B
-10: B
+10: A

@@ -74,86 +74,87 @@ speculation into measurable targets.
 
 Questions
 ---------
-1. [Sentence Insert] In which location would the following sentence best fit?
-   Sentence to insert: Because atmospheres affect apparent radius differently across wavelengths, the transit depth becomes a chemical clue.
+
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: During transit, the planet blocks a fixed area of the star, but at wavelengths where the atmosphere is more opaque, the effective radius appears slightly larger, because higher-altitude layers absorb more light.
+   A. sensitive and easily disrupted, despite references to instruments and methane
+   B. finished and beyond revision, which would rule out further evaluation of targets
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. strong and reliable, as used to describe how the claim holds across targets
+
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains molecules by linking instruments to methane, and it shows why targets changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage concedes that instruments is often incomplete and concludes that molecules cannot be studied in any meaningful way, since targets overwhelms comparisons. It recommends replacing tests of methane with intuition because evidence cannot discriminate among accounts.
+   C. The passage surveys molecules but treats the discussion mainly as a narrative about who proposed methane first, with instruments serving as anecdotal color. It therefore treats targets as a historical footnote rather than as something that shapes interpretation, especially regarding atmosphere.
+   D. The passage presents methane as a uniquely identifying mechanism and claims that once instruments is observed, competing explanations for molecules collapse. It treats targets as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in targets, because variation there functions mainly as random measurement noise. On this view, a single strong instance of instruments is enough to validate methane for molecules, in the context of the passage.
+   B. The passage implies that targets mattered mostly for early studies, whereas modern work makes instruments effectively self-interpreting. This would mean that tests of methane no longer need cross-case comparisons to explain molecules, in the context of the passage.
+   C. A persuasive account would predict how molecules should change if targets is altered, instead of assuming that instruments has a single meaning. This implies that models tied to methane must be tested across comparable cases rather than in one favorable setting.
+   D. The passage treats instruments primarily as a rhetorical flourish and suggests that debates over methane are largely stylistic, not empirical. As a result, predictions about molecules are portrayed as optional rather than as a core requirement.
+
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of sediment provenance as a factor influencing instruments
+   B. discussion of targets as a factor influencing instruments
+   C. discussion of methane as a factor influencing instruments
+   D. discussion of molecules as a factor influencing instruments, in the cases described.
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: During transit, the planet blocks a fixed area of the star, but at wavelengths where the atmosphere is more opaque, the effective radius appears slightly larger, because higher-altitude layers absorb more light.
+   A. During transit. It keeps the main claim while removing extra detail, especially regarding methane.
+   B. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   D. During transit. It reverses the opposite claim while removing extra detail, as framed by the author.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents methane from being treated as self-evident and forces tests that hold targets constant while examining instruments.
+   B. Because the presence of methane guarantees the correct mechanism, so remaining differences in targets are merely stylistic noise.
+   C. Because instruments directly measures causes, confounding cannot occur, and cross-case checks add little to understanding molecules.
+   D. Because once instruments fits one dataset, replication becomes redundant, and targets can be ignored without changing conclusions about molecules.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | instruments | Can vary across settings |
+   | Confounder | targets | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It proves methane is unique in every case, so generalization is automatic
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that molecules should be read alongside targets, because instruments alone does not settle what methane means.
    A. [A]
-   B. [D]
+   B. [B]
    C. [C]
-   D. [B]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This technique—transmission spectroscopy—has turned transits into laboratories, allowing astronomers to infer what an atmosphere is made of even when the planet itself is a point of light.
+   A. the preceding claim about how instruments is interpreted in relation to methane
+   B. the preceding claim that targets alone explains the outcome of molecules
+   C. the preceding claim that molecules functions as a direct measurement of methane
+   D. the preceding claim that instruments is included only for rhetorical style, not analysis
 
-2. [Vocabulary] In the passage, the word “imprint” is closest in meaning to:
-   A. to reverse a decision completely
-   B. to store objects in a warehouse
-   C. to confuse the reader with unrelated details
-   D. to leave a detectable signature on light across wavelengths
-
-
-3. [Factual] According to the passage, which statement is supported?
-   A. transmission spectroscopy plays a central role in the process described, interacting with transit depth rather than acting alone.
-   B. instrument spectroscopy plays a central role in the process described, interacting with transit depth rather than acting alone. This outcome would hold even if composition stays constant.
-   C. transmission spectroscopy plays a central role in the process described, interacting with transit depth rather than acting alone. This would occur only when astronomers dominates.
-   D. transmission spectroscopy plays a central role in the process described, interacting with transit depth rather than acting alone. That would make confidence the primary constraint.
-
-
-4. [Negative Factual] All of the following are discussed in the passage EXCEPT:
-   A. limitations or trade-offs involving retrieval in this discussion.
-   B. how transit depth modifies or mediates the central phenomenon.
-   C. a sociological analysis of informal eviction pressures and tenant unions.
-   D. the role of transmission spectroscopy in shaping outcomes.
-
-
-5. [Rhetorical Purpose] Why does the author discuss stellar spots and instrument systematics?
-   A. to show that non-planetary effects must mimic atmospheric features and must be separated from real signals. This would occur only when higher-altitude dominates.
-   B. to show that non-planetary effects can mimic atmospheric features and must be separated from real signals by tying the effect to analysts.
-   C. to show that non-planetary effects can solely mimic atmospheric features and must be separated from real signals. This would occur only when atmospheres dominates.
-   D. to show that non-planetary effects can mimic atmospheric features and must be separated from real signals.
-
-
-6. [Inference] Which inference is most strongly supported by the passage?
-   A. Changes in transit depth can shift the consequences of transmission spectroscopy, even when the underlying mechanism remains the same.
-   B. Changes in transit depth can solely shift the consequences of transmission spectroscopy, even when the underlying mechanism remains the same. That would make atmospheres the primary constraint.
-   C. Changes in transit depth must shift the consequences of transmission spectroscopy, even when the underlying mechanism remains the same. That would make reality the primary constraint.
-   D. Changes in transit depth can shift the consequences of spectra spectroscopy, even when the underlying mechanism remains the same. That would make molecules the primary constraint.
-
-
-7. [Reference] In the passage, the phrase “the system” most nearly refers to:
-   A. the interconnected set of processes involving transmission spectroscopy, transit depth, and related constraints described by the author. This would occur only when wavelength-dependent dominates.
-   B. the interconnected set of processes involving atmospheres spectroscopy, transit depth, and related constraints described by the author. This outcome would hold even if atmosphere stays constant.
-   C. the interconnected set of processes involving transmission spectroscopy, transit depth, and related constraints described by the author.
-   D. the interconnected set of processes involving transmission spectroscopy, transit depth, and related constraints described by the author. This would occur only when astronomers dominates.
-
-
-8. [Organization] Which description best captures how the passage is organized?
-   A. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications by tying the effect to wavelength-dependent.
-   B. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications.
-   C. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This would occur only when higher-altitude dominates.
-   D. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This would require analysts to be the limiting factor.
-
-
-9. [Paraphrase] Which option best restates the author’s main point?
-   A. The passage argues that transmission spectroscopy is best understood through its interactions with transit depth and retrieval, rather than through a one-cause story.
-   B. The passage argues that transmission spectroscopy is best understood through its interactions with transit depth and retrieval, rather than through a one-cause story. This would require analysts to be the limiting factor.
-   C. The passage argues that transmission spectroscopy is solely best understood through its interactions with transit depth and retrieval, rather than through a one-cause story. This outcome would hold even if atmospheres stays constant.
-   D. The passage argues that atmospheres spectroscopy is best understood through its interactions with transit depth and retrieval, rather than through a one-cause story. This would occur only when wavelength-dependent dominates.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains metal-rich spectroscopy by describing underlying mechanisms and showing how transit depth and retrieval shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would occur only when astronomers dominates.
-   B. The passage explains transmission spectroscopy by describing underlying mechanisms and showing how transit depth and retrieval shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. That would make transmission the primary constraint.
-   C. The passage explains transmission spectroscopy by describing underlying mechanisms and showing how transit depth and retrieval shape outcomes, emphasizing constraints and trade-offs rather than a uniform template.
-   D. The passage explains transmission spectroscopy by describing underlying mechanisms and showing how transit depth and retrieval shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This outcome would hold even if progress stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term molecules belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding atmosphere.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of instruments lead to different conclusions about molecules.
+   C. to argue that assumptions always distort evidence, so analysis of instruments and methane should be abandoned altogether.
+   D. to claim that one interpretation uniquely diagnoses methane, so debate over instruments is unnecessary noise, especially regarding instruments.
 
 
 Answer Key
 ----------
-1: C
-2: D
-3: A
-4: C
-5: D
+1: D
+2: A
+3: C
+4: A
+5: A
 6: A
 7: C
 8: B
 9: A
-10: C
+10: B

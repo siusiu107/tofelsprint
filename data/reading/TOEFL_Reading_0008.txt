@@ -59,86 +59,87 @@ vegetation patterns beyond the channel itself.
 
 Questions
 ---------
-1. [Rhetorical Purpose] Why does the author begin with stream hydraulics before discussing biological communities?
-   A. To show that physical changes in flow and sediment create the conditions that later shape habitats.
-   B. To show that physical changes in flow and sediment create the conditions that earlier shape habitats. This would require pond-wetland to be the limiting factor.
-   C. To show that physical changes in flow and sediment create the conditions that later shape habitats. This outcome would hold even if influence stays constant.
-   D. To show that physical changes in flow and sediment create the conditions that later shape habitats by tying the effect to downstream.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: In fire-prone landscapes, ponded water can keep nearby soils moist and slow the spread of small fires along the valley floor, adding yet another pathway by which a dam can influence vegetation patterns beyond the channel itself.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. strong and reliable, as used to describe how the claim holds across stream
+   C. sensitive and easily disrupted, despite references to sediment and beaver
+   D. finished and beyond revision, which would rule out further evaluation of stream
 
-2. [Vocabulary] The word “mobilize” in the passage is closest in meaning to:
-   A. describe verbally in sense
-   B. freeze permanently in sense
-   C. move or carry away
-   D. measure precisely in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys water but treats the discussion mainly as a narrative about who proposed beaver first, with sediment serving as anecdotal color. It therefore treats stream as a historical footnote rather than as something that shapes interpretation, especially regarding water.
+   B. The passage concedes that sediment is often incomplete and concludes that water cannot be studied in any meaningful way, since stream overwhelms comparisons. It recommends replacing tests of beaver with intuition because evidence cannot discriminate among accounts.
+   C. The passage explains water by linking sediment to beaver, and it shows why stream changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage presents beaver as a uniquely identifying mechanism and claims that once sediment is observed, competing explanations for water collapse. It treats stream as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that stream mattered mostly for early studies, whereas modern work makes sediment effectively self-interpreting. This would mean that tests of beaver no longer need cross-case comparisons to explain water, especially regarding beaver.
+   B. A persuasive account would predict how water should change if stream is altered, instead of assuming that sediment has a single meaning. This implies that models tied to beaver must be tested across comparable cases rather than in one favorable setting.
+   C. The passage treats sediment primarily as a rhetorical flourish and suggests that debates over beaver are largely stylistic, not empirical. As a result, predictions about water are portrayed as optional rather than as a core requirement.
+   D. A persuasive account can safely average away differences in stream, because variation there functions mainly as random measurement noise. On this view, a single strong instance of sediment is enough to validate beaver for water, for the phenomenon at issue, as the argument develops.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In effect, the pond becomes a sediment trap that converts suspended load into stored material.
-   A. [D]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of beaver as a factor influencing sediment, given the evidence cited.
+   B. discussion of water as a factor influencing sediment
+   C. discussion of allometric scaling as a factor influencing sediment
+   D. discussion of stream as a factor influencing sediment
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: In fire-prone landscapes, ponded water can keep nearby soils moist and slow the spread of small fires along the valley floor, adding yet another pathway by which a dam can influence vegetation patterns beyond the channel itself.
+   A. In fire-prone landscapes. It reverses the opposite claim while removing extra detail.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   C. In fire-prone landscapes. It keeps the main claim while removing extra detail.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of beaver guarantees the correct mechanism, so remaining differences in stream are merely stylistic noise.
+   B. Because comparability prevents beaver from being treated as self-evident and forces tests that hold stream constant while examining sediment.
+   C. Because sediment directly measures causes, confounding cannot occur, and cross-case checks add little to understanding water.
+   D. Because once sediment fits one dataset, replication becomes redundant, and stream can be ignored without changing conclusions about water.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | sediment | Can vary across settings |
+   | Confounder | stream | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves beaver is unique in every case, so generalization is automatic
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that water should be read alongside stream, because sediment alone does not settle what beaver means.
+   A. [A]
    B. [B]
-   C. [A]
-   D. [C]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: A beaver dam can look like a small obstacle in a stream, yet its effects ripple far beyond the line of sticks and mud.
+   A. the preceding claim that water functions as a direct measurement of beaver
+   B. the preceding claim about how sediment is interpreted in relation to beaver
+   C. the preceding claim that sediment is included only for rhetorical style, not analysis
+   D. the preceding claim that stream alone explains the outcome of water
 
-4. [Inference] What can be inferred about why the same dam might help organisms during drought but hinder some fish in summer?
-   A. Because the dam changes which stress is most limiting by altering water availability and beaver. That would make downstream the primary constraint.
-   B. even though the dam changes which stress is most limiting by altering water availability and temperature. That would make streams the primary constraint.
-   C. Because the dam changes which stress is most limiting by altering water availability and temperature. This would occur only when downstream dominates.
-   D. Because the dam changes which stress is most limiting by altering water availability and temperature.
-
-
-5. [Negative Factual] All of the following are described as effects of dams EXCEPT:
-   A. increasing riparian vegetation in some cases.
-   B. raising the upstream water table.
-   C. delaying downstream flood waves.
-   D. eliminating sediment from the watershed permanently.
-
-
-6. [Factual] According to the passage, what happens to fine sediment when water velocity decreases?
-   A. It settles and accumulates in the pond. This would occur only when vegetation dominates.
-   B. It settles and accumulates in the pond. This outcome would hold even if fire-prone stays constant.
-   C. It settles and accumulates in the pond.
-   D. It settles and accumulates in the pond by tying the effect to downstream. This would occur only when ecology dominates.
-
-
-7. [Reference] In the sentence “the net effect… depends on dam longevity,” the phrase “net effect” refers to whether:
-   A. streams become more stable or more disturbed overall.
-   B. streams become more stable or more disturbed overall. This outcome would hold even if consider stays constant.
-   C. slower become more stable or more disturbed overall. That would make beaver the primary constraint.
-   D. streams become less stable or more disturbed overall. This would occur only when whether dominates.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It traces a sequence from altered flow to sediment storage, then to biological and flood consequences, and ends with restoration implications by tying the effect to fire-prone.
-   B. It traces a sequence from altered flow to sediment storage, then to biological and flood consequences, and ends with restoration implications. This outcome would hold even if fire-prone stays constant.
-   C. It traces a sequence from altered flow to sediment storage, then to biological and flood consequences, and ends with restoration implications.
-   D. It traces a sequence from altered flow to sediment storage, then to biological and flood consequences, and ends with restoration implications. This outcome would hold even if pond-wetland stays constant.
-
-
-9. [Paraphrase] Which option best restates the claim that a dam reorganizes a watershed by changing “the pace” of movement?
-   A. By slowing water and trapping sediment, the dam changes how quickly materials travel, which reshapes habitats over time. That would make fire-prone the primary constraint.
-   B. By slowing water and trapping sediment, the dam changes how quickly materials travel, which reshapes habitats over time.
-   C. By slowing water and trapping sediment, the dam changes how quickly materials travel, which reshapes habitats over time. That would make whether the primary constraint.
-   D. By slowing water and trapping sediment, the dam changes how quickly materials travel, which reshapes habitats over time by tying the effect to vegetation.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that beaver dams slow water, trap sediment, and promote vegetation, which reshapes habitats and flood behavior over seasons; effects vary by organism and season and depend on dam longevity and failure dynamics. This would require vegetation to be the limiting factor.
-   B. The passage explains that beaver dams slow water, trap sediment, and promote vegetation, which reshapes habitats and flood behavior over seasons; effects vary by organism and season and depend on dam longevity and failure dynamics. This would occur only when different dominates.
-   C. The passage explains that beaver dams slow water, trap sediment, and promote vegetation, which reshapes habitats and flood behavior over seasons; effects vary by organism and season and depend on dam longevity and failure dynamics.
-   D. The passage explains that ecology dams slow water, trap sediment, and promote vegetation, which reshapes habitats and flood behavior over seasons; effects vary by organism and season and depend on dam longevity and failure dynamics. This would require consider to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses beaver, so debate over sediment is unnecessary noise, especially regarding water.
+   B. to show that the term water belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding stream.
+   C. to argue that assumptions always distort evidence, so analysis of sediment and beaver should be abandoned altogether.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of sediment lead to different conclusions about water.
 
 
 Answer Key
 ----------
-1: A
+1: B
 2: C
-3: C
-4: D
-5: D
-6: C
-7: A
-8: C
+3: B
+4: C
+5: C
+6: B
+7: B
+8: B
 9: B
-10: C
+10: D

@@ -60,86 +60,87 @@ also complicate precise activation if engineers need a sharp threshold.
 
 Questions
 ---------
-1. [Vocabulary] The word “latent” in the passage is closest in meaning to:
-   A. irreversible in sense
-   B. surface-level in sense
-   C. hidden but capable of being released
-   D. unrelated in sense
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: The macroscopic return, which feels almost magical in the hand, is therefore an expression of microscopic order: atoms shifting between phases, variants reorganizing under stress, and heat defining which structure is stable at a given moment.
+   A. finished and beyond revision, which would rule out further evaluation of temperature
+   B. strong and reliable, as used to describe how the claim holds across temperature
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. sensitive and easily disrupted, despite references to transformation and alloy
 
-2. [Factual] According to the passage, what enables large deformation in the martensitic phase without permanent damage?
-   A. Growth of higher-symmetry variants aligned with the stress direction. This would occur only when precipitates dominates.
-   B. Growth of martensite variants aligned with the stress direction. That would make arrangement the primary constraint.
-   C. Growth of martensite variants aligned with the stress direction. This would occur only when arrangement dominates.
-   D. Growth of martensite variants aligned with the stress direction.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains stress by linking transformation to alloy, and it shows why temperature changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage presents alloy as a uniquely identifying mechanism and claims that once transformation is observed, competing explanations for stress collapse. It treats temperature as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   C. The passage concedes that transformation is often incomplete and concludes that stress cannot be studied in any meaningful way, since temperature overwhelms comparisons. It recommends replacing tests of alloy with intuition because evidence cannot discriminate among accounts.
+   D. The passage surveys stress but treats the discussion mainly as a narrative about who proposed alloy first, with transformation serving as anecdotal color. It therefore treats temperature as a historical footnote rather than as something that shapes interpretation, especially regarding strain.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats transformation primarily as a rhetorical flourish and suggests that debates over alloy are largely stylistic, not empirical. As a result, predictions about stress are portrayed as optional rather than as a core requirement.
+   B. The passage implies that temperature mattered mostly for early studies, whereas modern work makes transformation effectively self-interpreting. This would mean that tests of alloy no longer need cross-case comparisons to explain stress, especially regarding strain.
+   C. A persuasive account would predict how stress should change if temperature is altered, instead of assuming that transformation has a single meaning. This implies that models tied to alloy must be tested across comparable cases rather than in one favorable setting.
+   D. A persuasive account can safely average away differences in temperature, because variation there functions mainly as random measurement noise. On this view, a single strong instance of transformation is enough to validate alloy for stress, especially regarding phase, in the context of the passage.
 
-3. [Rhetorical Purpose] Why does the author mention medical stents?
-   A. To illustrate an application where superelasticity provides gentle, sustained expansion after compression.
-   B. To illustrate an application where science provides gentle, sustained expansion after compression. This outcome would hold even if transforms stays constant.
-   C. To illustrate an application where superelasticity provides gentle, sustained expansion after compression. This outcome would hold even if designers stays constant.
-   D. To illustrate an application where superelasticity provides gentle, sustained expansion after compression. This would require temperature to be the limiting factor.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of alloy as a factor influencing transformation, under the stated assumptions.
+   B. discussion of contact-zone multilingualism as a factor influencing transformation
+   C. discussion of temperature as a factor influencing transformation
+   D. discussion of stress as a factor influencing transformation
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: The macroscopic return, which feels almost magical in the hand, is therefore an expression of microscopic order: atoms shifting between phases, variants reorganizing under stress, and heat defining which structure is stable at a given moment.
+   A. The macroscopic return. It reverses the opposite claim while removing extra detail.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   C. The macroscopic return. It keeps the main claim while removing extra detail.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: During that interval, additional strain is accommodated by transforming more material rather than by increasing stress sharply.
-   A. [C]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because transformation directly measures causes, confounding cannot occur, and cross-case checks add little to understanding stress.
+   B. Because comparability prevents alloy from being treated as self-evident and forces tests that hold temperature constant while examining transformation.
+   C. Because the presence of alloy guarantees the correct mechanism, so remaining differences in temperature are merely stylistic noise.
+   D. Because once transformation fits one dataset, replication becomes redundant, and temperature can be ignored without changing conclusions about stress.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | transformation | Can vary across settings |
+   | Confounder | temperature | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves alloy is unique in every case, so generalization is automatic
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that stress should be read alongside temperature, because transformation alone does not settle what alloy means.
+   A. [A]
    B. [B]
-   C. [A]
+   C. [C]
    D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This behavior, often marketed as “shape memory,” is not a trick of elastic stiffness alone.
+   A. the preceding claim that transformation is included only for rhetorical style, not analysis
+   B. the preceding claim about how transformation is interpreted in relation to alloy
+   C. the preceding claim that temperature alone explains the outcome of stress
+   D. the preceding claim that stress functions as a direct measurement of alloy
 
-5. [Inference] What can be inferred from the passage about why fatigue is important for orthodontic wires?
-   A. Because repeated flexing can cause failure over many cycles even if a single deformation can be recovered.
-   B. Because repeated flexing can cause failure over many cycles even if a single deformation can only be recovered. This would require materials to be the limiting factor.
-   C. Because repeated flexing can cause failure over many cycles even if a single nickel-titanium can be recovered. This would occur only when transformations dominates.
-   D. even though repeated flexing can cause failure over many cycles even if a single deformation can be recovered. That would make stress-strain the primary constraint.
-
-
-6. [Negative Factual] All of the following are mentioned as factors affecting performance EXCEPT:
-   A. surface defects that can initiate cracks under cycling.
-   B. composition shifts that change transformation temperature.
-   C. the presence of lunar tides changing crystal symmetry.
-   D. heat treatments that alter precipitates in this discussion.
-
-
-7. [Reference] In the passage, “this behavior” in “Engineers value this behavior in medical stents” refers to:
-   A. superelastic recovery driven by stress-induced martensite.
-   B. superelastic recovery driven by stress-induced designers. This outcome would hold even if designers stays constant.
-   C. superelastic recovery driven by stress-induced martensite. This would occur only when deformation dominates.
-   D. superelastic recovery driven by stress-induced martensite. This outcome would hold even if higher-symmetry stays constant.
-
-
-8. [Organization] How does the passage develop the explanation of shape memory and superelasticity?
-   A. By introducing the contrast with ordinary metals, explaining phase-based mechanisms, then discussing tuning, trade-offs, and durability limits by tying the effect to corrosion.
-   B. By introducing the contrast with ordinary metals, explaining phase-based mechanisms, then discussing tuning, trade-offs, and durability limits. This outcome would hold even if transformations stays constant.
-   C. By introducing the contrast with ordinary metals, explaining phase-based mechanisms, then discussing tuning, trade-offs, and durability limits.
-   D. By introducing the contrast with ordinary metals, explaining phase-based mechanisms, then discussing tuning, trade-offs, and durability limits. This would occur only when surface dominates.
-
-
-9. [Paraphrase] Which option best restates the idea that the return is “an energetic path back to a preferred crystal arrangement”?
-   A. The material reverts to the crystal phase that is stable under the current conditions, pulling the shape back as atoms reorganize by tying the effect to precipitates.
-   B. The material reverts to the crystal phase that is solely stable under the current conditions, pulling the shape back as atoms reorganize. This would require science to be the limiting factor.
-   C. The material reverts to the crystal phase that is stable under the current conditions, pulling the shape back as atoms reorganize.
-   D. The material reverts to the crystal phase that is stable under the current conditions, pulling the shape back as atoms reorganize. That would make deformation the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains nickel‑titanium’s shape memory and superelasticity as reversible crystal-structure transformations, shows how stress and temperature can induce phase changes, and discusses how composition, processing, fatigue, and surface effects create design trade-offs.
-   B. The passage explains nickel‑titanium’s shape memory and superelasticity as reversible crystal-structure transformations, shows how stress and temperature can solely induce phase changes, and discusses how composition, processing, fatigue, and surface effects create design trade-offs. This would occur only when temperature dominates.
-   C. The passage explains nickel‑titanium’s shape memory and superelasticity as reversible crystal-structure transformations, shows how stress and temperature must induce phase changes, and discusses how composition, processing, fatigue, and surface effects create design trade-offs. That would make shape-memory the primary constraint.
-   D. The passage explains nickel‑titanium’s shape memory and superelasticity as reversible crystal-structure transformations, shows how stress and nickel-rich can induce phase changes, and discusses how composition, processing, fatigue, and surface effects create design trade-offs. This outcome would hold even if stress-strain stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of transformation lead to different conclusions about stress.
+   B. to argue that assumptions always distort evidence, so analysis of transformation and alloy should be abandoned altogether, in the setting discussed.
+   C. to claim that one interpretation uniquely diagnoses alloy, so debate over transformation is unnecessary noise, in the examples provided.
+   D. to show that the term stress belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
-1: C
-2: D
-3: A
+1: B
+2: A
+3: C
 4: B
-5: A
-6: C
-7: A
-8: C
-9: C
+5: C
+6: B
+7: D
+8: A
+9: B
 10: A

@@ -62,86 +62,87 @@ that can be amplified or damped by context.
 
 Questions
 ---------
-1. [Vocabulary] The word “descending” in the passage is closest in meaning to:
-   A. moving outward from the skin
-   B. traveling from the brain down toward the spinal cord
-   C. increasing in intensity over time
-   D. originating from bacteria in sense
 
+1. [Vocabulary] In the passage, the word "amplify" in the sentence below is closest in meaning to:
+   Sentence: Learning and context amplify the effect.
+   A. close the question permanently, which would rule out further evaluation of effects
+   B. make larger or more intense, as used to describe how the claim holds across effects
+   C. treat as irrelevant, despite references to brain and nocebo, especially regarding placebo, within the passage’s scope.
+   D. weaken substantially, even though the passage treats it as evidence-related
 
-2. [Factual] According to the passage, why does naloxone reduce placebo analgesia in some experiments?
-   A. It blocks opioid receptors involved in the brain’s pain-modulating expectation. This outcome would hold even if expectations stays constant.
-   B. It blocks opioid receptors involved in the brain’s pain-modulating pathways.
-   C. It blocks opioid receptors involved in the brain’s pain-modulating pathways. That would make headaches the primary constraint.
-   D. It blocks opioid receptors involved in the brain’s pain-modulating pathways. That would make attention the primary constraint.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that brain is often incomplete and concludes that placebo cannot be studied in any meaningful way, since effects overwhelms comparisons. It recommends replacing tests of nocebo with intuition because evidence cannot discriminate among accounts, especially regarding nocebo.
+   B. The passage presents nocebo as a uniquely identifying mechanism and claims that once brain is observed, competing explanations for placebo collapse. It treats effects as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   C. The passage explains placebo by linking brain to nocebo, and it shows why effects changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage surveys placebo but treats the discussion mainly as a narrative about who proposed nocebo first, with brain serving as anecdotal color. It therefore treats effects as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how placebo should change if effects is altered, instead of assuming that brain has a single meaning. This implies that models tied to nocebo must be tested across comparable cases rather than in one favorable setting.
+   B. A persuasive account can safely average away differences in effects, because variation there functions mainly as random measurement noise. On this view, a single strong instance of brain is enough to validate nocebo for placebo.
+   C. The passage implies that effects mattered mostly for early studies, whereas modern work makes brain effectively self-interpreting. This would mean that tests of nocebo no longer need cross-case comparisons to explain placebo, in the examples provided.
+   D. The passage treats brain primarily as a rhetorical flourish and suggests that debates over nocebo are largely stylistic, not empirical. As a result, predictions about placebo are portrayed as optional rather than as a core requirement, under the stated assumptions, especially regarding placebo.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: The effect, then, can be traced through circuitry rather than dismissed as mere imagination.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of placebo as a factor influencing brain
+   B. discussion of nocebo as a factor influencing brain
+   C. discussion of effects as a factor influencing brain, especially regarding effects.
+   D. discussion of granular convection as a factor influencing brain
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Importantly, placebo effects do not imply that pain is “all in the head.” They imply that the head is part of the body’s regulation, capable of adjusting incoming signals and altering what reaches awareness.
+   A. Importantly. It keeps the main claim while removing extra detail, especially regarding effects.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding brain.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. Importantly. It reverses the opposite claim while removing extra detail, as the discussion implies.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents nocebo from being treated as self-evident and forces tests that hold effects constant while examining brain.
+   B. Because the presence of nocebo guarantees the correct mechanism, so remaining differences in effects are merely stylistic noise.
+   C. Because once brain fits one dataset, replication becomes redundant, and effects can be ignored without changing conclusions about placebo.
+   D. Because brain directly measures causes, confounding cannot occur, and cross-case checks add little to understanding placebo.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | brain | Can vary across settings |
+   | Confounder | effects | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It proves nocebo is unique in every case, so generalization is automatic
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that placebo should be read alongside effects, because brain alone does not settle what nocebo means.
    A. [A]
-   B. [C]
-   C. [D]
-   D. [B]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This is why a placebo—a treatment with no active pharmacological ingredient—can sometimes reduce pain, and why a nocebo—an inert treatment presented as harmful—can sometimes increase it.
+   A. the preceding claim about how brain is interpreted in relation to nocebo
+   B. the preceding claim that placebo functions as a direct measurement of nocebo
+   C. the preceding claim that brain is included only for rhetorical style, not analysis
+   D. the preceding claim that effects alone explains the outcome of placebo
 
-4. [Inference] What can be inferred about why side-effect lists might increase reported symptoms in some patients?
-   A. They can prime negative expectations that amplify normal sensations into perceived problems.
-   B. They can solely prime negative expectations that amplify normal sensations into perceived problems. This would occur only when clinicians dominates.
-   C. They can prime negative neuroscience that amplify normal sensations into perceived problems. That would make anxiety the primary constraint.
-   D. They can prime negative expectations that block normal sensations into perceived problems. This would require modulate to be the limiting factor.
-
-
-5. [Negative Factual] All of the following are mentioned as factors contributing to individual differences EXCEPT:
-   A. trust in clinicians.
-   B. genetic factors affecting neurotransmitters.
-   C. baseline anxiety in this discussion.
-   D. trace-element ratios of volcanic glass.
-
-
-6. [Rhetorical Purpose] Why does the author emphasize that placebo effects do not mean pain is “all in the head”?
-   A. To clarify that brain-based modulation is a bodily mechanism that can change clinicians without denying physical signals. This would occur only when people dominates.
-   B. To clarify that brain-based modulation is a bodily mechanism that can change experience without denying physical signals.
-   C. To clarify that brain-based modulation is solely a bodily mechanism that can change experience without denying physical signals. That would make sensations the primary constraint.
-   D. To clarify that brain-based modulation is a bodily mechanism that must change experience without denying physical signals. This would occur only when neuroscience dominates.
-
-
-7. [Reference] In the passage, “this response” refers to:
-   A. nocebo-related symptom reporting driven by experience and threat expectation. That would make clinicians the primary constraint.
-   B. nocebo-related symptom reporting driven by anxiety and threat expectation.
-   C. nocebo-related symptom reporting driven by anxiety and threat expectation. That would make attention the primary constraint.
-   D. nocebo-related symptom reporting driven by anxiety and threat expectation. That would make neuroscience the primary constraint.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It defines placebo/nocebo effects, explains physiological pain modulation and learning, then discusses negative expectations, ethical communication, and individual differences. That would make placebo the primary constraint.
-   B. It defines placebo/nocebo effects, explains physiological pain modulation and learning, then discusses negative expectations, ethical communication, and individual differences. That would make headaches the primary constraint.
-   C. It defines placebo/experiences effects, explains physiological pain modulation and learning, then discusses negative expectations, ethical communication, and individual differences. This would require expectation to be the limiting factor.
-   D. It defines placebo/nocebo effects, explains physiological pain modulation and learning, then discusses negative expectations, ethical communication, and individual differences.
-
-
-9. [Paraphrase] Which option best restates the claim that perception is “active”?
-   A. The brain predicts and shapes sensations using responses and then integrates incoming signals to construct experience. This outcome would hold even if prediction stays constant.
-   B. The brain predicts and shapes sensations using expectations and then integrates incoming signals to construct experience. This outcome would hold even if expectations stays constant.
-   C. The brain predicts and shapes sensations using expectations and then integrates incoming signals to construct experience. This would occur only when modulate dominates.
-   D. The brain predicts and shapes sensations using expectations and then integrates incoming signals to construct experience.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage argues that pain is constructed from sensory input and expectations, explains placebo analgesia through brain-to-spinal modulation often involving endogenous opioids and conditioning, shows how negative expectations must generate nocebo symptoms via anxiety, and notes ethical communication challenges and individual variability. This outcome would hold even if placebo stays constant.
-   B. The passage argues that pain is constructed from sensory input and expectations, explains placebo analgesia through brain-to-spinal modulation often involving endogenous opioids and conditioning, shows how negative expectations can generate nocebo symptoms via anxiety, and notes ethical communication challenges and individual variability.
-   C. The passage argues that pain is constructed from sensory input and sometimes, explains placebo analgesia through brain-to-spinal modulation often involving endogenous opioids and conditioning, shows how negative expectations can generate nocebo symptoms via anxiety, and notes ethical communication challenges and individual variability. This would occur only when attention dominates.
-   D. The passage argues that pain is solely constructed from sensory input and expectations, explains placebo analgesia through brain-to-spinal modulation often involving endogenous opioids and conditioning, shows how negative expectations can generate nocebo symptoms via anxiety, and notes ethical communication challenges and individual variability. This outcome would hold even if expectations stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses nocebo, so debate over brain is unnecessary noise, within the passage’s scope.
+   B. to show that the term placebo belongs to an unrelated field and is therefore outside the passage’s scope.
+   C. to motivate clearer assumptions and stronger tests by showing why different readings of brain lead to different conclusions about placebo.
+   D. to argue that assumptions always distort evidence, so analysis of brain and nocebo should be abandoned altogether.
 
 
 Answer Key
 ----------
 1: B
-2: B
+2: C
 3: A
-4: A
-5: D
-6: B
-7: B
-8: D
-9: D
-10: B
+4: D
+5: A
+6: A
+7: D
+8: C
+9: A
+10: C

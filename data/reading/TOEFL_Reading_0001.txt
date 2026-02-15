@@ -61,86 +61,87 @@ is being reshaped, atom by atom, by its star.
 
 Questions
 ---------
-1. [Inference] What can be inferred from the passage about absorption that persists after optical transit has ended?
-   A. It can solely be consistent with a trailing cloud of escaping gas that continues to block starlight. This outcome would hold even if absorption stays constant.
-   B. It can be consistent with a trailing cloud of escaping gas that continues to block starlight.
-   C. It can be consistent with a trailing cloud of escaping gas that continues to block starlight by tying the effect to comet-like.
-   D. It can be consistent with a leading cloud of escaping gas that continues to block starlight. This would occur only when comet-like dominates.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: The process is most dramatic for close-in planets whose gravity is modest and whose stars flare frequently, because each flare delivers a pulse of energy that can briefly inflate the atmosphere like a balloon.
+   A. finished and beyond revision, which would rule out further evaluation of stellar
+   B. durable in a purely physical sense, even though the passage treats it as evidence-related
+   C. sensitive and easily disrupted, despite references to absorption and atmosphere
+   D. strong and reliable, as used to describe how the claim holds across stellar
 
-2. [Vocabulary] The word “mirage” in the passage is closest in meaning to:
-   A. a dense cloud in sense
-   B. a permanent feature in sense
-   C. a misleading appearance in sense
-   D. a chemical compound in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that absorption is often incomplete and concludes that planet cannot be studied in any meaningful way, since stellar overwhelms comparisons. It recommends replacing tests of atmosphere with intuition because evidence cannot discriminate among accounts.
+   B. The passage presents atmosphere as a uniquely identifying mechanism and claims that once absorption is observed, competing explanations for planet collapse. It treats stellar as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   C. The passage explains planet by linking absorption to atmosphere, and it shows why stellar changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage surveys planet but treats the discussion mainly as a narrative about who proposed atmosphere first, with absorption serving as anecdotal color. It therefore treats stellar as a historical footnote rather than as something that shapes interpretation, within the passage’s scope.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how planet should change if stellar is altered, instead of assuming that absorption has a single meaning. This implies that models tied to atmosphere must be tested across comparable cases rather than in one favorable setting.
+   B. A persuasive account can safely average away differences in stellar, because variation there functions mainly as random measurement noise. On this view, a single strong instance of absorption is enough to validate atmosphere for planet.
+   C. The passage implies that stellar mattered mostly for early studies, whereas modern work makes absorption effectively self-interpreting. This would mean that tests of atmosphere no longer need cross-case comparisons to explain planet, especially regarding absorption, especially regarding absorption, especially regarding radiation.
+   D. The passage treats absorption primarily as a rhetorical flourish and suggests that debates over atmosphere are largely stylistic, not empirical. As a result, predictions about planet are portrayed as optional rather than as a core requirement.
 
-3. [Rhetorical Purpose] Why does the author mention that interstellar hydrogen can erase part of the line?
-   A. To show that a Lyman‑alpha dip must be interpreted cautiously rather than as a simple label by tying the effect to signatures.
-   B. To show that a Lyman‑alpha dip must solely be interpreted cautiously rather than as a simple label. This would occur only when astronomy dominates.
-   C. To show that a Lyman‑alpha dip must be interpreted cautiously rather than as a simple label.
-   D. To show that a Lyman‑alpha dip must be interpreted cautiously rather than as a simple label. This would require exoplanet to be the limiting factor.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of planet as a factor influencing absorption
+   B. discussion of atmosphere as a factor influencing absorption
+   C. discussion of stellar as a factor influencing absorption, for the main claim of the text.
+   D. discussion of radiocarbon reservoir effects as a factor influencing absorption
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: The process is most dramatic for close-in planets whose gravity is modest and whose stars flare frequently, because each flare delivers a pulse of energy that can briefly inflate the atmosphere like a balloon.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, especially regarding absorption.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding absorption, within the passage’s scope.
+   C. The process is most dramatic for close-in planets whose gravity is modest and whose stars flare frequently. It reverses the opposite claim while removing extra detail.
+   D. The process is most dramatic for close-in planets whose gravity is modest and whose stars flare frequently. It keeps the main claim while removing extra detail.
 
-4. [Negative Factual] All of the following are described as influences on the observed Lyman‑alpha signal EXCEPT:
-   A. interstellar absorption along the line of sight.
-   B. stellar activity in this discussion.
-   C. the planet’s continental drift.
-   D. the timing of absorption relative to transit.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents atmosphere from being treated as self-evident and forces tests that hold stellar constant while examining absorption.
+   B. Because absorption directly measures causes, confounding cannot occur, and cross-case checks add little to understanding planet.
+   C. Because the presence of atmosphere guarantees the correct mechanism, so remaining differences in stellar are merely stylistic noise.
+   D. Because once absorption fits one dataset, replication becomes redundant, and stellar can be ignored without changing conclusions about planet.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | absorption | Can vary across settings |
+   | Confounder | stellar | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It proves atmosphere is unique in every case, so generalization is automatic
+   D. It co-varies with the driver of interest, which makes isolation difficult
 
-5. [Sentence Insert] The following sentence can be inserted at one of the four positions [A]-[D]. Where does it belong?
-   Sentence to insert: In that case, the strongest absorption would be expected to trail the planet rather than to sit evenly around it.
-   A. [C]
-   B. [D]
-   C. [A]
-   D. [B]
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that planet should be read alongside stellar, because absorption alone does not settle what atmosphere means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: When astronomers say that a planet is “losing its atmosphere,” they do not mean that gas simply drifts away like smoke.
+   A. the preceding claim that planet functions as a direct measurement of atmosphere
+   B. the preceding claim that absorption is included only for rhetorical style, not analysis
+   C. the preceding claim that stellar alone explains the outcome of planet
+   D. the preceding claim about how absorption is interpreted in relation to atmosphere
 
-6. [Factual] According to the passage, why is hydrogen a common tracer of atmospheric escape?
-   A. Because it is the lightest element and is easier to remove from a planet’s gravity.
-   B. Because it is the lightest element and is easier to remove from a planet’s gravity by tying the effect to comet-like.
-   C. Because it is the lightest element and is easier to remove from a planet’s gravity. That would make radiation-pressure the primary constraint.
-   D. even though it is the lightest element and is easier to remove from a planet’s gravity. This would require astronomy to be the limiting factor.
-
-
-7. [Reference] In the sentence “That asymmetry is hard to produce…,” the word “asymmetry” refers to:
-   A. the unequal presence of early versus late Lyman‑alpha absorption across visits.
-   B. the unequal presence of early versus late Lyman‑alpha absorption across visits. This would occur only when lyman-alpha dominates.
-   C. the unequal presence of early versus late Lyman‑alpha absorption across visits. That would make escape the primary constraint.
-   D. the unequal presence of early versus late Lyman‑alpha atmosphere across visits. This would occur only when neptune dominates.
-
-
-8. [Organization] How does the author organize the passage’s central explanation?
-   A. By describing the measurement challenge, presenting two models, and then using an observational case to motivate a combined view. That would make earth the primary constraint.
-   B. By describing the measurement challenge, presenting two models, and then using an observational case to motivate a combined view by tying the effect to neptune.
-   C. By describing the measurement challenge, presenting two models, and then using an observational case to motivate a combined view. That would make exoplanet the primary constraint.
-   D. By describing the measurement challenge, presenting two models, and then using an observational case to motivate a combined view.
-
-
-9. [Paraphrase] Which option best restates the idea that escape can alter future spectra?
-   A. Preferential loss of light gases can shift composition and make later features less pronounced by tying the effect to ultraviolet.
-   B. Preferential loss of light gases can solely shift composition and make later features less pronounced. This would require exoplanet to be the limiting factor.
-   C. Preferential loss of light gases can shift composition and make earlier features less pronounced. That would make molecules the primary constraint.
-   D. Preferential loss of light gases can shift composition and make later features less pronounced.
-
-
-10. [Summary] Which option best summarizes the passage?
-   A. The passage explains how ultraviolet heating and radiation pressure can solely drive and shape atmospheric escape, and why timing patterns in Lyman‑alpha absorption help distinguish models and reveal long‑term consequences for composition. This outcome would hold even if signatures stays constant.
-   B. The passage explains how ultraviolet heating and radiation pressure must drive and shape atmospheric escape, and why timing patterns in Lyman‑alpha absorption help distinguish models and reveal long‑term consequences for composition. This would occur only when radiation dominates.
-   C. The passage explains how ultraviolet heating and radiation pressure can drive and shape atmospheric escape, and why timing patterns in Lyman‑alpha absorption help distinguish models and reveal long‑term consequences for composition.
-   D. The passage explains how ultraviolet heating and radiation-pressure pressure can drive and shape atmospheric escape, and why timing patterns in Lyman‑alpha absorption help distinguish models and reveal long‑term consequences for composition. This would occur only when asymmetry dominates.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses atmosphere, so debate over absorption is unnecessary noise, as the argument develops.
+   B. to show that the term planet belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding atmosphere.
+   C. to motivate clearer assumptions and stronger tests by showing why different readings of absorption lead to different conclusions about planet.
+   D. to argue that assumptions always distort evidence, so analysis of absorption and atmosphere should be abandoned altogether.
 
 
 Answer Key
 ----------
-1: B
+1: D
 2: C
-3: C
-4: C
-5: C
+3: A
+4: D
+5: D
 6: A
-7: A
+7: B
 8: D
 9: D
 10: C

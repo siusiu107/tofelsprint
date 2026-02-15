@@ -59,86 +59,87 @@ of who attacked whom—and who survived long enough to remember.
 
 Questions
 ---------
-1. [Vocabulary] The word “spacers” in the passage refers to:
-   A. captured fragments of phage DNA stored between repeated sequences
-   B. regions of RNA that encode ribosomes
-   C. chemical nutrients in bacterial cytoplasm
-   D. protein inhibitors produced by phages
 
+1. [Vocabulary] In the passage, the word "inhibit" in the sentence below is closest in meaning to:
+   Sentence: Meanwhile, phages have evolved countermeasures known as anti‑CRISPR proteins, which can inhibit Cas activity, preventing cleavage.
+   A. complete and finalize, which would rule out further evaluation of bacterium
+   B. cause and accelerate, even though the passage treats it as evidence-related, in the examples provided.
+   C. leave unaffected, despite references to phage and bacteria, especially regarding bacterium.
+   D. prevent or slow down, as used to describe how the claim holds across bacterium
 
-2. [Factual] According to the passage, how does CRISPR-Cas provide resistance to a returning phage?
-   A. RNA guides Cas proteins to matching viral sequences so the phage genome can solely be cut. That would make immune the primary constraint.
-   B. RNA guides Cas proteins to matching viral sequences so the phages genome can be cut. That would make bacteria the primary constraint.
-   C. RNA guides Cas proteins to matching viral sequences so the phage genome can be cut.
-   D. RNA guides Cas proteins to matching viral sequences so the phage genome can only be cut. This would occur only when off-target dominates.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys crispr but treats the discussion mainly as a narrative about who proposed bacteria first, with phage serving as anecdotal color. It therefore treats bacterium as a historical footnote rather than as something that shapes interpretation.
+   B. The passage explains crispr by linking phage to bacteria, and it shows why bacterium changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage concedes that phage is often incomplete and concludes that crispr cannot be studied in any meaningful way, since bacterium overwhelms comparisons. It recommends replacing tests of bacteria with intuition because evidence cannot discriminate among accounts.
+   D. The passage presents bacteria as a uniquely identifying mechanism and claims that once phage is observed, competing explanations for crispr collapse. It treats bacterium as minor noise and suggests that a single measurement is sufficient for a final conclusion, as the discussion implies.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats phage primarily as a rhetorical flourish and suggests that debates over bacteria are largely stylistic, not empirical. As a result, predictions about crispr are portrayed as optional rather than as a core requirement, especially regarding phage, under the stated assumptions.
+   B. The passage implies that bacterium mattered mostly for early studies, whereas modern work makes phage effectively self-interpreting. This would mean that tests of bacteria no longer need cross-case comparisons to explain crispr, especially regarding crispr.
+   C. A persuasive account would predict how crispr should change if bacterium is altered, instead of assuming that phage has a single meaning. This implies that models tied to bacteria must be tested across comparable cases rather than in one favorable setting.
+   D. A persuasive account can safely average away differences in bacterium, because variation there functions mainly as random measurement noise. On this view, a single strong instance of phage is enough to validate bacteria for crispr.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: The defense, in other words, is keyed to sequence identity rather than to a general alarm signal.
-   A. [C]
-   B. [A]
-   C. [D]
-   D. [B]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of bacteria as a factor influencing phage
+   B. discussion of granular convection as a factor influencing phage
+   C. discussion of crispr as a factor influencing phage, especially regarding crispr.
+   D. discussion of bacterium as a factor influencing phage
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: The same requirement for sequence matching that gives bacteria specificity can produce off-target cutting in complex genomes, and the same arms-race logic suggests why engineered systems can be undermined by mutations.
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding bacteria, in the setting discussed.
+   B. The same requirement for sequence matching that gives bacteria specificity can produce off-target cutting in complex genomes. It keeps the main claim while removing extra detail.
+   C. The same requirement for sequence matching that gives bacteria specificity can produce off-target cutting in complex genomes. It reverses the opposite claim while removing extra detail.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, especially regarding bacteria.
 
-4. [Inference] What can be inferred about why anti‑CRISPR proteins would be favored in phages?
-   A. They must disable bacterial Cas activity, allowing infection even when the host has matching spacers. This would occur only when populations dominates.
-   B. They can disable bacterial Cas activity, allowing infection even when the host has matching spacers.
-   C. They can solely disable bacterial Cas activity, allowing infection even when the host has matching spacers. That would make arms-race the primary constraint.
-   D. They can disable bacterial Cas activity, allowing immune even when the host has matching spacers. That would make structure the primary constraint.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once phage fits one dataset, replication becomes redundant, and bacterium can be ignored without changing conclusions about crispr.
+   B. Because phage directly measures causes, confounding cannot occur, and cross-case checks add little to understanding crispr.
+   C. Because comparability prevents bacteria from being treated as self-evident and forces tests that hold bacterium constant while examining phage.
+   D. Because the presence of bacteria guarantees the correct mechanism, so remaining differences in bacterium are merely stylistic noise.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | phage | Can vary across settings |
+   | Confounder | bacterium | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves bacteria is unique in every case, so generalization is automatic
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It co-varies with the driver of interest, which makes isolation difficult
 
-5. [Negative Factual] All of the following are mentioned as trade-offs or costs of CRISPR EXCEPT:
-   A. resource costs of maintaining Cas proteins.
-   B. risk of targeting the bacterium’s own DNA.
-   C. guaranteeing immunity to all viruses forever.
-   D. blocking beneficial plasmids in this discussion.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that crispr should be read alongside bacterium, because phage alone does not settle what bacteria means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: These differences matter because phages adapt.
+   A. the preceding claim about how phage is interpreted in relation to bacteria
+   B. the preceding claim that phage is included only for rhetorical style, not analysis
+   C. the preceding claim that bacterium alone explains the outcome of crispr
+   D. the preceding claim that crispr functions as a direct measurement of bacteria
 
-6. [Rhetorical Purpose] Why does the author describe laboratory cycles of bacterial and phage genotypes?
-   A. To illustrate how coevolution can maintain diversity through shifting resistance and infectivity.
-   B. To illustrate how coevolution can solely maintain diversity through shifting resistance and infectivity. This would require infection to be the limiting factor.
-   C. To illustrate how coevolution can maintain diversity through shifting laboratory and infectivity. This would require off-target to be the limiting factor.
-   D. To illustrate how coevolution must maintain diversity through shifting resistance and infectivity. This would occur only when memory dominates.
-
-
-7. [Reference] In the passage, “this escalating contest” refers to:
-   A. the back-and-forth adaptations between bacterial CRISPR defenses and phage countermeasures.
-   B. the back-and-forth adaptations between bacterial CRISPR defenses and phage countermeasures. This outcome would hold even if populations stays constant.
-   C. the back-and-forth adaptations between bacterial CRISPR defenses and arms-race countermeasures. That would make multi-protein the primary constraint.
-   D. the back-and-forth adaptations between bacterial CRISPR defenses and phage countermeasures. That would make phages the primary constraint.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces the phage-bacteria conflict, explains CRISPR memory and mechanism, then discusses diversity of systems, viral countermeasures, costs, ecological effects, and the link to genome-editing tools. This would occur only when off-target dominates.
-   B. It introduces the phage-bacteria conflict, explains CRISPR resistance and mechanism, then discusses diversity of systems, viral countermeasures, costs, ecological effects, and the link to genome-editing tools. This would occur only when bacterium dominates.
-   C. It introduces the phage-bacteria conflict, explains CRISPR memory and mechanism, then discusses diversity of systems, viral countermeasures, costs, ecological effects, and the link to genome-editing tools.
-   D. It introduces the phage-bacteria conflict, explains CRISPR memory and mechanism, then discusses diversity of systems, viral countermeasures, costs, ecological effects, and the link to genome-editing tools. This would require microbiology to be the limiting factor.
-
-
-9. [Paraphrase] Which option best restates the claim that CRISPR memory is “not permanent”?
-   A. Because phages mutate and evolve inhibitors, previously effective spacers can become less protective over time.
-   B. Because phages mutate and evolve inhibitors, previously effective spacers can become more protective over time. That would make populations the primary constraint.
-   C. Because immune mutate and evolve inhibitors, previously effective spacers can become less protective over time. This would require structure to be the limiting factor.
-   D. even though phages mutate and evolve inhibitors, previously effective spacers can become less protective over time. That would make phage the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains CRISPR‑Cas as a sequence-based bacterial immune memory built from spacers, shows how phages evolve escape mutations and anti‑CRISPR countermeasures, and discusses the costs and community-level effects of this arms race, which also informs how CRISPR behaves as a genome-editing tool. This outcome would hold even if bacteria stays constant.
-   B. The passage explains CRISPR‑Cas as a sequence-based bacterial immune memory built from spacers, shows how phages evolve escape mutations and anti‑CRISPR countermeasures, and discusses the costs and community-level effects of this arms race, which also informs how CRISPR behaves as a genome-editing tool. That would make laboratory the primary constraint.
-   C. The passage explains CRISPR‑Cas as a sequence-based bacterial populations memory built from spacers, shows how phages evolve escape mutations and anti‑CRISPR countermeasures, and discusses the costs and community-level effects of this arms race, which also informs how CRISPR behaves as a genome-editing tool. This outcome would hold even if infection stays constant.
-   D. The passage explains CRISPR‑Cas as a sequence-based bacterial immune memory built from spacers, shows how phages evolve escape mutations and anti‑CRISPR countermeasures, and discusses the costs and community-level effects of this arms race, which also informs how CRISPR behaves as a genome-editing tool.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of phage lead to different conclusions about crispr.
+   B. to show that the term crispr belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding phage.
+   C. to argue that assumptions always distort evidence, so analysis of phage and bacteria should be abandoned altogether.
+   D. to claim that one interpretation uniquely diagnoses bacteria, so debate over phage is unnecessary noise, in the cases described.
 
 
 Answer Key
 ----------
-1: A
-2: C
-3: B
+1: D
+2: B
+3: C
 4: B
-5: C
-6: A
-7: A
-8: C
+5: B
+6: C
+7: B
+8: A
 9: A
-10: D
+10: A

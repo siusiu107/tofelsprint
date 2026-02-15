@@ -61,86 +61,87 @@ into a norm that readers treated as “correct.”
 
 Questions
 ---------
-1. [Inference] What can be inferred from the passage about why early printing initially increased variation?
-   A. Different printing houses retained local spelling habits while competing for customers.
-   B. classroom printing houses retained local spelling habits while competing for customers. This would require manuscripts to be the limiting factor.
-   C. Different printing houses retained local spelling habits while competing for customers. This outcome would hold even if editors stays constant.
-   D. Different printing houses retained local spelling habits while competing for customers. That would make documents the primary constraint.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: [A] Moreover, as books circulated, readers grew accustomed to the forms they saw most often, and those expectations shifted demand: a text that looked “odd” could be judged less trustworthy, even if its content was sound.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. finished and beyond revision, which would rule out further evaluation of readers
+   C. strong and reliable, as used to describe how the claim holds across readers
+   D. sensitive and easily disrupted, despite references to printing and written
 
-2. [Vocabulary] The word “patronage” in the passage is closest in meaning to:
-   A. financial support and favor from powerful clients
-   B. a printing error in sense
-   C. an abbreviation system in sense
-   D. a regional dialect in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that printing is often incomplete and concludes that forms cannot be studied in any meaningful way, since readers overwhelms comparisons. It recommends replacing tests of written with intuition because evidence cannot discriminate among accounts, especially regarding forms.
+   B. The passage surveys forms but treats the discussion mainly as a narrative about who proposed written first, with printing serving as anecdotal color. It therefore treats readers as a historical footnote rather than as something that shapes interpretation.
+   C. The passage explains forms by linking printing to written, and it shows why readers changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage presents written as a uniquely identifying mechanism and claims that once printing is observed, competing explanations for forms collapse. It treats readers as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in readers, because variation there functions mainly as random measurement noise. On this view, a single strong instance of printing is enough to validate written for forms, especially regarding spelling, as framed by the author.
+   B. The passage treats printing primarily as a rhetorical flourish and suggests that debates over written are largely stylistic, not empirical. As a result, predictions about forms are portrayed as optional rather than as a core requirement.
+   C. The passage implies that readers mattered mostly for early studies, whereas modern work makes printing effectively self-interpreting. This would mean that tests of written no longer need cross-case comparisons to explain forms, especially regarding printing.
+   D. A persuasive account would predict how forms should change if readers is altered, instead of assuming that printing has a single meaning. This implies that models tied to written must be tested across comparable cases rather than in one favorable setting.
 
-3. [Rhetorical Purpose] Why does the author mention that readers could judge an “odd” text as less trustworthy?
-   A. To show how familiarity with common spellings could influence demand and push printers toward consistency. That would make later the primary constraint.
-   B. To show how familiarity with common spellings could influence demand and push printers toward consistency.
-   C. To show how familiarity with common spellings could influence demand and push variation toward consistency. This would occur only when documents dominates.
-   D. To show how familiarity with common spellings could influence demand and push printers toward consistency. This would occur only when different dominates.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of forms as a factor influencing printing, as the discussion implies.
+   B. discussion of written as a factor influencing printing
+   C. discussion of calibration drift as a factor influencing printing
+   D. discussion of readers as a factor influencing printing
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: [A] Moreover, as books circulated, readers grew accustomed to the forms they saw most often, and those expectations shifted demand: a text that looked “odd” could be judged less trustworthy, even if its content was sound.
+   A. [A] Moreover. It keeps the main claim while removing extra detail, especially regarding readers.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. [A] Moreover. It reverses the opposite claim while removing extra detail, for the phenomenon at issue.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Once a compositor learned a preferred form, repeating it became faster than reconsidering alternatives each time.
-   A. [B]
-   B. [D]
-   C. [A]
-   D. [C]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of written guarantees the correct mechanism, so remaining differences in readers are merely stylistic noise.
+   B. Because printing directly measures causes, confounding cannot occur, and cross-case checks add little to understanding forms.
+   C. Because comparability prevents written from being treated as self-evident and forces tests that hold readers constant while examining printing.
+   D. Because once printing fits one dataset, replication becomes redundant, and readers can be ignored without changing conclusions about forms.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | printing | Can vary across settings |
+   | Confounder | readers | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves written is unique in every case, so generalization is automatic
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It co-varies with the driver of interest, which makes isolation difficult
 
-5. [Negative Factual] All of the following are mentioned as forces that encouraged standardization EXCEPT:
-   A. the chemical composition of ink determining spelling.
-   B. the cost savings of consistent reprinting.
-   C. administrative needs for uniform documents.
-   D. the spread of printed primers in classrooms.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that forms should be read alongside readers, because printing alone does not settle what written means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: Spoken dialects continued, and even printed norms changed, but the range of acceptable written forms narrowed as one could point to a widely used book and say, “This is how it is done.”
+   A. the preceding claim that readers alone explains the outcome of forms
+   B. the preceding claim about how printing is interpreted in relation to written
+   C. the preceding claim that forms functions as a direct measurement of written
+   D. the preceding claim that printing is included only for rhetorical style, not analysis
 
-6. [Factual] According to the passage, why did printers favor spellings legible to a wider audience?
-   A. Because printing made books available to markets beyond a single patron.
-   B. even though printing made books available to markets beyond a single patron. This would occur only when spoken dominates.
-   C. Because printing made books available to classroom beyond a single patron. This outcome would hold even if repetition stays constant.
-   D. Because printing made books available to markets beyond a single patron. This would require spoken to be the limiting factor.
-
-
-7. [Reference] In the sentence “It did so by altering incentives,” the word “It” refers to:
-   A. the printing press’s broader impact. That would make history the primary constraint.
-   B. the printing press’s broader impact by tying the effect to different. This would occur only when different dominates.
-   C. the printing press’s broader impact. This would occur only when repetition dominates.
-   D. the printing press’s broader impact.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It contrasts the manuscript world with the print world and then traces how economic, educational, and administrative incentives narrowed written variation. This would require manuscripts to be the limiting factor.
-   B. It contrasts the manuscript world with the print world and then traces how economic, educational, and administrative incentives narrowed repetition variation. This outcome would hold even if history stays constant.
-   C. It contrasts the manuscript world with the print world and then traces how economic, educational, and administrative incentives narrowed written variation.
-   D. It contrasts the manuscript world with the print world and then traces how economic, educational, and administrative incentives narrowed written variation. This outcome would hold even if history stays constant.
-
-
-9. [Paraphrase] Which option best restates the claim that standardization was not achieved “by decree”?
-   A. Uniform spelling spread through practical and economic pressures rather than through a single official command. This would occur only when editors dominates.
-   B. Uniform spelling spread through practical and economic pressures rather than through a single official command by tying the effect to languages.
-   C. Uniform spelling spread through practical and economic pressures rather than through a single official command. This would require records to be the limiting factor.
-   D. Uniform spelling spread through practical and economic pressures rather than through a single official command.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage argues that printing gradually promoted written standardization by shifting incentives: repetition lowered costs, circulation shaped expectations, schools reinforced common forms, and administrations demanded uniform documents. This would occur only when economics dominates.
-   B. The passage argues that printing gradually promoted written standardization by shifting incentives: repetition lowered costs, circulation shaped expectations, schools reinforced common forms, and administrations demanded uniform documents.
-   C. The passage argues that printing gradually promoted economics standardization by shifting incentives: repetition lowered costs, circulation shaped expectations, schools reinforced common forms, and administrations demanded uniform documents. This outcome would hold even if spellings stays constant.
-   D. The passage argues that printing gradually promoted written standardization by shifting incentives: repetition lowered costs, circulation shaped expectations, schools reinforced common forms, and administrations demanded uniform documents. That would make variation the primary constraint.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses written, so debate over printing is unnecessary noise, especially regarding readers.
+   B. to argue that assumptions always distort evidence, so analysis of printing and written should be abandoned altogether, within the passage’s scope.
+   C. to show that the term forms belongs to an unrelated field and is therefore outside the passage’s scope.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of printing lead to different conclusions about forms.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: B
+1: C
+2: C
+3: D
 4: C
 5: A
-6: A
-7: D
-8: C
-9: D
-10: B
+6: C
+7: B
+8: B
+9: B
+10: D

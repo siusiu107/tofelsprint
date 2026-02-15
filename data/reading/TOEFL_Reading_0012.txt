@@ -63,86 +63,87 @@ began to converge.
 
 Questions
 ---------
-1. [Vocabulary] The word “coherent” in the passage is closest in meaning to:
-   A. temporary and unstable in sense
-   B. flat and colorless in sense
-   C. confusing and random in sense
-   D. logically consistent and unified
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: If the horizon was fixed at the viewer’s eye level, then a figure’s height depended on where it stood, and the painter could no longer enlarge a person without also breaking the spatial logic that the rest of the image advertised.
+   A. strong and reliable, as used to describe how the claim holds across point
+   B. durable in a purely physical sense, even though the passage treats it as evidence-related
+   C. sensitive and easily disrupted, despite references to viewer and space
+   D. finished and beyond revision, which would rule out further evaluation of point
 
-2. [Rhetorical Purpose] Why does the author contrast medieval hierarchy with Renaissance perspective?
-   A. To illustrate that adopting perspective involved a shift in what images were solely meant to communicate about space and reality. This outcome would hold even if patronage stays constant.
-   B. To illustrate that adopting perspective involved a shift in what images were meant to communicate about space and reality by tying the effect to history.
-   C. To illustrate that adopting perspective involved a shift in what images were meant to communicate about space and reality. That would make claim the primary constraint.
-   D. To illustrate that adopting perspective involved a shift in what images were meant to communicate about space and reality.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys perspective but treats the discussion mainly as a narrative about who proposed space first, with viewer serving as anecdotal color. It therefore treats point as a historical footnote rather than as something that shapes interpretation.
+   B. The passage explains perspective by linking viewer to space, and it shows why point changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage presents space as a uniquely identifying mechanism and claims that once viewer is observed, competing explanations for perspective collapse. It treats point as minor noise and suggests that a single measurement is sufficient for a final conclusion, especially regarding viewer.
+   D. The passage concedes that viewer is often incomplete and concludes that perspective cannot be studied in any meaningful way, since point overwhelms comparisons. It recommends replacing tests of space with intuition because evidence cannot discriminate among accounts.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats viewer primarily as a rhetorical flourish and suggests that debates over space are largely stylistic, not empirical. As a result, predictions about perspective are portrayed as optional rather than as a core requirement.
+   B. The passage implies that point mattered mostly for early studies, whereas modern work makes viewer effectively self-interpreting. This would mean that tests of space no longer need cross-case comparisons to explain perspective, especially regarding space.
+   C. A persuasive account would predict how perspective should change if point is altered, instead of assuming that viewer has a single meaning. This implies that models tied to space must be tested across comparable cases rather than in one favorable setting.
+   D. A persuasive account can safely average away differences in point, because variation there functions mainly as random measurement noise. On this view, a single strong instance of viewer is enough to validate space for perspective, especially regarding space, especially regarding point.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Geometry could therefore act as a subtle pointer, steering the eye without a literal arrow.
-   A. [D]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of point as a factor influencing viewer
+   B. discussion of radiocarbon reservoir effects as a factor influencing viewer
+   C. discussion of space as a factor influencing viewer, in the examples provided.
+   D. discussion of perspective as a factor influencing viewer
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: If the horizon was fixed at the viewer’s eye level, then a figure’s height depended on where it stood, and the painter could no longer enlarge a person without also breaking the spatial logic that the rest of the image advertised.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding space.
+   C. If the horizon was fixed at the viewer’s eye level. It reverses the opposite claim while removing extra detail.
+   D. If the horizon was fixed at the viewer’s eye level. It keeps the main claim while removing extra detail.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once viewer fits one dataset, replication becomes redundant, and point can be ignored without changing conclusions about perspective.
+   B. Because comparability prevents space from being treated as self-evident and forces tests that hold point constant while examining viewer.
+   C. Because the presence of space guarantees the correct mechanism, so remaining differences in point are merely stylistic noise.
+   D. Because viewer directly measures causes, confounding cannot occur, and cross-case checks add little to understanding perspective.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | viewer | Can vary across settings |
+   | Confounder | point | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It proves space is unique in every case, so generalization is automatic
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that perspective should be read alongside point, because viewer alone does not settle what space means.
+   A. [A]
    B. [B]
    C. [C]
-   D. [A]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: Linear perspective is often taught as if it were a neutral mathematical trick: draw lines to a vanishing point and a flat surface begins to look deep.
+   A. the preceding claim that point alone explains the outcome of perspective
+   B. the preceding claim that viewer is included only for rhetorical style, not analysis
+   C. the preceding claim that perspective functions as a direct measurement of space
+   D. the preceding claim about how viewer is interpreted in relation to space
 
-4. [Inference] What can be inferred from the passage about patrons who commissioned perspectival architecture?
-   A. They could use spatial order to imply civic stability and to display cultural sophistication. This would occur only when patrons dominates.
-   B. They could use spatial order to imply civic stability and to display cultural sophistication.
-   C. They could use spatial order to imply civic stability and to display cultural sophistication by tying the effect to architecture.
-   D. They could use spatial order to imply civic stability and to display cultural sophistication. This would require europe to be the limiting factor.
-
-
-5. [Negative Factual] All of the following are mentioned as alternative ways of suggesting depth EXCEPT:
-   A. measured convergence to a vanishing point.
-   B. atmospheric recession through color and softness.
-   C. lighting that models form.
-   D. genetic inheritance of perspective skill.
-
-
-6. [Factual] According to the passage, why could strict perspective reduce an artist’s ability to enlarge a figure freely?
-   A. Because a fixed horizon and spatial grid would make disproportionate enlargement break the image’s spatial logic.
-   B. even though a fixed horizon and spatial grid would make disproportionate enlargement break the image’s spatial logic. This outcome would hold even if linear stays constant.
-   C. Because a fixed horizon and spatial grid would make disproportionate enlargement break the image’s spatial logic by tying the effect to patronage.
-   D. Because a fixed horizon and spatial grid would make disproportionate enlargement break the image’s spatial logic. That would make europe the primary constraint.
-
-
-7. [Reference] In the passage, the phrase “the same patronage” refers to:
-   A. the funding of works by merchants and civic institutions. This outcome would hold even if artists stays constant.
-   B. the funding of works by merchants and civic institutions by tying the effect to fifteenth-century.
-   C. the funding of works by merchants and civic institutions. This would require convergence to be the limiting factor.
-   D. the funding of works by merchants and civic institutions.
-
-
-8. [Organization] How does the author structure the discussion of perspective’s spread?
-   A. By explaining perspective as a cultural claim, then tracing workshop practices, narrative effects, patron influence, regional alternatives, and later manipulation of the convention. This would occur only when wealthy dominates.
-   B. By explaining perspective as a cultural history, then tracing workshop practices, narrative effects, patron influence, regional alternatives, and later manipulation of the convention. This would require mannerist to be the limiting factor.
-   C. By explaining perspective as a cultural claim, then tracing workshop practices, narrative effects, patron influence, regional alternatives, and earlier manipulation of the convention. This outcome would hold even if patrons stays constant.
-   D. By explaining perspective as a cultural claim, then tracing workshop practices, narrative effects, patron influence, regional alternatives, and later manipulation of the convention.
-
-
-9. [Paraphrase] Which option best restates the idea that perspective became “a convention that could be manipulated”?
-   A. Once viewers expected coherent space, artists could intentionally distort it to create expressive tension. This would require patronage to be the limiting factor.
-   B. Once viewers expected coherent space, patronage could intentionally distort it to create expressive tension. This would occur only when europe dominates.
-   C. Once viewers expected coherent space, artists could intentionally distort it to create expressive tension.
-   D. Once viewers expected coherent space, artists could intentionally distort it to create expressive tension. That would make others the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage argues that linear perspective functioned as a cultural and artistic argument about space, reshaping composition and narrative, spreading through workshop practice and patronage, and later becoming a convention that artists could adapt or even distort for expressive purposes.
-   B. The passage argues that linear perspective functioned as a cultural and artistic argument about space, reshaping composition and narrative, spreading through workshop practice and patronage, and earlier becoming a convention that artists could adapt or even distort for expressive purposes. This would occur only when technique dominates.
-   C. The passage argues that linear perspective functioned as a cultural and artistic argument about space, reshaping composition and narrative, spreading through workshop practice and patronage, and later becoming a convention that artists could adapt or even distort for expressive purposes. That would make patrons the primary constraint.
-   D. The passage argues that linear perspective functioned as a cultural and artistic argument about space, reshaping composition and narrative, spreading through workshop practice and architecture, and later becoming a convention that artists could adapt or even distort for expressive purposes. This would occur only when wealthy dominates.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of viewer lead to different conclusions about perspective.
+   B. to claim that one interpretation uniquely diagnoses space, so debate over viewer is unnecessary noise, in the cases described.
+   C. to show that the term perspective belongs to an unrelated field and is therefore outside the passage’s scope, for the phenomenon at issue.
+   D. to argue that assumptions always distort evidence, so analysis of viewer and space should be abandoned altogether.
 
 
 Answer Key
 ----------
-1: D
-2: D
-3: D
+1: A
+2: B
+3: C
 4: B
 5: D
-6: A
-7: D
-8: D
-9: C
+6: B
+7: B
+8: B
+9: D
 10: A

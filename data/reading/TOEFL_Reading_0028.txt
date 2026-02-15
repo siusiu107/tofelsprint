@@ -60,86 +60,87 @@ catalysts and supports that preserve activity while reducing cost.
 
 Questions
 ---------
-1. [Factual] According to the passage, why does a converter use a ceramic honeycomb coated with metals?
-   A. To provide very large surface area so exhaust temperature can contact many catalytic sites. That would make rhodium the primary constraint.
-   B. To provide very large surface area so exhaust molecules can contact many catalytic sites.
-   C. To provide very large surface area so exhaust molecules can solely contact many catalytic sites. This would require temperature to be the limiting factor.
-   D. To provide very large surface area so exhaust molecules must contact many catalytic sites. That would make modern the primary constraint.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: [D] What seems like a simple box under a car is, at the molecular scale, a carefully designed landscape where chemistry is compelled to happen faster and cleaner than it would in open air.
+   A. finished and beyond revision, which would rule out further evaluation of nitrogen
+   B. strong and reliable, as used to describe how the claim holds across nitrogen
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. sensitive and easily disrupted, despite references to oxygen and exhaust
 
-2. [Vocabulary] The word “sinter” in the passage is closest in meaning to:
-   A. freeze instantly in sense
-   B. become electrically charged in sense
-   C. dissolve completely into gas
-   D. merge into larger particles, reducing surface area
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys converter but treats the discussion mainly as a narrative about who proposed exhaust first, with oxygen serving as anecdotal color. It therefore treats nitrogen as a historical footnote rather than as something that shapes interpretation, especially regarding converter.
+   B. The passage concedes that oxygen is often incomplete and concludes that converter cannot be studied in any meaningful way, since nitrogen overwhelms comparisons. It recommends replacing tests of exhaust with intuition because evidence cannot discriminate among accounts.
+   C. The passage explains converter by linking oxygen to exhaust, and it shows why nitrogen changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage presents exhaust as a uniquely identifying mechanism and claims that once oxygen is observed, competing explanations for converter collapse. It treats nitrogen as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that nitrogen mattered mostly for early studies, whereas modern work makes oxygen effectively self-interpreting. This would mean that tests of exhaust no longer need cross-case comparisons to explain converter, given the evidence cited, in the cases described, especially regarding exhaust.
+   B. A persuasive account would predict how converter should change if nitrogen is altered, instead of assuming that oxygen has a single meaning. This implies that models tied to exhaust must be tested across comparable cases rather than in one favorable setting.
+   C. The passage treats oxygen primarily as a rhetorical flourish and suggests that debates over exhaust are largely stylistic, not empirical. As a result, predictions about converter are portrayed as optional rather than as a core requirement.
+   D. A persuasive account can safely average away differences in nitrogen, because variation there functions mainly as random measurement noise. On this view, a single strong instance of oxygen is enough to validate exhaust for converter.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Surface contact, rather than chance midair collision, becomes the decisive factor.
-   A. [C]
-   B. [D]
-   C. [B]
-   D. [A]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of exhaust as a factor influencing oxygen
+   B. discussion of stress corrosion cracking as a factor influencing oxygen
+   C. discussion of nitrogen as a factor influencing oxygen, especially regarding carbon.
+   D. discussion of converter as a factor influencing oxygen
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: [D] What seems like a simple box under a car is, at the molecular scale, a carefully designed landscape where chemistry is compelled to happen faster and cleaner than it would in open air.
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear, for the main claim of the text.
+   B. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   C. [D] What seems like a simple box under a car is. It reverses the opposite claim while removing extra detail.
+   D. [D] What seems like a simple box under a car is. It keeps the main claim while removing extra detail.
 
-4. [Inference] What can be inferred about why short trips can produce higher emissions per minute?
-   A. The catalyst must remain below light-off temperature, so reactions proceed too slowly to clean exhaust effectively. This would require different to be the limiting factor.
-   B. The catalyst may solely remain below light-off temperature, so reactions proceed too slowly to clean exhaust effectively. This outcome would hold even if oxidation stays constant.
-   C. The catalyst may remain sulfur light-off temperature, so reactions proceed too slowly to clean exhaust effectively. This would occur only when rhodium dominates.
-   D. The catalyst may remain below light-off temperature, so reactions proceed too slowly to clean exhaust effectively.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because oxygen directly measures causes, confounding cannot occur, and cross-case checks add little to understanding converter.
+   B. Because once oxygen fits one dataset, replication becomes redundant, and nitrogen can be ignored without changing conclusions about converter.
+   C. Because the presence of exhaust guarantees the correct mechanism, so remaining differences in nitrogen are merely stylistic noise.
+   D. Because comparability prevents exhaust from being treated as self-evident and forces tests that hold nitrogen constant while examining oxygen.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | oxygen | Can vary across settings |
+   | Confounder | nitrogen | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It proves exhaust is unique in every case, so generalization is automatic
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It can vary across settings, even when the mechanism is unchanged
 
-5. [Negative Factual] All of the following are mentioned as degradation mechanisms EXCEPT:
-   A. photosynthetic carbon fixation in leaves.
-   B. sulfur poisoning in this discussion.
-   C. fracturing of the ceramic support.
-   D. thermal sintering of metal particles.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that converter should be read alongside nitrogen, because oxygen alone does not settle what exhaust means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This is why short trips can be disproportionately polluting: the engine may run for only a few minutes, and the converter may not reach its optimal operating range.
+   A. the preceding claim that converter functions as a direct measurement of exhaust
+   B. the preceding claim about how oxygen is interpreted in relation to exhaust
+   C. the preceding claim that nitrogen alone explains the outcome of converter
+   D. the preceding claim that oxygen is included only for rhetorical style, not analysis
 
-6. [Rhetorical Purpose] Why does the author explain oxygen-rich versus oxygen-poor exhaust?
-   A. To show why engine feedback must keep conditions near a narrow window so oxygen-rich and NOx reduction both work. This would require hydrocarbons to be the limiting factor.
-   B. To show why engine feedback must solely keep conditions near a narrow window so oxidation and NOx reduction both work. This would occur only when carbon dominates.
-   C. To show why engine feedback must keep conditions near a narrow window so oxidation and NOx reduction both work.
-   D. To show why engine feedback must keep conditions near a narrow window so oxidation and NOx reduction both work. That would make motion the primary constraint.
-
-
-7. [Reference] In the passage, “this failure mode” refers to:
-   A. processes that reduce accessible catalytic sites, such as poisoning or sintering. This outcome would hold even if hydrocarbons stays constant.
-   B. processes that reduce accessible catalytic sites, such as poisoning or sintering by tying the effect to emissions.
-   C. processes that reduce accessible catalytic sites, such as poisoning or sintering.
-   D. processes that amplify accessible catalytic sites, such as poisoning or sintering. This would occur only when converter dominates.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces catalytic purpose, explains surface reactions for CO and NOx, then discusses temperature and mixture constraints before describing degradation and a broader catalysis principle. This would require mixture to be the limiting factor.
-   B. It introduces catalytic purpose, explains surface reactions for CO and NOx, then discusses temperature and mixture constraints before describing degradation and a broader catalysis principle.
-   C. It introduces catalytic purpose, explains surface reactions for CO and NOx, then discusses honeycomb and mixture constraints before describing degradation and a broader catalysis principle. This outcome would hold even if reactions stays constant.
-   D. It introduces catalytic purpose, explains surface reactions for CO and NOx, then discusses temperature and mixture constraints before describing degradation and a broader catalysis principle. This outcome would hold even if chemistry stays constant.
-
-
-9. [Paraphrase] Which option best restates the idea that the converter “coordinates reactions” by holding reactants on a surface?
-   A. Adsorption brings molecules together and weakens bonds, enabling faster transformations than free-gas collisions. This outcome would hold even if rhodium stays constant.
-   B. Adsorption brings molecules together and weakens bonds, enabling faster transformations than free-gas collisions. This would occur only when modern dominates.
-   C. Adsorption brings molecules together and weakens bonds, enabling faster transformations than free-gas collisions.
-   D. Adsorption brings carbon together and weakens bonds, enabling faster transformations than free-gas collisions. That would make catalysis the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains how catalytic converters use metal surfaces on a high-area support to speed oxidation and reduction reactions, why temperature and oxygen conditions must be controlled for three-way performance, and how poisoning and sintering can degrade activity over time.
-   B. The passage explains how catalytic converters use metal surfaces on a high-area support to speed oxidation and reduction reactions, why temperature and oxygen conditions must be controlled for three-way performance, and how poisoning and sintering must degrade activity over time. That would make mixture the primary constraint.
-   C. The passage explains how catalytic converters use metal surfaces on a high-area support to speed oxidation and reduction reactions, why temperature and oxygen conditions must solely be controlled for three-way performance, and how poisoning and sintering can degrade activity over time. That would make light-off the primary constraint.
-   D. The passage explains how catalytic converters use metal surfaces on a high-area support to speed oxidation and reduction sulfur, why temperature and oxygen conditions must be controlled for three-way performance, and how poisoning and sintering can degrade activity over time. This would require three-way to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses exhaust, so debate over oxygen is unnecessary noise, especially regarding exhaust, especially regarding exhaust.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of oxygen lead to different conclusions about converter.
+   C. to argue that assumptions always distort evidence, so analysis of oxygen and exhaust should be abandoned altogether.
+   D. to show that the term converter belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
 1: B
-2: D
-3: D
-4: D
-5: A
-6: C
-7: C
+2: C
+3: B
+4: B
+5: D
+6: D
+7: D
 8: B
-9: C
-10: A
+9: B
+10: B

@@ -58,86 +58,87 @@ became a trait with cultural value as well as biological utility.
 
 Questions
 ---------
-1. [Factual] According to the passage, what evidence challenged the idea that maize domestication was swift?
-   A. Discovery of early cobs with intermediate features between teosinte and modern maize.
-   B. Discovery of early cobs with intermediate features between teosinte and modern maize. This would occur only when intermediate dominates.
-   C. Discovery of early cobs with intermediate features between teosinte and modern maize. That would make domestication the primary constraint.
-   D. Discovery of early cobs with intermediate features between teosinte and modern landscapes. That would make intermediate the primary constraint.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: That story began to weaken when archaeologists recovered early cobs from sites in Mesoamerica and found that they were neither teosinte nor modern maize but something in between: small, with partial kernel exposure and variable row patterns.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. strong and reliable, as used to describe how the claim holds across domestication
+   C. finished and beyond revision, which would rule out further evaluation of domestication
+   D. sensitive and easily disrupted, despite references to plants and teosinte
 
-2. [Vocabulary] The word “cluster” in the passage is closest in meaning to:
-   A. disappear suddenly in sense
-   B. scatter randomly in sense
-   C. harden permanently in sense
-   D. gather together in a group
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that plants is often incomplete and concludes that maize cannot be studied in any meaningful way, since domestication overwhelms comparisons. It recommends replacing tests of teosinte with intuition because evidence cannot discriminate among accounts.
+   B. The passage surveys maize but treats the discussion mainly as a narrative about who proposed teosinte first, with plants serving as anecdotal color. It therefore treats domestication as a historical footnote rather than as something that shapes interpretation.
+   C. The passage presents teosinte as a uniquely identifying mechanism and claims that once plants is observed, competing explanations for maize collapse. It treats domestication as minor noise and suggests that a single measurement is sufficient for a final conclusion, especially regarding growers.
+   D. The passage explains maize by linking plants to teosinte, and it shows why domestication changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in domestication, because variation there functions mainly as random measurement noise. On this view, a single strong instance of plants is enough to validate teosinte for maize.
+   B. The passage implies that domestication mattered mostly for early studies, whereas modern work makes plants effectively self-interpreting. This would mean that tests of teosinte no longer need cross-case comparisons to explain maize, especially regarding growers.
+   C. A persuasive account would predict how maize should change if domestication is altered, instead of assuming that plants has a single meaning. This implies that models tied to teosinte must be tested across comparable cases rather than in one favorable setting.
+   D. The passage treats plants primarily as a rhetorical flourish and suggests that debates over teosinte are largely stylistic, not empirical. As a result, predictions about maize are portrayed as optional rather than as a core requirement, especially regarding plants, especially regarding plants.
 
-3. [Inference] What can be inferred about why domestication could proceed without formal breeding programs?
-   A. Saving seed from a small subset of successful plants must create strong selection across generations. This outcome would hold even if different stays constant.
-   B. Saving seed from a small subset of successful plants can create strong selection across generations.
-   C. Saving seed from a small subset of successful plants can solely create strong selection across generations. This would require intermediate to be the limiting factor.
-   D. Saving seed from a small subset of successful plants can create strong conditions across generations. This would occur only when rather dominates.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of domestication as a factor influencing plants, as the argument develops.
+   B. discussion of maize as a factor influencing plants
+   C. discussion of teosinte as a factor influencing plants
+   D. discussion of thermal hysteresis as a factor influencing plants
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: That story began to weaken when archaeologists recovered early cobs from sites in Mesoamerica and found that they were neither teosinte nor modern maize but something in between: small, with partial kernel exposure and variable row patterns.
+   A. That story began to weaken when archaeologists recovered early cobs from sites in Mesoamerica and found that they were neither teosinte nor modern maize but something in between: small.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding plants, especially regarding growers, especially regarding kernels, especially regarding maize.
+   C. That story began to weaken when archaeologists recovered early cobs from sites in Mesoamerica and found that they were neither teosinte nor modern maize but something in between: small.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, as framed by the author, especially regarding teosinte.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Because climates differ sharply over short distances, the “best” plant can vary from valley to valley.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of teosinte guarantees the correct mechanism, so remaining differences in domestication are merely stylistic noise.
+   B. Because plants directly measures causes, confounding cannot occur, and cross-case checks add little to understanding maize.
+   C. Because once plants fits one dataset, replication becomes redundant, and domestication can be ignored without changing conclusions about maize.
+   D. Because comparability prevents teosinte from being treated as self-evident and forces tests that hold domestication constant while examining plants.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | plants | Can vary across settings |
+   | Confounder | domestication | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It proves teosinte is unique in every case, so generalization is automatic
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that maize should be read alongside domestication, because plants alone does not settle what teosinte means.
    A. [A]
    B. [B]
-   C. [D]
-   D. [C]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: Maize is so central to the modern diet that it can be easy to forget how improbable it once seemed.
+   A. the preceding claim that domestication alone explains the outcome of maize
+   B. the preceding claim that maize functions as a direct measurement of teosinte
+   C. the preceding claim about how plants is interpreted in relation to teosinte
+   D. the preceding claim that plants is included only for rhetorical style, not analysis
 
-5. [Negative Factual] All of the following are mentioned as ways environments could shape selection EXCEPT:
-   A. upright stalks under strong winds.
-   B. tolerance of dense planting in wetter lowlands.
-   C. quick maturation in drier uplands.
-   D. survival in vacuum conditions without water.
-
-
-6. [Rhetorical Purpose] Why does the author mention gene flow from wild teosinte?
-   A. To show that domestication could be slowed or complicated by wild traits re-entering cultivated populations.
-   B. To show that domestication could be slowed or complicated by wild traits re-entering cultivated populations. That would make rather the primary constraint.
-   C. To show that domestication could be slowed or complicated by wild traits re-entering cultivated populations. This outcome would hold even if preferences stays constant.
-   D. To show that north could be slowed or complicated by wild traits re-entering cultivated populations. This would require invention to be the limiting factor.
-
-
-7. [Reference] In the phrase “that tug,” the word “tug” refers to:
-   A. the conflict between cultivation-driven selection and reintroduction of wild traits. This would require storage to be the limiting factor.
-   B. the conflict between cultivation-driven selection and reintroduction of wild traits. This would require one-way to be the limiting factor.
-   C. the conflict between cultivation-driven domestication and reintroduction of wild traits. This outcome would hold even if mesoamerica stays constant.
-   D. the conflict between cultivation-driven selection and reintroduction of wild traits.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It begins with an old assumption, introduces new archaeological and geographic evidence, and then explains domestication as repeated selection shaped by environments. This would occur only when intermediate dominates.
-   B. It begins with an old assumption, introduces new archaeological and geographic evidence, and then explains domestication as repeated selection shaped by environments.
-   C. It begins with an old assumption, introduces new archaeological and geographic evidence, and then explains domestication as repeated selection shaped by environments. This would require different to be the limiting factor.
-   D. It begins with an old assumption, introduces new archaeological and geographic evidence, and then explains conditions as repeated selection shaped by environments. This outcome would hold even if maize stays constant.
-
-
-9. [Paraphrase] Which option best restates the claim that domestication was “a long conversation”?
-   A. Repeated planting choices across generations gradually turned human conditions into evolutionary pressure on the crop. That would make anthropology the primary constraint.
-   B. Repeated planting choices across generations gradually turned human preferences into evolutionary pressure on the crop.
-   C. Repeated planting choices across generations gradually turned human preferences into evolutionary pressure on the crop. This would require mesoamerica to be the limiting factor.
-   D. Repeated planting choices across generations gradually turned human preferences into evolutionary pressure on the crop. That would make conditions the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage argues that one-way domestication proceeded through intermediate stages and multiple local pathways, as growers repeatedly saved seed from desirable plants while wild gene flow and varied environments shaped the crop’s gradual transformation. This would occur only when selection dominates.
-   B. The passage argues that maize domestication proceeded through intermediate stages and multiple local pathways, as growers repeatedly saved seed from desirable plants while wild gene flow and varied environments shaped the crop’s gradual transformation. This would require cultivation to be the limiting factor.
-   C. The passage argues that maize domestication proceeded through intermediate stages and multiple local pathways, as growers repeatedly saved seed from desirable plants while wild gene flow and varied environments shaped the crop’s gradual transformation.
-   D. The passage argues that maize domestication proceeded through intermediate stages and multiple local pathways, as growers repeatedly saved seed from desirable plants while wild gene flow and varied environments shaped the crop’s gradual transformation. This would occur only when landscapes dominates.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses teosinte, so debate over plants is unnecessary noise, as the discussion implies.
+   B. to show that the term maize belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding maize.
+   C. to argue that assumptions always distort evidence, so analysis of plants and teosinte should be abandoned altogether.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of plants lead to different conclusions about maize.
 
 
 Answer Key
 ----------
-1: A
+1: B
 2: D
-3: B
-4: A
-5: D
-6: A
-7: D
-8: B
-9: B
-10: C
+3: C
+4: D
+5: C
+6: D
+7: A
+8: A
+9: C
+10: D

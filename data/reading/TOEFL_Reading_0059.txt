@@ -61,86 +61,87 @@ those biases, producing systems that feel familiar yet subtly skewed.
 
 Questions
 ---------
-1. [Factual] According to the passage, why are gas giants more common around metal-rich stars?
-   A. Solid cores can solely form faster in disks rich in heavy elements, enabling gas capture before the disk dissipates. This would require abundance to be the limiting factor.
-   B. Solid cores can form faster in disks rich in heavy elements, enabling gas capture before the disk dissipates by tying the effect to planets.
-   C. Solid cores must form faster in disks rich in heavy elements, enabling gas capture before the disk dissipates. That would make core-accretion the primary constraint.
-   D. Solid cores can form faster in disks rich in heavy elements, enabling gas capture before the disk dissipates.
 
+1. [Vocabulary] In the passage, the word "volatile" in the sentence below is closest in meaning to:
+   Sentence: Temperature, in turn, controls where volatile compounds condense, defining snow lines for water, CO2, and other molecules.
+   A. complete and final, which would rule out further evaluation of metallicity
+   B. steady and essentially unchanging, even though the passage treats it as evidence-related, especially regarding water, especially regarding stellar.
+   C. secondary background detail, despite references to stars and stellar, especially regarding stars.
+   D. likely to change suddenly or unpredictably, as used to describe how the claim holds across metallicity
 
-2. [Vocabulary] The word “opacity” in the passage is closest in meaning to:
-   A. the thickness of an obsidian hydration rim
-   B. how quickly a planet orbits its star
-   C. the sharpness of a telescope’s image
-   D. how strongly the disk blocks or absorbs radiation
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys planets but treats the discussion mainly as a narrative about who proposed stellar first, with stars serving as anecdotal color. It therefore treats metallicity as a historical footnote rather than as something that shapes interpretation.
+   B. The passage concedes that stars is often incomplete and concludes that planets cannot be studied in any meaningful way, since metallicity overwhelms comparisons. It recommends replacing tests of stellar with intuition because evidence cannot discriminate among accounts.
+   C. The passage presents stellar as a uniquely identifying mechanism and claims that once stars is observed, competing explanations for planets collapse. It treats metallicity as minor noise and suggests that a single measurement is sufficient for a final conclusion, in the cases described.
+   D. The passage explains planets by linking stars to stellar, and it shows why metallicity changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how planets should change if metallicity is altered, instead of assuming that stars has a single meaning. This implies that models tied to stellar must be tested across comparable cases rather than in one favorable setting.
+   B. The passage treats stars primarily as a rhetorical flourish and suggests that debates over stellar are largely stylistic, not empirical. As a result, predictions about planets are portrayed as optional rather than as a core requirement, especially regarding metallicity, in the examples provided.
+   C. The passage implies that metallicity mattered mostly for early studies, whereas modern work makes stars effectively self-interpreting. This would mean that tests of stellar no longer need cross-case comparisons to explain planets, for the main claim of the text.
+   D. A persuasive account can safely average away differences in metallicity, because variation there functions mainly as random measurement noise. On this view, a single strong instance of stars is enough to validate stellar for planets.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In other words, abundance ratios can alter planetary interiors even when total ‘metallicity’ is similar.
-   A. [C]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of planets as a factor influencing stars
+   B. discussion of stellar as a factor influencing stars
+   C. discussion of metallicity as a factor influencing stars, under the stated assumptions.
+   D. discussion of sediment provenance as a factor influencing stars
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: [D] By reading metallicity and element ratios as part of a planet-formation narrative, astronomers move closer to explaining why some systems resemble our own and why others look alien in ways that chemistry can, at least partly, anticipate.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, for the phenomenon at issue.
+   C. [D] By reading metallicity and element ratios as part of a planet-formation narrative. It keeps the main claim while removing extra detail.
+   D. [D] By reading metallicity and element ratios as part of a planet-formation narrative. It reverses the opposite claim while removing extra detail.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once stars fits one dataset, replication becomes redundant, and metallicity can be ignored without changing conclusions about planets.
+   B. Because comparability prevents stellar from being treated as self-evident and forces tests that hold metallicity constant while examining stars.
+   C. Because stars directly measures causes, confounding cannot occur, and cross-case checks add little to understanding planets.
+   D. Because the presence of stellar guarantees the correct mechanism, so remaining differences in metallicity are merely stylistic noise.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | stars | Can vary across settings |
+   | Confounder | metallicity | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It proves stellar is unique in every case, so generalization is automatic
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that planets should be read alongside metallicity, because stars alone does not settle what stellar means.
+   A. [A]
    B. [B]
-   C. [D]
-   D. [A]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This stellar metallicity is not a cosmetic label; it reflects the chemical enrichment history of the galaxy.
+   A. the preceding claim that metallicity alone explains the outcome of planets
+   B. the preceding claim about how stars is interpreted in relation to stellar
+   C. the preceding claim that planets functions as a direct measurement of stellar
+   D. the preceding claim that stars is included only for rhetorical style, not analysis
 
-4. [Inference] What can be inferred about why metallicity is described as a “clue” rather than a “blueprint”?
-   A. Because migration, impacts, and measurement limits must decouple a planet’s final properties from initial disk chemistry. This would require astronomers to be the limiting factor.
-   B. Because migration, impacts, and measurement limits can decouple a planet’s final properties from initial disk chemistry.
-   C. even though migration, impacts, and measurement limits can decouple a planet’s final properties from initial disk chemistry. This would occur only when abundances dominates.
-   D. Because migration, impacts, and measurement limits can decouple a planet’s final properties from initial disk accretion. This would occur only when stellar dominates.
-
-
-5. [Negative Factual] All of the following are mentioned as complications in linking stars to planets EXCEPT:
-   A. sea urchins overgrazing kelp forests.
-   B. planets migrating and disks evolving.
-   C. late impacts reshuffling material.
-   D. spectral line blending affecting abundance measurements.
-
-
-6. [Rhetorical Purpose] Why does the author discuss snow lines and disk temperature profiles?
-   A. To show how dust and chemistry can shift where volatiles condense, affecting water delivery and planet types.
-   B. To show how dust and chemistry can solely shift where volatiles condense, affecting water delivery and planet types. This outcome would hold even if planets stays constant.
-   C. To show how dust and chemistry must shift where volatiles condense, affecting water delivery and planet types. This outcome would hold even if re-emits stays constant.
-   D. To show how dust and chemistry can shift where volatiles condense, affecting water delivery and temperature types. This would occur only when abundances dominates.
-
-
-7. [Reference] In the passage, “they diverge” refers to cases where:
-   A. planet composition indicators and stellar abundance patterns do not match, suggesting migration or selective accretion. This would occur only when earth-mass dominates.
-   B. planet composition indicators and stellar abundance patterns do not match, suggesting migration or selective accretion. This would require astronomers to be the limiting factor.
-   C. planet composition indicators and stellar core-accretion patterns do not match, suggesting migration or selective accretion. This outcome would hold even if element stays constant.
-   D. planet composition indicators and stellar abundance patterns do not match, suggesting migration or selective accretion.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It defines metallicity, links it to giant-planet frequency, extends the idea to rocky composition and disk thermodynamics, then explains why outcomes are probabilistic and how combined measurements must test patterns. This would require metallicity to be the limiting factor.
-   B. It defines metallicity, links it to giant-planet frequency, extends the idea to rocky composition and disk thermodynamics, then explains why outcomes are probabilistic and how combined measurements can test patterns.
-   C. It defines metallicity, links it to giant-planet frequency, extends the idea to super-earths composition and disk thermodynamics, then explains why outcomes are probabilistic and how combined measurements can test patterns. This would require later to be the limiting factor.
-   D. It defines metallicity, links it to giant-planet frequency, extends the idea to rocky composition and disk thermodynamics, then explains why outcomes are solely probabilistic and how combined measurements can test patterns. This would occur only when re-emits dominates.
-
-
-9. [Paraphrase] Which option best restates “stars are ingredient lists”?
-   A. A star’s spectrum reveals element abundances that supply the raw materials for its planets. That would make abundances the primary constraint.
-   B. A star’s spectrum reveals element abundances that supply the raw materials for its planets. That would make sub-neptunes the primary constraint.
-   C. A star’s spectrum reveals element abundances that supply the raw materials for its planets.
-   D. A star’s spectrum reveals accretion abundances that supply the raw materials for its planets. That would make metallicity the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains stellar metallicity as a record of heavy-element abundance, links high metallicity to less frequent gas giants via faster core growth, shows how element ratios and disk temperature influence rocky planet interiors and water delivery, and emphasizes that migration and impacts make the star–planet link probabilistic but testable with growing datasets. This outcome would hold even if enrichment stays constant.
-   B. The passage explains stellar metallicity as a record of heavy-element abundance, links high metallicity to more frequent gas giants via faster core growth, shows how element enrichment and disk temperature influence rocky planet interiors and water delivery, and emphasizes that migration and impacts make the star–planet link probabilistic but testable with growing datasets. This would occur only when earth-mass dominates.
-   C. The passage explains stellar metallicity as a record of heavy-element abundance, links high metallicity to more frequent gas giants via faster core growth, shows how element ratios and disk temperature influence rocky planet interiors and water delivery, and emphasizes that migration and impacts make the star–planet link probabilistic but testable with growing datasets. This would require temperature to be the limiting factor.
-   D. The passage explains stellar metallicity as a record of heavy-element abundance, links high metallicity to more frequent gas giants via faster core growth, shows how element ratios and disk temperature influence rocky planet interiors and water delivery, and emphasizes that migration and impacts make the star–planet link probabilistic but testable with growing datasets.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of stars and stellar should be abandoned altogether.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of stars lead to different conclusions about planets.
+   C. to show that the term planets belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding rocky.
+   D. to claim that one interpretation uniquely diagnoses stellar, so debate over stars is unnecessary noise, especially regarding stars.
 
 
 Answer Key
 ----------
 1: D
 2: D
-3: D
-4: B
-5: A
-6: A
+3: A
+4: D
+5: C
+6: B
 7: D
-8: B
-9: C
-10: D
+8: D
+9: B
+10: B

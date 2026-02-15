@@ -64,86 +64,87 @@ chemical reaction into a geological archive.
 
 Questions
 ---------
-1. [Sentence Insert] In which location would the following sentence best fit?
-   Sentence to insert: In many catchments, the fastest reactions occur where fresh mineral surfaces and acidic soil waters meet.
-   A. [D]
-   B. [A]
-   C. [B]
-   D. [C]
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: At the same time, if erosion is too slow, reactive minerals become coated with secondary clays that block further reaction; if erosion is too fast, fresh rock is exposed, yet soils may be too thin to sustain the biological accelerators.
+   A. strong and reliable, as used to describe how the claim holds across carbon
+   B. finished and beyond revision, which would rule out further evaluation of carbon
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. sensitive and easily disrupted, despite references to whether and reaction
 
-2. [Vocabulary] In the passage, the word “feedback” is closest in meaning to:
-   A. to reverse a decision completely
-   B. to confuse the reader with unrelated details
-   C. a process in which a change influences the system
-   D. to store objects in a warehouse
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains weathering by linking whether to reaction, and it shows why carbon changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage concedes that whether is often incomplete and concludes that weathering cannot be studied in any meaningful way, since carbon overwhelms comparisons. It recommends replacing tests of reaction with intuition because evidence cannot discriminate among accounts.
+   C. The passage presents reaction as a uniquely identifying mechanism and claims that once whether is observed, competing explanations for weathering collapse. It treats carbon as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage surveys weathering but treats the discussion mainly as a narrative about who proposed reaction first, with whether serving as anecdotal color. It therefore treats carbon as a historical footnote rather than as something that shapes interpretation, in the setting discussed.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in carbon, because variation there functions mainly as random measurement noise. On this view, a single strong instance of whether is enough to validate reaction for weathering, especially regarding minerals, especially regarding minerals.
+   B. The passage implies that carbon mattered mostly for early studies, whereas modern work makes whether effectively self-interpreting. This would mean that tests of reaction no longer need cross-case comparisons to explain weathering, especially regarding whether.
+   C. The passage treats whether primarily as a rhetorical flourish and suggests that debates over reaction are largely stylistic, not empirical. As a result, predictions about weathering are portrayed as optional rather than as a core requirement.
+   D. A persuasive account would predict how weathering should change if carbon is altered, instead of assuming that whether has a single meaning. This implies that models tied to reaction must be tested across comparable cases rather than in one favorable setting.
 
-3. [Factual] According to the passage, which statement is supported?
-   A. basalt weathering plays a central role in the process described, interacting with carbonate formation rather than acting alone.
-   B. basalt weathering plays a central role in the process described, interacting with carbonate formation rather than acting alone. This would occur only when deccan dominates.
-   C. basalt weathering plays a central role in the process described, interacting with carbonate formation rather than acting alone. This outcome would hold even if transport stays constant.
-   D. processes weathering plays a central role in the process described, interacting with carbonate formation rather than acting alone. This outcome would hold even if basalt stays constant.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of carbon as a factor influencing whether, especially regarding weathering.
+   B. discussion of weathering as a factor influencing whether
+   C. discussion of reaction as a factor influencing whether
+   D. discussion of granular convection as a factor influencing whether
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: At the same time, if erosion is too slow, reactive minerals become coated with secondary clays that block further reaction; if erosion is too fast, fresh rock is exposed, yet soils may be too thin to sustain the biological accelerators.
+   A. At the same time, if erosion is too slow, reactive minerals become coated with secondary clays that block further reaction. It keeps the main claim while removing extra detail.
+   B. At the same time, if erosion is too slow, reactive minerals become coated with secondary clays that block further reaction. It reverses the opposite claim while removing extra detail.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear, as framed by the author, as the discussion implies.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, especially regarding carbon, especially regarding water.
 
-4. [Negative Factual] All of the following are discussed in the passage EXCEPT:
-   A. how carbonate formation modifies or mediates the central phenomenon.
-   B. limitations or trade-offs involving river alkalinity in this discussion.
-   C. the role of basalt weathering in shaping outcomes.
-   D. a description of how piano tuning affects musical transposition.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of reaction guarantees the correct mechanism, so remaining differences in carbon are merely stylistic noise.
+   B. Because whether directly measures causes, confounding cannot occur, and cross-case checks add little to understanding weathering.
+   C. Because once whether fits one dataset, replication becomes redundant, and carbon can be ignored without changing conclusions about weathering.
+   D. Because comparability prevents reaction from being treated as self-evident and forces tests that hold carbon constant while examining whether.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | whether | Can vary across settings |
+   | Confounder | carbon | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It proves reaction is unique in every case, so generalization is automatic
 
-5. [Rhetorical Purpose] What is the author’s main reason for discussing an alternative account?
-   A. to show that explaining geochemistry weathering requires weighing evidence and recognizing limits of any single account. This outcome would hold even if transport stays constant.
-   B. to show that explaining basalt weathering requires weighing evidence and recognizing limits of any single account.
-   C. to show that explaining basalt weathering requires weighing evidence and recognizing limits of any single account. This outcome would hold even if plant stays constant.
-   D. to show that explaining basalt weathering requires weighing evidence and recognizing limits of any single account. This would require proposals to be the limiting factor.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that weathering should be read alongside carbon, because whether alone does not settle what reaction means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This pathway does not act like a thermostat that reacts instantly; rather, it is a patient feedback that has helped stabilize climate over millions of years.
+   A. the preceding claim that carbon alone explains the outcome of weathering
+   B. the preceding claim that weathering functions as a direct measurement of reaction
+   C. the preceding claim that whether is included only for rhetorical style, not analysis
+   D. the preceding claim about how whether is interpreted in relation to reaction
 
-6. [Inference] Which inference is most strongly supported by the passage?
-   A. Changes in carbonate formation can shift the consequences of temperature weathering, even when the underlying mechanism remains the same. This would require processes to be the limiting factor.
-   B. Changes in carbonate formation must shift the consequences of basalt weathering, even when the underlying mechanism remains the same. This would require proposals to be the limiting factor.
-   C. Changes in carbonate formation can shift the consequences of basalt weathering, even when the underlying mechanism remains the same.
-   D. Changes in carbonate formation can solely shift the consequences of basalt weathering, even when the underlying mechanism remains the same. This would occur only when basalt dominates.
-
-
-7. [Reference] In the passage, the phrase “the system” most nearly refers to:
-   A. the interconnected set of processes involving basalt weathering, carbonate formation, and related constraints described by the author.
-   B. the interconnected set of processes involving proposals weathering, carbonate formation, and related constraints described by the author. This would occur only when basalt dominates.
-   C. the interconnected set of processes involving basalt weathering, carbonate formation, and related constraints described by the author. This would occur only when temperature dominates.
-   D. the interconnected set of processes involving basalt weathering, carbonate formation, and related constraints described by the author. That would make transport the primary constraint.
-
-
-8. [Organization] Which description best captures how the passage is organized?
-   A. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications.
-   B. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. That would make cycle the primary constraint.
-   C. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This would occur only when iceland dominates.
-   D. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications by tying the effect to carbon.
-
-
-9. [Paraphrase] Which option best restates the author’s main point?
-   A. The passage argues that basalt weathering is best understood through its interactions with carbonate formation and river alkalinity, rather than through a one-cause story. That would make geochemistry the primary constraint.
-   B. The passage argues that basalt weathering is solely best understood through its interactions with carbonate formation and river alkalinity, rather than through a one-cause story. This outcome would hold even if temperature stays constant.
-   C. The passage argues that basalt weathering is best understood through its interactions with carbonate formation and river alkalinity, rather than through a one-cause story.
-   D. The passage argues that temperature weathering is best understood through its interactions with carbonate formation and river alkalinity, rather than through a one-cause story. That would make chemistry the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains basalt weathering by describing underlying mechanisms and showing how carbonate formation and river alkalinity shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would occur only when mountain dominates.
-   B. The passage explains millennia weathering by describing underlying mechanisms and showing how carbonate formation and river alkalinity shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would occur only when basalt dominates.
-   C. The passage explains basalt weathering by describing underlying mechanisms and showing how carbonate formation and river alkalinity shape outcomes, emphasizing constraints and trade-offs rather than a uniform template.
-   D. The passage explains basalt weathering by describing underlying mechanisms and showing how carbonate formation and river alkalinity shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would occur only when geochemistry dominates.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses reaction, so debate over whether is unnecessary noise, especially regarding reaction.
+   B. to show that the term weathering belongs to an unrelated field and is therefore outside the passage’s scope.
+   C. to argue that assumptions always distort evidence, so analysis of whether and reaction should be abandoned altogether, especially regarding carbon.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of whether lead to different conclusions about weathering.
 
 
 Answer Key
 ----------
-1: D
-2: C
-3: A
+1: A
+2: A
+3: D
 4: D
-5: B
-6: C
+5: A
+6: D
 7: A
-8: A
-9: C
-10: C
+8: B
+9: D
+10: D

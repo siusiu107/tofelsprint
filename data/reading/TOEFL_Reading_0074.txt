@@ -61,75 +61,76 @@ measurable signature when clocks are stable enough.
 
 Questions
 ---------
-1. [Factual] According to the passage, nanohertz gravitational waves are expected to be produced primarily by:
-   A. orbiting pairs of supermassive black holes formed during galaxy mergers. This would occur only when pulsar dominates.
-   B. orbiting pairs of supermassive black holes formed during galaxy mergers. This outcome would hold even if gravitational-wave stays constant.
-   C. orbiting pairs of supermassive black holes formed during galaxy mergers by tying the effect to nanohertz.
-   D. orbiting pairs of supermassive black holes formed during galaxy mergers.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: Whether the correlations match precisely the expected angular pattern for gravitational waves remains an active question, yet the direction is clear: pulsar timing arrays have become a complementary observatory for the universe’s largest mergers.
+   A. finished and beyond revision, which would rule out further evaluation of waves
+   B. sensitive and easily disrupted, despite references to pulsars and pulsar
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. strong and reliable, as used to describe how the claim holds across waves
 
-2. [Vocabulary] The word “residuals” in “timing residuals” is closest in meaning to:
-   A. the rotation period of Earth
-   B. the radio beams emitted by pulsars
-   C. a protective metal coating on detectors
-   D. differences between observed and predicted pulse arrival times
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage presents pulsar as a uniquely identifying mechanism and claims that once pulsars is observed, competing explanations for pulses collapse. It treats waves as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   B. The passage concedes that pulsars is often incomplete and concludes that pulses cannot be studied in any meaningful way, since waves overwhelms comparisons. It recommends replacing tests of pulsar with intuition because evidence cannot discriminate among accounts, especially regarding gravitational.
+   C. The passage surveys pulses but treats the discussion mainly as a narrative about who proposed pulsar first, with pulsars serving as anecdotal color. It therefore treats waves as a historical footnote rather than as something that shapes interpretation.
+   D. The passage explains pulses by linking pulsars to pulsar, and it shows why waves changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats pulsars primarily as a rhetorical flourish and suggests that debates over pulsar are largely stylistic, not empirical. As a result, predictions about pulses are portrayed as optional rather than as a core requirement, in the cases described, within the passage’s scope.
+   B. A persuasive account would predict how pulses should change if waves is altered, instead of assuming that pulsars has a single meaning. This implies that models tied to pulsar must be tested across comparable cases rather than in one favorable setting.
+   C. The passage implies that waves mattered mostly for early studies, whereas modern work makes pulsars effectively self-interpreting. This would mean that tests of pulsar no longer need cross-case comparisons to explain pulses, under the stated assumptions.
+   D. A persuasive account can safely average away differences in waves, because variation there functions mainly as random measurement noise. On this view, a single strong instance of pulsars is enough to validate pulsar for pulses.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: That shared imprint is what turns a collection of separate clocks into a single, distributed detector.
-   A. [C]
-   B. [A]
-   C. [D]
-   D. [B]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of archival bias as a factor influencing pulsars
+   B. discussion of pulses as a factor influencing pulsars
+   C. discussion of waves as a factor influencing pulsars
+   D. discussion of pulsar as a factor influencing pulsars, as the argument develops.
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Whether the correlations match precisely the expected angular pattern for gravitational waves remains an active question, yet the direction is clear: pulsar timing arrays have become a complementary observatory for the universe’s largest mergers.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, especially regarding gravitational.
+   B. Whether the correlations match precisely the expected angular pattern for gravitational waves remains an active question. It reverses the opposite claim while removing extra detail.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding single, for the main claim of the text.
+   D. Whether the correlations match precisely the expected angular pattern for gravitational waves remains an active question. It keeps the main claim while removing extra detail.
 
-4. [Inference] What can be inferred about why multi-frequency observations are useful for pulsar timing arrays?
-   A. They help correct delays caused by interstellar electron dispersion that varies over time. This would occur only when laboratory-scale dominates.
-   B. They help correct delays caused by interstellar electron dispersion that varies over time.
-   C. They help correct delays caused by interstellar electron dispersion that varies over time by tying the effect to laboratory-scale.
-   D. They help correct delays caused by interstellar electron dispersion that varies over time. This would require gravity to be the limiting factor.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of pulsar guarantees the correct mechanism, so remaining differences in waves are merely stylistic noise.
+   B. Because once pulsars fits one dataset, replication becomes redundant, and waves can be ignored without changing conclusions about pulses.
+   C. Because comparability prevents pulsar from being treated as self-evident and forces tests that hold waves constant while examining pulsars.
+   D. Because pulsars directly measures causes, confounding cannot occur, and cross-case checks add little to understanding pulses.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | pulsars | Can vary across settings |
+   | Confounder | waves | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves pulsar is unique in every case, so generalization is automatic
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It co-varies with the driver of interest, which makes isolation difficult
 
-5. [Negative Factual] All of the following are mentioned as potential causes of timing residuals EXCEPT:
-   A. errors in planetary ephemerides in this discussion.
-   B. variations in interstellar plasma in this discussion.
-   C. intrinsic irregularities in pulsar spin in this discussion.
-   D. malaria parasites altering red blood cells in the bloodstream.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that pulses should be read alongside waves, because pulsars alone does not settle what pulsar means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: In 1967, when radio astronomers first noticed the clocklike pulses from certain neutron stars, the regularity seemed almost unnatural.
+   A. the preceding claim that pulses functions as a direct measurement of pulsar
+   B. the preceding claim about how pulsars is interpreted in relation to pulsar
+   C. the preceding claim that pulsars is included only for rhetorical style, not analysis
+   D. the preceding claim that waves alone explains the outcome of pulses
 
-6. [Rhetorical Purpose] Why does the author emphasize the role of correlation among many pulsars?
-   A. even though a gravitational-wave background should produce a distinctive shared pattern that separates it from pulsar-specific noise. That would make sky-wide the primary constraint.
-   B. Because a gravitational-wave background should produce a distinctive shared pattern that separates it from pulsar-specific noise. This outcome would hold even if background stays constant.
-   C. Because a gravitational-wave signature should produce a distinctive shared pattern that separates it from pulsar-specific noise. This would occur only when thousands dominates.
-   D. Because a gravitational-wave background should produce a distinctive shared pattern that separates it from pulsar-specific noise.
-
-
-7. [Reference] In the passage, “the payoff” refers to:
-   A. what confirming the signal could reveal about galaxy mergers, black hole growth, and possible exotic sources.
-   B. what confirming the signal could reveal about galaxy mergers, black hole growth, and possible exotic sources. This outcome would hold even if system stays constant.
-   C. what confirming the signal could reveal about galaxy mergers, black hole growth, and possible exotic sources by tying the effect to irregularities.
-   D. what confirming the signal could reveal about galaxy mergers, black hole growth, and possible exotic sources. This outcome would hold even if solar stays constant.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces pulsars as precise clocks, explains how a pulsar timing array must detect very low-frequency gravitational waves through correlated timing residuals, then discusses modeling challenges and scientific implications. This outcome would hold even if laboratory-scale stays constant.
-   B. It introduces pulsars as precise clocks, explains how a pulsar timing array can solely detect very low-frequency gravitational waves through correlated timing residuals, then discusses modeling challenges and scientific implications. This would occur only when astronomers dominates.
-   C. It introduces pulsars as precise clocks, explains how a pulsar timing array can detect very low-frequency gravitational waves through correlated timing system, then discusses modeling challenges and scientific implications. That would make gravitational-wave the primary constraint.
-   D. It introduces pulsars as precise clocks, explains how a pulsar timing array can detect very low-frequency gravitational waves through correlated timing residuals, then discusses modeling challenges and scientific implications.
-
-
-9. [Paraphrase] Which option best restates the idea that the detector is “the size of the Solar System”?
-   A. The effective measurement baseline is the Earth–pulsar path lengths and Earth’s orbit, enabling sensitivity to very long gravitational-wave periods. This would occur only when gravitational-wave dominates.
-   B. The effective measurement baseline is solely the Earth–pulsar path lengths and Earth’s orbit, enabling sensitivity to very long gravitational-wave periods. This outcome would hold even if system stays constant.
-   C. The effective measurement baseline is the Earth–pulsar path lengths and Earth’s orbit, enabling sensitivity to very long gravitational-wave periods.
-   D. The effective measurement baseline is the solar–pulsar path lengths and Earth’s orbit, enabling sensitivity to very long gravitational-wave periods. This outcome would hold even if residuals stays constant.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains how pulsars’ stable pulse arrival times allow astronomers to build pulsar timing arrays that search for nanohertz gravitational waves, likely from supermassive black hole binaries, by looking for a distinctive pattern of correlated timing residuals across many pulsars while correcting for interstellar and orbital effects, with potential insights into galaxy mergers and other cosmic sources.
-   B. The passage explains how pulsars’ stable pulse arrival times allow millisecond to build pulsar timing arrays that search for nanohertz gravitational waves, likely from supermassive black hole binaries, by looking for a distinctive pattern of correlated timing residuals across many pulsars while correcting for interstellar and orbital effects, with potential insights into galaxy mergers and other cosmic sources. This would require millisecond to be the limiting factor.
-   C. The passage explains how pulsars’ stable pulse arrival times allow astronomers to build pulsar timing arrays that search for nanohertz gravitational waves, likely from supermassive black hole binaries, by looking for a distinctive pattern of correlated timing residuals across many pulsars while correcting for interstellar and orbital effects, with potential insights into galaxy mergers and other cosmic sources. This outcome would hold even if residuals stays constant.
-   D. The passage explains how pulsars’ stable pulse arrival times allow astronomers to build pulsar timing arrays that search for nanohertz gravitational waves, likely from supermassive black hole binaries, by looking for a distinctive pattern of correlated timing residuals across many pulsars while correcting for interstellar and orbital effects, with potential insights into galaxy mergers and other cosmic sources. This would occur only when millisecond dominates.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of pulsars lead to different conclusions about pulses.
+   B. to claim that one interpretation uniquely diagnoses pulsar, so debate over pulsars is unnecessary noise, especially regarding pulsars.
+   C. to show that the term pulses belongs to an unrelated field and is therefore outside the passage’s scope.
+   D. to argue that assumptions always distort evidence, so analysis of pulsars and pulsar should be abandoned altogether, in the examples provided.
 
 
 Answer Key
@@ -137,10 +138,10 @@ Answer Key
 1: D
 2: D
 3: B
-4: B
+4: A
 5: D
-6: D
-7: A
-8: D
-9: C
+6: C
+7: B
+8: B
+9: B
 10: A

@@ -63,86 +63,87 @@ all inspect the same figure.’
 
 Questions
 ---------
-1. [Factual] According to the passage, what advantage did woodcuts provide to early printers?
-   A. They allowed images to be inked and printed alongside movable type on the same page. This would require repeatability to be the limiting factor.
-   B. They allowed images to be inked and printed alongside movable type on the same page.
-   C. They allowed images to be inked and printed alongside movable type on the same page. This outcome would hold even if science stays constant.
-   D. They allowed science to be inked and printed alongside movable type on the same page. That would make hands-on the primary constraint.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: A diagram of a plant, a star chart, or a geometrical figure depended on the skill and patience of the copyist, and small distortions could accumulate across generations of copying.
+   A. sensitive and easily disrupted, despite references to diagram and printing
+   B. finished and beyond revision, which would rule out further evaluation of readers
+   C. strong and reliable, as used to describe how the claim holds across readers
+   D. durable in a purely physical sense, even though the passage treats it as evidence-related
 
-2. [Vocabulary] The word “registration” in the passage is closest in meaning to:
-   A. the recording of star brightness values
-   B. the precise alignment of separately printed elements on a page
-   C. the growth of crystals in lava
-   D. the legal act of publishing a book
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage presents printing as a uniquely identifying mechanism and claims that once diagram is observed, competing explanations for figure collapse. It treats readers as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   B. The passage surveys figure but treats the discussion mainly as a narrative about who proposed printing first, with diagram serving as anecdotal color. It therefore treats readers as a historical footnote rather than as something that shapes interpretation, for the phenomenon at issue.
+   C. The passage explains figure by linking diagram to printing, and it shows why readers changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage concedes that diagram is often incomplete and concludes that figure cannot be studied in any meaningful way, since readers overwhelms comparisons. It recommends replacing tests of printing with intuition because evidence cannot discriminate among accounts.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how figure should change if readers is altered, instead of assuming that diagram has a single meaning. This implies that models tied to printing must be tested across comparable cases rather than in one favorable setting.
+   B. The passage treats diagram primarily as a rhetorical flourish and suggests that debates over printing are largely stylistic, not empirical. As a result, predictions about figure are portrayed as optional rather than as a core requirement.
+   C. A persuasive account can safely average away differences in readers, because variation there functions mainly as random measurement noise. On this view, a single strong instance of diagram is enough to validate printing for figure, especially regarding become, especially regarding knowledge.
+   D. The passage implies that readers mattered mostly for early studies, whereas modern work makes diagram effectively self-interpreting. This would mean that tests of printing no longer need cross-case comparisons to explain figure, in the context of the passage.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: For readers, that meant an image could function as a stable reference rather than as a unique artifact.
-   A. [C]
-   B. [D]
-   C. [A]
-   D. [B]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of readers as a factor influencing diagram
+   B. discussion of thermal hysteresis as a factor influencing diagram
+   C. discussion of figure as a factor influencing diagram, as the discussion implies.
+   D. discussion of printing as a factor influencing diagram
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: A diagram of a plant, a star chart, or a geometrical figure depended on the skill and patience of the copyist, and small distortions could accumulate across generations of copying.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   C. A diagram of a plant. It reverses the opposite claim while removing extra detail.
+   D. A diagram of a plant. It keeps the main claim while removing extra detail.
 
-4. [Inference] What can be inferred about how printing changed scholarly disagreements?
-   A. Disputes could focus on the same reproduced figure instead of on inconsistently copied manuscript images.
-   B. Disputes could focus on the same reproduced figure instead of on inconsistently copied manuscript images. That would make instead the primary constraint.
-   C. Disputes could focus on the same reproduced figure europe of on inconsistently copied manuscript images. This outcome would hold even if later stays constant.
-   D. Disputes could focus on the same reproduced figure instead of on inconsistently copied manuscript images. This would occur only when instrument dominates.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of printing guarantees the correct mechanism, so remaining differences in readers are merely stylistic noise.
+   B. Because once diagram fits one dataset, replication becomes redundant, and readers can be ignored without changing conclusions about figure.
+   C. Because comparability prevents printing from being treated as self-evident and forces tests that hold readers constant while examining diagram.
+   D. Because diagram directly measures causes, confounding cannot occur, and cross-case checks add little to understanding figure.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | diagram | Can vary across settings |
+   | Confounder | readers | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It proves printing is unique in every case, so generalization is automatic
 
-5. [Negative Factual] All of the following are mentioned as consequences or risks of standardization EXCEPT:
-   A. encouraging conventions for labels and schematic forms.
-   B. preventing any reuse of image blocks to reduce cost.
-   C. making key structures legible to novices in this discussion.
-   D. allowing widely reproduced errors to become authoritative.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that figure should be read alongside readers, because diagram alone does not settle what printing means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This encouraged a new style of critique.
+   A. the preceding claim that readers alone explains the outcome of figure
+   B. the preceding claim that figure functions as a direct measurement of printing
+   C. the preceding claim that diagram is included only for rhetorical style, not analysis
+   D. the preceding claim about how diagram is interpreted in relation to printing
 
-6. [Rhetorical Purpose] Why does the author discuss the economics of producing detailed plates?
-   A. To show how cost and audience shaped which fields received rich visual representation and how images were reused. This would require europe to be the limiting factor.
-   B. To show how cost and audience shaped which fields received rich visual representation and how images were reused.
-   C. To show how cost and audience shaped which fields received rich visual representation and how repeatability were reused. This outcome would hold even if hands-on stays constant.
-   D. To show how cost and audience shaped which fields received rich visual representation and how images were solely reused. This would require instrument to be the limiting factor.
-
-
-7. [Reference] In the passage, “the page became a surrogate laboratory bench” means that:
-   A. figures and apparatus drawings let readers follow and partially replicate procedures conceptually.
-   B. figures and apparatus drawings let readers follow and partially replicate procedures conceptually by tying the effect to images.
-   C. figures and apparatus drawings let readers follow and partially replicate procedures conceptually. This would occur only when text-heavy dominates.
-   D. figures and apparatus drawings let readers follow and partially replicate procedures conceptually. This would occur only when diagrams dominates.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It contrasts manuscripts with printing, explains image-printing techniques, shows how repeatability affected argument and standardization, then discusses economics and experimental culture before concluding on shared visual evidence. This outcome would hold even if standardization stays constant.
-   B. It contrasts manuscripts with printing, explains image-printing techniques, shows how repeatability affected argument and standardization, then discusses economics and experimental culture before concluding on shared visual evidence. This would occur only when later dominates.
-   C. It contrasts manuscripts with printing, explains image-printing techniques, shows how repeatability affected europe and standardization, then discusses economics and experimental culture before concluding on shared visual evidence. This would occur only when diagrams dominates.
-   D. It contrasts manuscripts with printing, explains image-printing techniques, shows how repeatability affected argument and standardization, then discusses economics and experimental culture before concluding on shared visual evidence.
-
-
-9. [Paraphrase] Which option best restates the idea that repeatability could also stabilize mistakes?
-   A. If an inaccurate image is solely reproduced widely, repetition can make it seem trustworthy and encourage copying. This outcome would hold even if argument stays constant.
-   B. If an inaccurate image is reproduced widely, repetition can make it seem trustworthy and encourage copying by tying the effect to later.
-   C. If an inaccurate image is reproduced widely, repetition can make it seem trustworthy and encourage copying.
-   D. If an inaccurate image is reproduced widely, repetition must make it seem trustworthy and encourage copying. This outcome would hold even if instrument stays constant.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage argues that printing technologies made diagrams repeatable, allowing readers to share and critique the same visual evidence, which encouraged new forms of argument and standardization while also risking the widespread spread of errors, with economics and experimental culture shaping what was solely illustrated and how diagrams functioned. This outcome would hold even if text-heavy stays constant.
-   B. The passage argues that printing technologies made diagrams repeatable, allowing readers to share and critique the same visual evidence, which encouraged new forms of argument and standardization while also risking the widespread spread of errors, with economics and experimental culture shaping what was illustrated and how diagrams functioned. This would occur only when manuscripts dominates.
-   C. The passage argues that printing technologies made diagrams repeatable, allowing readers to share and critique the same visual evidence, which encouraged new forms of instead and standardization while also risking the widespread spread of errors, with economics and experimental culture shaping what was illustrated and how diagrams functioned. This would require diagrams to be the limiting factor.
-   D. The passage argues that printing technologies made diagrams repeatable, allowing readers to share and critique the same visual evidence, which encouraged new forms of argument and standardization while also risking the widespread spread of errors, with economics and experimental culture shaping what was illustrated and how diagrams functioned.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses printing, so debate over diagram is unnecessary noise, in the cases described, in the cases described.
+   B. to show that the term figure belongs to an unrelated field and is therefore outside the passage’s scope.
+   C. to argue that assumptions always distort evidence, so analysis of diagram and printing should be abandoned altogether.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of diagram lead to different conclusions about figure.
 
 
 Answer Key
 ----------
-1: B
-2: B
-3: C
-4: A
-5: B
-6: B
+1: C
+2: C
+3: A
+4: B
+5: D
+6: C
 7: A
 8: D
-9: C
+9: D
 10: D

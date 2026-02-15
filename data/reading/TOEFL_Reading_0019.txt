@@ -62,86 +62,87 @@ infrastructure.
 
 Questions
 ---------
-1. [Factual] According to the passage, what directly triggers subsidence when groundwater is depleted?
-   A. A drop in pore-water pressure increases effective stress, causing sediment compaction. This would require sea-level to be the limiting factor.
-   B. A drop in pore-water pressure increases effective stress, causing sediment compaction.
-   C. A drop in pore-water pressure increases effective stress, causing sediment compaction. That would make accelerates the primary constraint.
-   D. A drop in pore-water pressure increases effective stress, causing sediment mitigation. This would require mitigation to be the limiting factor.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: Over years, however, the totals can be dramatic, reaching tens of centimeters or more in some basins, enough to change flood maps and to force expensive redesigns of water infrastructure.
+   A. finished and beyond revision, which would rule out further evaluation of pumping
+   B. sensitive and easily disrupted, despite references to pressure and subsidence
+   C. strong and reliable, as used to describe how the claim holds across pumping
+   D. durable in a purely physical sense, even though the passage treats it as evidence-related
 
-2. [Vocabulary] The word “inelastic” in the passage is closest in meaning to:
-   A. perfectly springy in sense
-   B. unmeasurable in sense
-   C. not fully reversible in sense
-   D. extremely rapid in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that pressure is often incomplete and concludes that water cannot be studied in any meaningful way, since pumping overwhelms comparisons. It recommends replacing tests of subsidence with intuition because evidence cannot discriminate among accounts, especially regarding aquifer.
+   B. The passage surveys water but treats the discussion mainly as a narrative about who proposed subsidence first, with pressure serving as anecdotal color. It therefore treats pumping as a historical footnote rather than as something that shapes interpretation.
+   C. The passage explains water by linking pressure to subsidence, and it shows why pumping changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage presents subsidence as a uniquely identifying mechanism and claims that once pressure is observed, competing explanations for water collapse. It treats pumping as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats pressure primarily as a rhetorical flourish and suggests that debates over subsidence are largely stylistic, not empirical. As a result, predictions about water are portrayed as optional rather than as a core requirement.
+   B. The passage implies that pumping mattered mostly for early studies, whereas modern work makes pressure effectively self-interpreting. This would mean that tests of subsidence no longer need cross-case comparisons to explain water, in the setting discussed.
+   C. A persuasive account would predict how water should change if pumping is altered, instead of assuming that pressure has a single meaning. This implies that models tied to subsidence must be tested across comparable cases rather than in one favorable setting.
+   D. A persuasive account can safely average away differences in pumping, because variation there functions mainly as random measurement noise. On this view, a single strong instance of pressure is enough to validate subsidence for water, especially regarding pressure, especially regarding subsidence.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In other words, the ground’s response can be delayed relative to the pumping that caused it.
-   A. [B]
-   B. [C]
-   C. [A]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of subsidence as a factor influencing pressure, especially regarding subsidence.
+   B. discussion of water as a factor influencing pressure
+   C. discussion of pumping as a factor influencing pressure
+   D. discussion of archival bias as a factor influencing pressure
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Over years, however, the totals can be dramatic, reaching tens of centimeters or more in some basins, enough to change flood maps and to force expensive redesigns of water infrastructure.
+   A. Over years. It reverses the opposite claim while removing extra detail, especially regarding pressure.
+   B. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   D. Over years. It keeps the main claim while removing extra detail, especially regarding subsidence.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once pressure fits one dataset, replication becomes redundant, and pumping can be ignored without changing conclusions about water.
+   B. Because pressure directly measures causes, confounding cannot occur, and cross-case checks add little to understanding water.
+   C. Because comparability prevents subsidence from being treated as self-evident and forces tests that hold pumping constant while examining pressure.
+   D. Because the presence of subsidence guarantees the correct mechanism, so remaining differences in pumping are merely stylistic noise.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | pressure | Can vary across settings |
+   | Confounder | pumping | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It proves subsidence is unique in every case, so generalization is automatic
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that water should be read alongside pumping, because pressure alone does not settle what subsidence means.
+   A. [A]
+   B. [B]
+   C. [C]
    D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: [A] This lag means that subsidence can continue even after pumping is reduced, because the system is still adjusting to past pressure declines.
+   A. the preceding claim that water functions as a direct measurement of subsidence
+   B. the preceding claim about how pressure is interpreted in relation to subsidence
+   C. the preceding claim that pressure is included only for rhetorical style, not analysis
+   D. the preceding claim that pumping alone explains the outcome of water
 
-4. [Inference] What can be inferred from the passage about why subsidence risk may worsen during drought?
-   A. Drought reduces surface-water availability, increasing pumping and accelerating pressure decline and compaction. This would require depletion to be the limiting factor.
-   B. Drought reduces surface-water availability, increasing pumping and accelerating pressure decline and compaction. That would make sea-level the primary constraint.
-   C. Drought reduces surface-water availability, increasing pumping and accelerating pressure decline and compaction.
-   D. Drought reduces mitigation availability, increasing pumping and accelerating pressure decline and compaction. That would make consolidation the primary constraint.
-
-
-5. [Negative Factual] All of the following are described as consequences of differential subsidence EXCEPT:
-   A. levees cracking and increasing flood risk in this discussion.
-   B. coastal storm surges becoming more damaging when combined with lower land.
-   C. mountain peaks rising as basins compact in this discussion.
-   D. canals losing their designed gradient in this discussion.
-
-
-6. [Rhetorical Purpose] Why does the author distinguish between sands and clays?
-   A. To show that sediment type affects how quickly and how reversibly an aquifer compacts by tying the effect to levees.
-   B. To show that sediment type affects how quickly and how reversibly an aquifer compacts. That would make water-intense the primary constraint.
-   C. To show that sediment type affects how quickly and how reversibly an aquifer compacts. This outcome would hold even if structure stays constant.
-   D. To show that sediment type affects how quickly and how reversibly an aquifer compacts.
-
-
-7. [Reference] In the sentence “This lag means that subsidence can continue…,” “This lag” refers to:
-   A. the time required for clays to consolidate as bound water is solely expelled. This would occur only when structure dominates.
-   B. the time required for clays to consolidate as bound water is expelled by tying the effect to canals.
-   C. the time required for clays to consolidate as bound water is expelled.
-   D. the time required for clays to consolidate as bound water is expelled. That would make accelerates the primary constraint.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It explains the physical mechanism, shows how sediment type and time create lags, describes uneven groundwater impacts and feedbacks, and ends with mitigation options. This would occur only when mitigation dominates.
-   B. It explains the physical mechanism, shows how sediment type and time create lags, describes uneven surface impacts and feedbacks, and ends with mitigation options.
-   C. It explains the physical mechanism, shows how sediment type and time create lags, describes uneven surface impacts and feedbacks, and ends with mitigation options. This would occur only when depletion dominates.
-   D. It explains the physical mechanism, shows how sediment type and time create lags, describes uneven surface impacts and feedbacks, and ends with mitigation options. That would make levees the primary constraint.
-
-
-9. [Paraphrase] Which option best restates the idea that the aquifer “does two jobs at once”?
-   A. It provides water while also supporting land by maintaining pore pressure in sediments by tying the effect to surface.
-   B. It provides water while also supporting land by maintaining pore pressure in sediments. That would make sea-level the primary constraint.
-   C. It provides water while also supporting land by maintaining pore pressure in sediments. This outcome would hold even if surface stays constant.
-   D. It provides water while also supporting land by maintaining pore pressure in sediments.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that pumping lowers pore pressure, transferring stress to sediment grains and compacting aquifers—especially clays—so subsidence can lag, become irreversible, damage infrastructure, and even reinforce further pumping, while recharge and demand reduction can mitigate the chain.
-   B. The passage explains that pumping lowers pore pressure, transferring stress to sediment grains and compacting aquifers—especially clays—so subsidence must lag, become irreversible, damage infrastructure, and even reinforce further pumping, while recharge and demand reduction can mitigate the chain. This would require mitigation to be the limiting factor.
-   C. The passage explains that pumping lowers pore pressure, transferring stress to sediment grains and compacting aquifers—especially clays—so water-intense can lag, become irreversible, damage infrastructure, and even reinforce further pumping, while recharge and demand reduction can mitigate the chain. This outcome would hold even if accelerates stays constant.
-   D. The passage explains that pumping lowers pore pressure, transferring stress to sediment grains and compacting aquifers—especially clays—so subsidence can solely lag, become irreversible, damage infrastructure, and even reinforce further pumping, while recharge and demand reduction can mitigate the chain. This outcome would hold even if canals stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term water belongs to an unrelated field and is therefore outside the passage’s scope.
+   B. to argue that assumptions always distort evidence, so analysis of pressure and subsidence should be abandoned altogether.
+   C. to claim that one interpretation uniquely diagnoses subsidence, so debate over pressure is unnecessary noise, especially regarding aquifer, especially regarding clays.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of pressure lead to different conclusions about water.
 
 
 Answer Key
 ----------
-1: B
+1: C
 2: C
 3: C
-4: C
-5: C
-6: D
-7: C
+4: D
+5: D
+6: C
+7: A
 8: B
-9: D
-10: A
+9: B
+10: D

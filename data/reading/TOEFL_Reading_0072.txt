@@ -56,86 +56,87 @@ quietly in one season and lock in another.
 
 Questions
 ---------
-1. [Factual] According to the passage, slow slip events are best described as:
-   A. fault movements that release strain over days to months with little or no strong shaking by tying the effect to quiet.
-   B. fault movements that release strain over days to months with little or no strong shaking. This would occur only when along dominates.
-   C. fault movements that release strain over days to months with little or no strong shaking.
-   D. fault movements that release strain over days to months with little or no strong shaking. This outcome would hold even if first stays constant.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: Over the last two decades, geophysicists have documented slow slip events: episodes in which a fault creeps centimeters over days to months, releasing energy without the violent shaking that characterizes typical earthquakes.
+   A. sensitive and easily disrupted, despite references to locked and plate
+   B. durable in a purely physical sense, even though the passage treats it as evidence-related
+   C. finished and beyond revision, which would rule out further evaluation of earthquakes
+   D. strong and reliable, as used to describe how the claim holds across earthquakes
 
-2. [Vocabulary] The word “coherent” in the passage is closest in meaning to:
-   A. loud enough to be heard by people
-   B. chemically pure in sense
-   C. consistent and correlated across multiple measurements
-   D. random and unrelated in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage presents plate as a uniquely identifying mechanism and claims that once locked is observed, competing explanations for fault collapse. It treats earthquakes as minor noise and suggests that a single measurement is sufficient for a final conclusion, for the main claim of the text.
+   B. The passage concedes that locked is often incomplete and concludes that fault cannot be studied in any meaningful way, since earthquakes overwhelms comparisons. It recommends replacing tests of plate with intuition because evidence cannot discriminate among accounts.
+   C. The passage surveys fault but treats the discussion mainly as a narrative about who proposed plate first, with locked serving as anecdotal color. It therefore treats earthquakes as a historical footnote rather than as something that shapes interpretation.
+   D. The passage explains fault by linking locked to plate, and it shows why earthquakes changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how fault should change if earthquakes is altered, instead of assuming that locked has a single meaning. This implies that models tied to plate must be tested across comparable cases rather than in one favorable setting.
+   B. The passage implies that earthquakes mattered mostly for early studies, whereas modern work makes locked effectively self-interpreting. This would mean that tests of plate no longer need cross-case comparisons to explain fault, in the setting discussed, especially regarding earthquakes, given the evidence cited.
+   C. A persuasive account can safely average away differences in earthquakes, because variation there functions mainly as random measurement noise. On this view, a single strong instance of locked is enough to validate plate for fault.
+   D. The passage treats locked primarily as a rhetorical flourish and suggests that debates over plate are largely stylistic, not empirical. As a result, predictions about fault are portrayed as optional rather than as a core requirement.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: That mixed behavior helps explain why the signal was invisible before dense geodetic networks existed.
-   A. [C]
-   B. [D]
-   C. [B]
-   D. [A]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of earthquakes as a factor influencing locked
+   B. discussion of plate as a factor influencing locked
+   C. discussion of fault as a factor influencing locked, for the main claim of the text.
+   D. discussion of archival bias as a factor influencing locked
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Over the last two decades, geophysicists have documented slow slip events: episodes in which a fault creeps centimeters over days to months, releasing energy without the violent shaking that characterizes typical earthquakes.
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   B. Over the last two decades. It reverses the opposite claim while removing extra detail.
+   C. Over the last two decades. It keeps the main claim while removing extra detail.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
 
-4. [Inference] What can be inferred about why fluids can promote slow slip?
-   A. By increasing pore pressure, fluids reduce effective clamping, allowing sliding to occur more easily by tying the effect to deeper.
-   B. By increasing pore pressure, fluids reduce effective clamping, allowing sliding to occur less easily. This outcome would hold even if quiet stays constant.
-   C. By increasing pore pressure, fluids reduce effective clamping, allowing sliding to occur more easily.
-   D. By increasing pore pressure, fluids reduce effective clamping, allowing sliding to occur more easily. This would occur only when mechanics dominates.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents plate from being treated as self-evident and forces tests that hold earthquakes constant while examining locked.
+   B. Because the presence of plate guarantees the correct mechanism, so remaining differences in earthquakes are merely stylistic noise.
+   C. Because once locked fits one dataset, replication becomes redundant, and earthquakes can be ignored without changing conclusions about fault.
+   D. Because locked directly measures causes, confounding cannot occur, and cross-case checks add little to understanding fault.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | locked | Can vary across settings |
+   | Confounder | earthquakes | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It proves plate is unique in every case, so generalization is automatic
 
-5. [Negative Factual] All of the following are mentioned as possible reasons for periodicity in slow slip EXCEPT:
-   A. sealing and leaking of the interface in this discussion.
-   B. seasonal changes in solar radiation heating the mantle by hundreds of degrees.
-   C. fluid migration in this discussion.
-   D. stress-related permeability changes in this discussion.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that fault should be read alongside earthquakes, because locked alone does not settle what plate means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This has raised interest in whether slow slip can serve as a precursor to larger events.
+   A. the preceding claim that locked is included only for rhetorical style, not analysis
+   B. the preceding claim that fault functions as a direct measurement of plate
+   C. the preceding claim that earthquakes alone explains the outcome of fault
+   D. the preceding claim about how locked is interpreted in relation to plate
 
-6. [Rhetorical Purpose] Why does the author mention that some large earthquakes occur without obvious slow precursors?
-   A. To caution against treating slow slip as a reliable warning signal in every case. This would require temperatures to be the limiting factor.
-   B. To caution against treating slow slip as a reliable warning signal in every case.
-   C. To caution against treating slow slip as a reliable warning signal in every case by tying the effect to subduction.
-   D. To caution against treating slow slip as a reliable warning signal in every case. That would make mechanics the primary constraint.
-
-
-7. [Reference] In the passage, “those whispers” refers to:
-   A. deep, quiet slow slip episodes that redistribute stress. This would occur only when water dominates.
-   B. deep, deeper slow slip episodes that redistribute stress. This outcome would hold even if first stays constant.
-   C. deep, quiet slow slip episodes that redistribute stress.
-   D. deep, quiet slow slip episodes that redistribute stress. This would require mechanics to be the limiting factor.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It defines slow slip, describes how it was detected, explains likely physical causes, then discusses timing, stress transfer, and implications for hazard modeling.
-   B. It defines slow slip, describes how it was detected, explains likely physical causes, then discusses timing, stress transfer, and implications for hazard modeling by tying the effect to deeper.
-   C. It defines slow slip, describes how it was solely detected, explains likely physical causes, then discusses timing, stress transfer, and implications for hazard modeling. This would require first to be the limiting factor.
-   D. It defines slow slip, describes how it was detected, explains likely physical causes, then discusses timing, stress transfer, and implications for hazard modeling. This would occur only when earthquakes dominates.
-
-
-9. [Paraphrase] Which option best restates the claim that “locked” and “unlocked” are not permanent labels?
-   A. Fault segments can shift between creeping and sticking depending on conditions such as fluids and stress.
-   B. Fault segments can shift between creeping and sticking depending on conditions such as fluids and stress by tying the effect to irregular.
-   C. Fault segments can solely shift between creeping and sticking depending on conditions such as fluids and stress. That would make irregular the primary constraint.
-   D. Fault segments must shift between creeping and sticking depending on conditions such as fluids and stress. That would make along the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains slow slip events in subduction zones as days-to-months fault movements detected by GPS and often associated with tremor, outlines explanations involving depth-dependent friction and fluid-driven pore pressure, and discusses how slow slip must redistribute stress and complicate seismic hazard without serving as a universal earthquake warning. That would make irregular the primary constraint.
-   B. The passage explains slow slip events in megathrust zones as days-to-months fault movements detected by GPS and often associated with tremor, outlines explanations involving depth-dependent friction and fluid-driven pore pressure, and discusses how slow slip can redistribute stress and complicate seismic hazard without serving as a universal earthquake warning. This outcome would hold even if mechanics stays constant.
-   C. The passage explains slow slip events in subduction zones as days-to-months fault movements detected by GPS and often associated with tremor, outlines explanations involving depth-dependent friction and fluid-driven pore pressure, and discusses how slow slip can solely redistribute stress and complicate seismic hazard without serving as a universal earthquake warning. That would make irregular the primary constraint.
-   D. The passage explains slow slip events in subduction zones as days-to-months fault movements detected by GPS and often associated with tremor, outlines explanations involving depth-dependent friction and fluid-driven pore pressure, and discusses how slow slip can redistribute stress and complicate seismic hazard without serving as a universal earthquake warning.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses plate, so debate over locked is unnecessary noise, as the discussion implies.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of locked lead to different conclusions about fault.
+   C. to show that the term fault belongs to an unrelated field and is therefore outside the passage’s scope.
+   D. to argue that assumptions always distort evidence, so analysis of locked and plate should be abandoned altogether, especially regarding locked.
 
 
 Answer Key
 ----------
-1: C
-2: C
-3: D
-4: C
-5: B
-6: B
-7: C
-8: A
-9: A
-10: D
+1: D
+2: D
+3: A
+4: D
+5: C
+6: A
+7: B
+8: D
+9: D
+10: B

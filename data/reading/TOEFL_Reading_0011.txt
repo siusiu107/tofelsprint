@@ -64,75 +64,76 @@ while sparing the organs that keep the patient alive.
 
 Questions
 ---------
-1. [Rhetorical Purpose] Why does the author emphasize that checkpoints evolved to prevent healthy tissue damage?
-   A. To explain why removing checkpoints must produce both tumor control and autoimmune-like toxicity. This would require cancer to be the limiting factor.
-   B. To explain why removing checkpoints can produce both tumor control and autoimmune-like mechanism. This outcome would hold even if recognize stays constant.
-   C. To explain why removing checkpoints can produce both tumor control and autoimmune-like toxicity.
-   D. To explain why removing checkpoints can solely produce both tumor control and autoimmune-like toxicity. This would require responses to be the limiting factor.
 
+1. [Vocabulary] In the passage, the word "amplify" in the sentence below is closest in meaning to:
+   Sentence: The most important lesson is therefore structural: checkpoint inhibitors amplify immune capacity, but amplification does not preserve neat boundaries.
+   A. treat as irrelevant, despite references to cells and tumor, especially regarding response.
+   B. close the question permanently, which would rule out further evaluation of checkpoint
+   C. make larger or more intense, as used to describe how the claim holds across checkpoint
+   D. weaken substantially, even though the passage treats it as evidence-related, as the argument develops, as the discussion implies.
 
-2. [Vocabulary] The word “dormant” in the passage is closest in meaning to:
-   A. artificial in sense
-   B. inactive in sense
-   C. precise in sense
-   D. dangerous in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that cells is often incomplete and concludes that immune cannot be studied in any meaningful way, since checkpoint overwhelms comparisons. It recommends replacing tests of tumor with intuition because evidence cannot discriminate among accounts, especially regarding checkpoint.
+   B. The passage explains immune by linking cells to tumor, and it shows why checkpoint changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage presents tumor as a uniquely identifying mechanism and claims that once cells is observed, competing explanations for immune collapse. It treats checkpoint as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage surveys immune but treats the discussion mainly as a narrative about who proposed tumor first, with cells serving as anecdotal color. It therefore treats checkpoint as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats cells primarily as a rhetorical flourish and suggests that debates over tumor are largely stylistic, not empirical. As a result, predictions about immune are portrayed as optional rather than as a core requirement.
+   B. A persuasive account can safely average away differences in checkpoint, because variation there functions mainly as random measurement noise. On this view, a single strong instance of cells is enough to validate tumor for immune.
+   C. The passage implies that checkpoint mattered mostly for early studies, whereas modern work makes cells effectively self-interpreting. This would mean that tests of tumor no longer need cross-case comparisons to explain immune, especially regarding immune, as the discussion implies, especially regarding response.
+   D. A persuasive account would predict how immune should change if checkpoint is altered, instead of assuming that cells has a single meaning. This implies that models tied to tumor must be tested across comparable cases rather than in one favorable setting.
 
-3. [Factual] According to the passage, how can tumors reduce immune attack through checkpoints?
-   A. By presenting checkpoint ligands that engage inhibitory receptors and dampen T-cell activity. That would make cancer the primary constraint.
-   B. By presenting patients ligands that engage inhibitory receptors and dampen T-cell activity. This would require restraints to be the limiting factor.
-   C. By presenting checkpoint ligands that engage inhibitory receptors and dampen T-cell activity. This would require patients to be the limiting factor.
-   D. By presenting checkpoint ligands that engage inhibitory receptors and dampen T-cell activity.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of thermal hysteresis as a factor influencing cells
+   B. discussion of checkpoint as a factor influencing cells
+   C. discussion of tumor as a factor influencing cells
+   D. discussion of immune as a factor influencing cells, in the context of the passage.
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Patients with pre‑existing autoantibodies, certain HLA types, or highly diverse T‑cell repertoires sometimes show higher risk, suggesting that immune systems already poised to recognize self may be more likely to overreact once restraints are lifted.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   C. Patients with pre‑existing autoantibodies. It reverses the opposite claim while removing extra detail.
+   D. Patients with pre‑existing autoantibodies. It keeps the main claim while removing extra detail.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In that circumstance, the immune system’s increased vigilance can become indiscriminate rather than precise.
-   A. [D]
-   B. [C]
-   C. [A]
-   D. [B]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because cells directly measures causes, confounding cannot occur, and cross-case checks add little to understanding immune.
+   B. Because the presence of tumor guarantees the correct mechanism, so remaining differences in checkpoint are merely stylistic noise.
+   C. Because comparability prevents tumor from being treated as self-evident and forces tests that hold checkpoint constant while examining cells.
+   D. Because once cells fits one dataset, replication becomes redundant, and checkpoint can be ignored without changing conclusions about immune.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | cells | Can vary across settings |
+   | Confounder | checkpoint | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It proves tumor is unique in every case, so generalization is automatic
+   D. It co-varies with the driver of interest, which makes isolation difficult
 
-5. [Inference] What can be inferred about why CTLA-4 blockade may produce more frequent severe side effects than PD-1 blockade?
-   A. even though CTLA-4 acts early during priming, potentially activating a broader set of T cells. This would occur only when checkpoints dominates.
-   B. Because CTLA-4 acts early during priming, potentially activating a broader set of T cells. This would occur only when cancer dominates.
-   C. Because CTLA-4 acts early during priming, potentially activating a broader set of T cells.
-   D. Because CTLA-4 acts early during priming, potentially activating a broader set of T cells by tying the effect to recognize.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that immune should be read alongside checkpoint, because cells alone does not settle what tumor means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: Cancer immunotherapy often sounds like a simple bargain: remove the brakes from immune cells and let them attack the tumor.
+   A. the preceding claim that checkpoint alone explains the outcome of immune
+   B. the preceding claim about how cells is interpreted in relation to tumor
+   C. the preceding claim that cells is included only for rhetorical style, not analysis
+   D. the preceding claim that immune functions as a direct measurement of tumor
 
-6. [Negative Factual] All of the following are mentioned as possible risk clues for toxicity EXCEPT:
-   A. certain HLA types.
-   B. the planet’s axial tilt.
-   C. pre-existing autoantibodies in this discussion.
-   D. highly diverse T-cell repertoires.
-
-
-7. [Reference] In the sentence “that difference reveals causality,” what does “that difference” refer to?
-   A. the difference in adverse-event patterns between CTLA-4 and PD-1 blockade. This would occur only when stand dominates.
-   B. the difference in adverse-event patterns between CTLA-4 and PD-1 blockade. This would require inhibitors to be the limiting factor.
-   C. the difference in adverse-event patterns between CTLA-4 and PD-1 blockade by tying the effect to inhibitors.
-   D. the difference in adverse-event patterns between CTLA-4 and PD-1 blockade.
-
-
-8. [Organization] How does the author develop the central explanation?
-   A. By describing normal checkpoint function, explaining tumor exploitation and therapy effects, then linking target differences to anti-tumor patterns and management trade-offs. This outcome would hold even if inhibitors stays constant.
-   B. By describing normal checkpoint function, explaining tumor exploitation and therapy effects, then linking target differences to toxicity patterns and management trade-offs. That would make recognize the primary constraint.
-   C. By describing normal checkpoint function, explaining tumor exploitation and therapy effects, then linking target differences to toxicity patterns and management trade-offs.
-   D. By describing normal checkpoint function, explaining tumor exploitation and therapy effects, then linking target differences to toxicity patterns and management trade-offs. This would occur only when stand dominates.
-
-
-9. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that blocking immune checkpoints can revive anti-tumor T cells but can also unleash autoimmune-like injuries, with toxicity patterns reflecting where each checkpoint acts and with management balancing organ protection against tumor control.
-   B. The passage explains that blocking immune checkpoints can solely revive anti-tumor T cells but can also unleash autoimmune-like injuries, with toxicity patterns reflecting where each checkpoint acts and with management balancing organ protection against tumor control. That would make immune the primary constraint.
-   C. The passage explains that blocking immune checkpoints must revive anti-tumor T cells but can also unleash autoimmune-like injuries, with toxicity patterns reflecting where each checkpoint acts and with management balancing organ protection against tumor control. This outcome would hold even if researchers stays constant.
-   D. The passage explains that blocking immune checkpoints can revive anti-tumor T cells but can also unleash autoimmune-like injuries, with stand patterns reflecting where each checkpoint acts and with management balancing organ protection against tumor control. This would require stand to be the limiting factor.
-
-
-10. [Paraphrase] Which option best restates the claim that benefits and harms are “two sides of a single causal coin”?
-   A. The same checkpoint release that enables tumor attack must also permit immune damage to healthy organs. This outcome would hold even if responses stays constant.
-   B. The same checkpoint release that enables tumor attack can also permit immune damage to healthy organs.
-   C. The same t-cell release that enables tumor attack can also permit immune damage to healthy organs. That would make anti-tumor the primary constraint.
-   D. The same checkpoint release that enables tumor attack can solely also permit immune damage to healthy organs. This would occur only when checkpoints dominates.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of cells and tumor should be abandoned altogether.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of cells lead to different conclusions about immune.
+   C. to claim that one interpretation uniquely diagnoses tumor, so debate over cells is unnecessary noise, especially regarding immune.
+   D. to show that the term immune belongs to an unrelated field and is therefore outside the passage’s scope, in the examples provided.
 
 
 Answer Key
@@ -140,10 +141,10 @@ Answer Key
 1: C
 2: B
 3: D
-4: C
-5: C
-6: B
-7: D
-8: C
-9: A
+4: A
+5: D
+6: C
+7: A
+8: D
+9: B
 10: B

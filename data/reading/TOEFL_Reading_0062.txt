@@ -61,86 +61,87 @@ hippocampal traces are more likely to be replayed.
 
 Questions
 ---------
-1. [Factual] According to the passage, sleep spindles are typically characterized as:
-   A. brief bursts of roughly 11–16 hertz oscillations during non-REM sleep. This outcome would hold even if manipulation stays constant.
-   B. brief bursts of roughly 11–16 hertz oscillations during non-REM sleep.
-   C. brief bursts of roughly 11–16 hertz shield during non-REM sleep. That would make physiology the primary constraint.
-   D. brief bursts of roughly 11–16 hertz oscillations during non-REM sleep. That would make rewire the primary constraint.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: [D] They help keep the sleeper asleep, yet they also appear to help the sleeping brain revise itself—quietly, rhythmically, and in ways that wakefulness can later recognize as memory.
+   A. sensitive and easily disrupted, despite references to spindle and sleep
+   B. finished and beyond revision, which would rule out further evaluation of activity
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. strong and reliable, as used to describe how the claim holds across activity
 
-2. [Vocabulary] The word “gate” in the passage is closest in meaning to:
-   A. to erase memories completely
-   B. to regulate or restrict entry of sensory input
-   C. to accelerate the heart rate
-   D. to store energy in neurons
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that spindle is often incomplete and concludes that spindles cannot be studied in any meaningful way, since activity overwhelms comparisons. It recommends replacing tests of sleep with intuition because evidence cannot discriminate among accounts, especially regarding activity.
+   B. The passage presents sleep as a uniquely identifying mechanism and claims that once spindle is observed, competing explanations for spindles collapse. It treats activity as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   C. The passage explains spindles by linking spindle to sleep, and it shows why activity changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage surveys spindles but treats the discussion mainly as a narrative about who proposed sleep first, with spindle serving as anecdotal color. It therefore treats activity as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in activity, because variation there functions mainly as random measurement noise. On this view, a single strong instance of spindle is enough to validate sleep for spindles.
+   B. The passage implies that activity mattered mostly for early studies, whereas modern work makes spindle effectively self-interpreting. This would mean that tests of sleep no longer need cross-case comparisons to explain spindles, especially regarding oscillations.
+   C. The passage treats spindle primarily as a rhetorical flourish and suggests that debates over sleep are largely stylistic, not empirical. As a result, predictions about spindles are portrayed as optional rather than as a core requirement, in the context of the passage.
+   D. A persuasive account would predict how spindles should change if activity is altered, instead of assuming that spindle has a single meaning. This implies that models tied to sleep must be tested across comparable cases rather than in one favorable setting.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: By temporarily insulating the cortex from the environment, the brain can prioritize internal coordination.
-   A. [B]
-   B. [D]
-   C. [A]
-   D. [C]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of calibration drift as a factor influencing spindle
+   B. discussion of sleep as a factor influencing spindle, especially regarding cortex.
+   C. discussion of activity as a factor influencing spindle
+   D. discussion of spindles as a factor influencing spindle
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: [D] They help keep the sleeper asleep, yet they also appear to help the sleeping brain revise itself—quietly, rhythmically, and in ways that wakefulness can later recognize as memory.
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   B. [D] They help keep the sleeper asleep. It reverses the opposite claim while removing extra detail.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. [D] They help keep the sleeper asleep. It keeps the main claim while removing extra detail.
 
-4. [Inference] What can be inferred about why researchers study spindle “coupling” with other rhythms?
-   A. They suspect that the timing relationship among rhythms may enable communication that undermines memory consolidation. This outcome would hold even if rewire stays constant.
-   B. They suspect that the timing relationship among rhythms may enable communication that supports memory participate. This outcome would hold even if sharp-wave stays constant.
-   C. They suspect that the timing relationship among rhythms may enable communication that supports memory consolidation.
-   D. They suspect that the timing relationship among rhythms may solely enable communication that supports memory consolidation. This outcome would hold even if researchers stays constant.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because spindle directly measures causes, confounding cannot occur, and cross-case checks add little to understanding spindles.
+   B. Because once spindle fits one dataset, replication becomes redundant, and activity can be ignored without changing conclusions about spindles.
+   C. Because comparability prevents sleep from being treated as self-evident and forces tests that hold activity constant while examining spindle.
+   D. Because the presence of sleep guarantees the correct mechanism, so remaining differences in activity are merely stylistic noise.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | spindle | Can vary across settings |
+   | Confounder | activity | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It proves sleep is unique in every case, so generalization is automatic
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
 
-5. [Negative Factual] All of the following are mentioned as factors that can influence spindle variability EXCEPT:
-   A. medications in this discussion.
-   B. prior sleep deprivation.
-   C. trace-element ratios in volcanic glass.
-   D. stress in this discussion.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that spindles should be read alongside activity, because spindle alone does not settle what sleep means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: These differences may reflect distinct circuit properties and may support different kinds of learning.
+   A. the preceding claim that activity alone explains the outcome of spindles
+   B. the preceding claim that spindle is included only for rhetorical style, not analysis
+   C. the preceding claim that spindles functions as a direct measurement of sleep
+   D. the preceding claim about how spindle is interpreted in relation to sleep
 
-6. [Rhetorical Purpose] Why does the author discuss disagreements among automated spindle-detection algorithms?
-   A. To show that measurement choices can affect conclusions and that spindles are not trivial to quantify reliably.
-   B. To show that measurement choices can solely affect conclusions and that spindles are not trivial to quantify reliably. This would require measurement to be the limiting factor.
-   C. To show that measurement choices must affect conclusions and that spindles are not trivial to quantify reliably. This would occur only when stimulation dominates.
-   D. To show that measurement choices can affect conclusions and that brain are not trivial to quantify reliably. This would occur only when manipulation dominates.
-
-
-7. [Reference] In the passage, “such interventions” refers to:
-   A. auditory or electrical stimulation methods designed to enhance sleep rhythms.
-   B. auditory or electrical stimulation methods designed to enhance sleep rhythms. This would occur only when non-rem dominates.
-   C. auditory or electrical stimulation methods designed to enhance sleep rhythms. This would require electroencephalography to be the limiting factor.
-   D. auditory or electrical stimulation methods designed to enhance shield rhythms. This outcome would hold even if stimulation stays constant.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It defines neuroscience, explains their neural generation and gating role, then explores links to memory, individual differences and aging, measurement issues, and intervention studies. That would make rewire the primary constraint.
-   B. It defines spindles, explains their neural generation and gating role, then explores links to memory, individual differences and aging, measurement issues, and intervention studies. This outcome would hold even if rewire stays constant.
-   C. It defines spindles, explains their neural generation and gating role, then explores links to memory, individual differences and aging, measurement issues, and intervention studies.
-   D. It defines spindles, explains their neural generation and gating role, then explores links to memory, individual differences and aging, measurement issues, and intervention studies. This would require rewire to be the limiting factor.
-
-
-9. [Paraphrase] Which option best restates the claim that spindles are part of a “multi-rhythm conversation”?
-   A. Spindles must coordinate with slow oscillations and hippocampal events so that different brain systems can exchange information during sleep. This would occur only when wakefulness dominates.
-   B. Spindles may coordinate with slow oscillations and hippocampal events so that different brain systems can exchange information during sleep.
-   C. Spindles may solely coordinate with slow oscillations and hippocampal events so that different brain systems can exchange information during sleep. This would occur only when physiology dominates.
-   D. children may coordinate with slow oscillations and hippocampal events so that different brain systems can exchange information during sleep. This would occur only when children dominates.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage describes sleep spindles as brief thalamocortical rewire that help shield sleepers from sensory disturbances and are linked to memory consolidation through coordinated timing with other sleep rhythms, while noting regional differences, age-related changes, measurement challenges, and mixed results from interventions that attempt to enhance these rhythms. This would require physiology to be the limiting factor.
-   B. The passage describes sleep spindles as brief thalamocortical oscillations that help shield sleepers from sensory disturbances and are linked to memory consolidation through coordinated timing with other sleep rhythms, while noting regional differences, age-related changes, measurement challenges, and mixed results from interventions that attempt to enhance these rhythms. This outcome would hold even if researchers stays constant.
-   C. The passage describes sleep spindles as brief thalamocortical oscillations that help shield sleepers from sensory disturbances and are solely linked to memory consolidation through coordinated timing with other sleep rhythms, while noting regional differences, age-related changes, measurement challenges, and mixed results from interventions that attempt to enhance these rhythms. This would require oscillations to be the limiting factor.
-   D. The passage describes sleep spindles as brief thalamocortical oscillations that help shield sleepers from sensory disturbances and are linked to memory consolidation through coordinated timing with other sleep rhythms, while noting regional differences, age-related changes, measurement challenges, and mixed results from interventions that attempt to enhance these rhythms.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of spindle and sleep should be abandoned altogether.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of spindle lead to different conclusions about spindles.
+   C. to claim that one interpretation uniquely diagnoses sleep, so debate over spindle is unnecessary noise, especially regarding oscillations, for the phenomenon at issue.
+   D. to show that the term spindles belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
-1: B
-2: B
-3: C
-4: C
-5: C
-6: A
-7: A
-8: C
-9: B
-10: D
+1: D
+2: C
+3: D
+4: A
+5: D
+6: C
+7: C
+8: D
+9: D
+10: B

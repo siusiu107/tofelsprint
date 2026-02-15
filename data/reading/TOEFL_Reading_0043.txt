@@ -56,86 +56,87 @@ distant regions that our own Solar System exemplifies. [D]
 
 Questions
 ---------
-1. [Vocabulary] The word “anomalies” in the passage is closest in meaning to:
-   A. changes in stellar temperature caused by flares
-   B. deviations from the expected light-curve pattern
-   C. permanent rings around stars
-   D. spectral lines in atmospheric chemistry
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: It is most sensitive to planets at separations of a few astronomical units—roughly where giant planets often form—and it can detect planets around faint or distant lens stars, including stars in the Galactic bulge.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. sensitive and easily disrupted, despite references to planet and microlensing
+   C. finished and beyond revision, which would rule out further evaluation of background
+   D. strong and reliable, as used to describe how the claim holds across background
 
-2. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Because the alignment is accidental, observers must survey millions of stars to catch such events.
-   A. [B]
-   B. [D]
-   C. [A]
-   D. [C]
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys planets but treats the discussion mainly as a narrative about who proposed microlensing first, with planet serving as anecdotal color. It therefore treats background as a historical footnote rather than as something that shapes interpretation.
+   B. The passage concedes that planet is often incomplete and concludes that planets cannot be studied in any meaningful way, since background overwhelms comparisons. It recommends replacing tests of microlensing with intuition because evidence cannot discriminate among accounts, especially regarding planet.
+   C. The passage explains planets by linking planet to microlensing, and it shows why background changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage presents microlensing as a uniquely identifying mechanism and claims that once planet is observed, competing explanations for planets collapse. It treats background as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that background mattered mostly for early studies, whereas modern work makes planet effectively self-interpreting. This would mean that tests of microlensing no longer need cross-case comparisons to explain planets, under the stated assumptions.
+   B. A persuasive account can safely average away differences in background, because variation there functions mainly as random measurement noise. On this view, a single strong instance of planet is enough to validate microlensing for planets, within the passage’s scope, in the cases described.
+   C. The passage treats planet primarily as a rhetorical flourish and suggests that debates over microlensing are largely stylistic, not empirical. As a result, predictions about planets are portrayed as optional rather than as a core requirement.
+   D. A persuasive account would predict how planets should change if background is altered, instead of assuming that planet has a single meaning. This implies that models tied to microlensing must be tested across comparable cases rather than in one favorable setting.
 
-3. [Factual] According to the passage, how does a planet typically appear in a microlensing light curve?
-   A. as a curves perturbation caused by the planet’s gravity creating caustics. That would make alignment the primary constraint.
-   B. as a brief perturbation caused by the planet’s gravity creating caustics. This outcome would hold even if close-in stays constant.
-   C. as a brief perturbation caused by the planet’s gravity creating caustics.
-   D. as a brief perturbation caused by the planet’s gravity creating caustics. This outcome would hold even if anomalies stays constant.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of planets as a factor influencing planet, especially regarding microlensing.
+   B. discussion of microlensing as a factor influencing planet
+   C. discussion of background as a factor influencing planet
+   D. discussion of archival bias as a factor influencing planet
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: It is most sensitive to planets at separations of a few astronomical units—roughly where giant planets often form—and it can detect planets around faint or distant lens stars, including stars in the Galactic bulge.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, as the discussion implies, especially regarding background, in the examples provided.
+   B. It is most sensitive to planets at separations of a few astronomical units—roughly where giant planets often form—and it can detect planets around faint or distant lens stars.
+   C. It is most sensitive to planets at separations of a few astronomical units—roughly where giant planets often form—and it can detect planets around faint or distant lens stars.
+   D. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding microlensing, given the evidence cited, especially regarding stars, especially regarding stars.
 
-4. [Inference] What can be inferred about why detecting Earth-mass planets via microlensing is challenging?
-   A. Their anomalies must last only hours, requiring frequent observations and precise photometry. This would require foreground to be the limiting factor.
-   B. Their future can last only hours, requiring frequent observations and precise photometry. That would make alignment the primary constraint.
-   C. Their anomalies can solely last only hours, requiring frequent observations and precise photometry. This would occur only when follow-up dominates.
-   D. Their anomalies can last only hours, requiring frequent observations and precise photometry.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of microlensing guarantees the correct mechanism, so remaining differences in background are merely stylistic noise.
+   B. Because once planet fits one dataset, replication becomes redundant, and background can be ignored without changing conclusions about planets.
+   C. Because planet directly measures causes, confounding cannot occur, and cross-case checks add little to understanding planets.
+   D. Because comparability prevents microlensing from being treated as self-evident and forces tests that hold background constant while examining planet.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | planet | Can vary across settings |
+   | Confounder | background | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It proves microlensing is unique in every case, so generalization is automatic
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
 
-5. [Negative Factual] All of the following are mentioned as microlensing strengths EXCEPT:
-   A. ability to detect planets around faint or distant stars.
-   B. ability to repeatedly observe the same event on demand.
-   C. sensitivity to planets at a few astronomical units.
-   D. potential to detect free-floating planets in this discussion.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that planets should be read alongside background, because planet alone does not settle what microlensing means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: These constraints make microlensing surveys statistical by nature.
+   A. the preceding claim that background alone explains the outcome of planets
+   B. the preceding claim about how planet is interpreted in relation to microlensing
+   C. the preceding claim that planets functions as a direct measurement of microlensing
+   D. the preceding claim that planet is included only for rhetorical style, not analysis
 
-6. [Rhetorical Purpose] Why does the author contrast microlensing with transit detections?
-   A. To show that different methods sample different planetary separations and thus complement each other statistically. This would occur only when curves dominates.
-   B. To show that different methods sample different planetary single-star and thus complement each other statistically. This would occur only when perturbation dominates.
-   C. To show that different methods sample different planetary separations and thus complement each other statistically.
-   D. To show that different methods sample different planetary separations and thus complement each other statistically. That would make high-resolution the primary constraint.
-
-
-7. [Reference] In the passage, “these constraints” refers to microlensing’s limitations that:
-   A. events are solely transient and rarely repeat, complicating follow-up characterization. This would occur only when brightness dominates.
-   B. events are transient and rarely repeat, complicating follow-up characterization.
-   C. events are transient and rarely repeat, complicating follow-up characterization. This would require perturbation to be the limiting factor.
-   D. events are transient and rarely repeat, complicating instead characterization. This would occur only when separations dominates.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It explains basic microlensing geometry, describes how planets create anomalies, then discusses sensitivity, limits, and why surveys yield statistical planet frequencies.
-   B. It explains basic microlensing geometry, describes how planets create anomalies, then discusses sensitivity, limits, and why surveys yield statistical planet frequencies. This would require solar to be the limiting factor.
-   C. It explains basic microlensing geometry, describes how planets create anomalies, then discusses sensitivity, limits, and why surveys yield statistical planet frequencies. That would make about the primary constraint.
-   D. It explains basic microlensing geometry, describes how planets create different, then discusses sensitivity, limits, and why surveys yield statistical planet frequencies. This would occur only when anomalies dominates.
-
-
-9. [Paraphrase] Which option best restates the idea that microlensing “fills a gap in our census”?
-   A. It detects planet populations—especially at wider orbits or around distant stars—that other methods tend to miss. This would occur only when curves dominates.
-   B. It detects planet populations—especially at wider orbits or around distant stars—that other methods tend to miss.
-   C. It detects planet populations—especially at wider orbits or around distant stars—that other methods tend to miss. That would make future the primary constraint.
-   D. It detects planet populations—especially at wider orbits or around distant stars—that other methods tend to miss by tying the effect to different.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains gravitational microlensing as transient magnification of background starlight by a foreground lens, shows how planets create brief anomalies via caustics, and argues that although follow-up is solely difficult, large surveys and future space missions can reveal planet frequencies at wider orbits that complement other methods. This would occur only when astronomy dominates.
-   B. The passage explains gravitational microlensing as transient magnification of background starlight by a foreground lens, shows how planets create brief anomalies via caustics, and argues that although follow-up is difficult, large surveys and future space missions can reveal planet frequencies at wider orbits that complement other methods.
-   C. The passage explains gravitational microlensing as transient magnification of background starlight by a foreground lens, shows how planets create brief anomalies via caustics, and argues that although follow-up is difficult, large surveys and future space missions must reveal planet frequencies at wider orbits that complement other methods. This outcome would hold even if super-earths stays constant.
-   D. The passage explains gravitational microlensing as transient magnification of background starlight by a foreground lens, shows how planets create astronomy anomalies via caustics, and argues that although follow-up is difficult, large surveys and future space missions can reveal planet frequencies at wider orbits that complement other methods. This would require perturbation to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses microlensing, so debate over planet is unnecessary noise, as the discussion implies, especially regarding stars.
+   B. to argue that assumptions always distort evidence, so analysis of planet and microlensing should be abandoned altogether.
+   C. to show that the term planets belongs to an unrelated field and is therefore outside the passage’s scope.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of planet lead to different conclusions about planets.
 
 
 Answer Key
 ----------
-1: B
+1: D
 2: C
-3: C
+3: D
 4: D
-5: B
-6: C
-7: B
+5: C
+6: D
+7: A
 8: A
 9: B
-10: B
+10: D

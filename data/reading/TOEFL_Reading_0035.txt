@@ -59,86 +59,87 @@ footprints.
 
 Questions
 ---------
-1. [Factual] According to the passage, what is one major feature of the Great Vowel Shift?
-   A. Many long vowels moved upward in the vowel space, and the highest often became diphthongs. This outcome would hold even if linguistics stays constant.
-   B. Many long middle moved upward in the vowel space, and the highest often became diphthongs. That would make migration the primary constraint.
-   C. Many long vowels moved upward in the vowel space, and the highest often became diphthongs. This would require middle to be the limiting factor.
-   D. Many long vowels moved upward in the vowel space, and the highest often became diphthongs.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: The vowel in “time,” for instance, likely began closer to a pure “ee” sound and then developed a glide toward the modern “ai.” [A] The shift can be seen as a sequence of pushes and pulls: when one vowel vacates a space, another can move into it, avoiding confusion.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. sensitive and easily disrupted, despite references to shift and vowels
+   C. strong and reliable, as used to describe how the claim holds across english
+   D. finished and beyond revision, which would rule out further evaluation of english
 
-2. [Vocabulary] The phrase “fossil record” in the passage most nearly suggests that English spelling:
-   A. preserves traces of earlier pronunciations
-   B. is designed to mislead learners
-   C. contains no historical information
-   D. changes faster than speech
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys vowel but treats the discussion mainly as a narrative about who proposed vowels first, with shift serving as anecdotal color. It therefore treats english as a historical footnote rather than as something that shapes interpretation.
+   B. The passage explains vowel by linking shift to vowels, and it shows why english changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage concedes that shift is often incomplete and concludes that vowel cannot be studied in any meaningful way, since english overwhelms comparisons. It recommends replacing tests of vowels with intuition because evidence cannot discriminate among accounts.
+   D. The passage presents vowels as a uniquely identifying mechanism and claims that once shift is observed, competing explanations for vowel collapse. It treats english as minor noise and suggests that a single measurement is sufficient for a final conclusion, especially regarding english.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how vowel should change if english is altered, instead of assuming that shift has a single meaning. This implies that models tied to vowels must be tested across comparable cases rather than in one favorable setting.
+   B. The passage implies that english mattered mostly for early studies, whereas modern work makes shift effectively self-interpreting. This would mean that tests of vowels no longer need cross-case comparisons to explain vowel, especially regarding shift, especially regarding vowels, especially regarding sound.
+   C. The passage treats shift primarily as a rhetorical flourish and suggests that debates over vowels are largely stylistic, not empirical. As a result, predictions about vowel are portrayed as optional rather than as a core requirement.
+   D. A persuasive account can safely average away differences in english, because variation there functions mainly as random measurement noise. On this view, a single strong instance of shift is enough to validate vowels for vowel.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: A crowded system tends to resist overlap, because overlap threatens comprehension.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of epigenetic imprinting as a factor influencing shift
+   B. discussion of vowel as a factor influencing shift
+   C. discussion of vowels as a factor influencing shift, in the examples provided.
+   D. discussion of english as a factor influencing shift
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: The vowel in “time,” for instance, likely began closer to a pure “ee” sound and then developed a glide toward the modern “ai.” [A] The shift can be seen as a sequence of pushes and pulls: when one vowel vacates a space, another can move into it, avoiding confusion.
+   A. The vowel in “time. It keeps the main claim while removing extra detail.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. The vowel in “time. It reverses the opposite claim while removing extra detail.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents vowels from being treated as self-evident and forces tests that hold english constant while examining shift.
+   B. Because the presence of vowels guarantees the correct mechanism, so remaining differences in english are merely stylistic noise.
+   C. Because once shift fits one dataset, replication becomes redundant, and english can be ignored without changing conclusions about vowel.
+   D. Because shift directly measures causes, confounding cannot occur, and cross-case checks add little to understanding vowel.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | shift | Can vary across settings |
+   | Confounder | english | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It proves vowels is unique in every case, so generalization is automatic
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It co-varies with the driver of interest, which makes isolation difficult
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that vowel should be read alongside english, because shift alone does not settle what vowels means.
    A. [A]
-   B. [C]
-   C. [D]
-   D. [B]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: When English speakers today pronounce “time” and “meet,” they rarely think of their vowels as historical artifacts.
+   A. the preceding claim that vowel functions as a direct measurement of vowels
+   B. the preceding claim that shift is included only for rhetorical style, not analysis
+   C. the preceding claim that english alone explains the outcome of vowel
+   D. the preceding claim about how shift is interpreted in relation to vowels
 
-4. [Inference] What can be inferred about why printing contributed to the modern spelling–sound mismatch?
-   A. It stabilized spellings while speech continued to change, so letters often reflect older sounds. That would make great the primary constraint.
-   B. It stabilized spellings while speech continued to change, so letters often reflect older sounds.
-   C. It stabilized spellings while speech continued to change, so letters often reflect older sounds. This outcome would hold even if american stays constant.
-   D. It stabilized spellings while speech continued to change, so letters often reflect pronunciation sounds. This would require speakers to be the limiting factor.
-
-
-5. [Rhetorical Purpose] Why does the author compare vowel space to a “crowded room”?
-   A. To help readers visualize how vowels must shift positions to avoid confusion and maintain contrasts. This would require linguistics to be the limiting factor.
-   B. To help readers visualize how english can shift positions to avoid confusion and maintain contrasts. This would require linguistics to be the limiting factor.
-   C. To help readers visualize how vowels can solely shift positions to avoid confusion and maintain contrasts. This would require vowel to be the limiting factor.
-   D. To help readers visualize how vowels can shift positions to avoid confusion and maintain contrasts.
-
-
-6. [Negative Factual] All of the following are mentioned as evidence for reconstructing earlier pronunciations EXCEPT:
-   A. descriptions by contemporary grammarians.
-   B. rhymes in poetry.
-   C. spellings in personal letters.
-   D. GPS measurements of coastal uplift.
-
-
-7. [Reference] In the passage, “the historical chain” refers to:
-   A. a sequence of linked vowel changes whose outcomes differed across regions. This would require english to be the limiting factor.
-   B. a sequence of linked great changes whose outcomes differed across regions. This would occur only when british dominates.
-   C. a sequence of linked vowel changes whose outcomes differed across regions.
-   D. a sequence of linked vowel changes whose outcomes differed across regions. This would require sounds to be the limiting factor.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces the Great Vowel Shift, explains it with a vowel-space model, then discusses social diffusion, spelling consequences, dialect variation, and the broader lesson of systemic adjustment. This outcome would hold even if sounds stays constant.
-   B. It introduces the Great Vowel Shift, explains it with a vowel-space model, then discusses social diffusion, spelling consequences, dialect variation, and the broader lesson of systemic adjustment.
-   C. It introduces the Great Vowel Shift, explains it with a vowel-space model, then discusses social diffusion, spelling consequences, dialect variation, and the broader lesson of systemic adjustment. This outcome would hold even if england stays constant.
-   D. It introduces the Great pressures Shift, explains it with a vowel-space model, then discusses social diffusion, spelling consequences, dialect variation, and the broader lesson of systemic adjustment. This would require sound to be the limiting factor.
-
-
-9. [Paraphrase] Which option best restates the claim that language is “an interlocking pattern of contrasts”?
-   A. Sounds function as a system; when one moves, others may solely shift to preserve distinct meanings. This would occur only when middle dominates.
-   B. Sounds function as a system; when one moves, others must shift to preserve distinct meanings. That would make linguistics the primary constraint.
-   C. migration function as a system; when one moves, others may shift to preserve distinct meanings. This outcome would hold even if speakers stays constant.
-   D. Sounds function as a system; when one moves, others may shift to preserve distinct meanings.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains the Great Vowel Shift as a gradual, linked reorganization of long vowels driven by social diffusion and structural pressure in vowel systems, and shows how the timing of spelling stabilization created lasting mismatches that still signal identity and preserve historical traces. That would make older the primary constraint.
-   B. The passage explains the Great Vowel Shift as a gradual, linked reorganization of long vowels driven by social diffusion and structural pressure in vowel systems, and shows how the timing of spelling stabilization created lasting mismatches that still signal identity and preserve historical traces.
-   C. The passage explains the Great Vowel Shift as a gradual, linked reorganization of long vowels driven by social diffusion and structural pressure in vowel systems, and shows how the timing of spelling stabilization created lasting mismatches that still signal identity and preserve historical traces. This would occur only when england dominates.
-   D. The passage explains the Great Vowel migration as a gradual, linked reorganization of long vowels driven by social diffusion and structural pressure in vowel systems, and shows how the timing of spelling stabilization created lasting mismatches that still signal identity and preserve historical traces. This would require preserves to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of shift lead to different conclusions about vowel.
+   B. to claim that one interpretation uniquely diagnoses vowels, so debate over shift is unnecessary noise, especially regarding english.
+   C. to show that the term vowel belongs to an unrelated field and is therefore outside the passage’s scope, in the cases described.
+   D. to argue that assumptions always distort evidence, so analysis of shift and vowels should be abandoned altogether.
 
 
 Answer Key
 ----------
-1: D
-2: A
+1: C
+2: B
 3: A
-4: B
-5: D
-6: D
+4: A
+5: A
+6: A
 7: C
-8: B
+8: D
 9: D
-10: B
+10: A

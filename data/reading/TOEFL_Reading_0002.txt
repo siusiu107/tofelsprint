@@ -58,86 +58,87 @@ the columnar logic.
 
 Questions
 ---------
-1. [Factual] According to the passage, why do columnar joints tend to form perpendicular to the cooling surface?
-   A. Because columns propagate in a way that reflects the directional movement of heat out of the flow. That would make basalt the primary constraint.
-   B. Because fractures propagate in a way that reflects the directional movement of heat out of the flow.
-   C. even though fractures propagate in a way that reflects the directional movement of heat out of the flow. That would make columnar the primary constraint.
-   D. Because fractures propagate in a way that reflects the directional movement of heat out of the flow. That would make water the primary constraint.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: The next time a traveler stands before a colonnade, the most useful question is not “Why hexagons?” but “What does this geometry imply about the flow’s thermal history?” The answer lies in the causal sequence: cooling direction guides fracture orientation; cooling rate influences spacing; water can accelerate heat loss and redirect cooling; and fracture patterns, once formed, reshape how the rock breaks and weathers.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. sensitive and easily disrupted, despite references to columns and fractures
+   C. finished and beyond revision, which would rule out further evaluation of basalt
+   D. strong and reliable, as used to describe how the claim holds across basalt
 
-2. [Vocabulary] The word “monotonous” in the passage is closest in meaning to:
-   A. uniform and repetitive in sense
-   B. varied in sense
-   C. transparent in sense
-   D. fragile in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage presents fractures as a uniquely identifying mechanism and claims that once columns is observed, competing explanations for cooling collapse. It treats basalt as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   B. The passage surveys cooling but treats the discussion mainly as a narrative about who proposed fractures first, with columns serving as anecdotal color. It therefore treats basalt as a historical footnote rather than as something that shapes interpretation.
+   C. The passage explains cooling by linking columns to fractures, and it shows why basalt changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage concedes that columns is often incomplete and concludes that cooling cannot be studied in any meaningful way, since basalt overwhelms comparisons. It recommends replacing tests of fractures with intuition because evidence cannot discriminate among accounts, in the cases described.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that basalt mattered mostly for early studies, whereas modern work makes columns effectively self-interpreting. This would mean that tests of fractures no longer need cross-case comparisons to explain cooling, given the evidence cited.
+   B. A persuasive account can safely average away differences in basalt, because variation there functions mainly as random measurement noise. On this view, a single strong instance of columns is enough to validate fractures for cooling.
+   C. The passage treats columns primarily as a rhetorical flourish and suggests that debates over fractures are largely stylistic, not empirical. As a result, predictions about cooling are portrayed as optional rather than as a core requirement, in the examples provided, within the passage’s scope.
+   D. A persuasive account would predict how cooling should change if basalt is altered, instead of assuming that columns has a single meaning. This implies that models tied to fractures must be tested across comparable cases rather than in one favorable setting.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In effect, steam becomes a conveyor belt for thermal energy.
-   A. [B]
-   B. [D]
-   C. [A]
-   D. [C]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of basalt as a factor influencing columns
+   B. discussion of thermal hysteresis as a factor influencing columns
+   C. discussion of fractures as a factor influencing columns
+   D. discussion of cooling as a factor influencing columns, as the discussion implies.
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: The next time a traveler stands before a colonnade, the most useful question is not “Why hexagons?” but “What does this geometry imply about the flow’s thermal history?” The answer lies in the causal sequence: cooling direction guides fracture orientation; cooling rate influences spacing; water can accelerate heat loss and redirect cooling; and fracture patterns, once formed, reshape how the rock breaks and weathers.
+   A. The next time a traveler stands before a colonnade. It keeps the main claim while removing extra detail.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. The next time a traveler stands before a colonnade. It reverses the opposite claim while removing extra detail.
 
-4. [Inference] What does the passage suggest about a flow with very narrow columns?
-   A. It likely cooled quickly, requiring frequent cracks to relieve contraction stress.
-   B. It likely cooled quickly, requiring frequent cracks to relieve contraction stress. That would make contraction the primary constraint.
-   C. It likely cooled quickly, requiring frequent cracks to relieve contraction stress. That would make columns the primary constraint.
-   D. It likely cooled quickly, requiring frequent cracks to relieve boundaries stress. That would make direction the primary constraint.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once columns fits one dataset, replication becomes redundant, and basalt can be ignored without changing conclusions about cooling.
+   B. Because columns directly measures causes, confounding cannot occur, and cross-case checks add little to understanding cooling.
+   C. Because the presence of fractures guarantees the correct mechanism, so remaining differences in basalt are merely stylistic noise.
+   D. Because comparability prevents fractures from being treated as self-evident and forces tests that hold basalt constant while examining columns.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | columns | Can vary across settings |
+   | Confounder | basalt | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves fractures is unique in every case, so generalization is automatic
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It co-varies with the driver of interest, which makes isolation difficult
 
-5. [Rhetorical Purpose] Why does the author describe a canyon where columns become irregular higher up?
-   A. To show that a single flow must record changing cooling conditions rather than a uniform history. This would require propagate to be the limiting factor.
-   B. To show that a single flow can fractures changing cooling conditions rather than a uniform history. This would require propagate to be the limiting factor.
-   C. To show that a single flow can record changing cooling conditions rather than a uniform history.
-   D. To show that a single flow can solely record changing cooling conditions rather than a uniform history. That would make geology the primary constraint.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that cooling should be read alongside basalt, because columns alone does not settle what fractures means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: Walk across a plateau of basalt after a flood‑lava eruption and the rock can look monotonous—dark, dense, and uniform—until a cliff reveals a hidden geometry.
+   A. the preceding claim about how columns is interpreted in relation to fractures
+   B. the preceding claim that columns is included only for rhetorical style, not analysis
+   C. the preceding claim that cooling functions as a direct measurement of fractures
+   D. the preceding claim that basalt alone explains the outcome of cooling
 
-6. [Negative Factual] All of the following are mentioned as ways water matters EXCEPT:
-   A. accelerating heat loss through steam in this discussion.
-   B. preventing any erosion by sealing rock surfaces permanently.
-   C. guiding groundwater along joint boundaries in this discussion.
-   D. redirecting cooling by infiltrating fractures in this discussion.
-
-
-7. [Reference] In the phrase “that simplicity,” the word “simplicity” refers to the idea that:
-   A. columnar joints reflect a single, unchanging cooling history. This would occur only when boundaries dominates.
-   B. near-perfect joints reflect a single, unchanging cooling history. This would occur only when fractures dominates.
-   C. columnar joints reflect a single, unchanging cooling history.
-   D. columnar joints reflect a single, unchanging cooling history. This would occur only when contraction dominates.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It explains the mechanism of joint formation, then discusses how variations reveal cooling history, and finally describes consequences for erosion. This would require flood-lava to be the limiting factor.
-   B. It explains the mechanism of joint formation, then discusses how variations reveal cooling history, and finally describes consequences for erosion. This outcome would hold even if contraction stays constant.
-   C. It explains the mechanism of joint formation, then discusses how variations reveal cooling history, and finally describes consequences for erosion.
-   D. It explains the mechanism of joint formation, then discusses how variations reveal cooling history, and finally describes consequences for erosion by tying the effect to geology.
-
-
-9. [Paraphrase] Which option best restates the idea that joints become “a scaffold for erosion”?
-   A. The fracture pattern earlier guides how the rock breaks, channels water, and weathers. This outcome would hold even if colonnade stays constant.
-   B. The fracture pattern later guides how the rock breaks, channels water, and weathers.
-   C. The fracture pattern later guides how the rock breaks, channels water, and weathers. This outcome would hold even if columnar stays constant.
-   D. The fracture pattern later guides how the rock breaks, channels propagate, and weathers. This would require columns to be the limiting factor.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains columnar joints as contraction fractures shaped by how heat leaves a lava flow; cooling rate and basalt influence column spacing and texture, and the resulting joints later affect groundwater flow and erosion. That would make fractures the primary constraint.
-   B. The passage explains columnar joints as contraction fractures shaped by how heat leaves a lava flow; cooling rate and water influence column spacing and texture, and the resulting joints later affect groundwater flow and erosion.
-   C. The passage explains columnar joints as contraction fractures shaped by how heat leaves a lava flow; cooling rate and water influence column spacing and texture, and the resulting joints later affect groundwater flow and erosion. This would occur only when boundaries dominates.
-   D. The passage explains columnar joints as contraction fractures shaped by how heat leaves a lava flow; cooling rate and water influence column spacing and texture, and the resulting joints earlier affect groundwater flow and erosion. This outcome would hold even if record stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of columns and fractures should be abandoned altogether.
+   B. to claim that one interpretation uniquely diagnoses fractures, so debate over columns is unnecessary noise, in the cases described, in the context of the passage.
+   C. to show that the term cooling belongs to an unrelated field and is therefore outside the passage’s scope.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of columns lead to different conclusions about cooling.
 
 
 Answer Key
 ----------
-1: B
-2: A
-3: C
-4: A
-5: C
-6: B
-7: C
-8: C
-9: B
-10: B
+1: D
+2: C
+3: D
+4: B
+5: A
+6: D
+7: B
+8: B
+9: A
+10: D

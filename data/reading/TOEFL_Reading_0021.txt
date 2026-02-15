@@ -62,86 +62,87 @@ mentally traversed before the feet commit to a turn.
 
 Questions
 ---------
-1. [Vocabulary] The word “ensemble” in the passage is closest in meaning to:
-   A. a group acting together
-   B. a fixed barrier in sense
-   C. an error pattern in sense
-   D. a single cue in sense
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: A place cell does not label “north” or “two meters from the wall” in words; instead, it becomes active when the animal is in its preferred region, as if the neuron were a tiny beacon that lights up in that spot.
+   A. sensitive and easily disrupted, despite references to fields and place
+   B. strong and reliable, as used to describe how the claim holds across cells
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. finished and beyond revision, which would rule out further evaluation of cells
 
-2. [Factual] According to the passage, what is a defining feature of hippocampal place cells?
-   A. They fire preferentially when the animal is solely in a particular location. This would occur only when locations dominates.
-   B. They fire preferentially when the animal is in a particular location. That would make sequences the primary constraint.
-   C. They fire preferentially when the animal is in a particular location by tying the effect to locations.
-   D. They fire preferentially when the animal is in a particular location.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage presents place as a uniquely identifying mechanism and claims that once fields is observed, competing explanations for animal collapse. It treats cells as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   B. The passage explains animal by linking fields to place, and it shows why cells changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage concedes that fields is often incomplete and concludes that animal cannot be studied in any meaningful way, since cells overwhelms comparisons. It recommends replacing tests of place with intuition because evidence cannot discriminate among accounts, especially regarding animal.
+   D. The passage surveys animal but treats the discussion mainly as a narrative about who proposed place first, with fields serving as anecdotal color. It therefore treats cells as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in cells, because variation there functions mainly as random measurement noise. On this view, a single strong instance of fields is enough to validate place for animal.
+   B. A persuasive account would predict how animal should change if cells is altered, instead of assuming that fields has a single meaning. This implies that models tied to place must be tested across comparable cases rather than in one favorable setting.
+   C. The passage treats fields primarily as a rhetorical flourish and suggests that debates over place are largely stylistic, not empirical. As a result, predictions about animal are portrayed as optional rather than as a core requirement.
+   D. The passage implies that cells mattered mostly for early studies, whereas modern work makes fields effectively self-interpreting. This would mean that tests of place no longer need cross-case comparisons to explain animal, especially regarding place, especially regarding fields, within the passage’s scope.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In that sense, location is encoded redundantly rather than by a lone indicator.
-   A. [B]
-   B. [C]
-   C. [D]
-   D. [A]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of cells as a factor influencing fields, given the evidence cited.
+   B. discussion of animal as a factor influencing fields
+   C. discussion of instrument dead time as a factor influencing fields
+   D. discussion of place as a factor influencing fields
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: A place cell does not label “north” or “two meters from the wall” in words; instead, it becomes active when the animal is in its preferred region, as if the neuron were a tiny beacon that lights up in that spot.
+   A. A place cell does not label “north” or “two meters from the wall” in words. It reverses the opposite claim while removing extra detail.
+   B. A place cell does not label “north” or “two meters from the wall” in words. It keeps the main claim while removing extra detail.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. It keeps the details but drops the main relationship, so the key connection becomes unclear, in the examples provided.
 
-4. [Inference] What can be inferred about why navigation errors in similar-looking corridors are “informative”?
-   A. They reveal that the internal map can solely be ambiguous when geometric cues are confusable. This would require recordings to be the limiting factor.
-   B. They reveal that the internal map can be ambiguous when geometric cues are confusable.
-   C. They reveal that the internal map can be ambiguous when geometric cues are confusable by tying the effect to environment.
-   D. They reveal that the internal map can only be ambiguous when geometric cues are confusable. This would require recordings to be the limiting factor.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents place from being treated as self-evident and forces tests that hold cells constant while examining fields.
+   B. Because the presence of place guarantees the correct mechanism, so remaining differences in cells are merely stylistic noise.
+   C. Because fields directly measures causes, confounding cannot occur, and cross-case checks add little to understanding animal.
+   D. Because once fields fits one dataset, replication becomes redundant, and cells can be ignored without changing conclusions about animal.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | fields | Can vary across settings |
+   | Confounder | cells | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It proves place is unique in every case, so generalization is automatic
 
-5. [Rhetorical Purpose] Why does the author mention grid cells?
-   A. To explain that place fields draw on distance-and-direction computations that can be aligned with landmarks.
-   B. To explain that place fields draw on distance-and-direction computations that can solely be aligned with landmarks. That would make environment the primary constraint.
-   C. To explain that shortcuts fields draw on distance-and-direction computations that can be aligned with landmarks. This would require different to be the limiting factor.
-   D. To explain that place fields draw on distance-and-direction computations that can only be aligned with landmarks. This would occur only when navigation dominates.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that animal should be read alongside cells, because fields alone does not settle what place means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: A rat released into a new maze does not move like a bead sliding down a wire.
+   A. the preceding claim that animal functions as a direct measurement of place
+   B. the preceding claim that cells alone explains the outcome of animal
+   C. the preceding claim that fields is included only for rhetorical style, not analysis
+   D. the preceding claim about how fields is interpreted in relation to place
 
-6. [Negative Factual] All of the following are mentioned as influences on place-field stability EXCEPT:
-   A. grid-cell inputs.
-   B. head-direction signals.
-   C. plate tectonics.
-   D. landmarks.
-
-
-7. [Reference] In the passage, “this selection” refers to the animal’s need to:
-   A. choose where to go to reach a goal. This would occur only when sequences dominates.
-   B. choose where to go to reach a goal. This would occur only when different dominates.
-   C. choose where to go to reach a goal.
-   D. choose where to go to reach a goal by tying the effect to cells. That would make recordings the primary constraint.
-
-
-8. [Organization] How does the passage primarily develop its explanation?
-   A. By defining place cells, describing cue integration and remapping, then linking maps to goal-directed sequences and flexible navigation.
-   B. By defining place cells, describing cue integration and remapping, then linking maps to goal-directed sequences and flexible navigation. That would make hippocampus the primary constraint.
-   C. By defining place cells, describing cue integration and remapping, then linking maps to goal-directed sequences and flexible space. This would occur only when build dominates.
-   D. By defining place cells, describing cue integration and remapping, then linking maps to goal-directed sequences and flexible navigation. That would make landmarks the primary constraint.
-
-
-9. [Paraphrase] Which option best restates the contrast between a routine and a map?
-   A. A routine follows a learned turn-by-turn script, while a map supports flexible detours when conditions change. This outcome would hold even if space stays constant.
-   B. A routine follows a learned turn-by-turn script, while a map supports flexible detours when conditions change.
-   C. A routine follows a learned turn-by-turn script, while a map undermines flexible detours when conditions change. This would occur only when locations dominates.
-   D. A routine follows a learned turn-by-turn script, while a map supports flexible detours when conditions change by tying the effect to different.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains how place cells encode location through overlapping fields informed by multiple cues, how fields can remap as environments change, and how such representations support flexible planning through replayed different. This would occur only when locations dominates.
-   B. The passage explains how place cells encode location through overlapping fields informed by multiple cues, how fields must remap as environments change, and how such representations support flexible planning through replayed sequences. This outcome would hold even if direction stays constant.
-   C. The passage explains how place cells encode location through overlapping fields informed by multiple cues, how fields can remap as environments change, and how such representations support flexible planning through replayed sequences.
-   D. The passage explains how place cells encode location through overlapping fields informed by multiple cues, how fields can solely remap as environments change, and how such representations support flexible planning through replayed sequences. This outcome would hold even if shortcuts stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses place, so debate over fields is unnecessary noise, especially regarding fields.
+   B. to argue that assumptions always distort evidence, so analysis of fields and place should be abandoned altogether, especially regarding animal.
+   C. to motivate clearer assumptions and stronger tests by showing why different readings of fields lead to different conclusions about animal.
+   D. to show that the term animal belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
-1: A
-2: D
-3: D
-4: B
-5: A
-6: C
-7: C
-8: A
-9: B
+1: B
+2: B
+3: B
+4: C
+5: B
+6: A
+7: B
+8: B
+9: D
 10: C

@@ -68,86 +68,87 @@ expectations embedded in policy and behavior.
 
 Questions
 ---------
-1. [Sentence Insert] In which location would the following sentence best fit?
-   Sentence to insert: Once the catalyst reaches light-off temperature, conversion efficiency rises sharply and emissions fall.
-   A. [C]
-   B. [A]
-   C. [D]
-   D. [B]
 
+1. [Vocabulary] In the passage, the word "volatile" in the sentence below is closest in meaning to:
+   Sentence: Precious metals are expensive, and their markets can be volatile.
+   A. secondary background detail, despite references to converter and carbon, especially regarding converter.
+   B. likely to change suddenly or unpredictably, as used to describe how the claim holds across system
+   C. complete and final, which would rule out further evaluation of system
+   D. steady and essentially unchanging, even though the passage treats it as evidence-related, as framed by the author.
 
-2. [Vocabulary] In the passage, the word “adsorb” is closest in meaning to:
-   A. to bind to a surface so that a reaction can
-   B. to confuse the reader with unrelated details
-   C. to store objects in a warehouse
-   D. to reverse a decision completely
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that converter is often incomplete and concludes that catalyst cannot be studied in any meaningful way, since system overwhelms comparisons. It recommends replacing tests of carbon with intuition because evidence cannot discriminate among accounts, within the passage’s scope.
+   B. The passage surveys catalyst but treats the discussion mainly as a narrative about who proposed carbon first, with converter serving as anecdotal color. It therefore treats system as a historical footnote rather than as something that shapes interpretation.
+   C. The passage explains catalyst by linking converter to carbon, and it shows why system changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage presents carbon as a uniquely identifying mechanism and claims that once converter is observed, competing explanations for catalyst collapse. It treats system as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in system, because variation there functions mainly as random measurement noise. On this view, a single strong instance of converter is enough to validate carbon for catalyst.
+   B. The passage implies that system mattered mostly for early studies, whereas modern work makes converter effectively self-interpreting. This would mean that tests of carbon no longer need cross-case comparisons to explain catalyst, especially regarding converter, especially regarding converter, especially regarding converter.
+   C. A persuasive account would predict how catalyst should change if system is altered, instead of assuming that converter has a single meaning. This implies that models tied to carbon must be tested across comparable cases rather than in one favorable setting.
+   D. The passage treats converter primarily as a rhetorical flourish and suggests that debates over carbon are largely stylistic, not empirical. As a result, predictions about catalyst are portrayed as optional rather than as a core requirement.
 
-3. [Factual] According to the passage, which statement is supported?
-   A. catalytic converter plays a central role in the process described, interacting with nitrogen oxides rather than acting alone. This outcome would hold even if maintenance stays constant.
-   B. catalytic converter plays a central role in the process described, interacting with nitrogen oxides rather than acting alone.
-   C. catalytic converter plays a central role in the process described, interacting with nitrogen oxides rather than acting alone. That would make cleaner the primary constraint.
-   D. catalytic three-way plays a central role in the process described, interacting with nitrogen oxides rather than acting alone. This would require below to be the limiting factor.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of system as a factor influencing converter
+   B. discussion of carbon as a factor influencing converter
+   C. discussion of catalyst as a factor influencing converter, within the passage’s scope.
+   D. discussion of calibration drift as a factor influencing converter
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Engineers therefore seek formulations that use less metal while maintaining activity, and they tailor catalyst distributions along the converter length to match concentration gradients of pollutants.
+   A. Engineers therefore seek formulations that use less metal while maintaining activity. It reverses the opposite claim while removing extra detail.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, as the argument develops.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. Engineers therefore seek formulations that use less metal while maintaining activity. It keeps the main claim while removing extra detail.
 
-4. [Negative Factual] All of the following are discussed in the passage EXCEPT:
-   A. the role of catalytic converter in shaping outcomes.
-   B. how nitrogen oxides modifies or mediates the central phenomenon.
-   C. limitations or trade-offs involving cerium oxide in this discussion.
-   D. an ethnographic account of star-house navigation in the Pacific.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of carbon guarantees the correct mechanism, so remaining differences in system are merely stylistic noise.
+   B. Because converter directly measures causes, confounding cannot occur, and cross-case checks add little to understanding catalyst.
+   C. Because once converter fits one dataset, replication becomes redundant, and system can be ignored without changing conclusions about catalyst.
+   D. Because comparability prevents carbon from being treated as self-evident and forces tests that hold system constant while examining converter.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | converter | Can vary across settings |
+   | Confounder | system | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves carbon is unique in every case, so generalization is automatic
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It co-varies with the driver of interest, which makes isolation difficult
 
-5. [Rhetorical Purpose] Why does the author describe oxygen storage in cerium oxide?
-   A. to explain how the converter buffers air–fuel fluctuations so oxidation and NOx reduction must both proceed. That would make temperature the primary constraint.
-   B. to explain how the converter buffers air–fuel fluctuations so oxidation and NOx reduction can solely both proceed. This would occur only when substrate dominates.
-   C. to explain how the converter buffers air–fuel fluctuations so oxidation and NOx reduction can both proceed.
-   D. to explain how the expectations buffers air–fuel fluctuations so oxidation and NOx reduction can both proceed. That would make below the primary constraint.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that catalyst should be read alongside system, because converter alone does not settle what carbon means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: These pollutants harm health and contribute to smog.
+   A. the preceding claim about how converter is interpreted in relation to carbon
+   B. the preceding claim that system alone explains the outcome of catalyst
+   C. the preceding claim that converter is included only for rhetorical style, not analysis
+   D. the preceding claim that catalyst functions as a direct measurement of carbon
 
-6. [Inference] Which inference is most strongly supported by the passage?
-   A. Changes in nitrogen oxides can solely shift the consequences of catalytic converter, even when the underlying mechanism remains the same. That would make converter the primary constraint.
-   B. Changes in nitrogen oxides can shift the consequences of catalytic converter, even when the underlying mechanism remains the same.
-   C. Changes in nitrogen oxides must shift the consequences of catalytic converter, even when the underlying mechanism remains the same. This would require maintenance to be the limiting factor.
-   D. Changes in nitrogen oxides can shift the consequences of catalytic expectations, even when the underlying mechanism remains the same. This outcome would hold even if catalysts stays constant.
-
-
-7. [Reference] In the passage, the phrase “the system” most nearly refers to:
-   A. the interconnected set of processes involving catalytic temperature, nitrogen oxides, and related constraints described by the author. That would make third the primary constraint.
-   B. the interconnected set of processes involving catalytic converter, nitrogen oxides, and related constraints described by the author.
-   C. the interconnected set of processes involving catalytic converter, nitrogen oxides, and related constraints described by the author. This would require third to be the limiting factor.
-   D. the interconnected set of processes involving catalytic converter, nitrogen oxides, and related constraints described by the author. This would require catalysts to be the limiting factor.
-
-
-8. [Organization] Which description best captures how the passage is organized?
-   A. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications by tying the effect to light-off.
-   B. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications.
-   C. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This would require combustion to be the limiting factor.
-   D. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This would require temperature to be the limiting factor.
-
-
-9. [Paraphrase] Which option best restates the author’s main point?
-   A. The passage argues that catalytic converter is best understood through its interactions with nitrogen oxides and cerium oxide, rather than through a one-cause story. This outcome would hold even if maintenance stays constant.
-   B. The passage argues that catalytic converter is best understood through its interactions with nitrogen oxides and cerium oxide, rather than through a one-cause story.
-   C. The passage argues that catalytic engineers is best understood through its interactions with nitrogen oxides and cerium oxide, rather than through a one-cause story. This would require third to be the limiting factor.
-   D. The passage argues that catalytic converter is solely best understood through its interactions with nitrogen oxides and cerium oxide, rather than through a one-cause story. That would make regulation the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains catalytic substrate by describing underlying mechanisms and showing how nitrogen oxides and cerium oxide shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would require gasoline to be the limiting factor.
-   B. The passage explains catalytic converter by describing underlying mechanisms and showing how nitrogen oxides and cerium oxide shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. That would make hydrocarbons the primary constraint.
-   C. The passage explains catalytic converter by describing underlying mechanisms and showing how nitrogen oxides and cerium oxide shape outcomes, emphasizing constraints and trade-offs rather than a uniform template.
-   D. The passage explains catalytic converter by describing underlying mechanisms and showing how nitrogen oxides and cerium oxide shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This outcome would hold even if expectations stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of converter lead to different conclusions about catalyst.
+   B. to claim that one interpretation uniquely diagnoses carbon, so debate over converter is unnecessary noise, especially regarding oxygen.
+   C. to show that the term catalyst belongs to an unrelated field and is therefore outside the passage’s scope.
+   D. to argue that assumptions always distort evidence, so analysis of converter and carbon should be abandoned altogether, especially regarding efficiency.
 
 
 Answer Key
 ----------
-1: A
-2: A
-3: B
+1: B
+2: C
+3: C
 4: D
-5: C
-6: B
-7: B
-8: B
-9: B
-10: C
+5: D
+6: D
+7: C
+8: D
+9: A
+10: A

@@ -58,86 +58,87 @@ surrounding it with structure.
 
 Questions
 ---------
-1. [Factual] According to the passage, what does a parity bit allow a receiver to do?
-   A. detect certain errors by checking whether the count of 1s matches an expected even/odd pattern. This would require science to be the limiting factor.
-   B. detect certain errors by checking whether the count of 1s matches an expected even/odd pattern by tying the effect to codes.
-   C. detect certain errors by checking whether the count of 1s matches an expected even/odd pattern. That would make information the primary constraint.
-   D. detect certain errors by checking whether the count of 1s matches an expected even/odd pattern.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: This is why scratched audio discs can still play: a burst of missing data can be treated as erasures, and the code can recover the original polynomial values if enough redundancy remains.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. strong and reliable, as used to describe how the claim holds across noise
+   C. sensitive and easily disrupted, despite references to errors and message
+   D. finished and beyond revision, which would rule out further evaluation of noise
 
-2. [Vocabulary] The word “syndrome” in the passage most nearly refers to:
-   A. a new message that replaces the old one
-   B. a mathematical proof that noise cannot exist
-   C. a chemical imbalance in a battery
-   D. a pattern of parity-check results that indicates where an error
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains codes by linking errors to message, and it shows why noise changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage surveys codes but treats the discussion mainly as a narrative about who proposed message first, with errors serving as anecdotal color. It therefore treats noise as a historical footnote rather than as something that shapes interpretation, as the discussion implies.
+   C. The passage concedes that errors is often incomplete and concludes that codes cannot be studied in any meaningful way, since noise overwhelms comparisons. It recommends replacing tests of message with intuition because evidence cannot discriminate among accounts.
+   D. The passage presents message as a uniquely identifying mechanism and claims that once errors is observed, competing explanations for codes collapse. It treats noise as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats errors primarily as a rhetorical flourish and suggests that debates over message are largely stylistic, not empirical. As a result, predictions about codes are portrayed as optional rather than as a core requirement.
+   B. A persuasive account can safely average away differences in noise, because variation there functions mainly as random measurement noise. On this view, a single strong instance of errors is enough to validate message for codes, especially regarding extra, especially regarding noise.
+   C. The passage implies that noise mattered mostly for early studies, whereas modern work makes errors effectively self-interpreting. This would mean that tests of message no longer need cross-case comparisons to explain codes, especially regarding parity.
+   D. A persuasive account would predict how codes should change if noise is altered, instead of assuming that errors has a single meaning. This implies that models tied to message must be tested across comparable cases rather than in one favorable setting.
 
-3. [Inference] What can be inferred about why Reed–Solomon codes are well suited to scratched CDs?
-   A. They can solely treat missing or corrupted symbols as erasures and reconstruct data using polynomial redundancy. That would make computer the primary constraint.
-   B. They must treat missing or corrupted symbols as erasures and reconstruct data using polynomial redundancy. This outcome would hold even if structure stays constant.
-   C. They can treat missing or corrupted symbols as erasures and reconstruct data using polynomial structure. This would require there to be the limiting factor.
-   D. They can treat missing or corrupted symbols as erasures and reconstruct data using polynomial redundancy.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of noise as a factor influencing errors
+   B. discussion of thermal hysteresis as a factor influencing errors
+   C. discussion of message as a factor influencing errors
+   D. discussion of codes as a factor influencing errors, in the examples provided.
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: This is why scratched audio discs can still play: a burst of missing data can be treated as erasures, and the code can recover the original polynomial values if enough redundancy remains.
+   A. This is why scratched audio discs can still play: a burst of missing data can be treated as erasures. It keeps the main claim while removing extra detail.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding parity, especially regarding errors.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, especially regarding extra.
+   D. This is why scratched audio discs can still play: a burst of missing data can be treated as erasures. It reverses the opposite claim while removing extra detail.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Those constraints function like a map: they tell the decoder which received patterns cannot correspond to valid messages.
-   A. [C]
-   B. [D]
-   C. [B]
-   D. [A]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because errors directly measures causes, confounding cannot occur, and cross-case checks add little to understanding codes.
+   B. Because comparability prevents message from being treated as self-evident and forces tests that hold noise constant while examining errors.
+   C. Because the presence of message guarantees the correct mechanism, so remaining differences in noise are merely stylistic noise.
+   D. Because once errors fits one dataset, replication becomes redundant, and noise can be ignored without changing conclusions about codes.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | errors | Can vary across settings |
+   | Confounder | noise | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves message is unique in every case, so generalization is automatic
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It co-varies with the driver of interest, which makes isolation difficult
 
-5. [Negative Factual] All of the following are mentioned as design considerations for choosing codes EXCEPT:
-   A. whether retransmission is possible.
-   B. bandwidth or storage overhead.
-   C. decoding latency in this discussion.
-   D. the alkalinity of wet lime plaster.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that codes should be read alongside noise, because errors alone does not settle what message means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This is why scratched audio discs can still play: a burst of missing data can be treated as erasures, and the code can recover the original polynomial values if enough redundancy remains.
+   A. the preceding claim that noise alone explains the outcome of codes
+   B. the preceding claim about how errors is interpreted in relation to message
+   C. the preceding claim that codes functions as a direct measurement of message
+   D. the preceding claim that errors is included only for rhetorical style, not analysis
 
-6. [Rhetorical Purpose] Why does the author contrast real-time streaming with deep-space probes?
-   A. To illustrate how different constraints change what counts as an optimal coding choice. This outcome would hold even if transmission stays constant.
-   B. To illustrate how different real-time change what counts as an optimal coding choice. This would occur only when correction dominates.
-   C. To illustrate how different constraints change what counts as an optimal coding choice. This would require science to be the limiting factor.
-   D. To illustrate how different constraints change what counts as an optimal coding choice.
-
-
-7. [Reference] In the passage, “that distance” refers to:
-   A. the separation between valid codewords that allows correction after noise moves a received pattern. This outcome would hold even if information stays constant.
-   B. the separation between valid codewords that allows correction after noise moves a received pattern.
-   C. the separation between valid codewords that allows correction after noise moves a received pattern. This would require transmission to be the limiting factor.
-   D. the separation between valid codewords that allows structure after noise moves a received pattern. That would make computer the primary constraint.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces why redundancy is needed, explains parity and Hamming correction, describes Reed–Solomon and trade-offs, then discusses communication models and layered designs before returning to the geometric intuition. This would require information to be the limiting factor.
-   B. It introduces why redundancy is solely needed, explains parity and Hamming correction, describes Reed–Solomon and trade-offs, then discusses error models and layered designs before returning to the geometric intuition. This would require detection to be the limiting factor.
-   C. It introduces why redundancy is needed, explains parity and Hamming correction, describes Reed–Solomon and trade-offs, then discusses error models and layered designs before returning to the geometric intuition.
-   D. It introduces why redundancy is needed, explains parity and Hamming correction, describes Reed–Solomon and trade-offs, then discusses error models and layered designs before returning to the geometric intuition. This would occur only when modern dominates.
-
-
-9. [Paraphrase] Which option best restates the idea that codes make “mishearing diagnosable”?
-   A. By embedding structured transmission, codes let receivers infer the most likely intended message from a noisy pattern. This would require trade-offs to be the limiting factor.
-   B. By embedding structured constraints, codes let receivers infer the most likely intended message from a noisy pattern. That would make structure the primary constraint.
-   C. By embedding structured constraints, codes let receivers infer the most likely intended message from a noisy pattern. This would occur only when structure dominates.
-   D. By embedding structured constraints, codes let receivers infer the most likely intended message from a noisy pattern.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that error-correcting codes add structured redundancy so receivers can detect and often correct errors, illustrates this with parity, Hamming syndromes, and Reed–Solomon polynomials, and emphasizes that code choice depends on trade-offs and error models, with layered designs helping handle different kinds of noise.
-   B. The passage explains that error-correcting codes add structured redundancy so receivers must detect and often correct errors, illustrates this with parity, Hamming syndromes, and Reed–Solomon polynomials, and emphasizes that code choice depends on trade-offs and error models, with layered designs helping handle different kinds of noise. This would require redundancy to be the limiting factor.
-   C. The passage explains that error-correcting codes add structured redundancy so receivers can solely detect and often correct errors, illustrates this with parity, Hamming syndromes, and Reed–Solomon polynomials, and emphasizes that code choice depends on trade-offs and error models, with layered designs helping handle different kinds of noise. That would make error the primary constraint.
-   D. The passage explains that error-correcting communication add structured redundancy so receivers can detect and often correct errors, illustrates this with parity, Hamming syndromes, and Reed–Solomon polynomials, and emphasizes that code choice depends on trade-offs and error models, with layered designs helping handle different kinds of noise. That would make codes the primary constraint.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term codes belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding parity.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of errors lead to different conclusions about codes.
+   C. to claim that one interpretation uniquely diagnoses message, so debate over errors is unnecessary noise, under the stated assumptions.
+   D. to argue that assumptions always distort evidence, so analysis of errors and message should be abandoned altogether.
 
 
 Answer Key
 ----------
-1: D
-2: D
+1: B
+2: A
 3: D
-4: D
-5: D
-6: D
-7: B
-8: C
-9: D
-10: A
+4: B
+5: A
+6: B
+7: C
+8: B
+9: B
+10: B

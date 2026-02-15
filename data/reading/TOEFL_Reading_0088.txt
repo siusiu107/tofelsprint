@@ -64,86 +64,87 @@ astonishingly dense when cones finally open.
 
 Questions
 ---------
-1. [Vocabulary] The word “serotiny” in the passage refers to:
-   A. trees dispersing seeds continuously throughout the year
-   B. the chemical oxidation of carbon monoxide
-   C. a beetle species that feeds on pine resin
-   D. cones remaining sealed and releasing seeds mainly in response
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: In the lodgepole pine forests of western North America, one of the most striking fire-linked traits is serotiny: the tendency for cones to remain sealed with resin and to open mainly in response to heat.
+   A. strong and reliable, as used to describe how the claim holds across fires
+   B. sensitive and easily disrupted, despite references to after and crown
+   C. finished and beyond revision, which would rule out further evaluation of fires
+   D. durable in a purely physical sense, even though the passage treats it as evidence-related
 
-2. [Factual] According to the passage, why can serotiny be advantageous after an intense crown fire?
-   A. Heat opens cones and releases many seeds onto a landscape with reduced competition and favorable germination conditions. That would make suppression the primary constraint.
-   B. Heat opens cones and releases many seeds onto a landscape with reduced competition and favorable germination conditions. This would occur only when disturbance dominates.
-   C. Heat opens cones and releases many seeds onto a suppression with reduced competition and favorable germination conditions. This outcome would hold even if forests stays constant.
-   D. Heat opens cones and releases many seeds onto a landscape with reduced competition and favorable germination conditions.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains cones by linking after to crown, and it shows why fires changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage concedes that after is often incomplete and concludes that cones cannot be studied in any meaningful way, since fires overwhelms comparisons. It recommends replacing tests of crown with intuition because evidence cannot discriminate among accounts, especially regarding crown.
+   C. The passage presents crown as a uniquely identifying mechanism and claims that once after is observed, competing explanations for cones collapse. It treats fires as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage surveys cones but treats the discussion mainly as a narrative about who proposed crown first, with after serving as anecdotal color. It therefore treats fires as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how cones should change if fires is altered, instead of assuming that after has a single meaning. This implies that models tied to crown must be tested across comparable cases rather than in one favorable setting.
+   B. A persuasive account can safely average away differences in fires, because variation there functions mainly as random measurement noise. On this view, a single strong instance of after is enough to validate crown for cones.
+   C. The passage treats after primarily as a rhetorical flourish and suggests that debates over crown are largely stylistic, not empirical. As a result, predictions about cones are portrayed as optional rather than as a core requirement.
+   D. The passage implies that fires mattered mostly for early studies, whereas modern work makes after effectively self-interpreting. This would mean that tests of crown no longer need cross-case comparisons to explain cones, especially regarding fires, especially regarding dense, for the main claim of the text.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Because the canopy can store seeds for years, the postfire landscape can be seeded quickly and densely.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of crown as a factor influencing after
+   B. discussion of cones as a factor influencing after
+   C. discussion of allometric scaling as a factor influencing after
+   D. discussion of fires as a factor influencing after, in the examples provided.
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: In the lodgepole pine forests of western North America, one of the most striking fire-linked traits is serotiny: the tendency for cones to remain sealed with resin and to open mainly in response to heat.
+   A. In the lodgepole pine forests of western North America. It reverses the opposite claim while removing extra detail.
+   B. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   D. In the lodgepole pine forests of western North America. It keeps the main claim while removing extra detail.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of crown guarantees the correct mechanism, so remaining differences in fires are merely stylistic noise.
+   B. Because after directly measures causes, confounding cannot occur, and cross-case checks add little to understanding cones.
+   C. Because once after fits one dataset, replication becomes redundant, and fires can be ignored without changing conclusions about cones.
+   D. Because comparability prevents crown from being treated as self-evident and forces tests that hold fires constant while examining after.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | after | Can vary across settings |
+   | Confounder | fires | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves crown is unique in every case, so generalization is automatic
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that cones should be read alongside fires, because after alone does not settle what crown means.
    A. [A]
-   B. [C]
-   C. [B]
+   B. [B]
+   C. [C]
    D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: Wildfire is often spoken of as a disaster, yet in many ecosystems it is also a recurring ecological force that shapes species traits.
+   A. the preceding claim that cones functions as a direct measurement of crown
+   B. the preceding claim that fires alone explains the outcome of cones
+   C. the preceding claim that after is included only for rhetorical style, not analysis
+   D. the preceding claim about how after is interpreted in relation to crown
 
-4. [Inference] What can be inferred about why serotiny is less common where fires are rare or low intensity?
-   A. Because the benefits of holding seeds for a fire-triggered release are reduced, while the costs of delayed dispersal become less significant. This outcome would hold even if suppression stays constant.
-   B. even though the benefits of holding seeds for a fire-triggered release are reduced, while the costs of delayed dispersal become more significant. This would occur only when landscape dominates.
-   C. Because the benefits of holding seeds for a fire-triggered release are reduced, while the costs of delayed dispersal become more significant.
-   D. Because the benefits of holding seeds for a fire-triggered release are reduced, while the costs of delayed dispersal become more significant by tying the effect to whether.
-
-
-5. [Rhetorical Purpose] Why does the author mention mountain pine beetle outbreaks?
-   A. To show how overlapping disturbances must alter fuel conditions and complicate the relationship between historical fire regimes and future outcomes. This would require warmer to be the limiting factor.
-   B. To show how overlapping disturbances can alter fuel conditions and complicate the relationship between historical fire regimes and future outcomes.
-   C. To show how overlapping disturbances can solely alter fuel conditions and complicate the relationship between historical fire regimes and future outcomes. This outcome would hold even if america stays constant.
-   D. To show how overlapping disturbances can alter fuel conditions and complicate the relationship between historical fire forests and future outcomes. This outcome would hold even if ecology stays constant.
-
-
-6. [Negative Factual] All of the following are discussed as management-related issues EXCEPT:
-   A. fire suppression affecting fuel accumulation.
-   B. prescribed burning challenges in this discussion.
-   C. allocating tradable quotas for fish harvest.
-   D. planting after fires potentially favoring certain genotypes.
-
-
-7. [Reference] In the passage, “this match” refers to:
-   A. the fit between a trait like serotiny and a historical fire regime. This would require america to be the limiting factor.
-   B. the fit between a trait like serotiny and a historical fire regime.
-   C. the fit between a trait like serotiny and a historical fire regime. This outcome would hold even if landscape stays constant.
-   D. the fit between a trait like suppression and a historical fire regime. This would occur only when suppression dominates.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It defines serotiny and explains its ecological logic, then discusses regional variation and trade-offs, considers climate and disturbance changes, and concludes with management and evolutionary implications.
-   B. It defines serotiny and explains its ecological logic, then discusses regional variation and america, considers climate and disturbance changes, and concludes with management and evolutionary implications. This would require management to be the limiting factor.
-   C. It defines serotiny and explains its ecological logic, then discusses regional variation and trade-offs, considers climate and disturbance changes, and concludes with management and evolutionary implications. This would occur only when ecology dominates.
-   D. It defines serotiny and explains its ecological logic, then discusses regional variation and trade-offs, considers climate and disturbance changes, and concludes with management and evolutionary implications. That would make disturbance the primary constraint.
-
-
-9. [Paraphrase] Which option best restates the claim that traits are fitted to regimes rather than single events?
-   A. A strategy’s value depends on the long-term pattern of regimes frequency and intensity, not just on one fire. That would make thousands the primary constraint.
-   B. A strategy’s value depends on the long-term pattern of disturbance frequency and intensity, not just on one fire. That would make management the primary constraint.
-   C. A strategy’s value depends on the long-term pattern of disturbance frequency and intensity, not just on one fire.
-   D. A strategy’s value depends on the short-term pattern of disturbance frequency and intensity, not just on one fire. This would require whether to be the limiting factor.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains serotiny in lodgepole pines as a fire-linked strategy that stores seeds in sealed cones for heat-triggered release, notes that its prevalence depends on local fire regimes and trade-offs, and argues that climate change, beetle disturbances, and thousands can shift fire patterns in ways that may alter whether serotiny remains advantageous. This would require forests to be the limiting factor.
-   B. The passage explains serotiny in lodgepole pines as a fire-linked strategy that stores seeds in sealed cones for heat-triggered release, notes that its prevalence depends on local fire regimes and trade-offs, and argues that climate change, beetle disturbances, and management can solely shift fire patterns in ways that may alter whether serotiny remains advantageous. That would make recent the primary constraint.
-   C. The passage explains serotiny in lodgepole pines as a fire-linked strategy that stores seeds in sealed cones for heat-triggered release, notes that its prevalence depends on local fire regimes and trade-offs, and argues that climate change, beetle disturbances, and management must shift fire patterns in ways that may alter whether serotiny remains advantageous. This would occur only when ecology dominates.
-   D. The passage explains serotiny in lodgepole pines as a fire-linked strategy that stores seeds in sealed cones for heat-triggered release, notes that its prevalence depends on local fire regimes and trade-offs, and argues that climate change, beetle disturbances, and management can shift fire patterns in ways that may alter whether serotiny remains advantageous.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of after and crown should be abandoned altogether.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of after lead to different conclusions about cones.
+   C. to claim that one interpretation uniquely diagnoses crown, so debate over after is unnecessary noise, as the discussion implies.
+   D. to show that the term cones belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding cones.
 
 
 Answer Key
 ----------
-1: D
-2: D
+1: A
+2: A
 3: A
 4: C
-5: B
-6: C
-7: B
-8: A
-9: C
-10: D
+5: D
+6: D
+7: D
+8: D
+9: D
+10: B

@@ -62,86 +62,87 @@ that the detector listens to Earth as well as to space.
 
 Questions
 ---------
-1. [Vocabulary] The word “strain” in the passage is closest in meaning to:
-   A. a chemical stress in mirror coatings only
-   B. a fractional change in length caused by a gravitational wave
-   C. a physical injury from lifting heavy mirrors
-   D. a social tension among research teams
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: Gravitational waves were once a prediction without a detector: ripples in spacetime so small that, by the time they reach Earth, they change distances by less than a thousandth the diameter of a proton across kilometers.
+   A. finished and beyond revision, which would rule out further evaluation of motion
+   B. strong and reliable, as used to describe how the claim holds across motion
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. sensitive and easily disrupted, despite references to ground and light
 
-2. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: That ideal is why so much of the observatory’s complexity is devoted to isolating mirrors rather than to making brighter lasers.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that ground is often incomplete and concludes that noise cannot be studied in any meaningful way, since motion overwhelms comparisons. It recommends replacing tests of light with intuition because evidence cannot discriminate among accounts.
+   B. The passage surveys noise but treats the discussion mainly as a narrative about who proposed light first, with ground serving as anecdotal color. It therefore treats motion as a historical footnote rather than as something that shapes interpretation.
+   C. The passage explains noise by linking ground to light, and it shows why motion changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage presents light as a uniquely identifying mechanism and claims that once ground is observed, competing explanations for noise collapse. It treats motion as minor noise and suggests that a single measurement is sufficient for a final conclusion, for the main claim of the text.
+
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats ground primarily as a rhetorical flourish and suggests that debates over light are largely stylistic, not empirical. As a result, predictions about noise are portrayed as optional rather than as a core requirement, especially regarding motion, especially regarding noise.
+   B. The passage implies that motion mattered mostly for early studies, whereas modern work makes ground effectively self-interpreting. This would mean that tests of light no longer need cross-case comparisons to explain noise, as the argument develops.
+   C. A persuasive account would predict how noise should change if motion is altered, instead of assuming that ground has a single meaning. This implies that models tied to light must be tested across comparable cases rather than in one favorable setting.
+   D. A persuasive account can safely average away differences in motion, because variation there functions mainly as random measurement noise. On this view, a single strong instance of ground is enough to validate light for noise.
+
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of motion as a factor influencing ground
+   B. discussion of sediment provenance as a factor influencing ground
+   C. discussion of light as a factor influencing ground
+   D. discussion of noise as a factor influencing ground, especially regarding detector.
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Gravitational waves were once a prediction without a detector: ripples in spacetime so small that, by the time they reach Earth, they change distances by less than a thousandth the diameter of a proton across kilometers.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   B. Gravitational waves were once a prediction without a detector: ripples in spacetime so small that. It keeps the main claim while removing extra detail.
+   C. Gravitational waves were once a prediction without a detector: ripples in spacetime so small that. It reverses the opposite claim while removing extra detail.
+   D. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding noise, especially regarding earth.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents light from being treated as self-evident and forces tests that hold motion constant while examining ground.
+   B. Because once ground fits one dataset, replication becomes redundant, and motion can be ignored without changing conclusions about noise.
+   C. Because the presence of light guarantees the correct mechanism, so remaining differences in motion are merely stylistic noise.
+   D. Because ground directly measures causes, confounding cannot occur, and cross-case checks add little to understanding noise.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | ground | Can vary across settings |
+   | Confounder | motion | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It proves light is unique in every case, so generalization is automatic
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that noise should be read alongside motion, because ground alone does not settle what light means.
    A. [A]
-   B. [D]
+   B. [B]
    C. [C]
-   D. [B]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: Gravitational waves were once a prediction without a detector: ripples in spacetime so small that, by the time they reach Earth, they change distances by less than a thousandth the diameter of a proton across kilometers.
+   A. the preceding claim that motion alone explains the outcome of noise
+   B. the preceding claim about how ground is interpreted in relation to light
+   C. the preceding claim that noise functions as a direct measurement of light
+   D. the preceding claim that ground is included only for rhetorical style, not analysis
 
-3. [Factual] According to the passage, why are resonant cavities used in interferometer arms?
-   A. To make light bounce many times and effectively increase the path length.
-   B. To make light bounce many times and effectively decrease the path length. This would occur only when vibrations dominates.
-   C. To make physics bounce many times and effectively increase the path length. This outcome would hold even if observatories stays constant.
-   D. To make light bounce many times and effectively increase the path length. This outcome would hold even if mirror stays constant.
-
-
-4. [Inference] What can be inferred about why ground-based detectors have a low-frequency limit?
-   A. At very low frequencies, ground motion becomes too large to isolate, making detectors effectively blind in that band. This would occur only when earth dominates.
-   B. At very low frequencies, ground motion becomes too large to isolate, making detectors effectively blind in that band. This outcome would hold even if vibrations stays constant.
-   C. At very low frequencies, ground motion becomes too large to isolate, making detectors effectively blind in that band.
-   D. At very low frequencies, ground motion becomes too large to isolate, making still effectively blind in that band. This would require quantum to be the limiting factor.
-
-
-5. [Negative Factual] All of the following are mentioned as noise sources EXCEPT:
-   A. thermal motion in coatings and suspensions.
-   B. seismic motion from Earth.
-   C. photon counting statistics in this discussion.
-   D. DNA methylation patterns in larvae.
-
-
-6. [Rhetorical Purpose] Why does the author mention squeezed light?
-   A. To show how quantum optics can solely be applied practically to reduce measurement noise. This outcome would hold even if high-frequency stays constant.
-   B. To show how multi-stage optics can be applied practically to reduce measurement noise. That would make isolation the primary constraint.
-   C. To show how quantum optics can be applied practically to reduce measurement noise.
-   D. To show how quantum optics can be applied practically to amplify measurement noise. This outcome would hold even if instrument stays constant.
-
-
-7. [Reference] In the passage, “the detector’s sensitivity curve” refers to:
-   A. how noise limits vary across frequencies due to trade-offs among seismic, thermal, and quantum effects. This would occur only when still dominates.
-   B. how noise limits vary across frequencies due to trade-offs among seismic, thermal, and quantum effects.
-   C. how noise limits vary across frequencies due to trade-offs among seismic, thermal, and dissipation effects. This would require physics to be the limiting factor.
-   D. how noise limits vary across frequencies due to trade-offs among seismic, thermal, and quantum effects. This would require lasers to be the limiting factor.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces the challenge of detecting tiny signals, explains interferometer design, then surveys seismic, thermal, and quantum noise issues and concludes with monitoring and listening metaphors. This would require mirrors to be the limiting factor.
-   B. It introduces the challenge of detecting tiny signals, explains interferometer design, then surveys seismic, thermal, and quantum noise issues and concludes with monitoring and listening metaphors.
-   C. It introduces the challenge of detecting tiny signals, explains interferometer design, then surveys seismic, thermal, and quantum noise issues and concludes with monitoring and listening metaphors. This would require sometimes to be the limiting factor.
-   D. It introduces the challenge of detecting tiny signals, explains interferometer design, then surveys seismic, thermal, and instrument noise issues and concludes with monitoring and listening metaphors. This outcome would hold even if light stays constant.
-
-
-9. [Paraphrase] Which option best restates the idea that gravitational-wave detection is a “triumph of noise management”?
-   A. even though the signal is extremely small, success depends on suppressing larger terrestrial motions and optical fluctuations that could imitate it. This would require engineers to be the limiting factor.
-   B. Because the signal is extremely small, success depends on suppressing larger terrestrial motions and optical fluctuations that could imitate it.
-   C. Because the signal is extremely small, success depends on suppressing larger terrestrial motions and optical fluctuations that could imitate it. This would require gravitational-wave to be the limiting factor.
-   D. Because the signal is extremely small, success depends on suppressing larger terrestrial motions and optical engineers that could imitate it. This would require engineers to be the limiting factor.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains how laser interferometers detect minute spacetime strains and why observatories must solely control seismic, thermal, and quantum noise through isolation, material choices, power trade-offs, and techniques like squeezed light, while also monitoring auxiliary channels to distinguish real astrophysical signals from instrumental glitches. This would occur only when isolation dominates.
-   B. The passage explains how laser interferometers detect minute spacetime strains and why observatories must control seismic, thermal, and quantum noise through isolation, material choices, power trade-offs, and techniques like squeezed light, while also monitoring auxiliary channels to distinguish real astrophysical signals from instrumental glitches. This would require sometimes to be the limiting factor.
-   C. The passage explains how laser interferometers detect minute low-frequency strains and why observatories must control seismic, thermal, and quantum noise through isolation, material choices, power trade-offs, and techniques like squeezed light, while also monitoring auxiliary channels to distinguish real astrophysical signals from instrumental glitches. This outcome would hold even if amplitude stays constant.
-   D. The passage explains how laser interferometers detect minute spacetime strains and why observatories must control seismic, thermal, and quantum noise through isolation, material choices, power trade-offs, and techniques like squeezed light, while also monitoring auxiliary channels to distinguish real astrophysical signals from instrumental glitches.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of ground and light should be abandoned altogether.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of ground lead to different conclusions about noise.
+   C. to claim that one interpretation uniquely diagnoses light, so debate over ground is unnecessary noise, especially regarding detector, for the phenomenon at issue.
+   D. to show that the term noise belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
 1: B
-2: A
-3: A
-4: C
-5: D
-6: C
+2: C
+3: C
+4: B
+5: B
+6: A
 7: B
-8: B
+8: D
 9: B
-10: D
+10: B

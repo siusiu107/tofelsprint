@@ -76,86 +76,87 @@ into a self-reinforcing trend.
 
 Questions
 ---------
-1. [Sentence Insert] In which location would the following sentence best fit?
-   Sentence to insert: If people believe future prices will rise, their behavior today can help bring that rise about.
-   A. [B]
-   B. [D]
-   C. [A]
-   D. [C]
 
+1. [Vocabulary] In the passage, the word "salient" in the sentence below is closest in meaning to:
+   Sentence: Households form beliefs from grocery bills and rent notices, which can overweight salient items.
+   A. peripheral to the author’s point, despite references to inflation and negotiations
+   B. subtle and easy to miss, even though the passage treats it as evidence-related
+   C. most noticeable or important, as used to describe how the claim holds across trend
+   D. fully resolved and closed to debate, which would rule out further evaluation of trend
 
-2. [Vocabulary] In the passage, the word “anchor” is closest in meaning to:
-   A. to store objects in a warehouse
-   B. to keep beliefs stable near a target through credibility
-   C. to reverse a decision completely
-   D. to confuse the reader with unrelated details
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage presents negotiations as a uniquely identifying mechanism and claims that once inflation is observed, competing explanations for expectations collapse. It treats trend as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   B. The passage explains expectations by linking inflation to negotiations, and it shows why trend changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage concedes that inflation is often incomplete and concludes that expectations cannot be studied in any meaningful way, since trend overwhelms comparisons. It recommends replacing tests of negotiations with intuition because evidence cannot discriminate among accounts, within the passage’s scope.
+   D. The passage surveys expectations but treats the discussion mainly as a narrative about who proposed negotiations first, with inflation serving as anecdotal color. It therefore treats trend as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that trend mattered mostly for early studies, whereas modern work makes inflation effectively self-interpreting. This would mean that tests of negotiations no longer need cross-case comparisons to explain expectations, given the evidence cited, for the phenomenon at issue.
+   B. A persuasive account can safely average away differences in trend, because variation there functions mainly as random measurement noise. On this view, a single strong instance of inflation is enough to validate negotiations for expectations.
+   C. A persuasive account would predict how expectations should change if trend is altered, instead of assuming that inflation has a single meaning. This implies that models tied to negotiations must be tested across comparable cases rather than in one favorable setting.
+   D. The passage treats inflation primarily as a rhetorical flourish and suggests that debates over negotiations are largely stylistic, not empirical. As a result, predictions about expectations are portrayed as optional rather than as a core requirement.
 
-3. [Factual] According to the passage, which statement is supported?
-   A. inflation expectations plays a central role in the process described, interacting with central bank credibility rather than acting alone. This would require high-inflation to be the limiting factor.
-   B. inflation expectations plays a central role in the process described, interacting with central bank surveys rather than acting alone. This outcome would hold even if high-inflation stays constant.
-   C. inflation expectations plays a central role in the process described, interacting with central bank credibility rather than acting alone.
-   D. inflation expectations plays a central role in the process described, interacting with central bank credibility rather than acting alone. This would occur only when interpret dominates.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of negotiations as a factor influencing inflation, especially regarding negotiations.
+   B. discussion of archival bias as a factor influencing inflation
+   C. discussion of trend as a factor influencing inflation
+   D. discussion of expectations as a factor influencing inflation
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: If firms expect input costs to rise, they may raise prices preemptively; if workers expect living costs to rise, they may demand higher wages; if lenders expect inflation, they may require higher interest rates.
+   A. If firms expect input costs to rise, they may raise prices preemptively. It keeps the main claim while removing extra detail.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding expectations.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. If firms expect input costs to rise, they may raise prices preemptively. It reverses the opposite claim while removing extra detail.
 
-4. [Negative Factual] All of the following are discussed in the passage EXCEPT:
-   A. a description of how serotinous cones open during crown fires.
-   B. the role of inflation expectations in shaping outcomes.
-   C. limitations or trade-offs involving wage demands in this discussion.
-   D. how central bank credibility modifies or mediates the central phenomenon.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of negotiations guarantees the correct mechanism, so remaining differences in trend are merely stylistic noise.
+   B. Because comparability prevents negotiations from being treated as self-evident and forces tests that hold trend constant while examining inflation.
+   C. Because once inflation fits one dataset, replication becomes redundant, and trend can be ignored without changing conclusions about expectations.
+   D. Because inflation directly measures causes, confounding cannot occur, and cross-case checks add little to understanding expectations.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | inflation | Can vary across settings |
+   | Confounder | trend | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It proves negotiations is unique in every case, so generalization is automatic
 
-5. [Rhetorical Purpose] Why does the author introduce competing ideas or alternative interpretations?
-   A. to show that explaining inflation communication requires weighing evidence and recognizing limits of any single account. This would require communication to be the limiting factor.
-   B. to show that explaining inflation expectations requires weighing evidence and recognizing limits of any single account. This would occur only when expectations dominates.
-   C. to show that explaining inflation expectations requires weighing evidence and recognizing limits of any single account.
-   D. to show that explaining inflation expectations requires weighing evidence and recognizing limits of any single account. That would make economists the primary constraint.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that expectations should be read alongside trend, because inflation alone does not settle what negotiations means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: These anticipatory moves can, under certain conditions, help produce the very inflation that was feared.
+   A. the preceding claim that trend alone explains the outcome of expectations
+   B. the preceding claim that inflation is included only for rhetorical style, not analysis
+   C. the preceding claim that expectations functions as a direct measurement of negotiations
+   D. the preceding claim about how inflation is interpreted in relation to negotiations
 
-6. [Inference] Which inference is most strongly supported by the passage?
-   A. Changes in central bank credibility must shift the consequences of inflation expectations, even when the underlying mechanism remains the same. That would make economists the primary constraint.
-   B. Changes in central bank credibility can shift the consequences of inflation different, even when the underlying mechanism remains the same. This outcome would hold even if surveys stays constant.
-   C. Changes in central bank credibility can solely shift the consequences of inflation expectations, even when the underlying mechanism remains the same. This would occur only when households dominates.
-   D. Changes in central bank credibility can shift the consequences of inflation expectations, even when the underlying mechanism remains the same.
-
-
-7. [Reference] In the passage, the phrase “the system” most nearly refers to:
-   A. the interconnected set of processes involving inflation expectations, central bank credibility, and related constraints described by the author. This would require communication to be the limiting factor.
-   B. the interconnected set of processes involving inflation communication, central bank credibility, and related constraints described by the author. This would occur only when negotiations dominates.
-   C. the interconnected set of processes involving inflation expectations, central bank credibility, and related constraints described by the author. That would make credibility the primary constraint.
-   D. the interconnected set of processes involving inflation expectations, central bank credibility, and related constraints described by the author.
-
-
-8. [Organization] Which description best captures how the passage is organized?
-   A. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications.
-   B. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications by tying the effect to communication.
-   C. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. That would make businesses the primary constraint.
-   D. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This would occur only when inflation dominates.
-
-
-9. [Paraphrase] Which option best restates the author’s main point?
-   A. The passage argues that inflation expectations is best understood through its interactions with central bank credibility and wage demands, rather than through a one-cause story. That would make economists the primary constraint.
-   B. The passage argues that inflation expectations is best understood through its interactions with central bank credibility and wage demands, rather than through a one-cause story.
-   C. The passage argues that macroeconomics expectations is best understood through its interactions with central bank credibility and wage demands, rather than through a one-cause story. This would occur only when policy dominates.
-   D. The passage argues that inflation expectations is solely best understood through its interactions with central bank credibility and wage demands, rather than through a one-cause story. That would make negotiations the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains inflation expectations by describing underlying mechanisms and showing how central bank credibility and wage demands shape outcomes, emphasizing constraints and trade-offs rather than a uniform template.
-   B. The passage explains inflation expectations by describing underlying mechanisms and showing how central bank surveys and wage demands shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would require households to be the limiting factor.
-   C. The passage explains inflation expectations by describing underlying mechanisms and showing how central bank credibility and wage demands shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This outcome would hold even if communication stays constant.
-   D. The passage explains inflation expectations by describing underlying mechanisms and showing how central bank credibility and wage demands shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would require policy to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of inflation lead to different conclusions about expectations.
+   B. to show that the term expectations belongs to an unrelated field and is therefore outside the passage’s scope.
+   C. to argue that assumptions always distort evidence, so analysis of inflation and negotiations should be abandoned altogether, especially regarding trend.
+   D. to claim that one interpretation uniquely diagnoses negotiations, so debate over inflation is unnecessary noise, especially regarding inflation.
 
 
 Answer Key
 ----------
-1: D
+1: C
 2: B
 3: C
-4: A
-5: C
-6: D
-7: D
-8: A
-9: B
+4: B
+5: A
+6: B
+7: A
+8: C
+9: D
 10: A

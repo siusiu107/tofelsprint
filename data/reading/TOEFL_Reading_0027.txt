@@ -62,86 +62,87 @@ mechanism.
 
 Questions
 ---------
-1. [Factual] According to the passage, what two factors primarily determine seawater density?
-   A. temperature and salinity.
-   B. temperature and salinity. That would make north the primary constraint.
-   C. temperature and salinity. This outcome would hold even if northward stays constant.
-   D. temperature and salinity by tying the effect to ecosystems. That would make north the primary constraint.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: Interpreting those records is difficult because sediments blend signals over time, but the broad message is consistent: when high- latitude waters freshen or warm, deep formation can weaken, and the redistribution of heat can shift.
+   A. strong and reliable, as used to describe how the claim holds across circulation
+   B. finished and beyond revision, which would rule out further evaluation of circulation
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. sensitive and easily disrupted, despite references to surface and ocean
 
-2. [Vocabulary] The word “ventilating” in the passage is closest in meaning to:
-   A. supplying with oxygen in sense
-   B. making more salty in sense
-   C. warming rapidly in sense
-   D. blocking circulation in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys water but treats the discussion mainly as a narrative about who proposed ocean first, with surface serving as anecdotal color. It therefore treats circulation as a historical footnote rather than as something that shapes interpretation.
+   B. The passage explains water by linking surface to ocean, and it shows why circulation changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage concedes that surface is often incomplete and concludes that water cannot be studied in any meaningful way, since circulation overwhelms comparisons. It recommends replacing tests of ocean with intuition because evidence cannot discriminate among accounts, especially regarding ocean.
+   D. The passage presents ocean as a uniquely identifying mechanism and claims that once surface is observed, competing explanations for water collapse. It treats circulation as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how water should change if circulation is altered, instead of assuming that surface has a single meaning. This implies that models tied to ocean must be tested across comparable cases rather than in one favorable setting.
+   B. A persuasive account can safely average away differences in circulation, because variation there functions mainly as random measurement noise. On this view, a single strong instance of surface is enough to validate ocean for water.
+   C. The passage implies that circulation mattered mostly for early studies, whereas modern work makes surface effectively self-interpreting. This would mean that tests of ocean no longer need cross-case comparisons to explain water, as framed by the author.
+   D. The passage treats surface primarily as a rhetorical flourish and suggests that debates over ocean are largely stylistic, not empirical. As a result, predictions about water are portrayed as optional rather than as a core requirement, especially regarding circulation, as the argument develops.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Buoyancy, in this context, is simply density expressed as reluctance to sink.
-   A. [C]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of water as a factor influencing surface, especially regarding water.
+   B. discussion of sediment provenance as a factor influencing surface
+   C. discussion of ocean as a factor influencing surface
+   D. discussion of circulation as a factor influencing surface
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Interpreting those records is difficult because sediments blend signals over time, but the broad message is consistent: when high- latitude waters freshen or warm, deep formation can weaken, and the redistribution of heat can shift.
+   A. Interpreting those records is difficult because sediments blend signals over time. It keeps the main claim while removing extra detail.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, for the phenomenon at issue.
+   C. Interpreting those records is difficult because sediments blend signals over time. It reverses the opposite claim while removing extra detail.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of ocean guarantees the correct mechanism, so remaining differences in circulation are merely stylistic noise.
+   B. Because once surface fits one dataset, replication becomes redundant, and circulation can be ignored without changing conclusions about water.
+   C. Because surface directly measures causes, confounding cannot occur, and cross-case checks add little to understanding water.
+   D. Because comparability prevents ocean from being treated as self-evident and forces tests that hold circulation constant while examining surface.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | surface | Can vary across settings |
+   | Confounder | circulation | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It proves ocean is unique in every case, so generalization is automatic
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that water should be read alongside circulation, because surface alone does not settle what ocean means.
+   A. [A]
    B. [B]
-   C. [D]
-   D. [A]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: The ocean is not a static bathtub; it is a moving heat engine.
+   A. the preceding claim that circulation alone explains the outcome of water
+   B. the preceding claim that surface is included only for rhetorical style, not analysis
+   C. the preceding claim that water functions as a direct measurement of ocean
+   D. the preceding claim about how surface is interpreted in relation to ocean
 
-4. [Inference] What can be inferred about why circulation changes can affect fisheries?
-   A. They can alter nutrient delivery and upwelling patterns that support plankton and food webs by tying the effect to atmosphere.
-   B. They must alter nutrient delivery and upwelling patterns that support plankton and food webs. This would require freshwater to be the limiting factor.
-   C. They can alter nutrient delivery and upwelling patterns that support plankton and food webs.
-   D. They can solely alter nutrient delivery and upwelling patterns that support plankton and food webs. This would occur only when variability dominates.
-
-
-5. [Negative Factual] All of the following are mentioned as potential influences on sinking strength EXCEPT:
-   A. freshwater from melting ice or rivers.
-   B. radiocarbon decay in tree rings.
-   C. evaporation increasing salinity in this discussion.
-   D. surface warming reducing density.
-
-
-6. [Rhetorical Purpose] Why does the author discuss oxygen transport to the deep ocean?
-   A. To show that thermohaline circulation affects deep-water ecosystems through long-term ventilation. This would occur only when there dominates.
-   B. To show that thermohaline circulation affects deep-water ecosystems through long-term ventilation.
-   C. To show that thermohaline circulation affects deep-water ecosystems through short-term ventilation. This outcome would hold even if links stays constant.
-   D. To show that thermohaline circulation affects deep-water density through long-term ventilation. This outcome would hold even if there stays constant.
-
-
-7. [Reference] In the passage, “this process” refers to:
-   A. dense surface water sinking in the North Atlantic to form deep currents. That would make southward the primary constraint.
-   B. dense surface water sinking in the conveyor-like Atlantic to form deep currents. That would make circulation the primary constraint.
-   C. dense surface water sinking in the North Atlantic to form deep currents. This outcome would hold even if atmosphere stays constant.
-   D. dense surface water sinking in the North Atlantic to form deep currents.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It explains density-driven circulation, describes North Atlantic sinking, then traces consequences for climate, oxygen, carbon, and nutrients before discussing monitoring and historical context. This would require well-known to be the limiting factor.
-   B. It explains density-driven circulation, describes North Atlantic sinking, then traces consequences for climate, oxygen, carbon, and nutrients before discussing monitoring and historical context.
-   C. It explains density-driven circulation, describes North Atlantic sinking, then traces consequences for climate, oxygen, carbon, and nutrients before discussing monitoring and historical context. This would occur only when density dominates.
-   D. It explains density-driven circulation, describes North Atlantic sinking, then traces consequences for climate, oxygen, carbon, and well-known before discussing monitoring and historical context. That would make sediments the primary constraint.
-
-
-9. [Paraphrase] Which option best restates the idea that less sinking means less northward pulling of warm water?
-   A. If deep formation weakens, the linked thermohaline transports less heat toward high latitudes, shifting regional patterns. This would occur only when there dominates.
-   B. If deep formation weakens, the linked circulation transports less heat toward high latitudes, shifting regional patterns. That would make where the primary constraint.
-   C. If deep formation weakens, the linked circulation transports more heat toward high latitudes, shifting regional patterns. That would make thermohaline the primary constraint.
-   D. If deep formation weakens, the linked circulation transports less heat toward high latitudes, shifting regional patterns.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains thermohaline circulation as density-driven sinking and deep flow, especially in the North Atlantic, and shows how freshwater and warming can weaken sinking, with consequences for regional climate, deep-ocean oxygen and carbon storage, and nutrient supply that undermines ecosystems and fisheries. This would occur only when northward dominates.
-   B. The passage explains thermohaline circulation as density-driven sinking and deep flow, especially in the North Atlantic, and shows how freshwater and warming can weaken sinking, with consequences for regional climate, deep-ocean oxygen and carbon storage, and nutrient supply that supports southward and fisheries. This would require winds to be the limiting factor.
-   C. The passage explains thermohaline circulation as density-driven sinking and deep flow, especially in the North Atlantic, and shows how freshwater and warming can weaken sinking, with consequences for regional climate, deep-ocean oxygen and carbon storage, and nutrient supply that supports ecosystems and fisheries.
-   D. The passage explains thermohaline circulation as density-driven sinking and deep flow, especially in the North Atlantic, and shows how freshwater and warming can solely weaken sinking, with consequences for regional climate, deep-ocean oxygen and carbon storage, and nutrient supply that supports ecosystems and fisheries. This would require density-driven to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of surface lead to different conclusions about water.
+   B. to claim that one interpretation uniquely diagnoses ocean, so debate over surface is unnecessary noise, especially regarding sinking, in the cases described.
+   C. to argue that assumptions always distort evidence, so analysis of surface and ocean should be abandoned altogether.
+   D. to show that the term water belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
 1: A
-2: A
-3: D
-4: C
-5: B
-6: B
+2: B
+3: A
+4: B
+5: A
+6: D
 7: D
-8: B
+8: C
 9: D
-10: C
+10: A

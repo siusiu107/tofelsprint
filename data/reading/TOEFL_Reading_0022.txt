@@ -60,86 +60,87 @@ radiocarbon; it makes time visible as a layered record of both nature and human 
 
 Questions
 ---------
-1. [Rhetorical Purpose] Why does the author emphasize that atmospheric carbon‑14 levels changed over time?
-   A. To explain why radiocarbon ages require calibration to become calendar ages. That would make calibration the primary constraint.
-   B. To explain why radiocarbon ages require archaeology to become calendar ages. This outcome would hold even if centuries stays constant.
-   C. To explain why radiocarbon ages require calibration to become calendar ages. This would occur only when bayesian dominates.
-   D. To explain why radiocarbon ages require calibration to become calendar ages.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: If a piece of wood contains a particular ring, and that ring’s calendar year is known, the carbon‑14 content of that ring becomes a data point: it reveals the atmospheric carbon‑14 level for that year.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. strong and reliable, as used to describe how the claim holds across calibration
+   C. sensitive and easily disrupted, despite references to radiocarbon and calendar
+   D. finished and beyond revision, which would rule out further evaluation of calibration
 
-2. [Vocabulary] The word “wiggles” in the passage refers to:
-   A. sediments sliding downhill in sense
-   B. rapid fluctuations in the calibration curve
-   C. errors caused by broken lab equipment
-   D. rings added twice per year
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage presents calendar as a uniquely identifying mechanism and claims that once radiocarbon is observed, competing explanations for carbon collapse. It treats calibration as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   B. The passage concedes that radiocarbon is often incomplete and concludes that carbon cannot be studied in any meaningful way, since calibration overwhelms comparisons. It recommends replacing tests of calendar with intuition because evidence cannot discriminate among accounts.
+   C. The passage surveys carbon but treats the discussion mainly as a narrative about who proposed calendar first, with radiocarbon serving as anecdotal color. It therefore treats calibration as a historical footnote rather than as something that shapes interpretation, under the stated assumptions.
+   D. The passage explains carbon by linking radiocarbon to calendar, and it shows why calibration changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how carbon should change if calibration is altered, instead of assuming that radiocarbon has a single meaning. This implies that models tied to calendar must be tested across comparable cases rather than in one favorable setting.
+   B. The passage treats radiocarbon primarily as a rhetorical flourish and suggests that debates over calendar are largely stylistic, not empirical. As a result, predictions about carbon are portrayed as optional rather than as a core requirement.
+   C. The passage implies that calibration mattered mostly for early studies, whereas modern work makes radiocarbon effectively self-interpreting. This would mean that tests of calendar no longer need cross-case comparisons to explain carbon, in the setting discussed, in the context of the passage.
+   D. A persuasive account can safely average away differences in calibration, because variation there functions mainly as random measurement noise. On this view, a single strong instance of radiocarbon is enough to validate calendar for carbon.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: This is why two archaeologists can report the same radiocarbon measurement yet propose different calendar interpretations.
-   A. [C]
-   B. [D]
-   C. [B]
-   D. [A]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of calibration as a factor influencing radiocarbon
+   B. discussion of radiocarbon reservoir effects as a factor influencing radiocarbon
+   C. discussion of carbon as a factor influencing radiocarbon, especially regarding wiggles.
+   D. discussion of calendar as a factor influencing radiocarbon
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: If a piece of wood contains a particular ring, and that ring’s calendar year is known, the carbon‑14 content of that ring becomes a data point: it reveals the atmospheric carbon‑14 level for that year.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   C. If a piece of wood contains a particular ring. It reverses the opposite claim while removing extra detail.
+   D. If a piece of wood contains a particular ring. It keeps the main claim while removing extra detail.
 
-4. [Factual] According to the passage, how do tree rings support calibration?
-   A. They provide independently dated yearly records whose curve‑14 content reveals past atmospheric levels. This would occur only when archaeology dominates.
-   B. They provide independently dated yearly records whose carbon‑14 content reveals past atmospheric levels. This would occur only when carbon dominates.
-   C. They provide independently dated yearly records whose carbon‑14 content reveals past atmospheric levels.
-   D. They provide independently dated yearly records whose carbon‑14 content reveals past atmospheric levels. This outcome would hold even if measurement stays constant.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because radiocarbon directly measures causes, confounding cannot occur, and cross-case checks add little to understanding carbon.
+   B. Because comparability prevents calendar from being treated as self-evident and forces tests that hold calibration constant while examining radiocarbon.
+   C. Because the presence of calendar guarantees the correct mechanism, so remaining differences in calibration are merely stylistic noise.
+   D. Because once radiocarbon fits one dataset, replication becomes redundant, and calibration can be ignored without changing conclusions about carbon.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | radiocarbon | Can vary across settings |
+   | Confounder | calibration | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It proves calendar is unique in every case, so generalization is automatic
 
-5. [Inference] What can be inferred about why wiggle‑matching can outperform a single radiocarbon date?
-   A. A sequence of adjacent rings can match a distinctive fluctuation pattern, anchoring the timber to a narrower interval.
-   B. A sequence of adjacent rings can solely match a distinctive fluctuation pattern, anchoring the timber to a narrower interval. That would make calibration the primary constraint.
-   C. A sequence of adjacent rings can match a distinctive fluctuation pattern, anchoring the timber to a narrower interval by tying the effect to calibration.
-   D. A sequence of adjacent rings must match a distinctive fluctuation pattern, anchoring the timber to a narrower interval. This would require bayesian to be the limiting factor.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that carbon should be read alongside calibration, because radiocarbon alone does not settle what calendar means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This is especially useful for wooden structures, where many adjacent rings are available, and for periods in which the curve’s wiggles are pronounced.
+   A. the preceding claim that carbon functions as a direct measurement of calendar
+   B. the preceding claim about how radiocarbon is interpreted in relation to calendar
+   C. the preceding claim that radiocarbon is included only for rhetorical style, not analysis
+   D. the preceding claim that calibration alone explains the outcome of carbon
 
-6. [Negative Factual] All of the following are mentioned as causes of dating offsets EXCEPT:
-   A. planetary rings changing isotope ratios.
-   B. reused old wood in later structures.
-   C. marine reservoir effects in this discussion.
-   D. lake systems with ancient dissolved carbon.
-
-
-7. [Reference] In the passage, “this offset” refers to:
-   A. the tendency for marine-derived up-down to make radiocarbon ages appear too old. This outcome would hold even if centuries stays constant.
-   B. the tendency for marine-derived carbon to make radiocarbon ages appear too old. This outcome would hold even if sequences stays constant.
-   C. the tendency for marine-derived carbon to make radiocarbon ages appear too old. This outcome would hold even if measurement stays constant.
-   D. the tendency for marine-derived carbon to make radiocarbon ages appear too old.
-
-
-8. [Organization] How is the passage organized?
-   A. It introduces the lakes clock, explains calibration via independent archives, then discusses wiggles and reservoir effects before describing how calibrated chronologies shape interpretation. That would make bayesian the primary constraint.
-   B. It introduces the radiocarbon clock, explains calibration via independent archives, then discusses wiggles and reservoir effects before describing how calibrated chronologies shape interpretation.
-   C. It introduces the radiocarbon clock, explains calibration via independent archives, then discusses wiggles and reservoir effects before describing how calibrated chronologies shape interpretation. That would make radiocarbon the primary constraint.
-   D. It introduces the radiocarbon clock, explains calibration via independent archives, then discusses wiggles and reservoir effects before describing how calibrated chronologies shape interpretation. That would make carbon the primary constraint.
-
-
-9. [Paraphrase] Which option best restates the idea that a calibrated date is “a constrained estimate”?
-   A. It is a probabilistic time range shaped by measurement, atmospheric history, and archaeological context.
-   B. It is solely a probabilistic time range shaped by measurement, atmospheric history, and archaeological context. That would make marine the primary constraint.
-   C. It is a probabilistic time range shaped by measurement, atmospheric history, and archaeological context. This would occur only when atmosphere dominates.
-   D. It is a probabilistic time range shaped by carbon, atmospheric history, and archaeological context. That would make archaeologists the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that radiocarbon ages must be calibrated because past carbon‑14 levels varied, that curve fluctuations must both complicate and aid dating through wiggle‑matching, and that reservoir effects and context-sensitive models influence how archaeological chronologies are built. That would make curve the primary constraint.
-   B. The passage explains that radiocarbon ages must be calibrated even though past carbon‑14 levels varied, that curve fluctuations can both complicate and aid dating through wiggle‑matching, and that reservoir effects and context-sensitive models influence how archaeological chronologies are built. This would require another to be the limiting factor.
-   C. The passage explains that radiocarbon ages must be calibrated because past carbon‑14 levels varied, that curve fluctuations can both complicate and aid dating through wiggle‑matching, and that reservoir effects and context-sensitive models influence how archaeological chronologies are built.
-   D. The passage explains that up-down ages must be calibrated because past carbon‑14 levels varied, that curve fluctuations can both complicate and aid dating through wiggle‑matching, and that reservoir effects and context-sensitive models influence how archaeological chronologies are built. This outcome would hold even if lakes stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of radiocarbon and calendar should be abandoned altogether.
+   B. to show that the term carbon belongs to an unrelated field and is therefore outside the passage’s scope.
+   C. to claim that one interpretation uniquely diagnoses calendar, so debate over radiocarbon is unnecessary noise, in the context of the passage.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of radiocarbon lead to different conclusions about carbon.
 
 
 Answer Key
 ----------
-1: D
-2: B
-3: D
-4: C
-5: A
-6: A
-7: D
-8: B
-9: A
-10: C
+1: B
+2: D
+3: A
+4: B
+5: D
+6: B
+7: B
+8: D
+9: B
+10: D

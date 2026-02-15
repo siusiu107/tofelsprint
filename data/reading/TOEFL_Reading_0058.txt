@@ -58,86 +58,87 @@ can reduce seed set even if neither species disappears.
 
 Questions
 ---------
-1. [Vocabulary] The word “phenological” in the passage is closest in meaning to:
-   A. related to seasonal timing of biological events
-   B. related to political decision-making
-   C. related to chemical bonding in crystals
-   D. related to volcanic trace elements
 
+1. [Vocabulary] In the passage, the word "nuanced" in the sentence below is closest in meaning to:
+   Sentence: The emerging picture is nuanced.
+   A. unchangeable regardless of context, which would rule out further evaluation of mismatch, especially regarding pollinator, under the stated assumptions.
+   B. subtly different in meaning or effect, as used to describe how the claim holds across mismatch
+   C. simple and one-dimensional, even though the passage treats it as evidence-related
+   D. unrelated to the point being made, despite references to plants and flowers
 
-2. [Inference] What can be inferred about why photoperiod-based cues can contribute to mismatch under warming?
-   A. Day length stays constant across years, so organisms relying on it may not advance as quickly as temperature-responsive species by tying the effect to temperature.
-   B. Day length stays constant across years, so organisms relying on it must not advance as quickly as temperature-responsive species. This would require abundance to be the limiting factor.
-   C. Day length stays constant across years, so organisms relying on it may not advance as quickly as temperature-responsive species.
-   D. Day length stays constant across years, so organisms relying on it may solely not advance as quickly as temperature-responsive species. This would occur only when abundance dominates.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that plants is often incomplete and concludes that pollinators cannot be studied in any meaningful way, since mismatch overwhelms comparisons. It recommends replacing tests of flowers with intuition because evidence cannot discriminate among accounts, especially regarding plants.
+   B. The passage surveys pollinators but treats the discussion mainly as a narrative about who proposed flowers first, with plants serving as anecdotal color. It therefore treats mismatch as a historical footnote rather than as something that shapes interpretation.
+   C. The passage explains pollinators by linking plants to flowers, and it shows why mismatch changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage presents flowers as a uniquely identifying mechanism and claims that once plants is observed, competing explanations for pollinators collapse. It treats mismatch as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats plants primarily as a rhetorical flourish and suggests that debates over flowers are largely stylistic, not empirical. As a result, predictions about pollinators are portrayed as optional rather than as a core requirement.
+   B. A persuasive account can safely average away differences in mismatch, because variation there functions mainly as random measurement noise. On this view, a single strong instance of plants is enough to validate flowers for pollinators, for the phenomenon at issue, especially regarding plants.
+   C. A persuasive account would predict how pollinators should change if mismatch is altered, instead of assuming that plants has a single meaning. This implies that models tied to flowers must be tested across comparable cases rather than in one favorable setting.
+   D. The passage implies that mismatch mattered mostly for early studies, whereas modern work makes plants effectively self-interpreting. This would mean that tests of flowers no longer need cross-case comparisons to explain pollinators, in the setting discussed.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In that case, the two partners are reading different calendars even while living in the same place.
-   A. [D]
-   B. [C]
-   C. [B]
-   D. [A]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of flowers as a factor influencing plants
+   B. discussion of instrument dead time as a factor influencing plants
+   C. discussion of pollinators as a factor influencing plants, especially regarding flowers.
+   D. discussion of mismatch as a factor influencing plants
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: [A] If spring arrives in fits and starts—warm days followed by cold snaps—plants may advance more than pollinators, increasing the chance that peak bloom precedes peak foraging.
+   A. [A] If spring arrives in fits and starts—warm days followed by cold snaps—plants may advance more than pollinators. It reverses the opposite claim while removing extra detail.
+   B. [A] If spring arrives in fits and starts—warm days followed by cold snaps—plants may advance more than pollinators. It keeps the main claim while removing extra detail.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear, as framed by the author, especially regarding flowers.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, especially regarding mismatch, especially regarding flowers.
 
-4. [Factual] According to the passage, why can a few days of delay reduce seed production even if pollinators return later?
-   A. Many plants have a short fertile window and can age past effective pollination. This outcome would hold even if wildflowers stays constant.
-   B. Many flowers have a short fertile window and can age past effective pollination.
-   C. Many flowers have a short fertile window and can solely age past effective pollination. This outcome would hold even if mismatch stays constant.
-   D. Many flowers have a short fertile window and must age past effective pollination. That would make wildflowers the primary constraint.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once plants fits one dataset, replication becomes redundant, and mismatch can be ignored without changing conclusions about pollinators.
+   B. Because comparability prevents flowers from being treated as self-evident and forces tests that hold mismatch constant while examining plants.
+   C. Because plants directly measures causes, confounding cannot occur, and cross-case checks add little to understanding pollinators.
+   D. Because the presence of flowers guarantees the correct mechanism, so remaining differences in mismatch are merely stylistic noise.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | plants | Can vary across settings |
+   | Confounder | mismatch | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves flowers is unique in every case, so generalization is automatic
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
 
-5. [Negative Factual] All of the following are described as factors affecting mismatch EXCEPT:
-   A. specialization between certain plants and pollinators.
-   B. habitat fragmentation limiting alternative forage patches.
-   C. warm spells and cold snaps.
-   D. ion migration changing solar-cell voltage landscapes.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that pollinators should be read alongside mismatch, because plants alone does not settle what flowers means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This problem, known as phenological mismatch, has become more prominent as climates warm unevenly across seasons and regions.
+   A. the preceding claim that pollinators functions as a direct measurement of flowers
+   B. the preceding claim that plants is included only for rhetorical style, not analysis
+   C. the preceding claim that mismatch alone explains the outcome of pollinators
+   D. the preceding claim about how plants is interpreted in relation to flowers
 
-6. [Rhetorical Purpose] Why does the author mention agricultural landscapes with mass flowering crops?
-   A. To show how short crop bloom periods can solely make wildflower timing more important as a buffer for pollinators. That would make flowers the primary constraint.
-   B. To show how short crop bloom periods can make wildflower timing less important as a buffer for pollinators. That would make ecology the primary constraint.
-   C. To show how short crop bloom periods can make wildflower timing more important as a buffer for pollinators.
-   D. To show how short crop bloom periods can make wildflower timing more important as a buffer for plants. This would require plants to be the limiting factor.
-
-
-7. [Reference] In the passage, “the consequences” refers to:
-   A. demographic and community effects that can solely follow from reduced seed set and food shortages due to timing gaps. This would require landscape to be the limiting factor.
-   B. demographic and community effects that can follow from reduced seed set and food shortages due to timing gaps.
-   C. demographic and community effects that must follow from reduced seed set and food shortages due to timing gaps. This outcome would hold even if evolution stays constant.
-   D. demographic and community effects that can follow from reduced seed set and food shortages due to timing gaps by tying the effect to pollinators.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It defines phenological mismatch, explains differing cues for plants and pollinators, discusses ecological and demographic consequences, then examines landscape context, monitoring, and potential adaptation.
-   B. It defines phenological mismatch, explains differing cues for plants and pollinators, discusses ecological and demographic consequences, then examines landscape context, monitoring, and potential adaptation. This outcome would hold even if pollinator stays constant.
-   C. It defines phenological mismatch, explains differing cues for plants and pollinators, discusses ecological and demographic consequences, then examines landscape context, monitoring, and potential adaptation. This would require abundance to be the limiting factor.
-   D. It defines phenological mismatch, explains differing cues for plants and die-offs, discusses ecological and demographic consequences, then examines landscape context, monitoring, and potential adaptation. This would require abundance to be the limiting factor.
-
-
-9. [Paraphrase] Which option best restates the idea that interactions can fail even if species persist?
-   A. Species may survive separately, but if their activity periods no longer overlap, pollination and food exchange can break down by tying the effect to abundance.
-   B. Species must survive separately, but if their activity periods no longer overlap, pollination and food exchange can break down. This outcome would hold even if abundance stays constant.
-   C. Species may solely survive separately, but if their activity periods no longer overlap, pollination and food exchange can break down. That would make particular the primary constraint.
-   D. Species may survive separately, but if their activity periods no longer overlap, pollination and food exchange can break down.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains phenological mismatch as a timing gap between flowering and pollinator activity driven by different environmental cues, shows how short fertile windows and demographic effects must magnify small delays, and argues that fragmentation and changing climate can worsen coordination problems even while adaptation is possible but not guaranteed. This outcome would hold even if ecology stays constant.
-   B. The passage explains phenological wildflowers as a timing gap between flowering and pollinator activity driven by different environmental cues, shows how short fertile windows and demographic effects can magnify small delays, and argues that fragmentation and changing climate can worsen coordination problems even while adaptation is possible but not guaranteed. That would make ecology the primary constraint.
-   C. The passage explains phenological mismatch as a timing gap between flowering and pollinator activity driven by different environmental cues, shows how short fertile windows and demographic effects can magnify small delays, and argues that fragmentation and changing climate can worsen coordination problems even while adaptation is possible but not guaranteed.
-   D. The passage explains phenological mismatch as a timing gap between flowering and pollinator activity driven by different environmental cues, shows how short fertile windows and demographic effects can solely magnify small delays, and argues that fragmentation and changing climate can worsen coordination problems even while adaptation is possible but not guaranteed. This would require die-offs to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of plants and flowers should be abandoned altogether, in the examples provided.
+   B. to claim that one interpretation uniquely diagnoses flowers, so debate over plants is unnecessary noise, in the setting discussed.
+   C. to show that the term pollinators belongs to an unrelated field and is therefore outside the passage’s scope.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of plants lead to different conclusions about pollinators.
 
 
 Answer Key
 ----------
-1: A
+1: B
 2: C
-3: D
+3: C
 4: B
-5: D
-6: C
-7: B
-8: A
+5: B
+6: B
+7: C
+8: D
 9: D
-10: C
+10: D

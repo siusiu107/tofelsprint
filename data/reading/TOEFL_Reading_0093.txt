@@ -74,86 +74,87 @@ regard as credible rather than punitive.
 
 Questions
 ---------
-1. [Sentence Insert] In which location would the following sentence best fit?
-   Sentence to insert: When uncertainty is high, clinicians often prescribe broadly, which can intensify selection for resistant bacteria.
-   A. [D]
+
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: Stewardship programs often use audits and feedback: pharmacists or infectious-disease specialists review prescriptions and suggest de-escalation, switching from broad-spectrum to narrow-spectrum drugs once a pathogen is identified.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. finished and beyond revision, which would rule out further evaluation of antibiotics
+   C. sensitive and easily disrupted, despite references to clinicians and feedback
+   D. strong and reliable, as used to describe how the claim holds across antibiotics
+
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that clinicians is often incomplete and concludes that stewardship cannot be studied in any meaningful way, since antibiotics overwhelms comparisons. It recommends replacing tests of feedback with intuition because evidence cannot discriminate among accounts, for the main claim of the text.
+   B. The passage surveys stewardship but treats the discussion mainly as a narrative about who proposed feedback first, with clinicians serving as anecdotal color. It therefore treats antibiotics as a historical footnote rather than as something that shapes interpretation.
+   C. The passage presents feedback as a uniquely identifying mechanism and claims that once clinicians is observed, competing explanations for stewardship collapse. It treats antibiotics as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage explains stewardship by linking clinicians to feedback, and it shows why antibiotics changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats clinicians primarily as a rhetorical flourish and suggests that debates over feedback are largely stylistic, not empirical. As a result, predictions about stewardship are portrayed as optional rather than as a core requirement.
+   B. The passage implies that antibiotics mattered mostly for early studies, whereas modern work makes clinicians effectively self-interpreting. This would mean that tests of feedback no longer need cross-case comparisons to explain stewardship, especially regarding rather.
+   C. A persuasive account can safely average away differences in antibiotics, because variation there functions mainly as random measurement noise. On this view, a single strong instance of clinicians is enough to validate feedback for stewardship, in the setting discussed, given the evidence cited.
+   D. A persuasive account would predict how stewardship should change if antibiotics is altered, instead of assuming that clinicians has a single meaning. This implies that models tied to feedback must be tested across comparable cases rather than in one favorable setting.
+
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of antibiotics as a factor influencing clinicians, especially regarding feedback.
+   B. discussion of sediment provenance as a factor influencing clinicians
+   C. discussion of feedback as a factor influencing clinicians
+   D. discussion of stewardship as a factor influencing clinicians
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Stewardship programs often use audits and feedback: pharmacists or infectious-disease specialists review prescriptions and suggest de-escalation, switching from broad-spectrum to narrow-spectrum drugs once a pathogen is identified.
+   A. Stewardship programs often use audits and feedback: pharmacists or infectious-disease specialists review prescriptions and suggest de-escalation. It reverses the opposite claim while removing extra detail.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding clinicians, in the examples provided.
+   C. Stewardship programs often use audits and feedback: pharmacists or infectious-disease specialists review prescriptions and suggest de-escalation. It keeps the main claim while removing extra detail.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, in the setting discussed.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once clinicians fits one dataset, replication becomes redundant, and antibiotics can be ignored without changing conclusions about stewardship.
+   B. Because comparability prevents feedback from being treated as self-evident and forces tests that hold antibiotics constant while examining clinicians.
+   C. Because clinicians directly measures causes, confounding cannot occur, and cross-case checks add little to understanding stewardship.
+   D. Because the presence of feedback guarantees the correct mechanism, so remaining differences in antibiotics are merely stylistic noise.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | clinicians | Can vary across settings |
+   | Confounder | antibiotics | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It proves feedback is unique in every case, so generalization is automatic
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that stewardship should be read alongside antibiotics, because clinicians alone does not settle what feedback means.
+   A. [A]
    B. [B]
    C. [C]
-   D. [A]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This is not a moral failing of microbes; it is population genetics in a hospital gown.
+   A. the preceding claim about how clinicians is interpreted in relation to feedback
+   B. the preceding claim that clinicians is included only for rhetorical style, not analysis
+   C. the preceding claim that stewardship functions as a direct measurement of feedback
+   D. the preceding claim that antibiotics alone explains the outcome of stewardship
 
-2. [Vocabulary] In the passage, the word “de-escalation” is closest in meaning to:
-   A. to confuse the reader with unrelated details
-   B. switching from broader antibiotics to narrower ones once evidence allows
-   C. to store objects in a warehouse
-   D. to reverse a decision completely
-
-
-3. [Factual] According to the passage, which statement is supported?
-   A. antibiotic diagnostics plays a central role in the process described, interacting with resistance rather than acting alone. That would make ecology the primary constraint.
-   B. antibiotic stewardship plays a central role in the process described, interacting with resistance rather than acting alone.
-   C. antibiotic stewardship plays a central role in the process described, interacting with resistance rather than acting alone. That would make narrow-spectrum the primary constraint.
-   D. antibiotic stewardship plays a central role in the process described, interacting with resistance rather than acting alone. This would require pathogens to be the limiting factor.
-
-
-4. [Negative Factual] All of the following are discussed in the passage EXCEPT:
-   A. a discussion of lapis lazuli extraction grades in Renaissance contracts.
-   B. how resistance modifies or mediates the central phenomenon.
-   C. limitations or trade-offs involving broad-spectrum drugs in this discussion.
-   D. the role of antibiotic stewardship in shaping outcomes.
-
-
-5. [Rhetorical Purpose] What is the primary function of the comparison to another interpretation?
-   A. to show that explaining antibiotic stewardship requires weighing evidence and recognizing limits of any single account. That would make de-escalation the primary constraint.
-   B. to show that explaining antibiotic infectious-disease requires weighing evidence and recognizing limits of any single account. That would make stewardship the primary constraint.
-   C. to show that explaining antibiotic stewardship requires weighing evidence and recognizing limits of any single account.
-   D. to show that explaining antibiotic stewardship requires weighing evidence and recognizing limits of any single account. That would make medicine the primary constraint.
-
-
-6. [Inference] Which inference is most strongly supported by the passage?
-   A. Changes in pathogens can shift the consequences of antibiotic stewardship, even when the underlying mechanism remains the same. This outcome would hold even if stewardship stays constant.
-   B. Changes in resistance must shift the consequences of antibiotic stewardship, even when the underlying mechanism remains the same. This would occur only when stewardship dominates.
-   C. Changes in resistance can shift the consequences of antibiotic stewardship, even when the underlying mechanism remains the same.
-   D. Changes in resistance can solely shift the consequences of antibiotic stewardship, even when the underlying mechanism remains the same. This outcome would hold even if infectious-disease stays constant.
-
-
-7. [Reference] In the passage, the phrase “the system” most nearly refers to:
-   A. the interconnected set of processes involving antibiotic stewardship, broad-spectrum, and related constraints described by the author. This outcome would hold even if medicine stays constant.
-   B. the interconnected set of processes involving antibiotic stewardship, resistance, and related constraints described by the author. This would occur only when clostridioides dominates.
-   C. the interconnected set of processes involving antibiotic stewardship, resistance, and related constraints described by the author. This would require rapid to be the limiting factor.
-   D. the interconnected set of processes involving antibiotic stewardship, resistance, and related constraints described by the author.
-
-
-8. [Organization] Which description best captures how the passage is organized?
-   A. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. This outcome would hold even if stewardship stays constant.
-   B. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications. That would make resistance the primary constraint.
-   C. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications.
-   D. It defines the central phenomenon, explains key mechanisms, then evaluates consequences and limitations before concluding with broader implications by tying the effect to rapid.
-
-
-9. [Paraphrase] Which option best restates the author’s main point?
-   A. The passage argues that antibiotic stewardship is solely best understood through its interactions with resistance and broad-spectrum drugs, rather than through a one-cause story. That would make community the primary constraint.
-   B. The passage argues that antibiotic stewardship is best understood through its interactions with resistance and broad-spectrum drugs, rather than through a one-cause story.
-   C. The passage argues that antibiotic stewardship is best understood through its interactions with resistance and clostridioides drugs, rather than through a one-cause story. This outcome would hold even if duration stays constant.
-   D. The passage argues that antibiotic stewardship is best understood through its interactions with resistance and broad-spectrum drugs, rather than through a one-cause story. This outcome would hold even if ecology stays constant.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains antibiotic stewardship by describing underlying mechanisms and showing how narrow-spectrum and broad-spectrum drugs shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would require hospitals to be the limiting factor.
-   B. The passage explains antibiotic stewardship by describing underlying mechanisms and showing how resistance and broad-spectrum drugs shape outcomes, emphasizing constraints and trade-offs rather than a uniform template.
-   C. The passage explains antibiotic stewardship by describing underlying mechanisms and showing how resistance and broad-spectrum drugs shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. This would occur only when medicine dominates.
-   D. The passage explains antibiotic stewardship by describing underlying mechanisms and showing how resistance and broad-spectrum drugs shape outcomes, emphasizing constraints and trade-offs rather than a uniform template. That would make hospitals the primary constraint.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of clinicians and feedback should be abandoned altogether, especially regarding feedback.
+   B. to claim that one interpretation uniquely diagnoses feedback, so debate over clinicians is unnecessary noise, especially regarding antibiotic.
+   C. to show that the term stewardship belongs to an unrelated field and is therefore outside the passage’s scope.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of clinicians lead to different conclusions about stewardship.
 
 
 Answer Key
 ----------
-1: C
-2: B
-3: B
-4: A
+1: D
+2: D
+3: D
+4: B
 5: C
-6: C
-7: D
-8: C
-9: B
-10: B
+6: B
+7: B
+8: A
+9: A
+10: D

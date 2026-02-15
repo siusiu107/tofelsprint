@@ -59,86 +59,87 @@ as politically textured as it was physically rugged.
 
 Questions
 ---------
-1. [Inference] What can be inferred from a valley site that contains obsidian from many distant and nearby sources?
-   A. Multiple exchange connections likely brought glass through several communities rather than a single direct quarry trip.
-   B. Multiple exchange connections likely brought glass through several communities rather than a single direct quarry trip. That would make on-site the primary constraint.
-   C. Multiple exchange connections likely brought glass through several communities rather than a single direct quarry trip. This outcome would hold even if procurement stays constant.
-   D. Multiple on-site connections likely brought glass through several communities rather than a single direct quarry trip. This outcome would hold even if high-quality stays constant.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: Before geochemical sourcing, a scatter of obsidian blades at a site could be taken as evidence of local toolmaking or of general contact with “somewhere volcanic.” Once portable X‑ray fluorescence instruments became common, researchers could measure element ratios on-site, often without damaging the artifact.
+   A. strong and reliable, as used to describe how the claim holds across exchange
+   B. sensitive and easily disrupted, despite references to glass and source
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. finished and beyond revision, which would rule out further evaluation of exchange
 
-2. [Vocabulary] The word “proxy” in the passage is closest in meaning to:
-   A. a toolmaking technique in sense
-   B. a hydration rim measurement
-   C. a volcanic eruption in sense
-   D. a stand-in indicator used to infer something else
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys obsidian but treats the discussion mainly as a narrative about who proposed source first, with glass serving as anecdotal color. It therefore treats exchange as a historical footnote rather than as something that shapes interpretation.
+   B. The passage explains obsidian by linking glass to source, and it shows why exchange changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage presents source as a uniquely identifying mechanism and claims that once glass is observed, competing explanations for obsidian collapse. It treats exchange as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage concedes that glass is often incomplete and concludes that obsidian cannot be studied in any meaningful way, since exchange overwhelms comparisons. It recommends replacing tests of source with intuition because evidence cannot discriminate among accounts, especially regarding glass.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how obsidian should change if exchange is altered, instead of assuming that glass has a single meaning. This implies that models tied to source must be tested across comparable cases rather than in one favorable setting.
+   B. The passage implies that exchange mattered mostly for early studies, whereas modern work makes glass effectively self-interpreting. This would mean that tests of source no longer need cross-case comparisons to explain obsidian, in the examples provided.
+   C. A persuasive account can safely average away differences in exchange, because variation there functions mainly as random measurement noise. On this view, a single strong instance of glass is enough to validate source for obsidian.
+   D. The passage treats glass primarily as a rhetorical flourish and suggests that debates over source are largely stylistic, not empirical. As a result, predictions about obsidian are portrayed as optional rather than as a core requirement, under the stated assumptions, especially regarding glass.
 
-3. [Factual] According to the passage, why do different obsidian flows have distinct chemical signatures?
-   A. They inherit different on-site ratios from their magma and the crust they interact with. That would make consider the primary constraint.
-   B. They inherit different trace-element ratios from their magma and the crust they interact with. This outcome would hold even if ancient stays constant.
-   C. They inherit different trace-element ratios from their magma and the crust they interact with. that factor.
-   D. They inherit different trace-element ratios from their magma and the crust they interact with. This would occur only when on-site dominates.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of exchange as a factor influencing glass
+   B. discussion of obsidian as a factor influencing glass, as framed by the author.
+   C. discussion of source as a factor influencing glass
+   D. discussion of allometric scaling as a factor influencing glass
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Before geochemical sourcing, a scatter of obsidian blades at a site could be taken as evidence of local toolmaking or of general contact with “somewhere volcanic.” Once portable X‑ray fluorescence instruments became common, researchers could measure element ratios on-site, often without damaging the artifact.
+   A. Before geochemical sourcing. It keeps the main claim while removing extra detail.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. Before geochemical sourcing. It reverses the opposite claim while removing extra detail.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In practice, this means that an archaeological layer can contain a mixture of volcanic origins even when the tools were made in one place.
-   A. [B]
-   B. [A]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because glass directly measures causes, confounding cannot occur, and cross-case checks add little to understanding obsidian.
+   B. Because comparability prevents source from being treated as self-evident and forces tests that hold exchange constant while examining glass.
+   C. Because once glass fits one dataset, replication becomes redundant, and exchange can be ignored without changing conclusions about obsidian.
+   D. Because the presence of source guarantees the correct mechanism, so remaining differences in exchange are merely stylistic noise.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | glass | Can vary across settings |
+   | Confounder | exchange | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It proves source is unique in every case, so generalization is automatic
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that obsidian should be read alongside exchange, because glass alone does not settle what source means.
+   A. [A]
+   B. [B]
    C. [C]
    D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This insight transformed the study of prehistoric exchange.
+   A. the preceding claim about how glass is interpreted in relation to source
+   B. the preceding claim that glass is included only for rhetorical style, not analysis
+   C. the preceding claim that obsidian functions as a direct measurement of source
+   D. the preceding claim that exchange alone explains the outcome of obsidian
 
-5. [Negative Factual] All of the following are mentioned as factors that can complicate obsidian hydration dating EXCEPT:
-   A. temperature in this discussion.
-   B. the number of wolves in nearby forests.
-   C. obsidian composition in this discussion.
-   D. local calibration with independent dates.
-
-
-6. [Rhetorical Purpose] Why does the author contrast direct procurement with down‑the‑line exchange?
-   A. To show how different movement mechanisms can produce different sourcing patterns at the same site by tying the effect to on-site.
-   B. To show how different movement mechanisms can produce different sourcing patterns at the same site.
-   C. To show how different movement mechanisms can solely produce different sourcing patterns at the same site. That would make chemistry the primary constraint.
-   D. To show how different movement mechanisms must produce different sourcing patterns at the same site. That would make consider the primary constraint.
-
-
-7. [Reference] In the passage, “that rim” refers to:
-   A. the hydration layer formed as water diffuses into obsidian. That would make chemistry the primary constraint.
-   B. the hydration layer formed as water diffuses into high-quality. This would occur only when glass dominates.
-   C. the hydration layer formed as water diffuses into obsidian. This would require quantities to be the limiting factor.
-   D. the hydration layer formed as water diffuses into obsidian.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It explains why obsidian can be sourced chemically, shows how sourcing informs exchange models, adds hydration dating and its limits, then describes how combined evidence supports social interpretations.
-   B. It explains why obsidian can be sourced chemically, shows how sourcing informs exchange models, adds glass dating and its limits, then describes how combined evidence supports social interpretations. This outcome would hold even if trace-element stays constant.
-   C. It explains why obsidian can be sourced chemically, shows how sourcing informs exchange models, adds hydration dating and its limits, then describes how combined evidence undermines social interpretations. This outcome would hold even if archaeologists stays constant.
-   D. It explains why obsidian can solely be sourced chemically, shows how sourcing informs exchange models, adds hydration dating and its limits, then describes how combined evidence supports social interpretations. That would make hydration the primary constraint.
-
-
-9. [Paraphrase] Which option best restates the idea that deposits become “a ledger”?
-   A. Collections of archaeologists at a site can record multiple connections because each artifact’s chemistry points to a particular source. This outcome would hold even if archaeology stays constant.
-   B. Collections of obsidian at a site can record multiple connections even though each artifact’s chemistry points to a particular source. This would require glass to be the limiting factor.
-   C. Collections of obsidian at a site can record multiple connections because each artifact’s chemistry points to a particular source.
-   D. Collections of obsidian at a site must record multiple connections because each artifact’s chemistry points to a particular source. This would require about to be the limiting factor.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage argues that obsidian’s trace-element fingerprints allow archaeologists to identify volcanic sources, use sourcing patterns to evaluate exchange routes, and cautiously apply hydration rims for relative timing, with combined evidence revealing how materials and social relationships moved across past landscapes. That would make chemistry the primary constraint.
-   B. The passage argues that obsidian’s trace-element chemistry allow archaeologists to identify volcanic sources, use sourcing patterns to evaluate exchange routes, and cautiously apply hydration rims for relative timing, with combined evidence revealing how materials and social relationships moved across past landscapes. This would occur only when communities dominates.
-   C. The passage argues that obsidian’s trace-element fingerprints allow archaeologists to identify volcanic sources, use sourcing patterns to evaluate exchange routes, and cautiously apply hydration rims for relative timing, with combined evidence revealing how materials and social relationships moved across past landscapes.
-   D. The passage argues that obsidian’s trace-element fingerprints allow archaeologists to identify volcanic sources, use sourcing patterns to evaluate exchange routes, and cautiously apply hydration rims for relative timing, with combined evidence revealing how materials and social relationships moved across past landscapes. That would make trace-element the primary constraint.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of glass and source should be abandoned altogether, in the context of the passage.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of glass lead to different conclusions about obsidian.
+   C. to show that the term obsidian belongs to an unrelated field and is therefore outside the passage’s scope.
+   D. to claim that one interpretation uniquely diagnoses source, so debate over glass is unnecessary noise, especially regarding source.
 
 
 Answer Key
 ----------
 1: A
-2: D
-3: C
-4: B
-5: B
+2: B
+3: A
+4: D
+5: A
 6: B
 7: D
-8: A
-9: C
-10: C
+8: D
+9: A
+10: B

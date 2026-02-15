@@ -63,86 +63,87 @@ help distinguish true superconducting expulsion from mere low-resistance behavio
 
 Questions
 ---------
-1. [Rhetorical Purpose] Why does the author emphasize the Meissner effect rather than only zero resistance?
-   A. To show that electrons is a distinct phase that actively changes magnetic behavior, not merely perfect conduction. That would make physics the primary constraint.
-   B. To show that superconductivity is a distinct phase that actively changes magnetic behavior, not merely perfect conduction.
-   C. To show that superconductivity is a distinct phase that actively changes magnetic behavior, not merely perfect conduction. This would require low-resistance to be the limiting factor.
-   D. To show that superconductivity is solely a distinct phase that actively changes magnetic behavior, not merely perfect conduction. This outcome would hold even if below stays constant.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: [D] By expelling magnetic fields through collective screening currents, a superconductor reveals that electrical perfection and magnetic behavior are inseparable, and that the most visible consequence of a microscopic pairing transition can be a macroscopic change in how space around the material is shaped by magnetism.
+   A. strong and reliable, as used to describe how the claim holds across fields
+   B. durable in a purely physical sense, even though the passage treats it as evidence-related
+   C. sensitive and easily disrupted, despite references to magnetic and superconductor
+   D. finished and beyond revision, which would rule out further evaluation of fields
 
-2. [Vocabulary] The word “diagnostic” in the passage is closest in meaning to:
-   A. made of diagnosis machines
-   B. accidental and rare in sense
-   C. dependent on humidity in sense
-   D. serving as a clear indicator
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains field by linking magnetic to superconductor, and it shows why fields changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage concedes that magnetic is often incomplete and concludes that field cannot be studied in any meaningful way, since fields overwhelms comparisons. It recommends replacing tests of superconductor with intuition because evidence cannot discriminate among accounts, under the stated assumptions.
+   C. The passage presents superconductor as a uniquely identifying mechanism and claims that once magnetic is observed, competing explanations for field collapse. It treats fields as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage surveys field but treats the discussion mainly as a narrative about who proposed superconductor first, with magnetic serving as anecdotal color. It therefore treats fields as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how field should change if fields is altered, instead of assuming that magnetic has a single meaning. This implies that models tied to superconductor must be tested across comparable cases rather than in one favorable setting.
+   B. A persuasive account can safely average away differences in fields, because variation there functions mainly as random measurement noise. On this view, a single strong instance of magnetic is enough to validate superconductor for field.
+   C. The passage implies that fields mattered mostly for early studies, whereas modern work makes magnetic effectively self-interpreting. This would mean that tests of superconductor no longer need cross-case comparisons to explain field, especially regarding magnetic.
+   D. The passage treats magnetic primarily as a rhetorical flourish and suggests that debates over superconductor are largely stylistic, not empirical. As a result, predictions about field are portrayed as optional rather than as a core requirement, especially regarding superconductor, especially regarding field.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: The surface currents are therefore the material’s way of enforcing a new electromagnetic rule.
-   A. [D]
-   B. [A]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of sediment provenance as a factor influencing magnetic
+   B. discussion of fields as a factor influencing magnetic, especially regarding magnetic.
+   C. discussion of field as a factor influencing magnetic
+   D. discussion of superconductor as a factor influencing magnetic
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: [D] By expelling magnetic fields through collective screening currents, a superconductor reveals that electrical perfection and magnetic behavior are inseparable, and that the most visible consequence of a microscopic pairing transition can be a macroscopic change in how space around the material is shaped by magnetism.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   C. [D] By expelling magnetic fields through collective screening currents. It keeps the main claim while removing extra detail.
+   D. [D] By expelling magnetic fields through collective screening currents. It reverses the opposite claim while removing extra detail.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of superconductor guarantees the correct mechanism, so remaining differences in fields are merely stylistic noise.
+   B. Because comparability prevents superconductor from being treated as self-evident and forces tests that hold fields constant while examining magnetic.
+   C. Because once magnetic fits one dataset, replication becomes redundant, and fields can be ignored without changing conclusions about field.
+   D. Because magnetic directly measures causes, confounding cannot occur, and cross-case checks add little to understanding field.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | magnetic | Can vary across settings |
+   | Confounder | fields | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It proves superconductor is unique in every case, so generalization is automatic
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It co-varies with the driver of interest, which makes isolation difficult
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that field should be read alongside fields, because magnetic alone does not settle what superconductor means.
+   A. [A]
+   B. [B]
    C. [C]
-   D. [B]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This expulsion, known as the Meissner effect, shows that superconductivity is not merely perfect conductivity; it is a distinct phase of matter with its own electromagnetic behavior.
+   A. the preceding claim that fields alone explains the outcome of field
+   B. the preceding claim about how magnetic is interpreted in relation to superconductor
+   C. the preceding claim that field functions as a direct measurement of superconductor
+   D. the preceding claim that magnetic is included only for rhetorical style, not analysis
 
-4. [Factual] According to the passage, what produces magnetic field expulsion in a superconductor?
-   A. Screening currents near the surface generate an opposing field that cancels the applied field inside. This would require mechanism to be the limiting factor.
-   B. Screening currents near the surface generate an opposing field that cancels the applied field inside.
-   C. Screening currents near the surface generate an opposing expulsion that cancels the applied field inside. This would require resistance-free to be the limiting factor.
-   D. Screening currents near the surface generate an opposing field that cancels the applied field inside. This would occur only when expulsion dominates.
-
-
-5. [Inference] What can be inferred about why flux pinning can make levitation stable?
-   A. Because moving the magnet would require moving pinned vortices, which costs energy by tying the effect to electrons.
-   B. Because moving the magnet would require moving pinned vortices, which costs energy. This outcome would hold even if superconductivity stays constant.
-   C. Because moving the magnet would require moving pinned vortices, which costs energy.
-   D. even though moving the magnet would require moving pinned vortices, which costs energy. This outcome would hold even if magnetism stays constant.
-
-
-6. [Negative Factual] All of the following are mentioned as relevant to superconducting behavior EXCEPT:
-   A. vortices in Type II materials.
-   B. critical temperature in this discussion.
-   C. critical magnetic fields.
-   D. radiocarbon wiggle‑matching.
-
-
-7. [Reference] In the passage, “the distinction” refers to the difference between:
-   A. Type I and Type II physics’ responses to magnetic fields. This outcome would hold even if low-resistance stays constant.
-   B. Type I and Type II superconductors’ responses to magnetic fields.
-   C. Type I and Type II superconductors’ responses to magnetic fields. That would make expulsion the primary constraint.
-   D. Type I and Type II superconductors’ responses to magnetic fields. This outcome would hold even if superconductor stays constant.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces Meissner expulsion, explains collective screening and levitation, distinguishes Type I and II behavior, then connects temperature and persistence to applications.
-   B. It introduces Meissner expulsion, explains collective screening and levitation, distinguishes Type I and II behavior, then connects temperature and persistence to applications. That would make effect the primary constraint.
-   C. It introduces Meissner expulsion, explains collective screening and levitation, distinguishes Type I and II behavior, then connects temperature and persistence to applications. That would make mechanism the primary constraint.
-   D. It introduces effect expulsion, explains collective screening and levitation, distinguishes Type I and II behavior, then connects temperature and persistence to applications. This outcome would hold even if penetration stays constant.
-
-
-9. [Paraphrase] Which option best restates the claim that superconductivity is not merely perfect conductivity?
-   A. A superconductor actively expels magnetic fields as it enters the superconducting state, revealing a new phase behavior. That would make mechanism the primary constraint.
-   B. A superconductor actively expels magnetic fields as it enters the superconducting state, revealing a new phase behavior. This outcome would hold even if meissner stays constant.
-   C. A superconductor actively expels magnetic fields as it enters the superconducting state, revealing a new phase behavior.
-   D. A magnetism actively expels magnetic fields as it enters the superconducting state, revealing a new phase behavior. This would occur only when below dominates.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that superconductors expel magnetic fields via the Meissner effect because paired electrons generate surface screening currents, discusses levitation and vortex behavior—especially in Type II materials—and links critical fields and temperatures to persistent currents and applications. This would occur only when temperature dominates.
-   B. The passage explains that superconductors expel magnetic fields via the Meissner effect even though paired electrons generate surface screening currents, discusses levitation and vortex behavior—especially in Type II materials—and links critical fields and temperatures to persistent currents and applications. This would occur only when magnetism dominates.
-   C. The passage explains that superconductors expel magnetic fields via the Meissner effect because paired field generate surface screening currents, discusses levitation and vortex behavior—especially in Type II materials—and links critical fields and temperatures to persistent currents and applications. That would make high-field the primary constraint.
-   D. The passage explains that superconductors expel magnetic fields via the Meissner effect because paired electrons generate surface screening currents, discusses levitation and vortex behavior—especially in Type II materials—and links critical fields and temperatures to persistent currents and applications.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of magnetic and superconductor should be abandoned altogether.
+   B. to claim that one interpretation uniquely diagnoses superconductor, so debate over magnetic is unnecessary noise, especially regarding fields, especially regarding superconductor.
+   C. to show that the term field belongs to an unrelated field and is therefore outside the passage’s scope.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of magnetic lead to different conclusions about field.
 
 
 Answer Key
 ----------
-1: B
-2: D
-3: B
-4: B
+1: A
+2: A
+3: A
+4: A
 5: C
-6: D
-7: B
-8: A
-9: C
+6: B
+7: C
+8: C
+9: B
 10: D

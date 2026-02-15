@@ -60,86 +60,87 @@ sleep to metabolism to mood.
 
 Questions
 ---------
-1. [Rhetorical Purpose] Why does the author open with the experience of jet lag?
-   A. To illustrate, in a familiar way, that the body has internal timing programs that can become misaligned with local time.
-   B. To illustrate, in a familiar way, that the body has internal timing programs that must become misaligned with local time. That would make hunger the primary constraint.
-   C. To illustrate, in a familiar way, that the body has internal timing programs that can become misaligned with local time by tying the effect to argues.
-   D. To illustrate, in a familiar way, that the body has internal timing programs that can solely become misaligned with local time. This would occur only when physiology dominates.
 
+1. [Vocabulary] In the passage, the word "inhibit" in the sentence below is closest in meaning to:
+   Sentence: Neurons in the SCN contain genes whose products inhibit their own production in a delayed feedback loop, creating an oscillation.
+   A. cause and accelerate, even though the passage treats it as evidence-related, especially regarding sleep.
+   B. leave unaffected, despite references to light and clock, as the discussion implies.
+   C. complete and finalize, which would rule out further evaluation of circadian
+   D. prevent or slow down, as used to describe how the claim holds across circadian
 
-2. [Vocabulary] The word “entrained” in the passage is closest in meaning to:
-   A. blocked by a barrier
-   B. randomized by noise in sense
-   C. synchronized to an external cue
-   D. made longer than 24 hours
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys sleep but treats the discussion mainly as a narrative about who proposed clock first, with light serving as anecdotal color. It therefore treats circadian as a historical footnote rather than as something that shapes interpretation.
+   B. The passage concedes that light is often incomplete and concludes that sleep cannot be studied in any meaningful way, since circadian overwhelms comparisons. It recommends replacing tests of clock with intuition because evidence cannot discriminate among accounts.
+   C. The passage explains sleep by linking light to clock, and it shows why circadian changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage presents clock as a uniquely identifying mechanism and claims that once light is observed, competing explanations for sleep collapse. It treats circadian as minor noise and suggests that a single measurement is sufficient for a final conclusion, given the evidence cited.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in circadian, because variation there functions mainly as random measurement noise. On this view, a single strong instance of light is enough to validate clock for sleep.
+   B. The passage implies that circadian mattered mostly for early studies, whereas modern work makes light effectively self-interpreting. This would mean that tests of clock no longer need cross-case comparisons to explain sleep, especially regarding clock, for the phenomenon at issue, as framed by the author.
+   C. The passage treats light primarily as a rhetorical flourish and suggests that debates over clock are largely stylistic, not empirical. As a result, predictions about sleep are portrayed as optional rather than as a core requirement.
+   D. A persuasive account would predict how sleep should change if circadian is altered, instead of assuming that light has a single meaning. This implies that models tied to clock must be tested across comparable cases rather than in one favorable setting.
 
-3. [Factual] According to the passage, what role does the SCN play?
-   A. It acts as a master pacemaker that coordinates people signals in the body. This would require physiology to be the limiting factor.
-   B. It acts as a master pacemaker that coordinates circadian signals in the body.
-   C. It acts as a master pacemaker that coordinates circadian signals in the body. This would require neurons to be the limiting factor.
-   D. It acts as a master pacemaker that coordinates circadian signals in the body. This would occur only when metabolism dominates.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of radiocarbon reservoir effects as a factor influencing light
+   B. discussion of circadian as a factor influencing light
+   C. discussion of clock as a factor influencing light, in the cases described.
+   D. discussion of sleep as a factor influencing light
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: If a person eats at a time that is out of phase with their internal clock—late-night meals, for example—metabolic processes may be less prepared to handle the influx.
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding timing, especially regarding clock.
+   B. If a person eats at a time that is out of phase with their internal clock—late-night meals. It keeps the main claim while removing extra detail.
+   C. If a person eats at a time that is out of phase with their internal clock—late-night meals. It reverses the opposite claim while removing extra detail.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, for the phenomenon at issue.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: A single cell’s rhythm would be fragile, but a coordinated network can keep time even when individual components vary.
-   A. [B]
-   B. [D]
-   C. [A]
-   D. [C]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of clock guarantees the correct mechanism, so remaining differences in circadian are merely stylistic noise.
+   B. Because comparability prevents clock from being treated as self-evident and forces tests that hold circadian constant while examining light.
+   C. Because once light fits one dataset, replication becomes redundant, and circadian can be ignored without changing conclusions about sleep.
+   D. Because light directly measures causes, confounding cannot occur, and cross-case checks add little to understanding sleep.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | light | Can vary across settings |
+   | Confounder | circadian | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves clock is unique in every case, so generalization is automatic
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It co-varies with the driver of interest, which makes isolation difficult
 
-5. [Inference] What can be inferred about why late-night screen use can delay sleep?
-   A. Blue-rich temperature signals the SCN in a way that resembles evening daylight, shifting the clock later. This would require light to be the limiting factor.
-   B. Blue-rich light signals the SCN in a way that resembles evening daylight, shifting the clock later. This outcome would hold even if neurons stays constant.
-   C. Blue-rich light signals the SCN in a way that resembles evening daylight, shifting the clock earlier. That would make light the primary constraint.
-   D. Blue-rich light signals the SCN in a way that resembles evening daylight, shifting the clock later.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that sleep should be read alongside circadian, because light alone does not settle what clock means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This is why bright screens at night can make sleep onset harder: they supply the brain with a cue that resembles late-day sunlight.
+   A. the preceding claim about how light is interpreted in relation to clock
+   B. the preceding claim that sleep functions as a direct measurement of clock
+   C. the preceding claim that light is included only for rhetorical style, not analysis
+   D. the preceding claim that circadian alone explains the outcome of sleep
 
-6. [Negative Factual] All of the following are mentioned as circadian-influenced processes EXCEPT:
-   A. glucose tolerance.
-   B. body temperature.
-   C. hormone release.
-   D. plate subduction rates.
-
-
-7. [Reference] In the passage, “the same stimulus” refers to:
-   A. light exposure that must advance or delay rhythms depending on timing. That would make older the primary constraint.
-   B. light exposure that can solely advance or delay rhythms depending on timing. This would occur only when circadian dominates.
-   C. temperature exposure that can advance or delay rhythms depending on timing. This would require light-dark to be the limiting factor.
-   D. light exposure that can advance or delay rhythms depending on timing.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces circadian misalignment, explains the SCN and light entrainment, then traces broader effects on physiology and ends with therapeutic use of timing cues. This would occur only when light dominates.
-   B. It introduces circadian misalignment, explains the SCN and light entrainment, then traces broader effects on physiology and ends with therapeutic use of timing cues. This would require people to be the limiting factor.
-   C. It introduces melatonin misalignment, explains the SCN and light entrainment, then traces broader effects on physiology and ends with therapeutic use of timing cues. This would require light-dark to be the limiting factor.
-   D. It introduces circadian misalignment, explains the SCN and light entrainment, then traces broader effects on physiology and ends with therapeutic use of timing cues.
-
-
-9. [Paraphrase] Which option best restates the claim that melatonin’s deeper role is a message that “it is dark now”?
-   A. clocks serves as a signal of night to body tissues, helping coordinate timing beyond simply causing sleepiness. This would occur only when late-day dominates.
-   B. Melatonin serves as a signal of night to body tissues, helping coordinate timing beyond simply causing sleepiness. This would occur only when older dominates.
-   C. Melatonin serves as a signal of night to body tissues, helping coordinate timing beyond simply causing sleepiness.
-   D. Melatonin serves as a signal of night to body tissues, helping coordinate timing beyond simply causing sleepiness. This would require late-day to be the limiting factor.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains circadian rhythms as internally generated gene-based cycles coordinated by the SCN and synchronized by light, shows how timing affects sleep and metabolism and why misalignment can be harmful, and describes how timed light and melatonin can shift rhythms when applied appropriately.
-   B. The passage explains circadian rhythms as internally generated gene-based cycles coordinated by the SCN and synchronized by light, shows how timing affects sleep and argues and why misalignment can be harmful, and describes how timed light and melatonin can shift rhythms when applied appropriately. This outcome would hold even if melatonin stays constant.
-   C. The passage explains circadian rhythms as internally generated gene-based cycles coordinated by the SCN and synchronized by light, shows how timing affects sleep and metabolism and why misalignment can solely be harmful, and describes how timed light and melatonin can shift rhythms when applied appropriately. This outcome would hold even if light stays constant.
-   D. The passage explains circadian rhythms as internally generated gene-based cycles coordinated by the SCN and synchronized by light, shows how timing affects sleep and metabolism and why misalignment can only be harmful, and describes how timed light and melatonin can shift rhythms when applied appropriately. That would make hunger the primary constraint.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of light lead to different conclusions about sleep.
+   B. to argue that assumptions always distort evidence, so analysis of light and clock should be abandoned altogether, especially regarding circadian.
+   C. to claim that one interpretation uniquely diagnoses clock, so debate over light is unnecessary noise, under the stated assumptions.
+   D. to show that the term sleep belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
-1: A
+1: D
 2: C
-3: B
-4: C
-5: D
-6: D
-7: D
-8: D
-9: C
+3: D
+4: A
+5: B
+6: B
+7: B
+8: B
+9: A
 10: A

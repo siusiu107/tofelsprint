@@ -57,86 +57,87 @@ the one path that unlocks the interior tension.
 
 Questions
 ---------
-1. [Vocabulary] The word “reservoir” in the passage is closest in meaning to:
-   A. a stored supply in sense
-   B. a protective coating in sense
-   C. a cooling jet in sense
-   D. a sharp fragment in sense
 
+1. [Vocabulary] In the passage, the word "amplify" in the sentence below is closest in meaning to:
+   Sentence: A tiny scratch can locally amplify stress at its tip, making it easier for a crack to initiate.
+   A. make larger or more intense, as used to describe how the claim holds across compressive
+   B. weaken substantially, even though the passage treats it as evidence-related
+   C. treat as irrelevant, despite references to stress and crack, as framed by the author, especially regarding surface.
+   D. close the question permanently, which would rule out further evaluation of compressive
 
-2. [Factual] According to the passage, what stress state exists at the surface of a Prince Rupert’s drop?
-   A. compression. This would require drops to be the limiting factor.
-   B. compression.
-   C. strength. That would make already-rigid the primary constraint under a different constraint.
-   D. compression. This outcome would hold even if compression stays constant.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage presents crack as a uniquely identifying mechanism and claims that once stress is observed, competing explanations for glass collapse. It treats compressive as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   B. The passage surveys glass but treats the discussion mainly as a narrative about who proposed crack first, with stress serving as anecdotal color. It therefore treats compressive as a historical footnote rather than as something that shapes interpretation.
+   C. The passage concedes that stress is often incomplete and concludes that glass cannot be studied in any meaningful way, since compressive overwhelms comparisons. It recommends replacing tests of crack with intuition because evidence cannot discriminate among accounts, in the cases described.
+   D. The passage explains glass by linking stress to crack, and it shows why compressive changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in compressive, because variation there functions mainly as random measurement noise. On this view, a single strong instance of stress is enough to validate crack for glass, in the examples provided, for the phenomenon at issue.
+   B. The passage treats stress primarily as a rhetorical flourish and suggests that debates over crack are largely stylistic, not empirical. As a result, predictions about glass are portrayed as optional rather than as a core requirement.
+   C. The passage implies that compressive mattered mostly for early studies, whereas modern work makes stress effectively self-interpreting. This would mean that tests of crack no longer need cross-case comparisons to explain glass, in the examples provided.
+   D. A persuasive account would predict how glass should change if compressive is altered, instead of assuming that stress has a single meaning. This implies that models tied to crack must be tested across comparable cases rather than in one favorable setting.
 
-3. [Rhetorical Purpose] Why does the author mention tempered glass used in windows and doors?
-   A. To show that the same stress principle is applied intentionally for safety in modern engineering.
-   B. To show that the same stress principle is solely applied intentionally for safety in modern engineering. That would make drops the primary constraint.
-   C. To show that the same stress principle is applied intentionally for safety in modern engineering. This would require fragments to be the limiting factor.
-   D. To show that the same manufacturers principle is applied intentionally for safety in modern engineering. This would occur only when strength dominates.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of glass as a factor influencing stress
+   B. discussion of crack as a factor influencing stress
+   C. discussion of contact-zone multilingualism as a factor influencing stress
+   D. discussion of compressive as a factor influencing stress, especially regarding interior.
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: [D] Cooling can lock a material into a state that hides energy, and the release of that energy can be either beneficial—as in safe fragmentation—or catastrophic when a small crack finds the one path that unlocks the interior tension.
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding crack.
+   B. [D] Cooling can lock a material into a state that hides energy. It keeps the main claim while removing extra detail.
+   C. [D] Cooling can lock a material into a state that hides energy. It reverses the opposite claim while removing extra detail.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: The surface behaves like a tight band that squeezes the interior and resists the opening of fissures.
-   A. [B]
-   B. [A]
-   C. [D]
-   D. [C]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because stress directly measures causes, confounding cannot occur, and cross-case checks add little to understanding glass.
+   B. Because the presence of crack guarantees the correct mechanism, so remaining differences in compressive are merely stylistic noise.
+   C. Because comparability prevents crack from being treated as self-evident and forces tests that hold compressive constant while examining stress.
+   D. Because once stress fits one dataset, replication becomes redundant, and compressive can be ignored without changing conclusions about glass.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | stress | Can vary across settings |
+   | Confounder | compressive | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It proves crack is unique in every case, so generalization is automatic
 
-5. [Inference] What can be inferred about why a small edge chip can be especially dangerous for tempered glass?
-   A. It can solely provide a crack starter that bypasses the compressive layer and accesses the tensile core. This would occur only when surface dominates.
-   B. It must provide a crack starter that bypasses the compressive layer and accesses the tensile core. This outcome would hold even if turns stays constant.
-   C. It can provide a crack starter that bypasses the compressive layer and accesses the tensile core.
-   D. It can provide a crack starter that bypasses the compressive layer and accesses the tensile core by tying the effect to strength.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that glass should be read alongside compressive, because stress alone does not settle what crack means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This “safe breakage” reduces injury risk, even though it is violent at the microscopic scale.
+   A. the preceding claim that stress is included only for rhetorical style, not analysis
+   B. the preceding claim that compressive alone explains the outcome of glass
+   C. the preceding claim about how stress is interpreted in relation to crack
+   D. the preceding claim that glass functions as a direct measurement of crack
 
-6. [Negative Factual] All of the following are mentioned as examples of using compression to resist cracking EXCEPT:
-   A. tempered glass in this discussion.
-   B. radiocarbon calibration curves in this discussion.
-   C. prestressed concrete in this discussion.
-   D. outer layers of shells and bones.
-
-
-7. [Reference] In the passage, “this ‘safe breakage’” refers to tempered glass’s tendency to:
-   A. fragment into small blunt pieces rather than long sharp shards. This would occur only when prince dominates.
-   B. fragment into small blunt pieces rather than long sharp shards.
-   C. fragment into small blunt pieces rather than long sharp shards. This would require materials to be the limiting factor.
-   D. fragment into small blunt pieces rather than long sharp shards by tying the effect to turns.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces a striking phenomenon, explains the turns mechanism from cooling, compares it to tempered glass, then connects the idea to crack initiation and broader engineering examples. This would require science to be the limiting factor.
-   B. It introduces a striking phenomenon, explains the stress mechanism from cooling, compares it to tempered glass, then connects the idea to crack initiation and broader engineering examples.
-   C. It introduces a striking phenomenon, explains the stress mechanism from cooling, compares it to tempered glass, then connects the idea to crack initiation and broader engineering examples. This outcome would hold even if stress stays constant.
-   D. It introduces a striking phenomenon, explains the stress mechanism from cooling, compares it to tempered glass, then connects the idea to crack initiation and broader engineering examples. This would occur only when fragments dominates.
-
-
-9. [Paraphrase] Which option best restates the idea that strength and fragility are “two sides of the same cooling history”?
-   A. Rapid cooling creates a compressive materials that resists cracks, but also traps internal tension that can drive explosive failure if breached. That would make science the primary constraint.
-   B. Rapid cooling creates a compressive surface that resists cracks, but also traps internal tension that must drive explosive failure if breached. This would occur only when science dominates.
-   C. Rapid cooling creates a compressive surface that resists cracks, but also traps internal tension that can drive explosive failure if breached.
-   D. Rapid cooling creates a compressive surface that resists cracks, but also traps internal tension that can solely drive explosive failure if breached. This outcome would hold even if prince stays constant.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that rapid cooling traps compressive stress at the surface and tensile stress inside, making Prince Rupert’s drops and tempered glass unusually strong against surface cracks yet capable of sudden fragmentation if a crack reaches the stressed core, illustrating how engineered stress profiles control fracture.
-   B. The passage explains that rapid cooling traps compressive stress at the surface and tensile stress inside, making Prince Rupert’s drops and tempered glass unusually strong against surface cracks yet capable of sudden fragmentation if a crack reaches the stressed core, illustrating how engineered stress profiles control fracture. This would occur only when strength dominates.
-   C. The passage explains that rapid cooling traps compressive stress at the surface and tensile stress inside, making Prince Rupert’s drops and tempered glass unusually strong against surface cracks yet capable of sudden fragmentation if a crack reaches the stressed core, illustrating how engineered stress profiles control fracture. This would require tension to be the limiting factor.
-   D. The passage explains that rapid cooling traps compressive stress at the surface and tensile stress inside, making engineers Rupert’s drops and tempered glass unusually strong against surface cracks yet capable of sudden fragmentation if a crack reaches the stressed core, illustrating how engineered stress profiles control fracture. This outcome would hold even if prince stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses crack, so debate over stress is unnecessary noise, especially regarding interior, especially regarding glass.
+   B. to argue that assumptions always distort evidence, so analysis of stress and crack should be abandoned altogether.
+   C. to motivate clearer assumptions and stronger tests by showing why different readings of stress lead to different conclusions about glass.
+   D. to show that the term glass belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
 1: A
-2: B
-3: A
-4: B
-5: C
-6: B
+2: D
+3: D
+4: C
+5: B
+6: C
 7: B
-8: B
+8: D
 9: C
-10: A
+10: C

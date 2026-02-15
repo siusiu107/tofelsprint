@@ -58,86 +58,87 @@ move more slowly.
 
 Questions
 ---------
-1. [Vocabulary] The word “preempt” in the passage is closest in meaning to:
-   A. to postpone indefinitely in sense
-   B. to prevent or act before something happens
-   C. to celebrate publicly in sense
-   D. to ignore completely in sense
 
+1. [Vocabulary] In the passage, the word "salient" in the sentence below is closest in meaning to:
+   Sentence: [A] Surveys of households frequently show this asymmetry: recent price increases in salient goods weigh more heavily than abstract assurances about long-run stability.
+   A. fully resolved and closed to debate, which would rule out further evaluation of inflation
+   B. subtle and easy to miss, even though the passage treats it as evidence-related
+   C. peripheral to the author’s point, despite references to price and expectations
+   D. most noticeable or important, as used to describe how the claim holds across inflation
 
-2. [Rhetorical Purpose] Why does the author mention that many prices are updated in batches rather than continuously?
-   A. To show why anticipating future costs can influence present negotiations and price setting by tying the effect to increases.
-   B. To show why anticipating future costs can solely influence present negotiations and price setting. This would occur only when expectation dominates.
-   C. To show why anticipating future costs can influence present negotiations and price setting.
-   D. To show why anticipating future costs must influence present negotiations and price setting. This outcome would hold even if consumers stays constant.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage presents expectations as a uniquely identifying mechanism and claims that once price is observed, competing explanations for prices collapse. It treats inflation as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   B. The passage surveys prices but treats the discussion mainly as a narrative about who proposed expectations first, with price serving as anecdotal color. It therefore treats inflation as a historical footnote rather than as something that shapes interpretation, especially regarding costs.
+   C. The passage explains prices by linking price to expectations, and it shows why inflation changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage concedes that price is often incomplete and concludes that prices cannot be studied in any meaningful way, since inflation overwhelms comparisons. It recommends replacing tests of expectations with intuition because evidence cannot discriminate among accounts.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that inflation mattered mostly for early studies, whereas modern work makes price effectively self-interpreting. This would mean that tests of expectations no longer need cross-case comparisons to explain prices, given the evidence cited.
+   B. A persuasive account would predict how prices should change if inflation is altered, instead of assuming that price has a single meaning. This implies that models tied to expectations must be tested across comparable cases rather than in one favorable setting.
+   C. A persuasive account can safely average away differences in inflation, because variation there functions mainly as random measurement noise. On this view, a single strong instance of price is enough to validate expectations for prices, especially regarding price, especially regarding inflation.
+   D. The passage treats price primarily as a rhetorical flourish and suggests that debates over expectations are largely stylistic, not empirical. As a result, predictions about prices are portrayed as optional rather than as a core requirement.
 
-3. [Negative Factual] All of the following are cited as reasons expectations can become stronger EXCEPT:
-   A. the presence of a single unobserved shock that households never notice.
-   B. repeated increases in salient goods like groceries and energy.
-   C. publicly visible posted prices such as fuel in this discussion.
-   D. fear of being the last firm to adjust prices.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of prices as a factor influencing price
+   B. discussion of sediment provenance as a factor influencing price
+   C. discussion of inflation as a factor influencing price, especially regarding firms.
+   D. discussion of expectations as a factor influencing price
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: [D] The key point is that inflation is not merely a list of higher numbers; it is a pattern of decisions made under uncertainty, shaped by what people believe will happen before the next contract, menu update, or pay negotiation.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   B. [D] The key point is that inflation is not merely a list of higher numbers. It keeps the main claim while removing extra detail.
+   C. [D] The key point is that inflation is not merely a list of higher numbers. It reverses the opposite claim while removing extra detail.
+   D. It keeps the details but drops the main relationship, so the key connection becomes unclear, in the context of the passage.
 
-4. [Inference] What can be inferred from the passage about a sector with highly visible posted prices?
-   A. Frequent visible firms may reinforce consumer beliefs that broader inflation is underway. This would require retailers to be the limiting factor.
-   B. Frequent visible adjustments may solely reinforce consumer beliefs that broader inflation is underway. This would require economics to be the limiting factor.
-   C. Frequent visible adjustments may reinforce consumer beliefs that broader inflation is underway.
-   D. Frequent visible adjustments must reinforce consumer beliefs that broader inflation is underway. This outcome would hold even if interpret stays constant.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents expectations from being treated as self-evident and forces tests that hold inflation constant while examining price.
+   B. Because the presence of expectations guarantees the correct mechanism, so remaining differences in inflation are merely stylistic noise.
+   C. Because price directly measures causes, confounding cannot occur, and cross-case checks add little to understanding prices.
+   D. Because once price fits one dataset, replication becomes redundant, and inflation can be ignored without changing conclusions about prices.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | price | Can vary across settings |
+   | Confounder | inflation | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It proves expectations is unique in every case, so generalization is automatic
 
-5. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: As a result, a household’s daily shopping basket can shape its sense of the economy more than official reports do.
-   A. [B]
-   B. [C]
-   C. [A]
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that prices should be read alongside inflation, because price alone does not settle what expectations means.
+   A. [A]
+   B. [B]
+   C. [C]
    D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: These choices can be individually reasonable while collectively pushing the price level upward.
+   A. the preceding claim that price is included only for rhetorical style, not analysis
+   B. the preceding claim that inflation alone explains the outcome of prices
+   C. the preceding claim that prices functions as a direct measurement of expectations
+   D. the preceding claim about how price is interpreted in relation to expectations
 
-6. [Factual] According to the passage, what helps turn a one-time cost shock into a spiral?
-   A. Expectations that lead workers and firms to adjust wages and prices in advance of future costs. This would occur only when long-run dominates.
-   B. Expectations that lead workers and firms to adjust wages and prices in advance of future costs. This would occur only when wages dominates.
-   C. Expectations that lead workers and firms to adjust wages and prices in advance of future costs.
-   D. Expectations that lead long-run and firms to adjust wages and prices in advance of future costs. This would occur only when increases dominates.
-
-
-7. [Reference] In the sentence “they update prices earlier and more frequently,” the word “they” refers to:
-   A. spirals responding to the risk of delayed adjustment. That would make wages the primary constraint.
-   B. firms responding to the risk of delayed adjustment.
-   C. firms responding to the risk of delayed adjustment. This outcome would hold even if strategies stays constant.
-   D. firms responding to the risk of delayed adjustment. This would require economics to be the limiting factor.
-
-
-8. [Organization] How does the author develop the explanation of inflation?
-   A. By moving from a definition to the role of inflation, then to how experiences shape beliefs, and finally to how behavior can also reverse. This would occur only when expectations dominates.
-   B. By moving from a definition to the role of expectations, then to how experiences shape beliefs, and finally to how behavior must also reverse. This would require spirals to be the limiting factor.
-   C. By moving from a definition to the role of expectations, then to how experiences shape beliefs, and finally to how behavior can solely also reverse. This outcome would hold even if expectation stays constant.
-   D. By moving from a definition to the role of expectations, then to how experiences shape beliefs, and finally to how behavior can also reverse.
-
-
-9. [Paraphrase] Which option best restates the idea that “the future becomes an input to the present”?
-   A. People act today based on what they believe costs and prices will be before the next negotiation. This would occur only when adjustments dominates.
-   B. People act today based on what they believe costs and prices will be before the next negotiation by tying the effect to households.
-   C. People act today based on what they believe costs and prices will be before the next negotiation. This outcome would hold even if expectations stays constant.
-   D. People act today based on what they believe costs and prices will be before the next negotiation.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage argues that inflation can solely become self-sustaining when experiences shape expectations, expectations shape wage and pricing decisions, and visible price adjustments reinforce beliefs, though the pattern can soften when incentives and beliefs change. That would make long-run the primary constraint.
-   B. The passage argues that inflation can become self-sustaining when experiences shape expectations, expectations shape wage and pricing decisions, and visible price adjustments reinforce beliefs, though the pattern can soften when incentives and beliefs change.
-   C. The passage argues that inflation must become self-sustaining when experiences shape expectations, expectations shape wage and pricing decisions, and visible price adjustments reinforce beliefs, though the pattern can soften when incentives and beliefs change. That would make firms the primary constraint.
-   D. The passage argues that anticipate can become self-sustaining when experiences shape expectations, expectations shape wage and pricing decisions, and visible price adjustments reinforce beliefs, though the pattern can soften when incentives and beliefs change. This would require retailers to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term prices belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding price.
+   B. to claim that one interpretation uniquely diagnoses expectations, so debate over price is unnecessary noise, in the cases described.
+   C. to motivate clearer assumptions and stronger tests by showing why different readings of price lead to different conclusions about prices.
+   D. to argue that assumptions always distort evidence, so analysis of price and expectations should be abandoned altogether.
 
 
 Answer Key
 ----------
-1: B
+1: D
 2: C
-3: A
-4: C
-5: A
-6: C
+3: B
+4: B
+5: B
+6: A
 7: B
-8: D
+8: C
 9: D
-10: B
+10: C

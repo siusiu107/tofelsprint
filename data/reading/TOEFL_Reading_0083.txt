@@ -60,86 +60,87 @@ rental contracts rather than outright ownership.
 
 Questions
 ---------
-1. [Rhetorical Purpose] Why does the author include the phrase “armchair fishing”?
-   A. To illustrate a criticism that quota owners must profit by leasing rights without actively fishing. This outcome would hold even if shares stays constant.
-   B. To illustrate a criticism that quota owners can solely profit by leasing rights without actively fishing. This would occur only when catch dominates.
-   C. To illustrate a criticism that operators owners can profit by leasing rights without actively fishing. This would occur only when regulatory dominates.
-   D. To illustrate a criticism that quota owners can profit by leasing rights without actively fishing.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: In many fisheries, the ecological problem is straightforward while the governance problem is not: fish populations can be harvested faster than they reproduce, and when too many boats chase too few fish, the result is a race that wastes fuel, risks lives, and still depletes stocks.
+   A. finished and beyond revision, which would rule out further evaluation of rights
+   B. strong and reliable, as used to describe how the claim holds across rights
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. sensitive and easily disrupted, despite references to market and catch
 
-2. [Factual] According to the passage, what is one intended benefit of catch shares over derby-style fishing?
-   A. Fishers can spread effort over a season instead of racing during short openings, potentially improving safety and product quality by tying the effect to populations.
-   B. Fishers must spread effort over a season instead of racing during short openings, potentially improving safety and product quality. This outcome would hold even if shares stays constant.
-   C. Fishers can solely spread effort over a season instead of racing during short openings, potentially improving safety and product quality. This outcome would hold even if shares stays constant.
-   D. Fishers can spread effort over a season instead of racing during short openings, potentially improving safety and product quality.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys quota but treats the discussion mainly as a narrative about who proposed catch first, with market serving as anecdotal color. It therefore treats rights as a historical footnote rather than as something that shapes interpretation.
+   B. The passage presents catch as a uniquely identifying mechanism and claims that once market is observed, competing explanations for quota collapse. It treats rights as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   C. The passage explains quota by linking market to catch, and it shows why rights changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage concedes that market is often incomplete and concludes that quota cannot be studied in any meaningful way, since rights overwhelms comparisons. It recommends replacing tests of catch with intuition because evidence cannot discriminate among accounts, especially regarding rights.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how quota should change if rights is altered, instead of assuming that market has a single meaning. This implies that models tied to catch must be tested across comparable cases rather than in one favorable setting.
+   B. The passage implies that rights mattered mostly for early studies, whereas modern work makes market effectively self-interpreting. This would mean that tests of catch no longer need cross-case comparisons to explain quota, as the discussion implies.
+   C. A persuasive account can safely average away differences in rights, because variation there functions mainly as random measurement noise. On this view, a single strong instance of market is enough to validate catch for quota.
+   D. The passage treats market primarily as a rhetorical flourish and suggests that debates over catch are largely stylistic, not empirical. As a result, predictions about quota are portrayed as optional rather than as a core requirement, as framed by the author.
 
-3. [Vocabulary] The word “contentious” in the passage is closest in meaning to:
-   A. scientifically precise and universally accepted
-   B. unrelated to social outcomes
-   C. capable of reproducing rapidly
-   D. likely to provoke disagreement or conflict
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of catch as a factor influencing market, within the passage’s scope.
+   B. discussion of granular convection as a factor influencing market
+   C. discussion of quota as a factor influencing market
+   D. discussion of rights as a factor influencing market
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: In many fisheries, the ecological problem is straightforward while the governance problem is not: fish populations can be harvested faster than they reproduce, and when too many boats chase too few fish, the result is a race that wastes fuel, risks lives, and still depletes stocks.
+   A. In many fisheries. It keeps the main claim while removing extra detail.
+   B. In many fisheries. It reverses the opposite claim while removing extra detail.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. It keeps the details but drops the main relationship, so the key connection becomes unclear.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In that case, the right to fish functions less like a license to work and more like an asset that can generate rent.
-   A. [D]
-   B. [C]
-   C. [A]
-   D. [B]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once market fits one dataset, replication becomes redundant, and rights can be ignored without changing conclusions about quota.
+   B. Because comparability prevents catch from being treated as self-evident and forces tests that hold rights constant while examining market.
+   C. Because the presence of catch guarantees the correct mechanism, so remaining differences in rights are merely stylistic noise.
+   D. Because market directly measures causes, confounding cannot occur, and cross-case checks add little to understanding quota.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | market | Can vary across settings |
+   | Confounder | rights | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It proves catch is unique in every case, so generalization is automatic
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
 
-5. [Inference] What can be inferred about why quota prices may not perfectly indicate sustainability?
-   A. Prices reflect expectations influenced by short-term variability and policy shifts, and those expectations can be mistaken.
-   B. Prices reflect expectations influenced by short-term variability and policy shifts, and those expectations can be mistaken by tying the effect to populations.
-   C. Prices reflect expectations influenced by long-term variability and policy shifts, and those expectations can be mistaken. This outcome would hold even if fisheries stays constant.
-   D. Prices reflect expectations influenced by short-term variability and policy shifts, and those expectations can solely be mistaken. That would make catch the primary constraint.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that quota should be read alongside rights, because market alone does not settle what catch means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This variability complicates the claim that markets automatically “know” sustainability; they reflect expectations, which can be wrong.
+   A. the preceding claim that rights alone explains the outcome of quota
+   B. the preceding claim that quota functions as a direct measurement of catch
+   C. the preceding claim about how market is interpreted in relation to catch
+   D. the preceding claim that market is included only for rhetorical style, not analysis
 
-6. [Negative Factual] All of the following design features are mentioned as possible “guardrails” EXCEPT:
-   A. rules shaping leasing behavior in this discussion.
-   B. DNA methylation to lock in worker development.
-   C. caps on consolidation in this discussion.
-   D. community quota entities in this discussion.
-
-
-7. [Reference] In the passage, “these gains” refers to:
-   A. economic and operational improvements from reducing the derby and reallocating catch rights toward efficient operators. This would occur only when operators dominates.
-   B. economic and operational improvements from reducing the derby and reallocating catch rights toward efficient property-like. That would make contracts the primary constraint.
-   C. economic and operational improvements from reducing the derby and reallocating catch rights toward efficient operators. That would make supporters the primary constraint.
-   D. economic and operational improvements from reducing the derby and reallocating catch rights toward efficient operators.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It explains a governance problem, introduces quota markets, then presents potential ecological and economic benefits, social criticisms, information limits, and design safeguards before concluding with a balanced evaluation. That would make contracts the primary constraint.
-   B. It explains a governance problem, introduces quota markets, then presents potential ecological and economic benefits, social criticisms, information limits, and design safeguards before concluding with a balanced evaluation.
-   C. It explains a governance problem, introduces quota markets, then presents potential ecological and economic benefits, social criticisms, information limits, and design safeguards before concluding with a balanced evaluation. This outcome would hold even if community stays constant.
-   D. It explains a governance problem, introduces quota fisheries, then presents potential ecological and economic benefits, social criticisms, information limits, and design safeguards before concluding with a balanced evaluation. This would occur only when fisheries dominates.
-
-
-9. [Paraphrase] Which option best restates the idea that successful quota systems are “hybrids”?
-   A. They combine tradable rights with regulations and institutions that constrain concentration and ensure credible monitoring. This would occur only when shares dominates.
-   B. They combine tradable rights with regulations and institutions that constrain concentration and ensure credible monitoring. That would make quota the primary constraint.
-   C. They combine tradable rights with regulations and institutions that constrain concentration and ensure credible monitoring.
-   D. They combine tradable rights with regulations and institutions that constrain concentration and ensure credible monitoring by tying the effect to market.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage describes catch-share quota markets as a policy tool that can solely reduce race-to-fish pressures and sometimes improve ecological incentives, while also raising concerns about consolidation, leasing rents, and unfair initial allocation; it emphasizes that market outcomes depend on information and on design safeguards that blend flexibility with regulation and community institutions. This would require operators to be the limiting factor.
-   B. The passage describes catch-share quota markets as a policy tool that can amplify race-to-fish pressures and sometimes improve ecological incentives, while also raising concerns about consolidation, leasing rents, and unfair initial allocation; it emphasizes that market outcomes depend on information and on design safeguards that blend flexibility with regulation and community institutions. That would make community the primary constraint.
-   C. The passage describes catch-share quota markets as a policy tool that can reduce race-to-fish pressures and sometimes improve ecological incentives, while also raising concerns about consolidation, leasing rents, and unfair initial allocation; it emphasizes that market outcomes depend on information and on design safeguards that blend flexibility with regulation and community institutions.
-   D. The passage describes catch-share quota markets as a policy tool that can reduce race-to-fish pressures and sometimes improve ecological incentives, while also raising concerns about consolidation, leasing rents, and unfair initial allocation; it emphasizes that operators outcomes depend on information and on design safeguards that blend flexibility with regulation and community institutions. That would make stability the primary constraint.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term quota belongs to an unrelated field and is therefore outside the passage’s scope.
+   B. to claim that one interpretation uniquely diagnoses catch, so debate over market is unnecessary noise, as framed by the author.
+   C. to argue that assumptions always distort evidence, so analysis of market and catch should be abandoned altogether.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of market lead to different conclusions about quota.
 
 
 Answer Key
 ----------
-1: D
-2: D
-3: D
-4: D
+1: B
+2: C
+3: A
+4: B
 5: A
 6: B
-7: D
+7: A
 8: B
 9: C
-10: C
+10: D

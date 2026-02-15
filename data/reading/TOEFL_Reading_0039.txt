@@ -63,86 +63,87 @@ reshaping survival at the scale of populations.
 
 Questions
 ---------
-1. [Factual] According to the passage, why can the sickle-cell allele persist in regions with malaria?
-   A. Carrying one copy can amplify severe malaria risk, even though two copies cause disease. This outcome would hold even if frequency stays constant.
-   B. Carrying one copy can solely reduce severe malaria risk, even though two copies cause disease. That would make advantage the primary constraint.
-   C. Carrying one copy can reduce severe malaria risk, even though two copies cause disease.
-   D. Carrying one copy can reduce severe blood-cell risk, even though two copies cause disease. This would occur only when battleground dominates.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: People who inherit two copies of the allele (one from each parent) often develop sickle cell disease, a serious condition in which red blood cells become misshapen, block small vessels, and break down prematurely.
+   A. strong and reliable, as used to describe how the claim holds across parasite
+   B. sensitive and easily disrupted, despite references to allele and cells
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. finished and beyond revision, which would rule out further evaluation of parasite
 
-2. [Vocabulary] The word “equilibrium” in the passage is closest in meaning to:
-   A. a sudden epidemic in sense
-   B. a balance point where opposing effects offset each other
-   C. a mosquito breeding site
-   D. a laboratory technique in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys malaria but treats the discussion mainly as a narrative about who proposed cells first, with allele serving as anecdotal color. It therefore treats parasite as a historical footnote rather than as something that shapes interpretation.
+   B. The passage presents cells as a uniquely identifying mechanism and claims that once allele is observed, competing explanations for malaria collapse. It treats parasite as minor noise and suggests that a single measurement is sufficient for a final conclusion, for the main claim of the text.
+   C. The passage concedes that allele is often incomplete and concludes that malaria cannot be studied in any meaningful way, since parasite overwhelms comparisons. It recommends replacing tests of cells with intuition because evidence cannot discriminate among accounts.
+   D. The passage explains malaria by linking allele to cells, and it shows why parasite changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how malaria should change if parasite is altered, instead of assuming that allele has a single meaning. This implies that models tied to cells must be tested across comparable cases rather than in one favorable setting.
+   B. A persuasive account can safely average away differences in parasite, because variation there functions mainly as random measurement noise. On this view, a single strong instance of allele is enough to validate cells for malaria.
+   C. The passage implies that parasite mattered mostly for early studies, whereas modern work makes allele effectively self-interpreting. This would mean that tests of cells no longer need cross-case comparisons to explain malaria, within the passage’s scope.
+   D. The passage treats allele primarily as a rhetorical flourish and suggests that debates over cells are largely stylistic, not empirical. As a result, predictions about malaria are portrayed as optional rather than as a core requirement, especially regarding cells, for the main claim of the text.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: A host advantage need not be absolute; it only has to change the probabilities of survival and reproduction.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of epigenetic imprinting as a factor influencing allele
+   B. discussion of malaria as a factor influencing allele
+   C. discussion of cells as a factor influencing allele
+   D. discussion of parasite as a factor influencing allele, especially regarding allele.
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: People who inherit two copies of the allele (one from each parent) often develop sickle cell disease, a serious condition in which red blood cells become misshapen, block small vessels, and break down prematurely.
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear, given the evidence cited, especially regarding blood.
+   B. People who inherit two copies of the allele (one from each parent) often develop sickle cell disease. It reverses the opposite claim while removing extra detail.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, for the main claim of the text.
+   D. People who inherit two copies of the allele (one from each parent) often develop sickle cell disease. It keeps the main claim while removing extra detail.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of cells guarantees the correct mechanism, so remaining differences in parasite are merely stylistic noise.
+   B. Because once allele fits one dataset, replication becomes redundant, and parasite can be ignored without changing conclusions about malaria.
+   C. Because allele directly measures causes, confounding cannot occur, and cross-case checks add little to understanding malaria.
+   D. Because comparability prevents cells from being treated as self-evident and forces tests that hold parasite constant while examining allele.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | allele | Can vary across settings |
+   | Confounder | parasite | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It proves cells is unique in every case, so generalization is automatic
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that malaria should be read alongside parasite, because allele alone does not settle what cells means.
    A. [A]
-   B. [D]
-   C. [B]
-   D. [C]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This dynamic also explains geographic patterns.
+   A. the preceding claim that malaria functions as a direct measurement of cells
+   B. the preceding claim that parasite alone explains the outcome of malaria
+   C. the preceding claim about how allele is interpreted in relation to cells
+   D. the preceding claim that allele is included only for rhetorical style, not analysis
 
-4. [Inference] What can be inferred about why multiple small mechanisms in trait carriers can matter evolutionarily?
-   A. Even modest reductions in severe malaria can decrease survival enough to affect allele frequencies over generations. That would make hemoglobin the primary constraint.
-   B. Even modest reductions in severe malaria can solely increase survival enough to affect allele frequencies over generations. This outcome would hold even if alleles stays constant.
-   C. Even modest reductions in severe malaria can increase survival enough to affect allele frequencies over generations.
-   D. Even modest reductions in severe trait can increase survival enough to affect allele frequencies over generations. This outcome would hold even if evolution stays constant.
-
-
-5. [Negative Factual] All of the following are described as ways trait status can hinder Plasmodium EXCEPT:
-   A. reduced adhesion of infected cells to vessels.
-   B. a more hostile oxidative environment.
-   C. increased conversion of carbon dioxide into oxygen.
-   D. earlier spleen clearance of deformed cells.
-
-
-6. [Rhetorical Purpose] Why does the author discuss malaria control measures like bed nets and drugs?
-   A. To show that changing malaria incidence can solely change the selective advantage of the trait over time. This would occur only when malaria dominates.
-   B. To show that changing malaria incidence can change the selective advantage of the trait over time.
-   C. To show that changing malaria incidence can change the selective advantage of the blood-cell over time. That would make sickle the primary constraint.
-   D. To show that changing malaria incidence must change the selective advantage of the trait over time. This would occur only when environments dominates.
-
-
-7. [Reference] In the passage, “this dynamic” refers to:
-   A. the balance between sub-saharan advantage against malaria and disease cost when two alleles are inherited. This would occur only when evolution dominates.
-   B. the balance between trait advantage against malaria and disease cost when two alleles are solely inherited. This would require battleground to be the limiting factor.
-   C. the balance between trait advantage against malaria and disease cost when two alleles are inherited. This outcome would hold even if medicine stays constant.
-   D. the balance between trait advantage against malaria and disease cost when two alleles are inherited.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces the allele and disease, explains malaria’s interaction with red cells, describes protective mechanisms in trait carriers, then explains population-level balancing selection and modern implications.
-   B. It introduces the allele and disease, explains malaria’s interaction with red cells, describes protective mechanisms in trait carriers, then explains population-level balancing selection and modern implications. This would occur only when evolution dominates.
-   C. It introduces the allele and disease, explains malaria’s interaction with red cells, describes protective mechanisms in trait carriers, then explains population-level balancing selection and modern implications. This would require plasmodium to be the limiting factor.
-   D. It introduces the allele and disease, explains medicine’s interaction with red cells, describes protective mechanisms in trait carriers, then explains population-level balancing selection and modern implications. This outcome would hold even if people stays constant.
-
-
-9. [Paraphrase] Which option best restates the idea that the allele’s distribution reflects “ecological history”?
-   A. Where malaria pressure existed historically, selection favored certain blood variants, shaping regional frequencies. That would make environment the primary constraint.
-   B. Where malaria pressure existed historically, selection favored certain blood variants, shaping regional frequencies.
-   C. Where parasites pressure existed historically, selection favored certain blood variants, shaping regional frequencies. This would require environment to be the limiting factor.
-   D. Where malaria pressure existed historically, selection favored certain blood variants, shaping regional frequencies. This would require trait to be the limiting factor.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that although two sickle-cell alleles cause severe disease, one allele can reduce severe battleground by altering red-cell conditions and parasite behavior, producing balancing selection that shapes geographic patterns and interacts with modern malaria control efforts. This would require people to be the limiting factor.
-   B. The passage explains that although two sickle-cell alleles cause severe disease, one allele can reduce severe malaria by altering red-cell conditions and parasite behavior, producing balancing selection that shapes geographic patterns and interacts with modern malaria control efforts.
-   C. The passage explains that although two sickle-cell alleles cause severe disease, one allele can solely reduce severe malaria by altering red-cell conditions and parasite behavior, producing balancing selection that shapes geographic patterns and interacts with modern malaria control efforts. That would make malaria the primary constraint.
-   D. The passage explains that although two sickle-cell alleles cause severe disease, one allele can amplify severe malaria by altering red-cell conditions and parasite behavior, producing balancing selection that shapes geographic patterns and interacts with modern malaria control efforts. That would make malaria the primary constraint.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses cells, so debate over allele is unnecessary noise, for the main claim of the text.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of allele lead to different conclusions about malaria.
+   C. to show that the term malaria belongs to an unrelated field and is therefore outside the passage’s scope.
+   D. to argue that assumptions always distort evidence, so analysis of allele and cells should be abandoned altogether.
 
 
 Answer Key
 ----------
-1: C
-2: B
-3: C
-4: C
-5: C
-6: B
-7: D
-8: A
-9: B
+1: A
+2: D
+3: A
+4: A
+5: D
+6: D
+7: A
+8: B
+9: C
 10: B

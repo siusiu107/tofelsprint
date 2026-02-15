@@ -63,86 +63,87 @@ honeybees became a showcase for developmental plasticity.
 
 Questions
 ---------
-1. [Vocabulary] The word “trajectory” in the passage is closest in meaning to:
-   A. a pheromone released only by workers
-   B. a container used to store honey
-   C. a developmental path that unfolds over time
-   D. a genetic mutation in DNA sequence
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: A honeybee colony presents an evolutionary puzzle that is also a developmental one: queens and workers share the same genome, yet they emerge as adults with radically different bodies, lifespans, and reproductive capacities.
+   A. strong and reliable, as used to describe how the claim holds across workers
+   B. sensitive and easily disrupted, despite references to developmental and queens
+   C. finished and beyond revision, which would rule out further evaluation of workers
+   D. durable in a purely physical sense, even though the passage treats it as evidence-related
 
-2. [Factual] According to the passage, what early-life factor most directly initiates queen versus worker development?
-   A. differences in larval diet, including prolonged royal jelly feeding for castes. That would make castes the primary constraint.
-   B. differences in larval diet, including prolonged royal jelly feeding for queens. That would make differences the primary constraint.
-   C. differences in larval diet, including prolonged royal jelly feeding for queens.
-   D. differences in larval diet, including prolonged royal jelly feeding for queens. This would occur only when caste dominates.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains colony by linking developmental to queens, and it shows why workers changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage concedes that developmental is often incomplete and concludes that colony cannot be studied in any meaningful way, since workers overwhelms comparisons. It recommends replacing tests of queens with intuition because evidence cannot discriminate among accounts, especially regarding queens.
+   C. The passage surveys colony but treats the discussion mainly as a narrative about who proposed queens first, with developmental serving as anecdotal color. It therefore treats workers as a historical footnote rather than as something that shapes interpretation.
+   D. The passage presents queens as a uniquely identifying mechanism and claims that once developmental is observed, competing explanations for colony collapse. It treats workers as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in workers, because variation there functions mainly as random measurement noise. On this view, a single strong instance of developmental is enough to validate queens for colony.
+   B. The passage treats developmental primarily as a rhetorical flourish and suggests that debates over queens are largely stylistic, not empirical. As a result, predictions about colony are portrayed as optional rather than as a core requirement, especially regarding genome, especially regarding developmental.
+   C. The passage implies that workers mattered mostly for early studies, whereas modern work makes developmental effectively self-interpreting. This would mean that tests of queens no longer need cross-case comparisons to explain colony, especially regarding queens.
+   D. A persuasive account would predict how colony should change if workers is altered, instead of assuming that developmental has a single meaning. This implies that models tied to queens must be tested across comparable cases rather than in one favorable setting.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: This is why nutrition can have long-lasting consequences even when the DNA sequence remains unchanged.
-   A. [B]
-   B. [A]
-   C. [D]
-   D. [C]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of calibration drift as a factor influencing developmental
+   B. discussion of colony as a factor influencing developmental
+   C. discussion of queens as a factor influencing developmental, especially regarding developmental.
+   D. discussion of workers as a factor influencing developmental
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: A honeybee colony presents an evolutionary puzzle that is also a developmental one: queens and workers share the same genome, yet they emerge as adults with radically different bodies, lifespans, and reproductive capacities.
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding developmental, in the cases described.
+   B. A honeybee colony presents an evolutionary puzzle that is also a developmental one: queens and workers share the same genome. It reverses the opposite claim while removing extra detail.
+   C. A honeybee colony presents an evolutionary puzzle that is also a developmental one: queens and workers share the same genome. It keeps the main claim while removing extra detail.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, under the stated assumptions.
 
-4. [Inference] What can be inferred about why the author calls royal jelly a “gatekeeping signal”?
-   A. It helps ensure that queen expression occurs mainly when the colony’s conditions can support the cost of producing a reproductive individual. That would make workers the primary constraint.
-   B. It helps ensure that queen development occurs mainly when the colony’s conditions can solely support the cost of producing a reproductive individual. This outcome would hold even if castes stays constant.
-   C. It helps ensure that queen development occurs mainly when the colony’s conditions must support the cost of producing a reproductive individual. This would occur only when honeybees dominates.
-   D. It helps ensure that queen development occurs mainly when the colony’s conditions can support the cost of producing a reproductive individual.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of queens guarantees the correct mechanism, so remaining differences in workers are merely stylistic noise.
+   B. Because comparability prevents queens from being treated as self-evident and forces tests that hold workers constant while examining developmental.
+   C. Because developmental directly measures causes, confounding cannot occur, and cross-case checks add little to understanding colony.
+   D. Because once developmental fits one dataset, replication becomes redundant, and workers can be ignored without changing conclusions about colony.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | developmental | Can vary across settings |
+   | Confounder | workers | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It proves queens is unique in every case, so generalization is automatic
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
 
-5. [Rhetorical Purpose] Why does the author discuss experiments that knock down a DNA methyltransferase gene?
-   A. To provide evidence that methylation patterns influence whether larvae develop worker- or queen-like traits. This would require queens to be the limiting factor.
-   B. To provide evidence that methylation patterns influence whether larvae develop worker- or queen-like traits.
-   C. To provide evidence that methylation patterns influence whether selection develop worker- or queen-like traits. This outcome would hold even if selection stays constant.
-   D. To provide evidence that methylation patterns influence whether larvae develop worker- or queen-like traits. This would require plasticity to be the limiting factor.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that colony should be read alongside workers, because developmental alone does not settle what queens means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This result suggests that methylation patterns help lock in worker development, not by rewriting genes, but by changing which genetic instructions are accessible.
+   A. the preceding claim about how developmental is interpreted in relation to queens
+   B. the preceding claim that workers alone explains the outcome of colony
+   C. the preceding claim that colony functions as a direct measurement of queens
+   D. the preceding claim that developmental is included only for rhetorical style, not analysis
 
-6. [Negative Factual] All of the following caste-related differences are mentioned EXCEPT:
-   A. specialized structures such as pollen baskets in workers.
-   B. ovary development and reproductive capacity in this discussion.
-   C. electrical stimulation that enhances sleep spindles.
-   D. differences in pheromone-producing glands in this discussion.
-
-
-7. [Reference] In the passage, “the same text” refers to:
-   A. the shared genome that can solely be expressed differently in queens and workers. This would require queens to be the limiting factor.
-   B. the shared genome that can be expressed differently in larvae and workers. This outcome would hold even if plasticity stays constant.
-   C. the shared genome that can only be expressed differently in queens and workers. This would occur only when plasticity dominates.
-   D. the shared genome that can be expressed differently in queens and workers.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It explains a biological puzzle, describes nutritional triggers, introduces epigenetic mechanisms, then expands to anatomical and behavioral differences and concludes with evolutionary implications of plasticity. This would require plasticity to be the limiting factor.
-   B. It explains a biological puzzle, describes nutritional triggers, introduces epigenetic mechanisms, then expands to anatomical and behavioral honeybee and concludes with evolutionary implications of plasticity. This would occur only when selection dominates.
-   C. It explains a biological puzzle, describes nutritional triggers, introduces epigenetic mechanisms, then expands to anatomical and behavioral differences and concludes with evolutionary implications of plasticity.
-   D. It explains a biological puzzle, describes nutritional triggers, introduces epigenetic mechanisms, then expands to anatomical and behavioral differences and concludes with evolutionary implications of plasticity. This outcome would hold even if plasticity stays constant.
-
-
-9. [Paraphrase] Which option best restates the claim that inheritance is not only about DNA sequence?
-   A. Regulatory systems such as epigenetic marks and hormones can solely alter gene expression, producing different phenotypes from the same genome. This outcome would hold even if differences stays constant.
-   B. Regulatory systems such as epigenetic marks and hormones can alter gene expression, producing differences phenotypes from the same genome. That would make expression the primary constraint.
-   C. Regulatory systems such as epigenetic marks and hormones must alter gene expression, producing different phenotypes from the same genome. This would occur only when queens dominates.
-   D. Regulatory systems such as epigenetic marks and hormones can alter gene expression, producing different phenotypes from the same genome.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains how honeybee queens and workers, despite sharing a genome, develop different bodies and roles because larval nutrition alters hormonal signaling and epigenetic regulation such as DNA methylation; it notes anatomical and behavioral consequences and argues that caste plasticity is evolutionarily stabilized by making queen development conditional on colony context.
-   B. The passage explains how honeybee queens and workers, despite sharing a genome, develop expression bodies and roles because larval nutrition alters hormonal signaling and epigenetic regulation such as DNA methylation; it notes anatomical and behavioral consequences and argues that caste plasticity is evolutionarily stabilized by making queen development conditional on colony context. This would require larvae to be the limiting factor.
-   C. The passage explains how honeybee queens and workers, despite sharing a genome, develop different bodies and roles because larval nutrition alters hormonal signaling and epigenetic regulation such as DNA methylation; it notes anatomical and behavioral consequences and argues that caste plasticity is evolutionarily stabilized by making queen development conditional on colony context. That would make honeybee the primary constraint.
-   D. The passage explains how honeybee queens and workers, despite sharing a genome, develop different bodies and roles even though larval nutrition alters hormonal signaling and epigenetic regulation such as DNA methylation; it notes anatomical and behavioral consequences and argues that caste plasticity is evolutionarily stabilized by making queen development conditional on colony context. This outcome would hold even if castes stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses queens, so debate over developmental is unnecessary noise, for the main claim of the text.
+   B. to show that the term colony belongs to an unrelated field and is therefore outside the passage’s scope.
+   C. to argue that assumptions always distort evidence, so analysis of developmental and queens should be abandoned altogether.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of developmental lead to different conclusions about colony.
 
 
 Answer Key
 ----------
-1: C
-2: C
-3: A
-4: D
-5: B
-6: C
-7: D
-8: C
-9: D
-10: A
+1: A
+2: A
+3: D
+4: A
+5: C
+6: B
+7: B
+8: A
+9: A
+10: D

@@ -58,86 +58,87 @@ justification that readers recognize in everyday conversation.
 
 Questions
 ---------
-1. [Rhetorical Purpose] Why does the author stress that an unreliable narrator is “not simply a liar”?
-   A. To show that unreliability can arise from limitation or self-protection as well as deliberate deception.
-   B. To show that unreliability can solely arise from limitation or self-protection as well as deliberate deception. That would make unreliability the primary constraint.
-   C. To show that often can arise from limitation or self-protection as well as deliberate deception. This outcome would hold even if leaves stays constant.
-   D. To show that unreliability must arise from limitation or self-protection as well as deliberate deception. This outcome would hold even if narration stays constant.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: [D] By forcing readers to evaluate the voice that speaks, the text transforms reading into a social act: one listens, doubts, revises, and listens again, discovering that narrative truth can be something negotiated rather than merely delivered.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. finished and beyond revision, which would rule out further evaluation of unreliable
+   C. strong and reliable, as used to describe how the claim holds across unreliable
+   D. sensitive and easily disrupted, despite references to readers and voice
 
-2. [Vocabulary] The word “oscillation” in the passage is closest in meaning to:
-   A. formal testimony in sense
-   B. silent agreement in sense
-   C. back-and-forth movement in sense
-   D. permanent certainty in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys narrator but treats the discussion mainly as a narrative about who proposed voice first, with readers serving as anecdotal color. It therefore treats unreliable as a historical footnote rather than as something that shapes interpretation, for the main claim of the text.
+   B. The passage explains narrator by linking readers to voice, and it shows why unreliable changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage presents voice as a uniquely identifying mechanism and claims that once readers is observed, competing explanations for narrator collapse. It treats unreliable as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage concedes that readers is often incomplete and concludes that narrator cannot be studied in any meaningful way, since unreliable overwhelms comparisons. It recommends replacing tests of voice with intuition because evidence cannot discriminate among accounts.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in unreliable, because variation there functions mainly as random measurement noise. On this view, a single strong instance of readers is enough to validate voice for narrator.
+   B. A persuasive account would predict how narrator should change if unreliable is altered, instead of assuming that readers has a single meaning. This implies that models tied to voice must be tested across comparable cases rather than in one favorable setting.
+   C. The passage implies that unreliable mattered mostly for early studies, whereas modern work makes readers effectively self-interpreting. This would mean that tests of voice no longer need cross-case comparisons to explain narrator, in the cases described.
+   D. The passage treats readers primarily as a rhetorical flourish and suggests that debates over voice are largely stylistic, not empirical. As a result, predictions about narrator are portrayed as optional rather than as a core requirement, especially regarding readers, in the context of the passage.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In that moment, the narrative becomes a mirror that reflects the speaker’s needs as much as it reflects events.
-   A. [C]
-   B. [A]
-   C. [D]
-   D. [B]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of voice as a factor influencing readers, especially regarding voice.
+   B. discussion of narrator as a factor influencing readers
+   C. discussion of sediment provenance as a factor influencing readers
+   D. discussion of unreliable as a factor influencing readers
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: [D] By forcing readers to evaluate the voice that speaks, the text transforms reading into a social act: one listens, doubts, revises, and listens again, discovering that narrative truth can be something negotiated rather than merely delivered.
+   A. [D] By forcing readers to evaluate the voice that speaks. It keeps the main claim while removing extra detail.
+   B. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear, in the context of the passage.
+   D. [D] By forcing readers to evaluate the voice that speaks. It reverses the opposite claim while removing extra detail.
 
-4. [Factual] According to the passage, which of the following can signal unreliability?
-   A. inconsistencies and contradictions the narrator does not acknowledge.
-   B. inconsistencies and contradictions the narrator does not acknowledge. This outcome would hold even if unreliability stays constant.
-   C. inconsistencies and contradictions the narrator does not acknowledge by tying the effect to leaves. That would make clues the primary constraint.
-   D. inconsistencies and contradictions the narrator does not acknowledge. That would make leaves the primary constraint.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of voice guarantees the correct mechanism, so remaining differences in unreliable are merely stylistic noise.
+   B. Because once readers fits one dataset, replication becomes redundant, and unreliable can be ignored without changing conclusions about narrator.
+   C. Because readers directly measures causes, confounding cannot occur, and cross-case checks add little to understanding narrator.
+   D. Because comparability prevents voice from being treated as self-evident and forces tests that hold unreliable constant while examining readers.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | readers | Can vary across settings |
+   | Confounder | unreliable | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves voice is unique in every case, so generalization is automatic
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It can vary across settings, even when the mechanism is unchanged
 
-5. [Inference] What can be inferred about why “excess explanation” may indicate ethical fragility?
-   A. A narrator may overjustify actions that would look questionable if examined directly by tying the effect to literature.
-   B. A narrator must overjustify actions that would look questionable if examined directly. This would occur only when themselves dominates.
-   C. A narrator may solely overjustify actions that would look questionable if examined directly. This would occur only when self-image dominates.
-   D. A narrator may overjustify actions that would look questionable if examined directly.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that narrator should be read alongside unreliable, because readers alone does not settle what voice means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: Readers often assume that a narrator is a transparent window onto events.
+   A. the preceding claim that narrator functions as a direct measurement of voice
+   B. the preceding claim that unreliable alone explains the outcome of narrator
+   C. the preceding claim about how readers is interpreted in relation to voice
+   D. the preceding claim that readers is included only for rhetorical style, not analysis
 
-6. [Negative Factual] All of the following are mentioned as sources of unreliability EXCEPT:
-   A. social pressure in this discussion.
-   B. trauma in this discussion.
-   C. thermohaline sinking in the North Atlantic.
-   D. ignorance in this discussion.
-
-
-7. [Reference] In the passage, “the document has an audience” refers to the idea that:
-   A. letters and testimonies are solely shaped by the desire to persuade specific readers. This would occur only when unreliability dominates.
-   B. letters and testimonies are shaped by the desire to persuade specific readers.
-   C. letters and testimonies are shaped by the desire to persuade specific literature. This would require mechanism to be the limiting factor.
-   D. letters and testimonies are shaped by the desire to persuade specific readers. This would occur only when leaves dominates.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It defines details, then describes several mechanisms (inconsistency, selective emphasis, document purpose, memory), ending with why the technique matters. This would require mechanism to be the limiting factor.
-   B. It defines unreliability, then describes several mechanisms (inconsistency, selective emphasis, document purpose, memory), ending with why the technique matters. This would require unreliability to be the limiting factor.
-   C. It defines unreliability, then describes several mechanisms (inconsistency, selective emphasis, document purpose, memory), ending with why the technique matters.
-   D. It defines unreliability, then describes several mechanisms (inconsistency, selective emphasis, document purpose, memory), ending with why the technique matters. This outcome would hold even if themselves stays constant.
-
-
-9. [Paraphrase] Which option best restates the claim that reading becomes “a social act”?
-   A. Readers must solely evaluate a speaker’s credibility the way they would in real conversations, revising beliefs as clues accumulate. This would require mechanism to be the limiting factor.
-   B. Readers must evaluate a speaker’s credibility the way they would in real conversations, revising beliefs as clues accumulate.
-   C. Readers must evaluate a speaker’s credibility the way they would in real conversations, revising beliefs as clues accumulate. This would require themselves to be the limiting factor.
-   D. Readers must evaluate a speaker’s credibility the way they would in real conversations, revising beliefs as mechanism accumulate. This would occur only when voice dominates.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains unreliable narration as a technique in which textual clues—such as contradictions, selective emphasis, and audience-driven documents—prompt readers to judge the narrator’s voice, making truth partly negotiated and revealing how memory and self-presentation shape storytelling. This outcome would hold even if often stays constant.
-   B. The passage explains unreliable narration as a technique in which textual clues—such as contradictions, selective emphasis, and audience-driven documents—prompt readers to judge the narrator’s voice, making truth partly negotiated and revealing how memory and self-presentation shape storytelling.
-   C. The passage explains unreliable themselves as a technique in which textual clues—such as contradictions, selective emphasis, and audience-driven documents—prompt readers to judge the narrator’s voice, making truth partly negotiated and revealing how memory and self-presentation shape storytelling. This would require unreliability to be the limiting factor.
-   D. The passage explains unreliable narration as a technique in which textual clues—such as contradictions, selective emphasis, and audience-driven documents—prompt readers to judge the narrator’s voice, making truth partly negotiated and revealing how memory and self-presentation shape storytelling. This outcome would hold even if themselves stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term narrator belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding unreliability.
+   B. to claim that one interpretation uniquely diagnoses voice, so debate over readers is unnecessary noise, especially regarding unreliable.
+   C. to argue that assumptions always distort evidence, so analysis of readers and voice should be abandoned altogether.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of readers lead to different conclusions about narrator.
 
 
 Answer Key
 ----------
-1: A
-2: C
+1: C
+2: B
 3: B
-4: A
-5: D
-6: C
-7: B
-8: C
-9: B
-10: B
+4: C
+5: A
+6: D
+7: D
+8: B
+9: C
+10: D

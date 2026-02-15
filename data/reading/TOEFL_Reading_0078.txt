@@ -67,75 +67,76 @@ in one context and unpleasant in another.
 
 Questions
 ---------
-1. [Vocabulary] The word “inert” in the passage is closest in meaning to:
-   A. unpredictable and unstable in sense
-   B. expensive and branded in sense
-   C. inactive and lacking direct pharmacological effect
-   D. dangerous and toxic in sense
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: Ultimately, placebo research has shifted the question from “Are symptoms real?” to “How are symptoms regulated?” [C] The brain integrates beliefs, memories, and sensory input into experience, and by changing beliefs and context, one can change experience.
+   A. sensitive and easily disrupted, despite references to context and placebo
+   B. finished and beyond revision, which would rule out further evaluation of effects
+   C. strong and reliable, as used to describe how the claim holds across effects
+   D. durable in a purely physical sense, even though the passage treats it as evidence-related
 
-2. [Factual] According to the passage, placebo analgesia can involve activation of:
-   A. endogenous opioid systems that reduce pain signaling. That would make nocebo the primary constraint.
-   B. endogenous opioid systems that reduce pain signaling.
-   C. endogenous opioid systems that amplify pain signaling. This outcome would hold even if unpleasant stays constant.
-   D. endogenous opioid systems that reduce pain signaling by tying the effect to biology. This would occur only when treatment dominates.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that context is often incomplete and concludes that expectations cannot be studied in any meaningful way, since effects overwhelms comparisons. It recommends replacing tests of placebo with intuition because evidence cannot discriminate among accounts, in the context of the passage.
+   B. The passage explains expectations by linking context to placebo, and it shows why effects changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage presents placebo as a uniquely identifying mechanism and claims that once context is observed, competing explanations for expectations collapse. It treats effects as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage surveys expectations but treats the discussion mainly as a narrative about who proposed placebo first, with context serving as anecdotal color. It therefore treats effects as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that effects mattered mostly for early studies, whereas modern work makes context effectively self-interpreting. This would mean that tests of placebo no longer need cross-case comparisons to explain expectations, especially regarding experiences.
+   B. The passage treats context primarily as a rhetorical flourish and suggests that debates over placebo are largely stylistic, not empirical. As a result, predictions about expectations are portrayed as optional rather than as a core requirement, as the argument develops, in the examples provided.
+   C. A persuasive account can safely average away differences in effects, because variation there functions mainly as random measurement noise. On this view, a single strong instance of context is enough to validate placebo for expectations.
+   D. A persuasive account would predict how expectations should change if effects is altered, instead of assuming that context has a single meaning. This implies that models tied to placebo must be tested across comparable cases rather than in one favorable setting.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Because the nervous system can adjust its own gain, expectation can change not only what people report but also what they physiologically process.
-   A. [B]
-   B. [D]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of expectations as a factor influencing context
+   B. discussion of effects as a factor influencing context
+   C. discussion of placebo as a factor influencing context, as the discussion implies.
+   D. discussion of thermal hysteresis as a factor influencing context
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Ultimately, placebo research has shifted the question from “Are symptoms real?” to “How are symptoms regulated?” [C] The brain integrates beliefs, memories, and sensory input into experience, and by changing beliefs and context, one can change experience.
+   A. Ultimately. It keeps the main claim while removing extra detail, in the context of the passage.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. Ultimately. It reverses the opposite claim while removing extra detail, especially regarding experiences.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents placebo from being treated as self-evident and forces tests that hold effects constant while examining context.
+   B. Because the presence of placebo guarantees the correct mechanism, so remaining differences in effects are merely stylistic noise.
+   C. Because once context fits one dataset, replication becomes redundant, and effects can be ignored without changing conclusions about expectations.
+   D. Because context directly measures causes, confounding cannot occur, and cross-case checks add little to understanding expectations.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | context | Can vary across settings |
+   | Confounder | effects | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It proves placebo is unique in every case, so generalization is automatic
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that expectations should be read alongside effects, because context alone does not settle what placebo means.
+   A. [A]
+   B. [B]
    C. [C]
-   D. [A]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This matters clinically because warning patients about rare side effects, although ethically necessary, can unintentionally increase reporting of those symptoms.
+   A. the preceding claim about how context is interpreted in relation to placebo
+   B. the preceding claim that effects alone explains the outcome of expectations
+   C. the preceding claim that expectations functions as a direct measurement of placebo
+   D. the preceding claim that context is included only for rhetorical style, not analysis
 
-4. [Inference] What can be inferred about why discussing side effects can increase symptom reporting?
-   A. Negative expectations can solely heighten anxiety and attention to sensations, producing or amplifying symptoms. This outcome would hold even if injections stays constant.
-   B. Negative expectations must heighten anxiety and attention to sensations, producing or amplifying symptoms. That would make nocebo the primary constraint.
-   C. Negative expectations can heighten anxiety and attention to sensations, producing or amplifying symptoms.
-   D. Negative brain can heighten anxiety and attention to sensations, producing or amplifying symptoms. That would make expectations the primary constraint.
-
-
-5. [Negative Factual] All of the following are mentioned as factors shaping placebo magnitude EXCEPT:
-   A. perceived authority of the provider in this discussion.
-   B. pill color and branding in this discussion.
-   C. the angular separation of pulsars across the sky.
-   D. cultural narratives about treatment strength in this discussion.
-
-
-6. [Rhetorical Purpose] Why does the author mention that an “expensive” placebo can produce stronger effects than a “cheap” one?
-   A. To illustrate that social meaning and expectation can alter analgesia. This would require analgesia to be the limiting factor.
-   B. To illustrate that social meaning and expectation must alter physiology. That would make biology the primary constraint.
-   C. To illustrate that social meaning and expectation can alter physiology.
-   D. To illustrate that social meaning and expectation can solely alter physiology. This would require injections to be the limiting factor.
-
-
-7. [Reference] In the passage, “these responses” refers to:
-   A. placebo and nocebo effects that must influence symptoms and trial outcomes. This would require sometimes to be the limiting factor.
-   B. placebo and nocebo effects that can solely influence symptoms and trial outcomes. That would make responses the primary constraint.
-   C. placebo and nocebo effects that can influence symptoms and trial outcomes.
-   D. treatment and nocebo effects that can influence symptoms and trial outcomes. That would make sometimes the primary constraint.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It defines placebo and nocebo effects, explains mechanisms using pain as an example, discusses negative expectation pathways, then examines contextual influences and ethical implications. That would make placebo the primary constraint.
-   B. It defines placebo and nocebo effects, explains mechanisms using pain as an example, discusses negative expectation pathways, then examines contextual influences and ethical implications.
-   C. It defines placebo and biology effects, explains mechanisms using pain as an example, discusses negative expectation pathways, then examines contextual influences and ethical implications. This would occur only when treatment dominates.
-   D. It defines placebo and nocebo effects, explains mechanisms using pain as an example, discusses negative expectation pathways, then examines contextual influences and ethical implications. That would make context the primary constraint.
-
-
-9. [Paraphrase] Which option best restates the idea that placebo effects are “properties of an interaction”?
-   A. Their magnitude depends on context, communication, and learned associations rather than on the pill’s chemical content. This would require brain to be the limiting factor.
-   B. Their magnitude depends on context, communication, and learned associations rather than on the pill’s chemical content.
-   C. Their magnitude depends on analgesia, communication, and learned associations rather than on the pill’s chemical content. This would occur only when experiences dominates.
-   D. Their magnitude depends on context, communication, and learned associations rather than on the pill’s chemical content. That would make placebo the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that placebo and nocebo effects are solely real symptom changes driven by expectations, learning, and context, describes mechanisms such as endogenous opioids for pain relief and stress-related pathways for worsening symptoms, shows how social meaning shapes magnitude, and notes both the need to control these effects in trials and the ethical possibility of using positive framing in care without deception.
-   B. The passage explains that placebo and brain effects are real symptom changes driven by expectations, learning, and context, describes mechanisms such as endogenous opioids for pain relief and stress-related pathways for worsening symptoms, shows how social meaning shapes magnitude, and notes both the need to control these effects in trials and the ethical possibility of using positive framing in care without deception.
-   C. The passage explains that placebo and nocebo effects are real symptom changes driven by expectations, learning, and context, describes mechanisms such as endogenous opioids for pain relief and stress-related pathways for worsening symptoms, shows how social meaning shapes magnitude, and notes both the need to control these effects in trials and the ethical possibility of using positive framing in care without deception.
-   D. The passage explains that placebo and nocebo effects are real symptom changes driven by expectations, learning, and sometimes, describes mechanisms such as endogenous opioids for pain relief and stress-related pathways for worsening symptoms, shows how social meaning shapes magnitude, and notes both the need to control these effects in trials and the ethical possibility of using positive framing in care without deception.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of context lead to different conclusions about expectations.
+   B. to show that the term expectations belongs to an unrelated field and is therefore outside the passage’s scope.
+   C. to claim that one interpretation uniquely diagnoses placebo, so debate over context is unnecessary noise, especially regarding effects.
+   D. to argue that assumptions always distort evidence, so analysis of context and placebo should be abandoned altogether, for the main claim of the text.
 
 
 Answer Key
@@ -143,10 +144,10 @@ Answer Key
 1: C
 2: B
 3: D
-4: C
-5: C
-6: C
-7: C
-8: B
-9: B
-10: C
+4: D
+5: A
+6: A
+7: D
+8: D
+9: A
+10: A

@@ -60,86 +60,87 @@ defenses, and CRISPR loci can shrink or even be lost.
 
 Questions
 ---------
-1. [Rhetorical Purpose] Why does the author compare bacteria and viruses to “two copying machines”?
-   A. To show that both organisms rely on replication and variation, creating an evolutionary race. That would make biology the primary constraint.
-   B. To show that both organisms rely on replication and variation, creating an evolutionary race. This would occur only when countermeasures dominates.
-   C. To show that both organisms rely on replication and variation, creating an evolutionary race by tying the effect to first.
-   D. To show that both organisms rely on replication and variation, creating an evolutionary race.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: To persist in such conditions, bacteria evolved defenses that range from surface receptors to molecular “scissors.” Among the most striking is the CRISPR‑Cas system, which functions as an adaptive memory: it records fragments of invader DNA and later uses that record to destroy matching sequences.
+   A. finished and beyond revision, which would rule out further evaluation of archive
+   B. durable in a purely physical sense, even though the passage treats it as evidence-related
+   C. sensitive and easily disrupted, despite references to crispr and viral
+   D. strong and reliable, as used to describe how the claim holds across archive
 
-2. [Negative Factual] All of the following are mentioned as challenges for CRISPR systems EXCEPT:
-   A. bearing a growth cost in virus-free conditions.
-   B. avoiding attacks on the cell’s own genome.
-   C. needing sunlight to activate Cas proteins.
-   D. viruses mutating to evade recognition in this discussion.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys bacteria but treats the discussion mainly as a narrative about who proposed viral first, with crispr serving as anecdotal color. It therefore treats archive as a historical footnote rather than as something that shapes interpretation, in the examples provided.
+   B. The passage concedes that crispr is often incomplete and concludes that bacteria cannot be studied in any meaningful way, since archive overwhelms comparisons. It recommends replacing tests of viral with intuition because evidence cannot discriminate among accounts.
+   C. The passage explains bacteria by linking crispr to viral, and it shows why archive changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage presents viral as a uniquely identifying mechanism and claims that once crispr is observed, competing explanations for bacteria collapse. It treats archive as minor noise and suggests that a single measurement is sufficient for a final conclusion.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in archive, because variation there functions mainly as random measurement noise. On this view, a single strong instance of crispr is enough to validate viral for bacteria.
+   B. A persuasive account would predict how bacteria should change if archive is altered, instead of assuming that crispr has a single meaning. This implies that models tied to viral must be tested across comparable cases rather than in one favorable setting.
+   C. The passage implies that archive mattered mostly for early studies, whereas modern work makes crispr effectively self-interpreting. This would mean that tests of viral no longer need cross-case comparisons to explain bacteria, for the main claim of the text, especially regarding archive.
+   D. The passage treats crispr primarily as a rhetorical flourish and suggests that debates over viral are largely stylistic, not empirical. As a result, predictions about bacteria are portrayed as optional rather than as a core requirement.
 
-3. [Vocabulary] The word “archive” in the passage is closest in meaning to:
-   A. a stored record in sense
-   B. a membrane in sense
-   C. a nutrient in sense
-   D. a toxin in sense
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of allometric scaling as a factor influencing crispr
+   B. discussion of archive as a factor influencing crispr
+   C. discussion of bacteria as a factor influencing crispr, especially regarding sequences.
+   D. discussion of viral as a factor influencing crispr
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: To persist in such conditions, bacteria evolved defenses that range from surface receptors to molecular “scissors.” Among the most striking is the CRISPR‑Cas system, which functions as an adaptive memory: it records fragments of invader DNA and later uses that record to destroy matching sequences.
+   A. To persist in such conditions. It keeps the main claim while removing extra detail.
+   B. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   C. To persist in such conditions. It reverses the opposite claim while removing extra detail.
+   D. It keeps the details but drops the main relationship, so the key connection becomes unclear.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In that sense, immunity is purchased with metabolic currency.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once crispr fits one dataset, replication becomes redundant, and archive can be ignored without changing conclusions about bacteria.
+   B. Because comparability prevents viral from being treated as self-evident and forces tests that hold archive constant while examining crispr.
+   C. Because crispr directly measures causes, confounding cannot occur, and cross-case checks add little to understanding bacteria.
+   D. Because the presence of viral guarantees the correct mechanism, so remaining differences in archive are merely stylistic noise.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | crispr | Can vary across settings |
+   | Confounder | archive | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves viral is unique in every case, so generalization is automatic
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that bacteria should be read alongside archive, because crispr alone does not settle what viral means.
    A. [A]
-   B. [D]
+   B. [B]
    C. [C]
-   D. [B]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This evolutionary tug‑of‑war can be seen as a race between two copying machines.
+   A. the preceding claim that bacteria functions as a direct measurement of viral
+   B. the preceding claim that crispr is included only for rhetorical style, not analysis
+   C. the preceding claim about how crispr is interpreted in relation to viral
+   D. the preceding claim that archive alone explains the outcome of bacteria
 
-5. [Inference] What can be inferred about bacteria in environments with low phage pressure?
-   A. They must benefit from reducing CRISPR activity because the defense cost may outweigh rare threats. This would require sequences to be the limiting factor.
-   B. They may benefit from reducing CRISPR activity because the defense cost may outweigh rare threats.
-   C. They may benefit from reducing CRISPR activity because the defense cost may outweigh rare threats by tying the effect to viruses.
-   D. They may benefit from reducing CRISPR activity even though the defense cost may outweigh rare threats. This outcome would hold even if environments stays constant.
-
-
-6. [Factual] According to the passage, how can many CRISPR systems distinguish foreign DNA from the cell’s own CRISPR array?
-   A. By requiring a short motif adjacent to the target sequence. That would make crispr-cas the primary constraint.
-   B. By requiring a short motif adjacent to the target sequence. This outcome would hold even if first stays constant.
-   C. By requiring a short motif adjacent to the target sequence.
-   D. By requiring a short motif adjacent to the target sequence by tying the effect to communities.
-
-
-7. [Reference] In the sentence “that speed occasionally causes harmful targeting errors,” the word “speed” refers to:
-   A. rapid spacer acquisition in response to intense phage pressure.
-   B. rapid spacer acquisition in response to intense phage pressure by tying the effect to recognition-tag. That would make non-self the primary constraint.
-   C. rapid spacer acquisition in response to intense phage pressure. This would occur only when sequences dominates.
-   D. rapid spacer acquisition in response to intense phage pressure. That would make second the primary constraint.
-
-
-8. [Paraphrase] Which option best restates the idea that array length is “an ecological trait”?
-   A. How many spacers a bacterium maintains can depend on how often it encounters bacteria in its environment. This would occur only when communities dominates.
-   B. How many spacers a bacterium maintains can depend on how often it encounters viruses in its environment.
-   C. How many spacers a bacterium maintains must depend on how often it encounters viruses in its environment. This would require anti-crispr to be the limiting factor.
-   D. How many spacers a bacterium maintains can solely depend on how often it encounters viruses in its environment. This outcome would hold even if recognition-tag stays constant.
-
-
-9. [Organization] How does the author develop the explanation of CRISPR?
-   A. By describing the mechanism, raising two complications, contrasting explanations, and then connecting the evolutionary trade-off to biotechnology. This outcome would hold even if viruses stays constant.
-   B. By describing the mechanism, raising two complications, contrasting explanations, and then connecting the evolutionary trade-off to biotechnology.
-   C. By describing the mechanism, raising two complications, contrasting explanations, and then connecting the evolutionary trade-off to biotechnology by tying the effect to biology.
-   D. By describing the mechanism, raising two complications, contrasting explanations, and then connecting the evolutionary trade-off to biotechnology. This outcome would hold even if virus-free stays constant.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains CRISPR as an adaptive defense that stores viral DNA fragments and uses RNA-guided Cas proteins to cut invaders, while emphasizing first and discrimination problems that shape when and how strongly the system is used. This outcome would hold even if environments stays constant.
-   B. The passage explains CRISPR as an adaptive defense that stores viral DNA fragments and uses RNA-guided Cas proteins to cut invaders, while emphasizing trade-offs and discrimination problems that shape when and how strongly the system is solely used. This would require trade-offs to be the limiting factor.
-   C. The passage explains CRISPR as an adaptive defense that stores viral DNA fragments and uses RNA-guided Cas proteins to cut invaders, while emphasizing trade-offs and discrimination problems that shape when and how strongly the system is used. This would require sequences to be the limiting factor.
-   D. The passage explains CRISPR as an adaptive defense that stores viral DNA fragments and uses RNA-guided Cas proteins to cut invaders, while emphasizing trade-offs and discrimination problems that shape when and how strongly the system is used.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term bacteria belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding archive.
+   B. to claim that one interpretation uniquely diagnoses viral, so debate over crispr is unnecessary noise, under the stated assumptions.
+   C. to motivate clearer assumptions and stronger tests by showing why different readings of crispr lead to different conclusions about bacteria.
+   D. to argue that assumptions always distort evidence, so analysis of crispr and viral should be abandoned altogether.
 
 
 Answer Key
 ----------
 1: D
 2: C
-3: A
+3: B
 4: A
-5: B
-6: C
-7: A
-8: B
-9: B
-10: D
+5: A
+6: B
+7: D
+8: D
+9: C
+10: C

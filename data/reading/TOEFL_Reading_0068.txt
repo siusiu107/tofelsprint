@@ -70,86 +70,87 @@ empirical broad-spectrum prescribing that later proves unnecessary.
 
 Questions
 ---------
-1. [Inference] What can be inferred about why broad-spectrum antibiotics can increase future resistance even when they help the current patient?
-   A. They apply selection pressure to many bacteria, including clinicians that can become reservoirs of resistance genes. This would require resistance to be the limiting factor.
-   B. They apply selection pressure to many bacteria, including commensals that can solely become reservoirs of resistance genes. This would occur only when stewardship dominates.
-   C. They apply selection pressure to many bacteria, including commensals that must become reservoirs of resistance genes. This would require wastewater to be the limiting factor.
-   D. They apply selection pressure to many bacteria, including commensals that can become reservoirs of resistance genes.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: A shorter course can reduce selection pressure and adverse effects without compromising cure, but clinicians and patients can be uneasy, interpreting “shorter” as “riskier.” Stewardship programs therefore combine guidelines with feedback and education, showing local outcome data and emphasizing that unnecessary days of antibiotics are not neutral; they are evolutionary training sessions for bacteria.
+   A. sensitive and easily disrupted, despite references to antibiotics and broad-spectrum
+   B. durable in a purely physical sense, even though the passage treats it as evidence-related
+   C. strong and reliable, as used to describe how the claim holds across rapid
+   D. finished and beyond revision, which would rule out further evaluation of rapid
 
-2. [Factual] According to the passage, what is “de-escalation” in antibiotic use?
-   A. Narrowing or stopping therapy once culture or diagnostic information reduces uncertainty.
-   B. Narrowing or stopping therapy once culture or diagnostic information reduces uncertainty. This would require broad-spectrum to be the limiting factor.
-   C. Narrowing or stopping therapy once culture or diagnostic information reduces duration. This would require selection to be the limiting factor.
-   D. Narrowing or stopping therapy once culture or diagnostic information reduces uncertainty. This outcome would hold even if encourages stays constant.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys stewardship but treats the discussion mainly as a narrative about who proposed broad-spectrum first, with antibiotics serving as anecdotal color. It therefore treats rapid as a historical footnote rather than as something that shapes interpretation, especially regarding resistance.
+   B. The passage presents broad-spectrum as a uniquely identifying mechanism and claims that once antibiotics is observed, competing explanations for stewardship collapse. It treats rapid as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   C. The passage explains stewardship by linking antibiotics to broad-spectrum, and it shows why rapid changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage concedes that antibiotics is often incomplete and concludes that stewardship cannot be studied in any meaningful way, since rapid overwhelms comparisons. It recommends replacing tests of broad-spectrum with intuition because evidence cannot discriminate among accounts.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats antibiotics primarily as a rhetorical flourish and suggests that debates over broad-spectrum are largely stylistic, not empirical. As a result, predictions about stewardship are portrayed as optional rather than as a core requirement, especially regarding later, for the main claim of the text.
+   B. The passage implies that rapid mattered mostly for early studies, whereas modern work makes antibiotics effectively self-interpreting. This would mean that tests of broad-spectrum no longer need cross-case comparisons to explain stewardship, especially regarding antibiotics.
+   C. A persuasive account can safely average away differences in rapid, because variation there functions mainly as random measurement noise. On this view, a single strong instance of antibiotics is enough to validate broad-spectrum for stewardship.
+   D. A persuasive account would predict how stewardship should change if rapid is altered, instead of assuming that antibiotics has a single meaning. This implies that models tied to broad-spectrum must be tested across comparable cases rather than in one favorable setting.
 
-3. [Vocabulary] The word “reservoir” in the passage is closest in meaning to:
-   A. a hospital intensive care unit
-   B. a source or store from which something can spread
-   C. a chemical buffer that stores oxygen
-   D. a laboratory culture dish
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of stewardship as a factor influencing antibiotics
+   B. discussion of broad-spectrum as a factor influencing antibiotics, especially regarding resistance.
+   C. discussion of calibration drift as a factor influencing antibiotics
+   D. discussion of rapid as a factor influencing antibiotics
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: A shorter course can reduce selection pressure and adverse effects without compromising cure, but clinicians and patients can be uneasy, interpreting “shorter” as “riskier.” Stewardship programs therefore combine guidelines with feedback and education, showing local outcome data and emphasizing that unnecessary days of antibiotics are not neutral; they are evolutionary training sessions for bacteria.
+   A. A shorter course can reduce selection pressure and adverse effects without compromising cure. It reverses the opposite claim while removing extra detail.
+   B. It keeps the details but drops the main relationship, so the key connection becomes unclear, for the main claim of the text.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   D. A shorter course can reduce selection pressure and adverse effects without compromising cure. It keeps the main claim while removing extra detail.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In that sense, stewardship is as much about managing uncertainty as it is about choosing drugs.
-   A. [D]
-   B. [A]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once antibiotics fits one dataset, replication becomes redundant, and rapid can be ignored without changing conclusions about stewardship.
+   B. Because comparability prevents broad-spectrum from being treated as self-evident and forces tests that hold rapid constant while examining antibiotics.
+   C. Because the presence of broad-spectrum guarantees the correct mechanism, so remaining differences in rapid are merely stylistic noise.
+   D. Because antibiotics directly measures causes, confounding cannot occur, and cross-case checks add little to understanding stewardship.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | antibiotics | Can vary across settings |
+   | Confounder | rapid | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It proves broad-spectrum is unique in every case, so generalization is automatic
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that stewardship should be read alongside rapid, because antibiotics alone does not settle what broad-spectrum means.
+   A. [A]
+   B. [B]
    C. [C]
-   D. [B]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This requires infrastructure: timely lab processing, clear communication, and decision support.
+   A. the preceding claim that antibiotics is included only for rhetorical style, not analysis
+   B. the preceding claim that stewardship functions as a direct measurement of broad-spectrum
+   C. the preceding claim about how antibiotics is interpreted in relation to broad-spectrum
+   D. the preceding claim that rapid alone explains the outcome of stewardship
 
-5. [Negative Factual] All of the following are mentioned as contexts contributing to resistance EXCEPT:
-   A. outpatient clinics and dentistry in this discussion.
-   B. mining and processing lapis lazuli for pigment.
-   C. agriculture and travel in this discussion.
-   D. wastewater containing residues in this discussion.
-
-
-6. [Rhetorical Purpose] Why does the author mention Clostridioides difficile in the context of antibiotics?
-   A. To provide an example of how microbiome disruption can create opportunities for harmful encourages. That would make broad-spectrum the primary constraint.
-   B. To provide an example of how microbiome disruption must create opportunities for harmful infections. That would make antibiotics the primary constraint.
-   C. To provide an example of how microbiome disruption can solely create opportunities for harmful infections. This would occur only when commensals dominates.
-   D. To provide an example of how microbiome disruption can create opportunities for harmful infections.
-
-
-7. [Reference] In the passage, “such measures” refers to:
-   A. hospital stewardship interventions like review teams, approvals, and stop orders. That would make duration the primary constraint.
-   B. hospital stewardship interventions like review teams, approvals, and stop orders. This would require wastewater to be the limiting factor.
-   C. hospital selection interventions like review teams, approvals, and stop orders. This would occur only when broad-spectrum dominates.
-   D. hospital stewardship interventions like review teams, approvals, and stop orders.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces resistance logic, explains why broad-spectrum use has costs, then presents stewardship tools such as de-escalation, rapid diagnostics, and shorter durations, before expanding to system-wide spread and concluding with an ecological framing.
-   B. It introduces wastewater logic, explains why broad-spectrum use has costs, then presents stewardship tools such as de-escalation, rapid diagnostics, and shorter durations, before expanding to system-wide spread and concluding with an ecological framing. This would occur only when encourages dominates.
-   C. It introduces resistance logic, explains why broad-spectrum use has costs, then presents stewardship tools such as de-escalation, rapid diagnostics, and shorter durations, before expanding to system-wide spread and concluding with an ecological framing. This would require antibiotics to be the limiting factor.
-   D. It introduces resistance logic, explains why broad-spectrum use has costs, then presents stewardship tools such as de-escalation, rapid diagnostics, and shorter durations, before expanding to system-wide spread and concluding with an ecological framing. That would make duration the primary constraint.
-
-
-9. [Paraphrase] Which option best restates the claim that antibiotics are “shared resources”?
-   A. even though resistance affects future patients, preserving antibiotic effectiveness requires collective restraint and wise use today. This would require rapid to be the limiting factor.
-   B. Because clinicians affects future patients, preserving antibiotic effectiveness requires collective restraint and wise use today. This would require broad-spectrum to be the limiting factor.
-   C. Because resistance affects future patients, preserving antibiotic effectiveness requires collective restraint and wise use today. This outcome would hold even if broad-spectrum stays constant.
-   D. Because resistance affects future patients, preserving antibiotic effectiveness requires collective restraint and wise use today.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains antibiotic stewardship as an effort to slow resistance by reducing unnecessary broad selection pressure through strategies such as rapid diagnostics, de-escalation, and shorter durations, while acknowledging the need for timely treatment and the wider spread of resistance beyond hospitals, framing antibiotics as resources managed best with ecological awareness.
-   B. The passage explains antibiotic stewardship as an effort to slow resistance by reducing unnecessary broad selection pressure through strategies such as rapid diagnostics, de-escalation, and shorter durations, while acknowledging the need for timely treatment and the wider spread of resistance beyond hospitals, framing antibiotics as resources managed best with ecological awareness. This would require encourages to be the limiting factor.
-   C. The passage explains antibiotic stewardship as an effort to slow resistance by reducing unnecessary broad selection pressure through strategies such as rapid diagnostics, de-escalation, and shorter durations, while acknowledging the need for timely treatment and the wider spread of resistance beyond hospitals, framing antibiotics as resources managed best with ecological awareness. This would require duration to be the limiting factor.
-   D. The passage explains antibiotic stewardship as an effort to slow resistance by reducing unnecessary broad wastewater pressure through strategies such as rapid diagnostics, de-escalation, and shorter durations, while acknowledging the need for timely treatment and the wider spread of resistance beyond hospitals, framing antibiotics as resources managed best with ecological awareness. That would make diagnostics the primary constraint.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term stewardship belongs to an unrelated field and is therefore outside the passage’s scope.
+   B. to claim that one interpretation uniquely diagnoses broad-spectrum, so debate over antibiotics is unnecessary noise, in the cases described.
+   C. to motivate clearer assumptions and stronger tests by showing why different readings of antibiotics lead to different conclusions about stewardship.
+   D. to argue that assumptions always distort evidence, so analysis of antibiotics and broad-spectrum should be abandoned altogether, especially regarding rapid.
 
 
 Answer Key
 ----------
-1: D
-2: A
-3: B
-4: D
-5: B
-6: D
-7: D
-8: A
-9: D
-10: A
+1: C
+2: C
+3: D
+4: C
+5: D
+6: B
+7: A
+8: C
+9: C
+10: C

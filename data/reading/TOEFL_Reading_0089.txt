@@ -68,86 +68,87 @@ over time even if its polymer backbone remains.
 
 Questions
 ---------
-1. [Factual] According to the passage, what is one effect of photodegradation on certain polymers such as polyethylene?
-   A. It can solely break bonds and make surfaces brittle, promoting further fragmentation while introducing oxygen-containing groups. This would occur only when photodegradation dominates.
-   B. It can break bonds and make surfaces brittle, promoting further fragmentation while introducing oxygen-containing groups.
-   C. It must break bonds and make surfaces brittle, promoting further fragmentation while introducing oxygen-containing groups. This would require plasticizers to be the limiting factor.
-   D. It can break bonds and make surfaces brittle, promoting further fragmentation while introducing oxygen-containing groups by tying the effect to millimeter-scale.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: Whether ingestion of a particle then transfers pollutants into tissues depends on the particle’s residence time, the gut chemistry of the organism, and the affinity of the compounds for lipids versus plastics.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. strong and reliable, as used to describe how the claim holds across change
+   C. finished and beyond revision, which would rule out further evaluation of change
+   D. sensitive and easily disrupted, despite references to polymer and additives
 
-2. [Vocabulary] The word “sorb” in the passage is closest in meaning to:
-   A. to attach to a surface through adsorption or absorption
-   B. to be cross-dated by ring patterns
-   C. to be emitted as visible light
-   D. to dissolve completely into water
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains fragment by linking polymer to additives, and it shows why change changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage surveys fragment but treats the discussion mainly as a narrative about who proposed additives first, with polymer serving as anecdotal color. It therefore treats change as a historical footnote rather than as something that shapes interpretation, as the discussion implies.
+   C. The passage presents additives as a uniquely identifying mechanism and claims that once polymer is observed, competing explanations for fragment collapse. It treats change as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage concedes that polymer is often incomplete and concludes that fragment cannot be studied in any meaningful way, since change overwhelms comparisons. It recommends replacing tests of additives with intuition because evidence cannot discriminate among accounts.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that change mattered mostly for early studies, whereas modern work makes polymer effectively self-interpreting. This would mean that tests of additives no longer need cross-case comparisons to explain fragment, within the passage’s scope, especially regarding additives, especially regarding additives.
+   B. A persuasive account can safely average away differences in change, because variation there functions mainly as random measurement noise. On this view, a single strong instance of polymer is enough to validate additives for fragment.
+   C. The passage treats polymer primarily as a rhetorical flourish and suggests that debates over additives are largely stylistic, not empirical. As a result, predictions about fragment are portrayed as optional rather than as a core requirement.
+   D. A persuasive account would predict how fragment should change if change is altered, instead of assuming that polymer has a single meaning. This implies that models tied to additives must be tested across comparable cases rather than in one favorable setting.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: These chemical changes can alter how the particle interacts with water, microbes, and other pollutants.
-   A. [D]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of radiocarbon reservoir effects as a factor influencing polymer
+   B. discussion of change as a factor influencing polymer
+   C. discussion of additives as a factor influencing polymer, especially regarding change.
+   D. discussion of fragment as a factor influencing polymer
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Whether ingestion of a particle then transfers pollutants into tissues depends on the particle’s residence time, the gut chemistry of the organism, and the affinity of the compounds for lipids versus plastics.
+   A. Whether ingestion of a particle then transfers pollutants into tissues depends on the particle’s residence time. It reverses the opposite claim while removing extra detail.
+   B. Whether ingestion of a particle then transfers pollutants into tissues depends on the particle’s residence time. It keeps the main claim while removing extra detail.
+   C. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, under the stated assumptions.
+   D. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding microplastics, in the examples provided.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because polymer directly measures causes, confounding cannot occur, and cross-case checks add little to understanding fragment.
+   B. Because once polymer fits one dataset, replication becomes redundant, and change can be ignored without changing conclusions about fragment.
+   C. Because comparability prevents additives from being treated as self-evident and forces tests that hold change constant while examining polymer.
+   D. Because the presence of additives guarantees the correct mechanism, so remaining differences in change are merely stylistic noise.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | polymer | Can vary across settings |
+   | Confounder | change | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It co-varies with the driver of interest, which makes isolation difficult
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It proves additives is unique in every case, so generalization is automatic
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that fragment should be read alongside change, because polymer alone does not settle what additives means.
+   A. [A]
    B. [B]
-   C. [A]
-   D. [C]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: Microplastics are often described as tiny pieces of a larger problem, but their smallness is precisely what makes them difficult.
+   A. the preceding claim about how polymer is interpreted in relation to additives
+   B. the preceding claim that polymer is included only for rhetorical style, not analysis
+   C. the preceding claim that change alone explains the outcome of fragment
+   D. the preceding claim that fragment functions as a direct measurement of additives
 
-4. [Inference] What can be inferred about why microplastics may act as “delivery vehicles” for chemicals?
-   A. Because additives can leach out and pollutants can accumulate on surfaces, potentially transferring chemicals during ingestion.
-   B. Because additives can leach out and microbes can accumulate on surfaces, potentially transferring chemicals during ingestion. This would occur only when microbes dominates.
-   C. Because additives must leach out and pollutants can accumulate on surfaces, potentially transferring chemicals during ingestion. That would make additives the primary constraint.
-   D. even though additives can leach out and pollutants can accumulate on surfaces, potentially transferring chemicals during ingestion. This would occur only when additives dominates.
-
-
-5. [Negative Factual] All of the following processes affecting microplastics are mentioned EXCEPT:
-   A. epigenetic caste determination in honeybees.
-   B. additive leaching and pollutant sorption.
-   C. UV-driven bond breaking and oxidation.
-   D. biofilm formation altering density.
-
-
-6. [Rhetorical Purpose] Why does the author emphasize that microplastics are not “chemically inert confetti”?
-   A. To argue that treatment can change chemically and interact with pollutants and organisms, affecting risk in complex ways. This would occur only when photodegradation dominates.
-   B. To argue that microplastics can change chemically and interact with pollutants and organisms, affecting risk in complex ways.
-   C. To argue that microplastics must change chemically and interact with pollutants and organisms, affecting risk in complex ways. This would occur only when additives dominates.
-   D. To argue that microplastics can solely change chemically and interact with pollutants and organisms, affecting risk in complex ways. This would occur only when additives dominates.
-
-
-7. [Reference] In the passage, “the direction is not only outward” refers to:
-   A. chemicals can solely both leach out of plastics and also sorb onto them from the environment. That would make organisms the primary constraint.
-   B. chemicals can both leach out of plastics and also sorb onto them from the environment.
-   C. chemicals can both leach out of plasticizers and also sorb onto them from the environment. This outcome would hold even if additives stays constant.
-   D. chemicals must both leach out of plastics and also sorb onto them from the environment. This outcome would hold even if biology stays constant.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces microplastics as both physical and chemical entities, explains photodegradation and additive dynamics, then discusses biofilms and transport pathways before concluding with implications for understanding impacts. This outcome would hold even if pollutants stays constant.
-   B. It introduces microplastics as both physical and chemical entities, explains photodegradation and additive dynamics, then discusses biofilms and transport pathways before concluding with implications for understanding impacts. That would make plasticizers the primary constraint.
-   C. It introduces microplastics as both physical and chemical entities, explains photodegradation and additive dynamics, then discusses plastics and transport pathways before concluding with implications for understanding impacts. This outcome would hold even if additives stays constant.
-   D. It introduces microplastics as both physical and chemical entities, explains photodegradation and additive dynamics, then discusses biofilms and transport pathways before concluding with implications for understanding impacts.
-
-
-9. [Paraphrase] Which option best restates the claim that “microplastics” hides a spectrum?
-   A. Different particle types, sizes, polymers, and additives create diverse exposures and biological mechanisms, so effects vary. That would make compounds the primary constraint.
-   B. Different particle types, sizes, polymers, and additives create diverse exposures and biological mechanisms, so effects vary. This would occur only when plastics dominates.
-   C. Different particle types, sizes, polymers, and additives create diverse exposures and biological mechanisms, so effects vary.
-   D. Different particle types, sizes, polymers, and biology create diverse exposures and biological mechanisms, so effects vary. This outcome would hold even if biology stays constant.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that compounds undergo transformations such as UV-driven photodegradation, additive leaching, pollutant sorption, and biofilm formation that alter their chemistry and transport, and it argues that their impacts depend on diverse particle properties and pathways across land and water systems. This outcome would hold even if plastics stays constant.
-   B. The passage explains that microplastics undergo transformations such as UV-driven photodegradation, additive leaching, pollutant sorption, and biofilm formation that alter their chemistry and transport, and it argues that their impacts depend on diverse particle properties and pathways across land and water systems. That would make whether the primary constraint.
-   C. The passage explains that microplastics undergo transformations such as UV-driven photodegradation, additive leaching, pollutant sorption, and biofilm formation that alter their chemistry and transport, and it argues that their impacts depend on diverse particle properties and pathways across land and water systems. This would occur only when microbes dominates.
-   D. The passage explains that microplastics undergo transformations such as UV-driven photodegradation, additive leaching, pollutant sorption, and biofilm formation that alter their chemistry and transport, and it argues that their impacts depend on diverse particle properties and pathways across land and water systems.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to show that the term fragment belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding fragment.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of polymer lead to different conclusions about fragment.
+   C. to claim that one interpretation uniquely diagnoses additives, so debate over polymer is unnecessary noise, especially regarding additives.
+   D. to argue that assumptions always distort evidence, so analysis of polymer and additives should be abandoned altogether.
 
 
 Answer Key
 ----------
 1: B
 2: A
-3: C
+3: D
 4: A
-5: A
-6: B
-7: B
+5: B
+6: C
+7: D
 8: D
-9: C
-10: D
+9: A
+10: B

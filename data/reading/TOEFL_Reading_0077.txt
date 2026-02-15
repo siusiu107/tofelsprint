@@ -64,86 +64,87 @@ the chemistry of a thin active layer.
 
 Questions
 ---------
-1. [Factual] According to the passage, which factor contributes to hysteresis in perovskite solar cells?
-   A. ion migration and accumulation at structure. This would require moisture to be the limiting factor.
-   B. ion migration and accumulation at interfaces.
-   C. ion migration and accumulation at interfaces. This would require solar to be the limiting factor.
-   D. ion migration and accumulation at interfaces. This would require stability to be the limiting factor.
 
+1. [Vocabulary] In the passage, the word "volatile" in the sentence below is closest in meaning to:
+   Sentence: Replacing volatile organic components with more stable inorganic ones can improve thermal robustness, though it may change band gap and processing conditions.
+   A. steady and essentially unchanging, even though the passage treats it as evidence-related, as the discussion implies.
+   B. secondary background detail, despite references to barrier and water, especially regarding water.
+   C. likely to change suddenly or unpredictably, as used to describe how the claim holds across vapor
+   D. complete and final, which would rule out further evaluation of vapor
 
-2. [Vocabulary] The word “robustness” in the passage is closest in meaning to:
-   A. the process of forming terraces on hillsides
-   B. a legal method for enforcing contracts
-   C. the ability to emit radio pulses regularly
-   D. the ability to remain strong and functional under stress
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage presents water as a uniquely identifying mechanism and claims that once barrier is observed, competing explanations for quietly collapse. It treats vapor as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   B. The passage explains quietly by linking barrier to water, and it shows why vapor changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   C. The passage concedes that barrier is often incomplete and concludes that quietly cannot be studied in any meaningful way, since vapor overwhelms comparisons. It recommends replacing tests of water with intuition because evidence cannot discriminate among accounts.
+   D. The passage surveys quietly but treats the discussion mainly as a narrative about who proposed water first, with barrier serving as anecdotal color. It therefore treats vapor as a historical footnote rather than as something that shapes interpretation, in the examples provided.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats barrier primarily as a rhetorical flourish and suggests that debates over water are largely stylistic, not empirical. As a result, predictions about quietly are portrayed as optional rather than as a core requirement.
+   B. A persuasive account would predict how quietly should change if vapor is altered, instead of assuming that barrier has a single meaning. This implies that models tied to water must be tested across comparable cases rather than in one favorable setting.
+   C. The passage implies that vapor mattered mostly for early studies, whereas modern work makes barrier effectively self-interpreting. This would mean that tests of water no longer need cross-case comparisons to explain quietly, especially regarding quietly.
+   D. A persuasive account can safely average away differences in vapor, because variation there functions mainly as random measurement noise. On this view, a single strong instance of barrier is enough to validate water for quietly, especially regarding vapor, as the argument develops.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: A material that performs brilliantly on day one can be disappointing if its chemistry drifts under real conditions.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of vapor as a factor influencing barrier, especially regarding quietly.
+   B. discussion of sediment provenance as a factor influencing barrier
+   C. discussion of water as a factor influencing barrier
+   D. discussion of quietly as a factor influencing barrier
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: A material should absorb sunlight strongly, separate charges efficiently, and transport them to electrodes with minimal loss; at the same time, it must endure heat, oxygen, moisture, and mechanical stress for years.
+   A. A material should absorb sunlight strongly, separate charges efficiently, and transport them to electrodes with minimal loss. It keeps the main claim while removing extra detail.
+   B. A material should absorb sunlight strongly, separate charges efficiently, and transport them to electrodes with minimal loss. It reverses the opposite claim while removing extra detail.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding water, especially regarding quietly.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, especially regarding vapor.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because barrier directly measures causes, confounding cannot occur, and cross-case checks add little to understanding quietly.
+   B. Because once barrier fits one dataset, replication becomes redundant, and vapor can be ignored without changing conclusions about quietly.
+   C. Because comparability prevents water from being treated as self-evident and forces tests that hold vapor constant while examining barrier.
+   D. Because the presence of water guarantees the correct mechanism, so remaining differences in vapor are merely stylistic noise.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | barrier | Can vary across settings |
+   | Confounder | vapor | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves water is unique in every case, so generalization is automatic
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that quietly should be read alongside vapor, because barrier alone does not settle what water means.
    A. [A]
    B. [B]
-   C. [D]
-   D. [C]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: These traits allow thin films to perform like thicker absorbers, which reduces material use.
+   A. the preceding claim that barrier is included only for rhetorical style, not analysis
+   B. the preceding claim that quietly functions as a direct measurement of water
+   C. the preceding claim about how barrier is interpreted in relation to water
+   D. the preceding claim that vapor alone explains the outcome of quietly
 
-4. [Inference] What can be inferred about why encapsulation is important for perovskite modules?
-   A. It slows the entry of moisture and degradation that can chemically degrade perovskite layers. This outcome would hold even if perovskites stays constant.
-   B. It slows the entry of moisture and oxygen that can solely chemically degrade perovskite layers. That would make transport the primary constraint.
-   C. It slows the entry of moisture and oxygen that must chemically degrade perovskite layers. That would make transport the primary constraint.
-   D. It slows the entry of moisture and oxygen that can chemically degrade perovskite layers.
-
-
-5. [Negative Factual] All of the following degradation routes are mentioned EXCEPT:
-   A. phosphorus release by fungal enzymes in forest soils.
-   B. moisture-related reactions forming hydrates in this discussion.
-   C. oxygen-related reactive species under illumination in this discussion.
-   D. heat-driven phase transitions in this discussion.
-
-
-6. [Rhetorical Purpose] Why does the author contrast glovebox laboratory cells with field-deployed modules?
-   A. To show that real environments impose cycles and stresses that laboratory conditions must not capture. This outcome would hold even if laboratory stays constant.
-   B. To show that real environments impose cycles and stresses that laboratory conditions may solely not capture. This outcome would hold even if degradation stays constant.
-   C. To show that real environments impose cycles and stresses that transport conditions may not capture. This would occur only when moisture dominates.
-   D. To show that real environments impose cycles and stresses that laboratory conditions may not capture.
-
-
-7. [Reference] In the passage, “those cycles” refers to:
-   A. daily temperature swings, ultraviolet exposure, and mechanical stresses experienced by modules by tying the effect to solar.
-   B. daily temperature swings, ultraviolet exposure, and mechanical stresses experienced by modules. This would occur only when structure dominates.
-   C. daily temperature swings, ultraviolet exposure, and mechanical stresses experienced by modules.
-   D. daily temperature swings, ultraviolet exposure, and mechanical stresses experienced by modules. This would require additives to be the limiting factor.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces perovskites’ efficiency rise, explains properties and instability sources, describes degradation pathways, then outlines engineering responses and the role of stress testing, ending with implications for deployment.
-   B. It introduces perovskites’ efficiency rise, explains properties and instability sources, describes degradation pathways, then outlines engineering responses and the role of stress testing, ending with implications for deployment. That would make structure the primary constraint.
-   C. It introduces perovskites’ efficiency rise, explains properties and instability sources, describes degradation pathways, then outlines engineering responses and the role of stress testing, ending with implications for deployment. That would make additives the primary constraint.
-   D. It introduces oxygen’ efficiency rise, explains properties and instability sources, describes degradation pathways, then outlines engineering responses and the role of stress testing, ending with implications for deployment. This would require perovskites to be the limiting factor.
-
-
-9. [Paraphrase] Which option best restates the claim that stability is “a set of barriers” rather than a single trick?
-   A. even though degradation has multiple pathways, designers use several targeted strategies—encapsulation, compositional changes, passivation, and interface design—to block them. This would occur only when components dominates.
-   B. Because degradation has multiple pathways, designers use several targeted strategies—encapsulation, compositional changes, passivation, and interface design—to amplify them. This would occur only when perovskites dominates.
-   C. Because degradation has multiple pathways, designers use several targeted strategies—encapsulation, compositional changes, passivation, and interface design—to block them.
-   D. Because degradation has multiple pathways, designers use several targeted strategies—hysteresis, compositional changes, passivation, and interface design—to block them. That would make interfaces the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that perovskite solar cells combine high efficiency with chemical and structural vulnerabilities, describing degradation via moisture, oxygen, heat, and ion migration, and showing how encapsulation, compositional choices, defect passivation, interface engineering, and standardized stress tests aim to convert impressive laboratory performance into long-lived field technology. That would make transport the primary constraint.
-   B. The passage explains that perovskite solar cells combine high efficiency with chemical and structural vulnerabilities, describing degradation via moisture, hysteresis, heat, and ion migration, and showing how encapsulation, compositional choices, defect passivation, interface engineering, and standardized stress tests aim to convert impressive laboratory performance into long-lived field technology. This would occur only when field dominates.
-   C. The passage explains that perovskite solar cells combine high efficiency with chemical and structural vulnerabilities, describing degradation via moisture, oxygen, heat, and ion migration, and showing how encapsulation, compositional choices, defect passivation, interface engineering, and standardized stress tests aim to convert impressive laboratory performance into long-lived field technology.
-   D. The passage explains that perovskite solar cells combine high efficiency with chemical and structural vulnerabilities, describing degradation via moisture, oxygen, heat, and ion migration, and showing how encapsulation, compositional choices, defect passivation, interface engineering, and standardized stress tests aim to convert impressive laboratory performance into long-lived field technology. This would require perovskites to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses water, so debate over barrier is unnecessary noise, especially regarding material, for the main claim of the text.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of barrier lead to different conclusions about quietly.
+   C. to argue that assumptions always distort evidence, so analysis of barrier and water should be abandoned altogether.
+   D. to show that the term quietly belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
-1: B
-2: D
-3: A
-4: D
+1: C
+2: B
+3: B
+4: B
 5: A
-6: D
+6: C
 7: C
-8: A
+8: D
 9: C
-10: C
+10: B

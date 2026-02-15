@@ -64,86 +64,87 @@ coherence and controllability are negotiated together.
 
 Questions
 ---------
-1. [Vocabulary] In the passage, “dephase” is closest in meaning to:
-   A. to align magnetic fields perfectly
-   B. to increase energy levels by heating the device
-   C. to print a circuit diagram onto copper plates
-   D. to lose a stable phase relationship between quantum states
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: [D] Their quantum behavior is universal, but their fragility is local, arising from surfaces, wiring, and fabrication choices that can either shelter a state long enough to compute—or leak it away before it becomes useful.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. sensitive and easily disrupted, despite references to coherence and qubits
+   C. finished and beyond revision, which would rule out further evaluation of quantum
+   D. strong and reliable, as used to describe how the claim holds across quantum
 
-2. [Factual] According to the passage, what do T1 and T2 measure?
-   A. T1 is energy relaxation, and T2 is the preservation of phase coherence. This outcome would hold even if energy-relaxation stays constant.
-   B. T1 is energy relaxation, and T2 is the preservation of phase error. That would make two-level the primary constraint.
-   C. T1 is solely energy relaxation, and T2 is the preservation of phase coherence. This would occur only when energy-relaxation dominates.
-   D. T1 is energy relaxation, and T2 is the preservation of phase coherence.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage presents qubits as a uniquely identifying mechanism and claims that once coherence is observed, competing explanations for qubit collapse. It treats quantum as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   B. The passage concedes that coherence is often incomplete and concludes that qubit cannot be studied in any meaningful way, since quantum overwhelms comparisons. It recommends replacing tests of qubits with intuition because evidence cannot discriminate among accounts, given the evidence cited.
+   C. The passage explains qubit by linking coherence to qubits, and it shows why quantum changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage surveys qubit but treats the discussion mainly as a narrative about who proposed qubits first, with coherence serving as anecdotal color. It therefore treats quantum as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats coherence primarily as a rhetorical flourish and suggests that debates over qubits are largely stylistic, not empirical. As a result, predictions about qubit are portrayed as optional rather than as a core requirement, under the stated assumptions, in the examples provided.
+   B. A persuasive account can safely average away differences in quantum, because variation there functions mainly as random measurement noise. On this view, a single strong instance of coherence is enough to validate qubits for qubit.
+   C. A persuasive account would predict how qubit should change if quantum is altered, instead of assuming that coherence has a single meaning. This implies that models tied to qubits must be tested across comparable cases rather than in one favorable setting.
+   D. The passage implies that quantum mattered mostly for early studies, whereas modern work makes coherence effectively self-interpreting. This would mean that tests of qubits no longer need cross-case comparisons to explain qubit, given the evidence cited.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: For engineers, that distinction matters because the fixes for relaxation and for dephasing are often different.
-   A. [D]
-   B. [C]
-   C. [A]
-   D. [B]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of quantum as a factor influencing coherence
+   B. discussion of qubit as a factor influencing coherence, especially regarding coherence.
+   C. discussion of stress corrosion cracking as a factor influencing coherence
+   D. discussion of qubits as a factor influencing coherence
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: [D] Their quantum behavior is universal, but their fragility is local, arising from surfaces, wiring, and fabrication choices that can either shelter a state long enough to compute—or leak it away before it becomes useful.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   B. [D] Their quantum behavior is universal. It keeps the main claim while removing extra detail.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   D. [D] Their quantum behavior is universal. It reverses the opposite claim while removing extra detail.
 
-4. [Inference] What can be inferred about why fabrication cleanliness is emphasized for superconducting qubits?
-   A. Surface contamination and oxides can host defects that couple to the qubit and decrease dielectric loss. This would occur only when frequency dominates.
-   B. Surface contamination and oxides can solely host defects that couple to the qubit and increase dielectric loss. This would require fixed-frequency to be the limiting factor.
-   C. microwave contamination and oxides can host defects that couple to the qubit and increase dielectric loss. That would make fabrication the primary constraint.
-   D. Surface contamination and oxides can host defects that couple to the qubit and increase dielectric loss.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because comparability prevents qubits from being treated as self-evident and forces tests that hold quantum constant while examining coherence.
+   B. Because the presence of qubits guarantees the correct mechanism, so remaining differences in quantum are merely stylistic noise.
+   C. Because once coherence fits one dataset, replication becomes redundant, and quantum can be ignored without changing conclusions about qubit.
+   D. Because coherence directly measures causes, confounding cannot occur, and cross-case checks add little to understanding qubit.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | coherence | Can vary across settings |
+   | Confounder | quantum | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It proves qubits is unique in every case, so generalization is automatic
 
-5. [Negative Factual] All of the following are mentioned as sources of noise or error EXCEPT:
-   A. thermal noise leaking through control lines.
-   B. malic acid stored in plant vacuoles.
-   C. flux noise from fluctuating spins.
-   D. two-level defects in dielectrics.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that qubit should be read alongside quantum, because coherence alone does not settle what qubits means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This is why incremental improvements to materials and pulse shaping matter: a modest reduction in error per gate can reduce the overhead required for fault-tolerant computing by orders of magnitude.
+   A. the preceding claim that coherence is included only for rhetorical style, not analysis
+   B. the preceding claim about how coherence is interpreted in relation to qubits
+   C. the preceding claim that quantum alone explains the outcome of qubit
+   D. the preceding claim that qubit functions as a direct measurement of qubits
 
-6. [Rhetorical Purpose] Why does the author discuss the “trade” between tunability and fixed frequencies?
-   A. To show that design choices can reduce one type of noise while complicating control or gate implementation by tying the effect to back-action.
-   B. To show that design choices can solely reduce one type of noise while complicating control or gate implementation. This would require two-level to be the limiting factor.
-   C. To show that design choices can amplify one type of noise while complicating control or gate implementation. This would require josephson to be the limiting factor.
-   D. To show that design choices can reduce one type of noise while complicating control or gate implementation.
-
-
-7. [Reference] In the passage, “the unglamorous” refers to:
-   A. practical details like residues, surface treatments, and packaging that affect coherence and error rates.
-   B. practical details like residues, surface treatments, and packaging that affect coherence and fragility rates. This outcome would hold even if surface stays constant.
-   C. practical details like residues, surface treatments, and packaging that affect coherence and error rates. This would require fixed-frequency to be the limiting factor.
-   D. practical details like residues, surface treatments, and packaging that affect coherence and error rates. This outcome would hold even if progress stays constant.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces transmon two-level and decoherence metrics, surveys material and noise mechanisms, then connects design and control trade-offs to error correction requirements and engineering progress. This would require controllability to be the limiting factor.
-   B. It introduces transmon qubits and decoherence metrics, surveys material and noise mechanisms, then connects design and control trade-offs to error correction requirements and engineering progress.
-   C. It introduces transmon qubits and decoherence metrics, surveys material and noise mechanisms, then connects design and control trade-offs to error correction requirements and engineering progress. This would occur only when fault-tolerant dominates.
-   D. It introduces transmon qubits and decoherence metrics, surveys material and noise mechanisms, then connects design and control trade-offs to error correction requirements and engineering progress. This would occur only when progress dominates.
-
-
-9. [Paraphrase] Which option best restates the bell analogy comparing T1 and T2?
-   A. A qubit might retain energy while still losing precise phase information, so relaxation and dephasing are solely related but distinct failures. This outcome would hold even if fabrication stays constant.
-   B. A qubit might retain energy while still losing precise phase information, so relaxation and dephasing are related but distinct failures.
-   C. A qubit might retain energy while still losing precise phase information, so relaxation and dephasing are related but distinct failures by tying the effect to designers.
-   D. A qubit might retain energy while still losing precise phase information, so relaxation and dephasing are related but distinct failures. This would require fixed-frequency to be the limiting factor.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains transmon fixed-frequency and the decoherence times T1 and T2, describes how material defects, dielectric loss, flux noise, and control imperfections limit performance, and argues that progress depends on engineering trade-offs and incremental reductions in error rates that enable practical error correction. This would occur only when fault-tolerant dominates.
-   B. The passage explains transmon qubits and the decoherence times T1 and T2, describes how material defects, dielectric loss, flux noise, and control imperfections limit performance, and argues that progress depends on engineering trade-offs and incremental reductions in error rates that enable practical error correction. This would require josephson to be the limiting factor.
-   C. The passage explains transmon qubits and the decoherence times T1 and T2, describes how material defects, dielectric loss, flux noise, and control imperfections limit performance, and argues that progress depends on engineering trade-offs and incremental reductions in error rates that enable practical error correction.
-   D. The passage explains transmon qubits and the decoherence times T1 and T2, describes how material defects, dielectric loss, flux noise, and control imperfections limit performance, and argues that progress depends on engineering trade-offs and incremental reductions in error rates that enable practical error correction. This outcome would hold even if fragility stays constant.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of coherence and qubits should be abandoned altogether.
+   B. to show that the term qubit belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding quantum.
+   C. to claim that one interpretation uniquely diagnoses qubits, so debate over coherence is unnecessary noise, especially regarding coherence.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of coherence lead to different conclusions about qubit.
 
 
 Answer Key
 ----------
 1: D
-2: D
+2: C
 3: C
-4: D
+4: C
 5: B
-6: D
+6: A
 7: A
 8: B
 9: B
-10: C
+10: D

@@ -63,86 +63,87 @@ light arrive together rather than one at a time.
 
 Questions
 ---------
-1. [Factual] According to the passage, what is one major reason many perovskite solar cells degrade in humid air?
-   A. Water can solely penetrate grain boundaries and trigger reactions that convert the perovskite into non-absorbing byproducts. This would require light to be the limiting factor.
-   B. Water must penetrate grain boundaries and trigger reactions that convert the perovskite into non-absorbing byproducts. That would make materials the primary constraint.
-   C. Water can penetrate grain boundaries and trigger reactions that convert the cells into non-absorbing byproducts. This outcome would hold even if illumination stays constant.
-   D. Water can penetrate grain boundaries and trigger reactions that convert the perovskite into non-absorbing byproducts.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: Composition engineering replaces fragile organic cations with more robust ions, or blends them to balance stability and crystallization.
+   A. sensitive and easily disrupted, despite references to perovskite and films
+   B. strong and reliable, as used to describe how the claim holds across light
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. finished and beyond revision, which would rule out further evaluation of light
 
-2. [Vocabulary] The word “hysteresis” in the passage is closest in meaning to:
-   A. a barrier layer that blocks oxygen
-   B. a dependence of measured performance on the path or direction
-   C. a permanent yellow color in all thin films
-   D. a complete absence of electric fields
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that perovskite is often incomplete and concludes that perovskites cannot be studied in any meaningful way, since light overwhelms comparisons. It recommends replacing tests of films with intuition because evidence cannot discriminate among accounts.
+   B. The passage presents films as a uniquely identifying mechanism and claims that once perovskite is observed, competing explanations for perovskites collapse. It treats light as minor noise and suggests that a single measurement is sufficient for a final conclusion, given the evidence cited.
+   C. The passage explains perovskites by linking perovskite to films, and it shows why light changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   D. The passage surveys perovskites but treats the discussion mainly as a narrative about who proposed films first, with perovskite serving as anecdotal color. It therefore treats light as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats perovskite primarily as a rhetorical flourish and suggests that debates over films are largely stylistic, not empirical. As a result, predictions about perovskites are portrayed as optional rather than as a core requirement.
+   B. A persuasive account would predict how perovskites should change if light is altered, instead of assuming that perovskite has a single meaning. This implies that models tied to films must be tested across comparable cases rather than in one favorable setting.
+   C. A persuasive account can safely average away differences in light, because variation there functions mainly as random measurement noise. On this view, a single strong instance of perovskite is enough to validate films for perovskites, especially regarding solar, especially regarding films.
+   D. The passage implies that light mattered mostly for early studies, whereas modern work makes perovskite effectively self-interpreting. This would mean that tests of films no longer need cross-case comparisons to explain perovskites, especially regarding films.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: Even without visible damage, such internal rearrangements can quietly shift how charges are separated and collected.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of light as a factor influencing perovskite, especially regarding stability.
+   B. discussion of sediment provenance as a factor influencing perovskite
+   C. discussion of perovskites as a factor influencing perovskite
+   D. discussion of films as a factor influencing perovskite
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: The term “perovskite” in this context refers not to a single mineral but to a family of materials with a similar crystal framework, often written as ABX3, where A and B are cations and X is a halide.
+   A. The term “perovskite” in this context refers not to a single mineral but to a family of materials with a similar crystal framework.
+   B. The term “perovskite” in this context refers not to a single mineral but to a family of materials with a similar crystal framework.
+   C. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding stability, especially regarding perovskite, in the examples provided.
+   D. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, given the evidence cited, in the context of the passage.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of films guarantees the correct mechanism, so remaining differences in light are merely stylistic noise.
+   B. Because once perovskite fits one dataset, replication becomes redundant, and light can be ignored without changing conclusions about perovskites.
+   C. Because perovskite directly measures causes, confounding cannot occur, and cross-case checks add little to understanding perovskites.
+   D. Because comparability prevents films from being treated as self-evident and forces tests that hold light constant while examining perovskite.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | perovskite | Can vary across settings |
+   | Confounder | light | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It proves films is unique in every case, so generalization is automatic
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It can vary across settings, even when the mechanism is unchanged
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that perovskites should be read alongside light, because perovskite alone does not settle what films means.
    A. [A]
-   B. [D]
-   C. [B]
-   D. [C]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This segregation can be partially reversible in darkness, but repeated cycling can leave a permanent performance penalty.
+   A. the preceding claim that perovskite is included only for rhetorical style, not analysis
+   B. the preceding claim that perovskites functions as a direct measurement of films
+   C. the preceding claim that light alone explains the outcome of perovskites
+   D. the preceding claim about how perovskite is interpreted in relation to films
 
-4. [Inference] What can be inferred about why researchers use multiple stability strategies simultaneously?
-   A. even though degradation can originate from several interacting pathways—moisture, ion migration, interfaces, and mechanics—so layered defenses are more effective. This would require laboratory to be the limiting factor.
-   B. Because degradation can originate from several interacting pathways—moisture, ion migration, interfaces, and mechanics—so layered defenses are less effective. This would occur only when current-voltage dominates.
-   C. Because degradation can originate from several interacting pathways—moisture, ion migration, researchers, and mechanics—so layered defenses are more effective. This would require illumination to be the limiting factor.
-   D. Because degradation can originate from several interacting pathways—moisture, ion migration, interfaces, and mechanics—so layered defenses are more effective.
-
-
-5. [Negative Factual] All of the following are mentioned as degradation influences EXCEPT:
-   A. carbon dioxide forming calcium carbonate in plaster.
-   B. moisture in this discussion.
-   C. light and oxygen at interfaces.
-   D. heat-driven ion migration in this discussion.
-
-
-6. [Rhetorical Purpose] Why does the author compare stability measures to “reinforcing a dam”?
-   A. To emphasize that several barriers together can solely prevent failure better than a single patch. That would make iodide-rich the primary constraint.
-   B. To emphasize that several barriers together can prevent failure better than a single patch by tying the effect to stability.
-   C. To emphasize that several barriers together can prevent failure better than a single patch.
-   D. To emphasize that several barriers together must prevent failure better than a single patch. This would occur only when materials dominates.
-
-
-7. [Reference] In the passage, “this segregation” refers to:
-   A. light-induced separation of halides into defense and bromide-rich domains in mixed compositions. This would occur only when interfaces dominates.
-   B. light-induced separation of halides into iodide-rich and bromide-rich domains in mixed compositions. That would make perovskite the primary constraint.
-   C. light-induced separation of halides into iodide-rich and bromide-rich domains in mixed compositions. This would occur only when degradation dominates.
-   D. light-induced separation of halides into iodide-rich and bromide-rich domains in mixed compositions.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces perovskite promise, explains major degradation mechanisms, then surveys engineering strategies and real-world durability constraints before concluding with the promise–stability trade-off.
-   B. It introduces perovskite promise, explains major degradation mechanisms, then surveys engineering strategies and real-world durability constraints before concluding with the promise–stability trade-off. This would occur only when defense dominates.
-   C. It introduces perovskite promise, explains major degradation mechanisms, then surveys engineering strategies and real-world durability constraints before concluding with the promise–stability trade-off. This would require stability to be the limiting factor.
-   D. It introduces perovskite promise, explains major degradation mechanisms, then surveys engineering strategies and real-world durability constraints before concluding with the promise–stability composition. That would make ultraviolet the primary constraint.
-
-
-9. [Paraphrase] Which option best restates “stability is dynamic”?
-   A. Device performance can solely change over time as reactions, ion motion, and partial self-healing compete. This would occur only when chemistry dominates.
-   B. Device performance can change over time as perovskite, ion motion, and partial self-healing compete. This would occur only when chemistry dominates.
-   C. Device performance must change over time as reactions, ion motion, and partial self-healing compete. That would make current-voltage the primary constraint.
-   D. Device performance can change over time as reactions, ion motion, and partial self-healing compete.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that perovskite solar cells offer high efficiency and tunability but face degradation from moisture, heat-driven ion migration, and light-activated interface chemistry; it describes multi-layer engineering responses such as encapsulation, composition and interface design, and notes that short-term durability also depends on mechanical and testing considerations. This outcome would hold even if perovskite stays constant.
-   B. The passage explains that perovskite solar cells offer high efficiency and tunability but face degradation from moisture, heat-driven ion migration, and light-activated interface chemistry; it describes multi-layer engineering responses such as encapsulation, composition and interface design, and notes that long-term durability also depends on mechanical and testing considerations. This would require encapsulation to be the limiting factor.
-   C. The passage explains that perovskite solar cells offer high efficiency and tunability but face degradation from moisture, heat-driven ion migration, and light-activated interface chemistry; it describes multi-layer engineering responses such as encapsulation, composition and interface design, and notes that long-term durability also depends on mechanical and testing considerations.
-   D. The passage explains that perovskite solar cells offer high efficiency and tunability but face degradation from moisture, heat-driven ion migration, and light-activated interface chemistry; it describes multi-layer engineering responses such as encapsulation, additives and interface design, and notes that long-term durability also depends on mechanical and testing considerations. This would occur only when cells dominates.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of perovskite and films should be abandoned altogether.
+   B. to motivate clearer assumptions and stronger tests by showing why different readings of perovskite lead to different conclusions about perovskites.
+   C. to claim that one interpretation uniquely diagnoses films, so debate over perovskite is unnecessary noise, for the main claim of the text.
+   D. to show that the term perovskites belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
-1: D
-2: B
-3: A
-4: D
-5: A
-6: C
+1: B
+2: C
+3: B
+4: B
+5: B
+6: D
 7: D
 8: A
 9: D
-10: C
+10: B

@@ -59,86 +59,87 @@ habitats suffer from low oxygen.
 
 Questions
 ---------
-1. [Inference] What can be inferred from the passage about why stronger upwelling is not always better for fish recruitment?
-   A. Very strong winds can solely increase turbulence and transport larvae offshore, which may reduce feeding or survival. This would require along to be the limiting factor.
-   B. Very strong winds can increase turbulence and transport larvae offshore, which may reduce feeding or survival.
-   C. Very strong winds can increase turbulence and transport larvae offshore, which may reduce feeding or survival by tying the effect to organisms.
-   D. Very strong winds can decrease turbulence and transport larvae offshore, which may reduce feeding or survival. That would make conditions the primary constraint.
 
+1. [Vocabulary] In the passage, the word "amplify" in the sentence below is closest in meaning to:
+   Sentence: A second account emphasizes biological feedback: once one species becomes abundant, it can consume the plankton community in a way that disadvantages the other, and predation on eggs and larvae can amplify that dominance.
+   A. make larger or more intense, as used to describe how the claim holds across nutrients
+   B. close the question permanently, which would rule out further evaluation of nutrients
+   C. weaken substantially, even though the passage treats it as evidence-related
+   D. treat as irrelevant, despite references to water and winds, in the context of the passage.
 
-2. [Vocabulary] The word “inertia” in the passage is closest in meaning to:
-   A. a fishing technique in sense
-   B. a tendency to persist or resist change
-   C. a nutrient source in sense
-   D. a sudden collapse in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains upwelling by linking water to winds, and it shows why nutrients changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage concedes that water is often incomplete and concludes that upwelling cannot be studied in any meaningful way, since nutrients overwhelms comparisons. It recommends replacing tests of winds with intuition because evidence cannot discriminate among accounts.
+   C. The passage presents winds as a uniquely identifying mechanism and claims that once water is observed, competing explanations for upwelling collapse. It treats nutrients as minor noise and suggests that a single measurement is sufficient for a final conclusion, especially regarding larvae.
+   D. The passage surveys upwelling but treats the discussion mainly as a narrative about who proposed winds first, with water serving as anecdotal color. It therefore treats nutrients as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account would predict how upwelling should change if nutrients is altered, instead of assuming that water has a single meaning. This implies that models tied to winds must be tested across comparable cases rather than in one favorable setting.
+   B. A persuasive account can safely average away differences in nutrients, because variation there functions mainly as random measurement noise. On this view, a single strong instance of water is enough to validate winds for upwelling, especially regarding nutrients, within the passage’s scope.
+   C. The passage treats water primarily as a rhetorical flourish and suggests that debates over winds are largely stylistic, not empirical. As a result, predictions about upwelling are portrayed as optional rather than as a core requirement.
+   D. The passage implies that nutrients mattered mostly for early studies, whereas modern work makes water effectively self-interpreting. This would mean that tests of winds no longer need cross-case comparisons to explain upwelling, in the context of the passage.
 
-3. [Rhetorical Purpose] Why does the author contrast a “physical forcing” account with a “biological feedback” account?
-   A. To show that regime shifts can solely be driven by both environmental changes and population interactions, which make different predictions about timing. This outcome would hold even if anchovies stays constant.
-   B. To show that regime shifts can be driven by both environmental changes and population interactions, which make different predictions about timing.
-   C. To show that regime shifts can only be driven by both environmental changes and population interactions, which make different predictions about timing. This outcome would hold even if oceanography stays constant.
-   D. To show that regime shifts can be driven by both environmental changes and population interactions, which make different predictions about timing by tying the effect to organisms.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of nutrients as a factor influencing water, especially regarding upwelling.
+   B. discussion of upwelling as a factor influencing water
+   C. discussion of winds as a factor influencing water
+   D. discussion of contact-zone multilingualism as a factor influencing water
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Those periods are difficult to interpret if one assumes that winds alone dictate the outcome; they make more sense if one allows that a dominant population can modify prey fields and predation pressure, creating inertia in the system.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   B. Those periods are difficult to interpret if one assumes that winds alone dictate the outcome. It reverses the opposite claim while removing extra detail.
+   C. Those periods are difficult to interpret if one assumes that winds alone dictate the outcome. It keeps the main claim while removing extra detail.
+   D. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding plankton, in the context of the passage.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In that case, the abundance of one species becomes part of the environment experienced by the other.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once water fits one dataset, replication becomes redundant, and nutrients can be ignored without changing conclusions about upwelling.
+   B. Because the presence of winds guarantees the correct mechanism, so remaining differences in nutrients are merely stylistic noise.
+   C. Because water directly measures causes, confounding cannot occur, and cross-case checks add little to understanding upwelling.
+   D. Because comparability prevents winds from being treated as self-evident and forces tests that hold nutrients constant while examining water.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | water | Can vary across settings |
+   | Confounder | nutrients | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It proves winds is unique in every case, so generalization is automatic
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that upwelling should be read alongside nutrients, because water alone does not settle what winds means.
    A. [A]
-   B. [C]
-   C. [B]
+   B. [B]
+   C. [C]
    D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This process, coastal upwelling, occurs when winds push surface water away from shore and deeper water replaces it.
+   A. the preceding claim that upwelling functions as a direct measurement of winds
+   B. the preceding claim that nutrients alone explains the outcome of upwelling
+   C. the preceding claim that water is included only for rhetorical style, not analysis
+   D. the preceding claim about how water is interpreted in relation to winds
 
-5. [Negative Factual] All of the following are mentioned as reasons recruitment can fail EXCEPT:
-   A. late onset of nutrient-rich conditions during hatching.
-   B. the formation of basalt columns in the ocean floor.
-   C. mismatch between plankton timing and spawning in this discussion.
-   D. excess turbulence dispersing larvae in this discussion.
-
-
-6. [Factual] According to the passage, what initiates coastal upwelling?
-   A. Winds push surface water away from shore, allowing deeper water to rise and replace it by tying the effect to conditions.
-   B. Winds push surface water away from shore, allowing deeper water to rise and replace it. That would make cycles the primary constraint.
-   C. Winds push surface water away from shore, allowing deeper water to rise and replace it.
-   D. Winds push surface water away from shore, allowing deeper water to rise and replace it. This would require seabirds to be the limiting factor.
-
-
-7. [Reference] In the sentence “Those periods are difficult to interpret…,” the phrase “Those periods” refers to times when:
-   A. sardines remained abundant even after conditions returned that had favored anchovies before. This outcome would hold even if temperature stays constant.
-   B. sardines remained abundant even after conditions returned that had favored anchovies before.
-   C. sardines remained abundant even after conditions returned that had favored seabirds before. This would occur only when along dominates.
-   D. sardines remained abundant even after conditions returned that had favored anchovies before. This outcome would hold even if marine stays constant.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It introduces upwelling, explains why timing and intensity matter, compares two accounts for regime shifts, and then describes ecological and human consequences. That would make small the primary constraint.
-   B. It introduces upwelling, explains why timing and intensity matter, compares two accounts for regime shifts, and then describes ecological and human consequences.
-   C. It introduces upwelling, explains why timing and intensity matter, compares two accounts for regime shifts, and then describes ecological and human anchovies. This would occur only when along dominates.
-   D. It introduces upwelling, explains why timing and intensity matter, compares two accounts for regime shifts, and then describes ecological and human consequences. That would make along the primary constraint.
-
-
-9. [Paraphrase] Which option best restates the idea that nutrients help fish only when timing aligns with early life stages?
-   A. Productive conditions must coincide with hatching and larval survival; otherwise the added cycles arrive too late to prevent early losses. That would make anchovies the primary constraint.
-   B. Productive conditions must coincide with hatching and larval survival; otherwise the added nutrients arrive too late to prevent early losses. This would occur only when anchovies dominates.
-   C. Productive conditions must solely coincide with hatching and larval survival; otherwise the added nutrients arrive too late to prevent early losses. This would occur only when cycles dominates.
-   D. Productive conditions must coincide with hatching and larval survival; otherwise the added nutrients arrive too late to prevent early losses.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains that coastal upwelling brings nutrients but that fish abundance depends on wind timing and intensity; regime shifts between sardines and anchovies must reflect both physical conditions and biological feedbacks, with consequences for ecosystems and coastal communities. This would require consequences to be the limiting factor.
-   B. The passage explains that coastal upwelling brings nutrients but that fish abundance depends on wind timing and intensity; regime shifts between sardines and anchovies can reflect both physical conditions and biological feedbacks, with consequences for ecosystems and coastal communities.
-   C. The passage explains that coastal upwelling brings nutrients but that fish abundance depends on wind timing and intensity; regime shifts between sardines and anchovies can solely reflect both physical conditions and biological feedbacks, with consequences for ecosystems and coastal communities. This would occur only when marine dominates.
-   D. The passage explains that coastal upwelling brings cycles but that fish abundance depends on wind timing and intensity; regime shifts between sardines and anchovies can reflect both physical conditions and biological feedbacks, with consequences for ecosystems and coastal communities. This would occur only when organisms dominates.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses winds, so debate over water is unnecessary noise, especially regarding upwelling.
+   B. to show that the term upwelling belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding water.
+   C. to motivate clearer assumptions and stronger tests by showing why different readings of water lead to different conclusions about upwelling.
+   D. to argue that assumptions always distort evidence, so analysis of water and winds should be abandoned altogether.
 
 
 Answer Key
 ----------
-1: B
-2: B
-3: B
-4: A
-5: B
-6: C
-7: B
+1: A
+2: A
+3: A
+4: D
+5: C
+6: D
+7: C
 8: B
 9: D
-10: B
+10: C

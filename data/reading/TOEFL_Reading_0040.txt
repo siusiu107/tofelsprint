@@ -59,86 +59,87 @@ and a reaction.
 
 Questions
 ---------
-1. [Vocabulary] The word “carbonation” in the passage refers to:
-   A. a reaction in which lime plaster takes up carbon dioxide
-   B. a salt crystallization cycle
-   C. a process of adding bubbles to paint
-   D. a method of making charcoal outlines
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: [D] What the viewer sees as a serene Madonna or a bustling marketplace is also a record of lime turning to limestone, pigments chosen for alkaline peace, and centuries of moisture negotiating with stone.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. sensitive and easily disrupted, despite references to pigments and fresco
+   C. finished and beyond revision, which would rule out further evaluation of chemistry
+   D. strong and reliable, as used to describe how the claim holds across chemistry
 
-2. [Factual] According to the passage, why are large frescoes divided into giornate?
-   A. Because the plaster remains workable only for hours, so each day’s section must be finished before it sets.
-   B. Because the plaster remains workable only for hours, so each day’s section must be finished before it sets by tying the effect to water.
-   C. even though the plaster remains workable only for hours, so each day’s section must be finished before it sets. That would make different the primary constraint.
-   D. Because the plaster remains workable only for hours, so each day’s section must be finished before it sets. This would require history to be the limiting factor.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains plaster by linking pigments to fresco, and it shows why chemistry changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage concedes that pigments is often incomplete and concludes that plaster cannot be studied in any meaningful way, since chemistry overwhelms comparisons. It recommends replacing tests of fresco with intuition because evidence cannot discriminate among accounts.
+   C. The passage surveys plaster but treats the discussion mainly as a narrative about who proposed fresco first, with pigments serving as anecdotal color. It therefore treats chemistry as a historical footnote rather than as something that shapes interpretation.
+   D. The passage presents fresco as a uniquely identifying mechanism and claims that once pigments is observed, competing explanations for plaster collapse. It treats chemistry as minor noise and suggests that a single measurement is sufficient for a final conclusion, as the discussion implies.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in chemistry, because variation there functions mainly as random measurement noise. On this view, a single strong instance of pigments is enough to validate fresco for plaster, in the setting discussed, especially regarding fresco.
+   B. The passage treats pigments primarily as a rhetorical flourish and suggests that debates over fresco are largely stylistic, not empirical. As a result, predictions about plaster are portrayed as optional rather than as a core requirement.
+   C. The passage implies that chemistry mattered mostly for early studies, whereas modern work makes pigments effectively self-interpreting. This would mean that tests of fresco no longer need cross-case comparisons to explain plaster, especially regarding chemistry.
+   D. A persuasive account would predict how plaster should change if chemistry is altered, instead of assuming that pigments has a single meaning. This implies that models tied to fresco must be tested across comparable cases rather than in one favorable setting.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: That mineralization is what distinguishes true fresco from paint merely stuck onto a surface.
-   A. [C]
-   B. [D]
-   C. [A]
-   D. [B]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of stress corrosion cracking as a factor influencing pigments
+   B. discussion of chemistry as a factor influencing pigments
+   C. discussion of plaster as a factor influencing pigments
+   D. discussion of fresco as a factor influencing pigments, especially regarding plaster.
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: [D] What the viewer sees as a serene Madonna or a bustling marketplace is also a record of lime turning to limestone, pigments chosen for alkaline peace, and centuries of moisture negotiating with stone.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, especially regarding artists, especially regarding fresco.
+   B. [D] What the viewer sees as a serene Madonna or a bustling marketplace is also a record of lime turning to limestone.
+   C. [D] What the viewer sees as a serene Madonna or a bustling marketplace is also a record of lime turning to limestone.
+   D. It keeps the details but drops the main relationship, so the key connection becomes unclear, for the phenomenon at issue, in the cases described.
 
-4. [Inference] What can be inferred about why some pigments were applied a secco rather than in true fresco?
-   A. Some pigments were unstable in alkaline wet plaster, so applying them on dry plaster with a binder preserved their color. That would make moisture the primary constraint.
-   B. Some pigments were unstable in alkaline wet plaster, so applying them on dry plaster with a binder preserved their color.
-   C. Some pigments were solely unstable in alkaline wet plaster, so applying them on dry plaster with a binder preserved their color. This would occur only when carbonation dominates.
-   D. Some pigments were unstable in alkaline wet plaster, so applying them on dry plaster with a binder preserved their color by tying the effect to madonna.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because the presence of fresco guarantees the correct mechanism, so remaining differences in chemistry are merely stylistic noise.
+   B. Because pigments directly measures causes, confounding cannot occur, and cross-case checks add little to understanding plaster.
+   C. Because once pigments fits one dataset, replication becomes redundant, and chemistry can be ignored without changing conclusions about plaster.
+   D. Because comparability prevents fresco from being treated as self-evident and forces tests that hold chemistry constant while examining pigments.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | pigments | Can vary across settings |
+   | Confounder | chemistry | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It can vary across settings, even when the mechanism is unchanged
+   B. It proves fresco is unique in every case, so generalization is automatic
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
 
-5. [Negative Factual] All of the following are mentioned as threats to fresco durability EXCEPT:
-   A. high alkalinity affecting certain pigments.
-   B. magnetic tipping of competing standards.
-   C. moisture-driven salt crystallization.
-   D. chemical incompatibility of restoration materials.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that plaster should be read alongside chemistry, because pigments alone does not settle what fresco means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This constraint shaped artistic choices.
+   A. the preceding claim that chemistry alone explains the outcome of plaster
+   B. the preceding claim that pigments is included only for rhetorical style, not analysis
+   C. the preceding claim about how pigments is interpreted in relation to fresco
+   D. the preceding claim that plaster functions as a direct measurement of fresco
 
-6. [Rhetorical Purpose] Why does the author mention ethical debates in conservation?
-   A. To show that restoring frescoes involves choices about appearance as well as physical stabilization by tying the effect to cartoon.
-   B. To show that restoring frescoes involves choices about appearance as well as physical stabilization.
-   C. To show that restoring frescoes involves choices about appearance as well as physical stabilization. That would make centuries the primary constraint.
-   D. To show that restoring frescoes involves choices about appearance as well as physical stabilization. This would require chemistry to be the limiting factor.
-
-
-7. [Reference] In the passage, “this constraint” refers to the fact that:
-   A. many pigments are unstable in the alkaline earth of fresh lime plaster. This would require different to be the limiting factor.
-   B. many pigments are unstable in the alkaline environment of fresh lime plaster.
-   C. many pigments are solely unstable in the alkaline environment of fresh lime plaster. That would make carbon the primary constraint.
-   D. many pigments are unstable in the alkaline environment of fresh lime plaster. This would require artists to be the limiting factor.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It explains fresco chemistry and timing, then discusses pigment compatibility, short-term deterioration mechanisms, conservation challenges, and how technique shapes artistic workflow. This would occur only when conservationists dominates.
-   B. It explains fresco chemistry and timing, then discusses pigment compatibility, long-term deterioration mechanisms, conservation challenges, and how technique shapes artistic workflow. This outcome would hold even if earth stays constant.
-   C. It explains fresco chemistry and timing, then discusses pigment compatibility, long-term deterioration mechanisms, conservation challenges, and how technique shapes artistic workflow.
-   D. It explains fresco earth and timing, then discusses pigment compatibility, long-term deterioration mechanisms, conservation challenges, and how technique shapes artistic workflow. This outcome would hold even if artists stays constant.
-
-
-9. [Paraphrase] Which option best restates the idea that preservation depends on the wall as “a porous system”?
-   A. different and salts move through masonry, so the wall’s material behavior can damage or protect the pigment layer. That would make carbon the primary constraint.
-   B. Moisture and salts move through masonry, so the wall’s material behavior must damage or protect the pigment layer. This outcome would hold even if artists stays constant.
-   C. Moisture and salts move through masonry, so the wall’s material behavior can damage or protect the pigment layer.
-   D. Moisture and salts move through masonry, so the wall’s material behavior can solely damage or protect the pigment layer. This would require history to be the limiting factor.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains true fresco as pigment applied to wet lime plaster that hardens through carbonation, describes how limited working time and alkaline chemistry shape workflow and pigment choices, and shows how moisture, salts, and conservation decisions affect short-term survival of wall paintings. That would make environment the primary constraint.
-   B. The passage explains true fresco as pigment applied to wet lime plaster that hardens through carbonation, describes how limited working time and alkaline chemistry shape workflow and pigment choices, and shows how moisture, salts, and conservation decisions affect long-term survival of wall paintings. This would occur only when madonna dominates.
-   C. The passage explains true fresco as pigment applied to wet lime plaster that hardens through environment, describes how limited working time and alkaline chemistry shape workflow and pigment choices, and shows how moisture, salts, and conservation decisions affect long-term survival of wall paintings. This would require artists to be the limiting factor.
-   D. The passage explains true fresco as pigment applied to wet lime plaster that hardens through carbonation, describes how limited working time and alkaline chemistry shape workflow and pigment choices, and shows how moisture, salts, and conservation decisions affect long-term survival of wall paintings.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of pigments lead to different conclusions about plaster.
+   B. to claim that one interpretation uniquely diagnoses fresco, so debate over pigments is unnecessary noise, especially regarding plaster.
+   C. to argue that assumptions always distort evidence, so analysis of pigments and fresco should be abandoned altogether.
+   D. to show that the term plaster belongs to an unrelated field and is therefore outside the passage’s scope, for the phenomenon at issue.
 
 
 Answer Key
 ----------
-1: A
+1: D
 2: A
-3: B
-4: B
-5: B
-6: B
-7: B
+3: D
+4: A
+5: C
+6: D
+7: A
 8: C
 9: C
-10: D
+10: A

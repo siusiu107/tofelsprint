@@ -57,86 +57,87 @@ catastrophes.
 
 Questions
 ---------
-1. [Vocabulary] The word “asperities” in the passage is closest in meaning to:
-   A. large tsunami waves in sense
-   B. chemical impurities in seawater
-   C. ocean-bottom pressure sensors in sense
-   D. rough, sticking points on a fault surface
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: To a coastal community, the relevant question is not merely whether an earthquake will happen, but how the interface fails: does it rupture quickly and send a tsunami, or does it slip in ways that release strain quietly?
+   A. sensitive and easily disrupted, despite references to stress and rupture
+   B. strong and reliable, as used to describe how the claim holds across locked
+   C. finished and beyond revision, which would rule out further evaluation of locked
+   D. durable in a purely physical sense, even though the passage treats it as evidence-related
 
-2. [Factual] According to the passage, what observation led scientists to infer the existence of slow slip events?
-   A. GPS records showed coherent, weeks-long deformation episodes inconsistent with ordinary earthquakes. That would make subduction the primary constraint.
-   B. GPS records showed coherent, weeks-long deformation episodes inconsistent with ordinary earthquakes. That would make low-amplitude the primary constraint.
-   C. GPS records showed coherent, weeks-long deformation episodes inconsistent with ordinary earthquakes.
-   D. GPS records showed coherent, weeks-long deformation episodes inconsistent with ordinary earthquakes by tying the effect to whether.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains interface by linking stress to rupture, and it shows why locked changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage presents rupture as a uniquely identifying mechanism and claims that once stress is observed, competing explanations for interface collapse. It treats locked as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   C. The passage concedes that stress is often incomplete and concludes that interface cannot be studied in any meaningful way, since locked overwhelms comparisons. It recommends replacing tests of rupture with intuition because evidence cannot discriminate among accounts, especially regarding rupture.
+   D. The passage surveys interface but treats the discussion mainly as a narrative about who proposed rupture first, with stress serving as anecdotal color. It therefore treats locked as a historical footnote rather than as something that shapes interpretation.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that locked mattered mostly for early studies, whereas modern work makes stress effectively self-interpreting. This would mean that tests of rupture no longer need cross-case comparisons to explain interface, especially regarding locked, for the main claim of the text.
+   B. A persuasive account would predict how interface should change if locked is altered, instead of assuming that stress has a single meaning. This implies that models tied to rupture must be tested across comparable cases rather than in one favorable setting.
+   C. A persuasive account can safely average away differences in locked, because variation there functions mainly as random measurement noise. On this view, a single strong instance of stress is enough to validate rupture for interface.
+   D. The passage treats stress primarily as a rhetorical flourish and suggests that debates over rupture are largely stylistic, not empirical. As a result, predictions about interface are portrayed as optional rather than as a core requirement.
 
-3. [Inference] What can be inferred about why fluids on a fault interface can promote sliding?
-   A. High pore pressure reduces effective normal stress, making frictional resistance lower.
-   B. High pore pressure reduces effective normal stress, making frictional resistance lower by tying the effect to whether.
-   C. High pore pressure reduces effective normal stress, making frictional resistance higher. This would occur only when faults dominates.
-   D. High pore pressure reduces effective normal stress, making frictional resistance lower. This would require patchwork to be the limiting factor.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of rupture as a factor influencing stress
+   B. discussion of locked as a factor influencing stress, especially regarding motion.
+   C. discussion of interface as a factor influencing stress
+   D. discussion of epigenetic imprinting as a factor influencing stress
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: To a coastal community, the relevant question is not merely whether an earthquake will happen, but how the interface fails: does it rupture quickly and send a tsunami, or does it slip in ways that release strain quietly?
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear.
+   B. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   C. To a coastal community. It reverses the opposite claim while removing extra detail.
+   D. To a coastal community. It keeps the main claim while removing extra detail.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In other words, a deformation pulse could indicate motion on the fault even when shaking was minimal.
-   A. [C]
-   B. [A]
-   C. [D]
-   D. [B]
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once stress fits one dataset, replication becomes redundant, and locked can be ignored without changing conclusions about interface.
+   B. Because stress directly measures causes, confounding cannot occur, and cross-case checks add little to understanding interface.
+   C. Because the presence of rupture guarantees the correct mechanism, so remaining differences in locked are merely stylistic noise.
+   D. Because comparability prevents rupture from being treated as self-evident and forces tests that hold locked constant while examining stress.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | stress | Can vary across settings |
+   | Confounder | locked | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves rupture is unique in every case, so generalization is automatic
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
 
-5. [Rhetorical Purpose] Why does the author compare tremor and slow slip to “a carpet being pulled”?
-   A. To illustrate how mostly continuous motion can include small, intermittent jerks at localized snags by tying the effect to along.
-   B. To illustrate how mostly continuous motion must include small, intermittent jerks at localized snags. This outcome would hold even if ocean-bottom stays constant.
-   C. To illustrate how mostly continuous motion can include small, intermittent jerks at localized snags.
-   D. To illustrate how mostly continuous motion can solely include small, intermittent jerks at localized snags. This would require geology to be the limiting factor.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that interface should be read alongside locked, because stress alone does not settle what rupture means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: These transient signals did not resemble a large earthquake, yet they were too coherent to be noise.
+   A. the preceding claim that interface functions as a direct measurement of rupture
+   B. the preceding claim that locked alone explains the outcome of interface
+   C. the preceding claim about how stress is interpreted in relation to rupture
+   D. the preceding claim that stress is included only for rhetorical style, not analysis
 
-6. [Negative Factual] All of the following are mentioned as factors affecting fault behavior EXCEPT:
-   A. seasonal changes in Earth’s axial tilt controlling convergence rates.
-   B. fluid pressure in this discussion.
-   C. mineral composition in this discussion.
-   D. temperature in this discussion.
-
-
-7. [Organization] How is the passage primarily organized?
-   A. It introduces megathrust hazard, describes GPS evidence for slow slip, explains physical controls and tremor, then discusses hazard implications and monitoring.
-   B. It introduces megathrust hazard, describes GPS evidence for slow slip, explains physical controls and tremor, then discusses hazard implications and monitoring. This would occur only when tremor dominates.
-   C. It introduces megathrust hazard, describes GPS evidence for slow slip, explains physical controls and faults, then discusses hazard implications and monitoring. This would require where to be the limiting factor.
-   D. It introduces megathrust hazard, describes GPS evidence for slow slip, explains physical controls and tremor, then discusses hazard implications and monitoring. That would make tremor the primary constraint.
-
-
-8. [Reference] In the passage, “these transient signals” refers to:
-   A. the weeks-long GPS deformation patterns interpreted as slow slip. This would occur only when seismometers dominates.
-   B. the weeks-long GPS deformation patterns interpreted as slow slip. This outcome would hold even if either stays constant.
-   C. the weeks-long GPS deformation patterns interpreted as slow slip.
-   D. the weeks-long GPS deformation patterns interpreted as slow slip by tying the effect to either.
-
-
-9. [Paraphrase] Which option best restates the idea that the interface “hosts multiple modes of motion”?
-   A. Different parts of the same fault can solely alternate between locked rupture, slow creep, and tremor-like microfailures depending on local conditions. This outcome would hold even if geology stays constant.
-   B. Different parts of the same fault must alternate between locked rupture, slow creep, and tremor-like microfailures depending on local conditions. That would make conditions the primary constraint.
-   C. Different parts of the same fault can alternate between locked rupture, slow creep, and tremor-like microfailures depending on local conditions.
-   D. Different parts of the same fault can alternate between locked rupture, slow creep, and tremor-like microfailures depending on local interface. This would occur only when along dominates.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains how GPS and seismic observations revealed slow slip and tremor as additional fault behaviors, describes how fluids and temperature influence whether sliding is stable or abrupt, and argues that understanding the patchwork of fault modes is crucial for assessing megathrust hazard.
-   B. The passage explains how GPS and seismic observations revealed slow slip and tremor as additional fault behaviors, describes how fluids and temperature influence whether sliding is stable or abrupt, and argues that understanding the patchwork of fault modes is crucial for assessing megathrust hazard. This would require sea-level to be the limiting factor.
-   C. The passage explains how GPS and seismic observations revealed slow slip and tremor as additional fault behaviors, describes how fluids and temperature influence whether sliding is solely stable or abrupt, and argues that understanding the patchwork of fault modes is crucial for assessing megathrust hazard. This outcome would hold even if faults stays constant.
-   D. The passage explains how GPS and seismic observations revealed slow slip and along as additional fault behaviors, describes how fluids and temperature influence whether sliding is stable or abrupt, and argues that understanding the patchwork of fault modes is crucial for assessing megathrust hazard. That would make megathrust the primary constraint.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of stress lead to different conclusions about interface.
+   B. to show that the term interface belongs to an unrelated field and is therefore outside the passage’s scope.
+   C. to claim that one interpretation uniquely diagnoses rupture, so debate over stress is unnecessary noise, especially regarding interface, especially regarding rupture.
+   D. to argue that assumptions always distort evidence, so analysis of stress and rupture should be abandoned altogether.
 
 
 Answer Key
 ----------
-1: D
-2: C
-3: A
-4: B
-5: C
-6: A
-7: A
-8: C
+1: B
+2: A
+3: B
+4: D
+5: D
+6: D
+7: B
+8: A
 9: C
 10: A

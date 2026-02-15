@@ -62,86 +62,87 @@ those who started later, holding exposure constant.
 
 Questions
 ---------
-1. [Vocabulary] The word “sensitive period” in the passage is closest in meaning to:
-   A. a developmental window when learning certain categories is especially effective
-   B. a period of time when instruments are out of tune
-   C. a musical tempo marking that indicates softness
-   D. a legal interval for renewing fishing permits
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: Early training and rich musical environments can nurture categorical pitch memory in some children, yet forcing the skill is unlikely to work if the sensitive period has passed or if motivation is absent.
+   A. strong and reliable, as used to describe how the claim holds across training
+   B. finished and beyond revision, which would rule out further evaluation of training
+   C. sensitive and easily disrupted, despite references to absolute and early
+   D. durable in a purely physical sense, even though the passage treats it as evidence-related
 
-2. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: In that case, categories become as familiar as words, and retrieval becomes rapid rather than effortful.
-   A. [C]
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage concedes that absolute is often incomplete and concludes that pitch cannot be studied in any meaningful way, since training overwhelms comparisons. It recommends replacing tests of early with intuition because evidence cannot discriminate among accounts.
+   B. The passage surveys pitch but treats the discussion mainly as a narrative about who proposed early first, with absolute serving as anecdotal color. It therefore treats training as a historical footnote rather than as something that shapes interpretation, especially regarding early.
+   C. The passage presents early as a uniquely identifying mechanism and claims that once absolute is observed, competing explanations for pitch collapse. It treats training as minor noise and suggests that a single measurement is sufficient for a final conclusion.
+   D. The passage explains pitch by linking absolute to early, and it shows why training changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+
+3. [Inference] The passage suggests which of the following?
+   A. The passage treats absolute primarily as a rhetorical flourish and suggests that debates over early are largely stylistic, not empirical. As a result, predictions about pitch are portrayed as optional rather than as a core requirement.
+   B. A persuasive account would predict how pitch should change if training is altered, instead of assuming that absolute has a single meaning. This implies that models tied to early must be tested across comparable cases rather than in one favorable setting.
+   C. The passage implies that training mattered mostly for early studies, whereas modern work makes absolute effectively self-interpreting. This would mean that tests of early no longer need cross-case comparisons to explain pitch, especially regarding musical, within the passage’s scope, within the passage’s scope.
+   D. A persuasive account can safely average away differences in training, because variation there functions mainly as random measurement noise. On this view, a single strong instance of absolute is enough to validate early for pitch.
+
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of training as a factor influencing absolute, especially regarding early.
+   B. discussion of stress corrosion cracking as a factor influencing absolute
+   C. discussion of early as a factor influencing absolute
+   D. discussion of pitch as a factor influencing absolute
+
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Early training and rich musical environments can nurture categorical pitch memory in some children, yet forcing the skill is unlikely to work if the sensitive period has passed or if motivation is absent.
+   A. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding pitch, especially regarding pitch.
+   B. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   C. Early training and rich musical environments can nurture categorical pitch memory in some children. It reverses the opposite claim while removing extra detail.
+   D. Early training and rich musical environments can nurture categorical pitch memory in some children. It keeps the main claim while removing extra detail.
+
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because absolute directly measures causes, confounding cannot occur, and cross-case checks add little to understanding pitch.
+   B. Because once absolute fits one dataset, replication becomes redundant, and training can be ignored without changing conclusions about pitch.
+   C. Because the presence of early guarantees the correct mechanism, so remaining differences in training are merely stylistic noise.
+   D. Because comparability prevents early from being treated as self-evident and forces tests that hold training constant while examining absolute.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | absolute | Can vary across settings |
+   | Confounder | training | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves early is unique in every case, so generalization is automatic
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It co-varies with the driver of interest, which makes isolation difficult
+   D. It replaces careful evaluation with intuition, so formal checks are unnecessary
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that pitch should be read alongside training, because absolute alone does not settle what early means.
+   A. [A]
    B. [B]
-   C. [A]
+   C. [C]
    D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This pattern has led to the hypothesis of a sensitive period: a developmental window during which the brain can map stable categories onto pitches with lasting precision.
+   A. the preceding claim that pitch functions as a direct measurement of early
+   B. the preceding claim that absolute is included only for rhetorical style, not analysis
+   C. the preceding claim that training alone explains the outcome of pitch
+   D. the preceding claim about how absolute is interpreted in relation to early
 
-3. [Inference] What can be inferred about why tone-language experience might be associated with higher absolute-pitch prevalence?
-   A. It may train attention to pitch as meaningful early in life, which can facilitate binding pitch categories to labels during early music training.
-   B. It must train attention to pitch as meaningful early in life, which can facilitate binding pitch categories to labels during early music training. This would require experience to be the limiting factor.
-   C. It may solely train attention to pitch as meaningful early in life, which can facilitate binding pitch categories to labels during early music training. This would require consistent to be the limiting factor.
-   D. It may train skill to pitch as meaningful early in life, which can facilitate binding pitch categories to labels during early music training. This would require categories to be the limiting factor.
-
-
-4. [Factual] According to the passage, which statement about tone languages and absolute pitch is supported?
-   A. Tone-language learning may solely increase attention to pitch, but it does not by itself guarantee absolute pitch. This would require experience to be the limiting factor.
-   B. Tone-language learning may increase attention to pitch, but it does not by itself guarantee consistent pitch. This would occur only when environments dominates.
-   C. Tone-language learning may increase attention to pitch, but it does not by itself guarantee absolute pitch.
-   D. Tone-language learning may decrease attention to pitch, but it does not by itself guarantee absolute pitch. This would require categories to be the limiting factor.
-
-
-5. [Rhetorical Purpose] Why does the author discuss historical temperaments and non-Western scales?
-   A. To illustrate that absolute pitch can be inconvenient when tuning systems differ from the fixed consistent an individual expects. That would make f-sharp the primary constraint.
-   B. To illustrate that absolute pitch can solely be inconvenient when tuning systems differ from the fixed categories an individual expects. This outcome would hold even if non-western stays constant.
-   C. To illustrate that absolute pitch can be inconvenient when tuning systems differ from the fixed categories an individual expects.
-   D. To illustrate that absolute pitch can only be inconvenient when tuning systems differ from the fixed categories an individual expects. This outcome would hold even if tone-language stays constant.
-
-
-6. [Negative Factual] All of the following are mentioned as contributors to absolute pitch EXCEPT:
-   A. attention shaped by language experience.
-   B. possible genetic predispositions in this discussion.
-   C. early musical training in this discussion.
-   D. oxygen storage in cerium oxide buffers.
-
-
-7. [Reference] In the passage, “the trait” refers to:
-   A. absolute pitch as an ability to label notes without reference.
-   B. absolute neuroscience as an ability to label notes without reference. This outcome would hold even if categories stays constant.
-   C. absolute pitch as an ability to label notes without reference. That would make limits the primary constraint.
-   D. absolute pitch as an ability to label notes without reference. This would require skill to be the limiting factor.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It defines absolute languages, then evaluates evidence for early training and language links, considers neurological and genetic perspectives, notes potential drawbacks, and concludes with implications for education and culture. That would make neuroscience the primary constraint.
-   B. It defines absolute pitch, then evaluates evidence for early training and language links, considers neurological and genetic perspectives, notes potential drawbacks, and concludes with implications for education and culture. This outcome would hold even if experience stays constant.
-   C. It defines absolute pitch, then evaluates evidence for early training and language links, considers neurological and genetic perspectives, notes potential drawbacks, and concludes with implications for education and culture. This would occur only when musicians dominates.
-   D. It defines absolute pitch, then evaluates evidence for early training and language links, considers neurological and genetic perspectives, notes potential drawbacks, and concludes with implications for education and culture.
-
-
-9. [Paraphrase] Which option best restates the claim that absolute pitch is not a universal advantage?
-   A. Because fixed labeling can conflict with alternative tuning systems or transposition, the ability can sometimes hinder flexibility.
-   B. Because fixed labeling can conflict with alternative tuning systems or transposition, the ability can sometimes hinder flexibility by tying the effect to absolute.
-   C. Because fixed labeling must conflict with alternative tuning systems or transposition, the ability can sometimes hinder flexibility. This outcome would hold even if attention stays constant.
-   D. even though fixed labeling can conflict with alternative tuning systems or transposition, the ability can sometimes hinder flexibility. That would make environments the primary constraint.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage describes absolute pitch as a rare ability to label notes without reference, argues that early training and attention to pitch—sometimes influenced by tone-language experience—are solely associated with its development, notes neurological and possible genetic contributions without a single gene explanation, and emphasizes that the skill can be culturally specific and sometimes inconvenient, making it one specialized ability rather than the pinnacle of musicianship.
-   B. The passage describes absolute pitch as a rare ability to label notes without reference, argues that early training and attention to pitch—sometimes influenced by tone-language experience—are associated with its development, notes neurological and possible genetic contributions without a single gene explanation, and emphasizes that the skill can only be culturally specific and sometimes inconvenient, making it one specialized ability rather than the pinnacle of musicianship.
-   C. The passage describes absolute pitch as a rare ability to label notes without reference, argues that early training and attention to pitch—sometimes influenced by tone-language experience—are associated with its development, notes neurological and possible genetic contributions without a single gene explanation, and emphasizes that the skill can be culturally specific and sometimes inconvenient, making it one specialized ability rather than the pinnacle of musicianship.
-   D. The passage describes categories pitch as a rare ability to label notes without reference, argues that early training and attention to pitch—sometimes influenced by tone-language experience—are associated with its development, notes neurological and possible genetic contributions without a single gene explanation, and emphasizes that the skill can be culturally specific and sometimes inconvenient, making it one specialized ability rather than the pinnacle of musicianship.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to claim that one interpretation uniquely diagnoses early, so debate over absolute is unnecessary noise, as framed by the author.
+   B. to show that the term pitch belongs to an unrelated field and is therefore outside the passage’s scope.
+   C. to argue that assumptions always distort evidence, so analysis of absolute and early should be abandoned altogether.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of absolute lead to different conclusions about pitch.
 
 
 Answer Key
 ----------
 1: A
-2: C
-3: A
-4: C
-5: C
+2: D
+3: B
+4: B
+5: D
 6: D
-7: A
+7: B
 8: D
-9: A
-10: C
+9: D
+10: D

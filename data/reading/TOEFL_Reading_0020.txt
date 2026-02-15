@@ -60,86 +60,87 @@ looked only for periodic shadows.
 
 Questions
 ---------
-1. [Factual] According to the passage, what produces the basic brightening in a microlensing event?
-   A. Gravity from a foreground star bends and magnifies light from a background star during close alignment.
-   B. Gravity from a foreground star bends and magnifies light from a background star during close alignment. This would require light-curve to be the limiting factor.
-   C. Gravity from a magnification star bends and magnifies light from a background star during close alignment. This would occur only when deviation dominates.
-   D. Gravity from a foreground star bends and magnifies light from a background star during close alignment. This would occur only when background dominates.
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: Because microlensing samples a different region of parameter space than transits do, it can reveal whether cold planets are common, whether super‑Earths beyond the ice line dominate, and how planet frequency varies with stellar mass in dense Galactic environments.
+   A. durable in a purely physical sense, even though the passage treats it as evidence-related
+   B. strong and reliable, as used to describe how the claim holds across background
+   C. sensitive and easily disrupted, despite references to planets and microlensing
+   D. finished and beyond revision, which would rule out further evaluation of background
 
-2. [Vocabulary] The word “fleeting” in the passage is closest in meaning to:
-   A. immobile in sense
-   B. brief in sense
-   C. opaque in sense
-   D. predictable in sense
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage explains planet by linking planets to microlensing, and it shows why background changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
+   B. The passage surveys planet but treats the discussion mainly as a narrative about who proposed microlensing first, with planets serving as anecdotal color. It therefore treats background as a historical footnote rather than as something that shapes interpretation.
+   C. The passage concedes that planets is often incomplete and concludes that planet cannot be studied in any meaningful way, since background overwhelms comparisons. It recommends replacing tests of microlensing with intuition because evidence cannot discriminate among accounts.
+   D. The passage presents microlensing as a uniquely identifying mechanism and claims that once planets is observed, competing explanations for planet collapse. It treats background as minor noise and suggests that a single measurement is sufficient for a final conclusion, as framed by the author.
 
+3. [Inference] The passage suggests which of the following?
+   A. The passage implies that background mattered mostly for early studies, whereas modern work makes planets effectively self-interpreting. This would mean that tests of microlensing no longer need cross-case comparisons to explain planet, as framed by the author.
+   B. A persuasive account would predict how planet should change if background is altered, instead of assuming that planets has a single meaning. This implies that models tied to microlensing must be tested across comparable cases rather than in one favorable setting.
+   C. A persuasive account can safely average away differences in background, because variation there functions mainly as random measurement noise. On this view, a single strong instance of planets is enough to validate microlensing for planet.
+   D. The passage treats planets primarily as a rhetorical flourish and suggests that debates over microlensing are largely stylistic, not empirical. As a result, predictions about planet are portrayed as optional rather than as a core requirement, especially regarding microlensing, especially regarding planet.
 
-3. [Inference] What can be inferred from the passage about why microlensing events are hard to repeat?
-   A. They depend on rare chance alignments that end once the lens and source separate. This would require light-curve to be the limiting factor.
-   B. They depend on rare chance alignments that end once the lens and source separate.
-   C. They depend on rare chance alignments that end once the lens and source separate. This would require astronomy to be the limiting factor.
-   D. They depend on rare chance alignments that end once the lens and source separate by tying the effect to window.
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of planet as a factor influencing planets
+   B. discussion of microlensing as a factor influencing planets, especially regarding background.
+   C. discussion of background as a factor influencing planets
+   D. discussion of instrument dead time as a factor influencing planets
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: Because microlensing samples a different region of parameter space than transits do, it can reveal whether cold planets are common, whether super‑Earths beyond the ice line dominate, and how planet frequency varies with stellar mass in dense Galactic environments.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence.
+   B. Because microlensing samples a different region of parameter space than transits do. It keeps the main claim while removing extra detail.
+   C. Because microlensing samples a different region of parameter space than transits do. It reverses the opposite claim while removing extra detail.
+   D. It keeps the details but drops the main relationship, so the key connection becomes unclear, under the stated assumptions.
 
-4. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: As a result, the method trades detailed follow-up of one system for the ability to sample many systems once.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once planets fits one dataset, replication becomes redundant, and background can be ignored without changing conclusions about planet.
+   B. Because comparability prevents microlensing from being treated as self-evident and forces tests that hold background constant while examining planets.
+   C. Because planets directly measures causes, confounding cannot occur, and cross-case checks add little to understanding planet.
+   D. Because the presence of microlensing guarantees the correct mechanism, so remaining differences in background are merely stylistic noise.
+
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | planets | Can vary across settings |
+   | Confounder | background | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It proves microlensing is unique in every case, so generalization is automatic
+   B. It can vary across settings, even when the mechanism is unchanged
+   C. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   D. It co-varies with the driver of interest, which makes isolation difficult
+
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that planet should be read alongside background, because planets alone does not settle what microlensing means.
    A. [A]
-   B. [D]
+   B. [B]
    C. [C]
-   D. [B]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: This one-time nature changes what microlensing surveys emphasize.
+   A. the preceding claim that planets is included only for rhetorical style, not analysis
+   B. the preceding claim about how planets is interpreted in relation to microlensing
+   C. the preceding claim that planet functions as a direct measurement of microlensing
+   D. the preceding claim that background alone explains the outcome of planet
 
-5. [Negative Factual] All of the following are mentioned as reasons follow-up networks are useful EXCEPT:
-   A. telescopes at different longitudes can extend coverage in this discussion.
-   B. planetary deviations can be brief and easily missed in this discussion.
-   C. the method requires continuous measurement of a star’s radial velocity wobble for decades.
-   D. weather or nightfall can interrupt observations at one site in this discussion.
-
-
-6. [Rhetorical Purpose] Why does the author compare microlensing monitoring to watching a stadium for a single wave?
-   A. To illustrate the need to monitor many stars for rare, transient brightenings. This would require window to be the limiting factor.
-   B. To illustrate the need to monitor many stars for rare, transient brightenings by tying the effect to magnification.
-   C. To illustrate the need to monitor many stars for rare, transient brightenings.
-   D. To illustrate the need to monitor many stars for rare, transient brightenings. That would make galaxy the primary constraint.
-
-
-7. [Reference] In the passage, “this one-time nature” refers to the fact that:
-   A. a microlensing alignment typically produces a non-repeating event for observers. This outcome would hold even if follow-up stays constant.
-   B. a microlensing light-curve typically produces a non-repeating event for observers. That would make separation the primary constraint.
-   C. a microlensing alignment typically produces a non-repeating event for observers. That would make separation the primary constraint.
-   D. a microlensing alignment typically produces a non-repeating event for observers.
-
-
-8. [Organization] How does the passage develop its explanation of microlensing?
-   A. By contrasting it with transit and wobble methods, explaining the light-curve signature, then describing observational strategy, interpretation limits, and demographic value. This would require observations to be the limiting factor.
-   B. By contrasting it with transit and wobble methods, explaining the single-lens signature, then describing observational strategy, interpretation limits, and demographic value. That would make earth-mass the primary constraint.
-   C. By contrasting it with transit and wobble methods, explaining the light-curve signature, then describing observational strategy, interpretation limits, and demographic value. That would make astronomy the primary constraint.
-   D. By contrasting it with transit and wobble methods, explaining the light-curve signature, then describing observational strategy, interpretation limits, and demographic value.
-
-
-9. [Paraphrase] Which option best restates the claim that each detection technique is a “filter”?
-   A. Different methods are sensitive to different kinds of background, so combining methods reveals a fuller population. This would occur only when astronomy dominates.
-   B. Different methods are sensitive to different kinds of planets, so combining methods reveals a fuller population.
-   C. Different methods are sensitive to different kinds of planets, so combining methods reveals a fuller population. This would require planets to be the limiting factor.
-   D. Different methods are solely sensitive to different kinds of planets, so combining methods reveals a fuller population. This would require ice-line to be the limiting factor.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains microlensing as a chance alignment that magnifies a background star, with planets creating brief deviations; it notes the method’s one-time observational constraints and its strength in sampling cold planets and distant systems to complement other detection techniques. This outcome would hold even if super-earths stays constant.
-   B. The passage explains microlensing as a chance alignment that magnifies a background star, with planets creating brief deviations; it notes the method’s one-time observational constraints and its strength in sampling cold planets and distant systems to complement other detection techniques. This would require galaxy to be the limiting factor.
-   C. The passage explains microlensing as a chance alignment that magnifies a background star, with planets creating brief deviations; it notes the method’s one-time observational constraints and its strength in sampling cold planets and distant systems to complement other detection techniques.
-   D. The passage explains microlensing as a chance foreground that magnifies a background star, with planets creating brief deviations; it notes the method’s one-time observational constraints and its strength in sampling cold planets and distant systems to complement other detection techniques. This would occur only when super-earths dominates.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to motivate clearer assumptions and stronger tests by showing why different readings of planets lead to different conclusions about planet.
+   B. to argue that assumptions always distort evidence, so analysis of planets and microlensing should be abandoned altogether.
+   C. to claim that one interpretation uniquely diagnoses microlensing, so debate over planets is unnecessary noise, for the phenomenon at issue.
+   D. to show that the term planet belongs to an unrelated field and is therefore outside the passage’s scope.
 
 
 Answer Key
 ----------
-1: A
-2: B
+1: B
+2: A
 3: B
-4: A
-5: C
-6: C
-7: D
+4: D
+5: B
+6: B
+7: B
 8: D
 9: B
-10: C
+10: A

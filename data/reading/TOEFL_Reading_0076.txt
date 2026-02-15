@@ -69,86 +69,87 @@ engineering was as urban as masonry itself.
 
 Questions
 ---------
-1. [Vocabulary] In the passage, the word “punctuated” is closest in meaning to:
-   A. made wetter by rainfall
-   B. interrupted at intervals by that factor.
-   C. carefully measured with instruments
-   D. permanently erased from in sense
 
+1. [Vocabulary] In the passage, the word "robust" in the sentence below is closest in meaning to:
+   Sentence: It reminds researchers that “nothing there” can mean “nothing visible” rather than “nothing built.” When the canopy hides walls, it is easy to mistake concealment for nonexistence.
+   A. strong and reliable, as used to describe how the claim holds across revealed
+   B. sensitive and easily disrupted, despite references to water and platforms
+   C. durable in a purely physical sense, even though the passage treats it as evidence-related
+   D. finished and beyond revision, which would rule out further evaluation of revealed
 
-2. [Factual] According to the passage, what does LiDAR primarily measure to create a “bare earth” model?
-   A. the distance from an aircraft to reflecting surfaces using laser pulses. This would require collapse to be the limiting factor.
-   B. the distance from an aircraft to reflecting surfaces using laser pulses.
-   C. the distance from an aircraft to reflecting surfaces using laser pulses. This outcome would hold even if questions stays constant.
-   D. the distance from an aircraft to reflecting surfaces using laser pulses by tying the effect to platforms.
+2. [Prose Summary] Which of the following options best summarizes the passage? (Choose ONE.)
+   A. The passage surveys reservoirs but treats the discussion mainly as a narrative about who proposed platforms first, with water serving as anecdotal color. It therefore treats revealed as a historical footnote rather than as something that shapes interpretation.
+   B. The passage concedes that water is often incomplete and concludes that reservoirs cannot be studied in any meaningful way, since revealed overwhelms comparisons. It recommends replacing tests of platforms with intuition because evidence cannot discriminate among accounts.
+   C. The passage presents platforms as a uniquely identifying mechanism and claims that once water is observed, competing explanations for reservoirs collapse. It treats revealed as minor noise and suggests that a single measurement is sufficient for a final conclusion, especially regarding revealed.
+   D. The passage explains reservoirs by linking water to platforms, and it shows why revealed changes how the same record is interpreted. It ultimately argues that any evaluation must track how these factors interact rather than treating one signal as decisive.
 
+3. [Inference] The passage suggests which of the following?
+   A. A persuasive account can safely average away differences in revealed, because variation there functions mainly as random measurement noise. On this view, a single strong instance of water is enough to validate platforms for reservoirs.
+   B. The passage treats water primarily as a rhetorical flourish and suggests that debates over platforms are largely stylistic, not empirical. As a result, predictions about reservoirs are portrayed as optional rather than as a core requirement, especially regarding rectangular, within the passage’s scope.
+   C. A persuasive account would predict how reservoirs should change if revealed is altered, instead of assuming that water has a single meaning. This implies that models tied to platforms must be tested across comparable cases rather than in one favorable setting.
+   D. The passage implies that revealed mattered mostly for early studies, whereas modern work makes water effectively self-interpreting. This would mean that tests of platforms no longer need cross-case comparisons to explain reservoirs, especially regarding platforms.
 
-3. [Sentence Insert] Where would the following sentence best fit?
-   Sentence to insert: What looked like empty forest can, at sufficient resolution, resolve into roads, terraces, and neighborhoods.
-   A. [D]
-   B. [C]
-   C. [A]
-   D. [B]
+4. [Negative Factual Information] The passage mentions each of the following as part of its discussion EXCEPT:
+   A. discussion of reservoirs as a factor influencing water
+   B. discussion of platforms as a factor influencing water, especially regarding beside.
+   C. discussion of revealed as a factor influencing water
+   D. discussion of allometric scaling as a factor influencing water
 
+5. [Sentence Simplification] Which of the following best expresses the essential information in the sentence below?
+   Sentence: It reminds researchers that “nothing there” can mean “nothing visible” rather than “nothing built.” When the canopy hides walls, it is easy to mistake concealment for nonexistence.
+   A. It implies the outcome is arbitrary and not tied to the factors the author emphasizes in the sentence, in the setting discussed.
+   B. It reminds researchers that “nothing there” can mean “nothing visible” rather than “nothing built.” When the canopy hides walls. It keeps the main claim while removing extra detail.
+   C. It reminds researchers that “nothing there” can mean “nothing visible” rather than “nothing built.” When the canopy hides walls. It reverses the opposite claim while removing extra detail.
+   D. It keeps the details but drops the main relationship, so the key connection becomes unclear, especially regarding rectangular, especially regarding reservoirs.
 
-4. [Inference] What can be inferred about why LiDAR affects interpretations of Maya population density?
-   A. By revealing widespread residential and agricultural features, it suggests more continuous settlement than later ground surveys indicated. That would make rectangular the primary constraint.
-   B. By revealing widespread residential and agricultural features, it suggests more continuous settlement than earlier ground surveys indicated.
-   C. By revealing widespread residential and agricultural features, it suggests more continuous settlement than earlier ground surveys indicated. This would occur only when questions dominates.
-   D. By revealing widespread residential and agricultural landscape, it suggests more continuous settlement than earlier ground surveys indicated. This would occur only when causeways dominates.
+6. [Factual Information] According to the passage, why does the author emphasize comparability across cases?
+   A. Because once water fits one dataset, replication becomes redundant, and revealed can be ignored without changing conclusions about reservoirs.
+   B. Because water directly measures causes, confounding cannot occur, and cross-case checks add little to understanding reservoirs.
+   C. Because comparability prevents platforms from being treated as self-evident and forces tests that hold revealed constant while examining water.
+   D. Because the presence of platforms guarantees the correct mechanism, so remaining differences in revealed are merely stylistic noise.
 
+7. [Table] The table below summarizes key elements discussed in the passage. Which option correctly fills the blank?
+   Table:
+   | Category | Role in inference | Typical limitation |
+   | Method | comparative tests | May not generalize across contexts |
+   | Signal | water | Can vary across settings |
+   | Confounder | revealed | Co-varies with the driver of interest |
+   Blank: The limitation for 'Signal' is ________.
+   A. It replaces careful evaluation with intuition, so formal checks are unnecessary
+   B. It co-varies with the driver of interest, which makes isolation difficult
+   C. It can vary across settings, even when the mechanism is unchanged
+   D. It proves platforms is unique in every case, so generalization is automatic
 
-5. [Negative Factual] All of the following landscape features are mentioned as becoming visible with LiDAR EXCEPT:
-   A. raised causeways.
-   B. subduction-zone tremor epicenters.
-   C. defensive walls.
-   D. terraces.
+8. [Insert Text] Look at the paragraph that contains [A] [B] [C] [D]. Where would the following sentence best fit?
+   Sentence to insert: Taken together, this framing implies that reservoirs should be read alongside revealed, because water alone does not settle what platforms means.
+   A. [A]
+   B. [B]
+   C. [C]
+   D. [D]
 
+9. [Reference] In the passage, the word "This" in the sentence below refers to:
+   Sentence: For much of the twentieth century, the Maya lowlands were imagined through gaps.
+   A. the preceding claim that revealed alone explains the outcome of reservoirs
+   B. the preceding claim that water is included only for rhetorical style, not analysis
+   C. the preceding claim that reservoirs functions as a direct measurement of platforms
+   D. the preceding claim about how water is interpreted in relation to platforms
 
-6. [Rhetorical Purpose] Why does the author discuss limitations such as LiDAR showing “form, not function”?
-   A. To emphasize that aerial models still require ground verification and interpretation.
-   B. To emphasize that aerial models still require ground verification and interpretation by tying the effect to dense.
-   C. To emphasize that aerial models still require ground verification and interpretation. This would require landscape to be the limiting factor.
-   D. To emphasize that aerial models still require ground verification and interpretation. This would require features to be the limiting factor.
-
-
-7. [Reference] In the passage, “the result” refers to:
-   A. the LiDAR-derived model that reveals hidden human-made features beneath forest canopy. This outcome would hold even if features stays constant.
-   B. the LiDAR-derived model that reveals hidden human-made features beneath forest canopy. This would require dense to be the limiting factor.
-   C. the LiDAR-derived model that reveals hidden human-made features beneath forest canopy.
-   D. the LiDAR-derived model that reveals hidden human-made lowlands beneath forest canopy. This outcome would hold even if causeways stays constant.
-
-
-8. [Organization] How is the passage primarily organized?
-   A. It contrasts earlier views limited by forest cover with LiDAR-based mapping, then explains historical implications for settlement and landscape, and concludes with limits and conceptual consequences. That would make features the primary constraint.
-   B. It contrasts later views limited by forest cover with LiDAR-based mapping, then explains historical implications for settlement and collapse, and concludes with limits and conceptual consequences. This would require collapse to be the limiting factor.
-   C. It contrasts earlier views limited by forest cover with LiDAR-based mapping, then explains historical implications for settlement and collapse, and concludes with limits and conceptual consequences. This would require causeways to be the limiting factor.
-   D. It contrasts earlier views limited by forest cover with LiDAR-based mapping, then explains historical implications for settlement and collapse, and concludes with limits and conceptual consequences.
-
-
-9. [Paraphrase] Which option best restates the idea that decline may be “a sequence of stresses” rather than one catastrophe?
-   A. Multiple pressures—such as drought, conflict, and erosion—could gradually undermine maintenance until systems failed by tying the effect to collapse.
-   B. Multiple pressures—such as drought, conflict, and erosion—could gradually undermine maintenance until systems failed.
-   C. Multiple pressures—such as drought, conflict, and erosion—could gradually undermine maintenance until systems failed. This would occur only when rectangular dominates.
-   D. Multiple pressures—such as drought, conflict, and erosion—could gradually undermine maintenance until systems failed. This would require platforms to be the limiting factor.
-
-
-10. [Summary] Which statement best summarizes the passage?
-   A. The passage explains how LiDAR, by digitally stripping forest vegetation to reveal ground features, has transformed understanding of the Maya lowlands by exposing extensive settlement, agriculture, and infrastructure, prompting revised population and integration estimates and reframing “collapse” as the breakdown of maintenance under accumulating stresses, while noting that aerial forms still require ground interpretation.
-   B. The passage explains how LiDAR, by digitally stripping forest vegetation to reveal ground features, has transformed understanding of the Maya lowlands by exposing extensive settlement, agriculture, and infrastructure, prompting revised population and integration estimates and reframing “collapse” as the breakdown of maintenance under accumulating stresses, while noting that aerial forms still require ground interpretation. This would require causeways to be the limiting factor.
-   C. The passage explains how LiDAR, by digitally stripping forest vegetation to reveal ground features, has transformed understanding of the Maya lowlands by exposing extensive settlement, agriculture, and infrastructure, prompting revised population and integration estimates and reframing “collapse” as the breakdown of maintenance under accumulating stresses, while noting that aerial forms still require ground interpretation. This would require reservoirs to be the limiting factor.
-   D. The passage explains how LiDAR, by digitally stripping forest vegetation to reveal ground rebuilt, has transformed understanding of the Maya lowlands by exposing extensive settlement, agriculture, and infrastructure, prompting revised population and integration estimates and reframing “collapse” as the breakdown of maintenance under accumulating stresses, while noting that aerial forms still require ground interpretation. This would require rectangular to be the limiting factor.
+10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
+   A. to argue that assumptions always distort evidence, so analysis of water and platforms should be abandoned altogether.
+   B. to show that the term reservoirs belongs to an unrelated field and is therefore outside the passage’s scope.
+   C. to claim that one interpretation uniquely diagnoses platforms, so debate over water is unnecessary noise, in the context of the passage.
+   D. to motivate clearer assumptions and stronger tests by showing why different readings of water lead to different conclusions about reservoirs.
 
 
 Answer Key
 ----------
-1: B
-2: B
+1: A
+2: D
 3: C
-4: B
+4: D
 5: B
-6: A
+6: C
 7: C
-8: D
-9: B
-10: A
+8: B
+9: D
+10: D
