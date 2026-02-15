@@ -120,13 +120,13 @@ Questions
    C. [C]
    D. [D]
 
-9. [Reference] In the passage, the word "This" in the sentence below refers to:
-   Sentence: Gravitational waves were once a prediction without a detector: ripples in spacetime so small that, by the time they reach Earth, they change distances by less than a thousandth the diameter of a proton across kilometers.
-   A. the preceding claim that motion alone explains the outcome of noise
-   B. the preceding claim about how ground is interpreted in relation to light
-   C. the preceding claim that noise functions as a direct measurement of light
-   D. the preceding claim that ground is included only for rhetorical style, not analysis
 
+9. [Reference] In the passage, the word "this" in the sentence below refers to:
+   Sentence: At very low frequencies, the ground motion is simply too large, and detectors become blind; this is why ground-based interferometers are most sensitive in a band above roughly ten hertz.
+   A. the idea that Thermal noise appears in multiple guises, within the passage’s scope.
+   B. the idea that Yet isolation cannot remove everything, given the evidence cited, as the discussion implies.
+   C. the idea that Active isolation systems sense motion and counteract it with feedback, reducing the amplitude of low-frequency disturbances
+   D. the idea that Hence, detectors monitor thousands of auxiliary channels, from magnetometers to microphones, to identify non- astrophysical disturbances
 10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
    A. to argue that assumptions always distort evidence, so analysis of ground and light should be abandoned altogether.
    B. to motivate clearer assumptions and stronger tests by showing why different readings of ground lead to different conclusions about noise.

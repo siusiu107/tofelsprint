@@ -117,13 +117,13 @@ Questions
    C. [C]
    D. [D]
 
-9. [Reference] In the passage, the word "This" in the sentence below refers to:
-   Sentence: A modern application rarely runs on a single machine.
-   A. the preceding claim that committed alone explains the outcome of leader
-   B. the preceding claim that followers is included only for rhetorical style, not analysis
-   C. the preceding claim about how followers is interpreted in relation to entry
-   D. the preceding claim that leader functions as a direct measurement of entry
 
+9. [Reference] In the passage, the word "this" in the sentence below refers to:
+   Sentence: Leader-based consensus protocols make this intuition precise by combining three ideas: an elected leader, a replicated log of commands, and rules for when an entry is considered committed.
+   A. the idea that If one node is responsible for ordering commands, followers can apply that order and remain consistent
+   B. the idea that Protocols handle this by attaching terms (logical epochs) to entries and by requiring leaders to prove they are up to date
+   C. the idea that One intuition is to appoint a leader, in the cases described, given the evidence cited.
+   D. the idea that The leader receives client requests, appends them to its log, and sends the new entries to followers
 10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
    A. to motivate clearer assumptions and stronger tests by showing why different readings of followers lead to different conclusions about leader.
    B. to argue that assumptions always distort evidence, so analysis of followers and entry should be abandoned altogether, in the context of the passage.
@@ -141,5 +141,5 @@ Answer Key
 6: A
 7: C
 8: D
-9: C
+9: A
 10: A

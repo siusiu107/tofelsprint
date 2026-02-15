@@ -118,13 +118,13 @@ Questions
    C. [C]
    D. [D]
 
-9. [Reference] In the passage, the word "This" in the sentence below refers to:
-   Sentence: This evolutionary tug‑of‑war can be seen as a race between two copying machines.
-   A. the preceding claim that bacteria functions as a direct measurement of viral
-   B. the preceding claim that crispr is included only for rhetorical style, not analysis
-   C. the preceding claim about how crispr is interpreted in relation to viral
-   D. the preceding claim that archive alone explains the outcome of bacteria
 
+9. [Reference] In the passage, the word "this" in the sentence below refers to:
+   Sentence: [A] Under this view, a large CRISPR repertoire is advantageous only when viral exposure is frequent enough to repay the metabolic expense.
+   A. the idea that [B] Thus, array length becomes an ecological trait, tuned to how often a bacterium encounters phages, not merely to how sophisticated it can become...
+   B. the idea that Maintaining a large archive demands resources, and deploying Cas proteins can slow growth in virus‑free environments
+   C. the idea that A second account places the emphasis on cost, as the argument develops, for the phenomenon at issue.
+   D. the idea that Evidence from microbial communities supports both accounts in different ways, within the passage’s scope.
 10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
    A. to show that the term bacteria belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding archive.
    B. to claim that one interpretation uniquely diagnoses viral, so debate over crispr is unnecessary noise, under the stated assumptions.
@@ -142,5 +142,5 @@ Answer Key
 6: B
 7: D
 8: D
-9: C
+9: B
 10: C

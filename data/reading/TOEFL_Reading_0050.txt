@@ -116,13 +116,13 @@ Questions
    C. [C]
    D. [D]
 
+
 9. [Reference] In the passage, the word "This" in the sentence below refers to:
    Sentence: This is why scratched audio discs can still play: a burst of missing data can be treated as erasures, and the code can recover the original polynomial values if enough redundancy remains.
-   A. the preceding claim that noise alone explains the outcome of codes
-   B. the preceding claim about how errors is interpreted in relation to message
-   C. the preceding claim that codes functions as a direct measurement of message
-   D. the preceding claim that errors is included only for rhetorical style, not analysis
-
+   A. the idea that Coding involves trade-offs, as framed by the author, within the passage’s scope.
+   B. the idea that By adding extra points, the sender ensures that the polynomial can be reconstructed even if some symbols are corrupted.
+   C. the idea that [B] The “best” code is therefore defined relative to constraints: channel noise, delay tolerance, and energy
+   D. the idea that A message becomes a set of points on a polynomial, under the stated assumptions, within the passage’s scope.
 10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
    A. to show that the term codes belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding parity.
    B. to motivate clearer assumptions and stronger tests by showing why different readings of errors lead to different conclusions about codes.

@@ -122,13 +122,13 @@ Questions
    C. [C]
    D. [D]
 
-9. [Reference] In the passage, the word "This" in the sentence below refers to:
-   Sentence: This is why incremental improvements to materials and pulse shaping matter: a modest reduction in error per gate can reduce the overhead required for fault-tolerant computing by orders of magnitude.
-   A. the preceding claim that coherence is included only for rhetorical style, not analysis
-   B. the preceding claim about how coherence is interpreted in relation to qubits
-   C. the preceding claim that quantum alone explains the outcome of qubit
-   D. the preceding claim that qubit functions as a direct measurement of qubits
 
+9. [Reference] In the passage, the word "this" in the sentence below refers to:
+   Sentence: Designers counter this by choosing “sweet spots” where the qubit frequency is first-order insensitive to flux, or by using fixed-frequency transmons and tuning interactions instead.
+   A. the idea that For a code to work, gates and measurements must be fast relative to decoherence, and error rates must fall below a threshold
+   B. the idea that Fluctuating spins on surfaces can create a 1/f spectrum of noise, leading to slow frequency wander
+   C. the idea that Magnetic flux noise is another persistent enemy, especially for qubits whose frequency depends strongly on magnetic flux
+   D. the idea that [B] The design choice is a trade: tunability simplifies certain gates, while fixed frequencies can reduce one route to dephasing
 10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
    A. to argue that assumptions always distort evidence, so analysis of coherence and qubits should be abandoned altogether.
    B. to show that the term qubit belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding quantum.

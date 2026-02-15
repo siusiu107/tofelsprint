@@ -120,13 +120,13 @@ Questions
    C. [C]
    D. [D]
 
-9. [Reference] In the passage, the word "This" in the sentence below refers to:
-   Sentence: A rat released into a new maze does not move like a bead sliding down a wire.
-   A. the preceding claim that animal functions as a direct measurement of place
-   B. the preceding claim that cells alone explains the outcome of animal
-   C. the preceding claim that fields is included only for rhetorical style, not analysis
-   D. the preceding claim about how fields is interpreted in relation to place
 
+9. [Reference] In the passage, the word "this" in the sentence below refers to:
+   Sentence: For neuroscientists, this behavioral fluency raised a question: how can a brain represent a space well enough to support both exploration and efficient travel?
+   A. the idea that It pauses, reorients, returns to corners, and gradually begins to take shortcuts that were not explicitly taught
+   B. the idea that One influential answer comes from the hippocampus, where certain neurons—“place cells”—fire when an animal occupies a particular location
+   C. the idea that A rat released into a new maze does not move like a bead sliding down a wire
+   D. the idea that Place fields are not painted onto the hippocampus by the walls of the maze alone
 10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
    A. to claim that one interpretation uniquely diagnoses place, so debate over fields is unnecessary noise, especially regarding fields.
    B. to argue that assumptions always distort evidence, so analysis of fields and place should be abandoned altogether, especially regarding animal.
@@ -144,5 +144,5 @@ Answer Key
 6: A
 7: B
 8: B
-9: D
+9: A
 10: C

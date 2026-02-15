@@ -119,13 +119,13 @@ Questions
    C. [C]
    D. [D]
 
-9. [Reference] In the passage, the word "This" in the sentence below refers to:
-   Sentence: These events—slow slip—were sometimes accompanied by faint, tremor-like vibrations that lacked the sharp, high-frequency onset of typical quakes.
-   A. the preceding claim that fault functions as a direct measurement of stress
-   B. the preceding claim that patch alone explains the outcome of fault
-   C. the preceding claim about how boundary is interpreted in relation to stress
-   D. the preceding claim that boundary is included only for rhetorical style, not analysis
 
+9. [Reference] In the passage, the word "this" in the sentence below refers to:
+   Sentence: For decades, seismologists pictured this boundary as a simple alternation: either it was locked, accumulating strain for a future earthquake, or it slipped quietly, releasing strain without shaking.
+   A. the idea that Along the edge of a continent, where an oceanic plate dives beneath a lighter plate, the boundary is not a single clean fault but...
+   B. the idea that That tidy picture began to erode when instruments became precise enough to notice motions that were neither explosive nor silent in the old sense...
+   C. the idea that The difference is not a philosophical debate; it is a question of geometry and timing, under the stated assumptions, in the setting discussed.
+   D. the idea that In several subduction zones, networks of GPS receivers revealed episodes in which the ground moved a few millimeters to a few centimeters over days...
 10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
    A. to claim that one interpretation uniquely diagnoses stress, so debate over boundary is unnecessary noise, as the argument develops.
    B. to show that the term fault belongs to an unrelated field and is therefore outside the passage’s scope, in the examples provided.
@@ -143,5 +143,5 @@ Answer Key
 6: A
 7: A
 8: A
-9: C
+9: A
 10: C

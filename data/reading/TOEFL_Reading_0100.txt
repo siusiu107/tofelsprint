@@ -132,13 +132,13 @@ Questions
    C. [C]
    D. [D]
 
+
 9. [Reference] In the passage, the word "This" in the sentence below refers to:
    Sentence: This technique—transmission spectroscopy—has turned transits into laboratories, allowing astronomers to infer what an atmosphere is made of even when the planet itself is a point of light.
-   A. the preceding claim about how instruments is interpreted in relation to methane
-   B. the preceding claim that targets alone explains the outcome of molecules
-   C. the preceding claim that molecules functions as a direct measurement of methane
-   D. the preceding claim that instruments is included only for rhetorical style, not analysis
-
+   A. the idea that When an exoplanet passes in front of its star, a small fraction of starlight filters through the planet’s atmosphere before reaching a telescope.
+   B. the idea that As instruments become more stable, subtle molecules—such as methane or ammonia—move from speculation into measurable targets
+   C. the idea that The atmosphere, if present, imprints wavelength-dependent absorption features on the light, because molecules absorb at specific energies
+   D. the idea that The basic geometry is simple while the measurement is not, under the stated assumptions, as the argument develops.
 10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
    A. to show that the term molecules belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding atmosphere.
    B. to motivate clearer assumptions and stronger tests by showing why different readings of instruments lead to different conclusions about molecules.
@@ -156,5 +156,5 @@ Answer Key
 6: A
 7: C
 8: B
-9: A
+9: C
 10: B

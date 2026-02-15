@@ -115,13 +115,13 @@ Questions
    C. [C]
    D. [D]
 
-9. [Reference] In the passage, the word "This" in the sentence below refers to:
-   Sentence: This does not eliminate trust; it concentrates it.
-   A. the preceding claim that public functions as a direct measurement of primes
-   B. the preceding claim that cryptography alone explains the outcome of public
-   C. the preceding claim about how private is interpreted in relation to primes
-   D. the preceding claim that private is included only for rhetorical style, not analysis
 
+9. [Reference] In the passage, the word "this" in the sentence below refers to:
+   Sentence: RSA uses this asymmetry by choosing two large primes, multiplying them to form a modulus, and publishing that modulus as part of the public key.
+   A. the idea that A sender can then encrypt a message using a public exponent, producing a cipher that can be reversed efficiently only if one knows a...
+   B. the idea that Reversing the product—discovering the two primes that generated it—appears to require far more work as the numbers grow
+   C. the idea that If anyone can publish a public key, how does a user know the key belongs to the intended website rather than to an impersonator?...
+   D. the idea that Multiplying two large primes is computationally straightforward, even when the numbers have hundreds of digits, for the phenomenon at issue.
 10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
    A. to argue that assumptions always distort evidence, so analysis of private and primes should be abandoned altogether.
    B. to claim that one interpretation uniquely diagnoses primes, so debate over private is unnecessary noise, especially regarding cryptography, especially regarding cryptography.
@@ -139,5 +139,5 @@ Answer Key
 6: D
 7: C
 8: C
-9: C
+9: B
 10: C

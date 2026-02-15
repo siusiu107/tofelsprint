@@ -117,13 +117,13 @@ Questions
    C. [C]
    D. [D]
 
-9. [Reference] In the passage, the word "This" in the sentence below refers to:
-   Sentence: These differences matter because phages adapt.
-   A. the preceding claim about how phage is interpreted in relation to bacteria
-   B. the preceding claim that phage is included only for rhetorical style, not analysis
-   C. the preceding claim that bacterium alone explains the outcome of crispr
-   D. the preceding claim that crispr functions as a direct measurement of bacteria
 
+9. [Reference] In the passage, the word "this" in the sentence below refers to:
+   Sentence: [B] In this escalating contest, “memory” is not permanent; it is continually challenged by viral innovation.
+   A. the idea that If the bacterium has no defense, infection can be fatal
+   B. the idea that CRISPR memory is also costly, under the stated assumptions, for the phenomenon at issue, in the examples provided.
+   C. the idea that Bacteria respond by acquiring additional spacers or by using CRISPR types that tolerate certain mismatches
+   D. the idea that Meanwhile, phages have evolved countermeasures known as anti‑CRISPR proteins, which can inhibit Cas activity, preventing cleavage
 10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
    A. to motivate clearer assumptions and stronger tests by showing why different readings of phage lead to different conclusions about crispr.
    B. to show that the term crispr belongs to an unrelated field and is therefore outside the passage’s scope, especially regarding phage.
@@ -141,5 +141,5 @@ Answer Key
 6: C
 7: B
 8: A
-9: A
+9: D
 10: A

@@ -122,13 +122,13 @@ Questions
    C. [C]
    D. [D]
 
-9. [Reference] In the passage, the word "This" in the sentence below refers to:
-   Sentence: These traits allow thin films to perform like thicker absorbers, which reduces material use.
-   A. the preceding claim that barrier is included only for rhetorical style, not analysis
-   B. the preceding claim that quietly functions as a direct measurement of water
-   C. the preceding claim about how barrier is interpreted in relation to water
-   D. the preceding claim that vapor alone explains the outcome of quietly
 
+9. [Reference] In the passage, the word "These" in the sentence below refers to:
+   Sentence: These traits allow thin films to perform like thicker absorbers, which reduces material use.
+   A. the idea that However, the same chemical flexibility that permits tuning can introduce instability, because ions within the crystal lattice can move when exposed to light, heat,
+   B. the idea that They also exhibit long carrier diffusion lengths, meaning electrons and holes can travel relatively far before recombining, given the evidence cited.
+   C. the idea that [B] In other words, stability is not a single trick; it is a set of barriers placed in the pathways that degradation prefers...
+   D. the idea that Many perovskites have direct band gaps that can be tuned by adjusting composition, so they absorb visible light well
 10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
    A. to claim that one interpretation uniquely diagnoses water, so debate over barrier is unnecessary noise, especially regarding material, for the main claim of the text.
    B. to motivate clearer assumptions and stronger tests by showing why different readings of barrier lead to different conclusions about quietly.
@@ -146,5 +146,5 @@ Answer Key
 6: C
 7: C
 8: D
-9: C
+9: B
 10: B

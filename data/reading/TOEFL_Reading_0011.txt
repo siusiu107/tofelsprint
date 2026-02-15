@@ -122,13 +122,13 @@ Questions
    C. [C]
    D. [D]
 
-9. [Reference] In the passage, the word "This" in the sentence below refers to:
-   Sentence: Cancer immunotherapy often sounds like a simple bargain: remove the brakes from immune cells and let them attack the tumor.
-   A. the preceding claim that checkpoint alone explains the outcome of immune
-   B. the preceding claim about how cells is interpreted in relation to tumor
-   C. the preceding claim that cells is included only for rhetorical style, not analysis
-   D. the preceding claim that immune functions as a direct measurement of tumor
 
+9. [Reference] In the passage, the word "this" in the sentence below refers to:
+   Sentence: Tumors exploit this system by presenting checkpoint ligands, effectively advertising, “Stand down.” Blocking the signal can be transformative.
+   A. the idea that If the valve is closed—by antibodies that block PD‑1 or its ligand—T cells can remain active longer and with fewer restraints...
+   B. the idea that That reduction is not simply “weakness”; it is a safety valve that narrows collateral damage, as the argument develops, in the examples provided.
+   C. the idea that In melanoma and some lung cancers, a fraction of patients experience deep, durable responses, because previously exhausted T cells regain function and proliferate...
+   D. the idea that CTLA‑4 acts earlier, during T‑cell priming in lymph nodes, so blocking it can broaden the range of T cells that become activated...
 10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
    A. to argue that assumptions always distort evidence, so analysis of cells and tumor should be abandoned altogether.
    B. to motivate clearer assumptions and stronger tests by showing why different readings of cells lead to different conclusions about immune.
@@ -146,5 +146,5 @@ Answer Key
 6: C
 7: A
 8: D
-9: B
+9: A
 10: B

@@ -118,13 +118,13 @@ Questions
    C. [C]
    D. [D]
 
+
 9. [Reference] In the passage, the word "This" in the sentence below refers to:
    Sentence: This is why short trips can be disproportionately polluting: the engine may run for only a few minutes, and the converter may not reach its optimal operating range.
-   A. the preceding claim that converter functions as a direct measurement of exhaust
-   B. the preceding claim about how oxygen is interpreted in relation to exhaust
-   C. the preceding claim that nitrogen alone explains the outcome of converter
-   D. the preceding claim that oxygen is included only for rhetorical style, not analysis
-
+   A. the idea that Engineers address this by placing converters closer to the engine or by using strategies that heat the catalyst rapidly after ignition
+   B. the idea that A three‑way converter must both oxidize CO and hydrocarbons and reduce nitrogen oxides
+   C. the idea that Below a “light‑off” temperature, exhaust molecules do not adsorb and react quickly enough, so emissions remain high
+   D. the idea that Once the catalyst warms, rates rise steeply, in the context of the passage, under the stated assumptions.
 10. [Rhetorical Purpose] Why does the author discuss competing interpretations?
    A. to claim that one interpretation uniquely diagnoses exhaust, so debate over oxygen is unnecessary noise, especially regarding exhaust, especially regarding exhaust.
    B. to motivate clearer assumptions and stronger tests by showing why different readings of oxygen lead to different conclusions about converter.
@@ -142,5 +142,5 @@ Answer Key
 6: D
 7: D
 8: B
-9: B
+9: D
 10: B
