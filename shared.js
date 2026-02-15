@@ -272,7 +272,7 @@ try{
   async function findMaxReadingId(root){
     // Exponential search + binary search
     // NOTE: 0001이 없어도(예: 0002부터 존재) 최대치를 찾을 수 있게 "첫 존재"를 먼저 찾는다.
-    const CAP = 1000;
+    const CAP = 100;
     let first = 0;
     for(let id=1; id<=60; id++){
       if(await existsUrl(`${root}/${readingFileName(id)}`)) { first = id; break; }
@@ -300,7 +300,7 @@ try{
 
   async function buildReadingIndex(){
     const root = await detectReadingRoot();
-    if(!root) throw new Error('Reading 데이터가 없어. 예: data/reading/TOEFL_Reading_0002.txt 같은 파일이 있어야 해. (Passage는 최대 1000번까지 인식)');
+    if(!root) throw new Error('Reading 데이터가 없어. 예: data/reading/TOEFL_Reading_0002.txt 같은 파일이 있어야 해. (Passage는 최대 100번까지 인식)');
 
     // If an index.json exists, prefer it.
     const indexUrl = `${root}/index.json`;
@@ -319,7 +319,7 @@ try{
     }
 
     const maxId = await findMaxReadingId(root);
-    const cappedMaxId = Math.min(maxId, 1000);
+    const cappedMaxId = Math.min(maxId, 100);
     if(!cappedMaxId) throw new Error('Reading txt 파일을 못 찾았어. 예: data/reading/TOEFL_Reading_0002.txt');
 
     // Create lightweight index (titles are shown as 기본값; 뷰어에서 실제 제목 파싱)
