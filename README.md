@@ -7,7 +7,6 @@
 ## 1) 실행 방법
 
 ```bash
-python -m http.server 8000
 ```
 
 브라우저:

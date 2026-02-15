@@ -222,8 +222,9 @@ try{
   }
 
   /* Reading: Cloudflare Pages 환경에서도 동작하도록 (디렉토리 리스팅 없이) */
-  const READ_CACHE_KEY = 'toefl_reading_index_v2';
-  const READ_ROOT_KEY  = 'toefl_reading_root_v2';
+  // NOTE: index 규칙이 바뀌면 버전을 올려서(키 변경) 캐시 꼬임을 방지한다.
+  const READ_CACHE_KEY = 'toefl_reading_index_v3';
+  const READ_ROOT_KEY  = 'toefl_reading_root_v3';
 
   let _readingIndex = null;
 
@@ -272,6 +273,7 @@ try{
   async function findMaxReadingId(root){
     // Exponential search + binary search
     // NOTE: 0001이 없어도(예: 0002부터 존재) 최대치를 찾을 수 있게 "첫 존재"를 먼저 찾는다.
+    // Dataset cap: 0001 ~ 0100
     const CAP = 100;
     let first = 0;
     for(let id=1; id<=60; id++){
