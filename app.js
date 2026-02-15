@@ -13,7 +13,7 @@
         u.searchParams.set('_r', String(Date.now()));
         location.replace(u.toString());
         return;
-      }
+          }
     }catch(e){}
     // 최소한의 안내만 표시
     try{
@@ -244,7 +244,7 @@ try{
         <div style="height:12px"></div>
         <pre class="codeblock">(프로젝트 루트)/
   data/
-    reading/   ← 리딩 txt (최대 1000번까지)
+    reading/   ← 리딩 txt (최대 100번까지)
     listening/ ← Listening_Set_001 ~ Listening_Set_100</pre>
         <div style="height:10px"></div>
         <div class="muted small">
@@ -513,69 +513,281 @@ function renderHome(){
       });
     }
 
-    function highlightSentenceFromPrompt(prompt){
-      resetPassageHighlight();
-      const hint = (window.TOEFL && typeof window.TOEFL.getSentenceHintFromPrompt === 'function')
-        ? window.TOEFL.getSentenceHintFromPrompt(prompt)
-        : '';
-      const clean = _cleanHint(hint);
-      if(!clean) return;
+        function highlightFromQuestion(q){
+          resetPassageHighlight();
+          const prompt = (q && q.prompt != null) ? String(q.prompt) : '';
+          const rawType = (q && q.type) ? String(q.type) : '';
+          const typeLabel = (()=>{
+            // Prefer explicit [Type] prefix in prompt (e.g., "[Vocabulary] ...")
+            const m = prompt.match(/^\s*\[([^\]]+)\]/);
+            if(m) return String(m[1]||'').toLowerCase();
+            return String(rawType||'').toLowerCase();
+          })();
+    
+          const paras = $$('.p', passageEl);
 
-      // Try to find the best paragraph containing the sentence (loose match)
-      const paras = $$('.p', passageEl);
-      let best = null;
-
-      const tryFind = (h)=>{
-        const h2 = _cleanHint(h);
-        if(!h2) return null;
-        const re = new RegExp(_escapeRe(h2).replace(/\s+/g,'\\s+'), 'i');
-        for(const pEl of paras){
-          const raw = pEl.dataset.raw ?? pEl.textContent ?? '';
-          const m = re.exec(raw);
-          if(m){
-            return { pEl, raw, idx: m.index, len: m[0].length };
-          }
-        }
-        return null;
-      };
-
-      best = tryFind(clean);
-
-      // fallback: use the first ~90 chars
-      if(!best && clean.length > 90){
-        best = tryFind(clean.slice(0, 90));
+          function ensureG(re){
+            if(!(re instanceof RegExp)) return re;
+            const flags = re.flags.includes('g') ? re.flags : (re.flags + 'g');
+            return new RegExp(re.source, flags);
       }
 
-      if(!best) return;
-
-      const {pEl, raw, idx, len} = best;
-      const before = raw.slice(0, idx);
-      const mid = raw.slice(idx, idx + len);
-      const after = raw.slice(idx + len);
-
-      pEl.innerHTML = `${escape(before)}<mark class="hl">${escape(mid)}</mark>${escape(after)}`;
-
-      // scroll passage panel: put the highlighted sentence near the middle (not the paragraph)
-      try{
-        const mark = pEl.querySelector('mark.hl');
-        const boxH = passageEl.clientHeight || 0;
-
-        if(mark && mark.getBoundingClientRect){
-          const cRect = passageEl.getBoundingClientRect();
-          const mRect = mark.getBoundingClientRect();
-          const cur = passageEl.scrollTop || 0;
-          const markCenter = (mRect.top - cRect.top) + cur + (mRect.height/2);
-          const top = Math.max(0, markCenter - (boxH * 0.5));
-          passageEl.scrollTo({ top, behavior: 'smooth' });
-        }else{
-          const pH = pEl.offsetHeight || 0;
-          const mid = (pEl.offsetTop || 0) + (pH/2);
-          const top = Math.max(0, mid - (boxH * 0.5));
-          passageEl.scrollTo({ top, behavior: 'smooth' });
+    
+          function scrollMarkToMiddle(mark){
+            try{
+              if(!mark) return;
+              const boxH = passageEl.clientHeight || 0;
+              const cRect = passageEl.getBoundingClientRect();
+              const mRect = mark.getBoundingClientRect();
+              const cur = passageEl.scrollTop || 0;
+              const markCenter = (mRect.top - cRect.top) + cur + (mRect.height/2);
+              const top = Math.max(0, markCenter - (boxH * 0.5)); // 0.5 = 가운데
+              passageEl.scrollTo({ top, behavior: 'smooth' });
+            }catch(e){}
+          }
+    
+          function buildMarkedHtmlFromRegex(raw, re){
+            let out = '';
+            let last = 0;
+            re = ensureG(re);
+            let mm;
+            while((mm = re.exec(raw))){
+              const i = mm.index;
+              const s = mm[0];
+              out += escape(raw.slice(last, i));
+              out += `<mark class="hl">${escape(s)}</mark>`;
+              last = i + s.length;
+              if(re.lastIndex === i) re.lastIndex++; // safety
+            }
+            out += escape(raw.slice(last));
+            return out;
+          }
+    
+          function highlightInsertMarkers(){
+            let firstMark = null;
+            for(const pEl of paras){
+              const raw = pEl.dataset.raw ?? pEl.textContent ?? '';
+              if(!/\[[A-D]\]/.test(raw)) continue;
+    
+              // highlight [A][B][C][D] tags
+              const re = /\[[A-D]\]/g;
+              let out = '';
+              let last = 0;
+              let mm;
+              while((mm = re.exec(raw))){
+                const i = mm.index;
+                const s = mm[0];
+                out += escape(raw.slice(last, i));
+                out += `<mark class="hl">${escape(s)}</mark>`;
+                last = i + s.length;
+                if(!firstMark) firstMark = { pEl, idx: i };
+              }
+              out += escape(raw.slice(last));
+              pEl.innerHTML = out;
+            }
+    
+            // scroll to the first marker
+            try{
+              const mark = passageEl.querySelector('mark.hl');
+              if(mark) scrollMarkToMiddle(mark);
+            }catch(e){}
+          }
+    
+          function extractQuotedWord(){
+            // Handles: the word “mirage” / "mirage" / **mirage**
+            let m = prompt.match(/\bword\b[^A-Za-z0-9]*[“"']([^”"']+)[”"']/i);
+            if(m) return (m[1]||'').trim();
+    
+            m = prompt.match(/\bword\b[^*]*\*\*([^*]+)\*\*/i);
+            if(m) return (m[1]||'').trim();
+    
+            // fallback: first quoted token
+            m = prompt.match(/[“"']([A-Za-z][A-Za-z\-']{1,})[”"']/);
+            if(m) return (m[1]||'').trim();
+    
+            return '';
+          }
+    
+          function highlightWord(word){
+            if(!word) return false;
+            const w = String(word).trim();
+            if(!w) return false;
+    
+            // prefer whole-word match for simple alphabetic tokens
+            const isSimple = /^[A-Za-z][A-Za-z\-']*$/.test(w);
+            const re = isSimple
+              ? new RegExp(`\\b${_escapeRe(w)}\\b`, 'ig')
+              : new RegExp(_escapeRe(w), 'ig');
+    
+            for(const pEl of paras){
+              const raw = pEl.dataset.raw ?? pEl.textContent ?? '';
+              if(!re.test(raw)) continue;
+              // reset lastIndex for reuse
+              re.lastIndex = 0;
+              pEl.innerHTML = buildMarkedHtmlFromRegex(raw, re);
+    
+              // scroll to first match in this paragraph
+              const mark = pEl.querySelector('mark.hl');
+              if(mark) scrollMarkToMiddle(mark);
+              return true;
+            }
+            return false;
+          }
+    
+          function highlightExactSentence(hint){
+            const clean = _cleanHint(hint);
+            if(!clean) return false;
+    
+            const tryFind = (h)=>{
+              const h2 = _cleanHint(h);
+              if(!h2) return null;
+              const re = new RegExp(_escapeRe(h2).replace(/\\s+/g,'\\\\s+'), 'i');
+              for(const pEl of paras){
+                const raw = pEl.dataset.raw ?? pEl.textContent ?? '';
+                const m = re.exec(raw);
+                if(m){
+                  return { pEl, raw, idx: m.index, len: m[0].length };
+                }
+              }
+              return null;
+            };
+    
+            let best = tryFind(clean);
+            if(!best && clean.length > 90) best = tryFind(clean.slice(0, 90));
+            if(!best) return false;
+    
+            const {pEl, raw, idx, len} = best;
+            const before = raw.slice(0, idx);
+            const mid = raw.slice(idx, idx + len);
+            const after = raw.slice(idx + len);
+            pEl.innerHTML = `${escape(before)}<mark class="hl">${escape(mid)}</mark>${escape(after)}`;
+    
+            const mark = pEl.querySelector('mark.hl');
+            if(mark) scrollMarkToMiddle(mark);
+            return true;
+          }
+    
+          function normalizeTokens(s){
+            const stop = new Set([
+              'the','a','an','and','or','to','of','in','on','for','from','with','as','at','by','is','are','was','were','be','been','being',
+              'that','this','these','those','it','its','they','their','them','he','she','his','her','we','our','you','your','i','me','my',
+              'about','into','over','under','after','before','during','between','while','when','where','which','what','why','how','does','do','did',
+              'can','could','may','might','must','should','would','will','not','no','yes','all','any','each','most','more','less'
+            ]);
+    
+            const base = String(s||'')
+              .replace(/^\s*\[[^\]]+\]\s*/,'')      // remove [Type]
+              .replace(/Sentence\s*to\s*insert\s*:/ig,' ')
+              .replace(/Sentence\s*:/ig,' ')
+              .replace(/[^A-Za-z0-9\-'\s]+/g,' ')
+              .replace(/\s+/g,' ')
+              .trim()
+              .toLowerCase();
+    
+            const toks = (base.match(/[a-z][a-z0-9\-']{2,}/g) || [])
+              .filter(t => t.length >= 3 && !stop.has(t));
+    
+            // unique, keep up to 30
+            const seen = new Set();
+            const out = [];
+            for(const t of toks){
+              if(seen.has(t)) continue;
+              seen.add(t);
+              out.push(t);
+              if(out.length >= 30) break;
+            }
+            return out;
+          }
+    
+          function scoreText(text, toks){
+            const low = String(text||'').toLowerCase();
+            let score = 0;
+            for(const t of toks){
+              // word boundary-ish for alphabetic tokens
+              const re = new RegExp(`\\b${_escapeRe(t)}\\b`, 'i');
+              if(re.test(low)) score++;
+            }
+            return score;
+          }
+    
+          function highlightByOverlap(){
+            const toks = normalizeTokens(prompt);
+            if(!toks.length) return;
+    
+            // find best paragraph
+            let bestP = null;
+            let bestScore = 0;
+            for(const pEl of paras){
+              const raw = pEl.dataset.raw ?? pEl.textContent ?? '';
+              const s = scoreText(raw, toks);
+              if(s > bestScore){
+                bestScore = s;
+                bestP = { pEl, raw };
+              }
+            }
+            if(!bestP || bestScore === 0) return;
+    
+            // split into sentences; pick best sentence
+            const raw = bestP.raw;
+            const sentences = (raw.replace(/\s+/g,' ').match(/[^.!?]+[.!?]+|[^.!?]+$/g) || [raw]);
+            let bestS = null;
+            let bestSS = 0;
+            for(const s of sentences){
+              const sc = scoreText(s, toks);
+              if(sc > bestSS){
+                bestSS = sc;
+                bestS = s;
+              }
+            }
+    
+            if(bestS && bestSS > 0 && bestS.length >= 20){
+              // highlight the best sentence
+              const re = new RegExp(_escapeRe(bestS).replace(/\s+/g,'\\s+'), 'i');
+              const m = re.exec(raw);
+              if(m){
+                const idx = m.index;
+                const len = m[0].length;
+                const before = raw.slice(0, idx);
+                const mid = raw.slice(idx, idx + len);
+                const after = raw.slice(idx + len);
+                bestP.pEl.innerHTML = `${escape(before)}<mark class="hl">${escape(mid)}</mark>${escape(after)}`;
+                const mark = bestP.pEl.querySelector('mark.hl');
+                if(mark) scrollMarkToMiddle(mark);
+                return;
+              }
+            }
+    
+            // fallback: highlight whole paragraph
+            bestP.pEl.innerHTML = `<mark class="hl">${escape(raw)}</mark>`;
+            const mark = bestP.pEl.querySelector('mark.hl');
+            if(mark) scrollMarkToMiddle(mark);
+          }
+    
+          // 1) Sentence Insert: highlight all [A]-[D] markers
+          if(typeLabel.includes('sentence insert') || /\[sentence\s*insert\]/i.test(prompt) || /Sentence\s*to\s*insert\s*:/i.test(prompt)){
+            highlightInsertMarkers();
+            return;
+          }
+    
+          // 2) Vocabulary / keyword-based: highlight the target word in the passage
+          if(typeLabel.includes('vocabulary') || /\[vocabulary\]/i.test(prompt)){
+            const w = extractQuotedWord();
+            if(w && highlightWord(w)) return;
+          }
+    
+          // 3) If prompt includes an explicit Sentence: hint, use it
+          const hint = (window.TOEFL && typeof window.TOEFL.getSentenceHintFromPrompt === 'function')
+            ? window.TOEFL.getSentenceHintFromPrompt(prompt)
+            : '';
+          if(hint && highlightExactSentence(hint)) return;
+    
+          // 4) If prompt says "In the sentence “...”", highlight that quote
+          const q2 = prompt.match(/In\s+the\s+sentence\s+[“"']([^”"']{12,})[”"']/i);
+          if(q2 && q2[1] && highlightExactSentence(q2[1])) return;
+    
+          // 5) Paraphrase / others: choose best-matching sentence by overlap
+          highlightByOverlap();
         }
-      }catch(e){}
-    }
-
 
     // if both Table and Prose Summary exist, keep both in practice (simulation will randomize)
     const questions = data.questions;
@@ -584,7 +796,7 @@ function renderHome(){
     function renderQ(){
       const q = questions[qIndex];
       $('#qTitle').textContent = `Question ${q.num}  (${q.type})`;
-      highlightSentenceFromPrompt(q.prompt);
+      highlightFromQuestion(q);
       // 질문 카운터는 패널 안(qCounter)에 표시
       const qc = $('#qCounter');
       if(qc) qc.textContent = `${String(qIndex+1).padStart(2,'0')}/${String(questions.length).padStart(2,'0')}`;
