@@ -1,9 +1,13 @@
-Narrator: Listen to a conversation between two students on campus.
-Student 1: Hey—quick question about Solar flares, I guess, coronal mass ejections, and space weather. I'm not totally lost, it's just… the little rules. Like, the orbital period part seems fine, but then the policy mentions eccentricity and I kinda panic.
-Student 2: Okay, kind of, breathe. Are you trying to submit something, I guess, book something, or fix something? Kind of, Because parallax matters only if you're going through the portal.
-Student 1: Wait—sorry, I keep doing this—if I miss the deadline, does it reset the whole process or just the verification step?
-Student 2: Quick tangent: It depends on what the office calls a ‘complete’ request. If your documentation is missing, they pause the workflow. If it's late, they bump you to the next review cycle—No, wait, I meant signal-to-noise ratio, not parallax.
-Student 2: Quick tangent: a brief historical aside about who first proposed the idea. Um, That's why I screenshot the confirmation page and save the ticket number—signal-to-noise ratio is your friend.
-Student 2: Honestly, um, do it in one clean batch. Sort of, Name the files clearly. If the portal throws an error, don't spam refresh—just open a ticket and ask for a manual override.
-Student 1: Okay… I think I can handle it now. If they reject it, I'll ask which requirement I missed, not just ‘why.’
-Student 2: Exactly. And if you want, I can skim what you're submitting—it's usually one tiny wording issue.
+Narrator: Listen to part of a lecture in an environmental science class.
+Professor: For years, people thought sudden fish migrations were simply about temperature—water warms, fish move. End of story.
+Student: Isn’t that mostly true?
+Professor: Sometimes. But “mostly true” is dangerous. Let me tell you about a case where temperature stayed steady and the fish still left overnight.
+Professor: A coastal bay—same temperature, same daylight. Then a storm passed offshore. No big waves inside the bay, but pressure dropped and the current shifted slightly.
+Student: That tiny change made them move?
+Professor: Not the current alone. The current brought low-oxygen water from deeper layers. Fish didn’t “choose” to migrate; they fled.
+Professor: Actually, I should rephrase. It wasn’t a conscious plan; it was a rapid physiological response.
+Student: So oxygen is a trigger?
+Professor: Often. And sometimes salinity changes, or the arrival of a predator, or a sudden algae bloom that alters water chemistry.
+Professor: The point is, migrations can look mysterious if you only track temperature. You need multiple sensors: oxygen, salinity, turbidity, even acoustic tags on the fish.
+Student: So “sudden” migration is really “sudden” environmental change we didn’t measure.
+Professor: Exactly. And that’s why modern studies emphasize measurement networks, not just a thermometer on a dock.

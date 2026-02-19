@@ -1,27 +1,24 @@
 {
   "set": 11,
-  "format": "conversation",
-  "domain": "Astronomy",
-  "subtopic": "Spectroscopic redshift and galaxy rotation curves",
-  "mode": "conversation_problem",
-  "technical_terms": [
-    "redshift",
-    "spectroscopy",
-    "signal-to-noise ratio",
-    "magnetosphere",
-    "eccentricity",
-    "photons",
-    "light curve",
-    "Keplerian",
-    "orbital period"
+  "target_duration_sec": 180,
+  "anti_template": "v24",
+  "type": "conversation",
+  "roles": [
+    "Narrator",
+    "Student1",
+    "Student2"
   ],
-  "function_phrase": "I’m glad you asked.",
-  "main_point": "Student 1 asks about Spectroscopic redshift and galaxy rotation curves but then shifts to housing form.",
-  "detail1": "Student 2 explains that missing documentation is treated differently from submitting late.",
-  "detail2": "The conversation includes a sudden topic shift after the initial problem is mostly addressed.",
-  "attitude": "Supportive, slightly casual; Student 2 gives practical advice.",
-  "organization_point": "Student 2 uses a tangent about a historical aside to justify keeping proof of submission.",
-  "connecting_point": "The step-by-step plan shows how to avoid the portal splitting a request into multiple submissions.",
-  "has_purpose_shift": true,
-  "has_self_correction": true
+  "topic_category": "dorm_facilities",
+  "scenario_title": "Dorm comfort disaster: heater stuck on (case 1)",
+  "place": "Dorm hallway",
+  "structure_signature": [
+    "start_question",
+    "self_correction",
+    "third_party_interrupt",
+    "reframe",
+    "plan_steps",
+    "apology_repair",
+    "misunderstanding",
+    "pivot_topic"
+  ]
 }

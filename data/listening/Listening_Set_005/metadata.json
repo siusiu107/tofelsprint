@@ -1,27 +1,22 @@
 {
   "set": 5,
-  "format": "lecture",
-  "domain": "Biology",
-  "subtopic": "Metagenomics of the gut microbiome",
-  "mode": "lecture_case",
-  "technical_terms": [
-    "methylation",
-    "phenotype",
-    "acetylation",
-    "homeostasis",
-    "plasmid",
-    "operon",
-    "epigenome",
-    "inner membrane",
-    "transcription factor"
+  "target_duration_sec": 180,
+  "anti_template": "v24",
+  "type": "conversation",
+  "roles": [
+    "Narrator",
+    "Student1",
+    "Staff"
   ],
-  "function_phrase": "In other words,",
-  "main_point": "The professor explains Metagenomics of the gut microbiome and how to interpret evidence when measurements can be misleading.",
-  "detail1": "The professor distinguishes methylation (a process) from homeostasis (a proxy/measurement).",
-  "detail2": "He suggests testing an asymmetric prediction involving inner membrane and phenotype.",
-  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
-  "organization_point": "He adds a tangent about a student misconception to show real-world constraints.",
-  "connecting_point": "The example about controlling for operon shows how bias can flip an apparent pattern.",
-  "has_awkward_silence": true,
-  "has_self_correction": true
+  "topic_category": "schedule_conflict",
+  "scenario_title": "Two meetings collide: time zone glitch (case 2)",
+  "place": "Campus café",
+  "structure_signature": [
+    "start_reaction",
+    "pivot_topic",
+    "deadline_pressure",
+    "negotiation",
+    "awkward_pause",
+    "reframe"
+  ]
 }

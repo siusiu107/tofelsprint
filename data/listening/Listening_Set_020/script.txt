@@ -1,10 +1,15 @@
-Narrator: Listen to a conversation between two students on campus.
-Student 1: Hey—quick question about Lithic typology and reduction sequences. I'm not totally lost, kind of, it's just… the little rules. Like, the dendrochronology part seems fine, but then the policy mentions stratigraphy and I kinda panic.
-Student 2: Okay, breathe. Are you trying to submit something, book something, or fix something? Because calibration curve matters only if you're going through the portal.
-Student 1: Wait—sorry, I guess, I keep doing this—if I miss the deadline, does it reset the whole process or just the verification step?
-Student 2: To put it bluntly, It depends on what the office calls a ‘complete’ request. If your documentation is missing, uh, they pause the workflow. If it's late, kind of, they bump you to the next review cycle—No, wait, I meant context, not stratigraphy.
-Student 2: Honestly, you know, do it in one clean batch. Sort of, Name the files clearly. If the portal throws an error, um, don't spam refresh—just open a ticket and ask for a manual override.
-Student 1: Wait, sort of, random question—has Professor Lee been okay? They looked… exhausted last class.
-Student 2: Sort of, The clinic portal is terrible. If you bring the form in person, it's faster.
-Student 1: Okay… I think I can handle it now. If they reject it, I'll ask which requirement I missed, not just ‘why.’
-Student 2: Exactly. And if you want, I can skim what you're submitting—it's usually one tiny wording issue.
+Narrator: Listen to part of a lecture in a linguistics class.
+Professor: Yesterday, a student walked in, soaked from the rain, and said, “Lovely weather.”
+Student: That’s sarcasm.
+Professor: Sometimes. But imagine the same sentence at a picnic after a week of drought. Same words, different meaning.
+Professor: Meaning isn’t glued to the dictionary. It’s negotiated with context—tone, timing, shared knowledge.
+Student: So you’re saying words don’t matter?
+Professor: No—wait. Words matter. They’re the raw material. Context is the tool that shapes them.
+Professor: Quick check: if I say “Nice job” right after you spill coffee on my laptop, what does it mean?
+(brief pause)
+Professor: Exactly—most of you hear it as criticism. But if I say it after you rescue my laptop from a fall, it’s praise.
+Student: So the listener has to infer intent.
+Professor: Yes. And that’s why misunderstandings happen: people share words but not assumptions.
+Professor: Think of it like traffic signals. A green light usually means go, but if a police officer waves you to stop, context overrides the default rule.
+Student: That makes it sound more systematic.
+Professor: That’s the point. Context isn’t magic. It’s information—just sometimes unspoken.

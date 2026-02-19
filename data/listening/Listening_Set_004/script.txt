@@ -1,10 +1,19 @@
-Narrator: Listen to a conversation between two students on campus.
-Student 1: Um, Hey—quick question about CRISPR off-target edits and guide RNA design. I'm not totally lost, um, it's just… the little rules. Like, the outer membrane part seems fine, but then the policy mentions plasmid and I kinda panic.
-Student 2: Okay, um, breathe. Are you trying to submit something, book something, or fix something? Because inner membrane matters only if you're going through the portal.
-Student 1: Wait—sorry, you know, I keep doing this—if I miss the deadline, does it reset the whole process or just the verification step?
-Student 2: W-What What— I mean is, It depends on what the office calls a ‘complete’ request. If your documentation is missing, they pause the workflow. If it's late, they bump you to the next review cycle.
-Student 2: Honestly, sort of, do it in one clean batch. You know, Name the files clearly. If the portal throws an error, don't spam refresh—just open a ticket and ask for a manual override.
-Student 1: One more thing: I need an immunization form signed, but the clinic portal is confusing.
-Student 2: Yeah, that's normal. Like, The system sends scary emails even when nothing is wrong.
-Student 1: Okay… I think I can handle it now. If they reject it, um, I'll ask which requirement I missed, not just ‘why.’
-Student 2: Um, Exactly. And if you want, I can skim what you're submitting—it's usually one tiny wording issue.
+Narrator: Listen to part of a lecture in an astronomy class.
+Professor: …and that, everyone, is how a “planet” disappeared.
+Student: Wait—disappeared?
+Professor: Yeah. Two months of beautiful, repeating dips in starlight. People got excited. Then we looked closer and realized we’d been watching the star itself misbehave.
+Student: So it wasn’t a planet transit?
+Professor: Not necessarily. Here’s the trick: a dark starspot rotating into view can dim the star in a pattern that looks transit-like.
+Student: But a planet should be perfectly regular, right?
+Professor: In an ideal world. But even planets can show timing variations. So you can’t just say “regular dip equals planet.” You test alternative explanations.
+Professor: Let me do this backwards. Suppose you have a dip every 3.2 days. If it’s a planet, the dip depth should be roughly consistent and should not depend on the star’s rotation quirks.
+Student: And if it’s a spot?
+Professor: Then the timing can drift because stars don’t rotate like solid balls. Different latitudes rotate at different rates. A spot migrating in latitude changes the apparent period.
+Professor: Also—color. A planet blocks light mostly equally across wavelengths. A cooler spot changes the spectrum slightly.
+Student: So you check for color changes during the dip.
+Professor: Exactly. And you look for out-of-transit modulation—small brightness waves as spots rotate.
+Professor: Now, quick reality check—who thinks a “clean” light curve is always good news?
+(awkward pause)
+Professor: No hands. Good. Because “clean” sometimes means your pipeline smoothed away the clue.
+Student: That’s kind of terrifying.
+Professor: It’s humbling, sure. But it’s also why we use multiple diagnostics. The point isn’t “planets are fake.” The point is: stars are complicated, and our job is to separate their drama from the planet’s shadow.

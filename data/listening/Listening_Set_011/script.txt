@@ -1,10 +1,18 @@
-Narrator: Listen to a conversation between two students on campus.
-Student 1: Uh, Hey—quick question about Spectroscopic redshift and galaxy rotation curves. I'm not totally lost, it's just… the little rules. Like, you know, the redshift part seems fine, but then the policy mentions spectroscopy and I kinda panic.
-Student 2: Okay, breathe. Are you trying to submit something, book something, or fix something? Because signal-to-noise ratio matters only if you're going through the portal.
-Student 1: Wait—sorry, I keep doing this—if I miss the deadline, does it reset the whole process or just the verification step?
-Student 2: I’m glad you asked. Um, It depends on what the office calls a ‘complete’ request. If your documentation is missing, you know, they pause the workflow. If it's late, they bump you to the next review cycle.
-Student 2: Honestly, you know, do it in one clean batch. Name the files clearly. If the portal throws an error, sort of, don't spam refresh—just open a ticket and ask for a manual override.
-Student 1: Oh, uh, also… I got an email about housing verification and it freaked me out. Sort of, Is that normal?
-Student 2: A hold is usually missing paperwork or a payment thing. The portal should say what kind.
-Student 1: Okay… I think I can handle it now. If they reject it, you know, I'll ask which requirement I missed, not just ‘why.’
-Student 2: Exactly. And if you want, I can skim what you're submitting—it's usually one tiny wording issue.
+Narrator: Listen to a conversation between a student and a campus staff member in a dorm hallway.
+Student1: If I pass out, tell people it was the radiator. It’s like a sauna in my room.
+Staff: You look sweaty—okay, what’s happening?
+Student1: The heater is stuck on full blast. I turned the dial to zero and it laughed at me.
+Staff: Did you try opening the window?
+Student1: Yes. Now it’s hot and windy. I’m living in a hair dryer.
+Staff: All right. Sometimes the valve sticks. If you tap it gently—
+Student1: I tapped it. Then I apologized to it. Nothing.
+Staff: (chuckles) Okay. I can put in a maintenance request, but I need your room number and whether it’s making noise or leaking.
+Student1: No leak. Just aggression.
+Staff: Good. Until they come, put a towel over the vent and keep the door cracked so heat doesn’t build up.
+Student1: That feels… illegal.
+Staff: It’s temporary. Also, if it’s truly unbearable tonight, we can move you to an empty guest room for one night. Not forever—just to sleep.
+Student1: Wait, that’s an option?
+Staff: Yes, but it depends on availability. Maintenance usually fixes this fast.
+Student1: Okay. Let’s do the request first. If they don’t show, I’ll beg for the guest room.
+Staff: Deal. And don’t try to dismantle the heater.
+Student1: I make no promises. I’m kidding. Mostly.

@@ -1,11 +1,16 @@
-Narrator: Listen to a conversation between two students on campus.
-Student 1: Hey—quick question about Dendrochronology and cross-dating timber. I'm not totally lost, it's just… the little rules. Like, uh, the dendrochronology part seems fine, but then the policy mentions radiocarbon dating and I kinda panic.
-Student 2: Okay, breathe. Are you trying to submit something, book something, or fix something? Like, Because taphonomy matters only if you're going through the portal.
-Student 1: Wait—sorry, you know, I keep doing this—if I miss the deadline, does it reset the whole process or just the verification step?
-Student 2: What I mean is, It depends on what the office calls a ‘complete’ request. If your documentation is missing, they pause the workflow. If it's late, I guess, they bump you to the next review cycle—No, wait, I meant provenance, not radiocarbon dating.
-Student 2: Quick tangent: a minor lab mishap—like someone labeling tubes backwards—that forced the team to rethink their protocol. Like, That's why I screenshot the confirmation page and save the ticket number—GIS is your friend.
-Student 2: Honestly, do it in one clean batch. Name the files clearly. If the portal throws an error, don't spam refresh—just open a ticket and ask for a manual override.
-Student 1: Wait, random question—has Professor Lee been okay? I guess, They looked… exhausted last class.
-Student 2: For reimbursements, there's always some weird rule. Talk to the student activities office.
-Student 1: I guess, Okay… I think I can handle it now. If they reject it, I'll ask which requirement I missed, not just ‘why.’
-Student 2: Sort of, Exactly. And if you want, uh, I can skim what you're submitting—it's usually one tiny wording issue.
+Narrator: Listen to a conversation between a student and a campus staff member at a dining office window.
+Student1: I’m not trying to be dramatic, but my meal plan is bleeding money.
+Staff: Okay—what happened?
+Student1: I bought the same salad twice this week. One day it was normal. Yesterday it rang up as a “special item” with an extra charge.
+Staff: Do you have the receipts?
+Student1: Yeah. Look—same name, same picture, different price.
+Staff: Huh. The “allergy-safe” label might be triggering a different item code.
+Student1: Allergy-safe? I didn’t ask for anything special. I just… don’t want to die.
+Staff: Right. If your profile has an allergy flag, the system sometimes routes you to a modified preparation line. That can attach a different code.
+Student1: So my peanut allergy is costing me extra?
+Staff: It shouldn’t. That sounds like a configuration error.
+Student1: Can you fix it? Because I’m not paying a tax for having an immune system.
+Staff: (laughs) Fair. Here’s what we do: I’ll check your profile settings. If the flag is tied to the wrong menu item, we correct the mapping and refund the difference for the last charges.
+Student1: Refund would be amazing.
+Staff: Also, for today, I can give you a manual credit so you’re not stuck waiting for the system update.
+Student1: Okay. I came in mad, but that’s… actually helpful.

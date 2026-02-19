@@ -1,12 +1,12 @@
-Narrator: Listen to part of a lecture in a archaeology class.
-Professor: I’m going to begin with a weird question that sounds unrelated. It isn’t. Today we're talking about Radiocarbon calibration curves and reservoir effects. I'll toss around a couple terms—context, uh, calibration curve, GIS—but I'll translate them as we go.
-Student 1: I guess, Sorry—can I ask something? When you say context, is that basically taphonomy, or is it a different mechanism?
-Professor: Quick tangent: context is the process, and taphonomy is usually a proxy or a measurement for it. People mix them up because the plot looks clean, um, but the causality is messy.
-Professor: Quick tangent: a grant requirement that quietly shaped the experiment design. That’s why assemblage and typology matter—those are constraints, kind of, not trivia.
-Professor: Let’s do a mini-demo in our heads. Pretend you’re designing a measurement. If your instrument is sensitive to typology but blind to stratigraphy, you’ll misread the system. So you either redesign the measurement, or you model the bias and quantify uncertainty.
-Professor: This is where controls and replication come in. Like, One control isolates calibration curve; another isolates assemblage. If both fail, um, it’s not ‘bad luck’—it’s telling you the model assumptions are off.
-Professor: So… what’s the catch here?
-Professor: …Okay, that's fine. We'll do it together.
-Student 2: So if we’re choosing between two explanations, what’s the fastest way to falsify one without running a whole new study?
-Professor: Good. Look for an asymmetric prediction. Explanation A implies a change in stratigraphy even if calibration curve stays constant; Explanation B doesn’t. Design a small test around that hinge point.
-Professor: Anyway, to wrap up: Radiocarbon calibration curves and reservoir effects is less about one fact and more about reasoning under constraints. Watch the proxies, watch the instruments, and don’t fall in love with one pretty plot.
+Narrator: Listen to part of a lecture in a marketing class.
+Professor: “This product is green.” Sounds good, right?
+Student: Usually, yeah.
+Professor: Here’s the twist: sometimes labeling a product as “eco-friendly” makes people use more of it.
+Student: How?
+Professor: They feel less guilty. It’s a psychological rebound. “It’s green, so an extra long shower is fine.” Or “it’s biodegradable, so I can buy more.”
+Professor: Let me slow down—this isn’t saying people are bad. It’s saying labels change behavior in ways companies don’t anticipate.
+Student: So the label backfires.
+Professor: Exactly. And if the product is only slightly better, increased use can cancel the benefit.
+Professor: That’s why credible “green” strategies consider the whole system: production, use, disposal, and behavior.
+Student: Then what should companies do?
+Professor: Be specific. “Uses 30% less water to manufacture” is better than a vague halo. And pair claims with design that discourages waste.

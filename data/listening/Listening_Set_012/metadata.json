@@ -1,27 +1,30 @@
 {
   "set": 12,
-  "format": "lecture",
-  "domain": "Astronomy",
-  "subtopic": "Pulsar timing arrays and nanohertz gravitational waves",
-  "mode": "lecture_debate",
-  "technical_terms": [
-    "eccentricity",
-    "Keplerian",
-    "light curve",
-    "orbital period",
-    "parallax",
-    "magnetosphere",
-    "photons",
-    "signal-to-noise ratio",
-    "redshift"
+  "target_duration_sec": 180,
+  "anti_template": "v24",
+  "type": "lecture",
+  "roles": [
+    "Narrator",
+    "Professor",
+    "Student"
   ],
-  "function_phrase": "Don’t get hung up on the numbers—",
-  "main_point": "The professor explains Pulsar timing arrays and nanohertz gravitational waves and how to interpret evidence when measurements can be misleading.",
-  "detail1": "The professor distinguishes eccentricity (a process) from orbital period (a proxy/measurement).",
-  "detail2": "He suggests testing an asymmetric prediction involving signal-to-noise ratio and Keplerian.",
-  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
-  "organization_point": "He adds a tangent about a funding detail to show real-world constraints.",
-  "connecting_point": "The example about controlling for magnetosphere shows how bias can flip an apparent pattern.",
-  "has_awkward_silence": true,
-  "has_self_correction": true
+  "domain": "Psychology",
+  "lecture_title": "Why eyewitnesses disagree",
+  "terms": [
+    "reconstruction",
+    "cues",
+    "stress"
+  ],
+  "structure_signature": [
+    "start_mid_argument",
+    "plan_steps",
+    "comparison",
+    "clarify",
+    "wrap_open_ended",
+    "mini_story",
+    "pivot_topic",
+    "reframe",
+    "self_correction",
+    "observation"
+  ]
 }

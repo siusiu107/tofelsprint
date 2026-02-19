@@ -1,27 +1,29 @@
 {
   "set": 14,
-  "format": "conversation",
-  "domain": "Astronomy",
-  "subtopic": "Solar flares, coronal mass ejections, and space weather",
-  "mode": "conversation_problem",
-  "technical_terms": [
-    "orbital period",
-    "eccentricity",
-    "parallax",
-    "signal-to-noise ratio",
-    "photons",
-    "spectroscopy",
-    "redshift",
-    "Keplerian",
-    "magnetosphere"
+  "target_duration_sec": 180,
+  "anti_template": "v24",
+  "type": "lecture",
+  "roles": [
+    "Narrator",
+    "Professor",
+    "Student"
   ],
-  "function_phrase": "Quick tangent:",
-  "main_point": "Student 1 asks for help with a campus process related to Solar flares, coronal mass ejections, and space weather.",
-  "detail1": "Student 2 explains that missing documentation is treated differently from submitting late.",
-  "detail2": "Student 2 suggests saving a confirmation page and ticket number.",
-  "attitude": "Supportive, slightly casual; Student 2 gives practical advice.",
-  "organization_point": "Student 2 uses a tangent about a historical aside to justify keeping proof of submission.",
-  "connecting_point": "The step-by-step plan shows how to avoid the portal splitting a request into multiple submissions.",
-  "has_purpose_shift": false,
-  "has_self_correction": true
+  "domain": "Oceanography",
+  "lecture_title": "What triggers sudden fish migrations",
+  "terms": [
+    "temperature layers",
+    "currents",
+    "plankton"
+  ],
+  "structure_signature": [
+    "start_question",
+    "clarify",
+    "awkward_pause",
+    "self_correction",
+    "reframe",
+    "wrap_open_ended",
+    "comparison",
+    "clarify",
+    "observation"
+  ]
 }

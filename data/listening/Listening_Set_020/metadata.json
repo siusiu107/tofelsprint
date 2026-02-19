@@ -1,27 +1,30 @@
 {
   "set": 20,
-  "format": "conversation",
-  "domain": "Archaeology",
-  "subtopic": "Lithic typology and reduction sequences",
-  "mode": "conversation_problem",
-  "technical_terms": [
-    "dendrochronology",
-    "stratigraphy",
-    "calibration curve",
-    "typology",
-    "taphonomy",
-    "context",
-    "assemblage",
-    "radiocarbon dating",
-    "GIS"
+  "target_duration_sec": 180,
+  "anti_template": "v24",
+  "type": "lecture",
+  "roles": [
+    "Narrator",
+    "Professor",
+    "Student"
   ],
-  "function_phrase": "To put it bluntly,",
-  "main_point": "Student 1 asks about Lithic typology and reduction sequences but then shifts to professor wellbeing.",
-  "detail1": "Student 2 explains that missing documentation is treated differently from submitting late.",
-  "detail2": "The conversation includes a sudden topic shift after the initial problem is mostly addressed.",
-  "attitude": "Supportive, slightly casual; Student 2 gives practical advice.",
-  "organization_point": "Student 2 uses a tangent about a tools tangent to justify keeping proof of submission.",
-  "connecting_point": "The step-by-step plan shows how to avoid the portal splitting a request into multiple submissions.",
-  "has_purpose_shift": true,
-  "has_self_correction": true
+  "domain": "Linguistics",
+  "lecture_title": "How meaning changes with context",
+  "terms": [
+    "implicature",
+    "tone",
+    "shared knowledge"
+  ],
+  "structure_signature": [
+    "start_hesitation",
+    "comparison",
+    "self_correction",
+    "reframe",
+    "evidence_check",
+    "awkward_pause",
+    "negotiation",
+    "plan_steps",
+    "clarify",
+    "mini_story"
+  ]
 }

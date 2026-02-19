@@ -1,9 +1,15 @@
-Narrator: Listen to a conversation between two students on campus.
-Student 1: Hey—quick question about RNA editing and transcriptome diversity. I'm not totally lost, uh, it's just… the little rules. Like, the phenotype part seems fine, but then the policy mentions metabolite and I kinda panic.
-Student 2: Okay, breathe. Are you trying to submit something, um, book something, or fix something? Because methylation matters only if you're going through the portal.
-Student 1: Wait—sorry, sort of, I keep doing this—if I miss the deadline, does it reset the whole process or just the verification step?
-Student 2: N-Not Not— quite. It depends on what the office calls a ‘complete’ request. If your documentation is missing, they pause the workflow. If it's late, they bump you to the next review cycle.
-Student 2: Um, Quick tangent: a conference hallway conversation that changed how researchers framed the problem. That's why I screenshot the confirmation page and save the ticket number—outer membrane is your friend.
-Student 2: Honestly, like, do it in one clean batch. Name the files clearly. If the portal throws an error, don't spam refresh—just open a ticket and ask for a manual override.
-Student 1: Okay… I think I can handle it now. If they reject it, I'll ask which requirement I missed, not just ‘why.’
-Student 2: Exactly. And if you want, I guess, I can skim what you're submitting—it's usually one tiny wording issue.
+Narrator: Listen to part of a lecture in a statistics class.
+Professor: I’m going to show you two numbers, and I want you to tell me a story. Department A: satisfaction 78%. Department B: satisfaction 71%. Which department is “better”?
+Student: A?
+Professor: That’s the obvious answer. Now—what if I tell you that within every year level—freshmen, sophomores, juniors—Department B scores higher?
+Student: Wait, how can B be higher in every group but lower overall?
+Professor: Exactly. That’s why averages can lie.
+Professor: Here’s what happened: Department A has mostly seniors in the survey, and seniors are happier no matter where they are because they’re closer to graduating. Department B has lots of freshmen, and freshmen are stressed everywhere.
+Student: So the composition changes the overall average.
+Professor: Yes. You’re mixing apples and oranges and then blaming the fruit.
+Professor: Let me pause—did I say “Department A is better”? No. I meant “the overall average makes it look better.”
+Student: So what should we report?
+Professor: You report stratified results. Or you adjust. Or, at minimum, you add a sentence that the sample is uneven.
+Professor: One more twist: sometimes administrators love a single headline number. Our job is to resist the temptation.
+Student: That seems… political.
+Professor: It can be. But it’s also just good reasoning. If you ignore the groups, you may “fix” the wrong problem.

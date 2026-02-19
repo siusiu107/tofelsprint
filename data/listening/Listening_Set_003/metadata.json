@@ -1,27 +1,24 @@
 {
   "set": 3,
-  "format": "lecture",
-  "domain": "Biology",
-  "subtopic": "Quorum sensing and biofilm architecture",
-  "mode": "lecture_demo",
-  "technical_terms": [
-    "transcription factor",
-    "metabolite",
-    "phenotype",
-    "allele frequency",
-    "methylation",
-    "inner membrane",
-    "outer membrane",
-    "epigenome",
-    "plasmid"
+  "target_duration_sec": 180,
+  "anti_template": "v24",
+  "type": "conversation",
+  "roles": [
+    "Narrator",
+    "Student1",
+    "Staff"
   ],
-  "function_phrase": "Long story short,",
-  "main_point": "The professor explains Quorum sensing and biofilm architecture and how to interpret evidence when measurements can be misleading.",
-  "detail1": "The professor distinguishes transcription factor (a process) from allele frequency (a proxy/measurement).",
-  "detail2": "He suggests testing an asymmetric prediction involving epigenome and metabolite.",
-  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
-  "organization_point": "He adds a tangent about a tools tangent to show real-world constraints.",
-  "connecting_point": "The example about controlling for inner membrane shows how bias can flip an apparent pattern.",
-  "has_awkward_silence": false,
-  "has_self_correction": true
+  "topic_category": "assignment_grading",
+  "scenario_title": "Group report chaos: late penalty confusion (case 3)",
+  "place": "advising lobby",
+  "structure_signature": [
+    "start_question",
+    "negotiation",
+    "reframe",
+    "clarify",
+    "plan_steps",
+    "comparison",
+    "awkward_pause",
+    "pivot_topic"
+  ]
 }

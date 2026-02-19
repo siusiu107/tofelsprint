@@ -1,27 +1,29 @@
 {
   "set": 16,
-  "format": "lecture",
-  "domain": "Astronomy",
-  "subtopic": "CMB anisotropies and acoustic peaks",
-  "mode": "lecture_case",
-  "technical_terms": [
-    "redshift",
-    "Keplerian",
-    "parallax",
-    "spectroscopy",
-    "photons",
-    "eccentricity",
-    "light curve",
-    "magnetosphere",
-    "orbital period"
+  "target_duration_sec": 180,
+  "anti_template": "v24",
+  "type": "lecture",
+  "roles": [
+    "Narrator",
+    "Professor",
+    "Student"
   ],
-  "function_phrase": "So, the key takeaway is this:",
-  "main_point": "The professor explains CMB anisotropies and acoustic peaks and how to interpret evidence when measurements can be misleading.",
-  "detail1": "The professor distinguishes redshift (a process) from spectroscopy (a proxy/measurement).",
-  "detail2": "He suggests testing an asymmetric prediction involving magnetosphere and Keplerian.",
-  "attitude": "Casual but analytical; he warns against over-trusting a neat correlation.",
-  "organization_point": "He adds a tangent about a funding detail to show real-world constraints.",
-  "connecting_point": "The example about controlling for eccentricity shows how bias can flip an apparent pattern.",
-  "has_awkward_silence": false,
-  "has_self_correction": true
+  "domain": "Materials Science",
+  "lecture_title": "Metal fatigue in everyday objects",
+  "terms": [
+    "microcracks",
+    "cycles",
+    "failure"
+  ],
+  "structure_signature": [
+    "start_hesitation",
+    "comparison",
+    "evidence_check",
+    "self_correction",
+    "awkward_pause",
+    "reframe",
+    "plan_steps",
+    "reframe",
+    "clarify"
+  ]
 }

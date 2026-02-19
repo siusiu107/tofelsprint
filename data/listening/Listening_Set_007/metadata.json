@@ -1,27 +1,22 @@
 {
   "set": 7,
-  "format": "conversation",
-  "domain": "Biology",
-  "subtopic": "Allosteric regulation in enzyme kinetics",
-  "mode": "conversation_problem",
-  "technical_terms": [
-    "inner membrane",
-    "phenotype",
-    "allele frequency",
-    "homeostasis",
-    "acetylation",
-    "operon",
-    "metabolite",
-    "methylation",
-    "plasmid"
+  "target_duration_sec": 180,
+  "anti_template": "v24",
+  "type": "conversation",
+  "roles": [
+    "Narrator",
+    "Student1",
+    "Staff"
   ],
-  "function_phrase": "Don’t get hung up on the numbers—",
-  "main_point": "Student 1 asks about Allosteric regulation in enzyme kinetics but then shifts to club budget.",
-  "detail1": "Student 2 explains that missing documentation is treated differently from submitting late.",
-  "detail2": "The conversation includes a sudden topic shift after the initial problem is mostly addressed.",
-  "attitude": "Supportive, slightly casual; Student 2 gives practical advice.",
-  "organization_point": "Student 2 uses a tangent about a funding detail to justify keeping proof of submission.",
-  "connecting_point": "The step-by-step plan shows how to avoid the portal splitting a request into multiple submissions.",
-  "has_purpose_shift": true,
-  "has_self_correction": true
+  "topic_category": "lost_found",
+  "scenario_title": "Lost keys with a weird keychain: bag tag ripped (case 3)",
+  "place": "music building corridor",
+  "structure_signature": [
+    "start_hesitation",
+    "awkward_pause",
+    "comparison",
+    "deadline_pressure",
+    "reverse_decision",
+    "pivot_topic"
+  ]
 }

@@ -1,10 +1,28 @@
-Narrator: Listen to a conversation between two students on campus.
-Student 1: Hey—quick question about Epigenetic silencing and histone acetylation. I'm not totally lost, it's just… the little rules. Like, the homeostasis part seems fine, but then the policy mentions inner membrane and I kinda panic.
-Student 2: Okay, breathe. Are you trying to submit something, book something, or fix something? Because allele frequency matters only if you're going through the portal.
-Student 1: Wait—sorry, I keep doing this—if I miss the deadline, does it reset the whole process or just the verification step?
-Student 2: Not quite. It depends on what the office calls a ‘complete’ request. If your documentation is missing, kind of, they pause the workflow. If it's late, um, they bump you to the next review cycle—No, wait, I meant acetylation, not inner membrane.
-Student 2: Honestly, do it in one clean batch. Name the files clearly. If the portal throws an error, uh, don't spam refresh—just open a ticket and ask for a manual override.
-Student 1: Oh, also… I got an email about housing verification and it freaked me out. Is that normal?
-Student 2: I think it's appointment-only, but the front desk sometimes lets you squeeze in.
-Student 1: Okay… I think I can handle it now. If they reject it, kind of, I'll ask which requirement I missed, not just ‘why.’
-Student 2: Exactly. And if you want, you know, I can skim what you're submitting—it's usually one tiny wording issue.
+Narrator: Listen to a conversation between a student and a campus staff member at the Registrar Office.
+Student1: No—no, that’s not my name. That’s… that’s not even spelled like a typo. It’s a different person.
+Staff: Okay, take a breath. Show me what you’re looking at.
+Student1: Right here. “Name on Record.” It flipped after I submitted the change request. I swear it was correct yesterday.
+Staff: Did you submit a request, or did you save a draft?
+Student1: I—wait. There was a “Save” button and a “Submit” button. I clicked… I clicked the one that made the page stop yelling at me.
+Staff: Mm-hmm. That sounds like Save.
+Student1: Ugh. That would explain why I got no confirmation email. I thought the system was just… being itself.
+Staff: Not glamorous, but likely. Let’s check your student profile history.
+Student1: Please. Because if my transcript prints with “Case Two Mystery Person,” I will evaporate.
+Staff: (typing) Okay, I’m seeing a draft change request started… and not finalized.
+Student1: So it didn’t actually go through.
+Staff: Correct. And the “different person” thing? Sometimes the portal displays a cached record when it times out.
+Student1: So I’m panicking over… a ghost screen?
+Staff: Possibly. But we won’t guess. We’ll pull your official record from our system.
+Student1: Thank you. I need a reality check.
+Staff: Official record shows your legal name is unchanged. Good news.
+Student1: Oh my gosh—okay. Wait, then why does the portal show the wrong one?
+Staff: Because the request was started under the wrong category. See this? “Preferred Name for Email Alias,” not “Transcript Name.”
+Student1: Of course. I clicked the wrong one. I was on my phone and the menu was tiny.
+Staff: Happens. Here’s what we’ll do: I’ll re-route your draft to the correct queue, and you’ll submit the correct form from a laptop. Then you’ll get a confirmation number.
+Student1: So my next step is: laptop, correct category, submit, save the confirmation.
+Staff: Exactly. And if the portal keeps showing the wrong display name, you can clear cache or log in from a different browser.
+Student1: Cool. Love that my identity depends on browser cookies.
+Staff: (laughs) One more thing—do you need this fixed for a deadline?
+Student1: Yes. Scholarship application pulls my transcript in two days.
+Staff: Then don’t wait. Submit today, and email us the confirmation number. We can flag it so printing uses the official record.
+Student1: Okay. I’m… still stressed, but now it’s organized stress.
