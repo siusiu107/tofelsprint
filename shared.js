@@ -509,16 +509,18 @@ try{
   }
 
 /* Listening: Cloudflare Pages 환경에서도 동작하도록 (디렉토리 리스팅 없이) */
-const LISTEN_CACHE_KEY = 'toefl_listening_index_v3';
-const LISTEN_ROOT_KEY = 'toefl_listening_root_v2';
+const LISTEN_CACHE_KEY = 'toefl_listening_index_v4';
+const LISTEN_ROOT_KEY = 'toefl_listening_root_v3';
 
 async function detectListeningRoot(){
   const cached = sessionStorage.getItem(LISTEN_ROOT_KEY);
   if(cached) return cached;
 
   const candidates = [
-    'data/listening',
+        'data/listening',
     // common wrapper dirs from your zip
+    'data/listening/TOEFL_Listening_Rewrite_Structures_001-020',
+    'data/listening/TOEFL_Listening_Rewrite_Structures_001-020/TOEFL_Listening_Rewrite_Structures_001-020',
     'data/listening/TOEFL_Listening_Pack_v6_6_QOnly_NoChoices',
     'data/listening/TOEFL_Listening_Pack_v6_6_QOnly_NoChoices/TOEFL_Listening_Pack_v6_6_QOnly_NoChoices'
   ];
@@ -633,11 +635,11 @@ async function detectListeningRoot(){
             set: t.set,
             folder: t.folder,
             path: t.path,
-            format: meta?.format || 'unknown',
-            category: meta?.category || '',
-            main_topic: meta?.main_topic || meta?.scenario || '',
-            scenario: meta?.scenario || '',
-            v: meta?.v || ''
+            format: (meta?.format || meta?.type || 'unknown'),
+            category: (meta?.category || meta?.topic_category || ''),
+            main_topic: (meta?.main_topic || meta?.scenario || meta?.scenario_title || ''),
+            scenario: (meta?.scenario || meta?.place || ''),
+            v: (meta?.v || meta?.anti_template || '')
           };
         }catch(e){
           out[i] = { set: t.set, folder: t.folder, path: t.path, format:'unknown', category:'', main_topic:'', scenario:'', v:'' };
@@ -698,10 +700,10 @@ async function detectListeningRoot(){
     };
 
     for(const line of lines){
-      const qm = line.match(/^Q(\d+)\.\s*\(([^\)]+)\)\s*(.*)$/);
+      const qm = line.match(/^Q(\d+)\.\s*(?:\(([^\)]+)\)\s*)?(.*)$/);
       if(qm){
         flushQ();
-        cur = { num:Number(qm[1]), type: qm[2].trim(), prompt: (qm[3]||'').trim(), choices: [], correct:null, explain:'' };
+        cur = { num:Number(qm[1]), type: (qm[2] ? qm[2].trim() : 'MC'), prompt: (qm[3]||'').trim(), choices: [], correct:null, explain:'' };
         continue;
       }
       if(!cur) continue;
