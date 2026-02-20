@@ -1016,7 +1016,7 @@ function renderHome(){
         if(selected === ch.letter) el.classList.add('selected');
         el.innerHTML = `<div class="letter">${ch.letter}</div><div>${escape(ch.text)}</div>`;
         el.onclick = ()=>{
-          if(!waitingAnswer) return; // only after question audio ends
+          if(!waitingAnswer) return; // main audio/ready 상태에서는 선택 불가
           if(graded) return;
           selected = ch.letter;
           $$('.choice', wrap).forEach(c=>c.classList.remove('selected'));
@@ -1036,7 +1036,7 @@ function renderHome(){
       wrap.appendChild(actions);
 
       $('#btnCheck').onclick = ()=>{
-        if(!waitingAnswer){ toast('질문 오디오가 끝난 뒤에 풀 수 있어'); return; }
+        if(phase === 'qAudio'){ toast('오디오가 끝나면 채점할 수 있어'); return; }
         if(!selected){ toast('선택지 하나 골라줘'); return; }
         graded = true;
         saveAnswer('listening', setKey, q.num, {selected, graded:true});
@@ -1094,8 +1094,9 @@ function renderHome(){
       phase = 'qAudio';
       const qnum = questions[qIndex].num;
       $('#phaseLabel').textContent = `Question ${qnum} audio...`;
-      waitingAnswer = false;
-      renderPlaceholder('Question audio 재생 중…');
+      // 연습모드: 질문 오디오 재생 중에도 답 선택 가능
+      waitingAnswer = true;
+      renderQ();
       // question audio
       const url = `${entry.path}/questions_q${String(qnum).padStart(2,'0')}.mp3`;
       play(url);
